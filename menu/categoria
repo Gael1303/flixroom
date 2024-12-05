@@ -10,15 +10,15 @@
       },
       {
         "name": "Mais Populares",
-        "url": "https://example.com/popular_movies"
+        "url": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/menu/movies/popular"
       },
       {
         "name": "Melhor Classificação",
-        "url": "https://example.com/popular_movies"
+        "url": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/menu/movies/notas"
       },
       {
         "name": "Aleatorios",
-        "url": "https://example.com/popular_movies"
+        "url": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/menu/movies/random"
       }
     ]
   },
