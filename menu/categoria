@@ -6,19 +6,23 @@
     "submenu": [
       {
         "name": "Lançamentos",
-        "url": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/menu/novos"
+        "url": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/menu/novos",
+        "order": "year"
       },
       {
         "name": "Mais Populares",
-        "url": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/menu/movies/popular"
+        "url": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/menu/movies/popular",
+        "order": "rating"
       },
       {
         "name": "Melhor Classificação",
-        "url": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/menu/movies/notas"
+        "url": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/menu/movies/notas",
+        "order": "rating"
       },
       {
         "name": "Aleatorios",
-        "url": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/menu/movies/random"
+        "url": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/menu/movies/random",
+        "order": "default"
       }
     ]
   },
