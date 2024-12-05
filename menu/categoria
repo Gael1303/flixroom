@@ -15,6 +15,10 @@
       {
         "name": "Melhor Classificação",
         "url": "https://example.com/popular_movies"
+      },
+      {
+        "name": "Aleatorios",
+        "url": "https://example.com/popular_movies"
       }
     ]
   },
@@ -24,11 +28,15 @@
     "fanart": "https://example.com/fanart_genres.jpg",
     "submenu": [
       {
-        "name": "Ação",
+        "name": "Mais Populares",
         "url": "https://example.com/action_series"
       },
       {
-        "name": "Comédia",
+        "name": "Top 250",
+        "url": "https://example.com/comedy_series"
+      },
+      {
+        "name": "Por Streaming",
         "url": "https://example.com/comedy_series"
       }
     ]
