@@ -5,6 +5,11 @@
     "fanart": "https://example.com/fanart_launches.jpg",
     "submenu": [
       {
+        "name": "[COLOR blue]Buscar Filmes[/COLOR]",
+        "url": "",
+        "order": "none"
+      },
+      {
         "name": "Lançamentos",
         "url": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/menu/novos",
         "order": "year"
