@@ -10,6 +10,11 @@
         "order": "year"
       },
       {
+        "name": "Nos Cinemas",
+        "url": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/menu/movies/cinema",
+        "order": "none"
+      },
+      {
         "name": "Mais Populares",
         "url": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/menu/movies/popular",
         "order": "year"
@@ -23,6 +28,16 @@
         "name": "Aleatorios",
         "url": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/menu/movies/random",
         "order": "random"
+      },
+      {
+        "name": "4K Ultra HD",
+        "url": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/menu/movies/4k",
+        "order": "none"
+      },
+      {
+        "name": "Generos",
+        "url": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/menu/movies/genres",
+        "order": "none"
       }
     ]
   },
@@ -33,20 +48,23 @@
     "submenu": [
       {
         "name": "Mais Populares",
-        "url": "https://example.com/action_series"
+        "url": "https://example.com/action_series",
+        "order": "year"
       },
       {
         "name": "Top 250",
-        "url": "https://example.com/comedy_series"
+        "url": "https://example.com/comedy_series",
+        "order": "rating"
       },
       {
         "name": "Por Streaming",
-        "url": "https://example.com/comedy_series"
+        "url": "https://example.com/comedy_series",
+        "order": "none"
       }
     ]
   },
   {
-    "name": "[COLOR yello]Configurações[/COLOR]",
+    "name": "[COLOR yellow]Configurações[/COLOR]",
     "icon": "https://example.com/icon_config.png",
     "fanart": "https://example.com/fanart_config.jpg",
     "submenu": []
