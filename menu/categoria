@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Filmes",
+    "icon": "https://example.com/icon_launches.png",
+    "fanart": "https://example.com/fanart_launches.jpg",
+    "submenu": [
+      {
+        "name": "Lançamentos",
+        "url": "https://raw.githubusercontent.com/Gael1303/cn/refs/heads/main/filmes"
+      },
+      {
+        "name": "Mais Populares",
+        "url": "https://example.com/popular_movies"
+      },
+      {
+        "name": "Melhor Classificação",
+        "url": "https://example.com/popular_movies"
+      }
+    ]
+  },
+  {
+    "name": "Séries",
+    "icon": "https://example.com/icon_genres.png",
+    "fanart": "https://example.com/fanart_genres.jpg",
+    "submenu": [
+      {
+        "name": "Ação",
+        "url": "https://example.com/action_series"
+      },
+      {
+        "name": "Comédia",
+        "url": "https://example.com/comedy_series"
+      }
+    ]
+  },
+  {
+    "name": "[COLOR yello]Configurações[/COLOR]",
+    "icon": "https://example.com/icon_config.png",
+    "fanart": "https://example.com/fanart_config.jpg",
+    "submenu": []
+  }
+]
