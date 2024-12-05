@@ -6,7 +6,7 @@
     "submenu": [
       {
         "name": "[COLOR blue]Buscar Filmes[/COLOR]",
-        "url": "",
+        "url": "plugin://plugin.video.example/?action=search",",
         "order": "none"
       },
       {
