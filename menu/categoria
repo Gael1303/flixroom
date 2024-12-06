@@ -22,7 +22,7 @@
       {
         "name": "Mais Populares",
         "url": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/menu/movies/popular",
-        "order": "year"
+        "order": "none"
       },
       {
         "name": "Melhor Classificação",
