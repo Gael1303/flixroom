@@ -1,5 +1,6 @@
 {
   "collections":[
+
     {
         "collection_id": "726871",
         "collection_title": "Duna: Coleção",
@@ -65,6 +66,800 @@
                 "aired": "2023-05-31",
                 "ano": "2023",
                 "plot": "Miles Morales retorna para o próximo capítulo da saga do Aranhaverso, uma aventura épica que transportará o Homem-Aranha em tempo integral e amigável do bairro do Brooklyn através do Multiverso para unir forças com Gwen Stacy e uma nova equipe de Homens-Aranha para enfrentar com um vilão mais poderoso do que qualquer coisa que eles já encontraram."
+            }
+        ]
+    },
+    {
+        "collection_id": "404609",
+        "collection_title": "John Wick: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/in90v96IujittwbuZik9ubpLqFx.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/fSwYa5q2xRkBoOOjueLpkLf3N1m.jpg",
+        "rate": 7.484500000000001,
+        "aired": "",
+        "ano": "2023",
+        "plot": "Uma série de filmes de ação e suspense neo-noir sobre um ex-assassino, Jonathan 'John' Wick, que sai da aposentadoria buscando vingança pelo roubo de seu carro antigo e pela morte de seu cachorrinho.",
+        "movies": [
+            {
+                "titulo": "John Wick - De Volta ao Jogo",
+                "tmdb_id": "245891",
+                "url": "magnet=29dec5ec6302c8521a394a193bfdc3f68d2d8459",
+                "poster": "https://image.tmdb.org/t/p/w500/4A9KmccvMqJA8MQzIes0G9Uobh5.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/eD7FnB7LLrBV5ewjdGLYTAoV9Mv.jpg",
+                "rate": 7.441,
+                "aired": "2014-10-22",
+                "ano": "2014",
+                "plot": "John Wick é um lendário assassino de aluguel aposentado, lidando com o luto após perder o grande amor de sua vida. Quando um gângster invade sua casa, mata seu cachorro e rouba seu carro, ele é forçado a voltar à ativa e inicia sua vingança."
+            },
+            {
+                "titulo": "John Wick: Um Novo Dia para Matar",
+                "tmdb_id": "324552",
+                "url": "magnet=9b0501ccf9162ef8095d6da69133e63028924641",
+                "poster": "https://image.tmdb.org/t/p/w500/k36UzsRQaY6E055cdYPdYbyREer.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/r17jFHAemzcWPPtoO0UxjIX0xas.jpg",
+                "rate": 7.332,
+                "aired": "2017-02-08",
+                "ano": "2017",
+                "plot": "O lendário John Wick é forçado a deixar a aposentadoria em função de um criminoso que conspira para tomar o controle de um clã de assassinos internacionais. Por causa de um pacto de sangue, John Wick viaja para Roma, com o objetivo de ajudar um velho amigo a derrubar a organização internacional secreta, perigosa e mortal de assassinos procurados em todo o mundo."
+            },
+            {
+                "titulo": "John Wick 3: Parabellum",
+                "tmdb_id": "458156",
+                "url": "magnet=f564d1711f5817589a5c7e8ced467f65b9a1d93f",
+                "poster": "https://image.tmdb.org/t/p/w500/bE6XutmB6tcvzTHBx4JGJLlzouM.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/vVpEOvdxVBP2aV166j5Xlvb5Cdc.jpg",
+                "rate": 7.443,
+                "aired": "2019-05-15",
+                "ano": "2019",
+                "plot": "Após assassinar o chefe da máfia Santino D'Antonio no Hotel Continental, John Wick passa a ser perseguido pelos membros da Alta Cúpula sob a recompensa de U$14 milhões. Agora, ele precisa unir forças com antigos parceiros que o ajudaram no passado enquanto luta por sua sobrevivência."
+            },
+            {
+                "titulo": "John Wick 4: Baba Yaga",
+                "tmdb_id": "603692",
+                "url": "magnet=655e12bc64229f2345be2258a8080142ba460d68",
+                "poster": "https://image.tmdb.org/t/p/w500/dHQEM7aqsvBQnPmjdyTgb5fUG5q.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
+                "rate": 7.722,
+                "aired": "2023-03-22",
+                "ano": "2023",
+                "plot": "Com o preço por sua cabeça cada vez maior, John Wick leva sua luta contra a alta mesa global enquanto procura os jogadores mais poderosos do submundo, de Nova York a Paris, de Osaka a Berlim."
+            }
+        ]
+    },
+    {
+        "collection_id": "1241",
+        "collection_title": "Harry Potter: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/5m8RGRYDhnR6TQANkePx9lrv8fG.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/xN6SBJVG8jqqKQrgxthn3J2m49S.jpg",
+        "rate": 7.833375000000001,
+        "aired": "",
+        "ano": "2011",
+        "plot": "Assista o fenômeno cinematográfico de uma vida em toda sua brilhante e alta definição. Redescubra o mundo de Harry Potter através de 7 filmes e de um processo de produção que durou uma década inteira.",
+        "movies": [
+            {
+                "titulo": "Harry Potter e a Pedra Filosofal",
+                "tmdb_id": "671",
+                "url": "magnet=35e3e1b9172d374e7a63a0f2efdc9002a4a090c9",
+                "poster": "https://image.tmdb.org/t/p/w500/4rtsbE9aQ1qw4gv7yYwaNYfWFoS.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
+                "rate": 7.906,
+                "aired": "2001-11-16",
+                "ano": "2001",
+                "plot": "Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursley. Em seu aniversário de 11 anos ele recebe uma carta que mudará sua vida: um convite para ingressar em Hogwarts."
+            },
+            {
+                "titulo": "Harry Potter e a Câmara Secreta",
+                "tmdb_id": "672",
+                "url": "magnet=ba794413620f255a6848e0d4c160cde11f61a66c",
+                "poster": "https://image.tmdb.org/t/p/w500/27DNJjNTLpKDsuhqjSjklyPnos4.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/yHzyPJrVqlTySQ9mc379yxrLBYQ.jpg",
+                "rate": 7.7,
+                "aired": "2002-11-13",
+                "ano": "2002",
+                "plot": "Carros voadores, árvores que lutam e um misterioso elfo, com um aviso ainda mais misterioso. Harry Potter está pronto para dar início ao segundo ano de sua maravilhosa jornada no mundo da bruxaria. Em Hogwarts nesse ano, aranhas falam, cartas dão broncas e a habilidade de Harry para falar com cobras voltará contra ele. De clubes de duelo a jogadores de quadribol desonestos, esse será um ano de aventura e perigo para todos. Quando a mensagem sangrenta na parede anuncia que a Câmara Secreta foi aberta, Harry, Rony e Hermione percebem que para salvar Hogwarts será preciso muita mágica e coragem. Confira essa enfeitiçante adaptação do segundo livro da obra da escritora J.K. Rowling e prepare-se para ficar petrificado quando Harry Potter demonstrar que, mais que um bruxo, é um verdadeiro herói."
+            },
+            {
+                "titulo": "Harry Potter e o Prisioneiro de Azkaban",
+                "tmdb_id": "673",
+                "url": "magnet=9a82abdd7f9305db077205845147af9bfcd7f3c2",
+                "poster": "https://image.tmdb.org/t/p/w500/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/htmYEfH7TQgzsXHCnNXxmoYKQtL.jpg",
+                "rate": 8.015,
+                "aired": "2004-05-31",
+                "ano": "2004",
+                "plot": "Quando a desprezível Tia Guida voa pelo céu na noite, Harry parte para o que será seu terceiro ano em Hogwarts. Um passeio no Nôitibus o leva para o Beco Diagonal onde ele fica sabendo que um prisioneiro foragido, Sirius Black está atrás dele. Em Hogwarts, Harry e seus amigos aprendem a delicada arte de se aproximar de um Hipogrifo, como transformar monstros em risadas e até mesmo a voltar no tempo. Dementadores sugadores de almas pairam sobre Hogwarts, ameaçando Harry, enquanto um seguidor de Aquele-Que-Não-Se-Deve-Nomear espreita pela escola. E Harry será forçado a confrontar todos eles. Dirigido por Alfonso Cuarón e baseado no terceiro livro de J.K. Rowling, essa maravilhosa história traz risadas, suspense e surpresas de tirar o fôlego, a especialidade dos filmes de Harry Potter. Prepare-se!"
+            },
+            {
+                "titulo": "Harry Potter e o Cálice de Fogo",
+                "tmdb_id": "674",
+                "url": "magnet=ecfc8bcc9db3842414670d22e8295da6c1de734d",
+                "poster": "https://image.tmdb.org/t/p/w500/3HcD2im4RrOgbITLmqyebE1aTeO.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/5rrGVmRUuCKVbqUu41XIWTXJmNA.jpg",
+                "rate": 7.8,
+                "aired": "2005-11-16",
+                "ano": "2005",
+                "plot": "Quando o nome de Harry Potter emerge do Cálice de Fogo, ele se transforma em um competidor em uma extenuante batalha de magia entre três escolas de feiticeiros – o Torneio Tribruxo. Mas se Harry não se inscreveu para o tal torneio, quem o fez? Agora, Harry precisa confrontar um mortal dragão, ferozes demônios da água e um labirinto encantado aonde se deparará com Aquele-Que-Não-Deve-Ser-Nomeado. Nesta quarta adaptação da série Harry Potter, criada por J.K. Rowling, tudo está modificado, a começar pelo próprio Harry e seus inseparáveis amigos, Ron e Hermione, que deixam a infância para sempre e partem para desafios maiores do que tudo aquilo que um dia eles já imaginaram."
+            },
+            {
+                "titulo": "Harry Potter e a Ordem da Fênix",
+                "tmdb_id": "675",
+                "url": "magnet=fd3d6f1825a2df0ea7ee3f47e49dcd4c4c270e85",
+                "poster": "https://image.tmdb.org/t/p/w500/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/82a7AGF081PzFfoM8GAVGMvZNYK.jpg",
+                "rate": 7.7,
+                "aired": "2007-07-08",
+                "ano": "2007",
+                "plot": "A rebelião começa! Lord Voldemort está de volta, mas o Ministério da Magia está fazendo tudo a seu alcance para impedir que a comunidade mundial de bruxos descubra isso – incluindo indicar a oficial do Ministério, Dolores Umbridge, como a nova professora de Defesa Contra as Artes das Trevas de Hogwarts. Quando Umbridge se recusa a ensinar a prática de mágica defensiva, Rony e Hermione convencem Harry a secretamente treinar um grupo de estudantes para a guerra de magia que está prestes a estourar. Um terrível combate entre o bem e o mal será o incrível ápice desta versão para o quinto filme da série Harry Potter, mais uma vez baseado na obra de J.K. Rowling. Se prepare para a batalha!"
+            },
+            {
+                "titulo": "Harry Potter e o Enigma do Príncipe",
+                "tmdb_id": "767",
+                "url": "magnet=ce90fa26268ee182297d57ad89a363311c5b9390",
+                "poster": "https://image.tmdb.org/t/p/w500/rssGxuqkB2TAX9g2VsbBiUZIVzm.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/urDWNffjwmNi5IQaezw9GwqkUXa.jpg",
+                "rate": 7.7,
+                "aired": "2009-07-15",
+                "ano": "2009",
+                "plot": "À medida que Lorde Voldemort aperta seu cerco ao mundo dos Trouxas e dos feiticeiros. Hogwarts deixou de ser um paraiso protegido. Harry suspeita que existam perigos até mesmo dentro do castelo, mas Dumbledore está mais preocupado para a batalha final que está próximo de se iniciar. Juntos, eles se esforçam para descobrir a chave que desbloqueia as defesas de Voldemort e, para isso, Dumbledore recruta seu velho amigo horace slughorn, quem, ele acredita, possuí informações valiosas a respeito. Mesmo quando um confronto decisivo se aproxima, há tempo para romance nos corações de Harry, Ron, Hermione e seus colegas de classe. O amor está no ar, mas o perigo também e Hogwarts poderá nunca mais ser a mesma."
+            },
+            {
+                "titulo": "Harry Potter e as Relíquias da Morte - Parte 1",
+                "tmdb_id": "12444",
+                "url": "magnet=ab7f93b6fac7e050bd4e5799e1a332cdc88b3cbc",
+                "poster": "https://image.tmdb.org/t/p/w500/8iU7JzMtFwphBxGJ1TrOOfQiHtB.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/AqLcLsGGTzAjm3pCCq0CZCQrp6m.jpg",
+                "rate": 7.746,
+                "aired": "2010-11-17",
+                "ano": "2010",
+                "plot": "Harry, Ron e Hermione estão determinados em sua missão de descobrir e acabar com o segredo da imortalidade e do poder de destruição de Voldemort – os Horcruxes. Fugitivos e sozinhos, os três amigos devem apenas contar uns com os outros, agora mas do que nunca... Mas as Forças das Trevas no caminho ameaçam separá-los para sempre."
+            },
+            {
+                "titulo": "Harry Potter e as Relíquias da Morte - Parte 2",
+                "tmdb_id": "12445",
+                "url": "magnet=5b9e85562e7ee53834da11117e49d36b91ed916d",
+                "poster": "https://image.tmdb.org/t/p/w500/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/n5A7brJCjejceZmHyujwUTVgQNC.jpg",
+                "rate": 8.1,
+                "aired": "2011-07-12",
+                "ano": "2011",
+                "plot": "No final épico, a batalha entre as forças do bem e do mal no mundo da bruxaria toma proporções de uma guerra mundial. As apostas nunca foram tão altas e ninguém está a salvo. Mas é harry que pode ser convocado para fazer um derradeiro sacrifício, à medida que ele se aproxima cada vez mais do confronto final com Lorde Voldemort. Tudo termina aqui."
+            }
+        ]
+    },
+    {
+        "collection_id": "119",
+        "collection_title": "O Senhor dos Anéis: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/9x5456lykdCQTbwN6cVoU3gQsZp.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/bccR2CGTWVVSZAG0yqmy3DIvhTX.jpg",
+        "rate": 8.433666666666666,
+        "aired": "",
+        "ano": "2003",
+        "plot": "A história narra o conflito contra o mal que se alastra pela Terra-média, através da luta de várias raças - Humanos, Anões, Elfos, Ents e Hobbits - contra Orcs, para evitar que o \"Anel do Poder\" volte às mãos de seu criador Sauron, o Senhor do Escuro. Partindo dos primórdios tranquilos do Condado, a história muda através da Terra-média e segue o curso da Guerra do Anel através dos olhos de seus personagens, especialmente do protagonista, Frodo Bolseiro.",
+        "movies": [
+            {
+                "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+                "tmdb_id": "120",
+                "url": "magnet=938af741966196946865479b6e9dce947edbeeb4",
+                "poster": "https://image.tmdb.org/t/p/w500/omoMXT3Z7XrQwRZ2OGJGNWbdeEl.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/z51Wzj94hvAIsWfknifKTqKJRwp.jpg",
+                "rate": 8.418,
+                "aired": "2001-12-18",
+                "ano": "2001",
+                "plot": "Em uma terra fantástica e única, um hobbit recebe de presente de seu tio um anel mágico e maligno que precisa ser destruído antes que caia nas mãos do mal. Para isso, o hobbit Frodo tem um caminho árduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um anão, dois humanos e um mago, totalizando nove pessoas que formam a Sociedade do Anel."
+            },
+            {
+                "titulo": "O Senhor dos Anéis: As Duas Torres",
+                "tmdb_id": "121",
+                "url": "magnet=87b3e89eec36a5d4f19a7acd3991d9c26ec31f06",
+                "poster": "https://image.tmdb.org/t/p/w500/cmTFY35KK40yBX23Z9HhqU5uZ2O.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/6G73mNyooWAEQTpckPSnFxFoNmc.jpg",
+                "rate": 8.4,
+                "aired": "2002-12-18",
+                "ano": "2002",
+                "plot": "Após a captura de Merry e Pippy pelos orcs, a Sociedade do Anel é dissolvida. Frodo e Sam seguem sua jornada rumo à Montanha da Perdição para destruir o anel e descobrem que estão sendo perseguidos pelo misterioso Gollum. Enquanto isso, Aragorn, o elfo e arqueiro Legolas e o anão Gimli partem para resgatar os hobbits sequestrados e chegam ao reino de Rohan, onde o rei Theoden foi vítima de uma maldição mortal de Saruman."
+            },
+            {
+                "titulo": "O Senhor dos Anéis: O Retorno do Rei",
+                "tmdb_id": "122",
+                "url": "magnet=26f7e4106b72a0a9a746b313935648a2231fe608",
+                "poster": "https://image.tmdb.org/t/p/w500/egSO4klmc9pnI1CNnHoYKV70XKI.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/5JrZAtyk3LwiiAWLW0kwz41XZJC.jpg",
+                "rate": 8.483,
+                "aired": "2003-12-17",
+                "ano": "2003",
+                "plot": "O confronto final entre as forças do bem e do mal que lutam pelo controle do futuro da Terra Média se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na intenção de ajudar a resistência. Um exército é reunido por Theoden em Rohan, em mais uma tentativa de deter as forças de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo à Montanha da Perdição para destruir o anel."
+            }
+        ]
+    },
+    {
+        "collection_id": "173710",
+        "collection_title": "Planeta dos Macacos (Reboot): Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/g4RGKFHOKCWrPXncwHdmzMv1RdU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/iMhm0g555HgQNIXAMvnlgOiW5Rz.jpg",
+        "rate": 7.2322500000000005,
+        "aired": "",
+        "ano": "2024",
+        "plot": "Em 2005, os roteiristas Rick Jaffa e Amanda Silver desenvolveram um conceito para um novo filme do Planeta dos Macacos. Inspirado por artigos de notícias sobre macacos criados como humanos e avanços em genética, Jaffa concebeu uma ideia de um filme sobre um chimpanzé geneticamente melhorado em uma família humana.",
+        "movies": [
+            {
+                "titulo": "Planeta dos Macacos: A Origem",
+                "tmdb_id": "61791",
+                "url": "magnet=44e2c73f1fa53573d175f750308c993d690c7472",
+                "poster": "https://image.tmdb.org/t/p/w500/uMY3JE9SzePGOXRybLR0OvTVl4q.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/dENLz9Np9EV5Ro8UIBhbKC8BmSS.jpg",
+                "rate": 7.3,
+                "aired": "2011-08-03",
+                "ano": "2011",
+                "plot": "Nossa maior descoberta tornar-se-á a maior ameaça para a humanidade quando um cientista na iminência de um grande avanço da medicina começa a fazer testes num jovem chimpanzé chamado César. Quando o chimpanzé desenvolve inteligência e emoções semelhantes às dos humanos, uma batalha épica surge para determinar a espécie dominante no planeta!"
+            },
+            {
+                "titulo": "Planeta dos Macacos: O Confronto",
+                "tmdb_id": "119450",
+                "url": "magnet=c58004fb19ab3662db748bacad6edf644f5e3b8f",
+                "poster": "https://image.tmdb.org/t/p/w500/bFuiF7AvxFJgGowI0vxw37MkwTu.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/zlU8BIkgY7E6SMfD3USTWC6bchL.jpg",
+                "rate": 7.329,
+                "aired": "2014-07-08",
+                "ano": "2014",
+                "plot": "Em 2026, a humanidade está enfrentando sua pior crise e está muito próxima da extinção por conta de um vírus mortal. Um grupo de sobreviventes organiza uma expedição pelas florestas próximas de São Francisco em busca de uma nova fonte de energia quando se deparam com uma comunidade, muito evoluída, de macacos liderados por César. Alguns dissidentes, mesmo com o pacto de paz firmado, quebram a trégua e dão início a uma guerra sem precedentes entre as duas espécies."
+            },
+            {
+                "titulo": "Planeta dos Macacos: A Guerra",
+                "tmdb_id": "281338",
+                "url": "magnet=4abb8e837b1478e3edf94328d66fa72cef46078f",
+                "poster": "https://image.tmdb.org/t/p/w500/n336SuXSxpQkrzWJbSAeWFcKWy4.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/ulMscezy9YX0bhknvJbZoUgQxO5.jpg",
+                "rate": 7.2,
+                "aired": "2017-07-11",
+                "ano": "2017",
+                "plot": "César e seus macacos são forçados a entrar em confronto com uma milícia de humanos liderada pelo implacável Coronel. Mas após sofrer perdas inimagináveis, César resolve se vingar em um confronto final que irá determinar o futuro do planeta!"
+            },
+            {
+                "titulo": "Planeta dos Macacos: O Reinado",
+                "tmdb_id": "653346",
+                "url": "magnet=732fa60b785fd9568c31c27fbb55d73551362dfb",
+                "poster": "https://image.tmdb.org/t/p/w500/uXjbKJ57H30YrOQx5GfXoGvnsGY.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/iHYh4cdO8ylA3W0dUxTDVdyJ5G9.jpg",
+                "rate": 7.1,
+                "aired": "2024-05-08",
+                "ano": "2024",
+                "plot": "Várias gerações no futuro, após o reinado de César, os macacos são agora a espécie dominante e vivem harmoniosamente, enquanto os humanos foram reduzidos a viver nas sombras. À medida que um novo líder símio tirânico constrói o seu império, um jovem macaco empreende uma jornada angustiante que o levará a questionar tudo o que sabia sobre o passado e a fazer escolhas que definirão um futuro tanto para os macacos como para os humanos."
+            }
+        ]
+    },
+    {
+        "collection_id": "521226",
+        "collection_title": "Um Lugar Silencioso: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/mBb2ciTSOR2eDtHKtXdejAgkeVr.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/r0uGgKhyYuQgPMe0SZQD7n8aj1g.jpg",
+        "rate": 7.217,
+        "aired": "",
+        "ano": "2024",
+        "plot": "Uma série de filmes que retrata um mundo pós-apocalíptico que foi  dominado por criaturas cegas, mas com audição aguçada.",
+        "movies": [
+            {
+                "titulo": "Um Lugar Silencioso",
+                "tmdb_id": "447332",
+                "url": "magnet=3248a7c86c4f501dc8ac12126ceee8249dd4240b",
+                "poster": "https://image.tmdb.org/t/p/w500/70XFvmFRrdVxAjne5f3ItwRBtuQ.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/roYyPiQDQKmIKUEhO912693tSja.jpg",
+                "rate": 7.401,
+                "aired": "2018-04-03",
+                "ano": "2018",
+                "plot": "Em uma fazenda dos Estados Unidos, uma família do meio-oeste é perseguida por uma entidade fantasmagórica assustadora. Para se protegerem, eles devem permanecer em silêncio absoluto, a qualquer custo, pois o perigo é ativado pela percepção do som."
+            },
+            {
+                "titulo": "Um Lugar Silencioso - Parte II",
+                "tmdb_id": "520763",
+                "url": "magnet=55bed34cd84e9f6b6a14ad3964fa0744dbfbb79a",
+                "poster": "https://image.tmdb.org/t/p/w500/bqWvndlCAcBteUaHOL5HHEN5uHn.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/AsqUSUqXrK8JfH8WEQnCXVbIAv6.jpg",
+                "rate": 7.479,
+                "aired": "2021-05-21",
+                "ano": "2021",
+                "plot": "Logo após os acontecimentos mortais, até mesmo dentro de casa, a família Abbott precisa agora encarar o terror mundo afora, continuando a lutar para sobreviver em silêncio. Obrigados a se aventurar pelo desconhecido, eles rapidamente percebem que as criaturas que caçam pelo som não são as únicas ameaças que os observam pelo caminho de areia."
+            },
+            {
+                "titulo": "Um Lugar Silencioso: Dia Um",
+                "tmdb_id": "762441",
+                "url": "magnet=21626c73dcd5b0e7b9aed9da427567f928ae831d",
+                "poster": "https://image.tmdb.org/t/p/w500/pN9BtzUeqPIKybAu9baihz6YzyO.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/6XjMwQTvnICBz6TguiDKkDVHvgS.jpg",
+                "rate": 6.771,
+                "aired": "2024-06-26",
+                "ano": "2024",
+                "plot": "Quando Samira retorna para Nova York, sua viagem se transforma em um pesadelo angustiante quando as misteriosas criaturas que caçam pelo som atacam. Acompanhada de seu gato Frodo e de um aliado inesperado, Samira deve embarcar em uma perigosa jornada pela cidade que de repente ficou silenciosa, na qual a única regra é permanecer quieta para continuar\r viva."
+            }
+        ]
+    },
+    {
+        "collection_id": "228446",
+        "collection_title": "Sobrenatural: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/w1213HKk1XKSwHiBgjkWghn9biC.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/5FrPZHgbbmTIq0oxpwSGqu5HyXC.jpg",
+        "rate": 6.5404,
+        "aired": "",
+        "ano": "2023",
+        "plot": "",
+        "movies": [
+            {
+                "titulo": "Sobrenatural",
+                "tmdb_id": "49018",
+                "url": "magnet=ed27821ba0d3929ce67f8ff2a6ae2e6e22c1b981",
+                "poster": "https://image.tmdb.org/t/p/w500/2L8fErMpGD4s81VtWwspeyHYdiI.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/bylGn5OC2h3BWfGLYFtIcxlYxLy.jpg",
+                "rate": 6.942,
+                "aired": "2011-03-31",
+                "ano": "2011",
+                "plot": "Josh e Renai se mudam com a família para uma casa maior. Lá, o filho Dalton sofre um estranho acidente e entra em coma. Enquanto eles tentam salvar o menino, entidades malignas atormentam a família."
+            },
+            {
+                "titulo": "Sobrenatural: Capítulo 2",
+                "tmdb_id": "91586",
+                "url": "magnet=e07e512572fc912984a6d8039c4c08b2c090ef1d",
+                "poster": "https://image.tmdb.org/t/p/w500/9L8Ar7ayazSXPNLNxiaVWOCjzrf.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/rVtu9KtOL82a0B2Za284M52nBQy.jpg",
+                "rate": 6.67,
+                "aired": "2013-09-12",
+                "ano": "2013",
+                "plot": "Renai e Josh Lambert estão prontos para suas vidas voltarem ao normal, mas não sabem que Josh está possuído. A fim de derrotar as forças malévolas em torno deles, Lorraine Lambert e seus amigos investigam o passado para salvar o futuro da família."
+            },
+            {
+                "titulo": "Sobrenatural: A Origem",
+                "tmdb_id": "280092",
+                "url": "magnet=ab9ade1d7df6a0aa670ef89071b3a4c9444e7ba1",
+                "poster": "https://image.tmdb.org/t/p/w500/9yZXbaDPmc8qT4vLQSnf4LAPv1J.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/yqahXw1nO6HBMxcaVQtApo5ki1f.jpg",
+                "rate": 6.3,
+                "aired": "2015-05-28",
+                "ano": "2015",
+                "plot": "Vítima de uma entidade sobrenatural perigosa, a adolescente Quinn Brenner busca a ajuda da médium Elise Rainier, que por meio de suas habilidades paranormais descobre a existência de um demônio com sede de almas humanas."
+            },
+            {
+                "titulo": "Sobrenatural: A Última Chave",
+                "tmdb_id": "406563",
+                "url": "magnet=64532d503a58d6d871fd8f5792daf6d722349284",
+                "poster": "https://image.tmdb.org/t/p/w500/v3RYZGwImjBUF18RV57J5QuOa31.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/PwI3EfasE9fVuXsmMu9ffJh0Re.jpg",
+                "rate": 6.2,
+                "aired": "2018-01-03",
+                "ano": "2018",
+                "plot": "A Doutora Elise Rainier é chamada para resolver o caso de uma assombração no Novo México, localizada justamente na casa em que ela passou a infância. Enquanto tenta resolver o caso do morador de sua antiga casa, ela será obrigada a confrontar vários fantasmas e demônios de sua infância, alguns literais. Ao lado de Specs e Tucker, Elise se depara com seu caso mais pessoal."
+            },
+            {
+                "titulo": "Sobrenatural: A Porta Vermelha",
+                "tmdb_id": "614479",
+                "url": "magnet=2d26e49e3e9a46b6ace6f949ac7f5c38cfaf9cdc",
+                "poster": "https://image.tmdb.org/t/p/w500/6lp4uDxLqLEw1CzW1SUOYJ3zdKD.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/i2GVEvltEu3BXn5crBSxgKuTaca.jpg",
+                "rate": 6.59,
+                "aired": "2023-07-05",
+                "ano": "2023",
+                "plot": "Josh Lambert segue para o leste para deixar seu filho, Dalton, na faculdade. Mas demônios reprimidos do passado voltam repentinamente para assombrar os dois."
+            }
+        ]
+    },
+    {
+        "collection_id": "2602",
+        "collection_title": "Pânico: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/glmWNyOkoXMqltWJJhQelAvIVxk.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/oUcscMECv8DOBsAPCh3KnDZqAC4.jpg",
+        "rate": 6.672833333333333,
+        "aired": "",
+        "ano": "2023",
+        "plot": "Os filmes da série \"Pânico\" seguem Sidney Prescott e sua guerra contra uma sucessão de assassinos que adotam o disfarce de Ghostface para perseguir e atormentar as suas vítimas. Sidney recebe apoio do deputado municipal e posteriormente xerife Dewey Riley, do repórter e escritor da revista cor de rosa Gale Weathers e do geek Randy Meeks, junto com vários amigos, parceiros românticos e outros conhecidos que mudam conforme a série avança.",
+        "movies": [
+            {
+                "titulo": "Pânico",
+                "tmdb_id": "4232",
+                "url": "magnet=5293c765929fdf7301d23be43faa5cca65ab054b",
+                "poster": "https://image.tmdb.org/t/p/w500/cJj2gYzkPFSqYGGOhfLgeANlXkB.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/g5ktyPafmGmXZKEbZDbvb7dS9Cc.jpg",
+                "rate": 7.414,
+                "aired": "1996-12-20",
+                "ano": "1996",
+                "plot": "Após uma série de mortes misteriosas, um grupo de amigos são ameaçados por um assassino. Em uma mistura de emoções fortes e muitos sustos, aqui a única coisa que se pode ter certeza é que todos são vítimas e todos são suspeitos."
+            },
+            {
+                "titulo": "Pânico 2",
+                "tmdb_id": "4233",
+                "url": "magnet=3f2bcbaae7582cd51534bb4d2578a18e7044e007",
+                "poster": "https://image.tmdb.org/t/p/w500/zqDrfOJ0ChhYFyv3iQyTgNZGs2B.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/rNqfOqFYpSCeSq2YC5pY8F80Yz4.jpg",
+                "rate": 6.5,
+                "aired": "1997-12-12",
+                "ano": "1997",
+                "plot": "Dois anos após o massacre em Woodsboro, Sidney Prescott e Randy Meeks estão tentando refazer suas vidas em uma nova cidade. Estudando no colégio de Windsor, eles vão lidar com uma nova onda de assassinatos quando o terrível psicopata retorna para assombrá-los nas vésperas do lançamento do filme baseado nos seus crimes."
+            },
+            {
+                "titulo": "Pânico 3",
+                "tmdb_id": "4234",
+                "url": "magnet=5d480725206d9de9a7bfd42b94ed45a8f342068f",
+                "poster": "https://image.tmdb.org/t/p/w500/mZ9rQt8eYvnyZZwjw9OpBWzBemJ.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/jihXxHQXjzkcWU8ZfVgN8ntpvf5.jpg",
+                "rate": 6.0,
+                "aired": "2000-02-04",
+                "ano": "2000",
+                "plot": "Assassinatos levam uma jovem, um repórter e um ex-policial ao set de um filme de horror inspirado por acontecimentos aterrorizantes aos quais eles sobreviveram."
+            },
+            {
+                "titulo": "Pânico 4",
+                "tmdb_id": "41446",
+                "url": "magnet=d4b4711e1be20b157ec5635e1ca56353a30e2ba7",
+                "poster": "https://image.tmdb.org/t/p/w500/qqqE8jR2bzZldtW5lJwKhHMxkx0.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/c5EmNhLQsTTKAyUHULnKYQjlloz.jpg",
+                "rate": 6.455,
+                "aired": "2011-04-13",
+                "ano": "2011",
+                "plot": "Faz muitos anos que o assassino Ghostface deixou um rastro mortal pela cidade de Woodsboro. A fim de superar o trauma desses terríveis acontecimentos, Sidney Prescott escreveu um livro de auto-ajuda. Ela retorna à Woodsboro para lançar seu livro e reencontra os velhos amigos Gale Weathers e o Xerife Dewey. No entanto, a chegada de Sidney também provoca o retorno de Ghostface, colocando Sidney e todos que ama em perigo."
+            },
+            {
+                "titulo": "Pânico",
+                "tmdb_id": "646385",
+                "url": "magnet=4d40ee8e9c947ae804289ca1b81d51f425bdacd2",
+                "poster": "https://image.tmdb.org/t/p/w500/oadFpqhJ26yxqIlYcGioZ2W3EHN.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg",
+                "rate": 6.668,
+                "aired": "2022-01-12",
+                "ano": "2022",
+                "plot": "Vinte e cinco anos após uma série de crimes brutais chocar a tranquila Woodsboro, um novo assassino se apropria da máscara de Ghostface e começa a perseguir um grupo de adolescentes para trazer à tona segredos do passado mortal da cidade."
+            },
+            {
+                "titulo": "Pânico VI",
+                "tmdb_id": "934433",
+                "url": "magnet=bb7b5f4f18023bf37978ed030476b2afc81fd892",
+                "poster": "https://image.tmdb.org/t/p/w500/dbd7DQCHZ57SF4tM2puHtwNxDQD.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/h04s7VIbMWxTa4BBhwdg4CR6vNc.jpg",
+                "rate": 7.0,
+                "aired": "2023-03-08",
+                "ano": "2023",
+                "plot": "Sam, Tara, Chad e Mindy, os quatro sobreviventes do massacre realizado pelo Ghostface, decidem deixar Woodsboro para trás em busca de um novo começo em uma cidade diferente. Mas não demora muito para eles se tornarem alvo de um novo serial killer mascarado."
+            }
+        ]
+    },
+    {
+        "collection_id": "313086",
+        "collection_title": "Invocação do Mal: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/cE9XgHWwYaX5KysU7NS43LtFqxw.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/kHZaX0vuhZdbuq0WKU3BpA9WIQ0.jpg",
+        "rate": 7.402,
+        "aired": "",
+        "ano": "2021",
+        "plot": "Invocação do Mal é uma coletânea com dois de filmes de horror, estrelada por Vera Farmiga e Patrick Wilson, no papel dos investigadores paranormais Lorraine e Ed Warren. Esta franquia é de grande sucesso, com vários personagens marcantes que chegaram até a ter seus próprios filmes.  Estas histórias são a base para criação de universo fantástico do paranormal.",
+        "movies": [
+            {
+                "titulo": "Invocação do Mal",
+                "tmdb_id": "138843",
+                "url": "magnet=0032160ab449f818890de403d61f29fa495e27d4",
+                "poster": "https://image.tmdb.org/t/p/w500/otILeHmcY6wc64DNXi0T7YYATZK.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/mXndmCbpvlqnD6po0EMfxEZcUSn.jpg",
+                "rate": 7.5,
+                "aired": "2013-07-18",
+                "ano": "2013",
+                "plot": "Harrisville, Rhode Island, Estados Unidos, 1968. Os investigadores paranormais Ed e Lorraine Warren trabalham para ajudar uma família aterrorizada por uma presença sombria em sua fazenda. Forçados a confrontar uma entidade poderosa, os Warrens se vêem presos no caso mais aterrorizante de suas vidas. Baseado numa história real."
+            },
+            {
+                "titulo": "Invocação do Mal 2",
+                "tmdb_id": "259693",
+                "url": "magnet=c09482bc85b6615b3c8bc3ec3d8fd56fa5360392",
+                "poster": "https://image.tmdb.org/t/p/w500/o94LZsIKt0priAca7hoN4yz7a1d.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/3tMV2dYmvxMr511fD7Ap79tRFls.jpg",
+                "rate": 7.29,
+                "aired": "2016-06-08",
+                "ano": "2016",
+                "plot": "Lorraine e Ed Warren ajudam uma mãe solteira a criar seus quatro filhos numa casa assombrada por espíritos malignos. Conhecido como a Amityville da Inglaterra, o Poltergeist de Enfield foi o caso mais documentado na história da paranormalidade. Descubra a verdade por trás do evento que chocou o mundo."
+            },
+            {
+                "titulo": "Invocação do Mal 3: A Ordem do Demônio",
+                "tmdb_id": "423108",
+                "url": "magnet=7757081feb5f801552d2048fcb1f81b83d5d08a4",
+                "poster": "https://image.tmdb.org/t/p/w500/tLmaOXT9rMb17ISQDURKQIu3Okk.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/6Z0FhoZM56YkuXhvklMTpc7rc5u.jpg",
+                "rate": 7.416,
+                "aired": "2021-05-25",
+                "ano": "2021",
+                "plot": "Um dos casos mais sensacionais de seus arquivos começa com a luta pela alma de um garoto e depois os leva para além de qualquer coisa que já tenham visto. Esse caso marcou a primeira vez na história dos Estados Unidos em que um suspeito de assassinato alegou possessão demoníaca como defesa."
+            }
+        ]
+    },
+    {
+        "collection_id": "656",
+        "collection_title": "Jogos Mortais: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/9ADSHtuBTRL3P0pUmZJGnQtwmSH.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/q6XF2qbrxdv3OwZPnXgecDRft1O.jpg",
+        "rate": 6.4434,
+        "aired": "",
+        "ano": "2023",
+        "plot": "Jigsaw é um assassino que possui uma marca registrada: ele deixa em suas vítimas uma cicatriz em forma de quebra-cabeças, que faz com que elas cometam atos igonizantes para se salvar. O detetive David Tapp (Danny Glover) é designado para investigar os assassinatos, bem como a capturar seu autor. Porém o caminho evasivo seguido por Jigsaw leva o detetive a desenvolver uma obsessão por capturá-lo.  A coletânea é composta de sete filmes, Jogos Mortais I, Jogos Mortais II, Jogos Mortais III, Jogos Mortais IV, Jogos Mortais V, Jogos Mortais VI e Jogos Mortais VII: O Final, lançados sequencialmente nos anos 2004 a 2010.",
+        "movies": [
+            {
+                "titulo": "Jogos Mortais",
+                "tmdb_id": "176",
+                "url": "magnet=146459d816a158ed09a227fc4a650e6fdb8f1361",
+                "poster": "https://image.tmdb.org/t/p/w500/jByGeGsJtoghNFHF5TgVvcSJ4Oc.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/ok4ot3YbfDYZcINXf91JUfq3maB.jpg",
+                "rate": 7.4,
+                "aired": "2004-10-01",
+                "ano": "2004",
+                "plot": "Dois homens acordam acorrentados em um banheiro como prisioneiros de um assassino em série que leva suas vítimas a situações limítrofes em um jogo macabro. Para sobreviver, eles terão de desvendar juntos as peças desse quebra-cabeças doentio."
+            },
+            {
+                "titulo": "Jogos Mortais II",
+                "tmdb_id": "215",
+                "url": "magnet=38b463f89156a539aab42d7ea9865d637eaadebc",
+                "poster": "https://image.tmdb.org/t/p/w500/ojWbOjvfeFNrf8keesvyerryyVo.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/6QJQEzaIr3JyQtrWA0CbnSeeXrg.jpg",
+                "rate": 6.6,
+                "aired": "2005-10-28",
+                "ano": "2005",
+                "plot": "O detetive Eric Matthews consegue prender Jigsaw, o qual está morrendo. O que ele desconhece é que isso faz parte de um plano ainda maior do assassino sádico, que agora mantém o filho do policial como refém e pretende torná-lo uma de suas vítimas."
+            },
+            {
+                "titulo": "Jogos Mortais III",
+                "tmdb_id": "214",
+                "url": "magnet=664be3625e7a82abae23186129355b9c623e34dd",
+                "poster": "https://image.tmdb.org/t/p/w500/8LOtN2XDwAOB6xsjOhE1gi62XWg.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/qx8Pb3nVnHLBizI9792pbRN5nnm.jpg",
+                "rate": 6.407,
+                "aired": "2006-10-26",
+                "ano": "2006",
+                "plot": "Dr. Lynn Denlon se torna uma peça no último jogo sangrento do assassino Jigsaw. Raptada e levada para um armazém abandonado, ela encontra Jigsaw acamado e morrendo. Sua tarefa é manter o maníaco vivo, dando o tempo suficiente para Jeff, uma vítima, completar uma tarefa. Eles não sabem que Jigsaw, na verdade, tem um plano muito maior e mortal."
+            },
+            {
+                "titulo": "Jogos Mortais IV",
+                "tmdb_id": "663",
+                "url": "magnet=6d8278ed2a595f42eba6d91c34f777baed6c3fff",
+                "poster": "https://image.tmdb.org/t/p/w500/6NAPeqZTgeTDW1CaDac7CDisMMt.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/3lrNJ5jNqKq9UpQrXo8FNFzyoE4.jpg",
+                "rate": 6.2,
+                "aired": "2007-10-25",
+                "ano": "2007",
+                "plot": "Um oficial tem apenas noventa minutos para salvar seu amigo, um comandante da SWAT, de uma série de armadilhas mortais."
+            },
+            {
+                "titulo": "Jogos Mortais V",
+                "tmdb_id": "11917",
+                "url": "magnet=d99dc195c7183378baeaf6e3bc9ac2591ba9cd4b",
+                "poster": "https://image.tmdb.org/t/p/w500/wi9pLhftcB3SMx0R2BrfVpt80Iu.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/jIjVPKDow5ai8dbs4PgWmtqg9Ol.jpg",
+                "rate": 6.167,
+                "aired": "2008-10-23",
+                "ano": "2008",
+                "plot": "Mark Hoffman é, aparentemente, a última pessoa viva disposta a seguir o legado deixado por Jigsaw. Porém, quando seu segredo é ameaçado, usando uma série de armadilhas, cada vez mais bizarras e terríveis, ele precisa iniciar uma caçada para eliminar todos os envolvidos."
+            },
+            {
+                "titulo": "Jogos Mortais VI",
+                "tmdb_id": "22804",
+                "url": "magnet=32acbc1285854684336ce30cc1c51a87fff9a92b",
+                "poster": "https://image.tmdb.org/t/p/w500/5Yz4P9DCQS1Jb8XtvMDsSykc8Ta.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/gqR59DjJGr6i8mxRD1VfOzCueTI.jpg",
+                "rate": 6.284,
+                "aired": "2009-10-22",
+                "ano": "2009",
+                "plot": "O agente especial Strahm está morto, e o detetive Hoffman é o único que conhece o verdadeiro legado de Jigsaw. Porém, quando o FBI se aproxima de Hoffman, ele é forçado a colocar o jogo em ação."
+            },
+            {
+                "titulo": "Jogos Mortais - O Final",
+                "tmdb_id": "41439",
+                "url": "magnet=928f2e5937f39159c2dbc8d15f605c3ef6974838",
+                "poster": "https://image.tmdb.org/t/p/w500/4Nqg7M6LXFxY51GK0dup1BB8g49.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/bXECndnt2fetBsopdQvsI3Cv970.jpg",
+                "rate": 5.991,
+                "aired": "2010-10-22",
+                "ano": "2010",
+                "plot": "Bobby Daggen lança livro e DVD, explorando sua experiência de ter escapado das armadilhas de Jigsaw. Ele reúne um grupo de sobreviventes para a gravação de um programa de televisão onde todos dão depoimentos sobre os momentos terríveis que passaram. Enquanto isso, novas mortes voltam a acontecer e sentindo-se pressionada por Hoffman, a esposa de Jigsaw, Jill, decide contar a verdade para a polícia. Mas é tarde demais. Agora, um segredo de Daggen vai desencadear uma nova onda de terror."
+            },
+            {
+                "titulo": "Jogos Mortais: Jigsaw",
+                "tmdb_id": "298250",
+                "url": "magnet=33685fd371a1d99d750fc35a348dd0011888dd09",
+                "poster": "https://image.tmdb.org/t/p/w500/18vXrQmVWoLuAQEltcfIS2aHvej.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/ytKpFaLMpFWnuSXStz1GHrtTt6R.jpg",
+                "rate": 6.2,
+                "aired": "2017-10-25",
+                "ano": "2017",
+                "plot": "Após uma série de assassinatos, todas as pistas levam a John Kramer, assassino mais conhecido como Jigsaw. À medida que a investigação avança, os policiais percebem que estão perseguindo o fantasma de um homem morto há mais de uma década."
+            },
+            {
+                "titulo": "Espiral: O Legado de Jogos Mortais",
+                "tmdb_id": "602734",
+                "url": "magnet=dfd8b3b3e10e89adc7fa89046c51e01295440330",
+                "poster": "https://image.tmdb.org/t/p/w500/jJ7eIqsVLtRwLCX6KeJNeQYjPar.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/g15PR8eQV9DehSWlagvdnJZqoRq.jpg",
+                "rate": 5.954,
+                "aired": "2021-05-12",
+                "ano": "2021",
+                "plot": "Sob o comando do veterano da polícia Marcus, o detetive Ezekiel \"Zeke\" Banks se une ao seu parceiro novato Willem para desvendar uma série de assassinatos terríveis que estão acontecendo na cidade. Durante as investigações, Zeke acaba se envolvendo no mórbido jogo do assassino."
+            },
+            {
+                "titulo": "Jogos Mortais X",
+                "tmdb_id": "951491",
+                "url": "magnet=e2644e954d1c4d53341908db57dfb625d41c75c0",
+                "poster": "https://image.tmdb.org/t/p/w500/l749SGWMIlVf9sXoc7Ib8QhDTgr.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/uUJp5I4IbzuhdUiEx4R9OAoFpbz.jpg",
+                "rate": 7.231,
+                "aired": "2023-09-27",
+                "ano": "2023",
+                "plot": "Entre os eventos de “Jogos Mortais” e “Jogos Mortais II”, um doente e desesperado John Kramer viaja para o México para um arriscado e experimental procedimento médico na esperança de uma cura milagrosa para seu câncer — apenas para descobrir que toda a operação é uma farsa para fraudar os mais vulneráveis. Armado com um propósito recém-descoberto, o infame assassino em série retorna ao seu trabalho, virando a mesa contra os vigaristas em sua maneira visceral característica por meio de armadilhas tortuosas, perturbadas e engenhosas."
+            }
+        ]
+    },
+    {
+        "collection_id": "477962",
+        "collection_title": "It: A Coisa - Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/d3du6EnrGJ0yza6G08nk2GFZEsi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/zTlvziOLzdUqUqQ3KZ4W9ex4sBD.jpg",
+        "rate": 7.041,
+        "aired": "",
+        "ano": "2019",
+        "plot": "Uma série de filmes de terror sobrenaturais em duas partes, baseada no romance \"it\" de 1986 de Stephen King.",
+        "movies": [
+            {
+                "titulo": "It: A Coisa",
+                "tmdb_id": "346364",
+                "url": "magnet=846c3072fd4beadccde38d03bc1f9e410c5e20f6",
+                "poster": "https://image.tmdb.org/t/p/w500/uYxz0lIiNgErrPhQbSjUdwYxtFc.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/rAQcPrEaPzDRVNX7XX5TWyxCGFN.jpg",
+                "rate": 7.241,
+                "aired": "2017-09-06",
+                "ano": "2017",
+                "plot": "Na cidade de Derry, no Maine, sete jovens se juntam para combater uma criatura sobrenatural que está assombrando a sua cidade por séculos. Chamado de Pennywise – O Palhaço Dançarino, a Coisa é um monstro de força absoluta que toma a forma dos medos mais horrorosos das pessoas. Ameaçados por seus piores pesadelos, a única maneira dos jovens amigos sobreviverem à Coisa é se continuarem juntos."
+            },
+            {
+                "titulo": "IT: Capítulo Dois",
+                "tmdb_id": "474350",
+                "url": "magnet=9b3bd9532897ec9df6b9dd22bcc23403cc826192",
+                "poster": "https://image.tmdb.org/t/p/w500/yVksBmUf2uwEruDttP3XtHamS8q.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/6LVSrgm83UYWlrLTCVGmWhFKYO0.jpg",
+                "rate": 6.841,
+                "aired": "2019-09-04",
+                "ano": "2019",
+                "plot": "Vinte e sete anos após o Clube dos Otários derrotar Pennywise, It está de volta. Agora adultos Os Otários seguiram com suas vidas, mas com os recentes desaparecimentos em Derry, Mike resolve reunir o grupo novamente. Perturbados pelo passado, eles precisam vencer seus medos para destruir Pennywise, que está ainda mais perigoso, de uma vez por todas."
+            }
+        ]
+    },
+    {
+        "collection_id": "790370",
+        "collection_title": "Rua do Medo: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/nuh1egnnHA3r4dCqAQqkfbC9neK.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/13nBFLeuhHbXmU8QAnLIrJy11cl.jpg",
+        "rate": 6.997333333333334,
+        "aired": "",
+        "ano": "2021",
+        "plot": "",
+        "movies": [
+            {
+                "titulo": "Rua do Medo: 1994 - Parte 1",
+                "tmdb_id": "591273",
+                "url": "magnet=f374e3b2ce287bc1673ed53bac29b23effd338af",
+                "poster": "https://image.tmdb.org/t/p/w500/kIABUqs2kfFBDa10l2tFxTIKZMH.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/vu5Y8qFqlzcboDbbZIMTAgj0KLb.jpg",
+                "rate": 6.694,
+                "aired": "2021-06-28",
+                "ano": "2021",
+                "plot": "Depois de uma série de assassinatos brutais, um grupo de adolescentes enfrenta uma força maligna que aterroriza a cidade há séculos. Bem-vindos a Shadyside."
+            },
+            {
+                "titulo": "Rua do Medo: 1978 - Parte 2",
+                "tmdb_id": "591274",
+                "url": "magnet=8b3994624541a96451cca123cae5d7c94373f01b",
+                "poster": "https://image.tmdb.org/t/p/w500/uicSprflqrrhWykOuJjHQ9lSLJ1.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/sXw75q37IsFWgIIrjMZwfCXO1BF.jpg",
+                "rate": 7.184,
+                "aired": "2021-07-08",
+                "ano": "2021",
+                "plot": "Na cidade amaldiçoada de Shadyside, uma onda de assassinatos aterroriza o Acampamento Nightwing, transformando as férias em uma luta pela sobrevivência."
+            },
+            {
+                "titulo": "Rua do Medo: 1666 – Parte 3",
+                "tmdb_id": "591275",
+                "url": "magnet=b25928e3964c92a4969f59226256ac87cb368301",
+                "poster": "https://image.tmdb.org/t/p/w500/hsX1vt168fNSMSYwTVi8M9O0hLu.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/jLeOzQLZJEpmAMDnfKMmORFGuV.jpg",
+                "rate": 7.114,
+                "aired": "2021-07-14",
+                "ano": "2021",
+                "plot": "De volta a 1666, Deena descobre a verdade sobre Sarah Fier. Em 1994, os amigos lutam para sobreviver e pelo futuro de Shadyside."
+            }
+        ]
+    },
+    {
+        "collection_id": "121938",
+        "collection_title": "O Hobbit: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/5CdxtgYjQKgrkx6wXs6w2ZE2cKW.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/7wO7MSnP5UcwR2cTHdJFF1vP4Ie.jpg",
+        "rate": 7.433666666666667,
+        "aired": "",
+        "ano": "2014",
+        "plot": "O Hobbit é uma coleção de 3 filmes épicos de fantasia e aventura, baseados no romance de fantasia de J. R. R. Tolkien, com o mesmo título. A trilogia de filmes está situada na Terra-Média ou Terra do Meio, 60 anos antes de \"O Senhor dos Anéis\".",
+        "movies": [
+            {
+                "titulo": "O Hobbit: Uma Jornada Inesperada",
+                "tmdb_id": "49051",
+                "url": "magnet=060282019762771c2882c27eefb5339ff904add0",
+                "poster": "https://image.tmdb.org/t/p/w500/ghSOjNRLpXjp9PB22CnGRuZgXJW.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+                "rate": 7.4,
+                "aired": "2012-12-12",
+                "ano": "2012",
+                "plot": "Como a maioria dos hobbits, Bilbo Bolseiro leva uma vida tranquila até o dia em que recebe uma missão do mago Gandalf. Acompanhado por um grupo de anões, ele parte numa jornada até a Montanha Solitária para libertar o Reino de Erebor do dragão Smaug."
+            },
+            {
+                "titulo": "O Hobbit: A Desolação de Smaug",
+                "tmdb_id": "57158",
+                "url": "magnet=781c81e935217c7601fcb67dd4191dc67e81fd01",
+                "poster": "https://image.tmdb.org/t/p/w500/beqHE5BZY5LczMxJezL4FdY7mBp.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/npCPnwDyWfQltGfIZKN6WqeUXGI.jpg",
+                "rate": 7.575,
+                "aired": "2013-12-11",
+                "ano": "2013",
+                "plot": "Ao lado de um grupo de anões e de Gandalf, Bilbo segue em direção à Montanha Solitária, onde deverá ajudar seus companheiros a retomar a Pedra de Arken. O problema é que o artefato está perdido em meio a um tesouro protegido pelo temido dragão Smaug."
+            },
+            {
+                "titulo": "O Hobbit: A Batalha dos Cinco Exércitos",
+                "tmdb_id": "122917",
+                "url": "magnet=dc962646954fb66aa1648f4adc573eef868b3014",
+                "poster": "https://image.tmdb.org/t/p/w500/wRKwrfQ7p0ttrb09G3mcOSyN1pk.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/zn13a7U9eMTJq8sHthe3bCgsVm4.jpg",
+                "rate": 7.326,
+                "aired": "2014-12-10",
+                "ano": "2014",
+                "plot": "O dragão Smaug lança sua fúria ardente contra a Cidade do Lago que fica próxima da montanha de Erebor. Bard consegue derrotá-lo, mas, rapidamente, sem a ameaça do dragão, inicia-se uma batalha pelo controle de Erebor e sua riqueza. Os anões, liderados por Thorin, adentram a montanha e estão dispostos a impedir a entrada de elfos, anões e orcs. Bilbo Bolseiro e Gandalf tentam impedir a guerra."
+            }
+        ]
+    },
+    {
+        "collection_id": "140890",
+        "collection_title": "",
+        "poster": "https://image.tmdb.org/t/p/w500",
+        "backdrop": "https://image.tmdb.org/t/p/original",
+        "rate": 6.984999999999999,
+        "aired": "",
+        "ano": "2024",
+        "plot": "Descrição não disponível",
+        "movies": [
+            {
+                "titulo": "Os Bad Boys",
+                "tmdb_id": "9737",
+                "url": "magnet=73a22b67b48eaa4c212b50167471bb6d42275ba3",
+                "poster": "https://image.tmdb.org/t/p/w500/8fkDLt6Fbr2yyBqt3MEwiumnsar.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/wOLTJxfv98miIQcn0oNXq9fIgXM.jpg",
+                "rate": 6.819,
+                "aired": "1995-04-07",
+                "ano": "1995",
+                "plot": "Um carregamento de heroína confiscada avaliada em um milhão de dólares foi simplesmente roubado do depósito da polícia. O sumiço das dorgas pode destruir as carreiras dos detetives Mike Lawrey e Marcus Burnett e acabar com a divisão de narcóticos do Departamento de Polícia de Miami. Quando as investigações ameaçam os traficantes e eles raptam a única testemunha do caso – uma bela informante da polícia que se torna amiga dos Bad Boys – as coisas se tornam pessoais!"
+            },
+            {
+                "titulo": "Os Bad Boys II",
+                "tmdb_id": "8961",
+                "url": "magnet=b26e4547166ca22f3fa0d6777d2eac9c76b2f2ae",
+                "poster": "https://image.tmdb.org/t/p/w500/43uHXNlX3Ip7HgLOvxMHOpCxYC0.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/gxSVZCUlDd8upT1G2wdrUdz2hxG.jpg",
+                "rate": 6.6,
+                "aired": "2003-07-18",
+                "ano": "2003",
+                "plot": "Os detetives da Narcóticos Marcus Burnett e Mike Lowrey foram designados para investigar a proliferação do ecstasy na cidade de Miami. As investigações os levam a um alvo maior, Johnny Tapia, um traficante cuja ambição de tomar conta do tráfico na cidade inicia uma verdadeira guerra entre quadrilhas. Em meio a esta situação, Lowrey passa a se interessar por Syd, irmã de Burnett, o que põe a amizade deles à prova."
+            },
+            {
+                "titulo": "Bad Boys Para Sempre",
+                "tmdb_id": "38700",
+                "url": "magnet=fc14c29fff4a1505ec8d5b6bc4cb9132bfe9a06f",
+                "poster": "https://image.tmdb.org/t/p/w500/u3S3p3j0vL8lHrxTsgGzRQMCdzh.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/eAIHqfS3kXm7kZl4j7ZBfdegyEz.jpg",
+                "rate": 7.1,
+                "aired": "2020-01-15",
+                "ano": "2020",
+                "plot": "Marcus Burnett agora é um inspetor e Mike Lowrey se encontra numa crise de meia-idade. Mas a dupla tem que se juntar novamente quando um mercenário albanês, cujo irmão foi capturado por eles, promete um bônus de vingança justamente quando eles estão prestes a se aposentar."
+            },
+            {
+                "titulo": "Bad Boys: Até o Fim",
+                "tmdb_id": "573435",
+                "url": "magnet=fed8c077b33eab27f4d328511995a4823829df25",
+                "poster": "https://image.tmdb.org/t/p/w500/f2RdgXHVk4oZhLOhoeKQYhz8wK8.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/tncbMvfV0V07UZozXdBEq4Wu9HH.jpg",
+                "rate": 7.421,
+                "aired": "2024-06-05",
+                "ano": "2024",
+                "plot": "Depois que seu falecido ex-capitão é incriminado, Lowrey e Burnett tentam limpar seu nome, apenas para acabarem se tornando os mais procurados de Miami."
             }
         ]
     }
