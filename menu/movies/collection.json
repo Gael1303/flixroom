@@ -1,5 +1,5 @@
 {
-  "collections":[
+    "collections": [
 
     {
         "collection_id": "726871",
@@ -808,14 +808,1021 @@
         ]
     },
     {
-        "collection_id": "140890",
+        "collection_id": "295",
+        "collection_title": "Piratas do Caribe: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/oGEenSmUimQcZyMjkpPilPweaPF.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/wxgD3fB5lQ2sGJLog0rvXW049Pf.jpg",
+        "rate": 7.1282,
+        "aired": "",
+        "ano": "2017",
+        "plot": "Série de filmes de fantasia com base nas aventuras do capitão Jack Sparrow, que ocorrem em um cenário histórico fictício; um mundo governado pelo Império Britânico, a Companhia das Índias Orientais e o Império Espanhol, com piratas representando a liberdade dos poderes governantes.",
+        "movies": [
+            {
+                "titulo": "Piratas do Caribe: A Maldição do Pérola Negra",
+                "tmdb_id": "22",
+                "url": "magnet=2782e7c161c25f4ffa5eb7afa92c488dbd29a65d",
+                "poster": "https://image.tmdb.org/t/p/w500/xsAlxvMCRzyreLxdZL1dOUSbonV.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/wW7Wt5bXzPy4VOEE4LTIUDyDgBo.jpg",
+                "rate": 7.807,
+                "aired": "2003-07-09",
+                "ano": "2003",
+                "plot": "O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e sua tripulação. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarcação, Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em direção à misteriosa Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldição que os assola."
+            },
+            {
+                "titulo": "Piratas do Caribe: O Baú da Morte",
+                "tmdb_id": "58",
+                "url": "magnet=560f07f7fd6bdc61ff2029f4d48e183e219a864f",
+                "poster": "https://image.tmdb.org/t/p/w500/dCXOveWolVMMbJZQ0cNslpqohPM.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/vv5a8u6e40kyH0Hp6HuamAgzRai.jpg",
+                "rate": 7.366,
+                "aired": "2006-07-06",
+                "ano": "2006",
+                "plot": "Will e Elizabeth estão prestes a se casar quando o lendário pirata Davy Jones, comandante do invencível navio assombrado, aparece para cobrar uma dívida do capitão Jack Sparrow, amigo do casal. A única chance de Sparrow se livrar de uma maldição de Jones é encontrando o baú da morte."
+            },
+            {
+                "titulo": "Piratas do Caribe: No Fim do Mundo",
+                "tmdb_id": "285",
+                "url": "magnet=78369b8167a2d2b963396a011285db3b2528598f",
+                "poster": "https://image.tmdb.org/t/p/w500/2vgdFnsThB3acNVSUN9TzpUwLg5.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/qvzVWohbdcrnaD9qaa6IjrjXHMZ.jpg",
+                "rate": 7.258,
+                "aired": "2007-05-19",
+                "ano": "2007",
+                "plot": "Will Turner e Elizabeth Swann unem forças com o Capitão Barbossa para libertarem Jack Sparrow da prisão de Davy Jones. Enquanto isso, a tripulação do barco fantasma O Holandês Voador causa estragos nos Sete Mares. Os amigos devem navegar através de águas perigosas para enfrentarem o pirata chinês São Feng e, finalmente, eles devem escolher em que lado ficar na batalha, pois a vida do pirata está em jogo."
+            },
+            {
+                "titulo": "Piratas do Caribe: Navegando em Águas Misteriosas",
+                "tmdb_id": "1865",
+                "url": "magnet=9728044658fe6437c98e321af5ea1650bb1bbba0",
+                "poster": "https://image.tmdb.org/t/p/w500/mQuyx1qXOc6ftTctYVG3gcvWrEH.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/uzIGtyS6bbnJzGsPL93WCF1FWm8.jpg",
+                "rate": 6.557,
+                "aired": "2011-05-15",
+                "ano": "2011",
+                "plot": "O passado do capitão Jack Sparrow volta a alcançá-lo quando ele cruza com Angelica, uma bonita pirata que Jack, um dia, amou e depois abandonou. Ela, então, o força a acompanhá-la ao navio Vingança da Rainha Ana, do famoso Barba Negra. Junto com uma tripulação de zumbis, o trio parte em busca da lendária Fonte da Juventude. Mas o rival de Jack, Barbossa, também cobiça a fonte, assim como um navio espanhol."
+            },
+            {
+                "titulo": "Piratas do Caribe: A Vingança de Salazar",
+                "tmdb_id": "166426",
+                "url": "magnet=e5a4f62f51dc11d9c3388912e5ffe36c29d53fdb",
+                "poster": "https://image.tmdb.org/t/p/w500/eAFHzqf9jtvG6HbxykBCSQLUNWF.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/7C921eWK06n12c1miRXnYoEu5Yv.jpg",
+                "rate": 6.653,
+                "aired": "2017-05-23",
+                "ano": "2017",
+                "plot": "O Capitão Jack, que anda passando por uma onda de azar, sente os ventos da má sorte soprando com muita força quando os marinheiros fantasmas assassinos, liderados pelo aterrorizante Capitão Salazar (Javier Bardem), escapam do triângulo do diabo decididos a matar todos os piratas em seu caminho, especialmente Jack."
+            }
+        ]
+    },
+    {
+        "collection_id": "230",
+        "collection_title": "O Poderoso Chefão: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/s4i9pFeUj4gSJaA487kjq9ePJrR.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/3WZTxpgscsmoUk81TuECXdFOD0R.jpg",
+        "rate": 8.236333333333334,
+        "aired": "",
+        "ano": "1990",
+        "plot": "Os filmes da trilogia de Francis Ford Coppola sobre a vida cotidiana de uma família mafiosa de Nova York. Com seu elenco com estrelas, esses filmes entraram para a história, como alguns dos melhores que Hollywood já produziram.",
+        "movies": [
+            {
+                "titulo": "O Poderoso Chefão",
+                "tmdb_id": "238",
+                "url": "magnet=c34911e5ca4518978719cfef123e204ec7905edd",
+                "poster": "https://image.tmdb.org/t/p/w500/kpZcRSrYYkowpiw2d6ZVdF1HWFc.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+                "rate": 8.689,
+                "aired": "1972-03-14",
+                "ano": "1972",
+                "plot": "Em 1945, Don Corleone é o chefe de uma mafiosa família italiana de Nova York. Ele costuma apadrinhar várias pessoas, realizando importantes favores para elas, em troca de favores futuros. Com a chegada das drogas, as famílias começam uma disputa pelo promissor mercado. Quando Corleone se recusa a facilitar a entrada dos narcóticos na cidade, não oferecendo ajuda política e policial, sua família começa a sofrer atentados para que mudem de posição. É nessa complicada época que Michael, um herói de guerra nunca envolvido nos negócios da família, vê a necessidade de proteger o seu pai e tudo o que ele construiu ao longo dos anos."
+            },
+            {
+                "titulo": "O Poderoso Chefão: Parte II",
+                "tmdb_id": "240",
+                "url": "magnet=a0fad811eff971b3bc2fff1219e1052ee2b3c6ec",
+                "poster": "https://image.tmdb.org/t/p/w500/7g6wvsWHxBQujUcSXvZLhdFpDUy.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+                "rate": 8.6,
+                "aired": "1974-12-20",
+                "ano": "1974",
+                "plot": "Após a máfia matar sua família, o jovem Vito foge da sua cidade na Sicília e vai para a América. Vito luta para manter sua família. Ele mata Black Hand Fanucci, que exigia dos comerciantes uma parte dos seus ganhos. Com a morte de Fanucci, o poderio de Vito cresce, mas sua família é o que mais importa para ele. Agora baseado no Lago Tahoe, Michael planeja fazer incursões em Las Vegas e Havana instalando negócios ligados ao lazer, mas descobre que aliados como Hyman Roth estão tentando matá-lo."
+            },
+            {
+                "titulo": "O Poderoso Chefão: Parte III",
+                "tmdb_id": "242",
+                "url": "magnet=83b9837b116727ff698d2743c0b4a869a2e1c281",
+                "poster": "https://image.tmdb.org/t/p/w500/sLvNxyDfM9cHS3jwG0rEa7eR4lh.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+                "rate": 7.42,
+                "aired": "1990-12-25",
+                "ano": "1990",
+                "plot": "Don Michael Corleone está envelhecendo e, com a ajuda do sobrinho Vicente Mancini, busca a legitimação dos interesses da família, em Nova York e na Itália, antes de sua morte. Mas seu protegido não está só interessado em parte do império da família. Ele também deseja a filha de Michael, Mary."
+            }
+        ]
+    },
+    {
+        "collection_id": "8864",
+        "collection_title": "Premonição: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/mu8JSWvoxAj80gLBpBuXVi4bsa0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/y3aWOInifbGKXM34KjtcMITrZRZ.jpg",
+        "rate": 6.1266,
+        "aired": "",
+        "ano": "2011",
+        "plot": "Premonição é uma série de filmes de terror centrados nos temas fatalismo, predestinação e precognição, em relação à morte.",
+        "movies": [
+            {
+                "titulo": "Premonição",
+                "tmdb_id": "9532",
+                "url": "magnet=7c2972840df6066b32093178bdd31285f8f5d941",
+                "poster": "https://image.tmdb.org/t/p/w500/4W3gnOJATpEGwq4wqpxHgiJrBub.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/1el2U1Kn5Z0X6ozPaX3T1NNEmoV.jpg",
+                "rate": 6.6,
+                "aired": "2000-03-17",
+                "ano": "2000",
+                "plot": "Pouco antes de decolar no vôo 180 para Paris, Alex experimenta a angustiante visão do avião transformando-se numa bola de fogo gigante em pleno vôo. Em pânico, o estudante é retirado da aeronave com uma professora e alguns colegas de classe. Irritado e decepcionado, o grupo assiste seu vôo partir. É quando o inimaginável acontece, o avião explode matando todo mundo a bordo! Confuso entre a idéia de Alex ter salvo a todos e a possibilidade de ele ter provocado o acidente, o grupo não sabe como reagir. Para Alex, porém, o fato de ter escapado da tragédia não traz alívio, pois presságios terríveis continuam a perturbá-lo. Neles Alex vê, um a um, seus amigos morrerem. Então percebe que, ao saírem do avião, eles desafiaram a ordem natural das coisas e agora terão de acertar suas contas com a própria Morte."
+            },
+            {
+                "titulo": "Premonição 2",
+                "tmdb_id": "9358",
+                "url": "magnet=81e42e55f3919afef66cf210cfe58de8b185f8c8",
+                "poster": "https://image.tmdb.org/t/p/w500/v1HSfT3BjDRGfHji30VvHeCBJHu.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/tKnmfO5lAyu8hpTZMyMaI4lhZpJ.jpg",
+                "rate": 6.244,
+                "aired": "2003-01-31",
+                "ano": "2003",
+                "plot": "Kimberly está na estrada com amigos quando tem a visão de um acidente com inúmeros carros e mortes, inclusive a sua. Apavorada, ela para na tentativa de evitar a ocorrência. Mas, infelizmente, o acidente acontece. Contudo, algumas das pessoas que deveriam ter morrido acabam se salvando. E é aí que o pesadelo começa. Agora, a Morte voltará para levar, um a um, todos aqueles que tiveram o traçado de seu destino alterado pela premonição da garota."
+            },
+            {
+                "titulo": "Premonição 3",
+                "tmdb_id": "9286",
+                "url": "magnet=193e505d7754b681023b58e7a60a0023dbe0f70c",
+                "poster": "https://image.tmdb.org/t/p/w500/zdW7TWFc9DOG8gCElBBsj5pvpuK.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/nSV1NIAK0Sp5dM1oiobtqbJ8Jrv.jpg",
+                "rate": 6.1,
+                "aired": "2006-02-09",
+                "ano": "2006",
+                "plot": "Seis anos depois que um grupo de estudantes enganam pela primeira vez a morte, uma adolescente tem o pressentimento de que ela e seus amigos vão ter um acidente em uma montanha-russa. Quando a visão prova ser verdadeira, a estudante e os sobreviventes precisarão lidar com as repercussões de enganar a morte."
+            },
+            {
+                "titulo": "Premonição 4",
+                "tmdb_id": "19912",
+                "url": "magnet=cd4ad04b8cafd53b6e41feb48bcdd55237194f66",
+                "poster": "https://image.tmdb.org/t/p/w500/sIDOFaipvpSM0R2uZNcDMLvTbhM.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/vMaKc5PwdKIIBt5q7JQjfgyESYT.jpg",
+                "rate": 5.592,
+                "aired": "2009-08-26",
+                "ano": "2009",
+                "plot": "Durante uma corrida de carros, Nick O'Bannon tem uma horrível premonição sobre uma sequência de eventos que causarão um sério acidente, matando diversos espectadores de forma brutal. Quando volta dessa visão, o garoto se dá conta de que tudo o que previu está prestes a acontecer e agora ele terá de correr contra o tempo para salvar a vida do máximo de pessoas possível."
+            },
+            {
+                "titulo": "Premonição 5",
+                "tmdb_id": "55779",
+                "url": "magnet=62c786df1c36008393e5bc0ae17bc98b6287c698",
+                "poster": "https://image.tmdb.org/t/p/w500/jJZPD1eOzLJph5yedRv0dxwk5GA.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/zhFOEVvwyJjGsAqf31FF3H9OXlH.jpg",
+                "rate": 6.097,
+                "aired": "2011-08-12",
+                "ano": "2011",
+                "plot": "A Morte está mais onipresente do que nunca, e inicia seu ataque após a premonição de um homem que salva um grupo de colegas de trabalho de um terrível colapso em uma ponte suspensa. Mas este grupo de almas inocentes não deveria sobreviver e, em uma aterrorizante corrida contra o tempo, o grupo tenta freneticamente descobrir uma maneira de escapar dos planos sinistros da Morte."
+            }
+        ]
+    },
+    {
+        "collection_id": "17255",
+        "collection_title": "Resident Evil: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/5ETUTjVmac01MkWHH5xi05z7ifi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/boGFrRgxIashHULL4TJ876KFwmU.jpg",
+        "rate": 6.216,
+        "aired": "",
+        "ano": "2016",
+        "plot": "Baseado vagamente nos game da Capcom do mesmo nome. A série de filmes é escrita por Paul W.S. Anderson com a protagonista Alice, interpretada por Milla Jovovich. A Umbrella Corporation atua como o principal antagonista da série, uma empresa farmacêutica de bioengenharia responsável pelo apocalipse zumbi como resultado da criação do virus T.",
+        "movies": [
+            {
+                "titulo": "Resident Evil: O Hóspede Maldito",
+                "tmdb_id": "1576",
+                "url": "magnet=3d311cc8276cda92f7d8a45bdd8356b255a759aa",
+                "poster": "https://image.tmdb.org/t/p/w500/oxZX9s92Xr5f7mnFCGyEsB5mCOb.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/l5KvxFVOru3Qyf3dl2asNw5g1MD.jpg",
+                "rate": 6.637,
+                "aired": "2002-03-15",
+                "ano": "2002",
+                "plot": "Uma equipe de comando militar composta por civis deve lutar contra mortos-vivos carnívoros, cães mutantes e defesas mortíferas de um super computador, antes que um vírus solto consuma a humanidade, nesta adaptação do sucesso da série de vídeo-games!"
+            },
+            {
+                "titulo": "Resident Evil 2: Apocalipse",
+                "tmdb_id": "1577",
+                "url": "magnet=251fc172798b5678825e1552e04e2fc51ce17d9f",
+                "poster": "https://image.tmdb.org/t/p/w500/r8q9pCcpzclyg2NjOt7DRbHRvG9.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/5PJP3NaiH9ZJRzrEHLeqSY5rNxb.jpg",
+                "rate": 6.359,
+                "aired": "2004-09-10",
+                "ano": "2004",
+                "plot": "Depois de escapar com grande dificuldade dos horrores das instalações subterrâneas da Hive, Alice é empurrada de volta para a guerra feroz entre os vivos e os não-mortos. Enquanto a cidade está isolada sob quarentena, Alice se junta a uma pequena equipe de soldados de elite comandada por Valentine e Carlos que tem a missão de resgatar a filha desaparecida do Dr. Ashford, o criador do vírus T-mutante. Será uma emocionante corrida contra o tempo, enquanto o grupo enfrenta hordas de zumbis sedentos de sangue, sanguessugas escondidas, cães mutantes e os mais sinistros inimigos."
+            },
+            {
+                "titulo": "Resident Evil 3: A Extinção",
+                "tmdb_id": "7737",
+                "url": "magnet=8ab24fbfcf1b412a118477628c01e0ca6e5567f3",
+                "poster": "https://image.tmdb.org/t/p/w500/lKdzoUvMsriRrtfK6e5uw2XpXtn.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/u8QUvrq24pWB2x1DxCy4ulbKJG5.jpg",
+                "rate": 6.3,
+                "aired": "2007-09-20",
+                "ano": "2007",
+                "plot": "Las Vegas significa pura diversão sob o sol. Bem... pelo menos o sol ainda brilha por lá. A não ser em algumas áreas, que se parecem com o resto do deserto ou o resto de todo país, onde as pessoas que circulam são zumbis canibais: uma massa de mortos vivos aterrorizando a todos. A nova e melhorada Alice juntamente com a sua turma vai travar a batalha final contra o mal com um único objetivo: transformar os mortos vivos em mortos de verdade."
+            },
+            {
+                "titulo": "Resident Evil 4: Recomeço",
+                "tmdb_id": "35791",
+                "url": "magnet=6c5efe358c20185ae57aeb79e3df949e71427617",
+                "poster": "https://image.tmdb.org/t/p/w500/eLUc5to0p5LhbXJMXtgltg7P4g4.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/jeocW9EgPraRqsUDb34NB8ft97v.jpg",
+                "rate": 6.1,
+                "aired": "2010-09-09",
+                "ano": "2010",
+                "plot": "Depois de atacar sozinha o forte da Umbrella, as habilidades sobre-humanas de Alice são neutralizados. Agora, fugindo dos zumbis criados pelo vírus T, Alice se reúne a Claire Redfield e a seu irmão, Chris. Juntos, eles se refugiam com outros sobreviventes numa prisão abandonada, onde um bando de zumbis selvagens se interpõem entre eles e a segurança de \"Arcadia\". Para fugir desses mutantes sedentos por sangue eles precisarão de um arsenal. Mas a fim de enfrentar Albert, Wesker e a Umbrella a luta pela sobrevivência escalará a um novo nível de perigo."
+            },
+            {
+                "titulo": "Resident Evil 5: Retribuição",
+                "tmdb_id": "71679",
+                "url": "magnet=d0fa4c289b0b3dafc6e865823cc9d856461a526d",
+                "poster": "https://image.tmdb.org/t/p/w500/tMrLVjpLSvjtQ4Bd7v34SwqQ7bb.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/x2O0Q6dypNjj5maxu3aPFuwImdW.jpg",
+                "rate": 5.8,
+                "aired": "2012-09-12",
+                "ano": "2012",
+                "plot": "O vírus-T fatal da Corporação Umbrella está se espalhando pelo mundo, transformando pessoas comuns em legiões de zumbis. Prestes à extinção, a raça humana só tem uma esperança: Alice. Ela tem uma missão, lutando pelas cidades e através de continentes, sempre dentro da principal instalação de pesquisa da Corporação Umbrella. Velhos amigos se tornam novos inimigos, enquanto ela batalha para se libertar e descobre que tudo em que acreditou pode nem ser verdade."
+            },
+            {
+                "titulo": "Resident Evil 6: O Capítulo Final",
+                "tmdb_id": "173897",
+                "url": "magnet=699ffa4c61e4608f6796140e63b8ace225696d75",
+                "poster": "https://image.tmdb.org/t/p/w500/kgkPkKPjDOfBjlUyWBg3GQNwBer.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/sQRfWdDxH53Vk7ZJ1UqzcaBHocO.jpg",
+                "rate": 6.1,
+                "aired": "2016-12-23",
+                "ano": "2016",
+                "plot": "Sobrevivente do massacre zumbi, Alice retorna para onde o pesadelo começou, Raccoon City, em que a Umbrella Corporation reúne suas forças para um ataque final contra os remanescentes do apocalipse. Para vencer a dura batalha final e salvar a raça humana, a heroína recruta velhos e novos amigos."
+            }
+        ]
+    },
+    {
+        "collection_id": "2794",
+        "collection_title": "As Crônicas de Riddick: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/pBjtc1KOkaIUTue4Lu3yx2Cg1ah.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/xb5zyHecWA7UACdiNPXDA3m5HSY.jpg",
+        "rate": 6.533333333333334,
+        "aired": "",
+        "ano": "2013",
+        "plot": "\"As Crônicas de Riddick\" é uma série de filmes de ficção científica que segue as aventuras do anti-herói Richard B. Riddick.",
+        "movies": [
+            {
+                "titulo": "Eclipse Mortal",
+                "tmdb_id": "2787",
+                "url": "magnet=2126a5d315a4b99b4961139c7a08ffe33fc6453d",
+                "poster": "https://image.tmdb.org/t/p/w500/7V4WfCUWYzMcBby8e6jAwVxw2Ai.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/38Y65sf9O4zLq6Ke2KdpANYk0G3.jpg",
+                "rate": 6.8,
+                "aired": "2000-02-18",
+                "ano": "2000",
+                "plot": "No futuro, as viagens interplanetárias são corriqueiras e o homem conhece boa parte do universo. Durante uma viagem tripulada por centenas de pessoas rumo ao planeta New Mecca, um acidente ocorre e a nave é obrigada a pousar num planeta desconhecido. De toda a tripulação, apenas seis pessoas sobrevivem à queda, que descobrem estar num planeta povoado por milhares de criaturas carnívoras, que hibernam nas cavernas locais, mas que irão caçar em céu aberto com a chegada do próximo eclipse. A única arma que eles têm contra os monstros é a claridade, mas mesmo assim o planeta não possui eletricidade e as baterias de seus trajes estão esgotando."
+            },
+            {
+                "titulo": "A Batalha de Riddick",
+                "tmdb_id": "2789",
+                "url": "magnet=c2afbcaa2a87eee3392a12f9e5cf4fcf1f6b70ee",
+                "poster": "https://image.tmdb.org/t/p/w500/dkl3u70N9aS16czdZyvKRlsbf6Y.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/lt3NqorBMWn786m9bzqM0OLdMS8.jpg",
+                "rate": 6.5,
+                "aired": "2004-06-11",
+                "ano": "2004",
+                "plot": "Os Necromongers são guerreiros interplanetários que vivem de assolar novos mundos, oferecendo aos seus habitantes duas opções: se converter ou morrer. Os poucos que conseguem sobreviver a eles passam a acreditar em mitos e profecias, já que não vêem outra saída de salvação. Quem pode ajudá-los é Riddick (Vin Diesel), um homem solitário que vive exilado e fugindo de seus perseguidores."
+            },
+            {
+                "titulo": "Riddick 3",
+                "tmdb_id": "87421",
+                "url": "magnet=f08b6dc04cb139d8022b6b9fc0303341eb4aeddd",
+                "poster": "https://image.tmdb.org/t/p/w500/yoNsvIBOIVegeCTzQBiOZUpC5Ml.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/uQsnStQOLaqCBSTU3yeggpqbt8n.jpg",
+                "rate": 6.3,
+                "aired": "2013-09-02",
+                "ano": "2013",
+                "plot": "Riddick, o homem mais procurado da galáxia, foi abandonado à própria morte em um planeta habitado apenas por animais selvagens. Ele deseja retornar ao seu planeta natal, mas como não tem uma nave precisa encontrar um jeito de sobreviver neste ambiente inóspito. A situação muda quando dois grupos de mercenários chegam ao planeta separadamente, ambos com o objetivo de capturar Riddick. Conhecendo muito bem os perigos do local, Riddick passa a usá-los a seu favor na tentativa de conseguir uma das naves para si."
+            }
+        ]
+    },
+    {
+        "collection_id": "448150",
+        "collection_title": "Deadpool: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/sG79t0CRVzZd7BnHGVfD5daTpGQ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/dTq7mGyAR5eAydR532feWfjJjzm.jpg",
+        "rate": 7.566666666666666,
+        "aired": "",
+        "ano": "2024",
+        "plot": "Uma série de filmes sobre o anti-super-herói do mesmo nome. Um lado engraçado e bem-humorado dos X-Men.",
+        "movies": [
+            {
+                "titulo": "Deadpool",
+                "tmdb_id": "293660",
+                "url": "magnet=2aa5f34b8e73a7bdf34aefde9a4f24559fab8a29",
+                "poster": "https://image.tmdb.org/t/p/w500/9it1qyyxxSW7TFKnKF7orVF9BpT.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/k2VX0gFu2BEJhvduQTq2ioYp8z7.jpg",
+                "rate": 7.6,
+                "aired": "2016-02-09",
+                "ano": "2016",
+                "plot": "Baseado no anti-herói não convencional da Marvel Comics, Deadpool conta a história da origem do ex-agente das Forças Especiais que se tornou o mercenário Wade Wilson. Depois de ser submetido a um desonesto experimento que o deixa com poderes de cura acelerada, Wade adota o alter ego de Deadpool. Armado com suas novas habilidades e um senso de humor negro e distorcido, Deadpool persegue o homem que quase destruiu sua vida."
+            },
+            {
+                "titulo": "Deadpool 2",
+                "tmdb_id": "383498",
+                "url": "magnet=fb3138c1ca8eddee036dde5917e5b4a90efee967",
+                "poster": "https://image.tmdb.org/t/p/w500/6CABdPx68rYoLdvXhIJkilOj6XZ.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+                "rate": 7.5,
+                "aired": "2018-05-10",
+                "ano": "2018",
+                "plot": "Quando o super soldado Cable chega em uma missão para assassinar o jovem mutante Russel, o mercenário Deadpool precisa aprender o que é ser herói de verdade para salvá-lo. Para isso, ele recruta seu velho amigo Colossus e forma o novo grupo X-Force, sempre com o apoio do fiel escudeiro Dopinder."
+            },
+            {
+                "titulo": "Deadpool & Wolverine",
+                "tmdb_id": "533535",
+                "url": "magnet=280672c3a6e3c2d3f711ac903da39a005bd6ab3a",
+                "poster": "https://image.tmdb.org/t/p/w500/xq4v7JE8niZ75OYYPDGNn6Gzpyt.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+                "rate": 7.6,
+                "aired": "2024-07-24",
+                "ano": "2024",
+                "plot": "Um apático Wade Wilson trabalha duro na vida civil. Seus dias como mercenário moralmente flexível, Deadpool, ficaram para trás. Quando seu planeta enfrenta uma ameaça, Wade deve relutantemente vestir-se novamente com um ainda mais relutante... relutante? Mais relutante? Ele deve convencer um Wolverine relutante em... Porra. As sinopses são tão estúpidas."
+            }
+        ]
+    },
+    {
+        "collection_id": "131292",
+        "collection_title": "Homem de Ferro: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/kOhdPgiKCgnZixjpTxBag5Sxr4J.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/rI8zOWkRQJdlAyQ6WJOSlYK6JxZ.jpg",
+        "rate": 7.1243333333333325,
+        "aired": "",
+        "ano": "2013",
+        "plot": "Série de filmes de super-herói, baseado no personagem da Marvel Comics com o mesmo nome e parte do Universo Marvel. Tony Stark é o Homem de Ferro, um industrial e engenheiro, que usa um exoesqueleto motorizado, para combater os inimigos, com a ajuda de sua assistente pessoal e interesse amoroso Pepper Potts.",
+        "movies": [
+            {
+                "titulo": "Homem de Ferro",
+                "tmdb_id": "1726",
+                "url": "magnet=c8c439de64e1c97fbeabb896c2ec3f907cfccaea",
+                "poster": "https://image.tmdb.org/t/p/w500/6yObhDNEsAmFyMVfWNL64wQGyzj.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/cdsjxSR55VS80IiJfrQ9i9pWqrp.jpg",
+                "rate": 7.6,
+                "aired": "2008-04-30",
+                "ano": "2008",
+                "plot": "Tony Stark é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter ego do Homem de Ferro."
+            },
+            {
+                "titulo": "Homem de Ferro 2",
+                "tmdb_id": "10138",
+                "url": "magnet=018cfa9e17b1eead48dfbbdbd9516b66eff55f2d",
+                "poster": "https://image.tmdb.org/t/p/w500/vzROjQbgKWMVf2EldXipCcjpuBL.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
+                "rate": 6.844,
+                "aired": "2010-04-28",
+                "ano": "2010",
+                "plot": "Em um mundo ciente da existência do Homem de Ferro, o inventor bilionário Tony Stark sofre pressão de todos os lados para compartilhar sua tecnologia com as forças armadas. Ele resiste para divulgar os segredos de sua inigualável armadura, com medo de que estas informações caiam nas mãos erradas."
+            },
+            {
+                "titulo": "Homem de Ferro 3",
+                "tmdb_id": "68721",
+                "url": "magnet=c97a57ab8f0040b9b015887b4cfbb63a602a5f32",
+                "poster": "https://image.tmdb.org/t/p/w500/yzL3IlELFTRnRLdGqRv33SecqtD.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/iVped1djsF0tvGkvnHbzsE3ZPTF.jpg",
+                "rate": 6.929,
+                "aired": "2013-04-18",
+                "ano": "2013",
+                "plot": "Depois de um inimigo reduzir o mundo de Tony Stark a destroços, o Homem de Ferro precisa aprender a confiar em seus instintos para proteger aqueles que ama, especialmente sua namorada, e lutar contra seu maior medo: o fracasso."
+            }
+        ]
+    },
+    {
+        "collection_id": "8945",
+        "collection_title": "Mad Max: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/1uaQAFbYJJFFOMrDnAUGPyPyAse.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/fhv3dWOuzeW9eXOSlr8MCHwo24t.jpg",
+        "rate": 7.0802000000000005,
+        "aired": "",
+        "ano": "2024",
+        "plot": "Nos anais dos filmes de ação, poucos se comparam a este eletrizante épico que mistura velocidade e carnificina, que lança o espectador em uma paisagem desoladora e sequer imaginada, onde o futuro pós-guerra nuclear encontra o passado mitológico. Mais simplesmente, trata-se de um dos mais poderosos filmes de ação já feitos. Mel Gibson deixou sua marca na história da Sétima Arte como o herói solitário Max, que dirige o último dos V-8 pelas estradas que cortam o outback australiano em um infindável busca por gasolina.",
+        "movies": [
+            {
+                "titulo": "Mad Max",
+                "tmdb_id": "9659",
+                "url": "magnet=",
+                "poster": "https://image.tmdb.org/t/p/w500/5LrI4GiCSrChgkdskVZiwv643Kg.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/uL5DoOuMho1QY7OK5IqacYH9QHK.jpg",
+                "rate": 6.685,
+                "aired": "1979-04-12",
+                "ano": "1979",
+                "plot": "Em um futuro distópico não muito distante, os recursos de óleo foram esgotados e o mundo está mergulhado em guerra, fome e caos financeiro. É quando o policial Mad Max, que não tem mais nada além de seus instintos de sobrevivência e retaliação, começa uma vingança contra a gangue que perseguiu e assassinou sua esposa e filhos."
+            },
+            {
+                "titulo": "Mad Max 2: A Caçada Continua",
+                "tmdb_id": "8810",
+                "url": "magnet=",
+                "poster": "https://image.tmdb.org/t/p/w500/jmI9M04jZnfgAaA1kSiG2HKHUxt.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/jEuwsmFS8JPzkDIhRL3B2BVYbU4.jpg",
+                "rate": 7.394,
+                "aired": "1981-12-24",
+                "ano": "1981",
+                "plot": "No futuro o bem mais precioso é a gasolina, em virtude de uma guerra que acabou com os campos petrolíferos do Oriente Médio. Tendo combustível pode-se fugir da morte ou se dirigir a algum lugar para matar alguém. Neste contexto, Max resolve ajudar uma comunidade a defender sua refinaria contra uma gangue de motoqueiros."
+            },
+            {
+                "titulo": "Mad Max: Além da Cúpula do Trovão",
+                "tmdb_id": "9355",
+                "url": "magnet=",
+                "poster": "https://image.tmdb.org/t/p/w500/kF524uYB8NWmWCJHCTNlRfbI6Qc.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/br1zDvgmBPa1EbBrUmEDaXXgykq.jpg",
+                "rate": 6.222,
+                "aired": "1985-06-29",
+                "ano": "1985",
+                "plot": "Em uma era pós-apocalíptica, Mad Max chega a uma cidade cheia de desordeiros e governada por Turner. Lá, ele se torna um gladiador e é abandonado no deserto. Um bando de órfãos selvagens, os quais procuram por ajuda há muitos anos, acaba resgatando Mad Max. Quando vários dos órfãos acreditam que a chegada de Max é um sinal, ele decide retornar para a cidade."
+            },
+            {
+                "titulo": "Mad Max: Estrada da Fúria",
+                "tmdb_id": "76341",
+                "url": "magnet=be1ffe9412241bac956a2fef4e2012ef67b044c3",
+                "poster": "https://image.tmdb.org/t/p/w500/mtgqrSlT47VsmeMVanLTny7BknB.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
+                "rate": 7.6,
+                "aired": "2015-05-13",
+                "ano": "2015",
+                "plot": "Em um mundo apocalíptico, Max Rockatansky acredita que a melhor forma de sobreviver é não depender de ninguém. Porém, após ser capturado pelo tirano Immortan Joe e seus rebeldes, Max se vê no meio de uma guerra mortal, iniciada pela imperatriz Furiosa que tenta salvar um grupo de garotas. Também tentando fugir, Max aceita ajudar Furiosa. Dessa vez, o tirano Joe está ainda mais implacável pois teve algo insubstituível roubado."
+            },
+            {
+                "titulo": "Furiosa: Uma Saga Mad Max",
+                "tmdb_id": "786892",
+                "url": "magnet=f0987a8b478939e62ffa2cb317c5aeed9896b2a5",
+                "poster": "https://image.tmdb.org/t/p/w500/7qOSKoOAPgemYhBwbJgBWcCxPWZ.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/wNAhuOZ3Zf84jCIlrcI6JhgmY5q.jpg",
+                "rate": 7.5,
+                "aired": "2024-05-22",
+                "ano": "2024",
+                "plot": "Quando o mundo entra em colapso, a jovem Furiosa é sequestrada do Green Place das Muitas Mães e cai nas mãos da horda de motoqueiros liderada pelo Senhor da Guerra Dementus. Vagando pelo deserto condenado, eles encontram a Cidadela controlada por Immortan Joe. Enquanto os dois tiranos lutam por poder e controle, Furiosa terá que sobreviver a muitos desafios para encontrar e trilhar o caminho de volta para casa."
+            }
+        ]
+    },
+    {
+        "collection_id": "808",
         "collection_title": "",
         "poster": "https://image.tmdb.org/t/p/w500",
         "backdrop": "https://image.tmdb.org/t/p/original",
+        "rate": 6.926,
+        "aired": "",
+        "ano": "2010",
+        "plot": "Descrição não disponível",
+        "movies": [
+            {
+                "titulo": "Shrek",
+                "tmdb_id": "808",
+                "url": "magnet=05968ec30ded898b9a843975df9a192418a16ecf",
+                "poster": "https://image.tmdb.org/t/p/w500/dyhaB19AICF7TO7CK2aD6KfymnQ.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/2l5UHZBcp9cx1PwKLdisJ0gV9jB.jpg",
+                "rate": 7.745,
+                "aired": "2001-05-18",
+                "ano": "2001",
+                "plot": "Em um pântano distante vive Shrek, um ogro solitário que vê, sem mais nem menos, sua vida ser invadida por uma série de personagens de contos de fada, como três ratos cegos, um grande e malvado lobo e ainda três porcos que não têm um lugar onde morar. Todos eles foram expulsos de seus lares pelo maligno Lorde Farquaad. Determinado a recuperar a tranquilidade de antes, Shrek resolve encontrar Farquaad e com ele faz um acordo: todos os personagens poderão retornar aos seus lares se ele e seu amigo Burro resgatarem uma bela princesa, que é prisioneira de um dragão. Porém, quando Shrek e o Burro enfim conseguem resgatar a princesa logo eles descobrem que seus problemas estão apenas começando."
+            },
+            {
+                "titulo": "Shrek 2",
+                "tmdb_id": "809",
+                "url": "magnet=b551f0c2eb11e1e20ec73ea821a027d67171a3cd",
+                "poster": "https://image.tmdb.org/t/p/w500/qHeyupQEoDUdNfppQDl6LQcncUK.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/l45UqyARB3WxpYNuACjMjndpe85.jpg",
+                "rate": 7.283,
+                "aired": "2004-05-19",
+                "ano": "2004",
+                "plot": "Após se casar com a Princesa Fiona (Cameron Diaz), Shrek (Mike Myers) vive feliz em seu pântano. Ao retornar de sua lua-de-mel Fiona recebe uma carta de seus pais, que não sabem que ela agora é um ogro, convidando-a para um jantar juntamente com seu grande amor, na intenção de conhecê-lo. A muito custo Fiona consegue convencer Shrek a ir visitá-los, tendo ainda a companhia do Burro (Eddie Murphy). Porém os problemas começam quando os pais de Fiona descobrem que ela não se casou com o Príncipe (Rupert Everett), a quem havia sido prometida, e enviam o Gato de Botas (Antonio Banderas) para separá-los."
+            },
+            {
+                "titulo": "Shrek Terceiro",
+                "tmdb_id": "810",
+                "url": "magnet=9abaa66e56a6de58dd969c6d822d3c62dfc03b4d",
+                "poster": "https://image.tmdb.org/t/p/w500/abw1mIJIjG9X3xSEffE9siLcOkN.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/lxbKrBo1wZ2U9BS1jiZyNe3qI4J.jpg",
+                "rate": 6.297,
+                "aired": "2007-05-17",
+                "ano": "2007",
+                "plot": "Quando seu sogro-sapo dá o último coaxo, Shrek embarca em mais uma tresloucada aventura, com Burro e Gato de Botas, para encontrar um novo herdeiro para o trono. O elenco favorito de personagens está de volta e trazendo novos, como Merlin, um mágico trapalhão, um esquisito Arthur, uma turma de poderosas princesas e um bando de surpreendentes aparições. Só mesmo Shrek para contar uma história onde todos vão viver gargalhando para sempre."
+            },
+            {
+                "titulo": "Shrek Para Sempre: O Capítulo Final",
+                "tmdb_id": "10192",
+                "url": "magnet=7ca626440a21f3b5400e24b6bf3a50330692e4e6",
+                "poster": "https://image.tmdb.org/t/p/w500/fxMK2UCjvB8hOFod3v2wQDXLGF3.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/xZ2we4gdiwQmg6D1w9qHlAm5yIf.jpg",
+                "rate": 6.379,
+                "aired": "2010-05-16",
+                "ano": "2010",
+                "plot": "Com saudade do tempo em que era um verdadeiro ogro, Shrek assina um contrato enfeitiçado com Rumpelstiltskin e... puf! Em um instante, tudo e todos se transformam. De repente Burro não se lembra de seu melhor amigo, Fiona agora é uma valente princesa guerreira e Gato de Botas é só um gato gordo! Juntos, eles precisam reverter o contrato em apenas 24 horas, para salvar Tão Tão Distante e restaurar seus dias felizes para sempre."
+            }
+        ]
+    },
+    {
+        "collection_id": "10194",
+        "collection_title": "Toy Story: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/7G9915LfUQ2lVfwMEEhDsn3kT4B.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/hApclyB9NEZEQujAVajzi5iWE4a.jpg",
+        "rate": 7.7135,
+        "aired": "",
+        "ano": "2019",
+        "plot": "Woody, um cowboy de pano é o brinquedo favorito de Andy. O que Andy não sabe é que quando os humanos não estão olhando os brinquedos ganham vida. Woody é considerado o líder dos brinquedos do quarto do Andy. Woody é muito amigo de Slinky, um cão com molas que é muito fiel ao cowboy. Andy ainda possui outros brinquedos, tais como Porquinho, o porco-cofrinho; Sr. Cabeça de Batata, o clássico brinquedo montável da Hasbro; Rex, o Tiranossauro de brinquedo; Betty, a pastora de ovelhas e \"namorada\" de Woody; dentre alguns outros.",
+        "movies": [
+            {
+                "titulo": "Toy Story: Um Mundo de Aventuras",
+                "tmdb_id": "862",
+                "url": "magnet=54cc2900a3b0d6893068cbe61e57a01dc8054e00",
+                "poster": "https://image.tmdb.org/t/p/w500/AptcisAVyZqBllXLEGje8MjKzJI.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+                "rate": 7.969,
+                "aired": "1995-10-30",
+                "ano": "1995",
+                "plot": "Buzz Lightyear é o novo e sofisticado astronauta de brinquedo do garoto Andy. Buzz não imaginava que encontraria um rival: Woody, um cowboy de brinquedo que, dominado pelo ciúme, acredita ter perdido um lugar precioso no coração do seu dono. Os dois brinquedos vivem brigando até que vão parar nas garras do vizinho, um verdadeiro destruidor de brinquedos. Agora, mais do que nunca, Buzz e Woody precisam precisam se unir para escapar do perigo. Com a ajuda de seus amigos da caixa de brinquedos, eles vão viver uma incrível aventura."
+            },
+            {
+                "titulo": "Toy Story 2",
+                "tmdb_id": "863",
+                "url": "magnet=e4aaaf212fe98a0aac932f71c390baea8a8fcaf7",
+                "poster": "https://image.tmdb.org/t/p/w500/yjzb9ojVSEw9vg5kp22ijPKXyMF.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/tPK1kSevALeVGPfDFv1pwyHnoJ9.jpg",
+                "rate": 7.6,
+                "aired": "1999-10-30",
+                "ano": "1999",
+                "plot": "Quando Andy viaja para um acampamento de verão, Woody é sequestrado por Al, um ambiocioso colecionador, que precisa do brinquedo favorito de Andy para completar sua coleção da Gangue do Rodeio. Junto com Jessie, Bala no Alvo e Mineiro, Woody corre o risco de ter que passar o resto de sua vida em exposição num museu. Agora, Buzz, Sr. Cabeça de Batata, Porquinho, Rex e Slinky terão que salvar seu amigo e trazê-lo de volta à vida de brinquedos."
+            },
+            {
+                "titulo": "Toy Story 3",
+                "tmdb_id": "10193",
+                "url": "magnet=9a4fd8fa80f0925d73891ccfe7e4bcf6be438200",
+                "poster": "https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg",
+                "rate": 7.8,
+                "aired": "2010-06-16",
+                "ano": "2010",
+                "plot": "Quando Andy se prepara para ir para a faculdade, Woody, Buzz, Jessie e o restante dos leais brinquedos de Andy pensam o que irá acontecer com eles. Mas quando uma confusão faz com que eles sejam levados à creche Sunnyside, eles conhecem um anfitrião de novos brinquedos e logo descobrem que uma nova aventura selvagem está apenas começando!"
+            },
+            {
+                "titulo": "Toy Story 4",
+                "tmdb_id": "301528",
+                "url": "magnet=014df1aba3b3ebe683ac80c4b39636c038b7e8a6",
+                "poster": "https://image.tmdb.org/t/p/w500/csiyO6q8rR74pfgJDjwINzhoick.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+                "rate": 7.485,
+                "aired": "2019-06-19",
+                "ano": "2019",
+                "plot": "Agora morando na casa da pequena Bonnie, Woody apresenta aos amigos o novo brinquedo construído por ela: Forky, baseado em um garfo de verdade. O novo posto de brinquedo não o agrada nem um pouco, o que faz com que Forky fuja de casa. Decidido a trazer de volta o atual brinquedo favorito de Bonnie, Woody parte em seu encalço e, no caminho, reencontra Bo Peep, que agora vive em um parque de diversões."
+            }
+        ]
+    },
+    {
+        "collection_id": "77816",
+        "collection_title": "Kung Fu Panda: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/2niOAGSPxhdcRfbcXGDg4doNp9z.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/2nbtv33hEk2CTnuMhTGZgsFdi3K.jpg",
+        "rate": 7.076250000000001,
+        "aired": "",
+        "ano": "2024",
+        "plot": "A série Kung Fu Panda são filmes de comédia de ação animados por computador ambientados em uma versão da China habitada por animais humanóides falantes. O enredo gira em torno de um panda humanóide desajeitado chamado Po, que aspira ser um mestre de Kung Fu.",
+        "movies": [
+            {
+                "titulo": "Kung Fu Panda",
+                "tmdb_id": "9502",
+                "url": "magnet=45b01488ee1500450d673a3610ca1f69ac8eca1a",
+                "poster": "https://image.tmdb.org/t/p/w500/schmAu5DYdn2YPoBUdqpxF98N1z.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/d1RHScaZc7I8j0lDke1c4AxI435.jpg",
+                "rate": 7.294,
+                "aired": "2008-06-04",
+                "ano": "2008",
+                "plot": "Po é um panda que trabalha na loja de macarrão da sua família e sonha em transformar-se em um mestre de kung fu. Seu sonho se torna realidade quando, inesperadamente, ele deve cumprir uma profecia antiga e estudar a arte marcial com seus ídolos, os Cinco Furiosos. Po precisa de toda a sabedoria, força e habilidade que conseguir reunir para proteger seu povo de um leopardo da neve malvado."
+            },
+            {
+                "titulo": "Kung Fu Panda 2",
+                "tmdb_id": "49444",
+                "url": "magnet=78c40f183a0d579c359742f2f86721e5c208ab07",
+                "poster": "https://image.tmdb.org/t/p/w500/dSF0v3XPCzKb30zv3fLeuoJuTRv.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/7BdxZXbSkUiVeCRXKD3hi9KYeWm.jpg",
+                "rate": 7.035,
+                "aired": "2011-05-25",
+                "ano": "2011",
+                "plot": "Po vive o sonho de ser o dragão guerreiro, protegendo o Vale da Paz ao lado dos mestres Shifu, Tigresa, Macaco, Víbora, Louva-deus e Garça. Sua vida pacata chega ao fim quando surge um novo inimigo, o lorde Chen, que possui uma arma secreta capaz de permitir a conquista da China e provocar o fim do kung fu. Para impedi-lo, Po e os Cinco Furiosos precisam cruzar o país e derrotá-lo."
+            },
+            {
+                "titulo": "Kung Fu Panda 3",
+                "tmdb_id": "140300",
+                "url": "magnet=c8c780bc1a747724badbaab385ad43c51fa6db10",
+                "poster": "https://image.tmdb.org/t/p/w500/pXYJjUNtnLfXVKGmqi1nfGornri.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/uT5G4fA7jKxlJNfwYPMm353f5AI.jpg",
+                "rate": 6.911,
+                "aired": "2016-01-23",
+                "ano": "2016",
+                "plot": "Em uma visita a uma vila secreta com o pai, Po forma um exército de pandas para combater um espírito maligno que ameaça a China."
+            },
+            {
+                "titulo": "Kung Fu Panda 4",
+                "tmdb_id": "1011985",
+                "url": "magnet=e844d28bf15aba4436c74718c57a0b88941f9da4",
+                "poster": "https://image.tmdb.org/t/p/w500/aNK6MA5EApIo0UJE7ZWSYcZBJKy.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/kYgQzzjNis5jJalYtIHgrom0gOx.jpg",
+                "rate": 7.065,
+                "aired": "2024-03-02",
+                "ano": "2024",
+                "plot": "Po está prestes a se tornar o novo líder espiritual do Vale da Paz, mas antes que possa fazer isso, ele deve encontrar um sucessor para se tornar o novo Dragão Guerreiro.  Ele parece encontrar uma em Zhen, uma raposa com muitas habilidades promissoras, mas que não gosta muito da ideia de Po treiná-la."
+            }
+        ]
+    },
+    {
+        "collection_id": "86055",
+        "collection_title": "Coleção MIB: Homens de Preto",
+        "poster": "https://image.tmdb.org/t/p/w500/Ad9W8zfafMvxRCNUGhEIWENbFmY.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/xKz6YaOvmnIJQ3MYIpnaa7FBaAB.jpg",
+        "rate": 6.499750000000001,
+        "aired": "",
+        "ano": "2019",
+        "plot": "",
+        "movies": [
+            {
+                "titulo": "MIB - Homens de Preto",
+                "tmdb_id": "607",
+                "url": "magnet=cf7ce7ce589b29ac82432881e38f89b9b2e48e39",
+                "poster": "https://image.tmdb.org/t/p/w500/sVBYUN1yG5IxDoBBrw2ujaXzhsX.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/1GJvBE7UWU1WOVi0XREl4JQc7f8.jpg",
+                "rate": 7.203,
+                "aired": "1997-07-02",
+                "ano": "1997",
+                "plot": "Kay e Jay, os Homens de Preto, são o maior segredo já mantido no universo. Eles são agentes de uma agência não-oficial do governo e responsáveis por monitorar todos os encontros com alienígenas na Terra. Ao investigar uma série de atividades extraterrestres, descobrem um terrorista intergaláctico cuja missão é assassinar dois embaixadores de galáxias opostas."
+            },
+            {
+                "titulo": "MIB - Homens de Preto II",
+                "tmdb_id": "608",
+                "url": "magnet=719e2f826cfb53199d0a790a40b3465d7cf0acc9",
+                "poster": "https://image.tmdb.org/t/p/w500/oTwnajK7kyHgvZI6oFMEWdlHj4e.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/o1l6OCqA3pYDZHIc5L1s7CEzCMv.jpg",
+                "rate": 6.372,
+                "aired": "2002-07-03",
+                "ano": "2002",
+                "plot": "Quando um alienigena renegado de Kylothian, disfarçado como modelo de lingerie, ameaça e sobrevivência da raça humana, os agentes começam a caçada. Com suas identidades sob sigilo e pouquíssimo tempo para evitar o desastre, os agentes K e J contam com a ajuda do cachorro Frank e outros alienígenas para ajudar-lhes na caçada do mais sexy invasor do planeta."
+            },
+            {
+                "titulo": "MIB - Homens de Preto III",
+                "tmdb_id": "41154",
+                "url": "magnet=0a14ebe5a73ad46e43ada78e6716096074827838",
+                "poster": "https://image.tmdb.org/t/p/w500/pOHPEDngKYdVhILHeaTbm6hmfg1.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/5AhpUb8CAP0jZ4Wrn7AsRUYjZxB.jpg",
+                "rate": 6.524,
+                "aired": "2012-05-23",
+                "ano": "2012",
+                "plot": "J já viu coisas inexplicáveis em seus quinze anos com os Homens de Preto, porém, nada, nem mesmo alienígenas o deixam mais perplexo que seu parceiro irônico e reticente. Mas quando a vida de K e o destino do planeta estão em jogo, o agente J terá de viajar no tempo, no passado, para acertar as coisas. J descobre que o universo tem segredos que K nunca contou a ele – segredos que acabarão se revelando quando ele se unir ao jovem agente K para salvar seu parceiro, a agência e o futuro da humanidade."
+            },
+            {
+                "titulo": "MIB Homens de Preto: Internacional",
+                "tmdb_id": "479455",
+                "url": "magnet=ba2eec627a88642c1f05218af02b92c8b1de35ef",
+                "poster": "https://image.tmdb.org/t/p/w500/mxopI5VyShCeAlJf3X4Q1T40Bub.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/8pD8Z5TqpJzzvOeEce15ENT288k.jpg",
+                "rate": 5.9,
+                "aired": "2019-06-12",
+                "ano": "2019",
+                "plot": "Quando criança, Molly presenciou a abordagem de dois agentes do MIB aos seus pais, apagando a memória deles acerca da súbita aparição de um ser extraterrestre. Como estava escondida, a garota não foi atingida pela ação. Obcecada pelos mistérios do universo, ela cresceu com o sonho de ingressar no MIB. Após muita pesquisa, ela consegue descobrir a sede da agência e lá se candidata a uma vaga, sendo aceita por O. Ainda em experiência, e agora renomeada como agente M, ela é enviada a Londres para investigar algo estranho que tem ocorrido na agência local. É quando conhece o agente H, de grande renome pelos seus feitos no passado mas uma certa arrogância e displicência na execução do trabalho."
+            }
+        ]
+    },
+	{
+        "collection_id": "263",
+        "collection_title": "O Cavaleiro das Trevas: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/afR93PKtvUvZtUcpf5rNLkpVcTi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/xyhrCEdB4XRkelfVsqXeUZ6rLHi.jpg",
+        "rate": 7.998333333333332,
+        "aired": "",
+        "ano": "2012",
+        "plot": "Trilogia de filmes dirigidos por Christopher Nolan.",
+        "movies": [
+            {
+                "titulo": "Batman Begins",
+                "tmdb_id": "272",
+                "url": "magnet=bdb6c2756149a63ed357382f07aa1148eeebbe89",
+                "poster": "https://image.tmdb.org/t/p/w500/7kZTOqogz4Q8kXPsza9slUpcYMW.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/ew5FcYiRhTYNJAkxoVPMNlCOdVn.jpg",
+                "rate": 7.711,
+                "aired": "2005-06-10",
+                "ano": "2005",
+                "plot": "Marcado pelo assassinato de seus pais quando ainda era criança, o milionário Bruce Wayne (Christian Bale) decide viajar pelo mundo em busca de encontrar meios que lhe permitam combater a injustiça e provocar medo em seus adversários. Após retornar a Gotham City, sua cidade-natal, ele idealiza seu alter-ego: Batman, um justiceiro mascarado que usa força, inteligência e um arsenal tecnológico para combater o crime."
+            },
+            {
+                "titulo": "Batman: O Cavaleiro das Trevas",
+                "tmdb_id": "155",
+                "url": "magnet=e9afedf42bef3dd8d990309ea84d3a7c583bbda1",
+                "poster": "https://image.tmdb.org/t/p/w500/4lj1ikfsSmMZNyfdi8R8Tv5tsgb.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/plDp52MirFHc2PMJRMNWoG0kfr3.jpg",
+                "rate": 8.5,
+                "aired": "2008-07-16",
+                "ano": "2008",
+                "plot": "Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego."
+            },
+            {
+                "titulo": "Batman: O Cavaleiro das Trevas Ressurge",
+                "tmdb_id": "49026",
+                "url": "magnet=7ad8e85fd5b276f142614c696492901ac38450bf",
+                "poster": "https://image.tmdb.org/t/p/w500/w7KDOBOKoZNzZkiKInFBlqo7Cbg.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+                "rate": 7.784,
+                "aired": "2012-07-17",
+                "ano": "2012",
+                "plot": "Após ser culpado pela morte de Harvey Dent e passar de herói a vilão, Batman desaparece. As coisas mudam com a chegada de uma ladra misteriosa, a Mulher-Gato, e Bane, um terrorista mascarado, que fazem Batman abandonar seu exílio forçado."
+            }
+        ]
+    },
+    {
+        "collection_id": "528",
+        "collection_title": "Exterminador do Futuro: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/xd2YpJhY6Kap9WS4eSOpuRFWcSH.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/jz9usvWv5DrQGtjauEU4KSzgb8M.jpg",
+        "rate": 6.718,
+        "aired": "",
+        "ano": "2019",
+        "plot": "Uma série de filmes de ficção científica sobre o conflito futurista entre os humanos liderados por John Connor e os exterminadores, que são feitos e controlados pela Skynet, um super computador autoconsciente que iniciou o Armagedon e pode realmente acabar com a humanidade para sempre.",
+        "movies": [
+            {
+                "titulo": "O Exterminador do Futuro",
+                "tmdb_id": "218",
+                "url": "magnet=337a7c112702669ce506cd1856c60426ffeb469",
+                "poster": "https://image.tmdb.org/t/p/w500/rZvxTfmaOxWeOeU9w9Vkq5elagp.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/wh4ze6klUbeichAj603OKZwY1W5.jpg",
+                "rate": 7.662,
+                "aired": "1984-10-26",
+                "ano": "1984",
+                "plot": "Em um futuro próximo, a guerra entre humanos e máquinas foi iniciada. Com a tecnologia a seu dispor, um plano inusitado é arquitetado pelas máquinas ao enviar para o passado um andróide com a missão de matar a mãe daquele que viria a se transformar num líder e seu pior inimigo. Contudo, os humanos também conseguem enviar seu representante para proteger a mulher e tentar garantir o futuro da humanidade."
+            },
+            {
+                "titulo": "O Exterminador do Futuro 2: O Julgamento Final",
+                "tmdb_id": "280",
+                "url": "magnet=a74d828b27cd365e4a80bae1cf8fde591f4ffcde",
+                "poster": "https://image.tmdb.org/t/p/w500/nb0ertLALhkUqpmcahDFplqyc0I.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/vINgGecnz95iDL6fjQMARDsocgG.jpg",
+                "rate": 8.118,
+                "aired": "1991-07-03",
+                "ano": "1991",
+                "plot": "O jovem John Connor é a chave para a vitória da civilização sobre uma rebelião de robôs do futuro. No entanto, ele torna-se alvo de T-1000, um exterminador que pode assumir a forma que desejar e que foi enviado do futuro para matá-lo. Outro exterminador, o renovado T-800, também é enviado de volta ao passado para proteger o garoto. Quando John e sua mãe embarcam na fuga com T-800, o menino cria um vínculo forte e inesperado com o robô."
+            },
+            {
+                "titulo": "O Exterminador do Futuro 3: A Rebelião das Máquinas",
+                "tmdb_id": "296",
+                "url": "magnet=9d972c709ca21ee18731f354493af921cf7a938c",
+                "poster": "https://image.tmdb.org/t/p/w500/qgD91j1YIeZKcO5MWe3blArV4SC.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/kbXMOnz2RhTSAbLtHX5hy5AXtwv.jpg",
+                "rate": 6.165,
+                "aired": "2003-07-02",
+                "ano": "2003",
+                "plot": "Na intenção de concluir a missão ainda inacabada, a bela e perigosa máquina mortífera T-X é enviada para matar John Connor, líder da resistência humana contra as máquinas da Skynet. Para protegê-lo mais uma vez o ciborgue T-800 volta à cena."
+            },
+            {
+                "titulo": "O Exterminador do Futuro: A Salvação",
+                "tmdb_id": "534",
+                "url": "magnet=55d006e6efa123c1f1759672027d2c601cf7f8e0",
+                "poster": "https://image.tmdb.org/t/p/w500/lZfpIDHC6WNUiv9FJXkYnoHVwuE.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/m9yHpYz4GcEtmHJW4rvQIrF891h.jpg",
+                "rate": 6.063,
+                "aired": "2009-05-20",
+                "ano": "2009",
+                "plot": "John Connor é designado para liderar a resistência humana ao domínio das máquinas, coordenadas pela Skynet e seu exército de exterminadores. Quando surge um estranho homem chamado Marcus Wright, cuja última memória que possui é de estar no corredor da morte. John Connor precisa descobrir se ele foi enviado do futuro ou resgatado do passado, ao mesmo tempo em que a Skynet prepara seu ataque definitivo, que pode aniquilar a humanidade."
+            },
+            {
+                "titulo": "O Exterminador do Futuro: Gênesis",
+                "tmdb_id": "87101",
+                "url": "magnet=f1dc9eba5842d9878d10f7ca7d86d63bc8ec008e",
+                "poster": "https://image.tmdb.org/t/p/w500/iAvjgsPiNp0pvgOWaMTSk2HXJh0.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/wvlIoof1FnKPLv9jAYanuP31V0C.jpg",
+                "rate": 5.9,
+                "aired": "2015-06-23",
+                "ano": "2015",
+                "plot": "John Connor, líder da resistência humana contra Skynet, envia Kyle Reese de volta a 1984 para proteger sua mãe, Sarah. Porém, Reese se surpreende ao encontrá-la com um exterminador que age como seu protetor, e descobre que o passado foi alterado."
+            },
+            {
+                "titulo": "O Exterminador do Futuro: Destino Sombrio",
+                "tmdb_id": "290859",
+                "url": "magnet=0a3e0a6f4bf91d2c9386f330760748fc63d2ef94",
+                "poster": "https://image.tmdb.org/t/p/w500/5JYfI1yehkr2ZEXf1Pnm8OTuT24.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/a6cDxdwaQIFjSkXf7uskg78ZyTq.jpg",
+                "rate": 6.4,
+                "aired": "2019-10-23",
+                "ano": "2019",
+                "plot": "Décadas após Sarah Connor impedir o Dia do Julgamento, um novo Exterminador letal é enviado para eliminar o futuro líder da resistência. Em uma luta para salvar a humanidade, Sarah Connor, endurecida pela batalha, se une a um aliado inesperado e a um super soldado aprimorado com a missão de parar o Exterminador mais mortal até agora."
+            }
+        ]
+    },
+    {
+        "collection_id": "328",
+        "collection_title": "Jurassic Park: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/63S4L7p7ljvKFFUuuaWKo8mHxBY.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/njFixYzIxX8jsn6KMSEtAzi4avi.jpg",
+        "rate": 6.754166666666666,
+        "aired": "",
+        "ano": "2022",
+        "plot": "Uma série americana de filmes de aventura de ficção científica com base no romance do mesmo nome de Michael Crichton. Os filmes se centram na ilustre Isla Nublar, perto da Costa Rica, na Costa do Pacífico Centro-Americana, onde um filantropo bilionário e uma pequena equipe de cientistas genéticos criaram um parque de diversões de dinossauros clonados.",
+        "movies": [
+            {
+                "titulo": "Jurassic Park: O Parque dos Dinossauros",
+                "tmdb_id": "329",
+                "url": "magnet=45c9ac5e84b31935930b1ad869e5d750d01f4daa",
+                "poster": "https://image.tmdb.org/t/p/w500/mgjJ7FH4V3exsmoHwXrmsUhn0h1.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/79bJL9ydAMYVltuNTt4VhxORqIz.jpg",
+                "rate": 7.951,
+                "aired": "1993-06-11",
+                "ano": "1993",
+                "plot": "Um parque construído por um milionário tem dinossauros diversos como habitantes, extintos a sessenta e cinco milhões de anos. Isto é possível por ter sido encontrado um inseto fossilizado, que tinha sugado sangue destes dinossauros, de onde pôde-se isolar o DNA, o código químico da vida e, a partir deste ponto, recriá-los em laboratório. Mas, o que parecia ser um sonho se torna um pesadelo, quando a experiência sai do controle de seus criadores."
+            },
+            {
+                "titulo": "O Mundo Perdido: Jurassic Park",
+                "tmdb_id": "330",
+                "url": "magnet=70b1ac0fd408735b2895ad378b7d5b991b66654c",
+                "poster": "https://image.tmdb.org/t/p/w500/z6kJSvM2tT542uKcNeRN0TJYsXc.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/w9eBtIHHpGgGfjqnEAJM3s7mCOa.jpg",
+                "rate": 6.545,
+                "aired": "1997-05-23",
+                "ano": "1997",
+                "plot": "John Hammond chama o teórico do caos Ian Malcolm à sua casa para dar algumas notícias aterradoras: Enquanto quase tudo em Jurassic Park foi destruído, seus engenheiros parecem ter um segundo local, onde outros dinossauros estão escondidos. Aparentemente, os dinossauros na segunda ilha estão vivos e bem e até se acasalando. Hammond quer que Malcolm observe e documente as criaturas antes que mercenários cheguem até eles."
+            },
+            {
+                "titulo": "Jurassic Park 3",
+                "tmdb_id": "331",
+                "url": "magnet=d8404921557797d3115af79f3d6808c9a13092c1",
+                "poster": "https://image.tmdb.org/t/p/w500/rK49gf1crAVdtr7sVwqrTKWFkDM.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/sksqYbKUEOsD2bPhDmb0rycMQRD.jpg",
+                "rate": 6.149,
+                "aired": "2001-07-18",
+                "ano": "2001",
+                "plot": "Precisando de fundos para pesquisas, o Dr. Alan Grant aceita uma grande quantia em dinheiro para acompanhar Paul e Amanda Kirby em um passeio aéreo pela infame Isla Sorna. Não demora muito para que o inferno comece e os viajantes encalhados tenham que lutar pela sobrevivência enquanto uma série de novos - e ainda mais mortais - dinossauros tentam fazer lanches com eles."
+            },
+            {
+                "titulo": "Jurassic World: O Mundo dos Dinossauros",
+                "tmdb_id": "135397",
+                "url": "magnet=b4609bf989c539b06541014acca912943b8b5c05",
+                "poster": "https://image.tmdb.org/t/p/w500/gf3FEmT95ZQ5rBfzsaouIUzxKhy.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/aIGIYJTyOkEVUmEd3z5x6diYsFx.jpg",
+                "rate": 6.693,
+                "aired": "2015-06-06",
+                "ano": "2015",
+                "plot": "Vinte e dois anos após os eventos de Jurassic Park, Isla Nublar agora apresenta um parque temático de dinossauros em pleno funcionamento, Jurassic World, conforme originalmente imaginado por John Hammond."
+            },
+            {
+                "titulo": "Jurassic World: Reino Ameaçado",
+                "tmdb_id": "351286",
+                "url": "magnet=7941ad862eb6c7d296292c2fcb63585f21de382d",
+                "poster": "https://image.tmdb.org/t/p/w500/7xykpkKqfBfDgEKvS4jqpFF0S4K.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/6WA9stUMbIkEPxn3D5SWlA8FIi7.jpg",
+                "rate": 6.5,
+                "aired": "2018-06-06",
+                "ano": "2018",
+                "plot": "Quatro anos após o fechamento do Jurassic World, um vulcão prestes a entrar em erupção põe em risco a vida na ilha Nublar. No local não há mais qualquer presença humana, com os dinossauros vivendo livremente. Diante da situação, é preciso tomar uma decisão: deve-se retornar à ilha para salvar os animais ou abandoná-los para uma nova extinção? Decidida a resgatá-los, Claire convoca Owen a retornar à ilha com ela."
+            },
+            {
+                "titulo": "Jurassic World: Domínio",
+                "tmdb_id": "507086",
+                "url": "magnet=6d301ccb078b82ca01ec35ce1388cd1f41ed9821",
+                "poster": "https://image.tmdb.org/t/p/w500/w6Jz1AgjscqBuS8qXBd0wUHz5zC.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/9eAn20y26wtB3aet7w9lHjuSgZ3.jpg",
+                "rate": 6.687,
+                "aired": "2022-06-01",
+                "ano": "2022",
+                "plot": "Quatro anos após a destruição da Ilha Nublar, os dinossauros agora vivem – e caçam – ao lado de humanos em todo o mundo. Esse frágil equilíbrio remodelará o futuro e determinará, de uma vez por todas, se os seres humanos continuarão sendo os principais predadores em um planeta que agora compartilham com as criaturas mais temíveis da história."
+            }
+        ]
+    },
+    {
+        "collection_id": "2344",
+        "collection_title": "Matrix: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/kP1M00dSffxGqzXir9ITgaSNxcK.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/bRm2DEgUiYciDw3myHuYFInD7la.jpg",
+        "rate": 7.101750000000001,
+        "aired": "",
+        "ano": "2021",
+        "plot": "Thomas A. Anderson vive uma vida dupla. De dia, é um programador para uma companhia de software. De noite é um hacker, invadindo sistemas de computador ilegalmente e roubando informações, sob o apelido de Neo. Durante a sua vida como pirata informático, Neo cruza-se com uma pergunta constante: \"O que é a Matrix?\". Na busca da resposta, dedica-se de forma persistente a encontrar um suposto \"terrorista\" conhecido apenas como Morpheus. O que Neo não sabe é que o Morpheus o tem observado por um longo período de tempo.",
+        "movies": [
+            {
+                "titulo": "Matrix",
+                "tmdb_id": "603",
+                "url": "magnet=26fa43a4ccca61d8f7cf96a106d7fe1801aed9c2",
+                "poster": "https://image.tmdb.org/t/p/w500/qFHE09iQDbpHUBXJ8cFZu9v2ViO.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/icmmSD4vTTDKOq2vvdulafOGw93.jpg",
+                "rate": 8.22,
+                "aired": "1999-03-31",
+                "ano": "1999",
+                "plot": "Em um futuro próximo, Thomas Anderson (Keanu Reeves), um jovem programador de computador que mora em um cubículo escuro, é atormentado por estranhos pesadelos nos quais encontra-se conectado por cabos e contra sua vontade, em um imenso sistema de computadores do futuro. Em todas essas ocasiões, acorda gritando no exato momento em que os eletrodos estão para penetrar em seu cérebro. À medida que o sonho se repete, Anderson começa a ter dúvidas sobre a realidade. Por meio do encontro com os misteriosos Morpheus (Laurence Fishburne) e Trinity (Carrie-Anne Moss), Thomas descobre que é, assim como outras pessoas, vítima do Matrix, um sistema inteligente e artificial que manipula a mente das pessoas, criando a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia. Morpheus, entretanto, está convencido de que Thomas é Neo, o aguardado messias capaz de enfrentar o Matrix e conduzir as pessoas de volta à realidade e à liberdade."
+            },
+            {
+                "titulo": "Matrix Reloaded",
+                "tmdb_id": "604",
+                "url": "magnet=2e20368c163a5b597da05d68d63b16c519e8b97b",
+                "poster": "https://image.tmdb.org/t/p/w500/e7DdXOXP6mH2y7Fv7ujrk5tlsh7.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/tva2OlLELCagFynFibcefhn2D9i.jpg",
+                "rate": 7.055,
+                "aired": "2003-05-15",
+                "ano": "2003",
+                "plot": "Após derrotar as máquinas em seu combate inicial, Neo ainda vive na Nabucodonosor ao lado de Morpheus, Trinity e Link, o novo tripulante da nave. As máquinas estão realizando uma grande ofensiva contra Zion, onde 250 mil delas escavam rumo à cidade e podem alcançá-la em poucos dias. A Nabucodonosor é convocada para retornar a Zion e participar da reunião que definirá o contra-ataque para salvar a humanidade da extinção. Entretanto, um recado enviado pelo Oráculo faz com que Neo retorne à Matrix."
+            },
+            {
+                "titulo": "Matrix Revolutions",
+                "tmdb_id": "605",
+                "url": "magnet=172863ab4080c8c2538da526b2e1d37c4f4d129f",
+                "poster": "https://image.tmdb.org/t/p/w500/92oJ810bYqijBQ8tqYL74mSpPtV.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/533xAMhhVyjTy8hwMUFEt5TuDfR.jpg",
+                "rate": 6.732,
+                "aired": "2003-11-05",
+                "ano": "2003",
+                "plot": "Após enfrentar os sentinelas no mundo real, Neo (Keanu Reeves) tem sua mente presa em um local que fica entre a Matrix e a realidade, do qual apenas poderá sair com a ajuda de Trainman (Bruce Spence). Após perceberem que as ondas cerebrais de Neo são idênticas as de uma pessoa conectada à Matrix, Trinity (Carrie-Anne Moss) e Morpheus (Laurence Fishburne) buscam a ajuda da Oráculo (Mary Alice) e Seraph (Sing Ngai). Trinity, Morpheus e Seraph vão em busca de Merovingian (Lambert Wilson), que possui controle sobre Trainman e pode libertar Neo. Após obterem sucesso no resgate, o trio se divide em duas missões: Enquanto Morpheus e a tripulação de duas naves parte rumo a Zion, na tentativa de ajudar no combate contra as máquinas, Neo e Trinity se dirigem à Cidadela das Máquinas."
+            },
+            {
+                "titulo": "Matrix Resurrections",
+                "tmdb_id": "624860",
+                "url": "magnet=a0edfffb8ec007792fef641143e44c9e129a74c2",
+                "poster": "https://image.tmdb.org/t/p/w500/9DT4WVqZqBEI9Kub18gZ3m1D89m.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/dB0CxRwLXJoOrRPUvsJjb2hnPtq.jpg",
+                "rate": 6.4,
+                "aired": "2021-12-16",
+                "ano": "2021",
+                "plot": "Em um mundo de duas realidades — a vida cotidiana e o que está por trás dela —, Thomas Anderson terá que escolher seguir o coelho branco mais uma vez. A escolha, embora seja uma ilusão, ainda é a única maneira de entrar ou sair da Matrix, que é mais forte, mais segura e mais perigosa do que nunca."
+            }
+        ]
+    },
+    {
+        "collection_id": "84",
+        "collection_title": "Indiana Jones: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/lUiJKFmAqELHXNTr0eXqPGJYhsa.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/6kh59mZizZsttZPR0HAdXk6Ve2n.jpg",
+        "rate": 7.1372,
+        "aired": "",
+        "ano": "2023",
+        "plot": "Indiana Jones, o arqueólogo mais famoso de todos os tempos e também um dos personagens mais conhecidos da história do cinema, estrela essa atemporal coleção, com todos os filmes do herói, interpretados com maestria por Harrison Ford.",
+        "movies": [
+            {
+                "titulo": "Indiana Jones e os Caçadores da Arca Perdida",
+                "tmdb_id": "85",
+                "url": "magnet=c52da55739a2229b4cbad0023d9cf49afa9c5a7c",
+                "poster": "https://image.tmdb.org/t/p/w500/vPDnnfUAgLz7yWQVCK4gJAKFy0m.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/odblUdMERDmhQ4ei9Ja8tRZ4br6.jpg",
+                "rate": 7.927,
+                "aired": "1981-06-12",
+                "ano": "1981",
+                "plot": "Em 1936, o arqueólogo Indiana Jones é contratado para encontrar a Arca da Aliança, que segundo as escrituras bíblicas conteria \"Os Dez Mandamentos\" que Deus revelou a Moisés no Monte Horeb. Mas como a lenda diz que o exército que a possuir será invencível, Indiana Jones terá um adversário de peso na busca pela arca perdida: o próprio Adolf Hitler."
+            },
+            {
+                "titulo": "Indiana Jones e o Templo da Perdição",
+                "tmdb_id": "87",
+                "url": "magnet=d147471d897f2f1d6a59429e539c92c7f01ef851",
+                "poster": "https://image.tmdb.org/t/p/w500/k0zOx7m7oI6tYWXkvpJj2YQll1r.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
+                "rate": 7.297,
+                "aired": "1984-05-23",
+                "ano": "1984",
+                "plot": "Em 1935, o professor, arqueólogo e aventureiro Indiana Jones tem uma nova missão: resgatar as pedras roubadas por um feiticeiro e libertar crianças escravizadas. Para tanto, enfrenta os poderes mágicos e o fanatismo de um culto que sacrifica seres humanos."
+            },
+            {
+                "titulo": "Indiana Jones e a Última Cruzada",
+                "tmdb_id": "89",
+                "url": "magnet=3a3ea9934af8beda99d3af8f842917e418a79a30",
+                "poster": "https://image.tmdb.org/t/p/w500/9H79Cq97WwiY7FB51jPH65sX3hp.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/2Y7nbXrDtHwAfcTX7KBN0z40OAy.jpg",
+                "rate": 7.851,
+                "aired": "1989-05-24",
+                "ano": "1989",
+                "plot": "O arqueólogo Indiana Jones tem acesso à um misterioso envelope que contém informações sobre a localização do lendário Santo Graal, o cálice que Jesus Cristo teria utilizado na Última Ceia. Quando seu pai, o professor Henry Jones, é sequestrado pelos nazistas, o aventureiro irá embarcar numa missão perigosa para salvá-lo e impedir que a relíquia sagrada caia em mãos erradas."
+            },
+            {
+                "titulo": "Indiana Jones e o Reino da Caveira de Cristal",
+                "tmdb_id": "217",
+                "url": "magnet=fc8b2024bbe1beccd351bf1ec529eb88bab1d946",
+                "poster": "https://image.tmdb.org/t/p/w500/eZpDX7wTxllhVxhc9Qy9xN4G2Nw.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/p96949hcwUG2BwE6MgKmw0uYNCx.jpg",
+                "rate": 6.011,
+                "aired": "2008-05-21",
+                "ano": "2008",
+                "plot": "Durante a Guerra Fria, Indiana Jones e o jovem Mutt buscam a Caveira de Cristal, um objeto místico de grande valor, mas logo percebem que não estão sozinhos. Soviéticos liderados pela cruel Irina Spalko também querem o objeto para tentar dominar o mundo através dele."
+            },
+            {
+                "titulo": "Indiana Jones e A Relíquia do Destino",
+                "tmdb_id": "335977",
+                "url": "magnet=6fd37c6a654e271aeeed4a48b7a5487dad0f2cac",
+                "poster": "https://image.tmdb.org/t/p/w500/v9hytHJF57wcrfgbMSSWWVRnqQx.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/35z8hWuzfFUZQaYog8E9LsXW3iI.jpg",
+                "rate": 6.6,
+                "aired": "2023-06-25",
+                "ano": "2023",
+                "plot": "Encontrando-se em uma nova era, aproximando-se da aposentadoria, Indy luta para se encaixar em um mundo que parece tê-lo superado. Mas quando os tentáculos de um mal muito familiar retornam na forma de um antigo rival, Indy deve colocar seu chapéu e pegar seu chicote mais uma vez para garantir que um antigo e poderoso artefato não caia nas mãos erradas."
+            }
+        ]
+    },
+    {
+        "collection_id": "14890",
+        "collection_title": "Bad Boys: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/cTGvYsEwk4nFzSUIGPLlwWrNH11.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/r8kZJbi6UNhilLhM5WhauYELIR8.jpg",
         "rate": 6.984999999999999,
         "aired": "",
         "ano": "2024",
-        "plot": "Descrição não disponível",
+        "plot": "Uma franquia de filmes sobre a dupla de policiais Mike Lowrey e Marcus Burnett, explodindo coisas e perseguindo carros malucos. Eles fazem o trabalho, mas a um custo caro.",
         "movies": [
             {
                 "titulo": "Os Bad Boys",
@@ -864,4 +1871,3 @@
         ]
     }
 ]
-}
