@@ -1,0 +1,83 @@
+{
+  "collections": [
+    {
+      "collection_id": "1",
+      "collection_title": "O Senhor dos Anéis",
+      "poster": "https://example.com/poster_senhor_dos_aneis.jpg",
+      "backdrop": "https://example.com/backdrop_senhor_dos_aneis.jpg",
+      "rate": 8.9,
+      "plot": "Uma aventura épica para destruir o anel do poder e salvar a Terra Média.",
+      "aired": "2001-12-19",
+      "ano": 2001,
+      "movies": [
+        {
+          "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+          "tmdb_id": "120",
+          "url": "magnet:?xt=urn:btih:examplehash1",
+          "poster": "https://example.com/poster_sociedade_anel.jpg",
+          "backdrop": "https://example.com/backdrop_sociedade_anel.jpg",
+          "rate": 8.8,
+          "plot": "Um jovem hobbit recebe uma tarefa perigosa para destruir um anel poderoso.",
+          "aired": "2001-12-19",
+          "ano": 2001
+        },
+        {
+          "titulo": "O Senhor dos Anéis: As Duas Torres",
+          "tmdb_id": "121",
+          "url": "magnet:?xt=urn:btih:examplehash2",
+          "poster": "https://example.com/poster_duas_torres.jpg",
+          "backdrop": "https://example.com/backdrop_duas_torres.jpg",
+          "rate": 8.9,
+          "plot": "A irmandade se separa, mas continua sua luta contra Sauron.",
+          "aired": "2002-12-18",
+          "ano": 2002
+        },
+        {
+          "titulo": "O Senhor dos Anéis: O Retorno do Rei",
+          "tmdb_id": "122",
+          "url": "magnet:?xt=urn:btih:examplehash3",
+          "poster": "https://example.com/poster_retorno_rei.jpg",
+          "backdrop": "https://example.com/backdrop_retorno_rei.jpg",
+          "rate": 9.0,
+          "plot": "A batalha final pela Terra Média se aproxima.",
+          "aired": "2003-12-17",
+          "ano": 2003
+        }
+      ]
+    },
+    {
+      "collection_id": "2",
+      "collection_title": "Harry Potter",
+      "poster": "https://example.com/poster_harry_potter.jpg",
+      "backdrop": "https://example.com/backdrop_harry_potter.jpg",
+      "rate": 8.2,
+      "plot": "A saga do jovem bruxo Harry Potter em sua luta contra Voldemort.",
+      "aired": "2001-11-16",
+      "ano": 2001,
+      "movies": [
+        {
+          "titulo": "Harry Potter e a Pedra Filosofal",
+          "tmdb_id": "671",
+          "url": "magnet:?xt=urn:btih:examplehash4",
+          "poster": "https://example.com/poster_pedra_filosofal.jpg",
+          "backdrop": "https://example.com/backdrop_pedra_filosofal.jpg",
+          "rate": 7.6,
+          "plot": "Harry descobre que é um bruxo e começa sua jornada em Hogwarts.",
+          "aired": "2001-11-16",
+          "ano": 2001
+        },
+        {
+          "titulo": "Harry Potter e a Câmara Secreta",
+          "tmdb_id": "672",
+          "url": "magnet:?xt=urn:btih:examplehash5",
+          "poster": "https://example.com/poster_camara_secreta.jpg",
+          "backdrop": "https://example.com/backdrop_camara_secreta.jpg",
+          "rate": 7.4,
+          "plot": "Harry enfrenta um mistério perigoso dentro de Hogwarts.",
+          "aired": "2002-11-15",
+          "ano": 2002
+        }
+      ]
+    }
+  ]
+}
