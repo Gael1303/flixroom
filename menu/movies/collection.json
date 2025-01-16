@@ -1,83 +1,72 @@
 {
-  "collections": [
+  "collections":[
     {
-      "collection_id": "1",
-      "collection_title": "O Senhor dos Anéis",
-      "poster": "https://example.com/poster_senhor_dos_aneis.jpg",
-      "backdrop": "https://example.com/backdrop_senhor_dos_aneis.jpg",
-      "rate": 8.9,
-      "plot": "Uma aventura épica para destruir o anel do poder e salvar a Terra Média.",
-      "aired": "2001-12-19",
-      "ano": 2001,
-      "movies": [
-        {
-          "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
-          "tmdb_id": "120",
-          "url": "magnet:?xt=urn:btih:examplehash1",
-          "poster": "https://example.com/poster_sociedade_anel.jpg",
-          "backdrop": "https://example.com/backdrop_sociedade_anel.jpg",
-          "rate": 8.8,
-          "plot": "Um jovem hobbit recebe uma tarefa perigosa para destruir um anel poderoso.",
-          "aired": "2001-12-19",
-          "ano": 2001
-        },
-        {
-          "titulo": "O Senhor dos Anéis: As Duas Torres",
-          "tmdb_id": "121",
-          "url": "magnet:?xt=urn:btih:examplehash2",
-          "poster": "https://example.com/poster_duas_torres.jpg",
-          "backdrop": "https://example.com/backdrop_duas_torres.jpg",
-          "rate": 8.9,
-          "plot": "A irmandade se separa, mas continua sua luta contra Sauron.",
-          "aired": "2002-12-18",
-          "ano": 2002
-        },
-        {
-          "titulo": "O Senhor dos Anéis: O Retorno do Rei",
-          "tmdb_id": "122",
-          "url": "magnet:?xt=urn:btih:examplehash3",
-          "poster": "https://example.com/poster_retorno_rei.jpg",
-          "backdrop": "https://example.com/backdrop_retorno_rei.jpg",
-          "rate": 9.0,
-          "plot": "A batalha final pela Terra Média se aproxima.",
-          "aired": "2003-12-17",
-          "ano": 2003
-        }
-      ]
+        "collection_id": "726871",
+        "collection_title": "Duna: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/x5qcENcUsmHzvKeDKSf3COGOwJm.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/ygVSGv86R0BTOKJIb8RQ1sFxs4q.jpg",
+        "rate": 7.993499999999999,
+        "aired": "",
+        "ano": "2024",
+        "plot": "A saga de Paul Atreides e sua ascensão ao poder no mortal planeta Arrakis.",
+        "movies": [
+            {
+                "titulo": "Duna",
+                "tmdb_id": "438631",
+                "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3179901c4f92c830526bae984cbcabeb48d5fec",
+                "poster": "https://image.tmdb.org/t/p/w500/obhGsx4PE9OzsVGtIfoLAIIWGNb.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/h3HsfV8Kn9Sz2QWUYYdP5ya23hx.jpg",
+                "rate": 7.787,
+                "aired": "2021-09-15",
+                "ano": "2021",
+                "plot": "Em um futuro distante, planetas são comandados por casas nobres que fazem parte de um império feudal intergalático. Paul Atreides é um jovem cuja família toma o controle do planeta deserto Arrakis, também conhecido como Duna. A única fonte da especiaria Melange, a substância mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco fácil de governar."
+            },
+            {
+                "titulo": "Duna: Parte Dois",
+                "tmdb_id": "693134",
+                "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a810f4718226fe460aa510c4806b678eba70dd1",
+                "poster": "https://image.tmdb.org/t/p/w500/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/rRBD8ORo9y34tYkAQJVbn4Ml6tu.jpg",
+                "rate": 8.2,
+                "aired": "2024-02-27",
+                "ano": "2024",
+                "plot": "A jornada de Paul Atreides continua. Ele está determinado a buscar vingança contra aqueles que destruíram sua família e seu lar. Com a ajuda de Chani e dos Fremen, ele embarca em uma jornada espiritual, mística e marcial. Se torna Muad'Dib, o líder messiânico dos Fremen, enquanto luta para evitar um futuro sombrio que ele testemunhou em visões. No entanto, suas ações inadvertidamente desencadeiam uma Guerra Santa em seu nome, que se espalha pelo universo conhecido. Enquanto enfrenta escolhas difíceis entre o amor por Chani e o destino de seu povo, Paul precisa usar suas habilidades e conhecimentos para evitar o terrível futuro que previu."
+            }
+        ]
     },
     {
-      "collection_id": "2",
-      "collection_title": "Harry Potter",
-      "poster": "https://example.com/poster_harry_potter.jpg",
-      "backdrop": "https://example.com/backdrop_harry_potter.jpg",
-      "rate": 8.2,
-      "plot": "A saga do jovem bruxo Harry Potter em sua luta contra Voldemort.",
-      "aired": "2001-11-16",
-      "ano": 2001,
-      "movies": [
-        {
-          "titulo": "Harry Potter e a Pedra Filosofal",
-          "tmdb_id": "671",
-          "url": "magnet:?xt=urn:btih:examplehash4",
-          "poster": "https://example.com/poster_pedra_filosofal.jpg",
-          "backdrop": "https://example.com/backdrop_pedra_filosofal.jpg",
-          "rate": 7.6,
-          "plot": "Harry descobre que é um bruxo e começa sua jornada em Hogwarts.",
-          "aired": "2001-11-16",
-          "ano": 2001
-        },
-        {
-          "titulo": "Harry Potter e a Câmara Secreta",
-          "tmdb_id": "672",
-          "url": "magnet:?xt=urn:btih:examplehash5",
-          "poster": "https://example.com/poster_camara_secreta.jpg",
-          "backdrop": "https://example.com/backdrop_camara_secreta.jpg",
-          "rate": 7.4,
-          "plot": "Harry enfrenta um mistério perigoso dentro de Hogwarts.",
-          "aired": "2002-11-15",
-          "ano": 2002
-        }
-      ]
+        "collection_id": "573436",
+        "collection_title": "Homem-Aranha: Aranhaverso Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/2PXCGBd3Jb3LURuo8PJJCKP87Kg.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/oC5S5pdfzPiQC4us05uDMT7v5Ng.jpg",
+        "rate": 8.376,
+        "aired": "",
+        "ano": "2023",
+        "plot": "Série de filmes animados focado no Homem Aranha de Miles Morales, um adolescente negro com ascendência hispânica que acidentalmente ganha os poderes de seu herói favorito.",
+        "movies": [
+            {
+                "titulo": "Homem-Aranha: No Aranhaverso",
+                "tmdb_id": "324857",
+                "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b734d064a603251a84503bdc054ba60e9952824d",
+                "poster": "https://image.tmdb.org/t/p/w500/sizv4fncWiCe8i5jWCA8xfqtCB9.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/hlCq6Qh9GVtuNcGZF4mQYluaZix.jpg",
+                "rate": 8.398,
+                "aired": "2018-12-06",
+                "ano": "2018",
+                "plot": "Miles Morales é um jovem negro do Brooklyn que se tornou o Homem-Aranha inspirado no legado de Peter Parker, já falecido. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói aracnídeo sob um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras variações do Homem-Aranha."
+            },
+            {
+                "titulo": "Homem-Aranha: Através do Aranhaverso",
+                "tmdb_id": "569094",
+                "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:996a18a1e2786c7aeacadd70e126f87cdb0dbcb5",
+                "poster": "https://image.tmdb.org/t/p/w500/fUwfsPWEEdnSt29jIwJ5eVtySX6.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/jbthbh0KzaUWFPYvkfmXAamjI8j.jpg",
+                "rate": 8.354,
+                "aired": "2023-05-31",
+                "ano": "2023",
+                "plot": "Miles Morales retorna para o próximo capítulo da saga do Aranhaverso, uma aventura épica que transportará o Homem-Aranha em tempo integral e amigável do bairro do Brooklyn através do Multiverso para unir forças com Gwen Stacy e uma nova equipe de Homens-Aranha para enfrentar com um vilão mais poderoso do que qualquer coisa que eles já encontraram."
+            }
+        ]
     }
-  ]
+]
 }
