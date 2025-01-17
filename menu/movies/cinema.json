@@ -5,15 +5,37 @@
         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67ae77f978c878cd1c8d4e6dae6b81f8059ba081",
         "year": 2024,
         "genres": "Comédia, Drama",
-        "actors": "Jesse Eisenberg, Kieran Culkin, Will Sharpe, Jennifer Grey, Kurt Egyiawan",
+        "actors": [
+            {
+                "name": "Jesse Eisenberg",
+                "photo": "https://image.tmdb.org/t/p/w185/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg"
+            },
+            {
+                "name": "Kieran Culkin",
+                "photo": "https://image.tmdb.org/t/p/w185/b5EC4nziLhBRX4GOcYx2BdS3FTt.jpg"
+            },
+            {
+                "name": "Will Sharpe",
+                "photo": "https://image.tmdb.org/t/p/w185/uO1LYDK55dDqjQeK0eKJFtMy3va.jpg"
+            },
+            {
+                "name": "Jennifer Grey",
+                "photo": "https://image.tmdb.org/t/p/w185/dY8mECHnrLvr4UQr61Ym78cakoA.jpg"
+            },
+            {
+                "name": "Kurt Egyiawan",
+                "photo": "https://image.tmdb.org/t/p/w185/bLzmxAmUxRj8wwxzlpaKKdg2Ccf.jpg"
+            }
+        ],
         "poster": "https://image.tmdb.org/t/p/w500/bnX7UzOcNzfgCZKSXzh5oOFsVRl.jpg",
-        "rating": 6.8,
+        "rating": 6.7,
         "backdrop": "https://image.tmdb.org/t/p/w1280/fViElUGfdoZjtnVxvSpJX8TwxY6.jpg",
         "director": "Jesse Eisenberg",
         "studio": "Fruit Tree",
         "runtime": 90,
         "aired": "2024-11-01",
-        "synopsis": "Dois primos que não se dão bem se reúnem para uma excursão pela Polônia para homenagear sua amada avó. A aventura toma um rumo diferente quando as antigas tensões deles ressurgem contra o pano de fundo de sua história familiar."
+        "synopsis": "Dois primos que não se dão bem se reúnem para uma excursão pela Polônia para homenagear sua amada avó. A aventura toma um rumo diferente quando as antigas tensões deles ressurgem contra o pano de fundo de sua história familiar.",
+        "premiered": "2024-11-01"
     },
     {
         "tmdb_id": 939243,
@@ -21,15 +43,37 @@
         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5bfdd976a500a8cabc9dc313f4ef771f2dffe31",
         "year": 2024,
         "genres": "Ação, Ficção científica, Comédia, Família",
-        "actors": "Jim Carrey, Ben Schwartz, Keanu Reeves, Idris Elba, Colleen O'Shaughnessey",
+        "actors": [
+            {
+                "name": "Jim Carrey",
+                "photo": "https://image.tmdb.org/t/p/w185/u0AqTz6Y7GHPCHINS01P7gPvDSb.jpg"
+            },
+            {
+                "name": "Ben Schwartz",
+                "photo": "https://image.tmdb.org/t/p/w185/lJVYjPj0P6uvVxNrTy4xO2645D0.jpg"
+            },
+            {
+                "name": "Keanu Reeves",
+                "photo": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+            },
+            {
+                "name": "Idris Elba",
+                "photo": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+            },
+            {
+                "name": "Colleen O'Shaughnessey",
+                "photo": "https://image.tmdb.org/t/p/w185/y3Kl5tCX1XD6uyL9wefTRbEXTwj.jpg"
+            }
+        ],
         "poster": "https://image.tmdb.org/t/p/w500/8HzA55GCjRTEC2YhPGna8Lc8qHo.jpg",
-        "rating": 7.619,
+        "rating": 7.6,
         "backdrop": "https://image.tmdb.org/t/p/w1280/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
         "director": "Jeff Fowler",
         "studio": "Paramount Pictures",
         "runtime": 110,
         "aired": "2024-12-19",
-        "synopsis": "Sonic, Knuckles e Tails se reúnem contra um novo e poderoso adversário, Shadow, um vilão misterioso com poderes diferentes de tudo que eles já enfrentaram antes. Com suas habilidades superadas em todos os sentidos, a Equipe Sonic deve buscar uma aliança improvável na esperança de parar Shadow e proteger o planeta."
+        "synopsis": "Sonic, Knuckles e Tails se reúnem contra um novo e poderoso adversário, Shadow, um vilão misterioso com poderes diferentes de tudo que eles já enfrentaram antes. Com suas habilidades superadas em todos os sentidos, a Equipe Sonic deve buscar uma aliança improvável na esperança de parar Shadow e proteger o planeta.",
+        "premiered": "2024-12-19"
     },
     {
         "tmdb_id": 762509,
@@ -37,32 +81,75 @@
         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17bd74600f6687a2c997ab8be0e180f8207eb3b1",
         "year": 2024,
         "genres": "Aventura, Família, Animação",
-        "actors": "Aaron Pierre, Kelvin Harrison Jr., Tiffany Boone, Kagiso Lediga, Preston Nyman",
+        "actors": [
+            {
+                "name": "Aaron Pierre",
+                "photo": "https://image.tmdb.org/t/p/w185/hNwZWdT2KxKj1YLbipvtUhNjfAp.jpg"
+            },
+            {
+                "name": "Kelvin Harrison Jr.",
+                "photo": "https://image.tmdb.org/t/p/w185/6kpDyaZzmSbqCNYuXZUfeMwS1bq.jpg"
+            },
+            {
+                "name": "Tiffany Boone",
+                "photo": "https://image.tmdb.org/t/p/w185/9LwqRFdSzxVtnutDUg98YLq0bSz.jpg"
+            },
+            {
+                "name": "Kagiso Lediga",
+                "photo": "https://image.tmdb.org/t/p/w185/nfqx3CqFVsAMelk6ry560SuN7Y0.jpg"
+            },
+            {
+                "name": "Preston Nyman",
+                "photo": "https://image.tmdb.org/t/p/w185/eidKvLDCRw68tG3CN6fGhvHUnW.jpg"
+            }
+        ],
         "poster": "https://image.tmdb.org/t/p/w500/1pTQrPsNl1TCkgjQUz97M6UMY1u.jpg",
-        "rating": 7.416,
+        "rating": 7.419,
         "backdrop": "https://image.tmdb.org/t/p/w1280/oHPoF0Gzu8xwK4CtdXDaWdcuZxZ.jpg",
         "director": "Barry Jenkins",
         "studio": "Walt Disney Pictures",
         "runtime": 118,
         "aired": "2024-12-18",
-        "synopsis": "Mufasa, um filhote órfão, perdido e sozinho, conhece um simpático leão chamado Taka, herdeiro de uma linhagem real. O encontro ao acaso dá início a uma grande jornada de um grupo extraordinário de deslocados em busca de seu destino, além de revelar a ascensão de um dos maiores reis das Terras do Orgulho."
+        "synopsis": "Mufasa, um filhote órfão, perdido e sozinho, conhece um simpático leão chamado Taka, herdeiro de uma linhagem real. O encontro ao acaso dá início a uma grande jornada de um grupo extraordinário de deslocados em busca de seu destino, além de revelar a ascensão de um dos maiores reis das Terras do Orgulho.",
+        "premiered": "2024-12-18"
     },
-    
     {
         "tmdb_id": 1241982,
         "title": "Moana 2",
         "url": "magnet=3ca42dd71bb7c942be57eeee6660c871266a634d",
         "year": 2024,
         "genres": "Animação, Aventura, Família, Comédia",
-        "actors": "Auliʻi Cravalho, Dwayne Johnson, Hualālai Chung, Rose Matafeo, David Fane",
+        "actors": [
+            {
+                "name": "Auliʻi Cravalho",
+                "photo": "https://image.tmdb.org/t/p/w185/aLYuYXqjESo8IWu2nfQjauGrPUT.jpg"
+            },
+            {
+                "name": "Dwayne Johnson",
+                "photo": "https://image.tmdb.org/t/p/w185/4za1Bv06rG382a9v34bFGvUsfJV.jpg"
+            },
+            {
+                "name": "Hualālai Chung",
+                "photo": "https://image.tmdb.org/t/p/w185/x2g5fdHqETY9dZgL4aB0QDP0boR.jpg"
+            },
+            {
+                "name": "Rose Matafeo",
+                "photo": "https://image.tmdb.org/t/p/w185/zQa39fMjbOTIsovbh1TBTJVlToz.jpg"
+            },
+            {
+                "name": "David Fane",
+                "photo": "https://image.tmdb.org/t/p/w185/tcozyaTgAa8rRmzc5qeht0loni6.jpg"
+            }
+        ],
         "poster": "https://image.tmdb.org/t/p/w500/3E9oViQjwbbrHJogG7NtfcKWRXw.jpg",
-        "rating": 7.011,
+        "rating": 7.014,
         "backdrop": "https://image.tmdb.org/t/p/w1280/vYqt6kb4lcF8wwqsMMaULkP9OEn.jpg",
         "director": "David G. Derrick Jr., Jason Hand, Dana Ledoux Miller",
         "studio": "Walt Disney Pictures",
         "runtime": 100,
         "aired": "2024-11-21",
-        "synopsis": "Depois de receber um chamado inesperado de seus ancestrais navegadores, Moana vai viajar para mares distantes da Oceania, em águas perdidas em uma aventura perigosa."
+        "synopsis": "Depois de receber um chamado inesperado de seus ancestrais navegadores, Moana vai viajar para mares distantes da Oceania, em águas perdidas em uma aventura perigosa.",
+        "premiered": "2024-11-21"
     },
     {
         "tmdb_id": 1100099,
@@ -70,15 +157,37 @@
         "url": "magnet=df3cbc19d5a7af5c28e2a4ab7f1ab33400a4951f",
         "year": 2024,
         "genres": "Romance, Drama",
-        "actors": "Andrew Garfield, Florence Pugh, Grace Delaney, Lee Braithwaite, Aoife Hinds",
+        "actors": [
+            {
+                "name": "Andrew Garfield",
+                "photo": "https://image.tmdb.org/t/p/w185/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
+            },
+            {
+                "name": "Florence Pugh",
+                "photo": "https://image.tmdb.org/t/p/w185/f8e41Oon18FiEZr4zgyJDVUqOeh.jpg"
+            },
+            {
+                "name": "Grace Delaney",
+                "photo": "https://image.tmdb.org/t/p/w185/pZaiUYfapa7vj6vdFjNQWNS6VUT.jpg"
+            },
+            {
+                "name": "Lee Braithwaite",
+                "photo": "https://image.tmdb.org/t/p/w185/sUekD712makzFOvg7wg4y1EfuMy.jpg"
+            },
+            {
+                "name": "Aoife Hinds",
+                "photo": "https://image.tmdb.org/t/p/w185/5Gckrcs7WXkMClFWszNOtuJqRou.jpg"
+            }
+        ],
         "poster": "https://image.tmdb.org/t/p/w500/qqOmf6702TDz8esL4oJW6uTCijT.jpg",
-        "rating": 7.5,
+        "rating": 7.519,
         "backdrop": "https://image.tmdb.org/t/p/w1280/zpaodBqO2lcwJh2SQrFFf1Rn8Jy.jpg",
         "director": "John Crowley",
         "studio": "Film4 Productions",
         "runtime": 108,
         "aired": "2024-10-10",
-        "synopsis": "As vidas de Almut, uma talentosa chef de cozinha, e Tobias, um homem recém-divorciado, mudam para sempre quando eles se conhecem. Após um encontro inusitado, eles se apaixonam e constroem o lar e a família que sempre sonharam, até que uma verdade dolorosa põe à prova essa história de amor. Decididos a enfrentar as dificuldades, Almut e Tobias embarcam numa jornada emocionante, onde vão aprender que cada minuto conta quando estamos ao lado de quem amamos."
+        "synopsis": "As vidas de Almut, uma talentosa chef de cozinha, e Tobias, um homem recém-divorciado, mudam para sempre quando eles se conhecem. Após um encontro inusitado, eles se apaixonam e constroem o lar e a família que sempre sonharam, até que uma verdade dolorosa põe à prova essa história de amor. Decididos a enfrentar as dificuldades, Almut e Tobias embarcam numa jornada emocionante, onde vão aprender que cada minuto conta quando estamos ao lado de quem amamos.",
+        "premiered": "2024-10-10"
     },
     {
         "tmdb_id": 592831,
@@ -86,14 +195,36 @@
         "url": "magnet=bf398ab6fd6425fd1353e2035c47bb5b12710bf6",
         "year": 2024,
         "genres": "Ficção científica, Drama",
-        "actors": "Adam Driver, Giancarlo Esposito, Nathalie Emmanuel, Aubrey Plaza, Shia LaBeouf",
+        "actors": [
+            {
+                "name": "Adam Driver",
+                "photo": "https://image.tmdb.org/t/p/w185/zYxEjEMM1ZizgFcylHejEhtnkUc.jpg"
+            },
+            {
+                "name": "Giancarlo Esposito",
+                "photo": "https://image.tmdb.org/t/p/w185/rcXnr82TwDzU4ZGdBeNXfG0ZQnZ.jpg"
+            },
+            {
+                "name": "Nathalie Emmanuel",
+                "photo": "https://image.tmdb.org/t/p/w185/koSwmmonFJiZDfwmZgdVA7I1aR.jpg"
+            },
+            {
+                "name": "Aubrey Plaza",
+                "photo": "https://image.tmdb.org/t/p/w185/780BVfLoEv5jY4kuLH5vHEZj3oz.jpg"
+            },
+            {
+                "name": "Shia LaBeouf",
+                "photo": "https://image.tmdb.org/t/p/w185/ljlpaXEManszxIcshYQoqo4au03.jpg"
+            }
+        ],
         "poster": "https://image.tmdb.org/t/p/w500/4FGqIRue7XlokWU79sMqiYiEHwy.jpg",
-        "rating": 5.412,
+        "rating": 5.401,
         "backdrop": "https://image.tmdb.org/t/p/w1280/nA0RDmSDqpN5tLun4sCqdPekObD.jpg",
         "director": "Francis Ford Coppola",
         "studio": "American Zoetrope",
         "runtime": 138,
         "aired": "2024-09-25",
-        "synopsis": "A cidade de Nova Roma é palco de um conflito épico entre Cesar Catilina, um artista genial a favor de um futuro utópico e idealista, e seu opositor, o ganancioso prefeito Franklyn Cicero. Entre os dois está Julia Cicero, com a lealdade dividida entre o pai e o amado, tentando decidir qual futuro a humanidade merece."
+        "synopsis": "A cidade de Nova Roma é palco de um conflito épico entre Cesar Catilina, um artista genial a favor de um futuro utópico e idealista, e seu opositor, o ganancioso prefeito Franklyn Cicero. Entre os dois está Julia Cicero, com a lealdade dividida entre o pai e o amado, tentando decidir qual futuro a humanidade merece.",
+        "premiered": "2024-09-25"
     }
 ]
