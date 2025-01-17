@@ -1,4 +1,820 @@
 [
+
+    
+    {
+        "tmdb_id": 539972,
+        "title": "Kraven: O Caçador",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f51233cf43a8c2ca4de1748db16abc541e6c8f2",
+        "poster": "https://image.tmdb.org/t/p/w500/pWvQsP9o1MQ4vQNjpL9QeYFXKOs.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/iFsWkmAcu1QcMJ2LhqN8bU0Oj7.jpg",
+        "synopsis": "Sergei Kravinoff é um grande caçador, que toma um soro mágico que lhe dá habilidades sobre-humanas e uma vida mais longa.",
+        "studio": "Columbia Pictures",
+        "year": 2024,
+        "genres": "Ação, Aventura, Thriller",
+        "actors": [
+            {
+                "name": "Aaron Taylor-Johnson",
+                "photo": "https://image.tmdb.org/t/p/w185/pFtHhih2XEaFaD3qOFyQW6q83br.jpg"
+            },
+            {
+                "name": "Ariana DeBose",
+                "photo": "https://image.tmdb.org/t/p/w185/8HTSA2iVTsDN83OncAvFTcqxsAr.jpg"
+            },
+            {
+                "name": "Fred Hechinger",
+                "photo": "https://image.tmdb.org/t/p/w185/99ctABEIEwNl4qjIZcLODgwnx0M.jpg"
+            },
+            {
+                "name": "Alessandro Nivola",
+                "photo": "https://image.tmdb.org/t/p/w185/6simAB2dFVjjaNqx2qhSBRQpfmA.jpg"
+            },
+            {
+                "name": "Christopher Abbott",
+                "photo": "https://image.tmdb.org/t/p/w185/7H5oo9jJSgrTNSvuD5IPA4gnOYW.jpg"
+            }
+        ],
+        "rating": 6.225,
+        "director": "J.C. Chandor",
+        "runtime": 127,
+        "premiered": "2024-12-11"
+    },
+    {
+        "tmdb_id": 993710,
+        "title": "De Volta a Açao",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:508c95136ca56c9df8db968f2f1d7e0645372f48",
+        "poster": "https://image.tmdb.org/t/p/w500/m4gzzzeYRmrwasrBdJmjhBmjS3U.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/px0YfXxWKclI0PVM79fOV6Kh2As.jpg",
+        "synopsis": "Quinze anos depois de abandonar a CIA para formar uma família, os ex-agentes de elite Matt e Emily voltam ao mundo da espionagem ao terem seus disfarces revelados.",
+        "studio": "Chernin Entertainment",
+        "year": 2025,
+        "genres": "Ação, Comédia",
+        "actors": [
+            {
+                "name": "Cameron Diaz",
+                "photo": "https://image.tmdb.org/t/p/w185/d4f4cQ9EiYuvNMjT1IB2h06KoRx.jpg"
+            },
+            {
+                "name": "Jamie Foxx",
+                "photo": "https://image.tmdb.org/t/p/w185/zD8Nsy4Xrghp7WunwpCj5JKBPeU.jpg"
+            },
+            {
+                "name": "McKenna Roberts",
+                "photo": "https://image.tmdb.org/t/p/w185/74G750E1HZzjksJ9oSr8aWFadE2.jpg"
+            },
+            {
+                "name": "Rylan Jackson",
+                "photo": "https://image.tmdb.org/t/p/w185/o2BK58fxhAJnOFfELtxMenZ4fpd.jpg"
+            },
+            {
+                "name": "Glenn Close",
+                "photo": "https://image.tmdb.org/t/p/w185/eNTn3OmlnsQYLIp7HVGeH9kOJiA.jpg"
+            }
+        ],
+        "rating": 6.3,
+        "director": "Seth Gordon",
+        "runtime": 114,
+        "premiered": "2025-01-17"
+    },
+    {
+        "tmdb_id": 1324640,
+        "title": "A Força do Vento",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9527c0aaa55d0e2f5941e5bba68aa378ae641f05",
+        "poster": "https://image.tmdb.org/t/p/w500/86y2s6gGzvEn4udf9E8LzsAap2P.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/t33QLIhmr4C9Md9rT1j5wlB2U8B.jpg",
+        "synopsis": "Luna é uma jovem engenheira que chega da Alemanha para desenvolver um parque eólico em uma cidade rural da França. Mas o uso da energia eólica parece dividir as famílias da região.",
+        "studio": "Desconhecido",
+        "year": 2022,
+        "genres": "Drama",
+        "actors": [
+            {
+                "name": "Morgan Marinne",
+                "photo": "https://image.tmdb.org/t/p/w185/bZdLa98Lut6UMrbpFJ0tFWZQlnh.jpg"
+            },
+            {
+                "name": "Hélène Milano",
+                "photo": null
+            },
+            {
+                "name": "Yolande Moreau",
+                "photo": "https://image.tmdb.org/t/p/w185/f7lsmnQoml8dwpFtB4pUQbOhqUE.jpg"
+            },
+            {
+                "name": "Jean-François Gallotte",
+                "photo": "https://image.tmdb.org/t/p/w185/i8tahsoWBXEJ2UgoYQi3Hk2WYMA.jpg"
+            },
+            {
+                "name": "Jean-Luc Mimault",
+                "photo": "https://image.tmdb.org/t/p/w185/6zdaOlCYirL9wcNRvOJ5ITWFxUj.jpg"
+            }
+        ],
+        "rating": 0.0,
+        "director": "Noël Alpi",
+        "runtime": 0,
+        "premiered": "2022-07-18"
+    },
+    {
+        "tmdb_id": 1021921,
+        "title": "O Massacre da Mare Vermelha",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9984c0e496aa94ff2f6ff0f2f170515eea80bc40",
+        "poster": "https://image.tmdb.org/t/p/w500/pG8b6ahq2ZJIrqojFBQFRYhVmO7.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/so4Q0v5reHePuMMNyuzSlQVB6i3.jpg",
+        "synopsis": "Uma repórter de TV investiga o desastre ambiental conhecido como maré vermelha no Sudoeste da Flórida, mas ela acaba se tornando o principal alvo de uma misteriosa criatura que habita a região.",
+        "studio": "Hurricane Film Partners",
+        "year": 2022,
+        "genres": "Terror",
+        "actors": [
+            {
+                "name": "Michael Paré",
+                "photo": "https://image.tmdb.org/t/p/w185/jxrXW8OL6hwJgtJgePdMO5yHuAM.jpg"
+            },
+            {
+                "name": "Susan Elle",
+                "photo": "https://image.tmdb.org/t/p/w185/lJujtrRxQcnAKKlLNV5FjoPFmmo.jpg"
+            },
+            {
+                "name": "Sam Schweikert",
+                "photo": "https://image.tmdb.org/t/p/w185/yaaQKL9KiWZkcBVuzjNqxGRA4l3.jpg"
+            },
+            {
+                "name": "Rich Sands",
+                "photo": null
+            },
+            {
+                "name": "Gina Vitori",
+                "photo": "https://image.tmdb.org/t/p/w185/xvlKBMMC5HOuyF8PxepHlzZXrXD.jpg"
+            }
+        ],
+        "rating": 4.3,
+        "director": "Joseph M. Setele, John A. Russo, Gavin Peretti",
+        "runtime": 88,
+        "premiered": "2022-09-10"
+    },
+    {
+        "tmdb_id": 635897,
+        "title": "O Trono Dourado",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13c23e20c5420c3f19315b49c9d3354f1163b79a",
+        "poster": "https://image.tmdb.org/t/p/w500/xuTh7oTFqBCUjdc0QaaLKnvj8d2.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bKgNhgJk2AjuRxsHBZyOZ8cfrBQ.jpg",
+        "synopsis": "Século XV. Nas vastas extensões da Eurásia, os descendentes de Genghis Khan criam seu próprio estado. A terra prometida do Cazaquistão resiste aos seus inimigos.",
+        "studio": "Kazakhfilm Studios",
+        "year": 2019,
+        "genres": "Ação, Guerra, História, Drama, Fantasia",
+        "actors": [
+            {
+                "name": "Қайрат Кемалов",
+                "photo": null
+            },
+            {
+                "name": "Еркебұлан Дайыров",
+                "photo": null
+            },
+            {
+                "name": "Doskhan Zholzhaksynov",
+                "photo": "https://image.tmdb.org/t/p/w185/9PCoNDxEYLy6hJotcyouHZK1LJM.jpg"
+            },
+            {
+                "name": "Ayan Utepbergenov",
+                "photo": null
+            },
+            {
+                "name": "Meirgat Amangeldin",
+                "photo": "https://image.tmdb.org/t/p/w185/5iTA1KV0LqftUPuCQiFGmPBlmKz.jpg"
+            }
+        ],
+        "rating": 5.0,
+        "director": "Rustem Abdrashov",
+        "runtime": 111,
+        "premiered": "2019-03-21"
+    },
+    {
+        "tmdb_id": 788251,
+        "title": "A Confissao",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d50c549fe519d88d2b949286d9ef9ca63e6940cb",
+        "poster": "https://image.tmdb.org/t/p/w500/qlEiLLjRsZdW6txwBV9Mlf7cy1r.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/fLD0d5YK7SmsoueeILLHk16BmkK.jpg",
+        "synopsis": "Uma mulher determinada a usar a confissão de sua irmã no leito de morte, exonerando de culpa um homem inocente, faz com que ela fique em perigo.",
+        "studio": "Desconhecido",
+        "year": 2021,
+        "genres": "Crime, Cinema TV",
+        "actors": [
+            {
+                "name": "Carolina Jurczak",
+                "photo": "https://image.tmdb.org/t/p/w185/3IGOvdhw8EDZ3G855Qwn7KAfILF.jpg"
+            },
+            {
+                "name": "Antoine Duléry",
+                "photo": "https://image.tmdb.org/t/p/w185/9FECUB3ZckPR7viLRk1CP8GKjXR.jpg"
+            },
+            {
+                "name": "Agnès Soral",
+                "photo": "https://image.tmdb.org/t/p/w185/a1OXVANx9JpSiMGopdMHadxPGbv.jpg"
+            },
+            {
+                "name": "Philippe Duquesne",
+                "photo": "https://image.tmdb.org/t/p/w185/xbfJaGOn5k5tAJY5jUFnXjpopPy.jpg"
+            },
+            {
+                "name": "Mathieu Spinosi",
+                "photo": "https://image.tmdb.org/t/p/w185/xkd47EhMKrgzajJU0k5IL8JujGu.jpg"
+            }
+        ],
+        "rating": 6.4,
+        "director": "Marie-Hélène Copti",
+        "runtime": 92,
+        "premiered": "2021-02-03"
+    },
+    {
+        "tmdb_id": 1369693,
+        "title": "Tudo Por um Popstar 2",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c62aa0f61d859c029c09a3052955185ef2a01af2",
+        "poster": "https://image.tmdb.org/t/p/w500/fTmIZgN0TYiykB974NViMr1q8NR.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/yi4XnqwDlyv81jTvEjUShElygGv.jpg",
+        "synopsis": "",
+        "studio": "Desconhecido",
+        "year": null,
+        "genres": "",
+        "actors": [],
+        "rating": 0.0,
+        "director": "",
+        "runtime": 0,
+        "premiered": null
+    },
+    {
+        "tmdb_id": 1270339,
+        "title": "Vitimas do Dia",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8cc1f9376b57ef2e7acf4b28fd5d01f9cded6a1",
+        "poster": "https://image.tmdb.org/t/p/w500/qoohRRRIH67NN7vORNeVDARr2SK.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ra1m6NOzEO4W1d3BnH7nWuo4PKi.jpg",
+        "synopsis": "Elder e Daiane são um casal em meio a uma guerra urbana: enquanto ele luta para sobreviver, o primeiro filho deles está prestes a nascer.",
+        "studio": "Estúdios Globo",
+        "year": 2025,
+        "genres": "Drama",
+        "actors": [
+            {
+                "name": "Amaury Lorenzo",
+                "photo": "https://image.tmdb.org/t/p/w185/nd384vfzBzNNDfo5JthnqH3gBfi.jpg"
+            },
+            {
+                "name": "Jéssica Ellen",
+                "photo": "https://image.tmdb.org/t/p/w185/kTwoExLPSMVMqwozyrk9cow0sAI.jpg"
+            },
+            {
+                "name": "Belize Pombal",
+                "photo": "https://image.tmdb.org/t/p/w185/JafDLbjj3ogbQgKIoMhweY90Jn.jpg"
+            },
+            {
+                "name": "Grace Passô",
+                "photo": "https://image.tmdb.org/t/p/w185/xzomAlvVQor81adGhWjf94F6rP0.jpg"
+            },
+            {
+                "name": "Bete Mendes",
+                "photo": "https://image.tmdb.org/t/p/w185/bFEtNutALy77lNrdm5iOsTsaX5w.jpg"
+            }
+        ],
+        "rating": 10.0,
+        "director": "Bruno Safadi",
+        "runtime": 77,
+        "premiered": "2025-01-11"
+    },
+    {
+        "tmdb_id": 1388694,
+        "title": "O Assassino do Calendario",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1bd3d28c6892daff5addfe432fa2dcba37182430",
+        "poster": "https://image.tmdb.org/t/p/w500/aUZutzzSNvE7IDchtBRlHPCLvjB.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/haX32ZQxOgDWcJO5sTiTUEE1Ulr.jpg",
+        "synopsis": "Klara vai morrer hoje, a menos que mate o marido. O Assassino do Calendário deu a ela esse ultimato. Quando Jules começa seu turno da noite em uma linha direta para mulheres que estão indo sozinhas para casa, ele atende a ligação de Klara. Ele logo se torna sua última esperança de sobrevivência e corre contra o tempo para salvá-la.",
+        "studio": "Ziegler Film",
+        "year": 2025,
+        "genres": "Thriller, Crime, Drama",
+        "actors": [
+            {
+                "name": "Luise Heyer",
+                "photo": "https://image.tmdb.org/t/p/w185/ffPzIu201oXjT1R0RCW4loZaxQA.jpg"
+            },
+            {
+                "name": "Sabin Tambrea",
+                "photo": "https://image.tmdb.org/t/p/w185/r7XuC8cbItvHgbmpekT6RwI8pzc.jpg"
+            },
+            {
+                "name": "Friedrich Mücke",
+                "photo": "https://image.tmdb.org/t/p/w185/3NqiciP1dtsOKx9GRPf2kuZ7XPh.jpg"
+            },
+            {
+                "name": "Rainer Bock",
+                "photo": "https://image.tmdb.org/t/p/w185/wLn46JXsZDt0pVnheUEWJZ8IvHo.jpg"
+            },
+            {
+                "name": "Andreas Döhler",
+                "photo": "https://image.tmdb.org/t/p/w185/ie0EpjPa9bZvaqNJKR21xKjs4hf.jpg"
+            }
+        ],
+        "rating": 7.3,
+        "director": "Adolfo J. Kolmerer",
+        "runtime": 95,
+        "premiered": "2025-01-15"
+    },
+    {
+        "tmdb_id": 975056,
+        "title": "Cabrini",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29afb0be6573cf22a6956d9bd138d3ae6703d2ff",
+        "poster": "https://image.tmdb.org/t/p/w500/rBiHiN8W4BqMFrDozemzkof7GmF.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/jwmswCW3U8Uh0wEo46psJpgXejD.jpg",
+        "synopsis": "Depois de testemunhar a doença e a pobreza nas favelas de Nova York, a imigrante italiana Francesca Cabrini embarca em uma jornada para persuadir o prefeito hostil a fornecer moradia e assistência médica a centenas de crianças órfãs.",
+        "studio": "Angel Studios",
+        "year": 2024,
+        "genres": "História, Drama",
+        "actors": [
+            {
+                "name": "Cristiana Dell'Anna",
+                "photo": "https://image.tmdb.org/t/p/w185/AwxKGjuWOXyeY4v157zEkI9w0MB.jpg"
+            },
+            {
+                "name": "David Morse",
+                "photo": "https://image.tmdb.org/t/p/w185/A6zGbkFjM3uajIakgsSeNTmSKqY.jpg"
+            },
+            {
+                "name": "Giancarlo Giannini",
+                "photo": "https://image.tmdb.org/t/p/w185/xsnoThKUjFlhmvXKS4ZqAx1x3zb.jpg"
+            },
+            {
+                "name": "John Lithgow",
+                "photo": "https://image.tmdb.org/t/p/w185/8Y1sjBdnVR483S8PrnAQzlESwhx.jpg"
+            },
+            {
+                "name": "Romana Maggiora Vergano",
+                "photo": "https://image.tmdb.org/t/p/w185/2tT5redcYdVbsgjd4kXXM4NspgU.jpg"
+            }
+        ],
+        "rating": 7.8,
+        "director": "Alejandro Monteverde",
+        "runtime": 142,
+        "premiered": "2024-03-07"
+    },
+    {
+        "tmdb_id": 1190836,
+        "title": "A Ultima Vingança",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2670ef5f6fd06e66ad3ab1000fe85a212af668f4",
+        "poster": "https://image.tmdb.org/t/p/w500/6Wu1qTAQ9vHKOV7UqT6ukGrQf1b.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/x69MiTVoOF3maoek5yclPYbFgjr.jpg",
+        "synopsis": "Vítimas de um golpe cruel, Ann e seu marido são roubados e aprisionados em um asilo sombrio. Com a ajuda da neta, Ann enfrenta uma luta brutal por vingança contra aqueles que destruíram sua vida.",
+        "studio": "3Buck Productions",
+        "year": 2024,
+        "genres": "Thriller, Crime",
+        "actors": [
+            {
+                "name": "Dale Dickey",
+                "photo": "https://image.tmdb.org/t/p/w185/jjGeQ4hJTXftegRHmrxK2IZnf9A.jpg"
+            },
+            {
+                "name": "Romane Denis",
+                "photo": "https://image.tmdb.org/t/p/w185/oUEuOOMHuRaEIimk5YVKfqwciDM.jpg"
+            },
+            {
+                "name": "Daniel Brochu",
+                "photo": "https://image.tmdb.org/t/p/w185/u1Y4I2b3LhjAHTBMdNh7jgN6NED.jpg"
+            },
+            {
+                "name": "Richard Chevolleau",
+                "photo": "https://image.tmdb.org/t/p/w185/cdhiFvkAdNxY7Y45qf83XX6zgfb.jpg"
+            },
+            {
+                "name": "Greg Ellwand",
+                "photo": "https://image.tmdb.org/t/p/w185/aV64tElsebT0dzr0oF8HTiR8VDD.jpg"
+            }
+        ],
+        "rating": 6.5,
+        "director": "Karl R. Hearne",
+        "runtime": 106,
+        "premiered": "2024-06-07"
+    },
+    {
+        "tmdb_id": 1261501,
+        "title": "Ad Vitam",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c5c394e6b7c9dfa82c3cf79a108dc2bcfc3870d",
+        "poster": "https://image.tmdb.org/t/p/w500/dOpSxmD3FWfl6SK8SLXw9uwcO05.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/dMloNvayweggmvv0UD0iOJIkkbH.jpg",
+        "synopsis": "Quando ele e a esposa grávida são atacados em casa, um ex-agente de elite se envolve em uma caçada perigosa ligada ao seu passado complicado.",
+        "studio": "Les Films du Cap",
+        "year": 2025,
+        "genres": "Thriller, Drama, Crime, Ação",
+        "actors": [
+            {
+                "name": "Guillaume Canet",
+                "photo": "https://image.tmdb.org/t/p/w185/yxerAhXValEezb1EuV9XWc9L8KC.jpg"
+            },
+            {
+                "name": "Alexis Manenti",
+                "photo": "https://image.tmdb.org/t/p/w185/n9YW0FkKhxlwMhFQz3U2OokuWFZ.jpg"
+            },
+            {
+                "name": "Stéphane Caillard",
+                "photo": "https://image.tmdb.org/t/p/w185/pwv0lSdKFXblGLEkcqtxhSyPmvV.jpg"
+            },
+            {
+                "name": "Nassim Lyes",
+                "photo": "https://image.tmdb.org/t/p/w185/nMJ1qjhdfgRT8JuyUfFEkEwihOW.jpg"
+            },
+            {
+                "name": "Zita Hanrot",
+                "photo": "https://image.tmdb.org/t/p/w185/iwaXew7DENcezkIbEPJrdbAAlUA.jpg"
+            }
+        ],
+        "rating": 6.427,
+        "director": "Rodolphe Lauga",
+        "runtime": 98,
+        "premiered": "2025-01-09"
+    },
+    {
+        "tmdb_id": 1179051,
+        "title": "Missao Porto Seguro",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f4ea8fe0436d48c9c8e3e705a770047de784473",
+        "poster": "https://image.tmdb.org/t/p/w500/dcoc4C57lCpAzBr2qojFjRCKO9E.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/yrDVPArD1OY0P9jFfNB1UdHIi7L.jpg",
+        "synopsis": "A fim de conseguir provas e acabar com uma organização criminosa, uma policial antiquada se disfarça de adolescente e se infiltra numa viagem de formatura para Porto Seguro.",
+        "studio": "Glaz Entretenimento",
+        "year": 2025,
+        "genres": "Comédia, Ação",
+        "actors": [
+            {
+                "name": "Giovanna Lancellotti",
+                "photo": "https://image.tmdb.org/t/p/w185/9OP9V5kd9AULhghKwaJCBSpHsMM.jpg"
+            },
+            {
+                "name": "Ademara Barros",
+                "photo": null
+            },
+            {
+                "name": "Sophia Valverde",
+                "photo": "https://image.tmdb.org/t/p/w185/9yha1JP25duJcROV7AOwan9W32Y.jpg"
+            },
+            {
+                "name": "Raphael Vicente",
+                "photo": null
+            },
+            {
+                "name": "Letícia Pedro",
+                "photo": "https://image.tmdb.org/t/p/w185/ugtvQ8bIwEv6l0yo4jy87bviWMH.jpg"
+            }
+        ],
+        "rating": 0.0,
+        "director": "Cris D'amato",
+        "runtime": 86,
+        "premiered": "2025-01-17"
+    },
+    {
+        "tmdb_id": 1030612,
+        "title": "Ciclo",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c500d4977aa108bdb963aed31d942c9a486d4c19",
+        "poster": "https://image.tmdb.org/t/p/w500/oK8JLWKQbiGRRors1Ds4EDeyaHp.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/vN9MlXSCVSe9Abaq1iMKmWs9nt7.jpg",
+        "synopsis": "Ciclo é uma ficção científica que apresenta um futuro distópico, onde as coisas saíram ainda mais do controle e o que seria apenas uma quarentena virou o novo e bizarro normal.",
+        "studio": "Cafeína Produções",
+        "year": 2022,
+        "genres": "Ficção científica, Thriller",
+        "actors": [
+            {
+                "name": "Felipe Abib",
+                "photo": "https://image.tmdb.org/t/p/w185/tqJKRXSGtE9ZP3PMmHwalA5azlZ.jpg"
+            },
+            {
+                "name": "Daniel Furlan",
+                "photo": "https://image.tmdb.org/t/p/w185/fQgUH82VI7CqS1Q0W9WW8v7nB0x.jpg"
+            },
+            {
+                "name": "Flávio Bauraqui",
+                "photo": "https://image.tmdb.org/t/p/w185/ma3Ww8EDHxbEwGFIISXDy1hx1eO.jpg"
+            },
+            {
+                "name": "Dani Ornellas",
+                "photo": "https://image.tmdb.org/t/p/w185/gEH7XHolr9mpSDvpodH136y6S8t.jpg"
+            },
+            {
+                "name": "Stephanie Lourenço",
+                "photo": null
+            }
+        ],
+        "rating": 5.8,
+        "director": "Ian SBF",
+        "runtime": 87,
+        "premiered": "2022-10-06"
+    },
+    {
+        "tmdb_id": 1122504,
+        "title": "O Anel Amaldiçoado",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5676dd13ab2632ff249dd6d8d3b19bf906035345",
+        "poster": "https://image.tmdb.org/t/p/w500/7HKgVo8jBISdqxtn4h9CnEgFrKh.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zdAKD1AJh0xk4GunXHZpjhcmHON.jpg",
+        "synopsis": "Herma é uma mulher grávida, que é possuída por um misterioso anel. À medida em que seu corpo se transforma e sua mente começa a se deteriorar, ela precisa encontrar uma maneira de salvar sua vida e a do bebê que está esperando.",
+        "studio": "Desconhecido",
+        "year": 2023,
+        "genres": "Terror",
+        "actors": [
+            {
+                "name": "Allegra Sweeney",
+                "photo": null
+            },
+            {
+                "name": "Calvin Morie McCarthy",
+                "photo": null
+            },
+            {
+                "name": "Neil Green",
+                "photo": null
+            },
+            {
+                "name": "Sam Bangs",
+                "photo": "https://image.tmdb.org/t/p/w185/ygHG52luvo91pIEMQkVAtOraM7s.jpg"
+            }
+        ],
+        "rating": 6.0,
+        "director": "Erik Skybak",
+        "runtime": 88,
+        "premiered": "2023-05-23"
+    },
+    {
+        "tmdb_id": 1145491,
+        "title": "Operaçao de Risco",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5e4e2c22221d6f68a6a2a8a15039c3c08f6e778",
+        "poster": "https://image.tmdb.org/t/p/w500/jc9EMUNJaQHXDJVfHxKjuvfiWrB.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bEJyUUygNSLhe4BPykEHf3hPnsh.jpg",
+        "synopsis": "Um grupo de mercenários é contratado para derrubar uma fortaleza neonazista no coração do Texas, mas acabam descobrindo a existência de códigos nucleares que podem desencadear a Terceira Guerra Mundial.",
+        "studio": "Elite Filmes",
+        "year": 2023,
+        "genres": "Ação, Thriller",
+        "actors": [
+            {
+                "name": "Tito Ortiz",
+                "photo": "https://image.tmdb.org/t/p/w185/ivG0rCc5FE1XWdh6CIBTWfeIgBk.jpg"
+            },
+            {
+                "name": "Cristiane Justino",
+                "photo": "https://image.tmdb.org/t/p/w185/gbHhIXul6LhOE8P91nom5lANxNS.jpg"
+            },
+            {
+                "name": "Kelsey Johnson",
+                "photo": null
+            },
+            {
+                "name": "Mike Ferguson",
+                "photo": "https://image.tmdb.org/t/p/w185/fgmxWHKESApKHtu1Rar0iCVi6if.jpg"
+            },
+            {
+                "name": "Mike Markoff",
+                "photo": "https://image.tmdb.org/t/p/w185/d7Z0hSmCOleHt1BycaAbU9doKMR.jpg"
+            }
+        ],
+        "rating": 5.6,
+        "director": "Jamaal Burden",
+        "runtime": 80,
+        "premiered": "2023-07-11"
+    },
+    {
+        "tmdb_id": 892511,
+        "title": "O Pequeno Tom",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0ff5b4fb285e0d95e09e7eb9e8c3cde0e26bf54",
+        "poster": "https://image.tmdb.org/t/p/w500/d5MDAU6tjHGMWWU971r4v4Kjm1E.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/nNqDMNqQm2LmTYey1nHRYCfZl71.jpg",
+        "synopsis": "Tom é um garoto de onze anos que mora com sua mãe em um trailer no meio da floresta. Os dois sempre se ajudam e parecem demonstrar um inabalável otimismo, mas a chegada de um ex-presidiário mudará a relação entre eles.",
+        "studio": "Move Movie",
+        "year": 2022,
+        "genres": "Drama",
+        "actors": [
+            {
+                "name": "Nadia Tereszkiewicz",
+                "photo": "https://image.tmdb.org/t/p/w185/2nGcrALNnvnCfD6GL5HKzNJBtUD.jpg"
+            },
+            {
+                "name": "Félix Maritaud",
+                "photo": "https://image.tmdb.org/t/p/w185/sZhU2EyLcWSbZd9RSzNhp7aDghI.jpg"
+            },
+            {
+                "name": "Tanguy Mercier",
+                "photo": "https://image.tmdb.org/t/p/w185/9poGdPg7lqVmltcJXezD8hOYEd2.jpg"
+            },
+            {
+                "name": "Mohamed Makhtoumi",
+                "photo": "https://image.tmdb.org/t/p/w185/sjTNXM22KU1uLpp6wsY0pXVwQET.jpg"
+            },
+            {
+                "name": "Samir Arab",
+                "photo": null
+            }
+        ],
+        "rating": 5.8,
+        "director": "Fabienne Berthaud",
+        "runtime": 98,
+        "premiered": "2022-05-11"
+    },
+    {
+        "tmdb_id": 844414,
+        "title": "Master Kid: O Despertar de um Heroi",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:601db97c4edf1761c12b2c859d3e7d667e159c00",
+        "poster": "https://image.tmdb.org/t/p/w500/pxl3gQG1BebbA8GhcJXAvwuipgj.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/5rWeLfwvUfNdx5OaC5lcm1lQw2o.jpg",
+        "synopsis": "Leon é um garoto que sonha em ser um herói, mas apesar de sua boa intenção, suas ações sempre causam problemas para o seu vilarejo. Após um perigoso encontro, ele descobre que é a reencarnação de um lendário herói do passado.",
+        "studio": "Desconhecido",
+        "year": 2021,
+        "genres": "Animação, Aventura, Fantasia",
+        "actors": [
+            {
+                "name": "白文显",
+                "photo": "https://image.tmdb.org/t/p/w185/2bqJR0KgJRjU3aSrLNpOgJXfHJh.jpg"
+            },
+            {
+                "name": "Yang Li",
+                "photo": "https://image.tmdb.org/t/p/w185/6uGACz1t6fuIbeegxkGCZXguTPf.jpg"
+            }
+        ],
+        "rating": 7.2,
+        "director": "Liu Zhijiang, Yu Qiao",
+        "runtime": 92,
+        "premiered": "2021-07-16"
+    },
+    {
+        "tmdb_id": 1163629,
+        "title": "Crazy Racing",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e2a7a38e664fa7848a71abc0cca14f05a054a1e",
+        "poster": "https://image.tmdb.org/t/p/w500/i99kjvBWWwH1qtUDt3TBIFz6gAz.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zw9F05fhLKMwDvD2PmKLpQAYA0k.jpg",
+        "synopsis": "Sloan é um adolescente apaixonado por carros que após sofrer um acidente, acaba adquirindo a habilidade de prever o futuro.",
+        "studio": "Yoozoo Pictures",
+        "year": 2021,
+        "genres": "Família, Animação",
+        "actors": [
+            {
+                "name": "Li Hui-Xian",
+                "photo": null
+            },
+            {
+                "name": "Si Xi",
+                "photo": "https://image.tmdb.org/t/p/w185/fKes6i2GGEb48kSjq19tXLhlBJs.jpg"
+            },
+            {
+                "name": "Ye Jia-Lin",
+                "photo": null
+            },
+            {
+                "name": "Luo Ji-Shang",
+                "photo": null
+            },
+            {
+                "name": "Yang Zhuo",
+                "photo": null
+            }
+        ],
+        "rating": 6.0,
+        "director": "Zhu Guo-Yang, Ding Zhuo-Qun",
+        "runtime": 96,
+        "premiered": "2021-05-01"
+    },
+    {
+        "tmdb_id": 943107,
+        "title": "A Magia de Sonhar",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb9f71e10e2fb2f9d3729743b266572d1d021997",
+        "poster": "https://image.tmdb.org/t/p/w500/m0kNfI6RnLzoH2e7l2dButHKF9T.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hDxnvCi3IQOV3UWff9az1E1ln4J.jpg",
+        "synopsis": "Kaan é um jovem que vive no campo e fica triste ao saber que terá que se mudar para Istambul. Ele encontra conforto em um livro sobre um menino que é vítima de bullying em uma cidade mágica. Conforme se aprofunda na história, Kaan aprende a transformar seus sonhos em realidade.",
+        "studio": "The Best Films",
+        "year": 2022,
+        "genres": "Família, Drama, Fantasia",
+        "actors": [
+            {
+                "name": "Altan Erkekli",
+                "photo": "https://image.tmdb.org/t/p/w185/u6Tc6oP3jgkEKBseMIyddXqZWk4.jpg"
+            },
+            {
+                "name": "Vildan Atasever",
+                "photo": "https://image.tmdb.org/t/p/w185/5bmHOXGyfmJM6oHN0I1TriHX5tR.jpg"
+            },
+            {
+                "name": "İhsan Berk Aydın",
+                "photo": null
+            },
+            {
+                "name": "Yusuf Kemal Kılkış",
+                "photo": "https://image.tmdb.org/t/p/w185/xWSaCKClYDy1HVJlRnfBtnaHUoD.jpg"
+            },
+            {
+                "name": "Mehmet Turan Doğan",
+                "photo": "https://image.tmdb.org/t/p/w185/mpig7aEzLXqzGekuPYE9TzxN92P.jpg"
+            }
+        ],
+        "rating": 5.5,
+        "director": "Meta Akkuş",
+        "runtime": 82,
+        "premiered": "2022-04-08"
+    },
+    {
+        "tmdb_id": 580988,
+        "title": "Uma e Haggen: Mitos",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e91e9da808a7e8a62a7dc3bf7a30e00cf74e203",
+        "poster": "https://image.tmdb.org/t/p/w500/dx6yS2Q8XYNNeq7ub4cAGSk8kJ9.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/o5cBHr5ST190q2VmcG7CaNIcn8S.jpg",
+        "synopsis": "Em um reino mágico de influência viking e pré-hispânica, Uma e Haggen, dois improváveis amigos, partem juntos em uma aventura para salvar seus respectivos mundos e recuperar o trono.",
+        "studio": "ITHRAX PRODUCCIONES",
+        "year": 2024,
+        "genres": "Animação, Família, Aventura",
+        "actors": [
+            {
+                "name": "Melissa Gedeón",
+                "photo": null
+            },
+            {
+                "name": "Oliver Díaz Barba",
+                "photo": null
+            },
+            {
+                "name": "Alondra Hidalgo",
+                "photo": "https://image.tmdb.org/t/p/w185/eO0Xtq7PER67ueBgrF9TI2I9bwK.jpg"
+            },
+            {
+                "name": "Humberto Vélez",
+                "photo": "https://image.tmdb.org/t/p/w185/tWqoWVwf0nIibTLyCOi1U97xUFm.jpg"
+            },
+            {
+                "name": "Jesse Conde",
+                "photo": "https://image.tmdb.org/t/p/w185/bnqkR0nDsU5E9F7cWyI6xfPPNv1.jpg"
+            }
+        ],
+        "rating": 7.0,
+        "director": "Benito Fernández",
+        "runtime": 85,
+        "premiered": "2024-01-04"
+    },
+    {
+        "tmdb_id": 1036921,
+        "title": "And Mrs",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30d83f69c0dbae6b74287e1456154bc017f2e9d2",
+        "poster": "https://image.tmdb.org/t/p/w500/d0EsPcoUhQ4YVPk4Kn6vhXTiTGU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/dqkxPQPH6jceI9zwnNaXlG8Vuqd.jpg",
+        "synopsis": "Composto por um elenco de estrelas como Aisling Bea, Billie Lourd e Colin Hanks AND MRS é uma hilária e emocionante comédia ácida sobre o drama de uma noiva que está determinada a fazer um casamento póstumo com o seu noivo depois de sua morte súbita.",
+        "studio": "Who's On First",
+        "year": 2024,
+        "genres": "Comédia",
+        "actors": [
+            {
+                "name": "Aisling Bea",
+                "photo": "https://image.tmdb.org/t/p/w185/rrZVT1TADcPcrQ8lfEC4atYwcTJ.jpg"
+            },
+            {
+                "name": "Billie Lourd",
+                "photo": "https://image.tmdb.org/t/p/w185/ZNvGBzuLyVYzqHlWDFmBjaCW2E.jpg"
+            },
+            {
+                "name": "Colin Hanks",
+                "photo": "https://image.tmdb.org/t/p/w185/iljyDSiJRcwJL8QXQZ2WTyU1wh5.jpg"
+            },
+            {
+                "name": "Susan Wokoma",
+                "photo": "https://image.tmdb.org/t/p/w185/puEiaNQZyG2gGfIZCyexbtrcv1F.jpg"
+            },
+            {
+                "name": "Omari Douglas",
+                "photo": "https://image.tmdb.org/t/p/w185/at1WAg1hlUBgPSzqMaErJdLQ3hI.jpg"
+            }
+        ],
+        "rating": 6.0,
+        "director": "Daniel Reisinger",
+        "runtime": 111,
+        "premiered": "2024-09-20"
+    },
+    {
+        "tmdb_id": 991257,
+        "title": "Sparkle: Um Conto Magico",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a34498f76301128e72e23ef441cc599a88a18e1a",
+        "poster": "https://image.tmdb.org/t/p/w500/cS1XzPqKJqgVBp78Ijth3SEtVwX.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/lD3tJF3PNMZuHUEGMYX3TKdE8R7.jpg",
+        "synopsis": "Annabelle, de quinze anos, foge de um orfanato com outras duas crianças para resgatar os animais da fazenda de sua família antes que eles sejam levados por um vizinho ganancioso. Os órfãos descobrem que um unicórnio mágico se instalou ali, e tentam determinar o propósito da besta mítica.",
+        "studio": "Automatic Entertainment",
+        "year": 2023,
+        "genres": "Família, Fantasia, Aventura",
+        "actors": [
+            {
+                "name": "Sean Faris",
+                "photo": "https://image.tmdb.org/t/p/w185/pYzNCtRlFXOpJRB3sZe6GWBTYDN.jpg"
+            },
+            {
+                "name": "Jessica Green",
+                "photo": "https://image.tmdb.org/t/p/w185/fIo9WCfnEQAK36Lrg5WWy77LS3K.jpg"
+            },
+            {
+                "name": "Molly Jackson",
+                "photo": "https://image.tmdb.org/t/p/w185/4oN0KpCg8tAVgotqpXM7NHgYcNO.jpg"
+            },
+            {
+                "name": "Joshua Henry Sussman",
+                "photo": null
+            },
+            {
+                "name": "Jamie Lokoff",
+                "photo": null
+            }
+        ],
+        "rating": 6.0,
+        "director": "Jamie Lokoff",
+        "runtime": 84,
+        "premiered": "2023-08-18"
+    },
     {
         "tmdb_id": 451480,
         "title": "A Sociedade Literaria e a Torta de Casca de Batata",
