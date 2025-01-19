@@ -1,76 +1,2954 @@
-[
-    {
-        "tmdb_id": 939243,
-        "title": "Sonic 3: O Filme",
-        "url": "magnet=f5bfdd976a500a8cabc9dc313f4ef771f2dffe31",
-        "year": 2024,
-        "genres": "Ação, Ficção científica, Comédia, Família",
+[    
+	
+	{
+        "tmdb_id": 278,
+        "title": "Um sonho de liberdade",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65c6c884bfae3ddc56b04e3f2b29dd4571e0be4c",
+        "year": 1994,
+        "genres": "Drama, Crime",
         "actors": [
             {
-                "name": "Jim Carrey",
-                "photo": "https://image.tmdb.org/t/p/w185/u0AqTz6Y7GHPCHINS01P7gPvDSb.jpg"
+                "name": "Tim Robbins",
+                "photo": "https://image.tmdb.org/t/p/w185/djLVFETFTvPyVUdrd7aLVykobof.jpg"
             },
             {
-                "name": "Ben Schwartz",
-                "photo": "https://image.tmdb.org/t/p/w185/lJVYjPj0P6uvVxNrTy4xO2645D0.jpg"
+                "name": "Morgan Freeman",
+                "photo": "https://image.tmdb.org/t/p/w185/jPsLqiYGSofU4s6BjrxnefMfabb.jpg"
             },
+            {
+                "name": "Bob Gunton",
+                "photo": "https://image.tmdb.org/t/p/w185/ulbVvuBToBN3aCGcV028hwO0MOP.jpg"
+            },
+            {
+                "name": "William Sadler",
+                "photo": "https://image.tmdb.org/t/p/w185/rWeb2kjYCA7V9MC9kRwRpm57YoY.jpg"
+            },
+            {
+                "name": "Clancy Brown",
+                "photo": "https://image.tmdb.org/t/p/w185/9RgzFqbmWBLVfq9wvyDo5UW8VT1.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/xSnM4ahmz692msbMTBsfBWHvR3M.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+        "director": "Frank Darabont",
+        "studio": "Castle Rock Entertainment",
+        "rating": 9.3,
+        "runtime": 142,
+        "premiered": "1994-09-23",
+        "synopsis": "Em 1946, Andy Dufresne, um banqueiro jovem e bem sucedido, tem a sua vida radicalmente modificada ao ser condenado por um crime que nunca cometeu, o homicídio de sua esposa e do amante dela. Ele é mandado para uma prisão que é o pesadelo de qualquer detento, a Penitenciária Estadual de Shawshank, no Maine. Lá ele irá cumprir a pena perpétua. Andy logo será apresentado a Warden Norton, o corrupto e cruel agente penitenciário, que usa a Bíblia como arma de controle e ao Capitão Byron Hadley que trata os internos como animais. Andy faz amizade com Ellis Boyd Redding, um prisioneiro que cumpre pena há 20 anos e controla o mercado negro da instituição.",
+        "popularity": 178.353
+    },
+	{
+        "tmdb_id": 238,
+        "title": "O poderoso chefao",
+        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=N8f5UMfFB3HgUTf6aRd0sjkNGB3EXCkpYgNP22jV8QLV%2BE2MK4vAqXMNDr8YBjxv&expiry=zd9Lnq2Gi18nSxQTPJ2nPA%3D%3D&mac=ca21baa2fb16fd3717e89d695e7fb84ece23f248c120f329db90b946529e3563",
+        "year": 1972,
+        "genres": "Drama, Crime",
+        "actors": [
+            {
+                "name": "Marlon Brando",
+                "photo": "https://image.tmdb.org/t/p/w185/fuTEPMsBtV1zE98ujPONbKiYDc2.jpg"
+            },
+            {
+                "name": "Al Pacino",
+                "photo": "https://image.tmdb.org/t/p/w185/fMDFeVf0pjopTJbyRSLFwNDm8Wr.jpg"
+            },
+            {
+                "name": "James Caan",
+                "photo": "https://image.tmdb.org/t/p/w185/v3flJtQEyczxENi29yJyvnN6LVt.jpg"
+            },
+            {
+                "name": "Robert Duvall",
+                "photo": "https://image.tmdb.org/t/p/w185/ybMmK25h4IVtfE7qrnlVp47RQlh.jpg"
+            },
+            {
+                "name": "Richard S. Castellano",
+                "photo": "https://image.tmdb.org/t/p/w185/1vr75BdHWret81vuSJ3ugiCBkxw.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/kpZcRSrYYkowpiw2d6ZVdF1HWFc.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+        "director": "Francis Ford Coppola",
+        "studio": "Paramount Pictures",
+        "rating": 9.2,
+        "runtime": 175,
+        "premiered": "1972-03-14",
+        "synopsis": "Em 1945, Don Corleone é o chefe de uma mafiosa família italiana de Nova York. Ele costuma apadrinhar várias pessoas, realizando importantes favores para elas, em troca de favores futuros. Com a chegada das drogas, as famílias começam uma disputa pelo promissor mercado. Quando Corleone se recusa a facilitar a entrada dos narcóticos na cidade, não oferecendo ajuda política e policial, sua família começa a sofrer atentados para que mudem de posição. É nessa complicada época que Michael, um herói de guerra nunca envolvido nos negócios da família, vê a necessidade de proteger o seu pai e tudo o que ele construiu ao longo dos anos.",
+        "popularity": 163.432
+    },
+	{
+        "tmdb_id": 155,
+        "title": "Batman: O Cavaleiro das Trevas",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83af9dc022fb32f0f0ba7a7fcfd86d3d1ec0c923",
+        "year": 2008,
+        "genres": "Drama, Ação, Crime, Thriller",
+        "actors": [
+            {
+                "name": "Christian Bale",
+                "photo": "https://image.tmdb.org/t/p/w185/2y4doWX4lCzDMjCL5KOA4KBz6Hn.jpg"
+            },
+            {
+                "name": "Heath Ledger",
+                "photo": "https://image.tmdb.org/t/p/w185/5Y9HnYYa9jF4NunY9lSgJGjSe8E.jpg"
+            },
+            {
+                "name": "Aaron Eckhart",
+                "photo": "https://image.tmdb.org/t/p/w185/u5JjnRMr9zKEVvOP7k3F6gdcwT6.jpg"
+            },
+            {
+                "name": "Michael Caine",
+                "photo": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+            },
+            {
+                "name": "Maggie Gyllenhaal",
+                "photo": "https://image.tmdb.org/t/p/w185/vsfkWdYWmA9CpzMHTJzrFxlDnEZ.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/4lj1ikfsSmMZNyfdi8R8Tv5tsgb.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/x5f2uTfw0Pqc5QI4ch5AHICee2o.jpg",
+        "director": "Christopher Nolan",
+        "studio": "DC",
+        "rating": 9.0,
+        "runtime": 152,
+        "premiered": "2008-07-16",
+        "synopsis": "Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego.",
+        "popularity": 143.461
+    },
+	{
+        "tmdb_id": 240,
+        "title": "O poderoso chefao 2",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:543201f979804dcb0429e9a7d867ca40b56fdadf",
+        "year": 1974,
+        "genres": "Drama, Crime",
+        "actors": [
+            {
+                "name": "Al Pacino",
+                "photo": "https://image.tmdb.org/t/p/w185/fMDFeVf0pjopTJbyRSLFwNDm8Wr.jpg"
+            },
+            {
+                "name": "Robert Duvall",
+                "photo": "https://image.tmdb.org/t/p/w185/ybMmK25h4IVtfE7qrnlVp47RQlh.jpg"
+            },
+            {
+                "name": "Diane Keaton",
+                "photo": "https://image.tmdb.org/t/p/w185/tnx7pJqisfAzvXOR5wHQsbnH9XH.jpg"
+            },
+            {
+                "name": "Robert De Niro",
+                "photo": "https://image.tmdb.org/t/p/w185/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+            },
+            {
+                "name": "John Cazale",
+                "photo": "https://image.tmdb.org/t/p/w185/7uKBc2BVbLlAiHuSdfioe1OUnCX.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/7g6wvsWHxBQujUcSXvZLhdFpDUy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+        "director": "Francis Ford Coppola",
+        "studio": "Paramount Pictures",
+        "rating": 9.0,
+        "runtime": 202,
+        "premiered": "1974-12-20",
+        "synopsis": "Após a máfia matar sua família, o jovem Vito foge da sua cidade na Sicília e vai para a América. Vito luta para manter sua família. Ele mata Black Hand Fanucci, que exigia dos comerciantes uma parte dos seus ganhos. Com a morte de Fanucci, o poderio de Vito cresce, mas sua família é o que mais importa para ele. Agora baseado no Lago Tahoe, Michael planeja fazer incursões em Las Vegas e Havana instalando negócios ligados ao lazer, mas descobre que aliados como Hyman Roth estão tentando matá-lo.",
+        "popularity": 106.002
+    },
+	{
+        "tmdb_id": 389,
+        "title": "12 Homens e uma Sentenca",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5228d2f2f60272c11b5e49f8e0c3d52d3b3c8026",
+        "year": 1957,
+        "genres": "Drama",
+        "actors": [
+            {
+                "name": "Martin Balsam",
+                "photo": "https://image.tmdb.org/t/p/w185/2j4LJJfTPQtvnjp8LfSGOvWFATO.jpg"
+            },
+            {
+                "name": "John Fiedler",
+                "photo": "https://image.tmdb.org/t/p/w185/6vfLLGeGuO6Ko0VRnyhgE2v6RUu.jpg"
+            },
+            {
+                "name": "Lee J. Cobb",
+                "photo": "https://image.tmdb.org/t/p/w185/coJZ8923R8eWTAS2EVZe90zf0Ja.jpg"
+            },
+            {
+                "name": "E.G. Marshall",
+                "photo": "https://image.tmdb.org/t/p/w185/psimeVoRk64DV7UNm4cLQylRFy2.jpg"
+            },
+            {
+                "name": "Jack Klugman",
+                "photo": "https://image.tmdb.org/t/p/w185/oJxveOxlunD8C9OczqKeryU0k6D.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/q8RGf4SbVCObCySZ4PIGsn5wFm6.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bxgTSUenZDHNFerQ1whRKplrMKF.jpg",
+        "director": "Sidney Lumet",
+        "studio": "United Artists",
+        "rating": 9.0,
+        "runtime": 96,
+        "premiered": "1957-04-10",
+        "synopsis": "Um jovem porto-riquenho é acusado do brutal crime de ter matado o próprio pai. Quando ele vai a julgamento, doze jurados se reúnem para decidir a sentença, levando em conta que o réu deve ser considerado inocente até que se prove o contrário. Onze dos jurados têm plena certeza de que ele é culpado, e votam pela condenação, mas um jurado acha que é melhor investigar mais para que a sentença seja correta. Para isso ele terá que enfrentar diferentes interpretações dos fatos, e a má vontade dos outros jurados, que só querem ir logo para suas casas.",
+        "popularity": 58.325
+    },
+	{
+        "tmdb_id": 122,
+        "title": "O Senhor dos Aneis: O Retorno do Rei",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9296e20f76469fabe7e55731dba540174a7282a",
+        "year": 2003,
+        "genres": "Aventura, Fantasia, Ação",
+        "actors": [
+            {
+                "name": "Elijah Wood",
+                "photo": "https://image.tmdb.org/t/p/w185/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+            },
+            {
+                "name": "Ian McKellen",
+                "photo": "https://image.tmdb.org/t/p/w185/coWjgMEYJjk2OrNddlXCBm8EIr3.jpg"
+            },
+            {
+                "name": "Viggo Mortensen",
+                "photo": "https://image.tmdb.org/t/p/w185/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+            },
+            {
+                "name": "Sean Astin",
+                "photo": "https://image.tmdb.org/t/p/w185/ywH1VvdwqlcnuwUVr0pV0HUZJQA.jpg"
+            },
+            {
+                "name": "Andy Serkis",
+                "photo": "https://image.tmdb.org/t/p/w185/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/egSO4klmc9pnI1CNnHoYKV70XKI.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/5JrZAtyk3LwiiAWLW0kwz41XZJC.jpg",
+        "director": "Peter Jackson",
+        "studio": "New Line Cinema",
+        "rating": 9.0,
+        "runtime": 202,
+        "premiered": "2003-12-17",
+        "synopsis": "O confronto final entre as forças do bem e do mal que lutam pelo controle do futuro da Terra Média se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na intenção de ajudar a resistência. Um exército é reunido por Theoden em Rohan, em mais uma tentativa de deter as forças de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo à Montanha da Perdição para destruir o anel.",
+        "popularity": 150.802
+    },
+	{
+        "title": "A Lista de Schindler",
+        "tmdb_id": 424,
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48d57d2075ce88c78c295b83619591e44da25c7c",
+        "year": 1993,
+        "genres": "Drama, História, Guerra",
+        "actors": [
+            {
+                "name": "Liam Neeson",
+                "photo": "https://image.tmdb.org/t/p/w185/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+            },
+            {
+                "name": "Ben Kingsley",
+                "photo": "https://image.tmdb.org/t/p/w185/vQtBqpF2HDdzbfXHDzR4u37i1Ac.jpg"
+            },
+            {
+                "name": "Ralph Fiennes",
+                "photo": "https://image.tmdb.org/t/p/w185/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+            },
+            {
+                "name": "Caroline Goodall",
+                "photo": "https://image.tmdb.org/t/p/w185/4cagGtMqACvkuw6Llq8Li8UJ1AR.jpg"
+            },
+            {
+                "name": "Jonathan Sagall",
+                "photo": "https://image.tmdb.org/t/p/w185/waxNDsgfw7CXXO3LH8EdKi8z7VV.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/bGhhNzJYDsuLruNN5bJ2PvLcMiq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+        "director": "Steven Spielberg",
+        "studio": "Amblin Entertainment",
+        "rating": 9.0,
+        "runtime": 195,
+        "premiered": "1993-12-15",
+        "synopsis": "O alemão Oskar Schindler viu na mão de obra judia uma solução barata e viável para lucrar com negócios durante a guerra. Com sua forte influência dentro do partido nazista, foi fácil conseguir as autorizações e abrir uma fábrica. O que poderia parecer uma atitude de um homem não muito bondoso, transformou-se em um dos maiores casos de amor à vida da História, pois este alemão abdicou de toda sua fortuna para salvar a vida de mais de mil judeus em plena luta contra o extermínio alemão.",
+        "popularity": 97.261
+    },
+	 {
+        "tmdb_id": 680,
+        "title": "Pulp Fiction: Tempo de Violência",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b87da5216a5da49da6b5de7095872bbd192104d8",
+        "year": 1994,
+        "genres": "Thriller, Crime",
+        "actors": [
+            {
+                "name": "John Travolta",
+                "photo": "https://image.tmdb.org/t/p/w185/eVWcevrvGLLqt9gkDMruqgLJPsp.jpg"
+            },
+            {
+                "name": "Samuel L. Jackson",
+                "photo": "https://image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+            },
+            {
+                "name": "Uma Thurman",
+                "photo": "https://image.tmdb.org/t/p/w185/lg04iEqT6TC40H1jz10Z99OFMXx.jpg"
+            },
+            {
+                "name": "Bruce Willis",
+                "photo": "https://image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+            },
+            {
+                "name": "Ving Rhames",
+                "photo": "https://image.tmdb.org/t/p/w185/4gpLVNKPZlVucc4fT2fSZ7DksTK.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/tptjnB2LDbuUWya9Cx5sQtv5hqb.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+        "director": "Quentin Tarantino",
+        "studio": "Miramax",
+        "rating": 8.9,
+        "runtime": 154,
+        "premiered": "1994-09-10",
+        "synopsis": "Vincent Vega e Jules Winnfield são dois assassinos profissionais que trabalham fazendo cobranças para Marsellus Wallace, um poderosos gângster. Vega é forçado a sair com a garota do chefe, temendo passar dos limites. Enquanto isso, o pugilista Butch Coolidge se mete em apuros por ganhar uma luta que deveria perder.",
+        "popularity": 114.886
+    },
+	{
+        "tmdb_id": 120,
+        "title": "O Senhor dos Aneis: A Sociedade do Anel",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b7e7f528bee5d8d50b44d1afeb9a76e714f0fed",
+        "year": 2001,
+        "genres": "Aventura, Fantasia, Ação",
+        "actors": [
+            {
+                "name": "Elijah Wood",
+                "photo": "https://image.tmdb.org/t/p/w185/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+            },
+            {
+                "name": "Ian McKellen",
+                "photo": "https://image.tmdb.org/t/p/w185/coWjgMEYJjk2OrNddlXCBm8EIr3.jpg"
+            },
+            {
+                "name": "Viggo Mortensen",
+                "photo": "https://image.tmdb.org/t/p/w185/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+            },
+            {
+                "name": "Sean Astin",
+                "photo": "https://image.tmdb.org/t/p/w185/ywH1VvdwqlcnuwUVr0pV0HUZJQA.jpg"
+            },
+            {
+                "name": "Ian Holm",
+                "photo": "https://image.tmdb.org/t/p/w185/cOJDgvgj4nMec6Inzj1H5nugTO5.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/omoMXT3Z7XrQwRZ2OGJGNWbdeEl.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/z51Wzj94hvAIsWfknifKTqKJRwp.jpg",
+        "director": "Peter Jackson",
+        "studio": "New Line Cinema",
+        "rating": 8.9,
+        "runtime": 179,
+        "premiered": "2001-12-18",
+        "synopsis": "Em uma terra fantástica e única, um hobbit recebe de presente de seu tio um anel mágico e maligno que precisa ser destruído antes que caia nas mãos do mal. Para isso, o hobbit Frodo tem um caminho árduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um anão, dois humanos e um mago, totalizando nove pessoas que formam a Sociedade do Anel.",
+        "popularity": 160.735
+    },
+	{
+        "tmdb_id": 429,
+        "title": "Tres Homens em Conflito",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dfd45b477f644f62921e511a7b301343b14ab003",
+        "year": 1966,
+        "genres": "Faroeste",
+        "actors": [
+            {
+                "name": "Clint Eastwood",
+                "photo": "https://image.tmdb.org/t/p/w185/8TwdCfeOZH7ucRlfLZ6wObxa7cO.jpg"
+            },
+            {
+                "name": "Eli Wallach",
+                "photo": "https://image.tmdb.org/t/p/w185/s452wxFLaOwAIs6juD0rrvxaFxL.jpg"
+            },
+            {
+                "name": "Lee Van Cleef",
+                "photo": "https://image.tmdb.org/t/p/w185/yQc5wjNCdRZzPp5E2wRPRYsEq9a.jpg"
+            },
+            {
+                "name": "Aldo Giuffrè",
+                "photo": "https://image.tmdb.org/t/p/w185/aT6eECl1R3YGYL4KatyIQrq0zG8.jpg"
+            },
+            {
+                "name": "Luigi Pistilli",
+                "photo": "https://image.tmdb.org/t/p/w185/bH5vmD2CMBHzJyBe0P0bL6iTUNL.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/bHwIzQrbJKiFwArLLngS1Ej6xPc.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/x4biAVdPVCghBlsVIzB6NmbghIz.jpg",
+        "director": "Sergio Leone",
+        "studio": "United Artists",
+        "rating": 8.9,
+        "runtime": 163,
+        "premiered": "1966-12-22",
+        "synopsis": "Durante o auge da Guerra Civil, um misterioso pistoleiro vaga pela fronteira do oeste. Ele não possui um lar, lealdade ou companhia... Até que encontra dois estrangeiros, que são tão brutos e desapegados quanto ele. Unidos pelo destino, os três homens juntam suas forças para tentar encontrar uma fortuna em ouro roubado. Mas trabalho em equipe não é uma coisa natural para voluntariosos pistoleiros, e eles logo descobrem que seu maior desafio é concentrar-se em sua perigosa missão — e em manterem-se vivos — atravessando um país arrasado pela guerra.",
+        "popularity": 82.782
+    },
+	{
+        "tmdb_id": 13,
+        "title": "Forrest Gump: O Contador de Historias",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a56d708883721739840c5a10f31ce81be7188902",
+        "year": 1994,
+        "genres": "Comédia, Drama, Romance",
+        "actors": [
+            {
+                "name": "Tom Hanks",
+                "photo": "https://image.tmdb.org/t/p/w185/eKF1sGJRrZJbfBG1KirPt1cfNd3.jpg"
+            },
+            {
+                "name": "Robin Wright",
+                "photo": "https://image.tmdb.org/t/p/w185/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+            },
+            {
+                "name": "Gary Sinise",
+                "photo": "https://image.tmdb.org/t/p/w185/olRjiV8ZhBixQiTvrGwXhpVXxsV.jpg"
+            },
+            {
+                "name": "Sally Field",
+                "photo": "https://image.tmdb.org/t/p/w185/5fBK36MdmdwQQMuP0W70rXADXih.jpg"
+            },
+            {
+                "name": "Mykelti Williamson",
+                "photo": "https://image.tmdb.org/t/p/w185/e5f7XCZAUEQ55rVhdphqzdMMI8b.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/d74WpIsH8379TIL4wUxDneRCYv2.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mzfx54nfDPTUXZOG48u4LaEheDy.jpg",
+        "director": "Robert Zemeckis",
+        "studio": "Paramount Pictures",
+        "rating": 8.8,
+        "runtime": 142,
+        "premiered": "1994-06-23",
+        "synopsis": "Quarenta anos da história dos Estados Unidos, vistos pelos olhos de Forrest Gump, um rapaz com QI abaixo da média e com boas intenções. Por obra do acaso, ele consegue participar de momentos cruciais, como a Guerra do Vietnã e o Caso Watergate, mas continua pensando no seu amor de infância, Jenny Curran.",
+        "popularity": 104.023
+    },
+	{
+        "tmdb_id": 121,
+        "title": "O Senhor dos Aneis: As Duas Torres",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:021c818a0d7c0529a2d131927f7f0eb6a79468e6",
+        "year": 2002,
+        "genres": "Aventura, Fantasia, Ação",
+        "actors": [
+            {
+                "name": "Elijah Wood",
+                "photo": "https://image.tmdb.org/t/p/w185/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+            },
+            {
+                "name": "Ian McKellen",
+                "photo": "https://image.tmdb.org/t/p/w185/coWjgMEYJjk2OrNddlXCBm8EIr3.jpg"
+            },
+            {
+                "name": "Viggo Mortensen",
+                "photo": "https://image.tmdb.org/t/p/w185/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+            },
+            {
+                "name": "Sean Astin",
+                "photo": "https://image.tmdb.org/t/p/w185/ywH1VvdwqlcnuwUVr0pV0HUZJQA.jpg"
+            },
+            {
+                "name": "Andy Serkis",
+                "photo": "https://image.tmdb.org/t/p/w185/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/cmTFY35KK40yBX23Z9HhqU5uZ2O.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6G73mNyooWAEQTpckPSnFxFoNmc.jpg",
+        "director": "Peter Jackson",
+        "studio": "New Line Cinema",
+        "rating": 8.8,
+        "runtime": 180,
+        "premiered": "2002-12-18",
+        "synopsis": "Após a captura de Merry e Pippy pelos orcs, a Sociedade do Anel é dissolvida. Frodo e Sam seguem sua jornada rumo à Montanha da Perdição para destruir o anel e descobrem que estão sendo perseguidos pelo misterioso Gollum. Enquanto isso, Aragorn, o elfo e arqueiro Legolas e o anão Gimli partem para resgatar os hobbits sequestrados e chegam ao reino de Rohan, onde o rei Theoden foi vítima de uma maldição mortal de Saruman.",
+        "popularity": 115.379
+    },
+	{
+        "tmdb_id": 550,
+        "title": "Clube da Luta",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40c0b1324e338c7794488a8e9613d23675064730",
+        "year": 1999,
+        "genres": "Drama",
+        "actors": [
+            {
+                "name": "Edward Norton",
+                "photo": "https://image.tmdb.org/t/p/w185/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
+            },
+            {
+                "name": "Brad Pitt",
+                "photo": "https://image.tmdb.org/t/p/w185/cckcYc2v0yh1tc9QjRelptcOBko.jpg"
+            },
+            {
+                "name": "Helena Bonham Carter",
+                "photo": "https://image.tmdb.org/t/p/w185/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+            },
+            {
+                "name": "Meat Loaf",
+                "photo": "https://image.tmdb.org/t/p/w185/7gKLR1u46OB8WJ6m06LemNBCMx6.jpg"
+            },
+            {
+                "name": "Jared Leto",
+                "photo": "https://image.tmdb.org/t/p/w185/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/r3pPehX4ik8NLYPpbDRAh0YRtMb.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+        "director": "David Fincher",
+        "studio": "Fox 2000 Pictures",
+        "rating": 8.8,
+        "runtime": 139,
+        "premiered": "1999-10-15",
+        "synopsis": "Um homem deprimido que sofre de insônia conhece um estranho vendedor de sabonetes chamado Tyler Durden. Eles formam um clube clandestino com regras rígidas onde lutam com outros homens cansados de suas vidas mundanas. Mas sua parceria perfeita é comprometida quando Marla chama a atenção de Tyler.",
+        "popularity": 109.967
+    },
+	{
+        "tmdb_id": 27205,
+        "title": "A Origem",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c301b175cae6ae4870076bd478680b6e3fc13743",
+        "year": 2010,
+        "genres": "Ação, Ficção científica, Aventura",
+        "actors": [
+            {
+                "name": "Leonardo DiCaprio",
+                "photo": "https://image.tmdb.org/t/p/w185/ts9l18VkDSooRGDWIeQegNVHciC.jpg"
+            },
+            {
+                "name": "Joseph Gordon-Levitt",
+                "photo": "https://image.tmdb.org/t/p/w185/dhv9f3AaozOjpvjAwVzOWlmmT2V.jpg"
+            },
+            {
+                "name": "Ken Watanabe",
+                "photo": "https://image.tmdb.org/t/p/w185/w2t30L5Cmr34myAaUobLoSgsLfS.jpg"
+            },
+            {
+                "name": "Tom Hardy",
+                "photo": "https://image.tmdb.org/t/p/w185/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg"
+            },
+            {
+                "name": "Elliot Page",
+                "photo": "https://image.tmdb.org/t/p/w185/eCeFgzS8dYHnMfWQT0oQitCrsSz.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+        "director": "Christopher Nolan",
+        "studio": "Legendary Pictures",
+        "rating": 8.8,
+        "runtime": 148,
+        "premiered": "2010-07-15",
+        "synopsis": "Um ladrão que rouba segredos corporativos por meio do uso da tecnologia de compartilhamento de sonhos, recebe a tarefa inversa de plantar uma ideia na mente de um Diretor Executivo.",
+        "popularity": 121.522
+    },
+	{
+        "tmdb_id": 1891,
+        "title": "Guerra nas Estrelas: O Imperio Contra-Ataca",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d82938761d6278fe09a24b9ec20c34f0e9622c13",
+        "year": 1980,
+        "genres": "Aventura, Ação, Ficção científica",
+        "actors": [
+            {
+                "name": "Mark Hamill",
+                "photo": "https://image.tmdb.org/t/p/w185/2ZulC2Ccq1yv3pemusks6Zlfy2s.jpg"
+            },
+            {
+                "name": "Harrison Ford",
+                "photo": "https://image.tmdb.org/t/p/w185/n4dwIg6NbQzeMaS1yEKKlfNJH7a.jpg"
+            },
+            {
+                "name": "Carrie Fisher",
+                "photo": "https://image.tmdb.org/t/p/w185/745jo3MsIZm53PWvZiFxwKuQVxt.jpg"
+            },
+            {
+                "name": "Billy Dee Williams",
+                "photo": "https://image.tmdb.org/t/p/w185/q1pi6gpoKyRlIJuUlDXsqFqgIZA.jpg"
+            },
+            {
+                "name": "Anthony Daniels",
+                "photo": "https://image.tmdb.org/t/p/w185/c876ZM5ObwYgXksrRWNNrL9KeZg.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/dLGT8b4Ut10z44uYLaip4QiwKta.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/b37U5gN6itEjaFcmaKhUOqG2Mkt.jpg",
+        "director": "Irvin Kershner",
+        "studio": "Lucasfilm Ltd.",
+        "rating": 8.7,
+        "runtime": 124,
+        "premiered": "1980-05-20",
+        "synopsis": "As forças imperais comandadas por Darth Vader lançam um ataque contra os membros da resistência, que são obrigados a fugir. Enquanto isso Luke Skywalker tenta encontrar o Mestre Yoda, que poderá ensiná-lo a dominar a \"Força\" e torná-lo um cavaleiro jedi. No entanto, Darth Vader planeja levá-lo para o lado negro da \"Força\".",
+        "popularity": 42.969
+    },
+	{
+        "tmdb_id": 603,
+        "title": "Matrix",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76949e573ff48aa138f1e06541f3482bb49359c2",
+        "year": 1999,
+        "genres": "Ação, Ficção científica",
+        "actors": [
             {
                 "name": "Keanu Reeves",
                 "photo": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
             },
             {
-                "name": "Idris Elba",
-                "photo": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+                "name": "Laurence Fishburne",
+                "photo": "https://image.tmdb.org/t/p/w185/aBRISux1AGCqkFNTKHYfLcJunWA.jpg"
             },
             {
-                "name": "Colleen O'Shaughnessey",
-                "photo": "https://image.tmdb.org/t/p/w185/y3Kl5tCX1XD6uyL9wefTRbEXTwj.jpg"
+                "name": "Carrie-Anne Moss",
+                "photo": "https://image.tmdb.org/t/p/w185/xD4jTA3KmVp5Rq3aHcymL9DUGjD.jpg"
+            },
+            {
+                "name": "Hugo Weaving",
+                "photo": "https://image.tmdb.org/t/p/w185/t4ScpYIHlXVD41scEyiGdQDYflX.jpg"
+            },
+            {
+                "name": "Gloria Foster",
+                "photo": "https://image.tmdb.org/t/p/w185/AriGXtC9fjBOia9Zr8CZjn4o3rx.jpg"
             }
         ],
-        "poster": "https://image.tmdb.org/t/p/w500/8HzA55GCjRTEC2YhPGna8Lc8qHo.jpg",
-        "rating": 7.6,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
-        "director": "Jeff Fowler",
-        "studio": "Paramount Pictures",
-        "runtime": 110,
-        "premiered": "2024-12-19",
-        "synopsis": "Sonic, Knuckles e Tails se reúnem contra um novo e poderoso adversário, Shadow, um vilão misterioso com poderes diferentes de tudo que eles já enfrentaram antes. Com suas habilidades superadas em todos os sentidos, a Equipe Sonic deve buscar uma aliança improvável na esperança de parar Shadow e proteger o planeta."
+        "poster": "https://image.tmdb.org/t/p/w500/qFHE09iQDbpHUBXJ8cFZu9v2ViO.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/icmmSD4vTTDKOq2vvdulafOGw93.jpg",
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "studio": "Village Roadshow Pictures",
+        "rating": 8.7,
+        "runtime": 136,
+        "premiered": "1999-03-31",
+        "synopsis": "Em um futuro próximo, Thomas Anderson (Keanu Reeves), um jovem programador de computador que mora em um cubículo escuro, é atormentado por estranhos pesadelos nos quais encontra-se conectado por cabos e contra sua vontade, em um imenso sistema de computadores do futuro. Em todas essas ocasiões, acorda gritando no exato momento em que os eletrodos estão para penetrar em seu cérebro. À medida que o sonho se repete, Anderson começa a ter dúvidas sobre a realidade. Por meio do encontro com os misteriosos Morpheus (Laurence Fishburne) e Trinity (Carrie-Anne Moss), Thomas descobre que é, assim como outras pessoas, vítima do Matrix, um sistema inteligente e artificial que manipula a mente das pessoas, criando a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia. Morpheus, entretanto, está convencido de que Thomas é Neo, o aguardado messias capaz de enfrentar o Matrix e conduzir as pessoas de volta à realidade e à liberdade.",
+        "popularity": 125.83
     },
-    {
-        "tmdb_id": 762509,
-        "title": "Mufasa: O Rei Leao",
-        "url": "magnet=17bd74600f6687a2c997ab8be0e180f8207eb3b1",
-        "year": 2024,
-        "genres": "Aventura, Família, Animação",
+	{
+        "tmdb_id": 769,
+        "title": "Os Bons Companheiros",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b099c67d743d61821714e0121fe8f127e553d38",
+        "year": 1990,
+        "genres": "Drama, Crime",
         "actors": [
             {
-                "name": "Aaron Pierre",
-                "photo": "https://image.tmdb.org/t/p/w185/hNwZWdT2KxKj1YLbipvtUhNjfAp.jpg"
+                "name": "Robert De Niro",
+                "photo": "https://image.tmdb.org/t/p/w185/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
             },
             {
-                "name": "Kelvin Harrison Jr.",
-                "photo": "https://image.tmdb.org/t/p/w185/6kpDyaZzmSbqCNYuXZUfeMwS1bq.jpg"
+                "name": "Ray Liotta",
+                "photo": "https://image.tmdb.org/t/p/w185/jdwGJbJNSRQiG2kB5MJxiu2clCQ.jpg"
             },
             {
-                "name": "Tiffany Boone",
-                "photo": "https://image.tmdb.org/t/p/w185/9LwqRFdSzxVtnutDUg98YLq0bSz.jpg"
+                "name": "Joe Pesci",
+                "photo": "https://image.tmdb.org/t/p/w185/1WHLXwT0TDZDWFVRcFve1B0EjNK.jpg"
             },
             {
-                "name": "Kagiso Lediga",
-                "photo": "https://image.tmdb.org/t/p/w185/nfqx3CqFVsAMelk6ry560SuN7Y0.jpg"
+                "name": "Lorraine Bracco",
+                "photo": "https://image.tmdb.org/t/p/w185/cmVcc09jfmoOqGLY595aBQu3IsP.jpg"
             },
             {
-                "name": "Preston Nyman",
-                "photo": "https://image.tmdb.org/t/p/w185/eidKvLDCRw68tG3CN6fGhvHUnW.jpg"
+                "name": "Paul Sorvino",
+                "photo": "https://image.tmdb.org/t/p/w185/1gF0UskusEdDcNaBDJ2CMsz5Agi.jpg"
             }
         ],
-        "poster": "https://image.tmdb.org/t/p/w500/1pTQrPsNl1TCkgjQUz97M6UMY1u.jpg",
-        "rating": 7.419,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/oHPoF0Gzu8xwK4CtdXDaWdcuZxZ.jpg",
-        "director": "Barry Jenkins",
-        "studio": "Walt Disney Pictures",
+        "poster": "https://image.tmdb.org/t/p/w500/lanYBnyCcqkaFqz66B8PrBRCtCW.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7TF4p86ZafnxFuNqWdhpHXFO244.jpg",
+        "director": "Martin Scorsese",
+        "studio": "Winkler Films",
+        "rating": 8.7,
+        "runtime": 146,
+        "premiered": "1990-09-12",
+        "synopsis": "A história de Henry Hill e sua vida na máfia, cobrindo seu relacionamento com sua esposa Karen e seus parceiros mafiosos Jimmy Conway e Tommy DeVito.",
+        "popularity": 70.393
+    },
+	 {
+        "tmdb_id": 510,
+        "title": "Um Estranho no Ninho",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e1a0ad8e9547022e99825fb3a840ea9fed3cdde",
+        "year": 1975,
+        "genres": "Drama",
+        "actors": [
+            {
+                "name": "Jack Nicholson",
+                "photo": "https://image.tmdb.org/t/p/w185/hBHcQIEa6P48HQAlLZkh0eKSSkG.jpg"
+            },
+            {
+                "name": "Brad Dourif",
+                "photo": "https://image.tmdb.org/t/p/w185/o9f0fHMF1Jo0PDCjz2r1dneolwS.jpg"
+            },
+            {
+                "name": "Louise Fletcher",
+                "photo": "https://image.tmdb.org/t/p/w185/hN15em5LqXqDe1QgDa6lXK9fx3z.jpg"
+            },
+            {
+                "name": "Danny DeVito",
+                "photo": "https://image.tmdb.org/t/p/w185/6kO4IN7ndoIGw2JhyhAQN3SFmdx.jpg"
+            },
+            {
+                "name": "William Redfield",
+                "photo": "https://image.tmdb.org/t/p/w185/6w7BRi6bTRZq263Bxkfogy4ekLB.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/r5b2ub7GMawCWDP5vHR1MXpV7vU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/qUq3QTr2KLvGIcN0GaaaYx9bbyH.jpg",
+        "director": "Miloš Forman",
+        "studio": "Fantasy Films",
+        "rating": 8.7,
+        "runtime": 133,
+        "premiered": "1975-11-19",
+        "synopsis": "Randle Patrick McMurphy é um malandro que, após ser preso, se finge de louco para ir a um hospital psiquiátrico e assim esquivar-se a uma porção de trabalhos forçados na prisão. Lá ele começa a influenciar os outros internos e começa a sofrer oposição da cruel e sádica enfermeira Mildred Ratched. Com forte poder persuasivo, McMurphy instaura uma reviravolta na clínica, não sabendo o que isto pode lhe custar.",
+        "popularity": 47.842
+    },
+	{
+        "tmdb_id": 157336,
+        "title": "Interestelar",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c041a3e511bcf55987ad1b00c261cbc8e8b02735",
+        "year": 2014,
+        "genres": "Aventura, Drama, Ficção científica",
+        "actors": [
+            {
+                "name": "Matthew McConaughey",
+                "photo": "https://image.tmdb.org/t/p/w185/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+            },
+            {
+                "name": "Anne Hathaway",
+                "photo": "https://image.tmdb.org/t/p/w185/s6tflSD20MGz04ZR2R1lZvhmC4Y.jpg"
+            },
+            {
+                "name": "Michael Caine",
+                "photo": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+            },
+            {
+                "name": "Jessica Chastain",
+                "photo": "https://image.tmdb.org/t/p/w185/xRvRzxiiHhgUErl0yf9w8WariRE.jpg"
+            },
+            {
+                "name": "Casey Affleck",
+                "photo": "https://image.tmdb.org/t/p/w185/vD5MtCjHPHpmU9XNn74EPGMHT7o.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9REO1DLpmwhrBJY3mYW5eVxkXFM.jpg",
+        "director": "Christopher Nolan",
+        "studio": "Legendary Pictures",
+        "rating": 8.7,
+        "runtime": 169,
+        "premiered": "2014-11-05",
+        "synopsis": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar.",
+        "popularity": 296.74
+    },
+	{
+        "tmdb_id": 807,
+        "title": "Seven: Os Sete Crimes Capitais",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e330787417ab78e83ae0a3aa66b8f19a32053d5",
+        "year": 1995,
+        "genres": "Crime, Mistério, Thriller",
+        "actors": [
+            {
+                "name": "Morgan Freeman",
+                "photo": "https://image.tmdb.org/t/p/w185/jPsLqiYGSofU4s6BjrxnefMfabb.jpg"
+            },
+            {
+                "name": "Brad Pitt",
+                "photo": "https://image.tmdb.org/t/p/w185/cckcYc2v0yh1tc9QjRelptcOBko.jpg"
+            },
+            {
+                "name": "Gwyneth Paltrow",
+                "photo": "https://image.tmdb.org/t/p/w185/kvk2UXWO45pQWlbErtotK3npHNP.jpg"
+            },
+            {
+                "name": "John Cassini",
+                "photo": "https://image.tmdb.org/t/p/w185/kn2Rtn0I8ivCR7ydZTY74XUBh1K.jpg"
+            },
+            {
+                "name": "Peter Crombie",
+                "photo": "https://image.tmdb.org/t/p/w185/pMvhE1wwQo3eTSp4vwq8Hb22CwN.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/jySKgf2oyLWVVvvL1CjiPNNB4Rs.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/iwgl8zlrrfvfWp9k9Paj8lvFEvS.jpg",
+        "director": "David Fincher",
+        "studio": "New Line Cinema",
+        "rating": 8.6,
+        "runtime": 127,
+        "premiered": "1995-09-22",
+        "synopsis": "Quando, a ponto de se aposentar, o detetive William Somerset aborda o último caso com a ajuda do recém-transferido David Mills, eles descobrem uma série de assassinatos. Logo percebem que estão lidando com um assassino que tem como alvo pessoas que ele acredita representar os sete pecados capitais.",
+        "popularity": 110.83
+    },
+	 {
+        "tmdb_id": 1585,
+        "title": "A Felicidade Nao Se Compra",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:adc1bd737014ea7ea75adf2ce2b535bdb9f718c0",
+        "year": 1946,
+        "genres": "Drama, Família, Fantasia",
+        "actors": [
+            {
+                "name": "James Stewart",
+                "photo": "https://image.tmdb.org/t/p/w185/jam9DRhOuKomlr0vUXTamPoxPdk.jpg"
+            },
+            {
+                "name": "Donna Reed",
+                "photo": "https://image.tmdb.org/t/p/w185/aCRMYYMs3zxLvmUgxBytuCgTElQ.jpg"
+            },
+            {
+                "name": "Lionel Barrymore",
+                "photo": "https://image.tmdb.org/t/p/w185/j7UjmpRAZ7imblut0WHqjS13mmg.jpg"
+            },
+            {
+                "name": "Thomas Mitchell",
+                "photo": "https://image.tmdb.org/t/p/w185/uOhcftGVj7tPrCKBYHYtYPlQKUP.jpg"
+            },
+            {
+                "name": "Henry Travers",
+                "photo": "https://image.tmdb.org/t/p/w185/cfIfjkovcHOUyLW25eVAr8NvuvG.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/8E4xWKGLSkozFg87JBXN8Fi7eE7.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ch3lDc4xQ9MpsNEpnRhvR8PIxxK.jpg",
+        "director": "Frank Capra",
+        "studio": "Liberty Films",
+        "rating": 8.6,
+        "runtime": 130,
+        "premiered": "1946-12-20",
+        "synopsis": "Em Bedford Falls, no Natal, George Bailey, que sempre ajudou a todos, pensa em se suicidar saltando de uma ponte, em razão das maquinações de Henry Potter, o homem mais rico da região. Mas tantas pessoas oram por ele que Clarence, um anjo que espera há 220 anos para ganhar asas, é mandado à Terra para tentar fazer George mudar de ideia, mostrando sua importância para todos através de flashbacks.",
+        "popularity": 47.749
+    },
+	{
+        "tmdb_id": 346,
+        "title": "Os Sete Samurais",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cabf9830ba0d213686927e4ff3beb6eb9c29e65",
+        "year": 1954,
+        "genres": "Ação, Drama",
+        "actors": [
+            {
+                "name": "Toshirô Mifune",
+                "photo": "https://image.tmdb.org/t/p/w185/3A9PqrtiXHLp8B2JL7m3YvVXrmL.jpg"
+            },
+            {
+                "name": "志村喬",
+                "photo": "https://image.tmdb.org/t/p/w185/ydyAm2vyBbEPZRICIMqqjDm0NM9.jpg"
+            },
+            {
+                "name": "稲葉義男",
+                "photo": "https://image.tmdb.org/t/p/w185/5qIAqM5PegWTNq67qNofz78fb6U.jpg"
+            },
+            {
+                "name": "宮口精二",
+                "photo": "https://image.tmdb.org/t/p/w185/97XiJh1TSdu4hmJUp4Am5afgBZx.jpg"
+            },
+            {
+                "name": "千秋実",
+                "photo": "https://image.tmdb.org/t/p/w185/7gxmZcpEK95BVskWxKJaJvJsTPZ.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/telXEMxGtJvffm5JDsx1rQzwWlf.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sJNNMCc6B7KZIY3LH3JMYJJNH5j.jpg",
+        "director": "Akira Kurosawa",
+        "studio": "TOHO",
+        "rating": 8.6,
+        "runtime": 207,
+        "premiered": "1954-04-26",
+        "synopsis": "No século XVI, durante a era Sengoku, quando os poderosos samurais de outrora estavam com os dias contados, pois eram agora desprezados pelos seus aristocráticos senhores. Kambei (Takashi Shimura), um guerreiro veterano sem dinheiro, chega em uma aldeia indefesa que foi saqueada repetidamente por ladrões assassinos. Os moradores do vilarejo pedem sua ajuda, fazendo com que Kambei recrute seis outros ronins (samurais sem mestre), que concordam em ensinar os habitantes como devem se defender em troca de comida. Os aldeões dão boas-vindas aos guerreiros e algumas relações começam. Katsushiro (Ko Kimura) se apaixona por uma das mulheres locais, embora os outros ronins mantenham distância dos camponeses. O último dos guerreiros que chega é Kikuchio (Toshiro Mifune), que finge estar qualificado mas na realidade é o filho de um camponês que almeja aceitação.",
+        "popularity": 44.251
+    },
+	{
+        "tmdb_id": 274,
+        "title": "O Silencio dos Inocentes",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a97adcbacc88f83a114f38ff8fddf34e4b76891",
+        "year": 1991,
+        "genres": "Crime, Drama, Thriller",
+        "actors": [
+            {
+                "name": "Jodie Foster",
+                "photo": "https://image.tmdb.org/t/p/w185/resiaRfWvj4N84TgJi9DPOafCpq.jpg"
+            },
+            {
+                "name": "Anthony Hopkins",
+                "photo": "https://image.tmdb.org/t/p/w185/9ukJS2QWTJ22HcwR1ktMmoJ6RSL.jpg"
+            },
+            {
+                "name": "Scott Glenn",
+                "photo": "https://image.tmdb.org/t/p/w185/keBKcMPojtRTi5ImLXOoKDmDbqU.jpg"
+            },
+            {
+                "name": "Ted Levine",
+                "photo": "https://image.tmdb.org/t/p/w185/451KSkowLW6M2Au0wBKZZcidgGm.jpg"
+            },
+            {
+                "name": "Anthony Heald",
+                "photo": "https://image.tmdb.org/t/p/w185/e0E6Z1Y0debr4mAHgj0HO7MYyXG.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/paGUSTwcFrAxpGV1hSQ2wsI28id.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
+        "director": "Jonathan Demme",
+        "studio": "Orion Pictures",
+        "rating": 8.6,
         "runtime": 118,
-        "premiered": "2024-12-18",
-        "synopsis": "Mufasa, um filhote órfão, perdido e sozinho, conhece um simpático leão chamado Taka, herdeiro de uma linhagem real. O encontro ao acaso dá início a uma grande jornada de um grupo extraordinário de deslocados em busca de seu destino, além de revelar a ascensão de um dos maiores reis das Terras do Orgulho."
+        "premiered": "1991-02-14",
+        "synopsis": "Clarice Starling, uma das melhores estudantes da academia de treinamento do FBI. Jack Crawford quer que Clarice entreviste o Dr. Hannibal Lecter, um psiquiatra brilhante e também um psicopata violento, que cumpre prisão perpétua por vários atos de assassinato e canibalismo. Crawford acredita que Lecter pode ter uma visão em um caso e que Starling, como uma mulher jovem e atraente, pode ser a isca para atraí-lo.",
+        "popularity": 17.68
+    },
+	{
+        "tmdb_id": 857,
+        "title": "O Resgate do Soldado Ryan",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86f04c4ba1307f23d07decb8b8235ba2c8ecd1ec",
+        "year": 1998,
+        "genres": "Drama, História, Guerra",
+        "actors": [
+            {
+                "name": "Tom Hanks",
+                "photo": "https://image.tmdb.org/t/p/w185/eKF1sGJRrZJbfBG1KirPt1cfNd3.jpg"
+            },
+            {
+                "name": "Tom Sizemore",
+                "photo": "https://image.tmdb.org/t/p/w185/soINOuacuiThRb2LyPD4tTWve7C.jpg"
+            },
+            {
+                "name": "Edward Burns",
+                "photo": "https://image.tmdb.org/t/p/w185/pTLdPUSxDUcdmvy91LGCF3pk0AM.jpg"
+            },
+            {
+                "name": "Barry Pepper",
+                "photo": "https://image.tmdb.org/t/p/w185/pmdNUqrpsoozh7QYqUgEgZQ69cA.jpg"
+            },
+            {
+                "name": "Adam Goldberg",
+                "photo": "https://image.tmdb.org/t/p/w185/xEbqDqTWlSSCi4v8FI3S9YSEPJz.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/9SykLweWJJ5ISoT52s4Pfmul9DM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+        "director": "Steven Spielberg",
+        "studio": "DreamWorks Pictures",
+        "rating": 8.6,
+        "runtime": 170,
+        "premiered": "1998-07-24",
+        "synopsis": "Ao desembarcar na Normandia, no dia 6 de junho de 1944, capitão Miller recebe a missão de comandar um grupo do segundo batalhão para o resgate do soldado James Ryan, caçula de quatro irmãos, dentre os quais três morreram em combate. Por ordens do chefe George C. Marshall, eles precisam procurar o soldado e garantir o seu retorno, com vida, para casa.",
+        "popularity": 64.465
+    },
+	{
+        "tmdb_id": 598,
+        "title": "Cidade de Deus",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9579acfdf48fcb241edf331529d039e8a23ecf3",
+        "year": 2002,
+        "genres": "Drama, Crime",
+        "actors": [
+            {
+                "name": "Alexandre Rodrigues",
+                "photo": "https://image.tmdb.org/t/p/w185/sN0o245HMVYTnEWPBYt3qdiQupq.jpg"
+            },
+            {
+                "name": "Leandro Firmino",
+                "photo": "https://image.tmdb.org/t/p/w185/aEzWJgEzId04EP8C2UFQaF28WTW.jpg"
+            },
+            {
+                "name": "Phellipe Haagensen",
+                "photo": "https://image.tmdb.org/t/p/w185/3dxy4unadLTAb6aUQUyX2r3AkE.jpg"
+            },
+            {
+                "name": "Douglas Silva",
+                "photo": "https://image.tmdb.org/t/p/w185/8GAtzTf0qjTf9HgePUFwsFbQVbn.jpg"
+            },
+            {
+                "name": "Jonathan Haagensen",
+                "photo": "https://image.tmdb.org/t/p/w185/cha3GxI1MfbCjc973iUNKUvopQF.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/gfnXixcGC060QcG6JPxN6AMdVsq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/uvitbjFU4JqvMwIkMWHp69bmUzG.jpg",
+        "director": "Fernando Meirelles",
+        "studio": "O2 Filmes",
+        "rating": 8.6,
+        "runtime": 130,
+        "premiered": "2002-08-30",
+        "synopsis": "Buscapé é um jovem morador da Cidade de Deus que cresce em meio à violência. Com medo de se tornar um bandido, enxerga na fotografia uma oportunidade de ter uma vida digna.",
+        "popularity": 50.203
+    },
+	{
+        "tmdb_id": 497,
+        "title": "A Espera de um Milagre",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2721ea4c1bdb4867c99540c9884194ab5efa9fc",
+        "year": 1999,
+        "genres": "Fantasia, Drama, Crime",
+        "actors": [
+            {
+                "name": "Tom Hanks",
+                "photo": "https://image.tmdb.org/t/p/w185/eKF1sGJRrZJbfBG1KirPt1cfNd3.jpg"
+            },
+            {
+                "name": "David Morse",
+                "photo": "https://image.tmdb.org/t/p/w185/A6zGbkFjM3uajIakgsSeNTmSKqY.jpg"
+            },
+            {
+                "name": "Bonnie Hunt",
+                "photo": "https://image.tmdb.org/t/p/w185/7z0GaJW9WyHcjX3hVfzZXRAkZEz.jpg"
+            },
+            {
+                "name": "Michael Clarke Duncan",
+                "photo": "https://image.tmdb.org/t/p/w185/3RX8OBqt3gbvFwKYZqiom4O3Ta6.jpg"
+            },
+            {
+                "name": "James Cromwell",
+                "photo": "https://image.tmdb.org/t/p/w185/fOiapeLMpJUDa4AQMPIL67UgHVM.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/14hEqW67IiHlKpzKMLUXyktzZIV.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/vxJ08SvwomfKbpboCWynC3uqUg4.jpg",
+        "director": "Frank Darabont",
+        "studio": "Castle Rock Entertainment",
+        "rating": 8.6,
+        "runtime": 189,
+        "premiered": "1999-12-10",
+        "synopsis": "Milagres acontecem em lugares inesperados, mesmo no bloco de celas para o corredor da morte na Penitenciária Cold Mountain. Lá, John Coffey, um gentil e gigante prisioneiro com poderes sobrenaturais, traz um senso de espírito e humanidade aos seus guardas e colegas de cela.",
+        "popularity": 92.466
+    },
+	{
+        "tmdb_id": 637,
+        "title": "A Vida e Bela",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77a0f948c7b4a339af3d2bf09f07155edfe9fd28",
+        "year": 1997,
+        "genres": "Comédia, Drama",
+        "actors": [
+            {
+                "name": "Roberto Benigni",
+                "photo": "https://image.tmdb.org/t/p/w185/noelOhwX1oaNSvU9NLKhPrHTFI3.jpg"
+            },
+            {
+                "name": "Nicoletta Braschi",
+                "photo": "https://image.tmdb.org/t/p/w185/9IeE3Iz9HXZVTrvhjSCKlR4FLxB.jpg"
+            },
+            {
+                "name": "Giorgio Cantarini",
+                "photo": "https://image.tmdb.org/t/p/w185/1tKZHpVTYcw8EP3naVTZFlrOkhQ.jpg"
+            },
+            {
+                "name": "Giustino Durano",
+                "photo": "https://image.tmdb.org/t/p/w185/o302wA8DHLHDLhTXOF5wEi3C99G.jpg"
+            },
+            {
+                "name": "Sergio Bini Bustric",
+                "photo": "https://image.tmdb.org/t/p/w185/crnlLn1SxP2LqbsXNr8CQrvaiNc.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/mdqU2CHabmbdkWKs1IvCfksbtNM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/gavyCu1UaTaTNPsVaGXT6pe5u24.jpg",
+        "director": "Roberto Benigni",
+        "studio": "Mario e Vittorio Cecchi Gori - C.E.I.A.D.",
+        "rating": 8.6,
+        "runtime": 116,
+        "premiered": "1997-12-20",
+        "synopsis": "Durante a Segunda Guerra Mundial na Itália, o judeu Guido e seu filho Giosué são levados para um campo de concentração nazista. Afastado da mulher, ele tem que usar sua imaginação para fazer o menino acreditar que estão participando de uma grande brincadeira, com o intuito de protegê-lo do terror e da violência que os cercam.",
+        "popularity": 51.231
+    },
+	 {
+        "tmdb_id": 280,
+        "title": "O Exterminador do Futuro 2: O Julgamento Final",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a74d828b27cd365e4a80bae1cf8fde591f4ffcde",
+        "year": 1991,
+        "genres": "Ação, Thriller, Ficção científica",
+        "actors": [
+            {
+                "name": "Arnold Schwarzenegger",
+                "photo": "https://image.tmdb.org/t/p/w185/2marNcjIfCUE5Z2HyrcEiJHPbsA.jpg"
+            },
+            {
+                "name": "Linda Hamilton",
+                "photo": "https://image.tmdb.org/t/p/w185/ybthFm1aatOct2FVD7DrfC0Dq5B.jpg"
+            },
+            {
+                "name": "Edward Furlong",
+                "photo": "https://image.tmdb.org/t/p/w185/e221dMIBgb6Lk092GIkHB9ohQF1.jpg"
+            },
+            {
+                "name": "Robert Patrick",
+                "photo": "https://image.tmdb.org/t/p/w185/qRv2Es9rZoloullTbzss3I5j1Mp.jpg"
+            },
+            {
+                "name": "Earl Boen",
+                "photo": "https://image.tmdb.org/t/p/w185/nRAlyqkAA84gCTDwjFR77avdfHK.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/nb0ertLALhkUqpmcahDFplqyc0I.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/vINgGecnz95iDL6fjQMARDsocgG.jpg",
+        "director": "James Cameron",
+        "studio": "Carolco Pictures",
+        "rating": 8.6,
+        "runtime": 136,
+        "premiered": "1991-07-03",
+        "synopsis": "O jovem John Connor é a chave para a vitória da civilização sobre uma rebelião de robôs do futuro. No entanto, ele torna-se alvo de T-1000, um exterminador que pode assumir a forma que desejar e que foi enviado do futuro para matá-lo. Outro exterminador, o renovado T-800, também é enviado de volta ao passado para proteger o garoto. Quando John e sua mãe embarcam na fuga com T-800, o menino cria um vínculo forte e inesperado com o robô.",
+        "popularity": 67.382
+    },
+	{
+        "tmdb_id": 11,
+        "title": "Star Wars: Episodio IV - Uma Nova Esperanca",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe1e1069de410fb44157f02b4f6655dde99621c6",
+        "year": 1977,
+        "genres": "Aventura, Ação, Ficção científica",
+        "actors": [
+            {
+                "name": "Mark Hamill",
+                "photo": "https://image.tmdb.org/t/p/w185/2ZulC2Ccq1yv3pemusks6Zlfy2s.jpg"
+            },
+            {
+                "name": "Harrison Ford",
+                "photo": "https://image.tmdb.org/t/p/w185/n4dwIg6NbQzeMaS1yEKKlfNJH7a.jpg"
+            },
+            {
+                "name": "Carrie Fisher",
+                "photo": "https://image.tmdb.org/t/p/w185/745jo3MsIZm53PWvZiFxwKuQVxt.jpg"
+            },
+            {
+                "name": "Peter Cushing",
+                "photo": "https://image.tmdb.org/t/p/w185/if5g03wn6uvHx7F6FxXHLebKc0q.jpg"
+            },
+            {
+                "name": "Alec Guinness",
+                "photo": "https://image.tmdb.org/t/p/w185/gplGgl6XERpvYdluiwY8GlxSdpi.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/dw7X9YPjjAfIxKHW04V64Bb9TB0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg",
+        "director": "George Lucas",
+        "studio": "Lucasfilm Ltd.",
+        "rating": 8.6,
+        "runtime": 121,
+        "premiered": "1977-05-25",
+        "synopsis": "A princesa Leia é mantida refém pelas forças imperiais comandadas por Darth Vader. Luke Skywalker e Han Solo precisam libertá-la e restaurar a liberdade e a justiça na galáxia.",
+        "popularity": 100.587
+    },
+	{
+        "tmdb_id": 105,
+        "title": "De Volta para o Futuro",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:115a5c60e748baa9e2404ad4f799f39ab9811742",
+        "year": 1985,
+        "genres": "Aventura, Comédia, Ficção científica",
+        "actors": [
+            {
+                "name": "Michael J. Fox",
+                "photo": "https://image.tmdb.org/t/p/w185/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
+            },
+            {
+                "name": "Christopher Lloyd",
+                "photo": "https://image.tmdb.org/t/p/w185/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+            },
+            {
+                "name": "Crispin Glover",
+                "photo": "https://image.tmdb.org/t/p/w185/imBnLpSXvg61qDDdEfvL6R4ITKt.jpg"
+            },
+            {
+                "name": "Lea Thompson",
+                "photo": "https://image.tmdb.org/t/p/w185/85E9NTEfkRdUdK4kTrrnk5of25w.jpg"
+            },
+            {
+                "name": "Claudia Wells",
+                "photo": "https://image.tmdb.org/t/p/w185/2VOsPvoV2vmEUd1O2KjW3kcN8JD.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/egrTG3M5KhO5E6nfgGLtUYeuERn.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+        "director": "Robert Zemeckis",
+        "studio": "Universal Pictures",
+        "rating": 8.5,
+        "runtime": 115,
+        "premiered": "1985-07-03",
+        "synopsis": "Marty McFly, um típico adolescente americano dos anos 80, acidentalmente é enviado de volta ao ano de 1955 em um carro modificado para ser uma máquino do tempo, inventada por um cientista louco. Durante sua fantástica e maluca viagem no tempo, McFly tem que fazer com que seus futuros pais se encontrem e se apaixonem, para que assim ele possa ir de volta para o futuro.",
+        "popularity": 77.392
+    },
+	{
+        "tmdb_id": 129,
+        "title": "A Viagem de Chihiro",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65ccb003b36b4ee3604292750aa5ba0c15fc4e82",
+        "year": 2001,
+        "genres": "Animação, Família, Fantasia",
+        "actors": [
+            {
+                "name": "Rumi Hiiragi",
+                "photo": "https://image.tmdb.org/t/p/w185/zITaVtFyc4xSM3mxSoPRWHbqgJI.jpg"
+            },
+            {
+                "name": "Miyu Irino",
+                "photo": "https://image.tmdb.org/t/p/w185/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg"
+            },
+            {
+                "name": "Mari Natsuki",
+                "photo": "https://image.tmdb.org/t/p/w185/aRs3dGqA2bCuGSZ7lJGhQKe8rhp.jpg"
+            },
+            {
+                "name": "Takashi Naitô",
+                "photo": "https://image.tmdb.org/t/p/w185/zfs63NZKNG3Uy6WqqXSQWYMQXKZ.jpg"
+            },
+            {
+                "name": "Yasuko Sawaguchi",
+                "photo": "https://image.tmdb.org/t/p/w185/rWspusb13VeJowmctnniXYYTcqq.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/hhoKhsyJ3hFaxEm5pMdZRiTu2lJ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6oaL4DP75yABrd5EbC4H2zq5ghc.jpg",
+        "director": "Hayao Miyazaki",
+        "studio": "Studio Ghibli",
+        "rating": 8.5,
+        "runtime": 126,
+        "premiered": "2001-07-20",
+        "synopsis": "Chihiro e seus pais estão se mudando para uma cidade diferente. A caminho da nova casa, o pai decide pegar um atalho. Eles se deparam com uma mesa repleta de comida, embora ninguém esteja por perto. Chihiro sente o perigo, mas seus pais começam a comer. Quando anoitece, eles se transformam em porcos. Agora, apenas Chihiro pode salvá-los",
+        "popularity": 112.731
+    },
+	{
+        "tmdb_id": 423,
+        "title": "O Pianista",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dedad97cddfa63ca64d79f1736555e6bf8a4460",
+        "year": 2002,
+        "genres": "Drama, Guerra",
+        "actors": [
+            {
+                "name": "Adrien Brody",
+                "photo": "https://image.tmdb.org/t/p/w185/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
+            },
+            {
+                "name": "Thomas Kretschmann",
+                "photo": "https://image.tmdb.org/t/p/w185/p1XYiekXjaUxHMztBALrez1Ud4J.jpg"
+            },
+            {
+                "name": "Frank Finlay",
+                "photo": "https://image.tmdb.org/t/p/w185/fO7CYAaGydu9d3s5numYRi1BRvL.jpg"
+            },
+            {
+                "name": "Maureen Lipman",
+                "photo": "https://image.tmdb.org/t/p/w185/kx26NOAw9GnsHjJIJ4l40YHblJ.jpg"
+            },
+            {
+                "name": "Emilia Fox",
+                "photo": "https://image.tmdb.org/t/p/w185/lZpNRsHAOW8m0f7bRfgUDmRRjo.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/zgtCY3VshbIv3UfNkdvVEShGmlE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/dVr11o9or7AS8AMPfwjSpEU83iU.jpg",
+        "director": "Roman Polanski",
+        "studio": "Canal+ Polska",
+        "rating": 8.5,
+        "runtime": 150,
+        "premiered": "2002-09-17",
+        "synopsis": "Um pianista judeu polonês vê Varsóvia mudar gradualmente à medida que a Segunda Guerra Mundial começa. Szpilman é forçado a ir para o Gueto de Varsóvia, mas depois é separado de sua família durante a Operação Reinhard. A partir deste momento até que os prisioneiros dos campos de concentração sejam liberados, Szpilman se esconde em vários locais entre as ruínas de Varsóvia.",
+        "popularity": 57.816
+    },
+	{
+        "tmdb_id": 98,
+        "title": "Gladiador",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fd5576760be2db1b8faaa7e12874e5834a479cd",
+        "year": 2000,
+        "genres": "Ação, Drama, Aventura",
+        "actors": [
+            {
+                "name": "Russell Crowe",
+                "photo": "https://image.tmdb.org/t/p/w185/mGTtPuwE8OR00tkJGmVLJmt8KpW.jpg"
+            },
+            {
+                "name": "Joaquin Phoenix",
+                "photo": "https://image.tmdb.org/t/p/w185/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
+            },
+            {
+                "name": "Connie Nielsen",
+                "photo": "https://image.tmdb.org/t/p/w185/lvQypTfeH2Gn2PTbzq6XkT2PLmn.jpg"
+            },
+            {
+                "name": "Oliver Reed",
+                "photo": "https://image.tmdb.org/t/p/w185/hKqUr03saj4GSIpRbeYkCQpMNal.jpg"
+            },
+            {
+                "name": "Richard Harris",
+                "photo": "https://image.tmdb.org/t/p/w185/lCvcVMuxrg1f5A8OMqY9AqkkcZR.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/4DUClyGA6OqjXv6yC0Imf6THGfp.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/jhk6D8pim3yaByu1801kMoxXFaX.jpg",
+        "director": "Ridley Scott",
+        "studio": "Universal Pictures",
+        "rating": 8.5,
+        "runtime": 155,
+        "premiered": "2000-05-04",
+        "synopsis": "Nos dias finais do reinado de Marcus Aurelius, o imperador desperta a ira de seu filho Commodus ao tornar pública sua predileção em deixar o trono para Maximus, o comandante do exército romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Império Romano.",
+        "popularity": 170.081
+    },
+	{
+        "tmdb_id": 496243,
+        "title": "Parasita",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc33008ab9b2fefa78cf264d3124b841875d5c11",
+        "year": 2019,
+        "genres": "Comédia, Thriller, Drama",
+        "actors": [
+            {
+                "name": "Kang-ho Song",
+                "photo": "https://image.tmdb.org/t/p/w185/7dw9wIpFZ5nJZ3zqrue8t7hUUgQ.jpg"
+            },
+            {
+                "name": "Sun-kyun Lee",
+                "photo": "https://image.tmdb.org/t/p/w185/nHFBbSFohzOUOvMxPVwe3Es2nJw.jpg"
+            },
+            {
+                "name": "Yeo-Jeong Cho",
+                "photo": "https://image.tmdb.org/t/p/w185/5MgWM8pkUiYkj9MEaEpO0Ir1FD9.jpg"
+            },
+            {
+                "name": "Woo-sik Choi",
+                "photo": "https://image.tmdb.org/t/p/w185/bIdt6LrqMpGQtGTZ1gmji6eGzTH.jpg"
+            },
+            {
+                "name": "So-dam Park",
+                "photo": "https://image.tmdb.org/t/p/w185/gaDnEiMD5PClT9ARg1bSFyexbor.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/bik2BZjmVjeE6LOZqtuTjb4jJPQ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/x6skktR5OS99lAX4JhmjCQYq490.jpg",
+        "director": "Bong Joon-Ho",
+        "studio": "Barunson E&A",
+        "rating": 8.5,
+        "runtime": 132,
+        "premiered": "2019-05-30",
+        "synopsis": "Toda a família de Ki-taek está desempregada, vivendo num porão sujo e apertado. Uma obra do acaso faz com que o filho adolescente da família comece a dar aulas de inglês à garota de uma família rica. Fascinados com a vida luxuosa destas pessoas, pai, mãe, filho e filha bolam um plano para se infiltrarem também na família burguesa, um a um. No entanto, os segredos e mentiras necessários à ascensão social custarão caro a todos.",
+        "popularity": 100.513
+    },
+	{
+        "tmdb_id": 539,
+        "title": "Psicose",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80a7c5121b9f7f8003999a5e2809693b56c45d81",
+        "year": 1960,
+        "genres": "Terror, Thriller, Mistério",
+        "actors": [
+            {
+                "name": "Anthony Perkins",
+                "photo": "https://image.tmdb.org/t/p/w185/7FipKwmg2woHNvt5ATeXLBirHXs.jpg"
+            },
+            {
+                "name": "Janet Leigh",
+                "photo": "https://image.tmdb.org/t/p/w185/2dv9IqJEx31RSoH7xAHlJZXF5uB.jpg"
+            },
+            {
+                "name": "Vera Miles",
+                "photo": "https://image.tmdb.org/t/p/w185/ke0e0i8RkzGfTixKk6nuh6HuQkz.jpg"
+            },
+            {
+                "name": "John Gavin",
+                "photo": "https://image.tmdb.org/t/p/w185/n8vlG1PRtNzv6vlwjTNK7UnoKr0.jpg"
+            },
+            {
+                "name": "Martin Balsam",
+                "photo": "https://image.tmdb.org/t/p/w185/2j4LJJfTPQtvnjp8LfSGOvWFATO.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/oC2iYT2on8c2iZnehah1l6AWqGu.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/uif5fUshJrXyyDzfpzp1DLw3N0S.jpg",
+        "director": "Alfred Hitchcock",
+        "studio": "Shamley Productions",
+        "rating": 8.5,
+        "runtime": 109,
+        "premiered": "1960-06-22",
+        "synopsis": "Marion Crane é uma secretária que rouba 40 mil dólares da imobiliária onde trabalha para se casar e começar uma nova vida. Durante a fuga à carro, ela enfrenta uma forte tempestade, erra o caminho e chega em um velho hotel. O estabelecimento é administrado por um sujeito atencioso chamado Norman Bates, que nutre um forte respeito e temor por sua mãe. Marion decide passar a noite no local, sem saber o perigo que a cerca.",
+        "popularity": 47.904
+    },
+	 {
+        "tmdb_id": 8587,
+        "title": "O Rei Leao",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f57b392dd7e52582ceda425b8fa62bbc3e3b3fe9",
+        "year": 1994,
+        "genres": "Família, Animação, Drama",
+        "actors": [
+            {
+                "name": "Matthew Broderick",
+                "photo": "https://image.tmdb.org/t/p/w185/8jO89WNvQRTFUrgXuIGOiTRwbYg.jpg"
+            },
+            {
+                "name": "Moira Kelly",
+                "photo": "https://image.tmdb.org/t/p/w185/3yQRnGSfbPWQDInZHTzzXsrAhUR.jpg"
+            },
+            {
+                "name": "Nathan Lane",
+                "photo": "https://image.tmdb.org/t/p/w185/nEYS0KO1qVO3y0RAt8V8pFxnPb7.jpg"
+            },
+            {
+                "name": "Ernie Sabella",
+                "photo": "https://image.tmdb.org/t/p/w185/dBit6gkZfxXqdxO0Ic8CsnLpxyQ.jpg"
+            },
+            {
+                "name": "James Earl Jones",
+                "photo": "https://image.tmdb.org/t/p/w185/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/8aIvm8OaJISOpVTt7rMIh7X35G5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/wXfAvsPZqBDJ8U78F2IAzsUxtNh.jpg",
+        "director": "Roger Allers, Rob Minkoff",
+        "studio": "Walt Disney Pictures",
+        "rating": 8.5,
+        "runtime": 89,
+        "premiered": "1994-06-24",
+        "synopsis": "Mufasa, o Rei Leão, e a rainha Sarabi apresentam ao reino o herdeiro do trono, Simba. O recém-nascido recebe a bênção do sábio babuíno Rafiki, mas ao crescer é envolvido nas artimanhas de seu tio Scar, o invejoso e maquiavélico irmão de Mufasa, que planeja livrar-se do sobrinho e herdar o trono.",
+        "popularity": 144.754
+    },
+	{
+        "tmdb_id": 1422,
+        "title": "Os Infiltrados",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfd375ecb11607aee731ae800c3a8619c4797829",
+        "year": 2006,
+        "genres": "Drama, Thriller, Crime",
+        "actors": [
+            {
+                "name": "Leonardo DiCaprio",
+                "photo": "https://image.tmdb.org/t/p/w185/ts9l18VkDSooRGDWIeQegNVHciC.jpg"
+            },
+            {
+                "name": "Matt Damon",
+                "photo": "https://image.tmdb.org/t/p/w185/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg"
+            },
+            {
+                "name": "Jack Nicholson",
+                "photo": "https://image.tmdb.org/t/p/w185/hBHcQIEa6P48HQAlLZkh0eKSSkG.jpg"
+            },
+            {
+                "name": "Mark Wahlberg",
+                "photo": "https://image.tmdb.org/t/p/w185/bTEFpaWd7A6AZVWOqKKBWzKEUe8.jpg"
+            },
+            {
+                "name": "Martin Sheen",
+                "photo": "https://image.tmdb.org/t/p/w185/m2Y3Q0uyuW6htrn2W9UWCWMkpZu.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/qtnAwzDapzOML4Q9p7lv2bk5gvz.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6WRrGYalXXveItfpnipYdayFkQB.jpg",
+        "director": "Martin Scorsese",
+        "studio": "Warner Bros. Pictures",
+        "rating": 8.5,
+        "runtime": 151,
+        "premiered": "2006-10-04",
+        "synopsis": "Billy Costigan, um jovem policial, recebe a missão de se infiltrar na máfia, mais especificamente no grupo comandado por Frank Costello. Billy conquista sua confiança ao mesmo tempo em que Colin Sullivan, um criminoso que atuou na polícia como informante de Costello, também ascende dentro da corporação. Tanto Billy quanto Colin se sentem aflitos devido à vida dupla que levam. Mas quando a máfia e a polícia descobrem que há um espião entre eles, a vida de ambos passa a correr perigo.",
+        "popularity": 61.678
+    },
+	{
+        "tmdb_id": 12477,
+        "title": "O Tumulo dos Vagalumes",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be33f205d05cfa34fa49de443cf93ec2ca0c56a5",
+        "year": 1988,
+        "genres": "Animação, Drama, Guerra",
+        "actors": [
+            {
+                "name": "辰巳努",
+                "photo": "https://www.film.ru/sites/default/files/people/_tmdb/pmOjSeSAnkdFB9T5ns0gNMf3F0C.jpg"
+            },
+            {
+                "name": "白石綾乃",
+                "photo": "https://www.tv-ranking.com/photo/detail/22/22198_1.jpg"
+            },
+            {
+                "name": "志乃原良子",
+                "photo": null
+            },
+            {
+                "name": "山口朱美",
+                "photo": null
+            },
+            {
+                "name": "Masayo Sakai",
+                "photo": null
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/kHFUyxNJfhMkKk1FwrNHd62KTEs.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/dlC0ed9Ugh3FzydnkBtV5lRXUu4.jpg",
+        "director": "高畑勲",
+        "studio": "Studio Ghibli",
+        "rating": 8.5,
+        "runtime": 88,
+        "premiered": "1988-04-16",
+        "synopsis": "O filme relata a história de dois irmãos, Seita e Setsuko, no período da Segunda Guerra Mundial no Japão. O pai deles é convocado para defender o país na guerra, pois faz parte da marinha japonesa e a mãe falece em um bombardeio de aviões norte-americanos. A partir daí, o filme mostra a luta pela sobrevivência das duas crianças em meio à pobreza e miséria que assola o país. Fome, doenças e a falta de generosidade e sensibilidade dos adultos faz deste percurso um dos filmes mais bonitos e comoventes sobre o trágico quadro gerado pela guerra.",
+        "popularity": 0.05
+    },
+	{
+        "tmdb_id": 244786,
+        "title": "Whiplash: Em Busca da Perfeicao",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b3e05c683ba8b8b356b272f4b519b51d84d3b05",
+        "year": 2014,
+        "genres": "Drama, Música",
+        "actors": [
+            {
+                "name": "Miles Teller",
+                "photo": "https://image.tmdb.org/t/p/w185/cg3LW0xX6RKr8dmescxq1bepcb5.jpg"
+            },
+            {
+                "name": "J.K. Simmons",
+                "photo": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+            },
+            {
+                "name": "Paul Reiser",
+                "photo": "https://image.tmdb.org/t/p/w185/v3e5TClep4ugMdU4qSRiKbvLr3B.jpg"
+            },
+            {
+                "name": "Melissa Benoist",
+                "photo": "https://image.tmdb.org/t/p/w185/tbS8pwu5hMlZLIJUknZYqxypG1u.jpg"
+            },
+            {
+                "name": "Austin Stowell",
+                "photo": "https://image.tmdb.org/t/p/w185/At09XQpVXnChgedNsxu4ceR5W9i.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/dtnzzmGOy2Ni89Ir4I1FTO40FJQ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bF8eIIIJJoMZf2mFibAejqEGQcX.jpg",
+        "director": "Damien Chazelle",
+        "studio": "Bold Films",
+        "rating": 8.5,
+        "runtime": 107,
+        "premiered": "2014-10-10",
+        "synopsis": "Andrew sonha em ser o melhor baterista de sua geração. Ele chama a atenção do impiedoso mestre do jazz Terence Fletcher, que ultrapassa os limites e transforma seu sonho em uma obsessão, colocando em risco a saúde física e mental do jovem músico.",
+        "popularity": 78.934
+    },
+	{
+        "tmdb_id": 73,
+        "title": "A Outra Historia Americana",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:611a36f0a9a21f33c1ddbdbf5c2296deb736cfb4",
+        "year": 1998,
+        "genres": "Drama",
+        "actors": [
+            {
+                "name": "Edward Norton",
+                "photo": "https://image.tmdb.org/t/p/w185/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
+            },
+            {
+                "name": "Edward Furlong",
+                "photo": "https://image.tmdb.org/t/p/w185/e221dMIBgb6Lk092GIkHB9ohQF1.jpg"
+            },
+            {
+                "name": "Beverly D'Angelo",
+                "photo": "https://image.tmdb.org/t/p/w185/8fYQIA8dAaA4GOTxOFSKIvTqzi.jpg"
+            },
+            {
+                "name": "Jennifer Lien",
+                "photo": "https://image.tmdb.org/t/p/w185/5wafpjORY55TY5OC6d9Cyb36O2r.jpg"
+            },
+            {
+                "name": "Ethan Suplee",
+                "photo": "https://image.tmdb.org/t/p/w185/jF4WZWrjyiV284nOy4RyigWzHwf.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/awlLBINV2ptoHkzeG20mIanlWqh.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9LSsSPbP715XT9B7acIZzantPyX.jpg",
+        "director": "Tony Kaye",
+        "studio": "New Line Cinema",
+        "rating": 8.5,
+        "runtime": 119,
+        "premiered": "1998-07-01",
+        "synopsis": "Derek busca vazão para suas agruras tornando-se líder de uma gangue de racistas. A violência o leva a um assassinato, e ele é condenado pelo crime. Três anos mais tarde, ele sai da prisão e tem que convencer seu irmão, que está prestes a assumir a liderança do grupo, a não trilhar o mesmo caminho.",
+        "popularity": 33.54
+    },
+	{
+        "tmdb_id": 14537,
+        "title": "Harakiri",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:075e523e4829c7466ea0b32a376d86e83a3fe588",
+        "year": 1962,
+        "genres": "Ação, Drama, História",
+        "actors": [
+            {
+                "name": "Tatsuya Nakadai",
+                "photo": "https://image.tmdb.org/t/p/w185/4LygOe0vFQplLIft5IUWI5OewPX.jpg"
+            },
+            {
+                "name": "石濱朗",
+                "photo": "https://image.tmdb.org/t/p/w185/sQC3XSIR0LeYPz11VJt8nJoeRKY.jpg"
+            },
+            {
+                "name": "岩下志麻",
+                "photo": "https://image.tmdb.org/t/p/w185/add9ip75T9iik6d68YUR22ILaAW.jpg"
+            },
+            {
+                "name": "丹波哲郎",
+                "photo": "https://image.tmdb.org/t/p/w185/ihugQ2afio03fcKSGXdkcQKTVmt.jpg"
+            },
+            {
+                "name": "三島雅夫",
+                "photo": "https://image.tmdb.org/t/p/w185/bfPdwV4TCWJ7jjf16MFNsOndHWB.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/irXMIoSs823fujw7Qpj4JibT1Hy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/nC3IjYhUgZWgfKfFX0ygMigFwgc.jpg",
+        "director": "Masaki Kobayashi",
+        "studio": "Shochiku",
+        "rating": 8.6,
+        "runtime": 135,
+        "premiered": "1962-09-15",
+        "synopsis": "Em um tempo de paz os samurais não eram necessários e estavam vivendo em completa miséria sem alguma casa para servir. Alguns pediam para realizar o harakiri dentro das residências de nobres apenas para extorquí-los; com pena, os senhores davam algum dinheiro ao guerreiro e o mandavam embora. Um nobre recebe um jovem samurai com este propósito e decide obrigá-lo a tirar a própria vida.",
+        "popularity": 20.835
+    },
+	{
+        "tmdb_id": 1124,
+        "title": "O Grande Truque",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb65bff771114c4f5315a82d0328a1055cb61eaf",
+        "year": 2006,
+        "genres": "Drama, Mistério, Ficção científica",
+        "actors": [
+            {
+                "name": "Hugh Jackman",
+                "photo": "https://image.tmdb.org/t/p/w185/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+            },
+            {
+                "name": "Christian Bale",
+                "photo": "https://image.tmdb.org/t/p/w185/2y4doWX4lCzDMjCL5KOA4KBz6Hn.jpg"
+            },
+            {
+                "name": "Michael Caine",
+                "photo": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+            },
+            {
+                "name": "Piper Perabo",
+                "photo": "https://image.tmdb.org/t/p/w185/5XrzISDEox0KubRDzJU668Oxmxy.jpg"
+            },
+            {
+                "name": "Rebecca Hall",
+                "photo": "https://image.tmdb.org/t/p/w185/mpWtqob1BRKz4bpX8h8a9hdmIPv.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/9yOIPXWQ9ttsZfzHvmcS7XiV8To.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/yCnJT53HMXAK87xzPAdjdYhZ3JE.jpg",
+        "director": "Christopher Nolan",
+        "studio": "Warner Bros. Pictures",
+        "rating": 8.5,
+        "runtime": 130,
+        "premiered": "2006-10-17",
+        "synopsis": "No século 19, em Londres, dois amigos ilusionistas e mágicos, Alfred Borden e Rupert Angier, acabam construindo uma rivalidade, uma batalha por supremacia, que se estende ao longo dos anos e que se transforma em obsessão, cujos resultados serão inevitavelmente trágicos.",
+        "popularity": 73.222
+    },
+	{
+        "tmdb_id": 569094,
+        "title": "Homem-Aranha: Atraves do Aranhaverso",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:984cd5d669d98bf51d1eb469e3008b5aeb5a2ab1",
+        "year": 2023,
+        "genres": "Animação, Ação, Aventura, Ficção científica",
+        "actors": [
+            {
+                "name": "Shameik Moore",
+                "photo": "https://image.tmdb.org/t/p/w185/4aNOTCa6q2HKTgyJj14BqDpVClC.jpg"
+            },
+            {
+                "name": "Hailee Steinfeld",
+                "photo": "https://image.tmdb.org/t/p/w185/dxSDWkiVaC6JYjrV3XRAZI7HOSS.jpg"
+            },
+            {
+                "name": "Brian Tyree Henry",
+                "photo": "https://image.tmdb.org/t/p/w185/1UgDnFt3OteCJQPiUelWzIR5bvT.jpg"
+            },
+            {
+                "name": "Luna Lauren Velez",
+                "photo": "https://image.tmdb.org/t/p/w185/98BvmTJCZHx0jPv0oNcv04Jkmfb.jpg"
+            },
+            {
+                "name": "Jake Johnson",
+                "photo": "https://image.tmdb.org/t/p/w185/3UNfW2qZgRkW81neNVfQvaRC92K.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/fUwfsPWEEdnSt29jIwJ5eVtySX6.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/jbthbh0KzaUWFPYvkfmXAamjI8j.jpg",
+        "director": "Kemp Powers, Justin K. Thompson, Joaquim Dos Santos",
+        "studio": "Columbia Pictures",
+        "rating": 8.5,
+        "runtime": 140,
+        "premiered": "2023-05-31",
+        "synopsis": "Miles Morales retorna para o próximo capítulo da saga do Aranhaverso, uma aventura épica que transportará o Homem-Aranha em tempo integral e amigável do bairro do Brooklyn através do Multiverso para unir forças com Gwen Stacy e uma nova equipe de Homens-Aranha para enfrentar com um vilão mais poderoso do que qualquer coisa que eles já encontraram.",
+        "popularity": 138.771
+    },
+	{
+        "tmdb_id": 101,
+        "title": "O Profissional",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13dc40d33383ced75adab1e0f9fca575419cd3f0",
+        "year": 1994,
+        "genres": "Crime, Drama, Ação",
+        "actors": [
+            {
+                "name": "Jean Reno",
+                "photo": "https://image.tmdb.org/t/p/w185/mw0EZJYz3kiFq9fNxsML773gotF.jpg"
+            },
+            {
+                "name": "Natalie Portman",
+                "photo": "https://image.tmdb.org/t/p/w185/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+            },
+            {
+                "name": "Gary Oldman",
+                "photo": "https://image.tmdb.org/t/p/w185/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+            },
+            {
+                "name": "Danny Aiello",
+                "photo": "https://image.tmdb.org/t/p/w185/2WiZ8SkiFU355GUT2QuSPlenrfM.jpg"
+            },
+            {
+                "name": "Peter Appel",
+                "photo": "https://image.tmdb.org/t/p/w185/AvOZjWVwklfJHNHD2AwLmYRhSXw.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/eIS5HF3wr7E6D1aABJ1IfK3siNF.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bguFhzIGpQdGQ6uizm07oMKbgHi.jpg",
+        "director": "Luc Besson",
+        "studio": "Gaumont",
+        "rating": 8.5,
+        "runtime": 111,
+        "premiered": "1994-09-14",
+        "synopsis": "Mathilda tem apenas 12 anos de idade mas já conhece o lado obscuro da vida: seu pai abusivo guarda drogas para policiais corruptos e a mãe a negligencia. O vizinho Léon gosta de cuidar de plantas, mas é um assassino de aluguel para o gângster Tony. Quando sua família é assassinada por um agente antidrogas desonesto, Mathilda se une a um relutante Léon para aprender o negócio mortal e vingar a morte da família.",
+        "popularity": 64.076
+    },
+	{
+        "tmdb_id": 289,
+        "title": "Casablanca",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d2f460a0ffa3b4c5920139c4437acb88ce7ca98",
+        "year": 1943,
+        "genres": "Drama, Romance",
+        "actors": [
+            {
+                "name": "Humphrey Bogart",
+                "photo": "https://image.tmdb.org/t/p/w185/4pk2VbOb2td7iBZyir6Ji46HH4N.jpg"
+            },
+            {
+                "name": "Ingrid Bergman",
+                "photo": "https://image.tmdb.org/t/p/w185/9LdhzK5CVkLZjRdQ08V9C0Oiu9I.jpg"
+            },
+            {
+                "name": "Paul Henreid",
+                "photo": "https://image.tmdb.org/t/p/w185/kqlDSharpQjqeNVS5BZkqqJl3ZF.jpg"
+            },
+            {
+                "name": "Claude Rains",
+                "photo": "https://image.tmdb.org/t/p/w185/agbKGRcw65QRfMPm1aDijUL1Lqd.jpg"
+            },
+            {
+                "name": "Conrad Veidt",
+                "photo": "https://image.tmdb.org/t/p/w185/AkRjkTKXIUoPlczpPegaiFeg4lu.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/rrsG3xYrWifoduZtsIZ4ntoDfBY.jpg",
+        "director": "Michael Curtiz",
+        "studio": "Warner Bros. Pictures",
+        "rating": 8.5,
+        "runtime": 102,
+        "premiered": "1943-01-15",
+        "synopsis": "Durante a Segunda Guerra Mundial, muitos fugitivos tentavam escapar dos nazistas por uma rota que passava pela cidade de Casablanca. O exilado americano Rick Blaine encontrou refúgio na cidade, dirigindo uma das principais casas noturnas da região. Clandestinamente, tentando despistar o Capitão Renault, ele ajuda refugiados, possibilitando que eles fujam para os Estados Unidos. Quando um casal pede sua ajuda para deixar o país, ele reencontra uma grande paixão do passado, a bela Ilsa. Este amor vai encontrar uma nova vida e eles vão lutar para fugir juntos.",
+        "popularity": 30.423
+    },
+	{
+        "tmdb_id": 629,
+        "title": "Os suspeitos",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf0c9b254ad75c95b26ce7903af9bffd1364c73c",
+        "year": 1995,
+        "genres": "Drama, Crime, Thriller",
+        "actors": [
+            {
+                "name": "Stephen Baldwin",
+                "photo": "https://image.tmdb.org/t/p/w185/34GOuRYIkAcKW8newjrnYeC1QPK.jpg"
+            },
+            {
+                "name": "Gabriel Byrne",
+                "photo": "https://image.tmdb.org/t/p/w185/vZ5amSGl8iSSK7C7WLKCN4EewnM.jpg"
+            },
+            {
+                "name": "Benicio del Toro",
+                "photo": "https://image.tmdb.org/t/p/w185/s1EVFX10YJZTcvkAAq4AcPniS3t.jpg"
+            },
+            {
+                "name": "Kevin Pollak",
+                "photo": "https://image.tmdb.org/t/p/w185/nAM4DErA2fXnwfq5lkIHPxjkwoS.jpg"
+            },
+            {
+                "name": "Kevin Spacey",
+                "photo": "https://image.tmdb.org/t/p/w185/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/6dUjquPiLtdDgcMWJ4mgoEmkaFJ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7S7PE3vK9Eh5uzCYBDGk5qTJeYW.jpg",
+        "director": "Bryan Singer",
+        "studio": "Bad Hat Harry Productions",
+        "rating": 8.5,
+        "runtime": 106,
+        "premiered": "1995-07-19",
+        "synopsis": "Detetive interroga um dos únicos sobreviventes de uma explosão no cais que provocou dezenas de mortes. O suspeito conta uma história sobre os eventos que levaram ele e mais quatro criminosos ao local do crime, deixando dúvidas sobre a verdade.",
+        "popularity": 51.044
+    },
+	{
+        "tmdb_id": 77338,
+        "title": "Intocaveis",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d542ccb12758054be0a38e499fff5717de2736be",
+        "year": 2011,
+        "genres": "Drama, Comédia",
+        "actors": [
+            {
+                "name": "François Cluzet",
+                "photo": "https://image.tmdb.org/t/p/w185/4ioxRGRJdSjItLxAQ2pp7byWkd3.jpg"
+            },
+            {
+                "name": "Omar Sy",
+                "photo": "https://image.tmdb.org/t/p/w185/laNZay6AfEzvEvY1NUH9UFiSD0a.jpg"
+            },
+            {
+                "name": "Dominique Henry",
+                "photo": null
+            },
+            {
+                "name": "Anne Le Ny",
+                "photo": "https://image.tmdb.org/t/p/w185/cTFJ87eHjaU8EHsQt2TMcsedeut.jpg"
+            },
+            {
+                "name": "Clotilde Mollet",
+                "photo": "https://image.tmdb.org/t/p/w185/2eR1tpq9zEger1JdANUpehzaSa3.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/2tAzFC2xUAXEx96l5Xixb6WLAyO.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/oDTHNGAH1gZwNk45do1rOoU3oxN.jpg",
+        "director": "Olivier Nakache, Éric Toledano",
+        "studio": "Gaumont",
+        "rating": 8.5,
+        "runtime": 112,
+        "premiered": "2011-11-02",
+        "synopsis": "Quando um ex-presidiário é contratado para cuidar de um aristocrata francês, seu novo trabalho se torna uma aventura imprevisível. Acelerar uma Maserati em Paris, seduzir mulheres, e fazer parapente sobre os Alpes é apenas o começo, pois ele vira o mundo da classe alta de Paris de cabeça para baixo.",
+        "popularity": 75.083
+    },
+	{
+        "tmdb_id": 11216,
+        "title": "Cinema Paradiso",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7295114c711a6f9ded6a92870600d45a2b07641",
+        "year": 1988,
+        "genres": "Drama, Romance",
+        "actors": [
+            {
+                "name": "Philippe Noiret",
+                "photo": "https://image.tmdb.org/t/p/w185/c2SR01KxuSOGpKh6rOtQMpmSREe.jpg"
+            },
+            {
+                "name": "Jacques Perrin",
+                "photo": "https://image.tmdb.org/t/p/w185/IbMtXB1Sy6JaLsSKrJiplZqKTO.jpg"
+            },
+            {
+                "name": "Marco Leonardi",
+                "photo": "https://image.tmdb.org/t/p/w185/5VVhO9rPvRgKsZME2gZKtG9WgWD.jpg"
+            },
+            {
+                "name": "Salvatore Cascio",
+                "photo": "https://image.tmdb.org/t/p/w185/mzzCR0ihjySb96ahMUC1axvP4xW.jpg"
+            },
+            {
+                "name": "Agnese Nano",
+                "photo": "https://image.tmdb.org/t/p/w185/gUbvX3dm8rIq58phY8jSl3oPgUe.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/kkmwHNAiCea2QGX6kgPmdDKaWyp.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
+        "director": "Giuseppe Tornatore",
+        "studio": "RAI",
+        "rating": 8.5,
+        "runtime": 155,
+        "premiered": "1988-11-17",
+        "synopsis": "Um diretor de cinema lembra como, em sua infância, ele se apaixonou pelo cinema de sua cidade e iniciou uma profunda amizade com o projetista.",
+        "popularity": 50.684
+    },
+	{
+        "tmdb_id": 348,
+        "title": "Alien: O Oitavo Passageiro",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dee0296d2aea4847fbd6db44a1712efcd101d7bb",
+        "year": 1979,
+        "genres": "Terror, Ficção científica",
+        "actors": [
+            {
+                "name": "Tom Skerritt",
+                "photo": "https://image.tmdb.org/t/p/w185/oWFCyBLm1lsbsbT5Nmx3SPMaqFZ.jpg"
+            },
+            {
+                "name": "Sigourney Weaver",
+                "photo": "https://image.tmdb.org/t/p/w185/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+            },
+            {
+                "name": "Veronica Cartwright",
+                "photo": "https://image.tmdb.org/t/p/w185/8s31kdotRrghkH4DkxpRZCmELYd.jpg"
+            },
+            {
+                "name": "Harry Dean Stanton",
+                "photo": "https://image.tmdb.org/t/p/w185/197UiLVdxPOv8196sqmUpJzOQB5.jpg"
+            },
+            {
+                "name": "John Hurt",
+                "photo": "https://image.tmdb.org/t/p/w185/bjNSzt1d7uK3q5PbtFXUJrRt4qg.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/yH05Ft4egz5DYy4SLWYYuVMoGqC.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hdHIjZxq3SWFqpAz4NFhdbud0iz.jpg",
+        "director": "Ridley Scott",
+        "studio": "20th Century Fox",
+        "rating": 8.5,
+        "runtime": 117,
+        "premiered": "1979-05-25",
+        "synopsis": "Quando a tripulação da sonda espacial Nostromo responde a um pedido de socorro vindo de um planeta inóspito, eles descobrem uma forma de vida mortal que se reproduz dentro de humanos. Agora, a tripulação deve lutar para permanecer viva e impedir que a criatura chegue até a Terra.",
+        "popularity": 103.09
+    },
+	{
+        "tmdb_id": 567,
+        "title": "Janela Indiscreta",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d5068e9f38cc354aca6860fefd26e1af346e546",
+        "year": 1954,
+        "genres": "Thriller, Mistério",
+        "actors": [
+            {
+                "name": "James Stewart",
+                "photo": "https://image.tmdb.org/t/p/w185/jam9DRhOuKomlr0vUXTamPoxPdk.jpg"
+            },
+            {
+                "name": "Grace Kelly",
+                "photo": "https://image.tmdb.org/t/p/w185/aMist7cww3a8FxJDg1eXoUNJCDM.jpg"
+            },
+            {
+                "name": "Wendell Corey",
+                "photo": "https://image.tmdb.org/t/p/w185/tD2USnh2ItYSviS3L9dHKeztNGQ.jpg"
+            },
+            {
+                "name": "Thelma Ritter",
+                "photo": "https://image.tmdb.org/t/p/w185/q48Cf2evvi73qJULqhIotGrszaA.jpg"
+            },
+            {
+                "name": "Raymond Burr",
+                "photo": "https://image.tmdb.org/t/p/w185/gsmckogOXPIk6lce2qnNMAFF901.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/jI2eOA4HQwD77yRv075I3G0ahJL.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zZvtZZXRnZ4Tdcs0QEWaZZcIWy8.jpg",
+        "director": "Alfred Hitchcock",
+        "studio": "Paramount Pictures",
+        "rating": 8.5,
+        "runtime": 112,
+        "premiered": "1954-08-01",
+        "synopsis": "Em Greenwich Village, Nova York, L.B. Jeffries, um fotógrafo profissional, está de molho em seu apartamento por ter quebrado a perna enquanto trabalhava. Como não tem muito o que fazer, fica bisbilhotando a vida dos seus vizinhos com um binóculo. Porém vê algumas coisas que o fazem suspeitar que um assassinato foi cometido.",
+        "popularity": 29.723
+    },
+	{
+        "tmdb_id": 335,
+        "title": "Era uma Vez no Oeste",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c19541c58d6d26063efcb40b6f4a8abcae3bc104",
+        "year": 1968,
+        "genres": "Drama, Faroeste",
+        "actors": [
+            {
+                "name": "Claudia Cardinale",
+                "photo": "https://image.tmdb.org/t/p/w185/gbTVdZGrOwteJ7qYSzyn8XpUk0H.jpg"
+            },
+            {
+                "name": "Henry Fonda",
+                "photo": "https://image.tmdb.org/t/p/w185/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg"
+            },
+            {
+                "name": "Jason Robards",
+                "photo": "https://image.tmdb.org/t/p/w185/9y0HAtWWBkB02gVzh8QDdz6UYZH.jpg"
+            },
+            {
+                "name": "Charles Bronson",
+                "photo": "https://image.tmdb.org/t/p/w185/8LoFmQmUzBaoGef8pY7M2urSCk.jpg"
+            },
+            {
+                "name": "Gabriele Ferzetti",
+                "photo": "https://image.tmdb.org/t/p/w185/usiGcuBhMrSK8VnMHFKV6zDFrhj.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/sBcaRQEZInpiQNSKKW5wjcEtXUS.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/26SUDI2iKhZTIKcU4ZzezTH1G15.jpg",
+        "director": "Sergio Leone",
+        "studio": "Paramount Pictures",
+        "rating": 8.5,
+        "runtime": 166,
+        "premiered": "1968-12-21",
+        "synopsis": "Enquanto os construtores ferroviários marcham imparavelmente através do deserto de Arizona a caminho do mar, Jill chega à pequena cidade de Flagstone com a intenção de começar uma nova vida.",
+        "popularity": 59.108
+    },
+	{
+        "tmdb_id": 693134,
+        "title": "Duna: Parte Dois",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a810f4718226fe460aa510c4806b678eba70dd1",
+        "year": 2024,
+        "genres": "Ficção científica, Aventura",
+        "actors": [
+            {
+                "name": "Timothée Chalamet",
+                "photo": "https://image.tmdb.org/t/p/w185/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
+            },
+            {
+                "name": "Zendaya",
+                "photo": "https://image.tmdb.org/t/p/w185/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+            },
+            {
+                "name": "Rebecca Ferguson",
+                "photo": "https://image.tmdb.org/t/p/w185/lJloTOheuQSirSLXNA3JHsrMNfH.jpg"
+            },
+            {
+                "name": "Javier Bardem",
+                "photo": "https://image.tmdb.org/t/p/w185/eCBiiPvBfIY7exDQwH0vEM6Bf3c.jpg"
+            },
+            {
+                "name": "Josh Brolin",
+                "photo": "https://image.tmdb.org/t/p/w185/7QpneI3HoZCCDVPyWx3p3t7yeo7.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/rRBD8ORo9y34tYkAQJVbn4Ml6tu.jpg",
+        "director": "Denis Villeneuve",
+        "studio": "Legendary Pictures",
+        "rating": 8.5,
+        "runtime": 166,
+        "premiered": "2024-02-27",
+        "synopsis": "A jornada de Paul Atreides continua. Ele está determinado a buscar vingança contra aqueles que destruíram sua família e seu lar. Com a ajuda de Chani e dos Fremen, ele embarca em uma jornada espiritual, mística e marcial. Se torna Muad'Dib, o líder messiânico dos Fremen, enquanto luta para evitar um futuro sombrio que ele testemunhou em visões. No entanto, suas ações inadvertidamente desencadeiam uma Guerra Santa em seu nome, que se espalha pelo universo conhecido. Enquanto enfrenta escolhas difíceis entre o amor por Chani e o destino de seu povo, Paul precisa usar suas habilidades e conhecimentos para evitar o terrível futuro que previu.",
+        "popularity": 160.366
+    },
+	{
+        "tmdb_id": 68718,
+        "title": "Django Livre",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb70910b497d0b4e7a36c04538d0c622f9e00fb0",
+        "year": 2012,
+        "genres": "Drama, Faroeste",
+        "actors": [
+            {
+                "name": "Jamie Foxx",
+                "photo": "https://image.tmdb.org/t/p/w185/zD8Nsy4Xrghp7WunwpCj5JKBPeU.jpg"
+            },
+            {
+                "name": "Christoph Waltz",
+                "photo": "https://image.tmdb.org/t/p/w185/hrSWzM1IGbj9OfohFPTX0HcLecz.jpg"
+            },
+            {
+                "name": "Leonardo DiCaprio",
+                "photo": "https://image.tmdb.org/t/p/w185/ts9l18VkDSooRGDWIeQegNVHciC.jpg"
+            },
+            {
+                "name": "Kerry Washington",
+                "photo": "https://image.tmdb.org/t/p/w185/zgyjYlxmHG6Ntbg16JcTp8Vu8M3.jpg"
+            },
+            {
+                "name": "Samuel L. Jackson",
+                "photo": "https://image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/ar63Sx8jeqk0OOu2uchS477S2zE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/5Lbm0gpFDRAPIV1Cth6ln9iL1ou.jpg",
+        "director": "Quentin Tarantino",
+        "studio": "The Weinstein Company",
+        "rating": 8.5,
+        "runtime": 165,
+        "premiered": "2012-12-25",
+        "synopsis": "Django é um escravo, comprado pelo caçador de recompensas alemão Dr. King Schultz para auxiliá-lo em uma missão. A dupla acaba fazendo amizade e, após resolver os problemas do caçador, parte em busca por Broomhilda, esposa de Django. Para isso, eles devem enfrentar o vilão Calvin Candie, proprietário da escrava.",
+        "popularity": 59.593
+    },
+	{
+        "tmdb_id": 901,
+        "title": "Luzes da Cidade",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51cd653ce9c2c7f4cfbb564138b3e2fa5d242b86",
+        "year": 1931,
+        "genres": "Comédia, Drama, Romance",
+        "actors": [
+            {
+                "name": "Charlie Chaplin",
+                "photo": "https://image.tmdb.org/t/p/w185/lRI9Ky1SMOehn04OqhYJ5hQfgIK.jpg"
+            },
+            {
+                "name": "Virginia Cherrill",
+                "photo": "https://image.tmdb.org/t/p/w185/dUesDEOkQGsCK0FXQSjRW6QayMw.jpg"
+            },
+            {
+                "name": "Florence Lee",
+                "photo": "https://image.tmdb.org/t/p/w185/e07DhorE4qs6dz3MwZcPTHIXNgt.jpg"
+            },
+            {
+                "name": "Harry Myers",
+                "photo": "https://image.tmdb.org/t/p/w185/v2Y70uGlW7FQV8khBqRUOUEdy4n.jpg"
+            },
+            {
+                "name": "Al Ernest Garcia",
+                "photo": "https://image.tmdb.org/t/p/w185/pz1VDUCBCvNiZ8qAHg9N4ejXmSX.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/s0T1MpsDcQCmqOTJ47zASE1PevI.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/Ma7mQsldFCaQpsZbm8zolgLfmV.jpg",
+        "director": "Charlie Chaplin",
+        "studio": "Charles Chaplin Productions",
+        "rating": 8.5,
+        "runtime": 87,
+        "premiered": "1931-02-06",
+        "synopsis": "Um vagabundo amável se apaixona por uma mulher cega que vende flores nas ruas e o confunde com um milionário. Ao descobrir que ela e a avó serão despejadas, o vagabundo faz uma série de tentativas para lhes proporcionar o dinheiro de que precisam, mas todas terminam em um fracasso humilhante.",
+        "popularity": 16.655
+    },
+	{
+        "tmdb_id": 28,
+        "title": "Apocalypse Now",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c50d403fcd632d7d018e9ed4894a2b6f0a5b6a29",
+        "year": 1979,
+        "genres": "Drama, Guerra",
+        "actors": [
+            {
+                "name": "Martin Sheen",
+                "photo": "https://image.tmdb.org/t/p/w185/m2Y3Q0uyuW6htrn2W9UWCWMkpZu.jpg"
+            },
+            {
+                "name": "Frederic Forrest",
+                "photo": "https://image.tmdb.org/t/p/w185/gxHgIe9swYgCcxSSCewQTF4J4VO.jpg"
+            },
+            {
+                "name": "Albert Hall",
+                "photo": "https://image.tmdb.org/t/p/w185/jvcOpEO0vSNy3KaDkhIldI1CoaU.jpg"
+            },
+            {
+                "name": "Laurence Fishburne",
+                "photo": "https://image.tmdb.org/t/p/w185/aBRISux1AGCqkFNTKHYfLcJunWA.jpg"
+            },
+            {
+                "name": "Sam Bottoms",
+                "photo": "https://image.tmdb.org/t/p/w185/82ACmkTCHtKAuw42Jwx4JbjuVw0.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/awYf0r6iuTXDAYQEGLdsvzz3Sa5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg",
+        "director": "Francis Ford Coppola",
+        "studio": "United Artists",
+        "rating": 8.4,
+        "runtime": 196,
+        "premiered": "1979-05-19",
+        "synopsis": "Durante a guerra do Vietnã, o Capitão Willard recebe como missão ir ao Camboja para assassinar um Boina Verde renegado, o Coronel Kurtz. Este vive no meio de uma tribo local e é venerado como um deus. Mas, chegado ao seu destino, o Capitão Willard descobre que a sua missão é bem diferente do que imaginara.",
+        "popularity": 64.531
+    },
+	{
+        "tmdb_id": 77,
+        "title": "Amnesia",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8289f8118303c103ebce9fbd11ace0bff2522d6",
+        "year": 2000,
+        "genres": "Mistério, Thriller",
+        "actors": [
+            {
+                "name": "Guy Pearce",
+                "photo": "https://image.tmdb.org/t/p/w185/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
+            },
+            {
+                "name": "Carrie-Anne Moss",
+                "photo": "https://image.tmdb.org/t/p/w185/xD4jTA3KmVp5Rq3aHcymL9DUGjD.jpg"
+            },
+            {
+                "name": "Joe Pantoliano",
+                "photo": "https://image.tmdb.org/t/p/w185/3OHUI3nX4SYGGItDk3xqeIvWtIf.jpg"
+            },
+            {
+                "name": "Mark Boone Junior",
+                "photo": "https://image.tmdb.org/t/p/w185/swWzGOTX3SQ2udv7NQhAE1DlZsb.jpg"
+            },
+            {
+                "name": "Russ Fega",
+                "photo": "https://image.tmdb.org/t/p/w185/d0W7kq97Ul8Iz5LZIVNDKxSly8M.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/7leBWM27Q0TUnvmhw6WnFNgGn4G.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+        "director": "Christopher Nolan",
+        "studio": "Newmarket Films",
+        "rating": 8.4,
+        "runtime": 113,
+        "premiered": "2000-10-11",
+        "synopsis": "Leonard está caçando o homem que estuprou e matou sua esposa. Ele tem dificuldades em encontrar o assassino pois sofre de uma forma intratável de perda de memória. Mesmo que ele possa lembrar detalhes da vida antes do acidente, Leonard não consegue lembrar o que aconteceu quinze minutos atrás, onde está indo ou a razão.",
+        "popularity": 48.534
+    },
+	{
+        "tmdb_id": 10681,
+        "title": "WALL-E",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:500f6656d04851cb0fd222e53770b1376b17638b",
+        "year": 2008,
+        "genres": "Animação, Família, Ficção científica",
+        "actors": [
+            {
+                "name": "Ben Burtt",
+                "photo": "https://image.tmdb.org/t/p/w185/7asFDWjls2bYQSfXJf5StjXmlhI.jpg"
+            },
+            {
+                "name": "Elissa Knight",
+                "photo": "https://image.tmdb.org/t/p/w185/exRLyaNaHcgawQA0DoBxo5IvdoI.jpg"
+            },
+            {
+                "name": "Jeff Garlin",
+                "photo": "https://image.tmdb.org/t/p/w185/8shJOwynglerVVxhOKbvDYTThBd.jpg"
+            },
+            {
+                "name": "Fred Willard",
+                "photo": "https://image.tmdb.org/t/p/w185/AaHxpkee9nQfBpQeDyJLoPNtYR6.jpg"
+            },
+            {
+                "name": "John Ratzenberger",
+                "photo": "https://image.tmdb.org/t/p/w185/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/fkpbPp3vrHfYNDrD6xHDfO6YKyQ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/fK5ssgvtI43z19FoWigdlqgpLRE.jpg",
+        "director": "Andrew Stanton",
+        "studio": "Pixar",
+        "rating": 8.5,
+        "runtime": 97,
+        "premiered": "2008-06-22",
+        "synopsis": "Depois de milhares de solitários anos fazendo o que ele foi construído para fazer, o curioso e adorável WALL-E encontra uma nova razão para viver quando conhece uma robô de busca de alto design chamada EVA.",
+        "popularity": 70.869
+    },
+	{
+        "tmdb_id": 85,
+        "title": "Indiana Jones e os Cacadores da Arca Perdida",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c52da55739a2229b4cbad0023d9cf49afa9c5a7c",
+        "year": 1981,
+        "genres": "Aventura, Ação",
+        "actors": [
+            {
+                "name": "Harrison Ford",
+                "photo": "https://image.tmdb.org/t/p/w185/n4dwIg6NbQzeMaS1yEKKlfNJH7a.jpg"
+            },
+            {
+                "name": "Karen Allen",
+                "photo": "https://image.tmdb.org/t/p/w185/eJszpndpRzrXbSlz7RUlApoTykn.jpg"
+            },
+            {
+                "name": "Paul Freeman",
+                "photo": "https://image.tmdb.org/t/p/w185/mLDHLughdhSe6AqsklX0Zhjk9Rx.jpg"
+            },
+            {
+                "name": "John Rhys-Davies",
+                "photo": "https://image.tmdb.org/t/p/w185/bfn4WvhGo2QKYtv5ynk7tKu7NnL.jpg"
+            },
+            {
+                "name": "Ronald Lacey",
+                "photo": "https://image.tmdb.org/t/p/w185/wrFU5EkxKIq0TpEBuKXzcRAld73.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/vPDnnfUAgLz7yWQVCK4gJAKFy0m.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/odblUdMERDmhQ4ei9Ja8tRZ4br6.jpg",
+        "director": "Steven Spielberg",
+        "studio": "Paramount Pictures",
+        "rating": 8.4,
+        "runtime": 115,
+        "premiered": "1981-06-12",
+        "synopsis": "Em 1936, o arqueólogo Indiana Jones é contratado para encontrar a Arca da Aliança, que segundo as escrituras bíblicas conteria \"Os Dez Mandamentos\" que Deus revelou a Moisés no Monte Horeb. Mas como a lenda diz que o exército que a possuir será invencível, Indiana Jones terá um adversário de peso na busca pela arca perdida: o próprio Adolf Hitler.",
+        "popularity": 52.734
+    },
+	{
+        "tmdb_id": 582,
+        "title": "A Vida dos Outros",
+        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=CwYFnTcqS%2F2zRWrbhSVKhL7CfZxucC9TQ2PsmSi1NxmTD7kHn8bC%2FheK%2BRckFGAL&expiry=9oGaJtyqpL8yVny%2BxqTZ5A%3D%3D&mac=b38fe557ca17299196394ffebd362a25e6604c5f06e5f7f3131df6712fbe4de0",
+        "year": 2006,
+        "genres": "Drama, Thriller",
+        "actors": [
+            {
+                "name": "Martina Gedeck",
+                "photo": "https://image.tmdb.org/t/p/w185/ju7H4RLIzfrcMg2e3SUAaA9fEc6.jpg"
+            },
+            {
+                "name": "Ulrich Mühe",
+                "photo": "https://image.tmdb.org/t/p/w185/kdqKmnaBDDT0cwTE2C3fKDJrF8D.jpg"
+            },
+            {
+                "name": "Sebastian Koch",
+                "photo": "https://image.tmdb.org/t/p/w185/4YFk0qauux4jn68mvIfd5EEtG2v.jpg"
+            },
+            {
+                "name": "Ulrich Tukur",
+                "photo": "https://image.tmdb.org/t/p/w185/8cRioOXiW0FSN0eWysHWdl4leEf.jpg"
+            },
+            {
+                "name": "Thomas Thieme",
+                "photo": "https://image.tmdb.org/t/p/w185/omWXGbeRR32MWuYhpnLOSqJ6xkO.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/fPJBBIZuwmJWMrhSSzYTjF8OR0B.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3mxteiwtcCPjbYKlyC0WxY1G9J3.jpg",
+        "director": "Florian Henckel von Donnersmarck",
+        "studio": "Creado Film",
+        "rating": 8.4,
+        "runtime": 138,
+        "premiered": "2006-03-23",
+        "synopsis": "Georg Dreyman é o maior dramaturgo da Alemanha Oriental, sendo por muitos considerado o modelo perfeito de cidadão para o país, já que não contesta o governo nem seu regime político. Apesar disto o ministro Bruno Hempf acha por bem acompanhar seus passos, para descobrir se Dreyman tem algo a esconder. Ele passa esta tarefa para Anton Grubitz, que a princípio não vê nada de errado com Dreyman mas é alertado por Gerd Wiesler, seu subordinado, de que ele deveria ser vigiado. Grubitz passa a tarefa a Wiesler, que monta uma estrutura em que Dreyman e sua namorada, a atriz Christa-Maria Sieland, são vigiados 24 horas.",
+        "popularity": 33.412
+    },
+	{
+        "tmdb_id": 299536,
+        "title": "Vingadores: Guerra Infinita",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ccddb37f6adbef1b41924fb79e33b844ca45cef2",
+        "year": 2018,
+        "genres": "Aventura, Ação, Ficção científica",
+        "actors": [
+            {
+                "name": "Robert Downey Jr.",
+                "photo": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+            },
+            {
+                "name": "Chris Evans",
+                "photo": "https://image.tmdb.org/t/p/w185/a52ncG9JskJtqrryE0KakPPBkHJ.jpg"
+            },
+            {
+                "name": "Chris Hemsworth",
+                "photo": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+            },
+            {
+                "name": "Josh Brolin",
+                "photo": "https://image.tmdb.org/t/p/w185/7QpneI3HoZCCDVPyWx3p3t7yeo7.jpg"
+            },
+            {
+                "name": "Mark Ruffalo",
+                "photo": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/d6jUbQj4E4R5MJlFYfdzANEZbkL.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+        "director": "Joe Russo, Anthony Russo",
+        "studio": "Marvel Studios",
+        "rating": 8.4,
+        "runtime": 182,
+        "premiered": "2018-04-25",
+        "synopsis": "Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.",
+        "popularity": 189.749
+    },
+	{
+        "tmdb_id": 599,
+        "title": "Crepusculo dos Deuses",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e29adae87e863cb4a70df40c6497c80e3fe1801",
+        "year": 1950,
+        "genres": "Drama",
+        "actors": [
+            {
+                "name": "William Holden",
+                "photo": "https://image.tmdb.org/t/p/w185/1xYhynSYtesFbXpwRtz05y7znS6.jpg"
+            },
+            {
+                "name": "Gloria Swanson",
+                "photo": "https://image.tmdb.org/t/p/w185/akmlp75ESHjtGOVtOCfJYxkX4eo.jpg"
+            },
+            {
+                "name": "Erich von Stroheim",
+                "photo": "https://image.tmdb.org/t/p/w185/lUoSEdmX6Cl7lLUnV4ewLkVDnhY.jpg"
+            },
+            {
+                "name": "Nancy Olson",
+                "photo": "https://image.tmdb.org/t/p/w185/419ZEkm8PQSp9RS7NXb4yJPDRm4.jpg"
+            },
+            {
+                "name": "Fred Clark",
+                "photo": "https://image.tmdb.org/t/p/w185/yBjSwb6xma9ukYpbSe75C0eqNTx.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/nOgsN1JibIKsb0tr8w2dCpYnU1R.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg",
+        "director": "Billy Wilder",
+        "studio": "Paramount Pictures",
+        "rating": 8.4,
+        "runtime": 110,
+        "premiered": "1950-08-10",
+        "synopsis": "Uma estrela veterana do cinema mudo se recusa a aceitar que seu reinado acabou. Então ela contrata um jovem roteirista para ajudá-la a reconquistar o sucesso. O escritor acredita que pode manipular a atriz, mas percebe que está redondamente enganado.",
+        "popularity": 22.471
+    },
+	 {
+        "tmdb_id": 324857,
+        "title": "Homem-Aranha: No Aranhaverso",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36033201da817a92d4e96791e289499f89c73ff0",
+        "year": 2018,
+        "genres": "Animação, Ação, Aventura, Ficção científica",
+        "actors": [
+            {
+                "name": "Shameik Moore",
+                "photo": "https://image.tmdb.org/t/p/w185/4aNOTCa6q2HKTgyJj14BqDpVClC.jpg"
+            },
+            {
+                "name": "Jake Johnson",
+                "photo": "https://image.tmdb.org/t/p/w185/3UNfW2qZgRkW81neNVfQvaRC92K.jpg"
+            },
+            {
+                "name": "Hailee Steinfeld",
+                "photo": "https://image.tmdb.org/t/p/w185/dxSDWkiVaC6JYjrV3XRAZI7HOSS.jpg"
+            },
+            {
+                "name": "Mahershala Ali",
+                "photo": "https://image.tmdb.org/t/p/w185/9ZmSejm5lnUVY5IJ1iNx2QEjnHb.jpg"
+            },
+            {
+                "name": "Brian Tyree Henry",
+                "photo": "https://image.tmdb.org/t/p/w185/1UgDnFt3OteCJQPiUelWzIR5bvT.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/sizv4fncWiCe8i5jWCA8xfqtCB9.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hlCq6Qh9GVtuNcGZF4mQYluaZix.jpg",
+        "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+        "studio": "Columbia Pictures",
+        "rating": 8.4,
+        "runtime": 117,
+        "premiered": "2018-12-06",
+        "synopsis": "Miles Morales é um jovem negro do Brooklyn que se tornou o Homem-Aranha inspirado no legado de Peter Parker, já falecido. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói aracnídeo sob um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras variações do Homem-Aranha.",
+        "popularity": 86.672
+    },
+	{
+        "tmdb_id": 694,
+        "title": "O Iluminado",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b62a4d710c00f9e4f6263ccec5894eb0c805cf4",
+        "year": 1980,
+        "genres": "Terror, Thriller",
+        "actors": [
+            {
+                "name": "Jack Nicholson",
+                "photo": "https://image.tmdb.org/t/p/w185/hBHcQIEa6P48HQAlLZkh0eKSSkG.jpg"
+            },
+            {
+                "name": "Shelley Duvall",
+                "photo": "https://image.tmdb.org/t/p/w185/6lG3fmyhXatvyAG4X9WxwMWoPUS.jpg"
+            },
+            {
+                "name": "Danny Lloyd",
+                "photo": "https://image.tmdb.org/t/p/w185/5pEmugZ6m25RB0cXbL4t5D4kZAO.jpg"
+            },
+            {
+                "name": "Scatman Crothers",
+                "photo": "https://image.tmdb.org/t/p/w185/jf2ooubjE5tjBJwDI9Nla0M57m2.jpg"
+            },
+            {
+                "name": "Barry Nelson",
+                "photo": "https://image.tmdb.org/t/p/w185/fSrHmvOxZJbeKpNM0uWGvha1aK9.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/7ceEaLciLfksJkSHqp0vLE5eLyy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
+        "director": "Stanley Kubrick",
+        "studio": "Warner Bros. Pictures",
+        "rating": 8.4,
+        "runtime": 146,
+        "premiered": "1980-05-23",
+        "synopsis": "Durante o inverno, um homem é contratado para ficar como vigia em um hotel no Colorado e vai para lá com a esposa e seu filho. Porém, o contínuo isolamento começa a lhe causar problemas mentais sérios e ele vai se tornado cada vez mais agressivo e perigoso, ao mesmo tempo que seu filho passa a ter visões de acontecimentos ocorridos no passado, que também foram causados pelo isolamento excessivo.",
+        "popularity": 78.099
+    },
+	 {
+        "tmdb_id": 914,
+        "title": "O Grande Ditador",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5df6fcd40a4acabf3af53e636b9e37e8fbe024a4",
+        "year": 1940,
+        "genres": "Comédia, Guerra",
+        "actors": [
+            {
+                "name": "Charlie Chaplin",
+                "photo": "https://image.tmdb.org/t/p/w185/lRI9Ky1SMOehn04OqhYJ5hQfgIK.jpg"
+            },
+            {
+                "name": "Paulette Goddard",
+                "photo": "https://image.tmdb.org/t/p/w185/7fMtXuVbJMbsFB4U3CsgDdivizP.jpg"
+            },
+            {
+                "name": "Jack Oakie",
+                "photo": "https://image.tmdb.org/t/p/w185/9oWdEicbTjfpfiCtvvYuxi0UseU.jpg"
+            },
+            {
+                "name": "Reginald Gardiner",
+                "photo": "https://image.tmdb.org/t/p/w185/yufdzor5RheT4FYx1Ywm4mo2TlG.jpg"
+            },
+            {
+                "name": "Henry Daniell",
+                "photo": "https://image.tmdb.org/t/p/w185/5g4V2fKBAI5TGjqfItfsnPjqZN9.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/Mjc994AW1r5hcXAh0PFjTdd7iY.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/c8Pi8F1FzpNebtgXcSjC9nWCdSW.jpg",
+        "director": "Charlie Chaplin",
+        "studio": "Charles Chaplin Productions",
+        "rating": 8.4,
+        "runtime": 125,
+        "premiered": "1940-10-15",
+        "synopsis": "Depois de servir com dedicação na 1ª Guerra, um barbeiro judeu passa anos em um hospital do exército, sem saber da ascensão de um ditador fascista antissemita, que se parece muito com ele. Ao voltar para o seu bairro, ele fica atordoado com as mudanças brutais e se une a uma menina para se rebelar.",
+        "popularity": 25.111
+    },
+	{
+        "tmdb_id": 679,
+        "title": "Aliens: O Resgate",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a897bd47b83f9994bc6a4209a28cb242b4780bd",
+        "year": 1986,
+        "genres": "Ação, Thriller, Ficção científica",
+        "actors": [
+            {
+                "name": "Sigourney Weaver",
+                "photo": "https://image.tmdb.org/t/p/w185/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+            },
+            {
+                "name": "Carrie Henn",
+                "photo": "https://image.tmdb.org/t/p/w185/iNaYp4liKvKsEZp5g5xjd94OFCz.jpg"
+            },
+            {
+                "name": "Michael Biehn",
+                "photo": "https://image.tmdb.org/t/p/w185/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg"
+            },
+            {
+                "name": "Paul Reiser",
+                "photo": "https://image.tmdb.org/t/p/w185/v3e5TClep4ugMdU4qSRiKbvLr3B.jpg"
+            },
+            {
+                "name": "Lance Henriksen",
+                "photo": "https://image.tmdb.org/t/p/w185/ieo8Zbw30UAPAscGOI6090VhL4I.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/hTTt89V7S3e3YGpf6g3Ng9pro1i.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/jMBpJFRtrtIXymer93XLavPwI3P.jpg",
+        "director": "James Cameron",
+        "studio": "SLM Production Group",
+        "rating": 8.4,
+        "runtime": 135,
+        "premiered": "1986-07-18",
+        "synopsis": "Cinquenta e quatro anos após escapar da \"Nostromo\", a tenente Ripley é encontrada a flutuar, perdida no espaço, ainda adormecida. De volta ao nosso planeta, ela conta tudo o que lhe aconteceu, mas ninguém acredita realmente nela, ou lhe parece dar crédito, até que uma colónia de humanos, entretanto criada no planeta onde ela encontrou o primeiro Alienígena, deixa de emitir comunicações subitamente. Ela então é convocada para auxiliar uma expedição militar ao local, sendo a única aparentemente consciente de que o pesadelo está longe do fim.",
+        "popularity": 57.367
+    },
+	{
+        "tmdb_id": 16869,
+        "title": "Bastardos Inglorios",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33b4f852a47f2da3949a3066502557aeeae8a023",
+        "year": 2009,
+        "genres": "Drama, Thriller, Guerra",
+        "actors": [
+            {
+                "name": "Brad Pitt",
+                "photo": "https://image.tmdb.org/t/p/w185/cckcYc2v0yh1tc9QjRelptcOBko.jpg"
+            },
+            {
+                "name": "Mélanie Laurent",
+                "photo": "https://image.tmdb.org/t/p/w185/pKV3XJ6mlzfj0B0MGS8uMcMI9cl.jpg"
+            },
+            {
+                "name": "Christoph Waltz",
+                "photo": "https://image.tmdb.org/t/p/w185/hrSWzM1IGbj9OfohFPTX0HcLecz.jpg"
+            },
+            {
+                "name": "Eli Roth",
+                "photo": "https://image.tmdb.org/t/p/w185/qQTkpxzh1FlBGL1HD5hzdUMxv49.jpg"
+            },
+            {
+                "name": "Michael Fassbender",
+                "photo": "https://image.tmdb.org/t/p/w185/e7SxBHtAxTyNE4GdOrHD7kqkukm.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/n8fuS2uDDykO4P3RBPKLhWs0Ffj.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hg0MTIFs49ef179C9Y1HRtzqbbK.jpg",
+        "director": "Quentin Tarantino",
+        "studio": "Universal Pictures",
+        "rating": 8.2,
+        "runtime": 152,
+        "premiered": "2009-08-02",
+        "synopsis": "Durante a Segunda Guerra Mundial, na França, um grupo de judeus americanos conhecidos como Bastardos espalha o terror entre o terceiro Reich. Ao mesmo tempo, Shosanna, uma judia que fugiu dos nazistas, planeja vingança quando um evento em seu cinema reunirá os líderes do partido.",
+        "popularity": 68.135
+    },
+	{
+        "tmdb_id": 49026,
+        "title": "Batman: O Cavaleiro das Trevas Ressurge",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ad8e85fd5b276f142614c696492901ac38450bf",
+        "year": 2012,
+        "genres": "Ação, Crime, Drama, Thriller",
+        "actors": [
+            {
+                "name": "Christian Bale",
+                "photo": "https://image.tmdb.org/t/p/w185/2y4doWX4lCzDMjCL5KOA4KBz6Hn.jpg"
+            },
+            {
+                "name": "Gary Oldman",
+                "photo": "https://image.tmdb.org/t/p/w185/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+            },
+            {
+                "name": "Tom Hardy",
+                "photo": "https://image.tmdb.org/t/p/w185/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg"
+            },
+            {
+                "name": "Joseph Gordon-Levitt",
+                "photo": "https://image.tmdb.org/t/p/w185/dhv9f3AaozOjpvjAwVzOWlmmT2V.jpg"
+            },
+            {
+                "name": "Anne Hathaway",
+                "photo": "https://image.tmdb.org/t/p/w185/s6tflSD20MGz04ZR2R1lZvhmC4Y.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/w7KDOBOKoZNzZkiKInFBlqo7Cbg.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+        "director": "Christopher Nolan",
+        "studio": "Syncopy",
+        "rating": 8.4,
+        "runtime": 165,
+        "premiered": "2012-07-17",
+        "synopsis": "Após ser culpado pela morte de Harvey Dent e passar de herói a vilão, Batman desaparece. As coisas mudam com a chegada de uma ladra misteriosa, a Mulher-Gato, e Bane, um terrorista mascarado, que fazem Batman abandonar seu exílio forçado.",
+        "popularity": 78.944
+    },
+	{
+        "tmdb_id": 354912,
+        "title": "Viva: A Vida e uma Festa",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69c68d516348be7ed355437e1680cea191baeddd",
+        "year": 2017,
+        "genres": "Família, Animação, Música, Aventura",
+        "actors": [
+            {
+                "name": "Anthony Gonzalez",
+                "photo": "https://image.tmdb.org/t/p/w185/WF7bn6t0LkxwBWyDMWvomVujn7.jpg"
+            },
+            {
+                "name": "Gael García Bernal",
+                "photo": "https://image.tmdb.org/t/p/w185/7mq3EQN1oJfYNXkv9xKXKu6Ccw5.jpg"
+            },
+            {
+                "name": "Benjamin Bratt",
+                "photo": "https://image.tmdb.org/t/p/w185/hBenHPT4iJEG2kt5z2TOGnkRZwh.jpg"
+            },
+            {
+                "name": "Alanna Ubach",
+                "photo": "https://image.tmdb.org/t/p/w185/ffyBAEoW3bDgVJQV3GaHsZ9x29W.jpg"
+            },
+            {
+                "name": "Renee Victor",
+                "photo": "https://image.tmdb.org/t/p/w185/wAVDqwFhQsRQgO6VIYq6T9Wbbx8.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/sdl31AfqivY0tryVfo9GMcAUx05.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/wSJHuSD7ojzoXifWjOAjxV7UpEL.jpg",
+        "director": "Lee Unkrich",
+        "studio": "Pixar",
+        "rating": 8.4,
+        "runtime": 109,
+        "premiered": "2017-10-27",
+        "synopsis": "O aspirante a músico Miguel, deve lidar com sua família que desaprova seu sonho, acaba entrando na Terra dos Mortos para encontrar seu trisavô, um cantor lendário.",
+        "popularity": 104.028
+    },
+	{
+        "tmdb_id": 279,
+        "title": "Amadeus",
+        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=AMbqQKGsYWSA5w2xuwkVgYWbkoWTd%2BpnSQQW4VlcD9RczGLofBXftyQai1geswaX&expiry=C6v4hnJp0T%2Fg8P%2FJs2lAYQ%3D%3D&mac=8b36f89545e842aec1f88651ea0aaa6af514d500f5002fe05d0e72ea607ad480",
+        "year": 1984,
+        "genres": "História, Música, Drama",
+        "actors": [
+            {
+                "name": "F. Murray Abraham",
+                "photo": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gwhRzrmSG9lr9xNYAlnYvWxN0nj.jpg"
+            },
+            {
+                "name": "Tom Hulce",
+                "photo": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sQslzbyYZr4Qjv55VseLbbjpuMY.jpg"
+            }
+        ],
+        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/pD5Z6YglDNcRhcrCJKDhJlbGzni.jpg",
+        "director": "Lee Unkrich",
+        "studio": "AMLF",
+        "rating": 8.4,
+        "runtime": 180,
+        "premiered": "1984-10-08",
+        "synopsis": "Após tentar se suicidar, Salieri confessa a um padre que foi o responsável pela morte de Mozart e relata como conheceu, conviveu e passou a odiar Mozart, que era um jovem irreverente mas compunha como se sua música tivesse sido abençoada por Deus.",
+        "popularity": 104.028
+    },
+	{
+        "tmdb_id": 862,
+        "title": "Toy Story: Um Mundo de Aventuras",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09a34fbf39804007cb1dbe28b66180a14f1a4492",
+        "year": 1995,
+        "genres": "Animação, Aventura, Família, Comédia",
+        "actors": [
+            {
+                "name": "Tom Hanks",
+                "photo": "https://image.tmdb.org/t/p/w185/eKF1sGJRrZJbfBG1KirPt1cfNd3.jpg"
+            },
+            {
+                "name": "Tim Allen",
+                "photo": "https://image.tmdb.org/t/p/w185/woWhZzFILVhYMAvsPL171HjMY0y.jpg"
+            },
+            {
+                "name": "Don Rickles",
+                "photo": "https://image.tmdb.org/t/p/w185/iJLQV4dcbTUgxlWJakjDldzlMXS.jpg"
+            },
+            {
+                "name": "Jim Varney",
+                "photo": "https://image.tmdb.org/t/p/w185/zvBFmvKUrPvE6FW35O3RP4i1ZPp.jpg"
+            },
+            {
+                "name": "Wallace Shawn",
+                "photo": "https://image.tmdb.org/t/p/w185/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/AptcisAVyZqBllXLEGje8MjKzJI.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+        "director": "John Lasseter",
+        "studio": "Pixar",
+        "rating": 8.3,
+        "runtime": 81,
+        "premiered": "1995-10-30",
+        "synopsis": "Buzz Lightyear é o novo e sofisticado astronauta de brinquedo do garoto Andy. Buzz não imaginava que encontraria um rival: Woody, um cowboy de brinquedo que, dominado pelo ciúme, acredita ter perdido um lugar precioso no coração do seu dono. Os dois brinquedos vivem brigando até que vão parar nas garras do vizinho, um verdadeiro destruidor de brinquedos. Agora, mais do que nunca, Buzz e Woody precisam precisam se unir para escapar do perigo. Com a ajuda de seus amigos da caixa de brinquedos, eles vão viver uma incrível aventura.",
+        "popularity": 130.638
+    },
+	{
+        "tmdb_id": 670,
+        "title": "Oldboy",
+        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=lumTvYuj7KLS2fjYermfRzyJKp%2FiiqrI3%2BQoAWfZn2KomZINEBxA%2BCjI%2BpLMPSYJ&expiry=i9kQDpPA3agAoodRql67hg%3D%3D&mac=d34aa8556391bace4ded39e8bffaa82dd9d3712fe875973f2df0f6ea326bad04",
+        "year": 2003,
+        "genres": "Drama, Thriller, Mistério, Ação",
+        "actors": [
+            {
+                "name": "최민식",
+                "photo": "https://image.tmdb.org/t/p/w185/sd7gIA6nEkq6zumkDCfxSE0YSSV.jpg"
+            },
+            {
+                "name": "유지태",
+                "photo": "https://image.tmdb.org/t/p/w185/Nw3DPVQaW60H9l2Lv7zymb0NcW.jpg"
+            },
+            {
+                "name": "강혜정",
+                "photo": "https://image.tmdb.org/t/p/w185/46RDs0JLTEmI9Fp6hzU50LmJqId.jpg"
+            },
+            {
+                "name": "김병옥",
+                "photo": "https://image.tmdb.org/t/p/w185/oGVs2OmYTyXR0KT9xvzVWCAKx8t.jpg"
+            },
+            {
+                "name": "지대한",
+                "photo": "https://image.tmdb.org/t/p/w185/9aoOX8p2oxUAwOaT8jT6GWfjs01.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/KGyCMfEfvUKavzyq6iTc2DBUKM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sdwjQEM869JFwMytTmvr6ggvaUl.jpg",
+        "director": "Park Chan-wook",
+        "studio": "Show East",
+        "rating": 8.3,
+        "runtime": 120,
+        "premiered": "2003-11-21",
+        "synopsis": "Dae-Su é raptado e mantido em cativeiro por 15 anos num quarto de hotel, sem qualquer contato com o mundo externo. Quando ele é inexplicavelmente solto, descobre que é acusado pelo assassinato da esposa e embarca numa missão obsessiva por vingança.",
+        "popularity": 74.305
+    },
+	{
+        "tmdb_id": 299534,
+        "title": "Vingadores: Ultimato",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:117fe5b8426f14415561b3383ecd484452ac658c",
+        "year": 2019,
+        "genres": "Aventura, Ficção científica, Ação",
+        "actors": [
+            {
+                "name": "Robert Downey Jr.",
+                "photo": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+            },
+            {
+                "name": "Chris Evans",
+                "photo": "https://image.tmdb.org/t/p/w185/a52ncG9JskJtqrryE0KakPPBkHJ.jpg"
+            },
+            {
+                "name": "Mark Ruffalo",
+                "photo": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+            },
+            {
+                "name": "Chris Hemsworth",
+                "photo": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+            },
+            {
+                "name": "Scarlett Johansson",
+                "photo": "https://image.tmdb.org/t/p/w185/6NsMbJXRlDZuDzatN2akFdGuTvx.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/7jvlqGsxeMKscskuUZgKk0Kuv99.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+        "director": "Anthony Russo, Joe Russo",
+        "studio": "Marvel Studios",
+        "rating": 8.4,
+        "runtime": 181,
+        "premiered": "2019-04-24",
+        "synopsis": "Após os eventos devastadores de \"Vingadores: Guerra Infinita\", o universo está em ruínas devido aos esforços do Titã Louco, Thanos. Com a ajuda de aliados remanescentes, os Vingadores devem se reunir mais uma vez a fim de desfazer as ações de Thanos e restaurar a ordem no universo de uma vez por todas, não importando as consequências.",
+        "popularity": 106.297
+    },
+	{
+        "tmdb_id": 935,
+        "title": "Dr. Fantástico",
+        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=9WaC75HBGqzZk2ZIcF69Fs4cFS4gOjYGc%2Bgz444M9gWpyUCPSKm7ZZ8djHfunI9a&expiry=VMArAAmMdRFpmUW%2F83OAjw%3D%3D&mac=776435a096255ac8fc9d3cb59c3376e6d1b383201a9b93165601d76ab1f6e1b2",
+        "poster": "https://image.tmdb.org/t/p/w500/gSTwvjt8BmZ3IwlpsltNzasamgt.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sTp8K0SfcC2RQef1Tu160z3niHO.jpg",
+        "synopsis": "Um general americano meio louco, Jack D. Ripper, acredita que os soviéticos estão sabotando os reservatórios de água dos Estados Unidos e resolve fazer um ataque anticomunista, bombardeando a União Soviética para se livrar dos \"vermelhos\". Com as comunicações interrompidas, ele é o único que possui os códigos para parar os bombardeiros e evitar o que provavelmente seria o início da Terceira Guerra Mundial.",
+        "studio": "Hawk Films",
+        "year": 1964,
+        "genres": "Comédia, Guerra",
+        "actors": [
+            {
+                "name": "Peter Sellers",
+                "photo": "https://image.tmdb.org/t/p/w185/sCVIv2DGoC9U16anTjLwMxKBPZ.jpg"
+            },
+            {
+                "name": "George C. Scott",
+                "photo": "https://image.tmdb.org/t/p/w185/1dL9hx7nC0cACIVpp6xS1jqJJN7.jpg"
+            },
+            {
+                "name": "Sterling Hayden",
+                "photo": "https://image.tmdb.org/t/p/w185/eRKaKeHjMKjNPOuENLccfVuyfVm.jpg"
+            },
+            {
+                "name": "Keenan Wynn",
+                "photo": "https://image.tmdb.org/t/p/w185/bO88300vMddcIXuRZvMm5QLXdr.jpg"
+            },
+            {
+                "name": "Slim Pickens",
+                "photo": "https://image.tmdb.org/t/p/w185/8UwvsZe0frSzCoyC8KGSfjAaZBf.jpg"
+            }
+        ],
+        "rating": 8.3,
+        "director": "Stanley Kubrick",
+        "runtime": 95,
+        "premiered": "1964-01-29"
+    },
+	 {
+        "tmdb_id": 14,
+        "title": "Beleza Americana",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:783fe3217b56242360448767ccd3967d209556b3",
+        "year": 1999,
+        "genres": "Drama",
+        "actors": [
+            {
+                "name": "Kevin Spacey",
+                "photo": "https://image.tmdb.org/t/p/w185/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
+            },
+            {
+                "name": "Annette Bening",
+                "photo": "https://image.tmdb.org/t/p/w185/sBiiRwAVXd0FCRZ87m0I89qGBvy.jpg"
+            },
+            {
+                "name": "Thora Birch",
+                "photo": "https://image.tmdb.org/t/p/w185/m0D1wqgQeVCr7gWY7GVej7lZlwY.jpg"
+            },
+            {
+                "name": "Wes Bentley",
+                "photo": "https://image.tmdb.org/t/p/w185/qwFi0SsOqm7feN4ps7cAiQDTNHL.jpg"
+            },
+            {
+                "name": "Mena Suvari",
+                "photo": "https://image.tmdb.org/t/p/w185/xjqKvy0bos02oSKNYzC4mxLbQ0W.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/9PJKsH7Btz2xjYIvLLtJ7qcJlL3.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/DztBnZaqmla2sGUW9s8AyOmskT.jpg",
+        "director": "Sam Mendes",
+        "studio": "DreamWorks Pictures",
+        "rating": 8.3,
+        "runtime": 122,
+        "premiered": "1999-09-15",
+        "synopsis": "Lester Burham não aguenta mais o emprego e se sente impotente perante sua vida. Casado com Carolyn e pai da \"aborrecente\" Jane, o melhor momento de seu dia quando se masturba no chuveiro. Até que conhece Angela Hayes, amiga de Jane. Encantado com sua beleza e disposto a dar a volta por cima, Lester pede demissão e começa a reconstruir sua vida, com a ajuda de seu vizinho Ricky.",
+        "popularity": 29.518
+    },
+	{
+        "tmdb_id": 489,
+        "title": "Genio Indomavel",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2661697ee9f16417a5705468e4a78ca30f75591e",
+        "year": 1997,
+        "genres": "Drama",
+        "actors": [
+            {
+                "name": "Matt Damon",
+                "photo": "https://image.tmdb.org/t/p/w185/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg"
+            },
+            {
+                "name": "Robin Williams",
+                "photo": "https://image.tmdb.org/t/p/w185/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
+            },
+            {
+                "name": "Ben Affleck",
+                "photo": "https://image.tmdb.org/t/p/w185/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+            },
+            {
+                "name": "Stellan Skarsgård",
+                "photo": "https://image.tmdb.org/t/p/w185/x78BtYHElirO7Iw8bL4m8CnzRDc.jpg"
+            },
+            {
+                "name": "Minnie Driver",
+                "photo": "https://image.tmdb.org/t/p/w185/OskQBuriLtKWNiCnLTHjMqV1ga.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/AlXkMIEjvk2Npc15zyL0r3P4HBH.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
+        "director": "Gus Van Sant",
+        "studio": "Lawrence Bender Productions",
+        "rating": 8.3,
+        "runtime": 126,
+        "premiered": "1997-12-05",
+        "synopsis": "Em Boston, um jovem de 20 anos (Matt Damon) que já teve algumas passagens pela polícia e servente de uma universidade, revela-se um gênio em matemática e, por determinação legal, precisa fazer terapia, mas nada funciona, pois ele debocha de todos os analistas, até se identificar com um deles.",
+        "popularity": 60.811
+    },
+	{
+        "tmdb_id": 197,
+        "title": "Coracao Valente",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fb91302ba9d3ac950ed694f1050a5793e49e42e",
+        "year": 1995,
+        "genres": "Ação, Drama, História, Guerra",
+        "actors": [
+            {
+                "name": "Mel Gibson",
+                "photo": "https://image.tmdb.org/t/p/w185/jnqHMaOslt8cef2atSmOpGRvNla.jpg"
+            },
+            {
+                "name": "Catherine McCormack",
+                "photo": "https://image.tmdb.org/t/p/w185/vYyMCGKeIUTZMdEgVwQCgX7q1T3.jpg"
+            },
+            {
+                "name": "Sophie Marceau",
+                "photo": "https://image.tmdb.org/t/p/w185/ggYd5jtI9mNB0VRY05EeY8fN2nX.jpg"
+            },
+            {
+                "name": "Patrick McGoohan",
+                "photo": "https://image.tmdb.org/t/p/w185/xtUMgFYGF7KmJg1KqiYQuwYTTe3.jpg"
+            },
+            {
+                "name": "Angus Macfadyen",
+                "photo": "https://image.tmdb.org/t/p/w185/yUuA7U3lw6yM0Eb6mD83qYeevH2.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/tWBbNikf5ng7BuNGA55MkvhLrag.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/8lBcqakI3F19NWkXdqE0M8W76b9.jpg",
+        "director": "Mel Gibson",
+        "studio": "Icon Entertainment International",
+        "rating": 8.3,
+        "runtime": 177,
+        "premiered": "1995-05-24",
+        "synopsis": "No século XIII, soldados ingleses matam a mulher do escocês William Wallace, bem na sua noite de núpcias. Para vingar a amada, ele resolve liderar seu povo em uma luta contra o cruel Rei inglês Edward I. Com a ajuda de Robert e Bruce, ele vai deflagrar uma violenta batalha com o objetivo de libertar a Escócia de uma vez por todas.",
+        "popularity": 64.026
+    },
+	{
+        "tmdb_id": 128,
+        "title": "Princesa Mononoke",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9512e993ed04929859d05a9a833b44c0ead882ae",
+        "year": 1997,
+        "genres": "Aventura, Fantasia, Animação",
+        "actors": [
+            {
+                "name": "松田洋治",
+                "photo": "https://image.tmdb.org/t/p/w185/42WeHwCymsgJh3mLAyknCdRcef8.jpg"
+            },
+            {
+                "name": "石田ゆり子",
+                "photo": "https://image.tmdb.org/t/p/w185/hlSxXH0s9kUrqTKsCejquWnYNll.jpg"
+            },
+            {
+                "name": "田中裕子",
+                "photo": "https://image.tmdb.org/t/p/w185/fMonAnp3OQ16FmGy5SGhEJRcuVI.jpg"
+            },
+            {
+                "name": "小林薫",
+                "photo": "https://image.tmdb.org/t/p/w185/pJSt6nRgcIsli0hw2aOCzc2l622.jpg"
+            },
+            {
+                "name": "西村雅彥",
+                "photo": "https://image.tmdb.org/t/p/w185/2fXvxAI4KySYgp9KZMzkK4q2TkY.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/7EadOwHmyQgOnlghRiWBygNtnjl.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+        "director": "Hayao Miyazaki",
+        "studio": "Studio Ghibli",
+        "rating": 8.3,
+        "runtime": 134,
+        "premiered": "1997-07-12",
+        "synopsis": "Um príncipe infectado por uma doença sabe que irá morrer, a menos que encontre a cura. Sendo a sua última esperança, segue para o leste e, durante o caminho, encontra animais da floresta lutando contra a sua exploração, liderados pela princesa Mononoke.",
+        "popularity": 54.88
+    },
+	{
+        "tmdb_id": 372058,
+        "title": "Seu Nome.",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2373ec52de3ffba6eaa84e28eb582b6bd3b1229",
+        "year": 2016,
+        "genres": "Animação, Romance, Drama",
+        "actors": [
+            {
+                "name": "Ryunosuke Kamiki",
+                "photo": "https://image.tmdb.org/t/p/w185/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+            },
+            {
+                "name": "上白石萌音",
+                "photo": "https://image.tmdb.org/t/p/w185/cPydoy2sSqFDsbXeBPmzQGPmq0R.jpg"
+            },
+            {
+                "name": "成田凌",
+                "photo": "https://image.tmdb.org/t/p/w185/2EFimbwi4lf9B19cgu2bJaNJiVq.jpg"
+            },
+            {
+                "name": "Aoi Yuki",
+                "photo": "https://image.tmdb.org/t/p/w185/4kHNZSUIux52UU2BD3H6b5c5ymZ.jpg"
+            },
+            {
+                "name": "Nobunaga Shimazaki",
+                "photo": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/bMOKAjTU1TNUjRSF7icldbii06u.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
+        "director": "Makoto Shinkai",
+        "studio": "CoMix Wave Films",
+        "rating": 8.4,
+        "runtime": 106,
+        "premiered": "2016-08-26",
+        "synopsis": "Mitsuha é a filha do prefeito de uma pequena cidade, mas sonha em tentar a sorte em Tóquio. Taki trabalha em um restaurante em Tóquio e deseja largar o seu emprego. Os dois não se conhecem, mas estão conectados pelas imagens de seus sonhos.",
+        "popularity": 75.365
     }
-]
+]	
