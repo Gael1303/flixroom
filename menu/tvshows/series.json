@@ -8805,7 +8805,7 @@
             }
         ]
     },
-    {
+    {   
         "title": "A Lista Terminal",
         "rate": 8.011,
         "classification": "16",
@@ -8831,6 +8831,32 @@
             }
         ]
     },
+	{
+       "title": "Landman",
+       "rate": 8.0,
+       "classification": "16",
+       "year": 2024,
+       "aired": "17/11/2024",
+       "sinopse": "Ambientada nas cidades em expansão do Texas, Landman é uma fábula de busca por fortuna no mundo do petróleo. A série narra o contraste entre operários e bilionários, que alimentam um boom que está remodelando nosso clima, economia e geopolítica.",
+       "poster": "https://image.tmdb.org/t/p/original/rxWtATtTdwx0ERQjQ7BtVOMyq5r.jpg",
+       "backdrop": "https://image.tmdb.org/t/p/original/mh2UczqEXJJVgqohbyZbHTuxwhL.jpg",
+       "studio": "Paramount+",
+       "genres": "Drama",
+       "temporadas": [
+        {
+            "title": "1ª Temporada",
+            "rate": 8.1,
+            "sinopse": "",
+            "poster": "https://image.tmdb.org/t/p/original/xLdH51V7wvaOB18q5wQwhpEGysK.jpg",
+            "episodios": [
+                {
+                    "title": "Landman: Temporada 1",
+                    "url": "magnet=a310b5b3bc441ffccd981525ec4cc587f8b6792a"
+                }
+            ]
+        }
+    ]
+    },
     {
         "title": "Sandman",
         "rate": 8,
@@ -8843,17 +8869,17 @@
         "studio": "Netflix",
         "genres": "Ficção Científica e Fantasia, Drama, Ação e Aventura",
         "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/csdsfn5XicunJ082UJ1QsV0VQD6.jpg",
-                "episodios": [
-                    {
-                        "title": "Sandman - 1ª Temporada Completa",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:026999d04c70510a879189d676a589ee32d2c983"
-                    }
-                ]
-            }
-        ]
+        {
+            "title": "1ª Temporada",
+            "poster": "https://image.tmdb.org/t/p/original/csdsfn5XicunJ082UJ1QsV0VQD6.jpg",
+            "episodios": [
+                {
+                    "title": "Sandman - 1ª Temporada Completa",
+                    "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:026999d04c70510a879189d676a589ee32d2c983"
+                }
+            ]
+        }
+    ]
     },
     {
         "title": "Você",
