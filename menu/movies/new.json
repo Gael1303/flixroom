@@ -1,6 +1,1248 @@
 [
-
+   
+    {
+        "tmdb_id": 728949,
+        "title": "Canina",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3aa5758f9ec44cb0724faa35734488914c75d5b3",
+        "poster": "https://image.tmdb.org/t/p/w500/lCzdJ5HQB85eRMyzFsh5Iy4eqlv.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/H39NvEXz23GE9iYQ4qqV4w1zWn.jpg",
+        "synopsis": "Uma mulher lançada à rotina de ficar em casa criando uma criança no subúrbio lentamente abraça o poder selvagem profundamente enraizado na maternidade, conforme ela se torna cada vez mais consciente dos sinais bizarros e inegáveis ​​de que ela pode estar se transformando em um cachorro.",
+        "studio": "Annapurna Pictures",
+        "year": 2024,
+        "genres": "Comédia, Drama",
+        "actors": [
+            {
+                "name": "Amy Adams",
+                "photo": "https://image.tmdb.org/t/p/w185/ify7UiQkVMQ0uCUX0F0AuzLK1vS.jpg"
+            },
+            {
+                "name": "Scoot McNairy",
+                "photo": "https://image.tmdb.org/t/p/w185/oP2LJEqupxVZ2XdEW1lN5Q5LF3M.jpg"
+            },
+            {
+                "name": "Arleigh Snowden",
+                "photo": null
+            },
+            {
+                "name": "Emmett Snowden",
+                "photo": null
+            },
+            {
+                "name": "Jessica Harper",
+                "photo": "https://image.tmdb.org/t/p/w185/sSTbKuf4bY83cSRx9lmVdGobcsg.jpg"
+            }
+        ],
+        "rating": 6.1,
+        "director": "Marielle Heller",
+        "runtime": 99,
+        "premiered": "2024-12-06"
+    },
+    {
+        "tmdb_id": 507241,
+        "title": "O Jogo do Assassino",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:932316450dbdc53e4c826f24e9da9738bd6e66d8",
+        "poster": "https://image.tmdb.org/t/p/w500/pPmxLP2eMJEFiY7KZ3WkSFQ1b20.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zGLQmrmIB56kMZPnzqReIOBay1B.jpg",
+        "synopsis": "Um matador de elite é diagnosticado com uma doença terminal e terá que enfrentar um exército de outros assassinos para reconquistar o amor de sua vida antes que seja tarde demais.",
+        "studio": "STXfilms",
+        "year": 2024,
+        "genres": "Ação, Comédia, Crime",
+        "actors": [
+            {
+                "name": "Dave Bautista",
+                "photo": "https://image.tmdb.org/t/p/w185/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+            },
+            {
+                "name": "Sofia Boutella",
+                "photo": "https://image.tmdb.org/t/p/w185/68sSOkEc1KGQGqbvH4ktcynNlzW.jpg"
+            },
+            {
+                "name": "Terry Crews",
+                "photo": "https://image.tmdb.org/t/p/w185/pxTY4SglLo5hFcMH00MxPeC5u55.jpg"
+            },
+            {
+                "name": "Pom Klementieff",
+                "photo": "https://image.tmdb.org/t/p/w185/hfUKAI2kXTMMWjno0i4sLPJud5N.jpg"
+            },
+            {
+                "name": "Ben Kingsley",
+                "photo": "https://image.tmdb.org/t/p/w185/vQtBqpF2HDdzbfXHDzR4u37i1Ac.jpg"
+            }
+        ],
+        "rating": 6.7,
+        "director": "J.J. Perry",
+        "runtime": 104,
+        "premiered": "2024-09-12"
+    },
+    {
+        "tmdb_id": 1170514,
+        "title": "Níobe",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb2a49b288c55ccacdd35784133e730d5106f012",
+        "poster": "https://image.tmdb.org/t/p/w500/buNVzd4JHXzgxW0K5oTHNxYy0Ph.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/aP28BFdJhug1oJAM03QNqZX6SRS.jpg",
+        "synopsis": "Rita e um grupo de outras seis garotas de programa de luxo são contratadas por um importante empresário para entreter os convidados de uma importante reunião de negócios durante uma noite. O objetivo da reunião - que conta com a presença de um presidente da república e seu principal general - é subornar um deputado da oposição para conseguir a liberação de uma exploração de minerais em território indígena. Porém, o plano não sai como esperado e, no fim das contas, o futuro do país pode estar nas mãos das sete garotas de programa.",
+        "studio": "Pajé Cultural",
+        "year": 2023,
+        "genres": "Thriller, Drama",
+        "actors": [
+            {
+                "name": "Barbara França",
+                "photo": "https://image.tmdb.org/t/p/w185/rDgWKjJqt5E0FhuZM8tUZaWUrl.jpg"
+            },
+            {
+                "name": "Clara Niin",
+                "photo": null
+            },
+            {
+                "name": "Aline Deluna",
+                "photo": null
+            },
+            {
+                "name": "Iran Gomes",
+                "photo": null
+            },
+            {
+                "name": "Kadu Moliterno",
+                "photo": "https://image.tmdb.org/t/p/w185/xaFBuiWzvi4kdgMFyMHz4aAe69J.jpg"
+            }
+        ],
+        "rating": 0.0,
+        "director": "Fernando Mamari",
+        "runtime": 84,
+        "premiered": "2023-09-07"
+    },
+    {
+        "tmdb_id": 996897,
+        "title": "Em Busca do Cálice Sagrado",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f7eb9d042e32a2b5890baf7f41fb1b40abf87ba",
+        "poster": "https://image.tmdb.org/t/p/w500/e159ohLC6mChx8HCaWbQNAbzkqY.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/5IeYXNaYe8JMaaEv8JRxiZHcg4G.jpg",
+        "synopsis": "Em 1943, um grupo de voluntários finlandeses, liderados pelo sargento Myllykoski, se juntam a uma tropa de soldados da SS, que estão procurando por um cálice sagrado.",
+        "studio": "Foci-tuotanto",
+        "year": 2022,
+        "genres": "Guerra, Ação",
+        "actors": [
+            {
+                "name": "Marko Salminen",
+                "photo": null
+            },
+            {
+                "name": "Antti Peltonen",
+                "photo": null
+            },
+            {
+                "name": "Marko Loukaskorpi",
+                "photo": null
+            },
+            {
+                "name": "Matti Toivio",
+                "photo": null
+            },
+            {
+                "name": "Pasi Gerlander",
+                "photo": null
+            }
+        ],
+        "rating": 7.0,
+        "director": "Jarno Elonen",
+        "runtime": 91,
+        "premiered": "2022-08-19"
+    },
+    {
+        "tmdb_id": 380097,
+        "title": "Eu Sou Charlie Walker",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d84329f27e2bd99f9f68b1df79f6ca7d83b343b",
+        "poster": "https://image.tmdb.org/t/p/w500/v7Akbcp967vnkNUoiVkqLm1baKY.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3lggIQT5IJuHNWy9O5Fu6SGyCL3.jpg",
+        "synopsis": "Em 1971, dois navios petroleiros colidiram na baia de São Francisco, provocando um desastre ambiental. Contra todas as probabilidades, Charlie Walker conseguiu fechar um contrato que garantisse a limpeza de toda a região.",
+        "studio": "Shout! Studios",
+        "year": 2022,
+        "genres": "Drama",
+        "actors": [
+            {
+                "name": "Mike Colter",
+                "photo": "https://image.tmdb.org/t/p/w185/hy6gReVCDUtkP9r01OArQXSYnKd.jpg"
+            },
+            {
+                "name": "Dylan Baker",
+                "photo": "https://image.tmdb.org/t/p/w185/4mw6xj8Aj3ixjjeUj9pZdZPTbvz.jpg"
+            },
+            {
+                "name": "Safiya Fredericks",
+                "photo": "https://image.tmdb.org/t/p/w185/8nOwkWwk8vypOsSwzEGJcG9Iagw.jpg"
+            },
+            {
+                "name": "Mark Leslie Ford",
+                "photo": "https://image.tmdb.org/t/p/w185/pZz2SqMSO0ATpwaTlsLJePwKJGD.jpg"
+            },
+            {
+                "name": "Steven Wiig",
+                "photo": "https://image.tmdb.org/t/p/w185/nEpsMCbemUtkajekCqfx8ffybah.jpg"
+            }
+        ],
+        "rating": 5.0,
+        "director": "Patrick Gilles",
+        "runtime": 90,
+        "premiered": "2022-06-10"
+    },
+    {
+        "tmdb_id": 848887,
+        "title": "A Vigia",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc23b5256392f412d2cf2fd3f8360fe5618e6ab7",
+        "poster": "https://image.tmdb.org/t/p/w500/75DKEGYtjqlBWVXcb3ProMzffSN.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/chpdejaJ7UeTiTB2esW65dAMb7L.jpg",
+        "synopsis": "Após fugir de um relacionamento abusivo, Kate consegue um trabalho como vigia florestal no norte dos Estados Unidos. Ela espera encontrar um pouco de paz para recomeçar a vida, mas é assombrada pelo seu passado.",
+        "studio": "What’s That Noise Films",
+        "year": 2023,
+        "genres": "Terror, Thriller, Drama",
+        "actors": [
+            {
+                "name": "Beth Dover",
+                "photo": "https://image.tmdb.org/t/p/w185/2V6kBzeZQTAdBzaoqJsrAJnmUWq.jpg"
+            },
+            {
+                "name": "Ato Essandoh",
+                "photo": "https://image.tmdb.org/t/p/w185/kkQFtsIxVUMuYDrVGeRfX2IG2F8.jpg"
+            },
+            {
+                "name": "Dylan Baker",
+                "photo": "https://image.tmdb.org/t/p/w185/4mw6xj8Aj3ixjjeUj9pZdZPTbvz.jpg"
+            },
+            {
+                "name": "Dallas Roberts",
+                "photo": "https://image.tmdb.org/t/p/w185/b7jMTaNJ9aBTXXy7gdwqn9jb6EF.jpg"
+            },
+            {
+                "name": "Becky Ann Baker",
+                "photo": "https://image.tmdb.org/t/p/w185/84fEZMqVMlcl9EaBeCLbrYhHn0x.jpg"
+            }
+        ],
+        "rating": 5.2,
+        "director": "Joe Lo Truglio",
+        "runtime": 88,
+        "premiered": "2023-05-19"
+    },
+    {
+        "tmdb_id": 928118,
+        "title": "A Contadora de Filmes",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f19c6fe0f756105324d24b8e28e584bafc79468",
+        "poster": "https://image.tmdb.org/t/p/w500/tzCEvNVmVZVoCtVD2HnEQw6IEGn.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/wxTm7Fppm0XnpzuAmCtT0XvLpuE.jpg",
+        "synopsis": "A CONTADORA DE FILMES conta a história de Maria Margarita, uma menina que encanta os moradores de uma pequena cidade no deserto do Atacama, no Chile, com seu talento para contar histórias. Caçula de quatro irmãos, o momento mais esperado por sua família é a ida ao cinema aos domingos. Mas quando seu pai sofre um acidente e a renda familiar diminui, apenas um filho pode continuar a frequentar o cinema. Maria, escolhida para assistir e narrar os filmes, revela um dom extraordinário, transformando sua vida e a de todos ao seu redor com sua sua maneira de contar histórias.",
+        "studio": "Embankment Films",
+        "year": 2023,
+        "genres": "Drama, História",
+        "actors": [
+            {
+                "name": "Bérénice Bejo",
+                "photo": "https://image.tmdb.org/t/p/w185/geRiss2B8CWgmY0VZW0dHsWiAOt.jpg"
+            },
+            {
+                "name": "Antonio de la Torre",
+                "photo": "https://image.tmdb.org/t/p/w185/d43JMOaio4mTZlov23gM2q8a6Uo.jpg"
+            },
+            {
+                "name": "Daniel Brühl",
+                "photo": "https://image.tmdb.org/t/p/w185/3YlmTfiy5qZXkrdKGjaM1uMjGKP.jpg"
+            },
+            {
+                "name": "Sara Becker",
+                "photo": "https://image.tmdb.org/t/p/w185/b1igiukYws389GfOihCWM7Pt9Rx.jpg"
+            },
+            {
+                "name": "Alondra Valenzuela",
+                "photo": "https://image.tmdb.org/t/p/w185/dCPLZfjG3Feq77LjWPVUJC2Gw6t.jpg"
+            }
+        ],
+        "rating": 6.8,
+        "director": "Lone Scherfig",
+        "runtime": 116,
+        "premiered": "2023-10-27"
+    },
+    {
+        "tmdb_id": 1255208,
+        "title": "Ritual das Trevas",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:790f84dde9bdc988c8efd8b18382b5022c703ddb",
+        "poster": "https://image.tmdb.org/t/p/w500/8CXnlqNXoZqYLWRLXCmwM67fCvY.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/r5NvzqWUpOdy4eQ7OENzb73XY25.jpg",
+        "synopsis": "Desesperado para salvar a vida de sua esposa de uma terrível doença, Matt recorre a um antigo artefato mágico. Mas a cura exige a realização de um sinistro ritual com terríveis consequências.",
+        "studio": "Dread",
+        "year": 2024,
+        "genres": "Terror, Thriller",
+        "actors": [
+            {
+                "name": "John Wells",
+                "photo": "https://image.tmdb.org/t/p/w185/udDheh1OOGggBFQm56N5QSdrc6q.jpg"
+            },
+            {
+                "name": "Madison Pullins",
+                "photo": "https://image.tmdb.org/t/p/w185/oFCAinWBkcWA0Sq8ezOYO2vxAJq.jpg"
+            },
+            {
+                "name": "Patrick Taft",
+                "photo": "https://image.tmdb.org/t/p/w185/ysRAylTNXaH6FQyAgFG47KKSANk.jpg"
+            },
+            {
+                "name": "Brandi Botkin",
+                "photo": "https://image.tmdb.org/t/p/w185/P2ZLDHo0wfPphKKc3uZKmVRkUs.jpg"
+            },
+            {
+                "name": "Terry Tocantins",
+                "photo": "https://image.tmdb.org/t/p/w185/p1kCwSKaTcQ43Dbf6tY0dHJSvgL.jpg"
+            }
+        ],
+        "rating": 5.7,
+        "director": "David Andrew James",
+        "runtime": 96,
+        "premiered": "2024-03-29"
+    },
+    {
+        "tmdb_id": 942027,
+        "title": "Vida Eterna",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:083cff7349047acbf98ff17512ce14dfce8ee1a1",
+        "poster": "https://image.tmdb.org/t/p/w500/sivfft3vrFMW7mGaNWR8DdI96eF.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/rLQEFqOS1j7UhDSjwgHUc2m6vDW.jpg",
+        "synopsis": "Meredith é uma executiva determinada a lançar uma droga que impede o envelhecimento das pessoas e nada parece ser capaz de fazê-la mudar de ideia. Nem mesmo sua própria família.",
+        "studio": "VMI Worldwide",
+        "year": 2022,
+        "genres": "Ficção científica, Fantasia",
+        "actors": [
+            {
+                "name": "Eric Roberts",
+                "photo": "https://image.tmdb.org/t/p/w185/NiWg1TaUcal7xn1ZQeyA2dLd5F.jpg"
+            },
+            {
+                "name": "Leah Janvier",
+                "photo": "https://image.tmdb.org/t/p/w185/163UhWOHHsblZS5hOT5augCS8q1.jpg"
+            },
+            {
+                "name": "Anastasiia Duvallie",
+                "photo": "https://image.tmdb.org/t/p/w185/bwcMH3OHLFtSjWeYT6CCz0BtKOj.jpg"
+            },
+            {
+                "name": "Jeffrey Mark",
+                "photo": "https://image.tmdb.org/t/p/w185/HqAO3830sXD9NYshSUhTXzPqdy.jpg"
+            },
+            {
+                "name": "Ashley Nicole Blake",
+                "photo": "https://image.tmdb.org/t/p/w185/8sqQyludjU4KYT6HNtG89Af93p8.jpg"
+            }
+        ],
+        "rating": 4.4,
+        "director": "Davidson Cole, Matthew Luke Tucci",
+        "runtime": 88,
+        "premiered": "2022-02-21"
+    },
+    {
+        "tmdb_id": 799155,
+        "title": "Missão Ataque",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6165cd08aeacf6ef9fef659e335d7803dc101dea",
+        "poster": "https://image.tmdb.org/t/p/w500/1jutkqkWfuds2mem3ku9rCXRqUR.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6DqNe4jKvWyQZjlRi9FaCzgMxyx.jpg",
+        "synopsis": "Depois de perder tudo devido a um ataque terrorista, o ex-agente do governo Arjun Shergill participa de um projeto que o torna um supersoldado.",
+        "studio": "JA Entertainment",
+        "year": 2022,
+        "genres": "Ação, Ficção científica, Thriller",
+        "actors": [
+            {
+                "name": "John Abraham",
+                "photo": "https://image.tmdb.org/t/p/w185/2ITVYVFou0dh3QVcJlhNJVzrA2p.jpg"
+            },
+            {
+                "name": "Serena Walia",
+                "photo": null
+            },
+            {
+                "name": "Rakul Preet Singh",
+                "photo": "https://image.tmdb.org/t/p/w185/4n4MmOFNyxKc4qMfzyapglvDDlF.jpg"
+            },
+            {
+                "name": "Prakash Raj",
+                "photo": "https://image.tmdb.org/t/p/w185/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg"
+            },
+            {
+                "name": "Ratna Pathak Shah",
+                "photo": "https://image.tmdb.org/t/p/w185/vm25WW6q65Hjg8xuuekJjWF75hY.jpg"
+            }
+        ],
+        "rating": 6.7,
+        "director": "Lakshya Raj Anand",
+        "runtime": 123,
+        "premiered": "2022-04-01"
+    },
+    {
+        "tmdb_id": 1115379,
+        "title": "Sob o Silêncio das Águas",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1997e9b6b67eb5746854d47d984550c01277eb2",
+        "poster": "https://image.tmdb.org/t/p/w500/wyLfilqQUjvgFJWyo6WHr0AC6Z1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/jbheYBYMPMV4kWGCh8H5kLD3WYr.jpg",
+        "synopsis": "Na cidade de Banpo, no interior da China, durante a década de 1990, o corpo de uma mulher é encontrado na beira de um rio. Ma Zhe, o chefe de polícia, comanda a investigação desse assassinato, que rapidamente resulta na prisão de um suspeito. Enquanto os superiores de Ma Zhe planejam divulgar o sucesso da missão, o surgimento de outras pistas obrigam o policial a se aprofundar no comportamento secreto dos habitantes de Banpo.",
+        "studio": "Hangzhou Dangdang Film",
+        "year": 2023,
+        "genres": "Thriller, Drama, Crime",
+        "actors": [
+            {
+                "name": "朱一龍",
+                "photo": "https://image.tmdb.org/t/p/w185/6Xh8cVq1hHvKZjuN56d6LWnqFEi.jpg"
+            },
+            {
+                "name": "曾美慧孜",
+                "photo": "https://image.tmdb.org/t/p/w185/oOAteDTeDyjxLkBnBAhdXE7Q8Bo.jpg"
+            },
+            {
+                "name": "Hou Tianlai",
+                "photo": "https://image.tmdb.org/t/p/w185/yrmHaUWRT23ilxJYMTDDHnJC9hV.jpg"
+            },
+            {
+                "name": "Tong Linkai",
+                "photo": "https://image.tmdb.org/t/p/w185/p5mtK7HP48MrvtguX5TwFKKs2vG.jpg"
+            },
+            {
+                "name": "Zeng Qi",
+                "photo": "https://image.tmdb.org/t/p/w185/ePmUq2yrAZGv65f8XxH42w20ti3.jpg"
+            }
+        ],
+        "rating": 6.5,
+        "director": "Wei Shujun",
+        "runtime": 101,
+        "premiered": "2023-10-21"
+    },
+    {
+        "tmdb_id": 575333,
+        "title": "Comboio 48: A Última Resistência",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:667ed2acd582c78b40739a821baf9abc52c66d80",
+        "poster": "https://image.tmdb.org/t/p/w500/xSF9LRDRoie7YNwMT1yAfJ8IWNz.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/1NohScUzMNI5WCmmOlgRJuYbReI.jpg",
+        "synopsis": "Durante a defesa de Leningrado, muitas mulheres recebem a missão de entregar equipamento militar por meio das linhas ferroviárias, correndo o risco de serem pegas pelos Nazistas.",
+        "studio": "Desconhecido",
+        "year": 2019,
+        "genres": "Guerra, Drama",
+        "actors": [
+            {
+                "name": "Артём Алексеев",
+                "photo": "https://image.tmdb.org/t/p/w185/po2s3T8lfnZYsPgGX3CABSYTj4T.jpg"
+            },
+            {
+                "name": "Анастасия Цибизова",
+                "photo": "https://image.tmdb.org/t/p/w185/kxokN92BOCfIG1VJvYEAD92Tn7.jpg"
+            },
+            {
+                "name": "Игорь Ясулович",
+                "photo": "https://image.tmdb.org/t/p/w185/ohYnxedbfTSDwFJfjW3WHqp7ao2.jpg"
+            },
+            {
+                "name": "Артём Мельничук",
+                "photo": "https://image.tmdb.org/t/p/w185/xDYexadiX9kEJPTFJPzMWIjFpmc.jpg"
+            },
+            {
+                "name": "Александр Яценко",
+                "photo": "https://image.tmdb.org/t/p/w185/awGoyTiJ5aYI3wuOXMIY62o8Pmf.jpg"
+            }
+        ],
+        "rating": 5.4,
+        "director": "Федор Попов",
+        "runtime": 125,
+        "premiered": "2019-05-08"
+    },
+    {
+        "tmdb_id": 1228973,
+        "title": "O Despertar dos Poderes",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4f4de0516d35e4dad7d8c95a9c5a9e84a9182cb",
+        "poster": "https://image.tmdb.org/t/p/w500/8WqHHfh4n7xMaYPF9wHq6Q4Tzk1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/lZTKLNwSyBNWQJkbNjKytrj1G1H.jpg",
+        "synopsis": "Kaká é o filho de um herói lendário. O seu corpo é possuído por uma força maligna que cresce a cada dia, ameaçando destruir o mundo. Determinados a evitar essa catástrofe, um grupo de jovens heróis se une a ele em uma épica jornada.",
+        "studio": "Desconhecido",
+        "year": 2022,
+        "genres": "Animação",
+        "actors": [
+            {
+                "name": "Tom Coetzee",
+                "photo": null
+            },
+            {
+                "name": "Jonah Dollery",
+                "photo": null
+            },
+            {
+                "name": "Sophie Kirsch",
+                "photo": null
+            },
+            {
+                "name": "Dylan Mackinnon",
+                "photo": null
+            }
+        ],
+        "rating": 7.0,
+        "director": "Xuhui Xing",
+        "runtime": 99,
+        "premiered": "2022-02-23"
+    },
+    {
+        "tmdb_id": 1076487,
+        "title": "Seals: Operação Resgate",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bffa12597358c1655166f5e70f74d1f05d86d9f4",
+        "poster": "https://image.tmdb.org/t/p/w500/oIHgYhUsdUQV1KOw4n58F4aUhFt.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/csu96RxWGh2tReD9gYQRdUOSuUE.jpg",
+        "synopsis": "Depois que um helicóptero militar dos EUA é abatido durante uma missão de resgate no Afeganistão, o único operador sobrevivente deve escapar de insurgentes hostis e navegar por terrenos acidentados para guiar o único civil vivo – uma criança traumatizada – para um local seguro.",
+        "studio": "Operator Films (US)",
+        "year": 2023,
+        "genres": "Guerra, Ação, Drama",
+        "actors": [
+            {
+                "name": "Johnny Strong",
+                "photo": "https://image.tmdb.org/t/p/w185/zMe5hbmaMA5Jr6uVwtojusANaCg.jpg"
+            },
+            {
+                "name": "Athena Durner",
+                "photo": "https://image.tmdb.org/t/p/w185/iQk9N5WOLvflt9Yo7NXdtIMcFn3.jpg"
+            },
+            {
+                "name": "Raj Kala",
+                "photo": null
+            },
+            {
+                "name": "James Sherrill",
+                "photo": null
+            },
+            {
+                "name": "Siya Rostami",
+                "photo": null
+            }
+        ],
+        "rating": 7.3,
+        "director": "Johnny Strong, William Kaufman",
+        "runtime": 125,
+        "premiered": "2023-06-30"
+    },
+    {
+        "tmdb_id": 720321,
+        "title": "Respire",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1bb2c02296f2fec8c0d63cc376ec1f4936fbe07",
+        "poster": "https://image.tmdb.org/t/p/w500/e7sPoVq19QGGLwe5O10RupMHQc1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/v2oPRCnWADeQhEAAUKD7DfMdScP.jpg",
+        "synopsis": "Situado em um futuro próximo, onde o suprimento de ar é escasso, o enredo segue uma mãe e filha que são forçadas a lutar por sua sobrevivência quando dois estranhos chegam desesperados por um refúgio oxigenado.",
+        "studio": "Thunder Road",
+        "year": 2024,
+        "genres": "Ação, Ficção científica, Mistério, Thriller",
+        "actors": [
+            {
+                "name": "Jennifer Hudson",
+                "photo": "https://image.tmdb.org/t/p/w185/4wpTUqEjHYjDMj0Fv6BvfjeIS1H.jpg"
+            },
+            {
+                "name": "Milla Jovovich",
+                "photo": "https://image.tmdb.org/t/p/w185/usWnHCzbADijULREZYSJ0qfM00y.jpg"
+            },
+            {
+                "name": "Quvenzhané Wallis",
+                "photo": "https://image.tmdb.org/t/p/w185/lHW9hnGlPMgexsbraR7xyBh5qEI.jpg"
+            },
+            {
+                "name": "Common",
+                "photo": "https://image.tmdb.org/t/p/w185/eggJAnJxpn8wYraX7ea5svETB54.jpg"
+            },
+            {
+                "name": "Sam Worthington",
+                "photo": "https://image.tmdb.org/t/p/w185/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
+            }
+        ],
+        "rating": 5.8,
+        "director": "Stefon Bristol",
+        "runtime": 93,
+        "premiered": "2024-04-04"
+    },
+    {
+        "tmdb_id": 1226077,
+        "title": "Jardim dos Girassóis",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72159a4161c7e5ea2f7be1ff7649310592d6d3db",
+        "poster": "https://image.tmdb.org/t/p/w500/dAgY2Cqa21jjG0hXlYKToVJHoZE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/8fb5rPAzERKE2R5XIZUQLFHixPJ.jpg",
+        "synopsis": "Roberto e Carol formam um casal amoroso, criam filhos estudiosos e inteligentes. Porém, um acontecimento inesperado vai abalar as estruturas da família.",
+        "studio": "Indiana Produções Cinematográficas",
+        "year": 2024,
+        "genres": "Thriller, Drama",
+        "actors": [
+            {
+                "name": "Rodrigo Lombardi",
+                "photo": "https://image.tmdb.org/t/p/w185/vZdN89Jc0DuagZRAGqkgNgpKiWI.jpg"
+            },
+            {
+                "name": "Fernanda Vasconcellos",
+                "photo": "https://image.tmdb.org/t/p/w185/yAyBrLIhvOBzlp0KvdrjiE7Q2cK.jpg"
+            },
+            {
+                "name": "Daniel Ribeiro",
+                "photo": "https://image.tmdb.org/t/p/w185/eAvzottwNCPfAba0Mh97cPz9ZKH.jpg"
+            },
+            {
+                "name": "Kiria Malheiros",
+                "photo": "https://image.tmdb.org/t/p/w185/3QnGiQiZIwUjgl5xEJEQbSFoubI.jpg"
+            },
+            {
+                "name": "Marcos Pitombo",
+                "photo": "https://image.tmdb.org/t/p/w185/kTc9yHdAtDW7lTS72xl4SxR1tFp.jpg"
+            }
+        ],
+        "rating": 0.0,
+        "director": "Marcelo Antunez",
+        "runtime": 93,
+        "premiered": "2024-11-28"
+    },
+    {
+        "tmdb_id": 1159596,
+        "title": "Oficina do Diabo",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:524310f10460f9796cf4c7c4a0bcd4d196c82cfb",
+        "poster": "https://image.tmdb.org/t/p/w500/33ugYq5qlJTAiXkfIhdUSxQUTT8.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mYST0LAwOdpFqOzyvJ2BMyM8iyh.jpg",
+        "synopsis": "Após tentar a vida como músico na cidade grande, Pedro fracassa e volta, sem rumo, para a casa de sua mãe no interior. O demônio Natan levou Pedro a escolhas erradas, no entanto, suas tentações não conseguiram desvirtuá-lo completamente. Decididos a condenar a alma de Pedro ao Inferno, a Oficina convoca o experiente demônio Fausto para guiar Natan em sua missão.",
+        "studio": "Brasil Paralelo",
+        "year": 2025,
+        "genres": "Drama, Família",
+        "actors": [
+            {
+                "name": "Roberto Mallet",
+                "photo": "https://image.tmdb.org/t/p/w185/n1hFJ3KWXOOXTF5e8uZvkP2Ierx.jpg"
+            },
+            {
+                "name": "Felipe de Barros",
+                "photo": "https://image.tmdb.org/t/p/w185/iS2Tvkawlipihkpg4hI3ufhPQBp.jpg"
+            },
+            {
+                "name": "Sergio Barreto",
+                "photo": "https://image.tmdb.org/t/p/w185/10AMqPqi6HDS5fpCXf8pb0hJZxP.jpg"
+            },
+            {
+                "name": "Elizângela",
+                "photo": "https://image.tmdb.org/t/p/w185/uL6aN4iUBiPLEZUzDoddCAz7n53.jpg"
+            },
+            {
+                "name": "Isabela Tortato",
+                "photo": null
+            }
+        ],
+        "rating": 7.0,
+        "director": "Filipe Valerim",
+        "runtime": 124,
+        "premiered": "2025-01-16"
+    },
+    {
+        "tmdb_id": 1262009,
+        "title": "Águia Dourada: Forças Especiais",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d0c4af735abcd7e3d0cc210b522690659b5411b",
+        "poster": "https://image.tmdb.org/t/p/w500/9kzOVGajgO3MZYXRB99yPvnlKEQ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/83JHEnLLv2P6wWmr4PziHEbWu1.jpg",
+        "synopsis": "Um grupo de candidatos enfrenta provas rigorosas para conquistar a boina marrom (o tradicional chapéu das forças especiais). Entre eles estão três amigos que tentam se manter unidos: Ruslan, Kaysar e Aibyn. Ruslan e Kaysar estão enfrentando o difícil exame pela primeira vez, enquanto para Aibyn, essa é sua terceira tentativa. Cada um deles sonha em se juntar à unidade especial da Guarda Nacional, mas apenas um deles está destinado a chegar à etapa final.",
+        "studio": "Desconhecido",
+        "year": 2023,
+        "genres": "Ação",
+        "actors": [],
+        "rating": 0.0,
+        "director": "Daniyar Ibragimov",
+        "runtime": 105,
+        "premiered": "2023-11-01"
+    },
+    {
+        "tmdb_id": 513399,
+        "title": "Muito Louca",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da6672c7279eec8acca918980f45f14688037b31",
+        "poster": "https://image.tmdb.org/t/p/w500/6za5y0DNUulELnVRLL1kf9OYaLF.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/qk3cGYKrHqjNmUyaQpenbE6LR7o.jpg",
+        "synopsis": "Em meio a uma vida rotineira, cheia de exigências e pressões, um encontro casual e mágico faz com que Pilar consiga dizer e fazer o que todos sonham, mas não se atrevem.",
+        "studio": "Aeroplano Cine",
+        "year": 2018,
+        "genres": "Comédia",
+        "actors": [
+            {
+                "name": "Natalia Oreiro",
+                "photo": "https://image.tmdb.org/t/p/w185/mPXbbWPifRNHoi9HFCUQI8FDKG.jpg"
+            },
+            {
+                "name": "Fernán Mirás",
+                "photo": "https://image.tmdb.org/t/p/w185/23qPVThNWu0OtpSZtBcMLYngo96.jpg"
+            },
+            {
+                "name": "Diego Torres",
+                "photo": "https://image.tmdb.org/t/p/w185/iMQb3gr3GIHzGvyN855bVJUvyRp.jpg"
+            },
+            {
+                "name": "Gimena Accardi",
+                "photo": "https://image.tmdb.org/t/p/w185/zesR2eV1dTcXP8iw8Zkx6CFvruK.jpg"
+            },
+            {
+                "name": "Agustín Aristarán",
+                "photo": "https://image.tmdb.org/t/p/w185/bLYj5IHVW1eWY6KAVzmnF8k13By.jpg"
+            }
+        ],
+        "rating": 6.8,
+        "director": "Martino Zaidelis",
+        "runtime": 90,
+        "premiered": "2018-07-04"
+    },
+    {
+        "tmdb_id": 822300,
+        "title": "O Som da Fé",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:099bbae82c4b36f501bd64d545e31851d79142ed",
+        "poster": "https://image.tmdb.org/t/p/w500/7aRfX7ukHp1il9kJQ1NTLokPt8Y.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zOJRFSEfFKF1VAxwWog0IbbQULu.jpg",
+        "synopsis": "Quando a vida de um astro do rock n roll desmorona, ele precisa lutar contra seus demônios do passado para realizar sua ambição de infância de se tornar um pregador.",
+        "studio": "Syzygy Studios",
+        "year": 2023,
+        "genres": "História, Drama, Música",
+        "actors": [
+            {
+                "name": "Max Ehrich",
+                "photo": "https://image.tmdb.org/t/p/w185/6dntL7QQzaYr6ZYnZJVEwxmQNM7.jpg"
+            },
+            {
+                "name": "Katelyn Nacon",
+                "photo": "https://image.tmdb.org/t/p/w185/y10NkcFasuA3BjfZV9QSWRcCbV0.jpg"
+            },
+            {
+                "name": "J. Alphonse Nicholson",
+                "photo": "https://image.tmdb.org/t/p/w185/3Z0rqaMX65Lh4SFtEZz2cdHUHW5.jpg"
+            },
+            {
+                "name": "Emma Myers",
+                "photo": "https://image.tmdb.org/t/p/w185/xBJsFGAL3sOIxMUA0sMVEKKpAL4.jpg"
+            },
+            {
+                "name": "Gary Weeks",
+                "photo": "https://image.tmdb.org/t/p/w185/n4taftpteF6qUTeYRDkdGPHC58.jpg"
+            }
+        ],
+        "rating": 6.9,
+        "director": "Jeffrey A. Smith",
+        "runtime": 109,
+        "premiered": "2023-03-10"
+    },
+    {
+        "tmdb_id": 1371122,
+        "title": "Segredos",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4bd860723b310a9250808aec8598e10fb9c9ecc4",
+        "poster": "https://image.tmdb.org/t/p/w500/wsgD1nnl743yaN1BBXjo3ysBW32.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sx6lRH7VrS8kn9iE5LycIpHXgxW.jpg",
+        "synopsis": "Noah é um diplomata suíço, que cresceu na Europa e estudou nos Estados Unidos. Naomi é uma brasileira, filha única e de uma família rica e influente. Eles se conheceram enquanto estavam na faculdade, a renomada instituição americana, Yale University. Casados há sete anos, para quem vê de fora, eles são o casal perfeito. Porém, em meio a uma dinâmica abusiva, ambos tentam salvar o casamento e se deparam com uma situação em que são colocados frente a frente com os segredos um do outro. A pergunta que não quer calar é: será que seus segredos serão grandes demais para serem ignorados?",
+        "studio": "A2 Filmes",
+        "year": 2024,
+        "genres": "Thriller, Drama",
+        "actors": [
+            {
+                "name": "Emiliano Ruschel",
+                "photo": "https://image.tmdb.org/t/p/w185/g5c0FLmDD5SbIS9tLQkV5Iy3JmL.jpg"
+            },
+            {
+                "name": "Daniele Suzuki",
+                "photo": "https://image.tmdb.org/t/p/w185/qiqCKa7NUnpUz3IeyF3Qw9UJL3h.jpg"
+            }
+        ],
+        "rating": 0.0,
+        "director": "Emiliano Ruschel",
+        "runtime": 127,
+        "premiered": "2024-10-24"
+    },
+    {
+        "tmdb_id": 1119257,
+        "title": "Aposentados e Curiosos",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8eb3d4c3767341ed42d45601d8ab69ba57bf9f2c",
+        "poster": "https://image.tmdb.org/t/p/w500/cqMM9MH2m3b8pGu457ZY1HQueSW.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/yHIozpJY1ucEwjaMuLJOHZLTCpr.jpg",
+        "synopsis": "Wilbert Moser, um policial aposentado, ainda tenta desvendar um assalto a banco de 50 anos atrás. Incapaz de resolver o caso sozinho, ele se une a um grupo improvável: ex-presidiários que ele prendeu e reabilitou. Com a ajuda de uma especialista em Psicologia Forense e da comunidade local, eles embarcam em uma jornada para resolver o mistério que os persegue há décadas.",
+        "studio": "Magic Bean Entertainment",
+        "year": 2023,
+        "genres": "Família, Comédia, Crime",
+        "actors": [
+            {
+                "name": "Basil Hoffman",
+                "photo": "https://image.tmdb.org/t/p/w185/iDAK5OkF0tHs049IB858uQ0NYjX.jpg"
+            },
+            {
+                "name": "Daniel Roebuck",
+                "photo": "https://image.tmdb.org/t/p/w185/y40aX3SdvUZwE7feNq77UMg3zge.jpg"
+            },
+            {
+                "name": "Stephanie Zimbalist",
+                "photo": "https://image.tmdb.org/t/p/w185/joSbrZE5gRXiZwV7NYxn0LRuloo.jpg"
+            },
+            {
+                "name": "Madelyn Dundon",
+                "photo": "https://image.tmdb.org/t/p/w185/aZ7viNaRUOI1E4OmRht2wru10o7.jpg"
+            },
+            {
+                "name": "Duane Whitaker",
+                "photo": "https://image.tmdb.org/t/p/w185/83nCcAaMYim24qWRwJcC1ZvfgK5.jpg"
+            }
+        ],
+        "rating": 0.0,
+        "director": "Daniel Roebuck, Grace Roebuck",
+        "runtime": 108,
+        "premiered": "2023-05-02"
+    },
+    {
+        "tmdb_id": 1027618,
+        "title": "De Sombra e Silêncio",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d91d72ded931b0e77c9f2cbe53e104538346b54d",
+        "poster": "https://image.tmdb.org/t/p/w500/dOuPJKkK6ks5V435jgrANVD0OyO.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/xD0mGhKI7aYwu7Sdw9J6jSfTgqR.jpg",
+        "synopsis": "Martin era veterinário no topo de seu jogo, até um dramático incidente de mudança de vida no trabalho. Isso resultou em uma incapacidade de se comunicar com o mundo, passando o resto de seus dias em total isolamento. As mulheres na vida de Martin são as narradoras: sua esposa, sua mãe e sua colega, Jana, cujo cavalo ele estava tratando naquele dia fatídico.",
+        "studio": "DonArt production",
+        "year": 2023,
+        "genres": "Crime, Drama, Romance",
+        "actors": [
+            {
+                "name": "Jana Plodková",
+                "photo": "https://image.tmdb.org/t/p/w185/if2F6PEFYDvnLwl4o3NKqNiI7jN.jpg"
+            },
+            {
+                "name": "Marián Mitaš",
+                "photo": "https://image.tmdb.org/t/p/w185/ccCWomIf2Y1uBm8pVDZrWJF9S9T.jpg"
+            },
+            {
+                "name": "Milena Steinmasslová",
+                "photo": "https://image.tmdb.org/t/p/w185/ik9ytNGrtADBNX7W3a2M4o0SkV1.jpg"
+            },
+            {
+                "name": "Jiří Havelka",
+                "photo": "https://image.tmdb.org/t/p/w185/aJ50pwXuYzmTlcqPyjmEisWG7ED.jpg"
+            },
+            {
+                "name": "Magdaléna Borová",
+                "photo": "https://image.tmdb.org/t/p/w185/rVtlz0LfpboGQXiuWYpkR7W1wV6.jpg"
+            }
+        ],
+        "rating": 6.2,
+        "director": "Tomáš Mašín",
+        "runtime": 107,
+        "premiered": "2023-09-07"
+    },
+    {
+        "tmdb_id": 1101448,
+        "title": "Imparável",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6bd10bf629618a126e68c4d1615ce6091a9382a",
+        "poster": "https://image.tmdb.org/t/p/w500/dS7YrQ0nk5oYuYJDpEhYvBcdanl.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/m8iL42J8CuXh745BaQBa6b1mNrP.jpg",
+        "synopsis": "A inspiradora história verdadeira de Anthony Robles, que nasceu apenas com uma perna, mas com um espírito indomável e uma determinação inabalável que permitiram que superasse obstáculos e lutasse por seus sonhos.",
+        "studio": "Artists Equity",
+        "year": 2024,
+        "genres": "Drama, História",
+        "actors": [
+            {
+                "name": "Jharrel Jerome",
+                "photo": "https://image.tmdb.org/t/p/w185/rh9EcyoIhmWTXBCdgadGQaerfbA.jpg"
+            },
+            {
+                "name": "Anthony Robles",
+                "photo": "https://image.tmdb.org/t/p/w185/iujAPfLbWOy4StQVuRmJg83Bfyh.jpg"
+            },
+            {
+                "name": "Jennifer Lopez",
+                "photo": "https://image.tmdb.org/t/p/w185/icNEXl1ziSvOKsnhtydi8BZppsY.jpg"
+            },
+            {
+                "name": "Michael Peña",
+                "photo": "https://image.tmdb.org/t/p/w185/4ZwGDhtZq6emoYLPEHFCXQubPCE.jpg"
+            },
+            {
+                "name": "Don Cheadle",
+                "photo": "https://image.tmdb.org/t/p/w185/oZ1u1GmudvUGpbMfi9Hxonzp3lF.jpg"
+            }
+        ],
+        "rating": 4.0,
+        "director": "William Goldenberg",
+        "runtime": 123,
+        "premiered": "2024-12-06"
+    },
+    {
+        "tmdb_id": 895539,
+        "title": "Duelo de Espiões",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:876156cbcd1119bb99d35bd6ac1f5e84c0573d38",
+        "poster": "https://image.tmdb.org/t/p/w500/abQ2AxjfiDRcflfPX1EUe4rXy0i.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/fE3uMh8xP6ERlemgo8MGBcg91V0.jpg",
+        "synopsis": "Gordey é um talentoso espião conhecido por roubar segredos de estado. Após fortes evidências de que ele está em Moscou, uma jovem agente é enviada com a missão de capturá-lo antes que ele coloque a segurança nacional em risco.",
+        "studio": "Legio Felix",
+        "year": 2022,
+        "genres": "Aventura, Drama",
+        "actors": [
+            {
+                "name": "Олег Гаас",
+                "photo": "https://image.tmdb.org/t/p/w185/rwid1oOheWkkJZwKemi0m98qprA.jpg"
+            },
+            {
+                "name": "Екатерина Шарыкина",
+                "photo": "https://image.tmdb.org/t/p/w185/gKmtXURvn3DXRAUfN8oiJSsiqcl.jpg"
+            },
+            {
+                "name": "Денис Пьянов",
+                "photo": "https://image.tmdb.org/t/p/w185/cAo5p6lkciCbrlv5b1jIVThZpS.jpg"
+            },
+            {
+                "name": "Tatiana Babenkova",
+                "photo": "https://image.tmdb.org/t/p/w185/wFiHliqaoff7oaOzmnskigOuPiZ.jpg"
+            },
+            {
+                "name": "Филипп Янковский",
+                "photo": "https://image.tmdb.org/t/p/w185/9fuNu6Psr1ZHlND2G6Xd5m1B9yZ.jpg"
+            }
+        ],
+        "rating": 5.9,
+        "director": "Аня Мирохина, Илья Куликов",
+        "runtime": 90,
+        "premiered": "2022-12-08"
+    },
+    {
+        "tmdb_id": 1020928,
+        "title": "A Bússola Mágica",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f4d17858f0d12af4007df208ed5dbe848592e93",
+        "poster": "https://image.tmdb.org/t/p/w500/29aWzjCPOTvhglqLtSVf3MdJ81d.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/lfSyKu75brWFuZGZ5fqV45YwamA.jpg",
+        "synopsis": "Champ Brown é um garoto de 13 anos que encontra um esqueleto com um diário e uma bússola que permitem viajar no tempo.",
+        "studio": "Mercy Road Entertainment",
+        "year": 2023,
+        "genres": "Aventura, Família, Ficção científica",
+        "actors": [
+            {
+                "name": "Luke Loveless",
+                "photo": "https://image.tmdb.org/t/p/w185/fttilU3JHFQfm1TOPTOMAcmw7E9.jpg"
+            },
+            {
+                "name": "Caleb Baumann",
+                "photo": "https://image.tmdb.org/t/p/w185/kxC1YRBtyAol2pWkq4bbwTCF8jI.jpg"
+            },
+            {
+                "name": "Reagan Shumate",
+                "photo": "https://image.tmdb.org/t/p/w185/v82cwZSuZtcIL6nhjNz27ByRrS5.jpg"
+            },
+            {
+                "name": "Abby Grace Flynt",
+                "photo": null
+            },
+            {
+                "name": "Zane Stephens",
+                "photo": "https://image.tmdb.org/t/p/w185/vCL6583BeNNA4g2EIEzAFlg164C.jpg"
+            }
+        ],
+        "rating": 5.0,
+        "director": "Sandra L. Martin",
+        "runtime": 81,
+        "premiered": "2023-08-25"
+    },
     
+    {
+        "tmdb_id": 1276035,
+        "title": "Criaturas do Farol",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8358b04f96862d8eb20ca08882a67ea91e0b132",
+        "poster": "https://image.tmdb.org/t/p/w500/4AB3bHhsNBpnhMDThJP6RI0tery.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/4gwrR8kIHIkhOd79Su59uPOExyC.jpg",
+        "synopsis": "Uma tempestade faz com que uma jovem marinheira naufrague em uma ilha remota, onde ela é resgatada pelo único habitante, o faroleiro.",
+        "studio": "Desconhecido",
+        "year": 2024,
+        "genres": "Thriller",
+        "actors": [
+            {
+                "name": "Demián Bichir",
+                "photo": "https://image.tmdb.org/t/p/w185/dur9tX8tbDDJE5mSOZkuW2VDGz4.jpg"
+            },
+            {
+                "name": "Julia Goldani Telles",
+                "photo": "https://image.tmdb.org/t/p/w185/m5R44HlzFp03BvPGIBlwEbEZqSB.jpg"
+            }
+        ],
+        "rating": 10.0,
+        "director": "Roxy Shih",
+        "runtime": 96,
+        "premiered": "2024-06-08"
+    },
+    {
+        "tmdb_id": 1114894,
+        "title": "Star Trek: Seção 31",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fcfd7cb3e40396f1f4e99f8c3ff257a182f3fe7e",
+        "poster": "https://image.tmdb.org/t/p/w500/4lwW5zp8o2WZqynQtRs7jXDpQh1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/czoiFndZswfFcQxbHxWUGcSpajM.jpg",
+        "synopsis": "Philippa Georgiou é recrutada por uma misteriosa organização de inteligência dentro da Frota Estelar, a Seção 31.",
+        "studio": "Secret Hideout",
+        "year": 2025,
+        "genres": "Ficção científica, Aventura",
+        "actors": [
+            {
+                "name": "Michelle Yeoh",
+                "photo": "https://image.tmdb.org/t/p/w185/nrbHNzSMydpWK9um5VqWIFJihB5.jpg"
+            },
+            {
+                "name": "Omari Hardwick",
+                "photo": "https://image.tmdb.org/t/p/w185/acUogRPe6eyhiK33EavBk3SWGlB.jpg"
+            },
+            {
+                "name": "Sam Richardson",
+                "photo": "https://image.tmdb.org/t/p/w185/hUN7IIbegvL7aSqQI5KRWoqqJLm.jpg"
+            },
+            {
+                "name": "Kacey Rohl",
+                "photo": "https://image.tmdb.org/t/p/w185/q8GJEM0Efuz2LLeEIdXQFOAHNRL.jpg"
+            },
+            {
+                "name": "Sven Ruygrok",
+                "photo": "https://image.tmdb.org/t/p/w185/dUr3VBQQ5n2nHmxkpsOnvBPm9Ri.jpg"
+            }
+        ],
+        "rating": 7.0,
+        "director": "Olatunde Osunsanmi",
+        "runtime": 0,
+        "premiered": "2025-01-15"
+    },
+    {
+        "tmdb_id": 1185719,
+        "title": "Farol da Ilusão",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f925f7a7fa8895cb35028e9e46fb9242ee37a20",
+        "poster": "https://image.tmdb.org/t/p/w500/tv3qlr0HCeOKeHEcnojm8Rf1xaq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/jyiS3eQFQzSNlY4TRIIkTSyI1ce.jpg",
+        "synopsis": "Presa em uma ilha deserta, uma família enfrenta uma luta cruel pela sobrevivência. Mas o passado volta para assombrá-los, provocando momentos dolorosos.",
+        "studio": "Front Row Filmed Entertainment",
+        "year": 2024,
+        "genres": "Thriller, Mistério, Drama, Aventura",
+        "actors": [
+            {
+                "name": "Nadine Labaki",
+                "photo": "https://image.tmdb.org/t/p/w185/mV1JAlM4CAdzosSqZs2ch2TPKLS.jpg"
+            },
+            {
+                "name": "Ziad Bakri",
+                "photo": "https://image.tmdb.org/t/p/w185/9IM2kHo1Gr2kHtrIigFyyOHhP1r.jpg"
+            },
+            {
+                "name": "Zain Al Rafeea",
+                "photo": "https://image.tmdb.org/t/p/w185/oIy59UFCGwXJcT4SRzn1mOmLaTd.jpg"
+            },
+            {
+                "name": "Riman Al Rafeea",
+                "photo": null
+            }
+        ],
+        "rating": 10.0,
+        "director": "Matty Brown",
+        "runtime": 98,
+        "premiered": "2024-12-07"
+    },	
+	{
+        "tmdb_id": 426,
+        "title": "Um Corpo Que Cai",
+        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=5JGAQsHZj8mHW4TjpWsZ84SLMoOAzc0Hu%2BFEh64GHQjThdewA5ibCJanpTvc4M8V&expiry=VXaqZ4BpfsD2HdQGM8icLA%3D%3D&mac=c7dc524a52e9c37b04dbb78a464b38e28bc998d25397384af1af691f64495c85",
+        "poster": "https://image.tmdb.org/t/p/w500/sJkw4TwgIOL7Yf1sRp2IpFBIBjN.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/43EpcRgFbEjBejqTxAAoJRGuaEQ.jpg",
+        "synopsis": "Em São Francisco, um detetive aposentado que sofre de um terrível medo de alturas é encarregado de vigiar uma mulher com possíveis tendências suicidas, até que algo estranho acontece nesta missão.",
+        "studio": "Paramount Pictures",
+        "year": 1958,
+        "genres": "Mistério, Romance, Thriller",
+        "actors": [
+            {
+                "name": "James Stewart",
+                "photo": "https://image.tmdb.org/t/p/w185/jam9DRhOuKomlr0vUXTamPoxPdk.jpg"
+            },
+            {
+                "name": "Kim Novak",
+                "photo": "https://image.tmdb.org/t/p/w185/xvIOwqOD1BXkpFZEwzkb6aamaEL.jpg"
+            },
+            {
+                "name": "Barbara Bel Geddes",
+                "photo": "https://image.tmdb.org/t/p/w185/99XLCtElLhFY7F7WwO6W4vigrN7.jpg"
+            },
+            {
+                "name": "Tom Helmore",
+                "photo": "https://image.tmdb.org/t/p/w185/aEKwGuDjktdF13YBrEAQjC7Te2m.jpg"
+            },
+            {
+                "name": "Henry Jones",
+                "photo": "https://image.tmdb.org/t/p/w185/shJyQYEvp9P66ikDgzyGph7YguL.jpg"
+            }
+        ],
+        "rating": 8.2,
+        "director": "Alfred Hitchcock",
+        "runtime": 128,
+        "premiered": "1958-05-28"
+    },
+	{
+        "tmdb_id": 595,
+        "title": "O Sol é Para Todos",
+        "url": "magnet=",
+        "poster": "https://image.tmdb.org/t/p/w500/qIsxcjmJW7ykIHJDuB2NqJUChIZ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/wYRpVySPCC7wA28p54yAaoMT478.jpg",
+        "synopsis": "Em 1932, na pacata Maycomb (Alabama), vivem os irmãos Jem e Scout Finch, órfãos de mãe criados pela babá negra Calpurnia e o pai Atticus Finch, advogado íntegro e respeitado na cidade, que atende gratuitamente aos mais pobres. A infância dividida entre a escola e as fantasias acerca do vizinho, o “malvado” Sr. Radley, cede espaço ao contato com a discriminação quando seu pai resolve defender o negro Tom Robinson, acusado de ter estuprado uma moça branca. Gregory Peck ganhou um Oscar por sua brilhante atuação nesta versão para o cinema do romance vencedor do Prêmio Pulitzer.",
+        "studio": "Pakula-Mulligan",
+        "year": 1962,
+        "genres": "Drama",
+        "actors": [
+            {
+                "name": "Mary Badham",
+                "photo": "https://image.tmdb.org/t/p/w185/vxwDF4T03QHzjsjP2K14M0Q9RPE.jpg"
+            },
+            {
+                "name": "Gregory Peck",
+                "photo": "https://image.tmdb.org/t/p/w185/pugayYkpmD2CXY7D0aweLkDRLaf.jpg"
+            },
+            {
+                "name": "Phillip Alford",
+                "photo": "https://image.tmdb.org/t/p/w185/AiSbmpT6ayREtnTvfLVeRSGkZ0D.jpg"
+            },
+            {
+                "name": "John Megna",
+                "photo": "https://image.tmdb.org/t/p/w185/u0EkzeWqsD8CPAuoFlHX2cph98t.jpg"
+            },
+            {
+                "name": "Frank Overton",
+                "photo": "https://image.tmdb.org/t/p/w185/tWF4BTaqzdpWjwEkuFjGdmXs24Q.jpg"
+            }
+        ],
+        "rating": 8.3,
+        "director": "Robert Mulligan",
+        "runtime": 130,
+        "premiered": "1962-12-20"
+    },
+	{
+        "tmdb_id": 9277,
+        "title": "Golpe de Mestre",
+        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=ruVINwY4NwH%2F0n50CJK%2F67oVkTvdbDYEy7t7dmSRNAmvsmd6fH00IOfj%2Bl%2Fg4Tey&expiry=pSB7DtTD5AnLlW9LhP%2Flmg%3D%3D&mac=7aaa86ba5748683404cc87a463f4be73c4889a75883f9caf960392e0d9f63cfd",
+        "poster": "https://image.tmdb.org/t/p/w500/jEJ0ZucEdSe2nk6OSHFVQkxYZXG.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/1r9lH3DaSWKGyvZaoo6BF5STOk5.jpg",
+        "synopsis": "Após o assassinato de um amigo em comum, o aspirante a vigarista Johnny Hooker junta-se ao velho Henry Gondorff para se vingar de Doyle Lonnega, o cruel chefe responsável pelo crime. Hooker e Gondorff implementam um plano elaborado para que Lonnegan não descubra que está sendo enganado. O grande golpe começa a se desenrolar, mas as coisas não saem como planejaram e a destemida dupla faz improvisações de última hora.",
+        "studio": "Universal Pictures",
+        "year": 1973,
+        "genres": "Comédia, Crime, Drama",
+        "actors": [
+            {
+                "name": "Paul Newman",
+                "photo": "https://image.tmdb.org/t/p/w185/bP2fByqNR7BorsUNuD6nSm0u2vJ.jpg"
+            },
+            {
+                "name": "Robert Redford",
+                "photo": "https://image.tmdb.org/t/p/w185/68duqUh2IGMyw4uBI5pEQZGYxJB.jpg"
+            },
+            {
+                "name": "Robert Shaw",
+                "photo": "https://image.tmdb.org/t/p/w185/bU4IJ4J1mgrriRTdQ4BOemoHvtt.jpg"
+            },
+            {
+                "name": "Charles Durning",
+                "photo": "https://image.tmdb.org/t/p/w185/bozKytaYVKoIbptxkMFWepK09U5.jpg"
+            },
+            {
+                "name": "Ray Walston",
+                "photo": "https://image.tmdb.org/t/p/w185/pRVUmhdc9nxflBI5GJvokz0nPPb.jpg"
+            }
+        ],
+        "rating": 8.3,
+        "director": "George Roy Hill",
+        "runtime": 129,
+        "premiered": "1973-12-25"
+    },
+	{
+        "tmdb_id": 275,
+        "title": "Fargo: Uma Comédia de Erros",
+        "url": "magnet=",
+        "poster": "https://image.tmdb.org/t/p/w500/JrnxuijI6XCKyZaiPPrJ3TbZi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/747dgDfL5d8esobk7h4odaOFhUq.jpg",
+        "synopsis": "Jerry Lundegaard é um vendedor de carros que se endividou e está desesperado por dinheiro. Ele contrata dois bandidos para sequestrar sua própria esposa e seu sogro o ajuda a pagar o resgate. Tudo acontece como o planejado até o momento em que os bandidos atiram em um policial.",
+        "studio": "PolyGram Filmed Entertainment",
+        "year": 1996,
+        "genres": "Crime, Drama, Thriller",
+        "actors": [
+            {
+                "name": "Frances McDormand",
+                "photo": "https://image.tmdb.org/t/p/w185/r0A7hZsM1zuavTr0jN7bwmBcliR.jpg"
+            },
+            {
+                "name": "William H. Macy",
+                "photo": "https://image.tmdb.org/t/p/w185/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
+            },
+            {
+                "name": "Steve Buscemi",
+                "photo": "https://image.tmdb.org/t/p/w185/lQKdHMxfYcCBOvwRKBAxPZVNtkg.jpg"
+            },
+            {
+                "name": "Peter Stormare",
+                "photo": "https://image.tmdb.org/t/p/w185/5muzSVt66Qxc8KuVbq0phZIN9tj.jpg"
+            },
+            {
+                "name": "Harve Presnell",
+                "photo": "https://image.tmdb.org/t/p/w185/tj9Dx67GoB00i26uIzUmiu3i7Ph.jpg"
+            }
+        ],
+        "rating": 8.1,
+        "director": "Joel Coen",
+        "runtime": 98,
+        "premiered": "1996-03-08"
+    },
+	{
+        "tmdb_id": 665,
+        "title": "Ben-Hur",
+        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=38OvEmkLFB8wKUUzzjW%2B%2FyIEr8fovnFOoZ%2BSvRoNvlLhBi984rc%2BKpvGXrHUbX33&expiry=4wGaIemxet%2Bg3S6gvTquhw%3D%3D&mac=97f2691772a8758e9c22d42da06eb2af306ac3b8ab10540aed48c4f2e3eb34c7",
+        "poster": "https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/l4JLj2qa4u4g98LtP0ipkPLu0Gv.jpg",
+        "synopsis": "Na Judéia invadida pelos conquistadores romanos, o príncipe Ben-Hur tenta conduzir seu povo rumo à liberdade. Mas isso gera um conflito de interesses com o seu amigo de infância, Messala, agora um severo comandante dos exércitos de Roma. Preso, o príncipe é enviado para trabalhar como escravo, longe de suas terras, família e sua amada Esther (Haya Harareet). O pacífico Ben-Hur transforma-se em um guerreiro forte e corajoso, disposto a enfrentar seus inimigos e restabelecer a paz.",
+        "studio": "Metro-Goldwyn-Mayer",
+        "year": 1959,
+        "genres": "História, Drama, Aventura, Ação",
+        "actors": [
+            {
+                "name": "Charlton Heston",
+                "photo": "https://image.tmdb.org/t/p/w185/mJabHWZrjlFiF8U8Bbr8lSFtLX6.jpg"
+            },
+            {
+                "name": "Stephen Boyd",
+                "photo": "https://image.tmdb.org/t/p/w185/64KLW9XGjGLUl3RbtjfMRPFEDYu.jpg"
+            },
+            {
+                "name": "Hugh Griffith",
+                "photo": "https://image.tmdb.org/t/p/w185/xg3tpIaNyBmNBcJMG4Ft1uZTRVh.jpg"
+            },
+            {
+                "name": "Jack Hawkins",
+                "photo": "https://image.tmdb.org/t/p/w185/pfpe9NQrcrTrxMeU0xGsh1XRBOK.jpg"
+            },
+            {
+                "name": "Haya Harareet",
+                "photo": "https://image.tmdb.org/t/p/w185/gurUharioqQL9f9zdTXbt4fJLPE.jpg"
+            }
+        ],
+        "rating": 8.1,
+        "director": "William Wyler",
+        "runtime": 212,
+        "premiered": "1959-11-18"
+    },
+	{
+        "tmdb_id": 962,
+        "title": "Em Busca do Ouro",
+        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=AceF1O59tELTlLyKz1ft12PboDqAmdz2rGDPZvVMCP2TT550wzKt%2B%2BUIOmP9dqjj&expiry=YiGtLtC49OYW1P5F4etkwA%3D%3D&mac=4a0e1c4239787745f7b15683e07ec49b71420a730243d97aea97482f9e8fd096",
+        "poster": "https://image.tmdb.org/t/p/w500/oPUeIGsGi32v9EtEzxcHfzmQDLj.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bymglyc0M1QXHikGMkl0OclvaYV.jpg",
+        "synopsis": "No Alasca, Carlitos (Charles Chaplin) tenta a sorte como garimpeiro em meio a corrida do ouro de 1898. Lá ele conhece o gordo McKay (Mack Swaim), com quem cria bastante confusão após uma tempestade de neve, e se apaixona por uma dançarina (Georgia Hale).",
+        "studio": "Charles Chaplin Productions",
+        "year": 1925,
+        "genres": "Aventura, Comédia, Drama",
+        "actors": [
+            {
+                "name": "Charlie Chaplin",
+                "photo": "https://image.tmdb.org/t/p/w185/lRI9Ky1SMOehn04OqhYJ5hQfgIK.jpg"
+            },
+            {
+                "name": "Mack Swain",
+                "photo": "https://image.tmdb.org/t/p/w185/xYULwPUrtqZz50Eaiz3BeZP83iq.jpg"
+            },
+            {
+                "name": "Tom Murray",
+                "photo": "https://image.tmdb.org/t/p/w185/p80JeuEZeSrRpfmIYH47ARG47C4.jpg"
+            },
+            {
+                "name": "Henry Bergman",
+                "photo": "https://image.tmdb.org/t/p/w185/x41Z1XOGnBg6xnFhxunVQBmcJ36.jpg"
+            },
+            {
+                "name": "Malcolm Waite",
+                "photo": "https://image.tmdb.org/t/p/w185/t87UppsC6eXbhMrcWIgFI11jspi.jpg"
+            }
+        ],
+        "rating": 8.1,
+        "director": "Charlie Chaplin",
+        "runtime": 95,
+        "premiered": "1925-07-13"
+    }, 
     {
         "tmdb_id": 539972,
         "title": "Kraven: O Caçador",
