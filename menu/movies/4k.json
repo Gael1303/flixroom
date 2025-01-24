@@ -1,4 +1,43 @@
 [
+
+    {
+        "tmdb_id": 939243,
+        "title": "Sonic 3: O Filme",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f2bfb44a9c349ec63c9dc46a4a950619d7c134e",
+        "year": 2024,
+        "genres": "Ação, Ficção científica, Comédia, Família",
+        "actors": [
+            {
+                "name": "Jim Carrey",
+                "photo": "https://image.tmdb.org/t/p/w185/u0AqTz6Y7GHPCHINS01P7gPvDSb.jpg"
+            },
+            {
+                "name": "Ben Schwartz",
+                "photo": "https://image.tmdb.org/t/p/w185/lJVYjPj0P6uvVxNrTy4xO2645D0.jpg"
+            },
+            {
+                "name": "Keanu Reeves",
+                "photo": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+            },
+            {
+                "name": "Idris Elba",
+                "photo": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+            },
+            {
+                "name": "Colleen O'Shaughnessey",
+                "photo": "https://image.tmdb.org/t/p/w185/y3Kl5tCX1XD6uyL9wefTRbEXTwj.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/8HzA55GCjRTEC2YhPGna8Lc8qHo.jpg",
+        "rating": 7.6,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+        "director": "Jeff Fowler",
+        "studio": "Paramount Pictures",
+        "runtime": 110,
+        "premiered": "2024-12-19",
+        "synopsis": "Sonic, Knuckles e Tails se reúnem contra um novo e poderoso adversário, Shadow, um vilão misterioso com poderes diferentes de tudo que eles já enfrentaram antes. Com suas habilidades superadas em todos os sentidos, a Equipe Sonic deve buscar uma aliança improvável na esperança de parar Shadow e proteger o planeta.",
+        "popularity": 2525.912
+    },
     {
         "tmdb_id": 501170,
         "title": "Doutor Sono",
