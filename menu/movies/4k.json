@@ -1,5 +1,44 @@
 [
 
+
+    {
+        "tmdb_id": 933260,
+        "title": "A Substancia",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:508ad517d109885a6ab0d43cf568086a7d969dfc",
+        "year": 2024,
+        "genres": "Terror, Ficção científica",
+        "actors": [
+            {
+                "name": "Demi Moore",
+                "photo": "https://image.tmdb.org/t/p/w185/gPgZSodybMFBodw7nKRTALONIr2.jpg"
+            },
+            {
+                "name": "Margaret Qualley",
+                "photo": "https://image.tmdb.org/t/p/w185/jStNyMj3acpLuH48awLVLqqlyaV.jpg"
+            },
+            {
+                "name": "Dennis Quaid",
+                "photo": "https://image.tmdb.org/t/p/w185/nvkto83iFngO8jg9UpdSaEBRC8a.jpg"
+            },
+            {
+                "name": "Edward Hamilton-Clark",
+                "photo": "https://image.tmdb.org/t/p/w185/q1EWL2z2xMcbf84TpOTqGs6Csxs.jpg"
+            },
+            {
+                "name": "Gore Abrams",
+                "photo": "https://image.tmdb.org/t/p/w185/bKMTqbl0FYlzIC6aTMKQZNAhhXK.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/vWeOgzlhnP1sS23H3rzctGHB9Nb.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7h6TqPB3ESmjuVbxCxAeB1c9OB1.jpg",
+        "director": "Coralie Fargeat",
+        "studio": "Working Title Films",
+        "rating": 7.127,
+        "runtime": 140,
+        "premiered": "2024-09-07",
+        "synopsis": "Já sonhou com uma versão melhor de si mesmo? Continuará sendo você, só que melhor em todos os sentidos. Então, você deveria experimentar este novo produto: A Substância. MUDOU A MINHA VIDA.",
+        "popularity": 850.494
+    },
     {
         "tmdb_id": 939243,
         "title": "Sonic 3: O Filme",
