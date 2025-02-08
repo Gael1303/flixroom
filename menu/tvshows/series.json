@@ -2961,6 +2961,16 @@
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c0b348fa62f9db499f4dd51da5305d845d74385"
                     }
                 ]
+            },
+            {
+                "title": "3ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
+                "episodios": [
+                    {
+                        "title": "3x01 - 02 e 03",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38fb0518a33f820de2cf5e6d40b4ecee778f7d3d"
+                    }
+                ]
             }
         ]
     },
@@ -8468,8 +8478,20 @@
                 "poster": "https://image.tmdb.org/t/p/original/lmEicQsG0X99mDGoBOfMzJRXbWO.jpg",
                 "episodios": [
                     {
-                        "title": "Sintonia: Temporada 3",
+                        "title": "Sintonia: Temporada 4",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cd021850898c979df2420aa44839b91a10aee85"
+                    }
+                ]
+            },
+            {
+                "title": "5ª Temporada",
+                "rate": 9.7,
+                "sinopse": "Doni, Nando e Rita enfrentam novos dilemas morais na vida adulta. Será que as convicções de cada um vão separar essa turma ou a amizade é mais forte que isso?",
+                "poster": "https://image.tmdb.org/t/p/original/jXbyHoWRibTScFfKT6sfllct2vy.jpg",
+                "episodios": [
+                    {
+                        "title": "Sintonia: Temporada 5",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01a14133b156ff45028108ce636f996d63f07c5f"
                     }
                 ]
             }
