@@ -1,5 +1,655 @@
 [
 
+     {
+        "tmdb_id": 1099413,
+        "title": "O Auto da Compadecida 2",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03bca2d4f374e55059e94128b2a3b628cb153449",
+        "poster": "https://image.tmdb.org/t/p/w500/aOiXGcZS6Oqknbw13cBdwO3hWij.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/90s8Bj0lWL06PW7Whncib6TuHgf.jpg",
+        "synopsis": "Após 20 anos desaparecido, João Grilo retorna para a cidade de Taperoá e reencontra com seu fiel escudeiro Chicó, que carrega adiante a história de que Nossa Senhora operou um milagre e ressuscitou o amigo. João Grilo, então, agora é considerado uma espécie de santo e seu status de celebridade chama a atenção especial dos dois políticos mais poderosos da região, querendo utilizá-lo como cabo eleitoral. Vendo toda essa comoção como uma oportunidade para finalmente enriquecer, João Grilo organiza um de seus famosos trambiques. Pena que nada sai como o planejado e o passado retorna e se repete para o sertanejo.",
+        "studio": "H2O Films",
+        "year": 2024,
+        "genres": "Comédia, Drama",
+        "actors": [
+            {
+                "name": "Matheus Nachtergaele",
+                "photo": "https://image.tmdb.org/t/p/w185/zgTT5AP7NYa2hN0jUqHIHkNyp2v.jpg"
+            },
+            {
+                "name": "Selton Mello",
+                "photo": "https://image.tmdb.org/t/p/w185/sd9pWha3ThWyX5DPsVnZVPKSJ9W.jpg"
+            },
+            {
+                "name": "Virginia Cavendish",
+                "photo": "https://image.tmdb.org/t/p/w185/kMol9CsRBTiQ1RPFL2IrTPBHXlC.jpg"
+            },
+            {
+                "name": "Taís Araújo",
+                "photo": "https://image.tmdb.org/t/p/w185/oh0pAAIxarIyPHROQq9HIYJAcQc.jpg"
+            },
+            {
+                "name": "Enrique Díaz",
+                "photo": "https://image.tmdb.org/t/p/w185/lh70A9A1oPekNzMQ1prBkhV8Gqg.jpg"
+            }
+        ],
+        "rating": 7.8,
+        "director": "Guel Arraes, Flávia Lacerda",
+        "runtime": 114,
+        "premiered": "2024-12-25"
+    },
+    {
+        "tmdb_id": 912480,
+        "title": "Red Rooms: Obsessao Doentia",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03bca2d4f374e55059e94128b2a3b628cb153449",
+        "poster": "https://image.tmdb.org/t/p/w500/7OGEqw9mEAn7SwexqQ1OAAH9T7w.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/83g3gkDw6oc2mxkyB8DSoXQZJHl.jpg",
+        "synopsis": "O caso de destaque do serial killer Ludovic Chevalier acaba de ser julgado e Kelly-Anne está obcecada. Quando a realidade se confunde com suas fantasias mórbidas, ela segue um caminho sombrio em busca da última peça do quebra-cabeça do caso.",
+        "studio": "Némésis Films",
+        "year": 2023,
+        "genres": "Drama, Crime, Thriller",
+        "actors": [
+            {
+                "name": "Juliette Gariépy",
+                "photo": "https://image.tmdb.org/t/p/w185/8VKm8ykUiuE58AG7rFtf9C05AFS.jpg"
+            },
+            {
+                "name": "Laurie Babin",
+                "photo": "https://image.tmdb.org/t/p/w185/bOcGYjSu9sMGoeOgWN2Rjwrlylo.jpg"
+            },
+            {
+                "name": "Élisabeth Locas",
+                "photo": "https://image.tmdb.org/t/p/w185/w81zGfP29nbMBu4UYY0TFhZ9MD3.jpg"
+            },
+            {
+                "name": "Maxwell McCabe-Lokos",
+                "photo": "https://image.tmdb.org/t/p/w185/c8iSpCzazK7A3LiFas7RWzDLMMV.jpg"
+            },
+            {
+                "name": "Natalie Tannous",
+                "photo": "https://image.tmdb.org/t/p/w185/3uaRbS1m1OgvqfLZF2OeAcY3oXi.jpg"
+            }
+        ],
+        "rating": 7.1,
+        "director": "Pascal Plante",
+        "runtime": 118,
+        "premiered": "2023-08-11"
+    },
+    {
+        "tmdb_id": 426063,
+        "title": "Nosferatu",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dafcea2c439f2109f13f1bb67e68022cc78b65c7",
+        "poster": "https://image.tmdb.org/t/p/w500/fbkUfzmVzEBFSt6p7VigknREIJT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/h7r6LZ32dgLwtwSW3CxoWIYD9pr.jpg",
+        "synopsis": "Um conto gótico de obsessão entre uma jovem assombrada na Alemanha do século XIX e o antigo vampiro da Transilvânia que a persegue, trazendo consigo um horror incalculável.",
+        "studio": "Focus Features",
+        "year": 2024,
+        "genres": "Terror, Fantasia",
+        "actors": [
+            {
+                "name": "Lily-Rose Depp",
+                "photo": "https://image.tmdb.org/t/p/w185/kWSRS0M5uv0KlFJUvH6Rqm2g70B.jpg"
+            },
+            {
+                "name": "Nicholas Hoult",
+                "photo": "https://image.tmdb.org/t/p/w185/laeAYQVBV9U3DkJ1B4Cn1XhpT8P.jpg"
+            },
+            {
+                "name": "Bill Skarsgård",
+                "photo": "https://image.tmdb.org/t/p/w185/wGQidITqyDl4Igmq9TCQjRpegsk.jpg"
+            },
+            {
+                "name": "Aaron Taylor-Johnson",
+                "photo": "https://image.tmdb.org/t/p/w185/pFtHhih2XEaFaD3qOFyQW6q83br.jpg"
+            },
+            {
+                "name": "Willem Dafoe",
+                "photo": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+            }
+        ],
+        "rating": 6.7,
+        "director": "Robert Eggers",
+        "runtime": 133,
+        "premiered": "2024-12-25"
+    },
+    {
+        "tmdb_id": 1247019,
+        "title": "Quando a Morte Sussurra 2",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:439e81b72e51863b7d039ea2051ef42af4495018",
+        "poster": "https://image.tmdb.org/t/p/w500/9G0czCAjBlZvrfmNhTPRyA14Ktj.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/vfkzNcVzTRCq3C2jYIZtIjSdwf7.jpg",
+        "synopsis": "Em um mundo envolto em escuridão, uma força implacável busca retribuição, sem se deixar abater por limites ou moralidade.",
+        "studio": "M Studio",
+        "year": 2024,
+        "genres": "Terror, Thriller, Ação",
+        "actors": [
+            {
+                "name": "ณเดชน์ คูกิมิยะ",
+                "photo": "https://image.tmdb.org/t/p/w185/w58HrktpHZ7UVGY5SKoJxFkitCy.jpg"
+            },
+            {
+                "name": "องอาจ เจียมเจริญพรกุล",
+                "photo": "https://image.tmdb.org/t/p/w185/i3e4IuDngcByoViRZ8HMwNMNdRw.jpg"
+            },
+            {
+                "name": "กาจบัณฑิต ใจดี",
+                "photo": "https://image.tmdb.org/t/p/w185/4XCjfePa5LYyYoUjWfwsODxszT0.jpg"
+            },
+            {
+                "name": "พีระกฤตย์ พชรบุณยเกียรติ",
+                "photo": "https://image.tmdb.org/t/p/w185/tr7Lmmqp1iRKlSaoJCyec0OZ1sf.jpg"
+            },
+            {
+                "name": "Denise Jelilcha Kapaun",
+                "photo": "https://image.tmdb.org/t/p/w185/d7rfzM7mmsHNKor8dXJ2f81I9qR.jpg"
+            }
+        ],
+        "rating": 7.5,
+        "director": "Taweewat Wantha",
+        "runtime": 112,
+        "premiered": "2024-10-10"
+    },
+    {
+        "tmdb_id": 1084376,
+        "title": "Motel Melati",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01dec790a0e8d45aa562383984e7f6c877262f23",
+        "poster": "https://image.tmdb.org/t/p/w500/7A3FqDq22gx9Z9TuWFPGh5qqEcu.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/eQ2Rk5FxZRqtEuXAZdqcKb4j51G.jpg",
+        "synopsis": "O Motel Melati era originalmente um antigo casarão colonial holandês, transformado em uma pousada. A casa pertenceu a um médico local chamado Kusno, que realizava secretamente experimentos desumanos em cadáveres. Após a chegada de Melati, uma jovem da vila com conhecimento oculto que não acredita em folclore, revela-se que a casa e seus habitantes são amaldiçoados pelos espíritos dos mortos. Ao aceitar a maldição da sombra, Melati ganha vida eterna e espera ressuscitar seus filhos.",
+        "studio": "Infinite Studios",
+        "year": 2023,
+        "genres": "Terror",
+        "actors": [
+            {
+                "name": "Alexandra Gottardo",
+                "photo": "https://image.tmdb.org/t/p/w185/annWGBK66lhdx1q9YAirilIQqvi.jpg"
+            },
+            {
+                "name": "Kiki Narendra",
+                "photo": "https://image.tmdb.org/t/p/w185/5NQPn3HukEpRic0W9SSpz89X1ZO.jpg"
+            },
+            {
+                "name": "Samuel Panjaitan",
+                "photo": null
+            },
+            {
+                "name": "Fandy Christian",
+                "photo": "https://image.tmdb.org/t/p/w185/wMWlWOYoSm8NLWiwQsuEXzeAb10.jpg"
+            },
+            {
+                "name": "Dwi Sasono",
+                "photo": "https://image.tmdb.org/t/p/w185/3l5aJxHeDI2wMajtZJEzLXRFPES.jpg"
+            }
+        ],
+        "rating": 5.0,
+        "director": "Billy Christian, Mike Wiluan",
+        "runtime": 92,
+        "premiered": "2023-03-16"
+    },
+    {
+        "tmdb_id": 1082195,
+        "title": "A Ordem",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20c1f81d33b7ee20158da5b18d6df7bc144a5092",
+        "poster": "https://image.tmdb.org/t/p/w500/r6ldDGMzdWErm3auCuKSmsXL125.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/aMbKYfaexixvsBZKc5whYO7yibR.jpg",
+        "synopsis": "Em 1983, uma série de assaltos a banco cada vez mais violentos, operações de falsificação e assaltos a carros blindados assustam as comunidades em todo o Noroeste do Pacífico. Enquanto os perplexos agentes da lei lutam por respostas, um solitário investigador do FBI acredita que os crimes não são obra de criminosos tradicionais com motivação financeira, mas de um grupo de perigosos terroristas domésticos, inspirados por um líder radical e carismático.",
+        "studio": "Riff Raff Entertainment",
+        "year": 2024,
+        "genres": "Thriller, Crime, Drama",
+        "actors": [
+            {
+                "name": "Jude Law",
+                "photo": "https://image.tmdb.org/t/p/w185/nBGVXLHsNzlG7ouoh4bDggaGKN1.jpg"
+            },
+            {
+                "name": "Nicholas Hoult",
+                "photo": "https://image.tmdb.org/t/p/w185/laeAYQVBV9U3DkJ1B4Cn1XhpT8P.jpg"
+            },
+            {
+                "name": "Tye Sheridan",
+                "photo": "https://image.tmdb.org/t/p/w185/d5ZS2fjqC98cIGkhEGX0fRYhku4.jpg"
+            },
+            {
+                "name": "Jurnee Smollett",
+                "photo": "https://image.tmdb.org/t/p/w185/ohvV70Ar4rlL5I3WzxQGtRjpsgS.jpg"
+            },
+            {
+                "name": "Alison Oliver",
+                "photo": "https://image.tmdb.org/t/p/w185/ouHdcq6Tgedx4UnJuT3liROzomq.jpg"
+            }
+        ],
+        "rating": 6.7,
+        "director": "Justin Kurzel",
+        "runtime": 116,
+        "premiered": "2024-12-05"
+    },
+    {
+        "tmdb_id": 708510,
+        "title": "Missao Extrema",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a09a7ba24f750b76630085282eb7ef2d03b86a0",
+        "poster": "https://image.tmdb.org/t/p/w500/nTvoq0oIlIQwid6US86u1zOGkcZ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hgKa9JSPucZ9ONSu2gCo03NP2ws.jpg",
+        "synopsis": "Bangladesh está sob a ameaça de um inimigo invisível. Nabid Al Shahriar é o policial da unidade de elite da Polícia Metropolitana da capital, responsável por localizar e acabar com um grupo terrorista antes que seja tarde demais.",
+        "studio": "Cop Creation",
+        "year": 2021,
+        "genres": "Ação, Crime, Drama",
+        "actors": [
+            {
+                "name": "Arifin Shuvo",
+                "photo": "https://image.tmdb.org/t/p/w185/4GRh5RiWA6RMKvb7oUodiPtgvX8.jpg"
+            },
+            {
+                "name": "Jannatul Ferdous Oishee",
+                "photo": "https://image.tmdb.org/t/p/w185/5XoNLtOjuVKx4D4EOGH5xdhy7Gk.jpg"
+            },
+            {
+                "name": "Manoj Kumar Pramanik",
+                "photo": "https://image.tmdb.org/t/p/w185/kQkHKh7pNHoypG5HjVL0qcGTinv.jpg"
+            },
+            {
+                "name": "Taskeen Rahman",
+                "photo": "https://image.tmdb.org/t/p/w185/esxuWQ9eTW0edPLAyqZ7ss9HegS.jpg"
+            },
+            {
+                "name": "Misha Sawdagor",
+                "photo": "https://image.tmdb.org/t/p/w185/jjWPX09il5nP3QlNOSXwONVnj2A.jpg"
+            }
+        ],
+        "rating": 5.0,
+        "director": "Faisal Ahmed, Sunny Sanwar",
+        "runtime": 0,
+        "premiered": "2021-12-03"
+    },
+    {
+        "tmdb_id": 1096022,
+        "title": "Um Culto das Trevas",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53423245eeeee18019d8bc75b0c40169a70560f1",
+        "poster": "https://image.tmdb.org/t/p/w500/8XyNfKA1QWrjRWTHnIiTsa00cpz.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/fZyVNbfowc0nI0KAIFWLQ0m5Muj.jpg",
+        "synopsis": "Will se tornou um homem amargurado após perder a esposa em um acidente de carro. Mas ele precisará superar o luto se quiser enfrentar um sinistro culto que tomou conta da cidade que ele e sua esposa tanto amavam.",
+        "studio": "Desconhecido",
+        "year": 2022,
+        "genres": "Terror",
+        "actors": [
+            {
+                "name": "Sarah Santizo",
+                "photo": null
+            },
+            {
+                "name": "Amy Zubieta",
+                "photo": null
+            }
+        ],
+        "rating": 6.6,
+        "director": "James Coleman, Vincent Coleman",
+        "runtime": 103,
+        "premiered": "2022-11-05"
+    },
+    {
+        "tmdb_id": 933092,
+        "title": "As Aventuras Sexuais de um Casal em Crise",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a21f1fc0ae5ad8dd49783a5944bd24262d275e1d",
+        "poster": "https://image.tmdb.org/t/p/w500/tCJ2QZumd2M7umHuHGAXAFifQs9.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bTZzc6vvN2KnAuNJ4xOlb6yPkNB.jpg",
+        "synopsis": "Emma e Josh são um casal que começa a sentir a pressão da vida adulta. Após enviarem suas filhas para um acampamento, eles encontram a oportunidade perfeita para embarcar em uma série de aventuras sexuais e apimentar sua relação.",
+        "studio": "Banana-Moon Sky Films",
+        "year": 2023,
+        "genres": "Comédia, Romance, Drama",
+        "actors": [
+            {
+                "name": "Emily Hampshire",
+                "photo": "https://image.tmdb.org/t/p/w185/kXb6SAUOACHN9F3M4rkxF7BsJGN.jpg"
+            },
+            {
+                "name": "Jonas Chernick",
+                "photo": "https://image.tmdb.org/t/p/w185/bOS2xZVOZ2QL4epp5SDUkIMxPPT.jpg"
+            },
+            {
+                "name": "Gray Powell",
+                "photo": "https://image.tmdb.org/t/p/w185/4YDKZTlKbAoPHEOt4Z4rZAFHaIQ.jpg"
+            },
+            {
+                "name": "Lily Gao",
+                "photo": "https://image.tmdb.org/t/p/w185/qCNsTSz3g70M9PNaNxWw5uRepQy.jpg"
+            },
+            {
+                "name": "Melanie Scrofano",
+                "photo": "https://image.tmdb.org/t/p/w185/nND2gShr46cB6TYg5bQ80KtDgMB.jpg"
+            }
+        ],
+        "rating": 5.8,
+        "director": "Sean Garrity",
+        "runtime": 87,
+        "premiered": "2023-04-28"
+    },
+    {
+        "tmdb_id": 1029918,
+        "title": "Luta pela Sobrevivencia",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df3e8e04c50ca6e85e92cc386f54f5ab58ff0cff",
+        "poster": "https://image.tmdb.org/t/p/w500/x6JEK2rD0emPpk1N0MxoNuyoVdp.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ybStAsP1qfu5Xc8nQ8axkGZPrs3.jpg",
+        "synopsis": "Megan é uma policial que decide passar o fim de semana acampando junto de seu marido e um casal de amigos. Mas após presenciarem o assassinato de uma testemunha pelo xerife local, eles acabam sendo perseguidos por uma milícia armada.",
+        "studio": "Digital Guerrilla Cinema",
+        "year": 2022,
+        "genres": "Ação, Thriller",
+        "actors": [
+            {
+                "name": "Alexandra Faye Sadeghian",
+                "photo": "https://image.tmdb.org/t/p/w185/oQJ05ZjRMn5LoRLgCmODndOBzxY.jpg"
+            },
+            {
+                "name": "Bill Kennedy",
+                "photo": null
+            },
+            {
+                "name": "Lynn Lowry",
+                "photo": "https://image.tmdb.org/t/p/w185/2G2z7AYgkZf35aF946BSSeJfOfp.jpg"
+            },
+            {
+                "name": "Peter Johnson",
+                "photo": "https://image.tmdb.org/t/p/w185/fuU02ywEAv0atPJAeLUujzGdIcj.jpg"
+            },
+            {
+                "name": "Nicole Colón",
+                "photo": null
+            }
+        ],
+        "rating": 6.5,
+        "director": "Greg Lamberson",
+        "runtime": 91,
+        "premiered": "2022-08-19"
+    },
+    {
+        "tmdb_id": 1089789,
+        "title": "Demonios do Passado",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1391173723cc4c0ad2806dbe8155195a0fc8c8e",
+        "poster": "https://image.tmdb.org/t/p/w500/sNd82Y9zto0OIgpghOOe15g8Pbi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/aWRPWUGoy27cDBTlL5IptBLYMoj.jpg",
+        "synopsis": "Após a morte de seu pai, Micaela decide passar uns dias na casa de campo de sua família para tentar recuperar a relação perdida com sua filha. Mas quando começa a lembrar de episódios de sua infância, ela é obrigada a enfrentar antigos demônios de seu passado.",
+        "studio": "Glitter and Doom GmbH & Co KG",
+        "year": 2023,
+        "genres": "Terror",
+        "actors": [
+            {
+                "name": "Cornelia Ivancan",
+                "photo": "https://image.tmdb.org/t/p/w185/u4KCzlgO2BONFfYQIt9SaAQpIPk.jpg"
+            },
+            {
+                "name": "Lola Herbst",
+                "photo": null
+            },
+            {
+                "name": "Lukas Turtur",
+                "photo": "https://image.tmdb.org/t/p/w185/4nCKcPAWlNcRTqgSXamLEeMhaZv.jpg"
+            },
+            {
+                "name": "Heinz Trixner",
+                "photo": "https://image.tmdb.org/t/p/w185/97GpnArqCCG96lQghG0muaWyTzt.jpg"
+            },
+            {
+                "name": "Inge Maux",
+                "photo": "https://image.tmdb.org/t/p/w185/4OQ1xazrCgSKLVMk0P2jNg5Wzgx.jpg"
+            }
+        ],
+        "rating": 5.6,
+        "director": "Achmed Abdel-Salam",
+        "runtime": 0,
+        "premiered": "2023-04-14"
+    },
+    {
+        "tmdb_id": 1087388,
+        "title": "Sting: Aranha Assassina",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:379e496a25bd19dcc30748cdabf1a73b56504cab",
+        "poster": "https://image.tmdb.org/t/p/w500/lhaUoKVBAWzAcKeHtv58Dff4BIh.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/k37Ccgu05Am1xxgN5GaW0HX9Kkl.jpg",
+        "synopsis": "Depois de criar em segredo uma aranha incrivelmente talentosa, Charlotte, de 12 anos, deve enfrentar os fatos sobre seu animal de estimação - e lutar pela sobrevivência de sua família.",
+        "studio": "See Pictures",
+        "year": 2024,
+        "genres": "Terror, Ficção científica, Thriller",
+        "actors": [
+            {
+                "name": "Alyla Browne",
+                "photo": "https://image.tmdb.org/t/p/w185/tcAQAzqk1z0PsVXqi8HODOVPQoY.jpg"
+            },
+            {
+                "name": "Ryan Corr",
+                "photo": "https://image.tmdb.org/t/p/w185/iVV9HFbI562kqMOkvw0js7nzoK8.jpg"
+            },
+            {
+                "name": "Penelope Mitchell",
+                "photo": "https://image.tmdb.org/t/p/w185/lGXfmQsOp0QWasXOG8hHHVhMbG6.jpg"
+            },
+            {
+                "name": "Robyn Nevin",
+                "photo": "https://image.tmdb.org/t/p/w185/kSj8W81HQLkMXkzkIQm6l7zgB8F.jpg"
+            },
+            {
+                "name": "Noni Hazlehurst",
+                "photo": "https://image.tmdb.org/t/p/w185/yFWx4q5vr3AaSRzeKRI4uZtP2dz.jpg"
+            }
+        ],
+        "rating": 6.227,
+        "director": "Kiah Roache-Turner",
+        "runtime": 92,
+        "premiered": "2024-04-12"
+    },
+    {
+        "tmdb_id": 1236419,
+        "title": "Peça por Peça",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f3342dbba3e6603015c91b65cf5d8c05a4f629d",
+        "poster": "https://image.tmdb.org/t/p/w500/9xSjP8B0iZHRzvrtKcYDkaalomS.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/m7zJtRPqQcIR6JhClUmKoxSVQUa.jpg",
+        "synopsis": "Os blocos LEGO contam a história de vida do cantor, compositor e produtor musical Pharrell Williams, desde sua infância na Virgínia até seu sucesso nas indústrias da música e da moda.",
+        "studio": "Focus Features",
+        "year": 2024,
+        "genres": "Animação, Música, Documentário",
+        "actors": [
+            {
+                "name": "Pharrell Williams",
+                "photo": "https://image.tmdb.org/t/p/w185/3VdAd4rnxWFvcnBL7aEUVWxEH6V.jpg"
+            },
+            {
+                "name": "Chad Hugo",
+                "photo": "https://image.tmdb.org/t/p/w185/kfQuMaaBaRV23l4OdOBsvl1XLv1.jpg"
+            },
+            {
+                "name": "Gwen Stefani",
+                "photo": "https://image.tmdb.org/t/p/w185/pZDg9B0SFPCzfPCgYDKfROFzsBP.jpg"
+            },
+            {
+                "name": "Kendrick Lamar",
+                "photo": "https://image.tmdb.org/t/p/w185/e7aspyQQfmdkUoR3gqPy7hbtDnk.jpg"
+            },
+            {
+                "name": "Timbaland",
+                "photo": "https://image.tmdb.org/t/p/w185/5BdSJzxnajEWsME9onM9KScgqGY.jpg"
+            }
+        ],
+        "rating": 7.6,
+        "director": "Morgan Neville",
+        "runtime": 94,
+        "premiered": "2024-10-10"
+    },
+    {
+        "tmdb_id": 1212142,
+        "title": "Mais ou Menos Grávida",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b402031cef378ea7cf23498382e72a3bc74f94c0",
+        "poster": "https://image.tmdb.org/t/p/w500/qh4H7H0XYv9TJ0ZSFsOc64NUG1W.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hZSOdJFLECTBO8PpYkVI3rPsY2D.jpg",
+        "synopsis": "Lainy planeja se casar e formar uma família. Mas quando tudo dá errado, ela coloca uma barriga falsa, inventa uma mentira e se apaixona pelo homem de seus sonhos.",
+        "studio": "Happy Madison Productions",
+        "year": 2025,
+        "genres": "Comédia, Romance",
+        "actors": [
+            {
+                "name": "Amy Schumer",
+                "photo": "https://image.tmdb.org/t/p/w185/saXAIob0JOf8B4Z9v2pgzEHV8wb.jpg"
+            },
+            {
+                "name": "Jillian Bell",
+                "photo": "https://image.tmdb.org/t/p/w185/v3oJlWGjdV3aHNXtGjWea3X1Tov.jpg"
+            },
+            {
+                "name": "Brianne Howey",
+                "photo": "https://image.tmdb.org/t/p/w185/5TMOHWjWoK5xhzIgQkIGzpQ3cM7.jpg"
+            },
+            {
+                "name": "Will Forte",
+                "photo": "https://image.tmdb.org/t/p/w185/kphnirb7YggSVEhGI47kACxaIJQ.jpg"
+            },
+            {
+                "name": "Lizze Broadway",
+                "photo": "https://image.tmdb.org/t/p/w185/4U14Q69wgdxJX4bSJO0VKI7wYFv.jpg"
+            }
+        ],
+        "rating": 5.4,
+        "director": "Tyler Spindel",
+        "runtime": 100,
+        "premiered": "2025-02-04"
+    },
+    {
+        "tmdb_id": 1337997,
+        "title": "Anuja",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a8f8fee423f506426e0a653f559da6aa022a563",
+        "poster": "https://image.tmdb.org/t/p/w500/84YVJuVaJ0tlo244eRUTNdIe9uL.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/vn69GVdaQ00SGs0i18xhMkI5oo1.jpg",
+        "synopsis": "ANUJA conta a história de uma menina talentosa de nove anos, ao lado de sua irmã Palak, enquanto trabalham em uma fábrica de roupas de beco. Quando um professor oferece a Anuja a chance de frequentar um internato de elite, as irmãs devem enfrentar desafios que testam sua resiliência e vínculo, culminando em uma decisão enfrentada por inúmeras meninas em todo o mundo.",
+        "studio": "Shine Global",
+        "year": 2024,
+        "genres": "Drama",
+        "actors": [
+            {
+                "name": "Sajda Pathan",
+                "photo": "https://image.tmdb.org/t/p/w185/rlTKNjaIVA5M4FH6uegqCibLMVV.jpg"
+            },
+            {
+                "name": "Ananya Shanbhag",
+                "photo": "https://image.tmdb.org/t/p/w185/ydP1dVwoMeD5AKELD0NLG0iJ0s5.jpg"
+            },
+            {
+                "name": "नागेश भोंसले",
+                "photo": "https://image.tmdb.org/t/p/w185/iGtKPbzBJBZKabNNklpgS7mvOhA.jpg"
+            },
+            {
+                "name": "Gulshan Walia",
+                "photo": null
+            }
+        ],
+        "rating": 7.056,
+        "director": "Adam J. Graves",
+        "runtime": 23,
+        "premiered": "2024-08-17"
+    },
+    {
+        "tmdb_id": 978008,
+        "title": "Consentimento",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f788f09f0627c3863698d3d4ba12efa13c301f9",
+        "poster": "https://image.tmdb.org/t/p/w500/kb5L9DbZTGeRnsrBrVD5MXlWNWG.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/eJbsPBFeVwqezs69C0OJOFNDnpQ.jpg",
+        "synopsis": "Após escapar de um relacionamento abusivo, uma mulher vai até a delegacia para dar queixa do seu ex-marido por estupro. Ela descobre que é muito difícil provar estupro por cônjuge e verá que sua luta está apenas começando.",
+        "studio": "Elephant",
+        "year": 2022,
+        "genres": "Drama, Cinema TV",
+        "actors": [
+            {
+                "name": "Caroline Anglade",
+                "photo": "https://image.tmdb.org/t/p/w185/4tyUsgfkUih5CU8uoIeK2wYvEcH.jpg"
+            },
+            {
+                "name": "Clovis Cornillac",
+                "photo": "https://image.tmdb.org/t/p/w185/8wokcSilL7u4V8aKcagI7elKsgn.jpg"
+            },
+            {
+                "name": "Noam Halegua",
+                "photo": null
+            },
+            {
+                "name": "Alice David",
+                "photo": "https://image.tmdb.org/t/p/w185/yKFdjs5mv7kmGM96YobSzWVRbPZ.jpg"
+            },
+            {
+                "name": "Samira Lachhab",
+                "photo": "https://image.tmdb.org/t/p/w185/wzlDQ5c98NrscrjH0GJvBLm92b1.jpg"
+            }
+        ],
+        "rating": 6.2,
+        "director": "Jérôme Cornuau",
+        "runtime": 91,
+        "premiered": "2022-11-16"
+    },
+    {
+        "tmdb_id": 796353,
+        "title": "Aqueles Que Se Vao",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f80e1833a4d84ee503645d181532c744d4109ff9",
+        "poster": "https://image.tmdb.org/t/p/w500/xPmn7OTBHgjuZeO8EkGJJxv2OMv.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3ydfVzkiwBsSSkaSjloIv77B7Oa.jpg",
+        "synopsis": "Depois que Max e Avery se encontram em um aplicativo de rede social para um primeiro encontro, eles acabam em uma casa assombrada para perceber que o trauma que compartilham pode salvá-los ou se transformar em um pesadelo inesquecível.",
+        "studio": "SIE Films",
+        "year": 2022,
+        "genres": "Terror, Drama",
+        "actors": [
+            {
+                "name": "Booboo Stewart",
+                "photo": "https://image.tmdb.org/t/p/w185/xldPsFq9oVT7rH3Bs6LvlA8N5cn.jpg"
+            },
+            {
+                "name": "Scarlett Sperduto",
+                "photo": "https://image.tmdb.org/t/p/w185/5xaOFyhYpWwLdhWWBJoKXEWMDaN.jpg"
+            },
+            {
+                "name": "Grant Morningstar",
+                "photo": "https://image.tmdb.org/t/p/w185/6MSBJwE9zXDHTpNhhwHwSMvZupD.jpg"
+            },
+            {
+                "name": "Bryson JonSteele",
+                "photo": "https://image.tmdb.org/t/p/w185/feTFmvwffx7ZJGyUwHxZ0mf1AhJ.jpg"
+            },
+            {
+                "name": "Devin Keaton",
+                "photo": null
+            }
+        ],
+        "rating": 4.5,
+        "director": "Robert Rippberger",
+        "runtime": 92,
+        "premiered": "2022-02-11"
+    },
+    {
+        "tmdb_id": 636279,
+        "title": "Bogotá: A Cidade dos Sonhos Perdidos",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de9b07e158e1a204147209dc2a456ddadbf86fd5",
+        "poster": "https://image.tmdb.org/t/p/w500/ht9LiXOHBvDkvTQl9sAwllOsF81.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zDn58IGLtNxDrEnEkO7JM814HiF.jpg",
+        "synopsis": "Em busca de uma vida melhor, um jovem coreano se muda para Bogotá e se envolve no submundo do crime, arriscando tudo pela chance de alcançar o sucesso.",
+        "studio": "Watermelon Pictures",
+        "year": 2024,
+        "genres": "Thriller, Crime, Drama",
+        "actors": [
+            {
+                "name": "Song Joong-ki",
+                "photo": "https://image.tmdb.org/t/p/w185/kgjb5OppOVTh5tz3hhnfDVnTvDv.jpg"
+            },
+            {
+                "name": "이희준",
+                "photo": "https://image.tmdb.org/t/p/w185/4slyXnHbKgzmeyJNetBSORgDDEF.jpg"
+            },
+            {
+                "name": "권해효",
+                "photo": "https://image.tmdb.org/t/p/w185/3sCMSQVdY2mqYYq3jj4u9JWRoTt.jpg"
+            },
+            {
+                "name": "조현철",
+                "photo": "https://image.tmdb.org/t/p/w185/i1yEjtwITyedbFCealmBfuaAn3M.jpg"
+            },
+            {
+                "name": "박지환",
+                "photo": "https://image.tmdb.org/t/p/w185/yCxBKivLmLaoziCveVbo89aW0zW.jpg"
+            }
+        ],
+        "rating": 7.4,
+        "director": "Kim Seong-je",
+        "runtime": 109,
+        "premiered": "2024-12-31"
+    },	
     {
         "tmdb_id": 1084736,
         "title": "O Conde de Monte Cristo",
