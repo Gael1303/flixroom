@@ -1,5 +1,31 @@
 [
     {
+        "title": "O Caso Evandro",
+        "rate": 9.1,
+        "classification": "16",
+        "year": 2021,
+        "aired": "13/05/2021",
+        "sinopse": "A série conta a história real de Evandro Ramos Caetano, uma criança de 6 anos de idade que desapareceu em abril de 1992, no litoral do Paraná. O corpo do garoto foi encontrado pouco tempo depois sem as mãos, cabelos e vísceras e um grupo confirmou que usou a criança em um ritual macabro. O caso na época ficou conhecido como “As Bruxas de Guaratuba”. Dois episódios semanais toda quinta-feira.",
+        "poster": "https://image.tmdb.org/t/p/original/90xXYiJ8BxCVsJkt3r8b0KVFZaM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/AhJ0DZavpUUduWvU1q9R07dpTOW.jpg",
+        "studio": "Globoplay",
+        "genres": "Documentário, Crime",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 0.0,
+                "sinopse": "A história do desaparecimento de um menino no Paraná e da investigação do caso – com uma reviravolta original de arrepiar.",
+                "poster": "",
+                "episodios": [
+                    {
+                        "title": "O Caso Evandro: Temporada 1",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a75c4a6e0bf3737a4246b9ab69003a8262c2d71"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "title": "Breaking Bad: A Química do Mal",
         "rate": 8.917,
         "year": 2008,
@@ -5863,6 +5889,92 @@
         ]
     },
     {
+        "title": "Grimm: Contos de Terror",
+        "rate": 8.3,
+        "classification": "16",
+        "year": 2011,
+        "aired": "28/10/2011",
+        "sinopse": "Nick Burkhardt é um detetive de homicídios que recebe novas responsabilidades após descobrir que é descendente de Grimm, uma sociedade secreta. O seu principal objetivo é conseguir encontrar um ponto de equilíbrio entre a vida real e a mitologia. A nova rotina traz desafios e perigos, sobretudo à noiva de Nick, Juliette Silverton, e ao colega de trabalho, Hank Griffin.",
+        "poster": "https://image.tmdb.org/t/p/original/5hC8CertBqHbXNPcfm1LZ18VcjD.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/jPTg0EuYhQs8Rqpn77yxpXTNoHq.jpg",
+        "studio": "Globoplay",
+        "genres": "Drama, Mistério, Sci-Fi & Fantasy",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 7.6,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/83D3Obk5yPJrtsMgh72d4C0VgD6.jpg",
+                "episodios": [
+                    {
+                        "title": "Grimm: Contos de Terror: Temporada 1",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01094752a381d00044d73fffe49c7d19c5332bc5"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "rate": 7.6,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/eD4K8951bEai6bfkN3t5zPI8Iqz.jpg",
+                "episodios": [
+                    {
+                        "title": "Grimm: Contos de Terror: Temporada 2",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e05895b594c705736cb63ebec21b95fd84b041d"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "rate": 7.5,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/nFXkIKKCG8BPazEtvDFcOpcL8CK.jpg",
+                "episodios": [
+                    {
+                        "title": "Grimm: Contos de Terror: Temporada 3",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ffde8ff7543a1f43d7765a1e1ff5f192b4676b1"
+                    }
+                ]
+            },
+            {
+                "title": "4ª Temporada",
+                "rate": 7.1,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/rwSN3Lr6cFdLk5kRVs1mbNDDvZi.jpg",
+                "episodios": [
+                    {
+                        "title": "Grimm: Contos de Terror: Temporada 4",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52c8e5b095934ccca4eae2b2786f0faa646ebb46"
+                    }
+                ]
+            },
+            {
+                "title": "5ª Temporada",
+                "rate": 7.2,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/yiPNb9wMzy0pIDRzeQWdrufdtmk.jpg",
+                "episodios": [
+                    {
+                        "title": "Grimm: Contos de Terror: Temporada 5",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c034420315b193e25cc51ea17ad3d7304a6e734"
+                    }
+                ]
+            },
+            {
+                "title": "6ª Temporada",
+                "rate": 7.5,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/bTEbob7J3AguqsSLmojq4dn6cGC.jpg",
+                "episodios": [
+                    {
+                        "title": "Grimm: Contos de Terror: Temporada 6",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb36416617c590ac7eec92a4a5c00796a8931dfe"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "title": "Halo",
         "rate": 8.297,
         "classification": "16",
@@ -8492,6 +8604,320 @@
                     {
                         "title": "Sintonia: Temporada 5",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01a14133b156ff45028108ce636f996d63f07c5f"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The Walking Dead",
+        "rate": 8.1,
+        "classification": "16",
+        "year": 2010,
+        "aired": "31/10/2010",
+        "sinopse": "Nos Estados Unidos pós-apocalíptico, um pequeno grupo de sobreviventes segue viajando à procura de uma nova casa longe dos mortos-vivos. O desespero por segurança e suprimentos os coloca constantemente à beira da sanidade.",
+        "poster": "https://image.tmdb.org/t/p/original/9lb02gTh4LLB17yAEXFd4C3R4JP.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/rAOjnEFTuNysY7bot8zonhImGMh.jpg",
+        "studio": "AMC",
+        "genres": "Action & Adventure, Drama, Sci-Fi & Fantasy",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 8.4,
+                "sinopse": "Em um mundo dominado por zumbis, um grupo de sobreviventes tenta encontrar segurança e respostas dentro do CCD.",
+                "poster": "https://image.tmdb.org/t/p/original/w5wO0BVqTvwrGRp3OlE7Bejl98N.jpg",
+                "episodios": [
+                    {
+                        "title": "The Walking Dead: Temporada 1",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1163c179daa574eebec30a7fff71c546794ad2c8"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "rate": 8.5,
+                "sinopse": "Na segunda temporada deste drama apocalíptico, Rick e seu grupo continuam buscando refúgio contra os zumbis em um mundo devastado e perigoso.",
+                "poster": "https://image.tmdb.org/t/p/original/4rhoaJYdU7RTk5FRon8sppT6wEk.jpg",
+                "episodios": [
+                    {
+                        "title": "The Walking Dead: Temporada 2",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4af47793b8b7a14d8d095f6acf846cbaa2947a66"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "rate": 8.6,
+                "sinopse": "Na terceira temporada, Rick e o grupo de sobreviventes dominam uma prisão abandonada e descobrem uma comunidade liderada por um homem poderoso conhecido como Governador.",
+                "poster": "https://image.tmdb.org/t/p/original/fwOJtqDvOphPFGOgqJWqh1lU2bV.jpg",
+                "episodios": [
+                    {
+                        "title": "The Walking Dead: Temporada 3",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:607a9c4cfd29b1a7a7e5e7dfd741747b2e1e7a22"
+                    }
+                ]
+            },
+            {
+                "title": "4ª Temporada",
+                "rate": 8.5,
+                "sinopse": "Após o massacre, começa a caçada pelo Governador. Rick, Daryl, Michonne e Karen planejam seus próximos passos.",
+                "poster": "https://image.tmdb.org/t/p/original/9os8ZRlojkRhViIHUdW6g5vHMIN.jpg",
+                "episodios": [
+                    {
+                        "title": "The Walking Dead: Temporada 4",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fd06d5c8153a7fdddd82c9bcaa9acee6689114a"
+                    }
+                ]
+            },
+            {
+                "title": "5ª Temporada",
+                "rate": 8.6,
+                "sinopse": "Na 5a. temporada, Rick e seu grupo enfrentam seus sequestradores em Terminus, descobrem o que aconteceu com Beth e devem decidir se os novos sobreviventes são confiáveis.",
+                "poster": "https://image.tmdb.org/t/p/original/bioOPexzaYnAwa1joJn5QlAvr0H.jpg",
+                "episodios": [
+                    {
+                        "title": "The Walking Dead: Temporada 5",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb76f0b115b9494f743041d2b3a644d897bc0110"
+                    }
+                ]
+            },
+            {
+                "title": "6ª Temporada",
+                "rate": 8.4,
+                "sinopse": "Enquanto buscam formas de sobreviver, o grupo de Rick e os moradores de Alexandria se deparam com um mais um adversário formidável.",
+                "poster": "https://image.tmdb.org/t/p/original/4IWK96ut2w5pOArlF4fFv4qlOs3.jpg",
+                "episodios": [
+                    {
+                        "title": "The Walking Dead: Temporada 6",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81bdc2137092179b5906b15b9ea2614c3942b309"
+                    }
+                ]
+            },
+            {
+                "title": "7ª Temporada",
+                "rate": 7.9,
+                "sinopse": "O grupo de Rick consegue escapar de um ato brutal de violência, mas todos se preocupam com outros horrores que Negan e os Salvadores ainda possam aprontar.",
+                "poster": "https://image.tmdb.org/t/p/original/bz6IMoRiw6eV2pawWGeOlLGKilZ.jpg",
+                "episodios": [
+                    {
+                        "title": "The Walking Dead: Temporada 7",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5a7946d246651d8423e6485a0fef8bf2e0246db"
+                    }
+                ]
+            },
+            {
+                "title": "8ª Temporada",
+                "rate": 8.0,
+                "sinopse": "Negan continua seu reinado de terror. Rick reúne seus aliados no Reino e no Topo da Colina para declarar guerra aos Salvadores.",
+                "poster": "https://image.tmdb.org/t/p/original/jP6XyARVDEMKAncIbUql3krIOyd.jpg",
+                "episodios": [
+                    {
+                        "title": "The Walking Dead: Temporada 8",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b329de6e8fb5dd7796c4875cbf5d61ba09eb1c79"
+                    }
+                ]
+            },
+            {
+                "title": "9ª Temporada",
+                "rate": 8.4,
+                "sinopse": "Com o fim da guerra, Rick espera que os sobreviventes consigam superar as diferenças. Mas o perigo vem de todos os lados e ameaça a paz recém-conquistada.",
+                "poster": "https://image.tmdb.org/t/p/original/gLraG3uYQFjnSBktU8DM4ylh6By.jpg",
+                "episodios": [
+                    {
+                        "title": "The Walking Dead: Temporada 9",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7aab57d066bdc22a58e8b7dd7d2405cc843dab07"
+                    }
+                ]
+            },
+            {
+                "title": "10ª Temporada",
+                "rate": 8.4,
+                "sinopse": "Na última temporada com Rick Grimes, os sobreviventes descobrem que comandar é mais difícil do que conquistar à medida que tentam construir um novo mundo.",
+                "poster": "https://image.tmdb.org/t/p/original/js9kgo7xGR3rhL7E2hyGM2oED0m.jpg",
+                "episodios": [
+                    {
+                        "title": "10x01. Limites que cruzamos",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5620b30da6cf2801908a50d21f41c853bb36c9f1"
+                    },
+                    {
+                        "title": "10x02. Nós somos o fim do mundo",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3368c0569aaf1ab2f68575f34c3b043da1b0301"
+                    },
+                    {
+                        "title": "10x03. Fantasmas",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5b6b934e0f600f74534f502bd01aa25e197da95"
+                    },
+                    {
+                        "title": "10x04. Acabe com os Sussurradores",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5863729e29822abc44225211e35b11d2b5fd136"
+                    },
+                    {
+                        "title": "10x05. O que sempre é",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c291a00c4ffe2e19cdbe2ec46c9ced619fade6f"
+                    },
+                    {
+                        "title": "10x06. Laços",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aaf00001902f40db98bc73f71404dc75b3aa7e12"
+                    },
+                    {
+                        "title": "10x07. Abra seus olhos",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e64f056918c13e60e6ed6ff9330239bdd33d693"
+                    },
+                    {
+                        "title": "10x08. O mundo antes",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49b5d377b767069c8bdc1fa6bf802821df81979c"
+                    },
+                    {
+                        "title": "10x09. Aperto",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b96e01b6db5538545e6c1096da4a3786f637435d"
+                    },
+                    {
+                        "title": "10x010. Stalker",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aff59a47302803bfe84b06e7085a7f0a40a09b4f"
+                    },
+                    {
+                        "title": "10x011. Estrela da Manhã",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa6efa9717600d40ba956eab2975d3e14faa2602"
+                    },
+                    {
+                        "title": "10x012. Caminhe conosco",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f81a441ec555c5cdfcd087681991c886a4bced58"
+                    },
+                    {
+                        "title": "10x013. No que nos tornamos",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ba704bdbf87c6d87a04a445284d55d6e0bf9f8a"
+                    },
+                    {
+                        "title": "10x014 e 15. Olhe as flores",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0c54715139e8a9a83b5f82d8d35094df220a1a0"
+                    },
+                    {
+                        "title": "10x016. Um Destino Certo",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b12ee6549c0e2b87cedfc5927a05b853ea87dc37"
+                    },
+                    {
+                        "title": "10x017. Lar, Doce Lar",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:270797fcb44a1ff892af7d11f2b0686473b7169c"
+                    },
+                    {
+                        "title": "10x018. Encontre-me",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2c4668debd5894fe725c9cc58a34bdf4bcdcc15"
+                    },
+                    {
+                        "title": "10x019. Mais Um",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55fb3a54c2cc42468efd48fa00807b9e8bc30799"
+                    },
+                    {
+                        "title": "10x020. Estilhaço",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1a806d0d00800b3f18bb4dccde4f48530b8d3ac"
+                    },
+                    {
+                        "title": "10x021. Divergido",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ab68d3d783951d0b8a84e347290725677293c3d"
+                    },
+                    {
+                        "title": "10x022. Aqui Está Negan",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ea9fa1844c14ee088d14ca6fd71f46ea20e4f02"
+                    }
+                ]
+            },
+            {
+                "title": "11ª Temporada",
+                "rate": 8.5,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/2ypIGPkSJSaY1F059VzgVA6f6OJ.jpg",
+                "episodios": [
+                    {
+                        "title": "11x01. Acheron: Parte 1",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c975a10ceb63ab187c11027f4d4569d8f24d3d1f"
+                    },
+                    {
+                        "title": "11x02. Acheron: Parte 2",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59ca97be163e73a7196eba4f987fbfaccdae4c50"
+                    },
+                    {
+                        "title": "11x03. Caçado",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4608468541061125f9985d565b235c34f3aa85b1"
+                    },
+                    {
+                        "title": "11x04. Rendição",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f2ed6f33251a77ccdceed7c932a86e70daa095b"
+                    },
+                    {
+                        "title": "11x05. Fora das Cinzas",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e50e7f190a192f3c0c3af0b004e2b0a597f5cde"
+                    },
+                    {
+                        "title": "11x06. Dentro",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e7b647abf52e1d6b2d9fb299a4969ef700f99b0"
+                    },
+                    {
+                        "title": "11x07. Promessas Quebradas",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b40ee2f342dabb826b087c92bb06a3e1f430117f"
+                    },
+                    {
+                        "title": "11x08. Por Sangue",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31df56bd940c04ce3cafa12dbfc4cfae02b6cb27"
+                    },
+                    {
+                        "title": "11x09. Não há outro jeito",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ee1a1f05a5207448f5e7d0a31219e0911ad3301"
+                    },
+                    {
+                        "title": "11x010. Novas assombrações",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec6d30af5f16f6cde40cf72584f9a22aebf492ce"
+                    },
+                    {
+                        "title": "11x011. Elemento Rebelde",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2513c32b7deb8115e730a9e54cffa932946d702b"
+                    },
+                    {
+                        "title": "11x012. Os sortudos",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7496cca42035286b5ef22570cf07fd7988c8397d"
+                    },
+                    {
+                        "title": "11x013 e 14. Senhores da Guerra / O Ceptro Podre",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:045370a50d3fabd06c8788ebd139ce6d62e53bb3"
+                    },
+                    {
+                        "title": "11x015. Confiança",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4446a869a473f6d1e0d462a723f72b6b16b750de"
+                    },
+                    {
+                        "title": "11x016. Atos de Deus",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33c4f829ef5521123c07c6242ae242e78e6aec1f"
+                    },
+                    {
+                        "title": "11x017. Confinamento",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59a57430f6beff7d877d74ee95b51309dcd60e44"
+                    },
+                    {
+                        "title": "11x018. Um novo acordo",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f47611fc50d3795bc3dc8e5acede7a029b5e636b"
+                    },
+                    {
+                        "title": "11x019. Variante",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c82336e74cf133b9ec7942057242676748cb9c1d"
+                    },
+                    {
+                        "title": "11x020. O que foi perdido",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88f5c316ca3841e641c3f8f5867a6e4e12405472"
+                    },
+                    {
+                        "title": "11x021. Posto Avançado 22",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f639c0880c2a5b0ca9fd82676646182ca0a6ad43"
+                    },
+                    {
+                        "title": "11x022. Fé",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:132a8e4c892440f9aa568bb592153488dfd83422"
+                    },
+                    {
+                        "title": "11x023. Família",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:609a5383acee1d2dbbcc52e952d0d1059d6e8547"
+                    },
+                    {
+                        "title": "11x024. Descanse em paz",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fcc491ce7d62d28ccd31a4e98a0eb2b7deb18d8b"
                     }
                 ]
             }
@@ -12300,6 +12726,32 @@
                     {
                         "title": "O Problema dos 3 Corpos: Temporada 1 (4K)",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f24ae2ccbbcda507cd61ba9fbaa9de3de53f4dee"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "A Agência",
+        "rate": 7.479,
+        "classification": "18",
+        "year": 2024,
+        "aired": "01/12/2024",
+        "sinopse": "Martian é um agente da CIA forçado a abandonar sua vida secreta e voltar para Londres. Lá, ele precisa lidar com um antigo amor que reaparece, reacendendo sentimentos e dilemas.",
+        "poster": "https://image.tmdb.org/t/p/original/mRgfl4J0tVt3twmQ3C2zs8N5rG9.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/dD2X3iqtF4Dz3FpnYNSWud3LOrj.jpg",
+        "studio": "Paramount+",
+        "genres": "Drama, Mistério",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 7.2,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/z7uePAPFonidP57OZ6YJuyzoGzZ.jpg",
+                "episodios": [
+                    {
+                        "title": "A Agência: Temporada 1",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a88e90e53e9aab3a9cc1fb6c58a15957230360b"
                     }
                 ]
             }
