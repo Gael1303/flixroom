@@ -1,5 +1,892 @@
 [
-
+      {
+        "tmdb_id": 1203329,
+        "title": "The Witcher: Sereias das Profundezas",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9cfb086b2c3c68bddfb3ef565a05fdbfb41c9f95",
+        "poster": "https://image.tmdb.org/t/p/w500/ob2oIUL1gV4pNg7s9oGjNBSI2iF.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/1YL8ksfwm3p2Tgt1yaNVYYOvOKC.jpg",
+        "synopsis": "Quando marinheiros humanos são atacados por criaturas misteriosas das profundezas, só uma pessoa pode impedir a guerra entre a terra e o mar: o Witcher, Geralt de Rivia.",
+        "studio": "Studio Mir",
+        "year": 2025,
+        "genres": "Animação, Fantasia, Ação",
+        "actors": [
+            {
+                "name": "Doug Cockle",
+                "photo": "https://image.tmdb.org/t/p/w185/sQGrr2Sjn5o9hrKvcFEnCyTuNw4.jpg"
+            },
+            {
+                "name": "Anya Chalotra",
+                "photo": "https://image.tmdb.org/t/p/w185/uF7OzuFm0TEYP8MkaBiQBLjuxUv.jpg"
+            },
+            {
+                "name": "Joey Batey",
+                "photo": "https://image.tmdb.org/t/p/w185/4uo4JPaK6KpdN7v8C1pbwKpNVJU.jpg"
+            },
+            {
+                "name": "Christina Wren",
+                "photo": "https://image.tmdb.org/t/p/w185/hMQoxG3XQ0b8Hmx9gVNn6krvU2T.jpg"
+            },
+            {
+                "name": "Emily Carey",
+                "photo": "https://image.tmdb.org/t/p/w185/tWUHikgtPCAPgYVrReXAPjMYNAW.jpg"
+            }
+        ],
+        "rating": 8.2,
+        "director": "강희철",
+        "runtime": 91,
+        "premiered": "2025-02-10"
+    },
+    {
+        "tmdb_id": 823636,
+        "title": "Seja o Cara!",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c1be18f1fdb4ff7304e524c236779db159d29fa7",
+        "poster": "https://image.tmdb.org/t/p/w500/wvJVkfDBOkc1nFDT5jELRuL3jCa.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mdfm4nIEfpBsKQXTonsj6hiwkCP.jpg",
+        "synopsis": "Após reencontrar sua paixão de infância e descobrir que ela prefere homens mais maduros, Pavel decide se inscrever em um treinamento na floresta, onde aprenderá de tudo, desde cortar lenha até seduzir mulheres.",
+        "studio": "Desconhecido",
+        "year": 2023,
+        "genres": "Comédia, Romance",
+        "actors": [
+            {
+                "name": "Jakub Prachař",
+                "photo": "https://image.tmdb.org/t/p/w185/mH3pgkxRoHNMU44eNxchoj9903v.jpg"
+            },
+            {
+                "name": "Tereza Ramba",
+                "photo": "https://image.tmdb.org/t/p/w185/3xnxRrJBWaAlB08rknNRkjvc7fB.jpg"
+            },
+            {
+                "name": "Ondřej Sokol",
+                "photo": "https://image.tmdb.org/t/p/w185/rrwTRAgEYUX4SmOCWiVaJM9gF7S.jpg"
+            },
+            {
+                "name": "Sabina Remundová",
+                "photo": "https://image.tmdb.org/t/p/w185/wz5GuOxARIgIdWykJJFFQDC4fzJ.jpg"
+            },
+            {
+                "name": "Ester Geislerová",
+                "photo": "https://image.tmdb.org/t/p/w185/6NYhYzOOeEhdmmNKrew5W6ocwZ0.jpg"
+            }
+        ],
+        "rating": 6.0,
+        "director": "Michal Samir",
+        "runtime": 96,
+        "premiered": "2023-03-23"
+    },
+    {
+        "tmdb_id": 1084863,
+        "title": "O Devorador de Almas",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6bd454a9889911ad78ff8c7ffbeb5efd303848e0",
+        "poster": "https://image.tmdb.org/t/p/w500/9i53yANgWPeFGrFl8A7KsmjgLI9.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/1fYIvYIwAWID27ZsmpOzAcEDOCv.jpg",
+        "synopsis": "Em um remoto vilarejo francês, duas investigações revelam assassinatos brutais e desaparecimentos de crianças. Surge a lenda de um “devorador de almas”. Será real ou apenas um disfarce para algo mais sombrio?",
+        "studio": "Phase 4 Productions",
+        "year": 2024,
+        "genres": "Thriller, Terror, Crime, Mistério",
+        "actors": [
+            {
+                "name": "Virginie Ledoyen",
+                "photo": "https://image.tmdb.org/t/p/w185/sIx8EAaGqEaveQtUrCzQOqmoY2J.jpg"
+            },
+            {
+                "name": "Paul Hamy",
+                "photo": "https://image.tmdb.org/t/p/w185/xfsvDCVvSFXp5EbOaQzJ26mcXGC.jpg"
+            },
+            {
+                "name": "Sandrine Bonnaire",
+                "photo": "https://image.tmdb.org/t/p/w185/iTHkJuVdFcAuZZtBH2frKTeujKG.jpg"
+            },
+            {
+                "name": "Malik Zidi",
+                "photo": "https://image.tmdb.org/t/p/w185/pn4QUm8KfBJFu8xDteJnWH9yK0J.jpg"
+            },
+            {
+                "name": "Manu Lanzi",
+                "photo": "https://image.tmdb.org/t/p/w185/5oJtCgm3YswkFEaULGH4UZnOSvY.jpg"
+            }
+        ],
+        "rating": 6.1,
+        "director": "Alexandre Bustillo, Julien Maury",
+        "runtime": 111,
+        "premiered": "2024-04-24"
+    },
+    {
+        "tmdb_id": 1303087,
+        "title": "Confia: Sonho de Cria",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:917b71fa6dfd763400970aa08f396c3ad975d9ae",
+        "poster": "https://image.tmdb.org/t/p/w500/6m5ryNvYBc4xZxZkPD4hJSJzQh8.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bpyzpbS2El4vKrz3NQEP0nO0ghi.jpg",
+        "synopsis": "Nando sonha em ser um grande cantor de Trap, mas, enquanto seu sonho não se torna realidade, ele faz entregas para o Lanchudo, uma lanchonete de Copacabana.",
+        "studio": "Estúdios Globo",
+        "year": 2025,
+        "genres": "Drama, Comédia, Romance",
+        "actors": [
+            {
+                "name": "MC Cabelinho",
+                "photo": "https://image.tmdb.org/t/p/w185/byy8YwrFhCkqzkwWxvVq0yw2tDz.jpg"
+            },
+            {
+                "name": "Malía",
+                "photo": null
+            },
+            {
+                "name": "Daniel Rocha",
+                "photo": "https://image.tmdb.org/t/p/w185/r4ikKsywcA6BiysS7sBiEQfVjtr.jpg"
+            },
+            {
+                "name": "Rejane Faria",
+                "photo": "https://image.tmdb.org/t/p/w185/iie8IOxVZF6JXB416EanhE2bqkT.jpg"
+            },
+            {
+                "name": "Amir Haddad",
+                "photo": "https://image.tmdb.org/t/p/w185/qopRQBOVUDdQ6SXYTOcyIi3XJFD.jpg"
+            }
+        ],
+        "rating": 0.0,
+        "director": "Fábio Rodrigo",
+        "runtime": 84,
+        "premiered": "2025-02-08"
+    },
+    {
+        "tmdb_id": 1256532,
+        "title": "Perfekta: Uma Aventura da Escola de Gênios",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18717b94cd9e3da5bbbabe6f1a07e71638bafa7c",
+        "poster": "https://image.tmdb.org/t/p/w500/yyFjYrjF2VbP4F4Prcpr5EiZaWd.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9VAvjTPxE9RNOYfYkGiJQZuNFut.jpg",
+        "synopsis": "Na trama, os jovens gênios Isa (Sophia Rosa), Tom (Enzo Ignácio) e Linus (Murilo Gricolo), precisam salvar a memória de Einstein, um dos robôs mais antigos da escola. Para realizar essa missão, eles vão atrás da ajuda de um misterioso cientista, que vive recluso com sua filha Nano (Ana Carolina Leite) em um lugar onde humanos não são bem-vindos: o Laboratório Perfekta.",
+        "studio": "Mixer Films",
+        "year": 2024,
+        "genres": "Aventura",
+        "actors": [
+            {
+                "name": "Rômulo Estrela",
+                "photo": "https://image.tmdb.org/t/p/w185/jaySrYpaW4uXgJflWTR1EIQLsi0.jpg"
+            },
+            {
+                "name": "Murilo Gricolo",
+                "photo": null
+            },
+            {
+                "name": "Ana Carolina Leite",
+                "photo": null
+            },
+            {
+                "name": "Enzo Ignácio",
+                "photo": null
+            },
+            {
+                "name": "Sophia Rosa",
+                "photo": null
+            }
+        ],
+        "rating": 0.0,
+        "director": "João Daniel Tikhomiroff",
+        "runtime": 0,
+        "premiered": "2024-10-10"
+    },
+    {
+        "tmdb_id": 1250538,
+        "title": "Avenida Beira-Mar",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2f515e84945545226be9faadef84995425a3688",
+        "poster": "https://image.tmdb.org/t/p/w500/70RAQHJmLq8DslAkmjhJO4Ht3DT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7QbQCGUX89qAoB7MC6pz8ZEi3Kw.jpg",
+        "synopsis": "Rebeca, uma menina de 13 anos, filha de pais separados, muda-se com a mãe para o bairro litorâneo de Piratininga, em Niterói. Ela passa seus dias espiando a rua por cima do muro. Lá, Rebeca vê Mika, uma menina da sua idade, que desafia as normas de gênero. O encontro das duas meninas desencadeia uma amizade incompreendida pelos adultos e uma série de eventos que abala a tranquilidade da Avenida Beira-Mar.",
+        "studio": "Produtora Viralata",
+        "year": 2024,
+        "genres": "Drama",
+        "actors": [
+            {
+                "name": "Andréa Beltrão",
+                "photo": "https://image.tmdb.org/t/p/w185/lifgzvZZaIPUroSVyAnt3DaKe0z.jpg"
+            },
+            {
+                "name": "Milena Pinheiro",
+                "photo": "https://image.tmdb.org/t/p/w185/jJEWRYoUcvVFFi4JoCppAR9MfRv.jpg"
+            },
+            {
+                "name": "Milena Gerassi",
+                "photo": null
+            },
+            {
+                "name": "Isabel Teixeira",
+                "photo": "https://image.tmdb.org/t/p/w185/5sqQGwyi42cf2LxbqE5o1UcT9zD.jpg"
+            },
+            {
+                "name": "César Augusto",
+                "photo": null
+            }
+        ],
+        "rating": 0.0,
+        "director": "Maju de Paiva, Bernardo Florim",
+        "runtime": 92,
+        "premiered": "2024-11-21"
+    },
+    {
+        "tmdb_id": 76544,
+        "title": "O Homem do Tai Chi",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53a6072e2b47fc30b521d8b318816943053b71e9",
+        "poster": "https://image.tmdb.org/t/p/w500/7Jvo3Uf4yRIXPfKz4md4fgPQ5fD.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/lk44IoTz31WJPKiMRZ5pFn9XdKN.jpg",
+        "synopsis": "Um jovem praticante de artes marciais deixa de lado sua vida pacata vida em Pequim para disputar o campeonato Wulin Wang. O que ele não esperava era ter que lidar com o submundo da cidade para proteger o legado de seu local de nascimento, Ling Kong Tai Chi.",
+        "studio": "China Film Group Corporation",
+        "year": 2013,
+        "genres": "Ação, Drama",
+        "actors": [
+            {
+                "name": "陈虎",
+                "photo": "https://image.tmdb.org/t/p/w185/ezZ55weUDy7xX02DjV0wwmwyWNl.jpg"
+            },
+            {
+                "name": "Keanu Reeves",
+                "photo": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+            },
+            {
+                "name": "莫文蔚",
+                "photo": "https://image.tmdb.org/t/p/w185/b0scABsp11kvXx15RvolTUqucNm.jpg"
+            },
+            {
+                "name": "Yu Hai",
+                "photo": "https://image.tmdb.org/t/p/w185/2IRXLdd3MuE3KPNo0AdH9wc8BGr.jpg"
+            },
+            {
+                "name": "Ye Qing",
+                "photo": "https://image.tmdb.org/t/p/w185/6EJNgDmKUXpdhBqKzvaWShFMxlS.jpg"
+            }
+        ],
+        "rating": 6.1,
+        "director": "Keanu Reeves",
+        "runtime": 106,
+        "premiered": "2013-07-04"
+    },
+    {
+        "tmdb_id": 8470,
+        "title": "Um Ato de Coragem",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae9dbb67f2e10cd51d1b6bb29a5d4d6a060191e0",
+        "poster": "https://image.tmdb.org/t/p/w500/cKJsDZPBDxziGp1UdfmWwCQiOw9.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sBB39VMtByFltGGGW2c5N6LOAvj.jpg",
+        "synopsis": "John Q. Archibald é um homem comum, que trabalha em uma fábrica e vive feliz com sua esposa Denise e seu filho Michael. Até que Michael fica gravemente doente, necessitando com urgência de um transplante de coração para sobreviver. Sem ter condições de pagar pela operação e com o plano de saúde de sua família não cobrindo tais gastos, John Q. se vê então numa luta contra o tempo pela sobrevivência de seu filho. Em uma atitude desesperada, ele então decide tomar como refém todo o setor de emergência de um hospital, passando a discutir uma solução para o caso com um negociador da polícia e com um impaciente chefe de polícia, que deseja encerrar o caso o mais rapidamente possível.",
+        "studio": "Evolution Entertainment",
+        "year": 2002,
+        "genres": "Drama, Thriller, Crime",
+        "actors": [
+            {
+                "name": "Denzel Washington",
+                "photo": "https://image.tmdb.org/t/p/w185/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+            },
+            {
+                "name": "James Woods",
+                "photo": "https://image.tmdb.org/t/p/w185/UAvunLhXXFMD83wXOUvRWhNBmO.jpg"
+            },
+            {
+                "name": "Kimberly Elise",
+                "photo": "https://image.tmdb.org/t/p/w185/9Z2xlD8i8NXeT6NipPpmQfL6Mki.jpg"
+            },
+            {
+                "name": "Robert Duvall",
+                "photo": "https://image.tmdb.org/t/p/w185/ybMmK25h4IVtfE7qrnlVp47RQlh.jpg"
+            },
+            {
+                "name": "Shawn Hatosy",
+                "photo": "https://image.tmdb.org/t/p/w185/ck89JiJcY9ovd7hXHatZsKMQvhm.jpg"
+            }
+        ],
+        "rating": 7.123,
+        "director": "Nick Cassavetes",
+        "runtime": 116,
+        "premiered": "2002-02-15"
+    },
+    {
+        "tmdb_id": 653851,
+        "title": "Irmaos de Honra",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99c3f2d48a861d5c662bb728775c8c05785721c8",
+        "poster": "https://image.tmdb.org/t/p/w500/cxyiG2FWcNDDVSnyRw1eBabsAzp.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/tY36rkGlREg5m9CaguckR8jZCye.jpg",
+        "synopsis": "A história real dos pilotos estadunidenses Jesse Brown e Tom Hudner, dois jovens de mundos muito diferentes. Os dois iniciaram a carreira militar juntos no VF-32 e ao longo do serviço eles são levados ao limite, voando em um jato de combate. Jesse e Tom se tornam amigos e começam a superar cada vez mais desafios lado a lado, mas tudo muda quando um deles é abatido atrás das linhas inimigas.",
+        "studio": "Black Label Media",
+        "year": 2022,
+        "genres": "Guerra, Drama, Ação",
+        "actors": [
+            {
+                "name": "Jonathan Majors",
+                "photo": "https://image.tmdb.org/t/p/w185/nsxnMbkl9Lpc12AmYwKi9SmsJ7e.jpg"
+            },
+            {
+                "name": "Glen Powell",
+                "photo": "https://image.tmdb.org/t/p/w185/lRbbndkwOXyvep9Y7kHiwbh9Ji5.jpg"
+            },
+            {
+                "name": "Christina Jackson",
+                "photo": "https://image.tmdb.org/t/p/w185/dxpK49Da2vYaCue2stQviIpCcgF.jpg"
+            },
+            {
+                "name": "Thomas Sadoski",
+                "photo": "https://image.tmdb.org/t/p/w185/ciqrqKHUfFGlMPyUE35YSKEvxuL.jpg"
+            },
+            {
+                "name": "Daren Kagasoff",
+                "photo": "https://image.tmdb.org/t/p/w185/3jR09GLiSq8puOaqMJ6r44SJMMv.jpg"
+            }
+        ],
+        "rating": 7.123,
+        "director": "J.D. Dillard",
+        "runtime": 138,
+        "premiered": "2022-11-23"
+    },
+    {
+        "tmdb_id": 618162,
+        "title": "Vingança e Castigo",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7c96eeb467dda0aa43c7e0999df762ce8bc4424",
+        "poster": "https://image.tmdb.org/t/p/w500/29WYtxffy1NJhxXZ8al5XJ8US1s.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/d0mpUFKzoPwF1KsdjHpkkaYSvKm.jpg",
+        "synopsis": "Em Harder They Fall, quando o fora da lei Nat Love (Jonathan Majors) descobre que seu maior inimigo, Rufus Buck (Idris Elba), será libertado da prisão, ele reúne seu bando em uma busca incessante por vingança. Aqueles que cavalgam com ele incluem o seu antigo amor Stagecoach Mary, seus homens de temperamento forte Bill Pickett e Jack Beckwourth. Rufus ainda conta com a ajuda do \"Traiçoeiro\" Trudy Smith e Cherokee Bill. É de se tomar cuidado, pois esse não é um grupo que costuma a perder qualquer luta.",
+        "studio": "Overbrook Entertainment",
+        "year": 2021,
+        "genres": "Faroeste",
+        "actors": [
+            {
+                "name": "Jonathan Majors",
+                "photo": "https://image.tmdb.org/t/p/w185/nsxnMbkl9Lpc12AmYwKi9SmsJ7e.jpg"
+            },
+            {
+                "name": "Idris Elba",
+                "photo": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+            },
+            {
+                "name": "Regina King",
+                "photo": "https://image.tmdb.org/t/p/w185/fEIz0ljk9CBrp3AitM5nwjfoGVu.jpg"
+            },
+            {
+                "name": "Zazie Beetz",
+                "photo": "https://image.tmdb.org/t/p/w185/ijrT4pvALvxU0gphea4YxDnDh6e.jpg"
+            },
+            {
+                "name": "Delroy Lindo",
+                "photo": "https://image.tmdb.org/t/p/w185/kLwUBBmEIdchrLqwsYzgLB2B6q5.jpg"
+            }
+        ],
+        "rating": 6.6,
+        "director": "Jeymes Samuel",
+        "runtime": 139,
+        "premiered": "2021-10-22"
+    },
+    {
+        "tmdb_id": 384680,
+        "title": "Hostis",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2ab901b18c190d9fd2797958e82e602df6051c6",
+        "poster": "https://image.tmdb.org/t/p/w500/ncHc81uGBw4PmsKfkFTJNCSKWgc.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ozdXqMwijV192aSrojjFQMGeWSh.jpg",
+        "synopsis": "Em 1892, um capitão do exército escoltou relutantemente um chefe da guerra cheyenne e sua família de volta à sua terra tribal. Os viajantes precisam se unir para sobreviver a uma paisagem inclemente e que está repleta de comanches hostis.",
+        "studio": "Waypoint Entertainment",
+        "year": 2017,
+        "genres": "Drama, Faroeste, História",
+        "actors": [
+            {
+                "name": "Christian Bale",
+                "photo": "https://image.tmdb.org/t/p/w185/v2Oks7DTbZcKzSi2Pw58C7SSLzM.jpg"
+            },
+            {
+                "name": "Rosamund Pike",
+                "photo": "https://image.tmdb.org/t/p/w185/8ObNklHDi2hjdz0ayzJFB9jtqzm.jpg"
+            },
+            {
+                "name": "Wes Studi",
+                "photo": "https://image.tmdb.org/t/p/w185/dAO2bY2NCceYLZiJaBjBdY19Hox.jpg"
+            },
+            {
+                "name": "Jesse Plemons",
+                "photo": "https://image.tmdb.org/t/p/w185/ckTthGclQE0y6b7gR0RpRo7LskL.jpg"
+            },
+            {
+                "name": "Adam Beach",
+                "photo": "https://image.tmdb.org/t/p/w185/3ZMGfnRc7dYnAPl6ZSbGhqj6LHx.jpg"
+            }
+        ],
+        "rating": 6.923,
+        "director": "Scott Cooper",
+        "runtime": 134,
+        "premiered": "2017-12-22"
+    },
+    {
+        "tmdb_id": 27582,
+        "title": "Assassino a Preço Fixo",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6dd80542a5146fb27fa8241375a386841d7cc9d",
+        "poster": "https://image.tmdb.org/t/p/w500/AbO2OzFiWt9cEjgZfSOnp75ihGE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/dYb6kgvoGjUH59n2uB4eV9xqmKR.jpg",
+        "synopsis": "Arthur Bishop faz parte de um grupo de elite de assassinos e é um dos melhores no negócio, onde exerce as suas funções com precisão. Mas, quando Harry, seu amigo e mentor, é assassinado, Bishop jura vingança. O filho de Harry quer vingança e tem o desejo de aprender e fazer parte do negócio.",
+        "studio": "CBS Films",
+        "year": 2011,
+        "genres": "Ação, Thriller, Crime",
+        "actors": [
+            {
+                "name": "Jason Statham",
+                "photo": "https://image.tmdb.org/t/p/w185/whNwkEQYWLFJA8ij0WyOOAD5xhQ.jpg"
+            },
+            {
+                "name": "Ben Foster",
+                "photo": "https://image.tmdb.org/t/p/w185/p5FlM9OOStD9I0Nm3GGlhaiAC5r.jpg"
+            },
+            {
+                "name": "Donald Sutherland",
+                "photo": "https://image.tmdb.org/t/p/w185/hHd64HbSwxjfnNfPbIPeboFApfS.jpg"
+            },
+            {
+                "name": "Mini Anden",
+                "photo": "https://image.tmdb.org/t/p/w185/rcj3F06hSX47Xui11KEfGSPuBgF.jpg"
+            },
+            {
+                "name": "Tony Goldwyn",
+                "photo": "https://image.tmdb.org/t/p/w185/A3hXimbzDtFxQ1PXNo8gG7RZeN4.jpg"
+            }
+        ],
+        "rating": 6.523,
+        "director": "Simon West",
+        "runtime": 93,
+        "premiered": "2011-01-13"
+    },
+    {
+        "tmdb_id": 278924,
+        "title": "Assassino a Preço Fixo 2: A Ressurreição",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:821a1ccc95e2972b7ed10318d7d65d6d4f082cbf",
+        "poster": "https://image.tmdb.org/t/p/w500/l7Wc38Hj8xEHJWZDXkk7bLNegom.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/8U9yGCSAhzSDnVUmIQpFMOIBc6q.jpg",
+        "synopsis": "Arthur Bishop (Jason Statham) é obrigado a reativar seu lado criminoso quando o amor de sua vida é sequestrado. Na mão do inimigo, ele é forçado a viajar pelo mundo para completar três impossíveis assassinatos e fazer o que sabe melhor: fingir que foram acidentes.",
+        "studio": "Davis Films",
+        "year": 2016,
+        "genres": "Ação, Crime, Thriller",
+        "actors": [
+            {
+                "name": "Jason Statham",
+                "photo": "https://image.tmdb.org/t/p/w185/whNwkEQYWLFJA8ij0WyOOAD5xhQ.jpg"
+            },
+            {
+                "name": "Jessica Alba",
+                "photo": "https://image.tmdb.org/t/p/w185/4Ltk0ghRffjLjmilkttFoJJboVQ.jpg"
+            },
+            {
+                "name": "Tommy Lee Jones",
+                "photo": "https://image.tmdb.org/t/p/w185/dnfFKIRi4RL77Z84EMiDAuocMrO.jpg"
+            },
+            {
+                "name": "Michelle Yeoh",
+                "photo": "https://image.tmdb.org/t/p/w185/nrbHNzSMydpWK9um5VqWIFJihB5.jpg"
+            },
+            {
+                "name": "Natalie Burn",
+                "photo": "https://image.tmdb.org/t/p/w185/h9uSZF5PvZoPF75H6w6gISAllCA.jpg"
+            }
+        ],
+        "rating": 6.0,
+        "director": "Dennis Gansel",
+        "runtime": 99,
+        "premiered": "2016-08-25"
+    },
+    {
+        "tmdb_id": 9654,
+        "title": "Uma Saída de Mestre",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f198917a07a8e618b3306a9e4c14a391fa0e75f1",
+        "poster": "https://image.tmdb.org/t/p/w500/rxEQJrBn0swmqZyXiHDYzPNEion.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/haIHcieOlTlyAUr9cWukqyK5SaU.jpg",
+        "synopsis": "Charlie Croker é um gênio do crime e está decidido a recuperar um cofre repleto de ouro que fora roubado por seu ex-sócio que o traiu. Para isso, Croker conta com uma gangue formada pelo gênio da computação Steve, pelo piloto Handsome Rob, pelo especialista em explosivos Left Ear, pelo arrombador de cofres John Bridger e pela bela Stella Bridger. Extravagante, o plano de mestre deles é recuperar o cofre em plena Los Angeles, criando o maior engarrafamento que a cidade já viu em sua história.",
+        "studio": "De Line Pictures",
+        "year": 2003,
+        "genres": "Ação, Crime",
+        "actors": [
+            {
+                "name": "Mark Wahlberg",
+                "photo": "https://image.tmdb.org/t/p/w185/bTEFpaWd7A6AZVWOqKKBWzKEUe8.jpg"
+            },
+            {
+                "name": "Charlize Theron",
+                "photo": "https://image.tmdb.org/t/p/w185/1HloWLLhL3iTrmDtMigiitLB9Qx.jpg"
+            },
+            {
+                "name": "Edward Norton",
+                "photo": "https://image.tmdb.org/t/p/w185/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
+            },
+            {
+                "name": "Jason Statham",
+                "photo": "https://image.tmdb.org/t/p/w185/whNwkEQYWLFJA8ij0WyOOAD5xhQ.jpg"
+            },
+            {
+                "name": "Seth Green",
+                "photo": "https://image.tmdb.org/t/p/w185/l4No5Eu6j0U80hCIkaSn17AOWrj.jpg"
+            }
+        ],
+        "rating": 6.775,
+        "director": "F. Gary Gray",
+        "runtime": 111,
+        "premiered": "2003-05-30"
+    },
+    {
+        "tmdb_id": 602269,
+        "title": "Os Pequenos Vestígios",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:976e939f5ffce29c2b017f1f0f3df828a91b42f8",
+        "poster": "https://image.tmdb.org/t/p/w500/vL6Yv0rtxvgt4hqcPYWtK1vGF3D.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/vfuzELmhBjBTswXj2Vqxnu5ge4g.jpg",
+        "synopsis": "Um policial começa a ter problemas em sua investigação devido a seu passado obscuro e sua tendência por quebrar as regras.",
+        "studio": "Warner Bros. Pictures",
+        "year": 2021,
+        "genres": "Drama, Crime, Thriller",
+        "actors": [
+            {
+                "name": "Denzel Washington",
+                "photo": "https://image.tmdb.org/t/p/w185/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+            },
+            {
+                "name": "Rami Malek",
+                "photo": "https://image.tmdb.org/t/p/w185/ewr46CGOdsx5NzAJdIzEBz2yIQh.jpg"
+            },
+            {
+                "name": "Jared Leto",
+                "photo": "https://image.tmdb.org/t/p/w185/aNUvy7cpa78NRjCvHi5vYuNJRtj.jpg"
+            },
+            {
+                "name": "Chris Bauer",
+                "photo": "https://image.tmdb.org/t/p/w185/1AjdNxbVmy6azlOxIfnCX5OruEA.jpg"
+            },
+            {
+                "name": "Michael Hyatt",
+                "photo": "https://image.tmdb.org/t/p/w185/zXJ1mV2NlZuWYgTj8eTuUFhCgp5.jpg"
+            }
+        ],
+        "rating": 6.337,
+        "director": "John Lee Hancock",
+        "runtime": 128,
+        "premiered": "2021-01-28"
+    },
+    {
+        "tmdb_id": 393457,
+        "title": "Um Limite Entre Nós",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af56b385f054e127367cac485986704bc6439d28",
+        "poster": "https://image.tmdb.org/t/p/w500/4ymzdsNVg0NhXB72nfWHXE2TShq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/j2kgVOyp4dxlqohU5QJTrDHfbRD.jpg",
+        "synopsis": "Ambientado na Pittsburgh de 1950, o filme é uma visão apaixonada do ex-jogador de beisebol Troy Maxson, lutando para sustentar os que ama, em um mundo que ameaça puxá-lo para baixo.",
+        "studio": "Paramount Pictures",
+        "year": 2016,
+        "genres": "Drama",
+        "actors": [
+            {
+                "name": "Denzel Washington",
+                "photo": "https://image.tmdb.org/t/p/w185/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+            },
+            {
+                "name": "Viola Davis",
+                "photo": "https://image.tmdb.org/t/p/w185/xDssw6vpYNRjsybvMPRE30e0dPN.jpg"
+            },
+            {
+                "name": "Stephen McKinley Henderson",
+                "photo": "https://image.tmdb.org/t/p/w185/utsApLREJWm13jyCLMkFwPYYU0M.jpg"
+            },
+            {
+                "name": "Jovan Adepo",
+                "photo": "https://image.tmdb.org/t/p/w185/aJcuEbYru85meNGzM0oSeW3nsd6.jpg"
+            },
+            {
+                "name": "Russell Hornsby",
+                "photo": "https://image.tmdb.org/t/p/w185/lA2XCK2GgwVoboX3NskkKp5rxOF.jpg"
+            }
+        ],
+        "rating": 6.9,
+        "director": "Denzel Washington",
+        "runtime": 139,
+        "premiered": "2016-12-16"
+    },
+    {
+        "tmdb_id": 9567,
+        "title": "Lagrimas do Sol",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31e1b18f1c86f6bc3027fe09bb816874edac19f1",
+        "poster": "https://image.tmdb.org/t/p/w500/WksMUDKv4I241w6mR263m3IKBs.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/n2wlMpTuiovYCZHpwKtbSTY8Wor.jpg",
+        "synopsis": "O governo nigeriano está falido e o país está à beira de uma guerra civil. O Tenente A.K. Waters é responsável por liderar uma equipe de soldados para a selva para resgatarem a Dra. Lena Kendricks. Quando Waters e sua equipe localizam Kendricks, ela conta que não deixará seus pacientes para serem abatidos por rebeldes. A equipe provoca a ira das forças dos Estados Unidos e da Nigéria quando lado a lado com Kendricks tenta proteger os refugiados.",
+        "studio": "Columbia Pictures",
+        "year": 2003,
+        "genres": "Guerra, Ação, Drama",
+        "actors": [
+            {
+                "name": "Bruce Willis",
+                "photo": "https://image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+            },
+            {
+                "name": "Monica Bellucci",
+                "photo": "https://image.tmdb.org/t/p/w185/euhMjVgdEGFm4AzjvB1b2oSMlLU.jpg"
+            },
+            {
+                "name": "Cole Hauser",
+                "photo": "https://image.tmdb.org/t/p/w185/kJyUtNZREd7mes21OrWiCtOugPL.jpg"
+            },
+            {
+                "name": "Eamonn Walker",
+                "photo": "https://image.tmdb.org/t/p/w185/mJ2pENrcO4uRy2TNVUzg5cEI9b3.jpg"
+            },
+            {
+                "name": "Johnny Messner",
+                "photo": "https://image.tmdb.org/t/p/w185/1TL83UaGFeBg0Se3h9r066VcHjo.jpg"
+            }
+        ],
+        "rating": 6.9,
+        "director": "Antoine Fuqua",
+        "runtime": 121,
+        "premiered": "2003-03-07"
+    },
+    {
+        "tmdb_id": 9798,
+        "title": "Inimigo do Estado",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d53fa9dfd47f5663d1b8ad78684d79d44d5f571",
+        "poster": "https://image.tmdb.org/t/p/w500/eRIi2QdEaG5UgguUALg8AiWX8Uh.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/lPLTLCBn39Wiy1RPQLB9xOKyF2v.jpg",
+        "synopsis": "Robert Clayton Dean, um advogado bem-sucedido em Washington, recebe um vídeo que mostra a ligação entre um oficial do alto escalão da Agência Nacional de Segurança a um assassinato político. A partir daí, Dean se transforma em um alvo constante para a mais perigosa e treinada equipe do governo. Utilizando todos os meios para arruinar sua carreira e conseguir o vídeo de volta, a equipe inicia uma caçada sem tréguas. Dean terá de lutar para salvar sua vida e provar sua inocência.",
+        "studio": "Touchstone Pictures",
+        "year": 1998,
+        "genres": "Ação, Drama, Thriller",
+        "actors": [
+            {
+                "name": "Will Smith",
+                "photo": "https://image.tmdb.org/t/p/w185/1QqaRZ8neYlqLx7ODZC4as47wUV.jpg"
+            },
+            {
+                "name": "Gene Hackman",
+                "photo": "https://image.tmdb.org/t/p/w185/xPmETCv0APDoIK5CvIIJwbTcjPA.jpg"
+            },
+            {
+                "name": "Jon Voight",
+                "photo": "https://image.tmdb.org/t/p/w185/g3jSSM8xqbRRJmvHM1GTZx8jmup.jpg"
+            },
+            {
+                "name": "Regina King",
+                "photo": "https://image.tmdb.org/t/p/w185/fEIz0ljk9CBrp3AitM5nwjfoGVu.jpg"
+            },
+            {
+                "name": "Loren Dean",
+                "photo": "https://image.tmdb.org/t/p/w185/zCYDwYJjrY4lpeueZYSzAXKLD5h.jpg"
+            }
+        ],
+        "rating": 7.051,
+        "director": "Tony Scott",
+        "runtime": 132,
+        "premiered": "1998-11-20"
+    },
+    {
+        "tmdb_id": 8488,
+        "title": "Hitch: Conselheiro Amoroso",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b3481d5ce715f78ff045840244995ec4a9875ce",
+        "poster": "https://image.tmdb.org/t/p/w500/7a7DIl75TFwkTik69QfZ5798BsO.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/fmDYTtZZQHLBAvvqgdXItqMXBNG.jpg",
+        "synopsis": "Um consultor de relacionamentos que trabalha de forma anônima é contratado para ajudar um contador tímido a conquistar a mulher dos seus sonhos. Ele acaba se apaixonando por uma jornalista, porém, e corre o risco de ter sua identidade revelada.",
+        "studio": "Columbia Pictures",
+        "year": 2005,
+        "genres": "Comédia, Drama, Romance",
+        "actors": [
+            {
+                "name": "Will Smith",
+                "photo": "https://image.tmdb.org/t/p/w185/1QqaRZ8neYlqLx7ODZC4as47wUV.jpg"
+            },
+            {
+                "name": "Eva Mendes",
+                "photo": "https://image.tmdb.org/t/p/w185/uj6IaUDEUB7swj46dPjHAi3TEk4.jpg"
+            },
+            {
+                "name": "Kevin James",
+                "photo": "https://image.tmdb.org/t/p/w185/dqyUARUWykoMT3eRDgy7vmQY5PG.jpg"
+            },
+            {
+                "name": "Amber Valletta",
+                "photo": "https://image.tmdb.org/t/p/w185/oi5iNd0bYhcyK7f9TUqYOZkdZXj.jpg"
+            },
+            {
+                "name": "Julie Ann Emery",
+                "photo": "https://image.tmdb.org/t/p/w185/A29Nmt41IREXVNMk02cCxN9Ba6i.jpg"
+            }
+        ],
+        "rating": 6.565,
+        "director": "Andy Tennant",
+        "runtime": 118,
+        "premiered": "2005-02-11"
+    },
+    {
+        "tmdb_id": 82700,
+        "title": "Depois da Terra",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23fb96c98419670ee783a9effdc0b2935439328f",
+        "poster": "https://image.tmdb.org/t/p/w500/1Kcjf0DXimg44Z1bEuzXUjJHNqi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/958IEMxVqU3FFOdZll3PcFLoyef.jpg",
+        "synopsis": "Cypher embarca em uma viagem espacial ao lado do filho, Kitai, mas uma chuva de asteroides os forçam a pousar na Terra, que há mil anos não é habitada por humanos. Com Cypher gravemente ferido, Kitai enfrenta grandes perigos na busca do sinalizador, o único objeto que pode ajudá-los a voltar para casa.",
+        "studio": "Columbia Pictures",
+        "year": 2013,
+        "genres": "Ficção científica, Ação, Aventura",
+        "actors": [
+            {
+                "name": "Jaden Smith",
+                "photo": "https://image.tmdb.org/t/p/w185/9DoxXYjXTb9SGH2kkWNOtqmi2Ve.jpg"
+            },
+            {
+                "name": "Will Smith",
+                "photo": "https://image.tmdb.org/t/p/w185/1QqaRZ8neYlqLx7ODZC4as47wUV.jpg"
+            },
+            {
+                "name": "Sophie Okonedo",
+                "photo": "https://image.tmdb.org/t/p/w185/fpqohSUUSs1hjc9aHo5x6ypDr5Y.jpg"
+            },
+            {
+                "name": "Zoë Kravitz",
+                "photo": "https://image.tmdb.org/t/p/w185/tiQ3TBSvU4YAyrWMmVk6MTrKBAi.jpg"
+            },
+            {
+                "name": "Glenn Morshower",
+                "photo": "https://image.tmdb.org/t/p/w185/SjgNUSLoBAVossDI4QkNtDxYDZ.jpg"
+            }
+        ],
+        "rating": 5.185,
+        "director": "M. Night Shyamalan",
+        "runtime": 100,
+        "premiered": "2013-05-30"
+    },
+    {
+        "tmdb_id": 345920,
+        "title": "Beleza Oculta",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b7368f564ffc6665141739a7817db22f1a45d80",
+        "poster": "https://image.tmdb.org/t/p/w500/l7rwGxhH2ZDaViuxzT0qMPfhfo3.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/iovi35nPfjbYTw2gRo7uImWblRU.jpg",
+        "synopsis": "Howard entra em depressão após uma tragédia pessoal e passa a escrever cartas para a Morte, o Tempo e o Amor, algo que preocupa seus amigos. Mas o que parece impossível, se torna realidade quando essas três partes do universo decidem responder. Morte, Tempo e Amor vão tentar ensinar o valor da vida para Howard.",
+        "studio": "Village Roadshow Pictures",
+        "year": 2016,
+        "genres": "Drama, Romance",
+        "actors": [
+            {
+                "name": "Will Smith",
+                "photo": "https://image.tmdb.org/t/p/w185/1QqaRZ8neYlqLx7ODZC4as47wUV.jpg"
+            },
+            {
+                "name": "Edward Norton",
+                "photo": "https://image.tmdb.org/t/p/w185/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
+            },
+            {
+                "name": "Kate Winslet",
+                "photo": "https://image.tmdb.org/t/p/w185/e3tdop3WhseRnn8KwMVLAV25Ybv.jpg"
+            },
+            {
+                "name": "Michael Peña",
+                "photo": "https://image.tmdb.org/t/p/w185/4ZwGDhtZq6emoYLPEHFCXQubPCE.jpg"
+            },
+            {
+                "name": "Helen Mirren",
+                "photo": "https://image.tmdb.org/t/p/w185/tFc53mBJKhKhlTLaHQkn03NC5hf.jpg"
+            }
+        ],
+        "rating": 7.222,
+        "director": "David Frankel",
+        "runtime": 97,
+        "premiered": "2016-12-15"
+    },
+    {
+        "tmdb_id": 256591,
+        "title": "Golpe Duplo",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a264020cf9076892f1922ca9748ff5a73b608ba1",
+        "poster": "https://image.tmdb.org/t/p/w500/8zhpyz54PF3zfyus8nYGCZgrrBS.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/e3dzlpDdqkVrxfw9gusYPjG5Vub.jpg",
+        "synopsis": "Nicky é um trapaceiro profissional que acaba sendo escolhido como vítima por uma iniciante na profissão, Jess. Esperto como é, ele se deixa cair no golpe para desmascará-la no momento certo. Decepcionada, a ambiciosa Jess insiste para que Nicky lhe ensine seu método de trabalho e a aceite em sua equipe. Após uma certa relutância, Nicky concorda. Mas o problema maior é que ele também acaba se envolvendo romanticamente com ela, o que vai de encontro a uma de suas principais regras.",
+        "studio": "K & S Films",
+        "year": 2015,
+        "genres": "Romance, Comédia, Crime",
+        "actors": [
+            {
+                "name": "Will Smith",
+                "photo": "https://image.tmdb.org/t/p/w185/1QqaRZ8neYlqLx7ODZC4as47wUV.jpg"
+            },
+            {
+                "name": "Margot Robbie",
+                "photo": "https://image.tmdb.org/t/p/w185/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg"
+            },
+            {
+                "name": "Rodrigo Santoro",
+                "photo": "https://image.tmdb.org/t/p/w185/d3MaF9SPHDn2PMYHuqdnO0Csik6.jpg"
+            },
+            {
+                "name": "Gerald McRaney",
+                "photo": "https://image.tmdb.org/t/p/w185/wT7WK9T3ZS3tQTbzPzH9RR1m6NR.jpg"
+            },
+            {
+                "name": "Adrian Martinez",
+                "photo": "https://image.tmdb.org/t/p/w185/id70SLEpj9jelZZepJlapaXH8lR.jpg"
+            }
+        ],
+        "rating": 6.877,
+        "director": "Glenn Ficarra, John Requa",
+        "runtime": 104,
+        "premiered": "2015-02-25"
+    },
+    {
+        "tmdb_id": 12123,
+        "title": "Reaçao em Cadeia",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d855616a13d3c48f57cfd7eb82be103d483c0082",
+        "poster": "https://image.tmdb.org/t/p/w500/ugdjCDRcM3ABif313FF0y14SXwR.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/1tMUw8q9UCVBWNdLpHY0FPLzHJC.jpg",
+        "synopsis": "A descoberta de um combustível potente e não poluente desperta o interesse de criminosos, e a jovem dupla de pesquisadores envolvida no projeto acaba sendo acusada de assassinato e espionagem.",
+        "studio": "Chicago Pacific Entertainment",
+        "year": 1996,
+        "genres": "Ficção científica, Ação, Drama, Thriller",
+        "actors": [
+            {
+                "name": "Keanu Reeves",
+                "photo": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+            },
+            {
+                "name": "Morgan Freeman",
+                "photo": "https://image.tmdb.org/t/p/w185/jPsLqiYGSofU4s6BjrxnefMfabb.jpg"
+            },
+            {
+                "name": "Rachel Weisz",
+                "photo": "https://image.tmdb.org/t/p/w185/9tfHL5tholha1YF6bSKt422ETPM.jpg"
+            },
+            {
+                "name": "Fred Ward",
+                "photo": "https://image.tmdb.org/t/p/w185/9Mq10ZTPuXi674CEqp8RnkBu28f.jpg"
+            },
+            {
+                "name": "Kevin Dunn",
+                "photo": "https://image.tmdb.org/t/p/w185/7dqLQjMNCQnuxQJQwQ5Ozz16LBq.jpg"
+            }
+        ],
+        "rating": 5.8,
+        "director": "Andrew Davis",
+        "runtime": 107,
+        "premiered": "1996-08-02"
+    },
+    {
+        "tmdb_id": 365620,
+        "title": "Ferrari",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9671a14f246a4feb69e0c134a5b66e8870bd54b1",
+        "poster": "https://image.tmdb.org/t/p/w500/gwvIirDw4fKy491PpjSMda28SoN.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/du11oPPbEoDnUpiREO5tUg47rJd.jpg",
+        "synopsis": "O ex-piloto de corrida, Enzo Ferrari está em crise. A falência assombra a empresa que ele e sua mulher, Laura, construíram do nada 10 anos atrás. O casamento tempestuoso dos dois sofre com o luto pela morte de um filho e a dificuldade de reconhecer outro. Ele decide contrapor essas perdas apostando tudo em uma corrida - a icônica Mille Miglia, na Itália.",
+        "studio": "STXfilms",
+        "year": 2023,
+        "genres": "História, Drama",
+        "actors": [
+            {
+                "name": "Adam Driver",
+                "photo": "https://image.tmdb.org/t/p/w185/mG2vwd6hJHTiCh8zIxPFND3ibAj.jpg"
+            },
+            {
+                "name": "Penélope Cruz",
+                "photo": "https://image.tmdb.org/t/p/w185/2Lbc8QXgHik1D1saPqQ5qEWwUEh.jpg"
+            },
+            {
+                "name": "Shailene Woodley",
+                "photo": "https://image.tmdb.org/t/p/w185/gL2NvHKW9wAH3qkZuJ76ULUiArB.jpg"
+            },
+            {
+                "name": "Gabriel Leone",
+                "photo": "https://image.tmdb.org/t/p/w185/wvinAoGZiOGczIEtXWFmXGMl0QC.jpg"
+            },
+            {
+                "name": "Sarah Gadon",
+                "photo": "https://image.tmdb.org/t/p/w185/r0WjZpOuIjF9BRP8y0MDkZ4j1x9.jpg"
+            }
+        ],
+        "rating": 6.411,
+        "director": "Michael Mann",
+        "runtime": 131,
+        "premiered": "2023-12-14"
+    },
      {
         "tmdb_id": 1099413,
         "title": "O Auto da Compadecida 2",
