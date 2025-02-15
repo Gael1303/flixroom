@@ -1,4 +1,946 @@
 [
+
+       {
+        "tmdb_id": 1091923,
+        "title": "Vidas Paralelas",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ca98d8fcb2e3d398854c90866a483ccc93c9757",
+        "poster": "https://image.tmdb.org/t/p/w500/wI87tIEyaq9Eed1Gmj4CPX1zmzf.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/AuKKqJ9dnT7HsIqQk6jBOnrGsFv.jpg",
+        "synopsis": "Uma mulher que consegue se mover entre realidades paralelas perde tragicamente o marido e precisa superar traumas do passado para viajar de volta pelo multiverso e encontrar o caminho para uma realidade em que ele ainda esteja vivo.",
+        "studio": "Desconhecido",
+        "year": 2023,
+        "genres": "Ficção científica, Drama",
+        "actors": [
+            {
+                "name": "Tim DeKay",
+                "photo": "https://image.tmdb.org/t/p/w185/m62gS0B5fcQfFpoq2tmJVfpE43x.jpg"
+            },
+            {
+                "name": "Christina Ulloa",
+                "photo": "https://image.tmdb.org/t/p/w185/qZxxmcrSJJqHcjYAFopwEF9RaUs.jpg"
+            },
+            {
+                "name": "Chris Soldevilla",
+                "photo": null
+            },
+            {
+                "name": "Rachel Noll James",
+                "photo": "https://image.tmdb.org/t/p/w185/5sCutf3VmtV4CACUmZK7rOk8J4i.jpg"
+            },
+            {
+                "name": "Johnny Ferro",
+                "photo": "https://image.tmdb.org/t/p/w185/4vQK97YEpCYBJtjeNJDSpgEGg8I.jpg"
+            }
+        ],
+        "rating": 0.0,
+        "director": "Rachel Noll James",
+        "runtime": 119,
+        "premiered": "2023-09-23"
+    },
+    {
+        "tmdb_id": 1225977,
+        "title": "Boliche do Terror",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b985aac87b375971fd655d960221bc5d8907e6a",
+        "poster": "https://image.tmdb.org/t/p/w500/nxU3XKWPHzry9GKECqJQWbL6EeF.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/kRAlzWh5JerOy7lfm9k3vGlBlV2.jpg",
+        "synopsis": "Na última noite de operação de uma famosa pista de boliche, o que era para ser uma noite de diversão entre amigos se transforma em um pesadelo quando assassinos de um culto sinistro invadem o local.",
+        "studio": "Epic Pictures Group",
+        "year": 2024,
+        "genres": "Terror, Thriller, Comédia",
+        "actors": [
+            {
+                "name": "Francesca Capaldi",
+                "photo": "https://image.tmdb.org/t/p/w185/8shs8CpUiMp69lt1tjUj6nVI8gM.jpg"
+            },
+            {
+                "name": "Mia Rae Roberts",
+                "photo": null
+            },
+            {
+                "name": "Ken Arnold",
+                "photo": "https://image.tmdb.org/t/p/w185/yxQGYkRsx2MxKNEplZsGpWXckH1.jpg"
+            },
+            {
+                "name": "Christopher Walker",
+                "photo": null
+            },
+            {
+                "name": "Wes Johnson",
+                "photo": null
+            }
+        ],
+        "rating": 4.6,
+        "director": "Jamie Nash",
+        "runtime": 75,
+        "premiered": "2024-01-16"
+    },
+    {
+        "tmdb_id": 866124,
+        "title": "Histórias Invisíveis",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd2c507e206f4e1e5bd25b04b2b56881bad20cc7",
+        "poster": "https://image.tmdb.org/t/p/w500/v4YIoskn5M1ZZbDn9kaFPtmJO4Z.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/uIqIH5zr6iSTXSJYkDaMyGhTG30.jpg",
+        "synopsis": "Cecilia e Paula são duas adolescentes sequestradas por uma rede de tráfico de pessoas. Elas são drogadas e espancadas até que assumam suas novas vidas como prostitutas; enquanto seus pais, consumidos pelo desespero, não medem esforços para encontrá-las e trazê-las de volta.",
+        "studio": "Desconhecido",
+        "year": 2024,
+        "genres": "Drama",
+        "actors": [
+            {
+                "name": "Eleonora Wexler",
+                "photo": "https://image.tmdb.org/t/p/w185/1fpoOS4D4yALGhX1pAnTWvXwrC1.jpg"
+            },
+            {
+                "name": "Vanesa González",
+                "photo": "https://image.tmdb.org/t/p/w185/4LBsqc09A0CrM4Z6ujxtLzrVLvQ.jpg"
+            },
+            {
+                "name": "Antonella Ferrari",
+                "photo": "https://image.tmdb.org/t/p/w185/58o9kPZGG7dCgkUkBoLedwOLTqv.jpg"
+            },
+            {
+                "name": "Pablo Pinto",
+                "photo": "https://image.tmdb.org/t/p/w185/tGxxOpNfPymLEkP7l79NWKu99Xd.jpg"
+            },
+            {
+                "name": "Pablo Tolosa",
+                "photo": null
+            }
+        ],
+        "rating": 5.0,
+        "director": "Guillermo Navarro",
+        "runtime": 110,
+        "premiered": "2024-06-06"
+    },
+    {
+        "tmdb_id": 1262716,
+        "title": "A Nova Geraçao da Mafia",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f758344ed96644e1f7f674be6ae7ffcc325e5f78",
+        "poster": "https://image.tmdb.org/t/p/w500/rJpEkFxKSYY2SUwNZITrNP4CYmo.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6Vk4XIPGzPDjPL7jPQApz0Vg4PY.jpg",
+        "synopsis": "O príncipe da máfia de Nova Jersey é um especialista em tecnologia, que está reestruturando o crime organizado da cidade. Mas seus planos são interrompidos quando seu ex-melhor amigo tenta roubar sua posição de liderança no mundo do crime.",
+        "studio": "Jersey Bred Productions",
+        "year": 2024,
+        "genres": "Crime, Drama",
+        "actors": [
+            {
+                "name": "Chris Tardio",
+                "photo": "https://image.tmdb.org/t/p/w185/liVUUa1KJii6i1Vp5RlVXwW6aZT.jpg"
+            },
+            {
+                "name": "Jeremy Luke",
+                "photo": "https://image.tmdb.org/t/p/w185/aQn5wGJTGNoqcXVBzwKLjffuVSI.jpg"
+            },
+            {
+                "name": "Ava Paloma",
+                "photo": "https://image.tmdb.org/t/p/w185/hnRTDLJ7otWq8XES6Vn7LIWOovj.jpg"
+            },
+            {
+                "name": "Patrick Borriello",
+                "photo": "https://image.tmdb.org/t/p/w185/7STtfz3uolAr8xzQlMhRFGEkNBe.jpg"
+            },
+            {
+                "name": "Lorenzo Antonucci",
+                "photo": "https://image.tmdb.org/t/p/w185/rUPpfC8HwWdwB8NNP1m1zLPIhlH.jpg"
+            }
+        ],
+        "rating": 0.0,
+        "director": "Greg Russo",
+        "runtime": 92,
+        "premiered": "2024-03-21"
+    },
+    {
+        "tmdb_id": 1027261,
+        "title": "O Clube das Mulheres de Negocios",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ada47f6d09d497d142bda4dc043ad8bcb50d6870",
+        "poster": "https://image.tmdb.org/t/p/w500/zuwlC3cfK4IYBLtUFE5Gx4V0D0J.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/h1yg0xhl3aWOKOBpFs7UwkHNqON.jpg",
+        "synopsis": "Num mundo imaginário em que os estereótipos de gênero estão invertidos, o clube de campo frequentado por poderosas mulheres de negócios recebe a visita de dois jornalistas. Enquanto as sócias almoçam, três onças escapam do onçário, desencadeando um jogo de negação, mentiras e ataques que pode acabar mal.",
+        "studio": "Glaz Entretenimento",
+        "year": 2024,
+        "genres": "Comédia, Drama",
+        "actors": [
+            {
+                "name": "Rafael Vitti",
+                "photo": "https://image.tmdb.org/t/p/w185/13665Z5mw7pqcTx97Nfx4f5oxoG.jpg"
+            },
+            {
+                "name": "Luis Miranda",
+                "photo": "https://image.tmdb.org/t/p/w185/50lRvJ7kB92YHjCpySaGK0QLdGW.jpg"
+            },
+            {
+                "name": "Cristina Pereira",
+                "photo": "https://image.tmdb.org/t/p/w185/FjBsbgaOpYbS1mpXIBnEkN6g1V.jpg"
+            },
+            {
+                "name": "Irene Ravache",
+                "photo": "https://image.tmdb.org/t/p/w185/jmssLNVFollqhomCHHmfl0UGHib.jpg"
+            },
+            {
+                "name": "Louise Cardoso",
+                "photo": "https://image.tmdb.org/t/p/w185/6GKFtZzm1ST4eXUZLyki0i6pFyr.jpg"
+            }
+        ],
+        "rating": 5.0,
+        "director": "Anna Muylaert",
+        "runtime": 95,
+        "premiered": "2024-11-28"
+    },
+    {
+        "tmdb_id": 1005854,
+        "title": "Maldição de Família",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce8f9a9d26f2026fffc796d95f9f6a290591a841",
+        "poster": "https://image.tmdb.org/t/p/w500/pJJYHQujBUI7hWLDRQuV9WKBxmf.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/oRM3M5AOjC0qgzWJGHBTEqVWtI1.jpg",
+        "synopsis": "As irmãs Sofia e Carmen nunca tiveram a chance de conhecer sua avó. Quando recebem o convite para visitá-la em uma antiga fazenda, elas descobrem que a mulher sofre de uma terrível maldição e se veem obrigadas a lutar por suas vidas.",
+        "studio": "WP Films",
+        "year": 2022,
+        "genres": "Terror",
+        "actors": [
+            {
+                "name": "Ana Grethel Solís",
+                "photo": "https://image.tmdb.org/t/p/w185/8yqQH8epNEdfgFHPq3LdHLwvfju.jpg"
+            },
+            {
+                "name": "Isabella Sierra",
+                "photo": null
+            },
+            {
+                "name": "Stella Lauri",
+                "photo": "https://image.tmdb.org/t/p/w185/9VJ1EMYMdW180nW7sEJOcEuHJAQ.jpg"
+            },
+            {
+                "name": "Freddy D'Elia",
+                "photo": null
+            },
+            {
+                "name": "Nick Romano",
+                "photo": "https://image.tmdb.org/t/p/w185/6gyOQ1fCQ2eWa5en4QU2dlXgRbt.jpg"
+            }
+        ],
+        "rating": 4.8,
+        "director": "Alberto Serra",
+        "runtime": 90,
+        "premiered": "2022-07-28"
+    },
+    {
+        "tmdb_id": 1000569,
+        "title": "À Procura da Perfeição",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f16167d95578c4893e7049aff02052093ce64b48",
+        "poster": "https://image.tmdb.org/t/p/w500/sNfqSx8A50NjCAETegsv0YvZEp7.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3xo1TDWQXL3AYpuDeruQ6UsR5Jv.jpg",
+        "synopsis": "Jennifer Rogiers é uma talentosa pianista que conviveu com um terrível segredo durante toda sua vida. Quando ela tem a chance de competir em uma famosa competição de música, memórias de sua infância traumática vêm à tona.",
+        "studio": "Savage Film",
+        "year": 2023,
+        "genres": "Drama, Thriller, Música",
+        "actors": [
+            {
+                "name": "Kevin Janssens",
+                "photo": "https://image.tmdb.org/t/p/w185/gzKVkmCYNSvJDvin2B4RPT1WeJT.jpg"
+            },
+            {
+                "name": "Ruth Becquart",
+                "photo": "https://image.tmdb.org/t/p/w185/rQ8rDGAMD1Q3MCL62x5gQsFXAOV.jpg"
+            },
+            {
+                "name": "Taeke Nicolaï",
+                "photo": "https://image.tmdb.org/t/p/w185/eNBnAI41wJT3i0ghhr41MKm5GmF.jpg"
+            },
+            {
+                "name": "Renée Vanderjeugd",
+                "photo": null
+            },
+            {
+                "name": "Lydia Indjova",
+                "photo": "https://image.tmdb.org/t/p/w185/8WPwmoGCQOSrQ3tdWnPH42Wn39h.jpg"
+            }
+        ],
+        "rating": 6.6,
+        "director": "Dominique Deruddere",
+        "runtime": 96,
+        "premiered": "2023-02-08"
+    },
+    {
+        "tmdb_id": 1361622,
+        "title": "Invasão de Lua de Mel",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8dfb1532495d83931a96f76833cc60fc0fac222b",
+        "poster": "https://image.tmdb.org/t/p/w500/JRF2CsPVaqbjxJkZM0zAKfdoXH.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/pz0wQh69Fc88xJgEBGCnr8RHmQj.jpg",
+        "synopsis": "Trocado pelo ex da noiva em pleno altar, um jovem acaba passando a lua de mel com a mãe.",
+        "studio": "Borsalino Productions",
+        "year": 2025,
+        "genres": "Comédia",
+        "actors": [
+            {
+                "name": "Michèle Laroque",
+                "photo": "https://image.tmdb.org/t/p/w185/rTl6Ij9BH42bDiNmUzZ1YlKqW9t.jpg"
+            },
+            {
+                "name": "Julien Frison",
+                "photo": "https://image.tmdb.org/t/p/w185/8WjUdv56Ipwzbc2fyWGSuO6y5OM.jpg"
+            },
+            {
+                "name": "Rossy de Palma",
+                "photo": "https://image.tmdb.org/t/p/w185/3IH9ZBUcFNwBr8IcS1RZhMKTpeg.jpg"
+            },
+            {
+                "name": "Gilbert Melki",
+                "photo": "https://image.tmdb.org/t/p/w185/f1TwBvQV0vJTzpws5EL4On9Fb9n.jpg"
+            },
+            {
+                "name": "Margot Bancilhon",
+                "photo": "https://image.tmdb.org/t/p/w185/hUMUasBzmbUmaaulsACP5wKI433.jpg"
+            }
+        ],
+        "rating": 5.8,
+        "director": "Nicolas Cuche",
+        "runtime": 95,
+        "premiered": "2025-02-11"
+    },
+    {
+        "tmdb_id": 1325482,
+        "title": "Morte Antes do Casamento",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc9516af32bbd40e295455bd207bc641fe3208e2",
+        "poster": "https://image.tmdb.org/t/p/w500/fQOyS5280smeEOqXJ6VQbGFospl.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/vgLIWB6i15FOdhOCirPZ6Qw5Wvh.jpg",
+        "synopsis": "Quando Maja leva o noivo para casa, sua família tradicional precisa superar os preconceitos culturais em meio a uma crise na fazenda. Será que o amor vai vencer?",
+        "studio": "MAG Entertainment",
+        "year": 2025,
+        "genres": "Comédia, Romance",
+        "actors": [
+            {
+                "name": "Agnieszka Suchora",
+                "photo": "https://image.tmdb.org/t/p/w185/eYGB6GOAsKzesArYw4o7fxmQbu.jpg"
+            },
+            {
+                "name": "Tomasz Karolak",
+                "photo": "https://image.tmdb.org/t/p/w185/yyFyALFiui8fBgBPwlciBHbrPCK.jpg"
+            },
+            {
+                "name": "Natalia Sitarska",
+                "photo": "https://image.tmdb.org/t/p/w185/awxAN9EVKZqj5w0Vk8IsdNlrx3R.jpg"
+            },
+            {
+                "name": "Gamou Fall",
+                "photo": "https://image.tmdb.org/t/p/w185/gK3TI3oZbdEDFsQvzSlOB1xttpn.jpg"
+            },
+            {
+                "name": "Paulina Gałązka",
+                "photo": "https://image.tmdb.org/t/p/w185/diQYiFu59qhDrLNmt5F0aYNTeK.jpg"
+            }
+        ],
+        "rating": 4.0,
+        "director": "Tomasz Konecki, Iwona Ogonowska-Konecka",
+        "runtime": 106,
+        "premiered": "2025-02-11"
+    },
+    {
+        "tmdb_id": 1181578,
+        "title": "Pressao Maxima",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe982a562216b365592c129cd5505edb728e7296",
+        "poster": "https://image.tmdb.org/t/p/w500/gPFXYJ2kgqLiGQttKnQXTxhAzF7.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/wGBdHmzTgB7dl6VIZAvC2Gv0Bf2.jpg",
+        "synopsis": "Um cientista de renome assalta um banco e faz reféns, dando início a um tenso impasse policial. À medida que a negociação se desenrola, verdades chocantes sobre o seu passado vêm à tona, revelando os seus verdadeiros motivos.",
+        "studio": "Česká televize",
+        "year": 2023,
+        "genres": "Thriller, Crime, Drama",
+        "actors": [
+            {
+                "name": "Matěj Hádek",
+                "photo": "https://image.tmdb.org/t/p/w185/cPZluu9KzDpNPron6npjzfm5CSZ.jpg"
+            },
+            {
+                "name": "Lucie Štěpánková",
+                "photo": "https://image.tmdb.org/t/p/w185/57vEmy6wGdLzhZJuIj7RRPEgE3b.jpg"
+            },
+            {
+                "name": "Jana Hinková",
+                "photo": "https://image.tmdb.org/t/p/w185/hsY9xP3rBN66O6rjtG9mlnHMI1M.jpg"
+            },
+            {
+                "name": "Igor Orozovič",
+                "photo": "https://image.tmdb.org/t/p/w185/gfebmUBMgEF9u4DfUAEOFZc5KQs.jpg"
+            },
+            {
+                "name": "Kajetán Písařovic",
+                "photo": "https://image.tmdb.org/t/p/w185/eYiIUq47l5jv0tBMyPVCs5edAMA.jpg"
+            }
+        ],
+        "rating": 7.0,
+        "director": "Jiří Svoboda",
+        "runtime": 80,
+        "premiered": "2023-09-22"
+    },
+    {
+        "tmdb_id": 926670,
+        "title": "Henry Danger: O Filme",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54ce3863a30a9358219e952ed058e28fb5c34aac",
+        "poster": "https://image.tmdb.org/t/p/w500/wY4vp8nxrQYgBb3vpIcySqK7HK8.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/x8Kdi1OJbewkeGuijcSmUWrYyk2.jpg",
+        "synopsis": "Henry Danger conhece uma superfã - ansiosa para combater o crime com Kid Danger - que possui um dispositivo que pode abrir realidades alternativas. Enfrentando uma viagem alucinante, Henry precisará de seu melhor amigo Jasper e de sua nova companheira superfã para encontrar a saída ou ficar preso em outra dimensão para sempre.",
+        "studio": "Yes, Yes Coffee.",
+        "year": 2025,
+        "genres": "Ação, Comédia, Família, Ficção científica",
+        "actors": [
+            {
+                "name": "Jace Norman",
+                "photo": "https://image.tmdb.org/t/p/w185/jmE5l8w1wAbPhuD6j7qItZxmQkZ.jpg"
+            },
+            {
+                "name": "Sean Ryan Fox",
+                "photo": "https://image.tmdb.org/t/p/w185/5VdeZBDH4yTc6uy5PDYFWbJX8zF.jpg"
+            },
+            {
+                "name": "Ella Anderson",
+                "photo": "https://image.tmdb.org/t/p/w185/hmyZS475t1RxljUgG67q5FBL2wU.jpg"
+            },
+            {
+                "name": "Michael D. Cohen",
+                "photo": "https://image.tmdb.org/t/p/w185/eEs2yjMUQnmIvwPx66bhL4f55eI.jpg"
+            },
+            {
+                "name": "Frankie Grande",
+                "photo": "https://image.tmdb.org/t/p/w185/z1J7iACko7QSXkeurQNwbq59RSF.jpg"
+            }
+        ],
+        "rating": 8.8,
+        "director": "Joe Menendez",
+        "runtime": 86,
+        "premiered": "2025-01-17"
+    },
+    {
+        "tmdb_id": 615322,
+        "title": "O Amor Dá Trabalho",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a15ebd40473d1361de4a69983c53cf0c320afe9",
+        "poster": "https://image.tmdb.org/t/p/w500/nFYmSbOQ1MqnNmKwggTfdm0Rdjc.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/i2jvD18kutdcdJMCgZr3goirTKN.jpg",
+        "synopsis": "Malandro e aproveitador,  Ancelmo morre e acaba ficando preso no limbo. Para garantir seu lugar no céu, ele precisa praticar uma boa ação e bancar o cupido, pois recebe a missão de unir um homem e uma mulher com personalidades muito divergentes.",
+        "studio": "Globo Filmes",
+        "year": 2019,
+        "genres": "Comédia, Romance, Fantasia",
+        "actors": [
+            {
+                "name": "Leandro Hassum",
+                "photo": "https://image.tmdb.org/t/p/w185/ulXMwJqQMZwSpKyx3We1LSJUVXX.jpg"
+            },
+            {
+                "name": "Flávia Alessandra",
+                "photo": "https://image.tmdb.org/t/p/w185/nteX5A1rQ5qdeXrEEVLzW4ueQMT.jpg"
+            },
+            {
+                "name": "Bruno Garcia",
+                "photo": "https://image.tmdb.org/t/p/w185/yAfZdWYVyVjARNZB92hhCBCBgbW.jpg"
+            },
+            {
+                "name": "Felipe Torres",
+                "photo": "https://image.tmdb.org/t/p/w185/40emihxXgI7VslgYfR6elVDyPl1.jpg"
+            },
+            {
+                "name": "Monique Alfradique",
+                "photo": "https://image.tmdb.org/t/p/w185/42G6lu5IeBvjMoQTyuKal2dcbbp.jpg"
+            }
+        ],
+        "rating": 6.3,
+        "director": "Ale McHaddo",
+        "runtime": 100,
+        "premiered": "2019-08-29"
+    },
+    {
+        "tmdb_id": 1128515,
+        "title": "O Azar é Todo Seu",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d28712f4cb5df700fbc623437eea5508f304735c",
+        "poster": "https://image.tmdb.org/t/p/w500/bQV2v3f1FCoV3QqgCNooSZvLthc.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/kw41NDZNxi38KdWld7azoRss8mT.jpg",
+        "synopsis": "Monika é uma mulher de 50 anos que possui uma linda família e uma carreira brilhante. No entanto, sentindo que ainda falta algo em sua vida, ela decide buscar novas aventuras e se matricula em um curso de montanhismo.",
+        "studio": "Sardinka Production, s.r.o",
+        "year": 2023,
+        "genres": "Romance, Comédia",
+        "actors": [
+            {
+                "name": "Michaela Mikulášová-Čobejová",
+                "photo": "https://image.tmdb.org/t/p/w185/6qvkfuNeNrAAgGNCbOjYg34aSgV.jpg"
+            },
+            {
+                "name": "Ivan Franěk",
+                "photo": "https://image.tmdb.org/t/p/w185/lzv69BsRg5dc83q5bLntXHEaEJo.jpg"
+            },
+            {
+                "name": "Leona Skleničková",
+                "photo": "https://image.tmdb.org/t/p/w185/qmbuDTKzrk1dcPy6ecXGHKHNeRI.jpg"
+            },
+            {
+                "name": "Jakub Štáfek",
+                "photo": "https://image.tmdb.org/t/p/w185/1OLKt71UOlFgqgIJWeCDuZCFHq2.jpg"
+            },
+            {
+                "name": "Ady Hajdu",
+                "photo": "https://image.tmdb.org/t/p/w185/qBS1uEUTitCdvYisrgqAiA0dHN0.jpg"
+            }
+        ],
+        "rating": 5.0,
+        "director": "Samuel Spišák",
+        "runtime": 0,
+        "premiered": "2023-06-15"
+    },
+    {
+        "tmdb_id": 607365,
+        "title": "Kandisha: Invocação ao Demônio",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:784da5c0f1842e4fd3837116b05a107e873f913a",
+        "poster": "https://image.tmdb.org/t/p/w500/2DJjZhbV5qsoBVGAyKOTSiFTXiO.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/8NKMMYUNnXk3ZoJdYRmYTfXHZsu.jpg",
+        "synopsis": "Parecia que Amélie, Bintou e Morjana passariam um verão tranquilo na cidade, até que o ex de Amelie a ataca brutalmente. Após o ataque, Amelie se lembra da lenda de Kandisha e lhe pede um favor. Tudo muda no dia seguinte, quando ele é encontrado morto.",
+        "studio": "Esprits Frappeurs",
+        "year": 2022,
+        "genres": "Terror",
+        "actors": [
+            {
+                "name": "Mathilde La Musse",
+                "photo": "https://image.tmdb.org/t/p/w185/r12tZ42L1OfQwQfGylyEMheE4nw.jpg"
+            },
+            {
+                "name": "Samarcande Saadi",
+                "photo": null
+            },
+            {
+                "name": "Suzy Bemba",
+                "photo": "https://image.tmdb.org/t/p/w185/1JT97VgV2l6jNpFeYXZ8SQu3BOr.jpg"
+            },
+            {
+                "name": "Nassim Lyes",
+                "photo": "https://image.tmdb.org/t/p/w185/nMJ1qjhdfgRT8JuyUfFEkEwihOW.jpg"
+            },
+            {
+                "name": "Walid Afkir",
+                "photo": "https://image.tmdb.org/t/p/w185/i1bVnKyp4Ro3z4378RAICszb4JG.jpg"
+            }
+        ],
+        "rating": 6.1,
+        "director": "Julien Maury, Alexandre Bustillo",
+        "runtime": 85,
+        "premiered": "2022-03-24"
+    },
+    {
+        "tmdb_id": 1252377,
+        "title": "O Doce Lar",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53fd4d4d88743292ebdd18e86e8cf367110b7c5f",
+        "poster": "https://image.tmdb.org/t/p/w500/y3GXsdVfxIMA5IVQ2KNnBzDi1RM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/s1ge9SG2zfJdMeZ69VMEbxeKuAE.jpg",
+        "synopsis": "Eric corre para a Itália para impedir a filha de comprar um casarão caindo aos pedaços na Toscana, mas acaba encontrando beleza, amor e um novo propósito.",
+        "studio": "Front Row Films",
+        "year": 2025,
+        "genres": "Romance, Comédia",
+        "actors": [
+            {
+                "name": "Scott Foley",
+                "photo": "https://image.tmdb.org/t/p/w185/t1O7tOQINFScNP4SjNzahLfS39o.jpg"
+            },
+            {
+                "name": "Violante Placido",
+                "photo": "https://image.tmdb.org/t/p/w185/qVs8LdHIU2E5RlSuSr4MK0zyf7B.jpg"
+            },
+            {
+                "name": "Maia Reficco",
+                "photo": "https://image.tmdb.org/t/p/w185/aLsKAj2ZgNGcWFGiqzB1PGO9mqY.jpg"
+            },
+            {
+                "name": "Giuseppe Futia",
+                "photo": "https://image.tmdb.org/t/p/w185/nNYm0uT9nb7dlXstR3W9HeYI2tw.jpg"
+            },
+            {
+                "name": "Simone Luglio",
+                "photo": "https://image.tmdb.org/t/p/w185/cBTCC0s3m8x3lY054YJCm2fzhfH.jpg"
+            }
+        ],
+        "rating": 6.231,
+        "director": "Mark Waters",
+        "runtime": 99,
+        "premiered": "2025-02-12"
+    },
+    {
+        "tmdb_id": 1294203,
+        "title": "Minha Culpa: Londres",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b43516a088f6f524d8fb49912a852ff2cd654e0",
+        "poster": "https://image.tmdb.org/t/p/w500/grM1am6mYzxA84xDzTk23FQU7dG.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/uJK0jjJ8QDOQw5lcNBwu059ht4D.jpg",
+        "synopsis": "Noah, de 18 anos, se muda dos EUA para Londres com a mãe, que recentemente se apaixonou por William, um rico empresário britânico. Noah conhece o filho de William, o bad boy Nick, e logo descobre uma atração que nenhum dos dois consegue evitar. Enquanto Noah passa o verão tentando se ajustar à nova vida, seu passado devastador a atingirá em cheio justo quando se apaixona pela primeira vez.",
+        "studio": "42",
+        "year": 2025,
+        "genres": "Romance, Drama",
+        "actors": [
+            {
+                "name": "Asha Banks",
+                "photo": "https://image.tmdb.org/t/p/w185/9McWYJPSySGOcNr5KuFWyW2bLe7.jpg"
+            },
+            {
+                "name": "Matthew Broome",
+                "photo": "https://image.tmdb.org/t/p/w185/nSjPuDG5IVQfyMU8TkZl0ZQkLu6.jpg"
+            },
+            {
+                "name": "Eve Macklin",
+                "photo": "https://image.tmdb.org/t/p/w185/2LaLgZbTBwLy1KojJ8UQivli4fF.jpg"
+            },
+            {
+                "name": "Ray Fearon",
+                "photo": "https://image.tmdb.org/t/p/w185/ou2cqhqdhfQoKVEBpIh0P3sKZti.jpg"
+            },
+            {
+                "name": "Enva Lewis",
+                "photo": "https://image.tmdb.org/t/p/w185/hFBuqi7NFiFgHho2J2IM43nZcrG.jpg"
+            }
+        ],
+        "rating": 7.1,
+        "director": "Dani Girdwood, Charlotte Fassler",
+        "runtime": 119,
+        "premiered": "2025-02-12"
+    },
+    {
+        "tmdb_id": 64682,
+        "title": "O Grande Gatsby",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1ca6ab5535be169fb0b357ebbf2415931856d40",
+        "poster": "https://image.tmdb.org/t/p/w500/p6ukaFwMbjqZVl77PLpUIoJS4u1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/j9NGh8z7v2mLpGKkvUAHox81bqi.jpg",
+        "synopsis": "Nick Carraway tinha um grande fascínio por seu vizinho, o misterioso Jay Gatsby. Após ser convidado pelo milionário para uma festa incrível, o relacionamento de ambos torna-se uma forte amizade. Quando Nick descobre que seu amigo tem uma antiga paixão por sua prima Daisy Buchanan, ele resolve reaproximar os dois, esquecendo o fato dela ser casada com seu velho amigo dos tempos de faculdade, o também endinheirado Tom Buchanan. Agora, o conflito está armado e as consequências serão trágicas.",
+        "studio": "Warner Bros. Pictures",
+        "year": 2013,
+        "genres": "Drama, Romance",
+        "actors": [
+            {
+                "name": "Leonardo DiCaprio",
+                "photo": "https://image.tmdb.org/t/p/w185/ts9l18VkDSooRGDWIeQegNVHciC.jpg"
+            },
+            {
+                "name": "Tobey Maguire",
+                "photo": "https://image.tmdb.org/t/p/w185/ncF4HivY2W6SQW5dEP3N3I4mfT0.jpg"
+            },
+            {
+                "name": "Carey Mulligan",
+                "photo": "https://image.tmdb.org/t/p/w185/3B1PDEBAZKyNLUbXggU7C215BCs.jpg"
+            },
+            {
+                "name": "Joel Edgerton",
+                "photo": "https://image.tmdb.org/t/p/w185/2YzeeiYUbI94Ywc7MVMo1NcN6jf.jpg"
+            },
+            {
+                "name": "Elizabeth Debicki",
+                "photo": "https://image.tmdb.org/t/p/w185/ljHfp4MKl5quPmf98gGHBNdO9Vd.jpg"
+            }
+        ],
+        "rating": 7.4,
+        "director": "Baz Luhrmann",
+        "runtime": 143,
+        "premiered": "2013-05-09"
+    },
+    {
+        "tmdb_id": 286256,
+        "title": "Tim Maia",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89e21cc09044851c22e5e188db0b86e3037174ae",
+        "poster": "https://image.tmdb.org/t/p/w500/kVE2wZU3Xd4yQDKSOwIrLhGGoB3.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/oWrVFKok58M7Gdkjdj8pwXviURV.jpg",
+        "synopsis": "Cinebiografia do cantor Tim Maia, baseada no livro “Vale Tudo – O Som e a Fúria de Tim Maia”. O filme percorre cinquenta anos na vida do artista, desde a sua infância no Rio de Janeiro até a sua morte, aos 55 anos de idade, incluindo a passagem pelos Estados Unidos, onde o cantor descobre novos estilos musicais e é preso por roubo e posse de drogas.",
+        "studio": "RT Features",
+        "year": 2014,
+        "genres": "Drama, Música, História",
+        "actors": [
+            {
+                "name": "Babu Santana",
+                "photo": "https://image.tmdb.org/t/p/w185/uEOL1Q3pNMZmzYF3nJcIcgeGAtV.jpg"
+            },
+            {
+                "name": "Robson Nunes",
+                "photo": "https://image.tmdb.org/t/p/w185/ux4IXL4J4WDIGN5xURb4nhIS2Mm.jpg"
+            },
+            {
+                "name": "Alinne Moraes",
+                "photo": "https://image.tmdb.org/t/p/w185/zO9IXQbEeLaYd73vwfQSgSjbIqT.jpg"
+            },
+            {
+                "name": "Cauã Reymond",
+                "photo": "https://image.tmdb.org/t/p/w185/iG8EmXJsrqtfIonw9RHOX64aNJ9.jpg"
+            },
+            {
+                "name": "Valdineia Soriano",
+                "photo": "https://image.tmdb.org/t/p/w185/1FnFi3H31uOjrrtM0EPU0Cc86z5.jpg"
+            }
+        ],
+        "rating": 7.3,
+        "director": "Mauro Lima",
+        "runtime": 140,
+        "premiered": "2014-10-30"
+    },
+    {
+        "tmdb_id": 950396,
+        "title": "Entre Montanhas",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb9eeac7c6f4db7883904f1ac94a9f9943c44c28",
+        "poster": "https://image.tmdb.org/t/p/w500/7zL6RxMPmpPSdU5OTdVC4dtiKcr.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ntQ1Y9fr7IFT1XN9NfdIFomSKHg.jpg",
+        "synopsis": "Dois agentes altamente treinados se aproximam à distância após serem enviados para proteger lados opostos de um desfiladeiro misterioso. Quando um mal emerge, eles precisam trabalhar juntos para sobreviver ao que está lá dentro.",
+        "studio": "Skydance Media",
+        "year": 2025,
+        "genres": "Thriller, Romance, Terror",
+        "actors": [
+            {
+                "name": "Anya Taylor-Joy",
+                "photo": "https://image.tmdb.org/t/p/w185/yZpghhtKM2VZHDx6JGAZqAVU4PL.jpg"
+            },
+            {
+                "name": "Miles Teller",
+                "photo": "https://image.tmdb.org/t/p/w185/cg3LW0xX6RKr8dmescxq1bepcb5.jpg"
+            },
+            {
+                "name": "Sigourney Weaver",
+                "photo": "https://image.tmdb.org/t/p/w185/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+            },
+            {
+                "name": "Sope Dirisu",
+                "photo": "https://image.tmdb.org/t/p/w185/24Se9voPxrO200Ae8GQRbMkE55B.jpg"
+            },
+            {
+                "name": "William Houston",
+                "photo": "https://image.tmdb.org/t/p/w185/4J4TG1dbyJcSs78hP9fU2x8jrJs.jpg"
+            }
+        ],
+        "rating": 7.0,
+        "director": "Scott Derrickson",
+        "runtime": 127,
+        "premiered": "2025-02-13"
+    },
+    {
+        "tmdb_id": 788024,
+        "title": "O Despertar de Um Mestre",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa66d29ea00e414b4e6305b0a30636b3a7003800",
+        "poster": "https://image.tmdb.org/t/p/w500/1ULNeBmJV3Omjl24xZkXd9bsrpz.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/xLYlvVMmAPqPvYeCD92l9P3nsA4.jpg",
+        "synopsis": "Um jovem estuda artes marciais para se vingar de seus valentões, mas aprende uma lição mais profunda e descobre em seu interior o que é preciso para ser um verdadeiro mestre de Kung Fu.",
+        "studio": "Desconhecido",
+        "year": 2018,
+        "genres": "Ação, Comédia, Música",
+        "actors": [
+            {
+                "name": "Mikhail Tot",
+                "photo": null
+            },
+            {
+                "name": "Stephen Haas",
+                "photo": null
+            },
+            {
+                "name": "Jason L. Wang",
+                "photo": null
+            },
+            {
+                "name": "Rosy Hong",
+                "photo": "https://image.tmdb.org/t/p/w185/g0uWvD8RxE0HqNL6QUTvg1DtWwF.jpg"
+            },
+            {
+                "name": "Kyle Znamenak",
+                "photo": null
+            }
+        ],
+        "rating": 6.9,
+        "director": "Johnny Wu",
+        "runtime": 92,
+        "premiered": "2018-07-23"
+    },
+    {
+        "tmdb_id": 1053996,
+        "title": "Uma Ilha Quase Deserta",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c06f5e2f245cc37d76d80a78787de147d4426a3",
+        "poster": "https://image.tmdb.org/t/p/w500/1FjxLo1IRaeKFzCIjCn9Wv76zry.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/scjZzQUCMwaIn6uJHbKaOjLwO39.jpg",
+        "synopsis": "A Rainha Esmeralda odeia os homens pois foram eles os responsáveis por tirar toda sua liberdade. Disposta a não deixar que suas duas filhas sofram do mesmo destino, ela decide levá-las para uma ilha deserta. O único problema é que a ilha é habitada por um lenhador e seus dois filhos, que desejam nunca mais se encontrarem com uma mulher.",
+        "studio": "Pris & Batty Films",
+        "year": 2023,
+        "genres": "Comédia, Fantasia, Romance",
+        "actors": [
+            {
+                "name": "Emma Suárez",
+                "photo": "https://image.tmdb.org/t/p/w185/46VjvDA7znpxJvYmbu4t9PjoGfJ.jpg"
+            },
+            {
+                "name": "Gonzalo de Castro",
+                "photo": "https://image.tmdb.org/t/p/w185/abAM8NPul7V7g1B08wSM9QKht6Y.jpg"
+            },
+            {
+                "name": "Alexandra Jiménez",
+                "photo": "https://image.tmdb.org/t/p/w185/wkVjpWajYRV1Bj7OyJmmFcb5ixF.jpg"
+            },
+            {
+                "name": "Fernando Guallar",
+                "photo": "https://image.tmdb.org/t/p/w185/yvlJ68jeSaT1amwgsNLDbvX44L3.jpg"
+            },
+            {
+                "name": "Anna Moliner",
+                "photo": "https://image.tmdb.org/t/p/w185/w9dp2fN5lxahSec6XT2TAkWQz1z.jpg"
+            }
+        ],
+        "rating": 6.3,
+        "director": "Vicente Villanueva",
+        "runtime": 105,
+        "premiered": "2023-09-29"
+    },
+    {
+        "tmdb_id": 1009116,
+        "title": "Ate Que a Vida Nos Separe",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2af2321223691a0121d994a1c16494c054e6379b",
+        "poster": "https://image.tmdb.org/t/p/w500/9geEbp4y7wUWM6oHzqppRnghCAb.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ag25pIBv2PCCGFChGOC8QeUNzej.jpg",
+        "synopsis": "Katia e Justine são duas mulheres que se apaixonam e resolvem ter um bebê, mas assim que Katia fica grávida, Justine decide acabar com a relação.",
+        "studio": "FullDawa Films",
+        "year": 2023,
+        "genres": "Romance, Drama",
+        "actors": [
+            {
+                "name": "Juliette Delacroix",
+                "photo": "https://image.tmdb.org/t/p/w185/nMZFoUOBcr4bxGqEZWdHQggqAnW.jpg"
+            },
+            {
+                "name": "Alexis Michalik",
+                "photo": "https://image.tmdb.org/t/p/w185/mTkQ8zxBj9uIFJeN5yR3uKOGMnk.jpg"
+            },
+            {
+                "name": "Pauline Bression",
+                "photo": "https://image.tmdb.org/t/p/w185/pIvGvGgLJoynQu5okoXSra3Ra72.jpg"
+            },
+            {
+                "name": "Manon Maindivide",
+                "photo": "https://image.tmdb.org/t/p/w185/2bGHO0KHfpXTSFMpeJwlUj530nt.jpg"
+            },
+            {
+                "name": "Daniel Njo Lobé",
+                "photo": "https://image.tmdb.org/t/p/w185/qUHgblg8GHvEJhQMXBV3Ld9vBEW.jpg"
+            }
+        ],
+        "rating": 6.9,
+        "director": "Alexis Michalik",
+        "runtime": 88,
+        "premiered": "2023-04-12"
+    },
+    {
+        "tmdb_id": 1201012,
+        "title": "Viva os Noivos!",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3544806bd6f2204aac06856b67b8ce589337e33c",
+        "poster": "https://image.tmdb.org/t/p/w500/4AvT0zWGUcxVkEylAtKEjvY8brc.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/l2QSVFR5aLcW1Vl4cGKrQkEp6fY.jpg",
+        "synopsis": "Em Viva os Noivos! aquela que deveria ser uma noite de comemoração para os recém casados se torna o ínicio de uma grande aventura. O casal precisa se juntar para elaborar planos de fuga dos capangas que procuram o misterioso Charles. Entre muita ação, tiros e declarações, o casal precisa comemorar sua lua de mel lutando para permanecerem vivos.",
+        "studio": "B62 Studios",
+        "year": 2025,
+        "genres": "Ação, Comédia, Romance",
+        "actors": [
+            {
+                "name": "Yami Gautam",
+                "photo": "https://image.tmdb.org/t/p/w185/qcbOTAdGGwmodTSIh8HTtq4QWDv.jpg"
+            },
+            {
+                "name": "Pratik Gandhi",
+                "photo": "https://image.tmdb.org/t/p/w185/2sTvUaMSyfJbfexFZtZvac7BK7w.jpg"
+            },
+            {
+                "name": "Eijaz Khan",
+                "photo": "https://image.tmdb.org/t/p/w185/qCcZ1X4TnOSugw5vcJ4lnbHgAmX.jpg"
+            },
+            {
+                "name": "Mukul Chadda",
+                "photo": "https://image.tmdb.org/t/p/w185/veGkWux7P6xfXbn5vVmemqDNM9E.jpg"
+            },
+            {
+                "name": "Pavitra Sarkar",
+                "photo": null
+            }
+        ],
+        "rating": 8.0,
+        "director": "Rishab Seth",
+        "runtime": 108,
+        "premiered": "2025-02-14"
+    },
+    {
+        "tmdb_id": 1425200,
+        "title": "Umjolo: O Amor Não Tem Cura",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b2d17374bba770aee8b56d62d473a9b52881e9e",
+        "poster": "https://image.tmdb.org/t/p/w500/2JXvvx0JSKb3uZjLi7YRjZ9WgX9.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/eT1udCQQAXVuLkb26911aUwg76L.jpg",
+        "synopsis": "Depois de perder o título por expor um escândalo, uma ex-miss decide escrever uma autobiografia. Mas sua vida amorosa ainda é uma página em branco.",
+        "studio": "Desconhecido",
+        "year": 2025,
+        "genres": "Romance, Comédia, Drama",
+        "actors": [],
+        "rating": 7.0,
+        "director": "",
+        "runtime": 78,
+        "premiered": "2025-02-14"
+    },
+    {
+        "tmdb_id": 1434053,
+        "title": "O Amor e Suas Surpresas",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f5f76d3b99324ed7c1e5124380d2dc321b53ce5",
+        "poster": "https://image.tmdb.org/t/p/w500/hh6vcu5nHhwJ0kbQ0XCD946XJe0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/a52YYsOwawIlc9WTG1MpgEBjcoV.jpg",
+        "synopsis": "Lúcia e Jorge puseram fim a um longo namoro. Agora, ela sai com um colega e ele com um antigo amor de escola. Terão um final feliz?",
+        "studio": "Feel Good Films",
+        "year": 2025,
+        "genres": "Comédia, Romance",
+        "actors": [
+            {
+                "name": "Camila Sodi",
+                "photo": "https://image.tmdb.org/t/p/w185/sG7BhICpNZZp9hxxgXVv7BHipRa.jpg"
+            },
+            {
+                "name": "Sebastián Zurita",
+                "photo": "https://image.tmdb.org/t/p/w185/b1njEJSLGGOUmzvjkwS45Yhi8An.jpg"
+            },
+            {
+                "name": "Ianis Guerrero",
+                "photo": "https://image.tmdb.org/t/p/w185/rv0noqkG02l1TpaTRHgNDVjVa5E.jpg"
+            },
+            {
+                "name": "Paulette Hernández",
+                "photo": "https://image.tmdb.org/t/p/w185/wcJs9ji9A8eaPIhGksmTn0H1gRI.jpg"
+            },
+            {
+                "name": "Aurora Papile",
+                "photo": null
+            }
+        ],
+        "rating": 7.0,
+        "director": "Raúl Martínez",
+        "runtime": 0,
+        "premiered": "2025-02-14"
+    },
+    {
+        "tmdb_id": 1393069,
+        "title": "A Garota Mais Linda do Mundo",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef5bbf39b8366cbcfc73fdfdbdc8f28b8edc08e2",
+        "poster": "https://image.tmdb.org/t/p/w500/7lHLzx5w0olArxEY4uxKsjpqkvO.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/wVLPPX2DXQmfkzDe6MOsJJfbKEX.jpg",
+        "synopsis": "Um playboy organiza um programa de namoro para ganhar sua herança, realizando o último desejo de seu pai: que seu filho se case com a garota mais bonita do mundo.",
+        "studio": "Paragon Pictures",
+        "year": 2025,
+        "genres": "Romance, Comédia",
+        "actors": [
+            {
+                "name": "Reza Rahadian",
+                "photo": "https://image.tmdb.org/t/p/w185/vqGy75o35RBQHGmWAQtGtS3bR8E.jpg"
+            },
+            {
+                "name": "Sheila Dara Aisha",
+                "photo": "https://image.tmdb.org/t/p/w185/bnCnmSsqW6nKz4LhoEKknQMJ52H.jpg"
+            },
+            {
+                "name": "Kevin Julio",
+                "photo": "https://image.tmdb.org/t/p/w185/bxQio6rVNmVhHbYJgSZl1SV2spG.jpg"
+            },
+            {
+                "name": "Indra Birowo",
+                "photo": "https://image.tmdb.org/t/p/w185/yCiZHqLQrfvNgbBNeGLMVgrpN8K.jpg"
+            },
+            {
+                "name": "Jihane Almira",
+                "photo": "https://image.tmdb.org/t/p/w185/7Fm3sQGUXS0vL6aekCa4i7TpZqx.jpg"
+            }
+        ],
+        "rating": 6.0,
+        "director": "Robert Ronny",
+        "runtime": 122,
+        "premiered": "2025-02-13"
+    },	
       {
         "tmdb_id": 1203329,
         "title": "The Witcher: Sereias das Profundezas",
