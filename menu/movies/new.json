@@ -1,5 +1,42 @@
 [
-
+	
+        {
+        "tmdb_id": 1126166,
+        "title": "Ameaça no Ar",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80c49b2ded9f8b4fe23b5fd145e4831a332a556e",
+        "poster": "https://image.tmdb.org/t/p/w500/4LPIIwWiedwHeWgRXOjcBaL1tnv.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/rOMLLMGgDgGG6XeT3P8sUdUb8nl.jpg",
+        "synopsis": "Um piloto de avião transporta um agente federal e um fugitivo para julgamento através das montanhas do Alasca. A tensão aumenta quando verdades são reveladas e ninguém a bordo parecem ser quem realmente são.",
+        "studio": "Davis Entertainment",
+        "year": 2025,
+        "genres": "Thriller, Ação, Crime",
+        "actors": [
+            {
+                "name": "Michelle Dockery",
+                "photo": "https://image.tmdb.org/t/p/w185/pgPJGf2wAPgoC6Bp5PBJYQV7IVt.jpg"
+            },
+            {
+                "name": "Mark Wahlberg",
+                "photo": "https://image.tmdb.org/t/p/w185/bTEFpaWd7A6AZVWOqKKBWzKEUe8.jpg"
+            },
+            {
+                "name": "Topher Grace",
+                "photo": "https://image.tmdb.org/t/p/w185/oJQxl4DG0KSCtOGrpWNhYz9gUZA.jpg"
+            },
+            {
+                "name": "Leah Remini",
+                "photo": "https://image.tmdb.org/t/p/w185/19QpURecs6wDY9G46AmT7JnTchS.jpg"
+            },
+            {
+                "name": "Paul Ben-Victor",
+                "photo": "https://image.tmdb.org/t/p/w185/qhxGWVppbnwF4YuzQQtIym5z99E.jpg"
+            }
+        ],
+        "rating": 6.1,
+        "director": "Mel Gibson",
+        "runtime": 91,
+        "premiered": "2025-01-22"
+    },
        {
         "tmdb_id": 1091923,
         "title": "Vidas Paralelas",
