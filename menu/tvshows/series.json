@@ -276,6 +276,56 @@
         ]
     },
     {
+        "title": "Twin Peaks",
+        "rate": 8.8,
+        "classification": "16",
+        "year": 1990,
+        "aired": "08/04/1990",
+        "sinopse": "A misteriosa morte de Laura Palmer na pacata cidade de Twin Peaks dá início a uma série de problemas ao agente do FBI Dale Cooper e ao xerife Harry Truman. Eles são os responsáveis pela investigação do crime e acabam percebendo que várias pessoas da cidade estão envolvidas e que segredos obscuros estão por trás do caso.",
+        "poster": "https://image.tmdb.org/t/p/original/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/dZklTql88IDOmkC3JAYQSTgyK6f.jpg",
+        "studio": "ABC",
+        "genres": "Drama, Mistério",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 7.8,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/2dI60F5ODC6LvpKJgatpTcKdizv.jpg",
+                "episodios": [
+                    {
+                        "title": "Twin Peaks: Temporada 1",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51b4eb1ebd66461e431dc3b3af3110db079a2468"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "rate": 7.5,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/dkxtnSbbm8T6NZ1VQB87NeToE0B.jpg",
+                "episodios": [
+                    {
+                        "title": "Twin Peaks: Temporada 1",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8ca2efddd41b02b746cb006e2805db40a15e064"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "rate": 7.9,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/ei7odFMfdnNV9pr5LyfrAAQOFes.jpg",
+                "episodios": [
+                    {
+                        "title": "Twin Peaks: Temporada 1",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd7964539233f16f72e2c6d54a707398dc7dcc01"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "title": "Dark",
         "rate": 8.7,
         "year": 2017,
@@ -975,6 +1025,44 @@
                     {
                         "title": "23x010. Neve de Natal",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd5c93361d54ff010190ea9a318d9bb5dc42efc7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Fleabag",
+        "rate": 8.7,
+        "classification": "16",
+        "year": 2016,
+        "aired": "21/07/2016",
+        "sinopse": "Uma mulher autêntica que tenta retomar sua vida, enquanto rejeita a ajuda de qualquer um que tente se manter ao seu lado durante a sua crise.",
+        "poster": "https://image.tmdb.org/t/p/original/27vEYsRKa3eAniwmoccOoluEXQ1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/zfLW1tXbWCIdCXQ8KUvBzULJm1d.jpg",
+        "studio": "Amazon",
+        "genres": "Comédia, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 7.8,
+                "sinopse": "Uma mulher sem traços característicos que se lança à vida moderna em Londres, enquanto lida com a perda de sua melhor amiga, um rompimento e problemas financeiros. café. Tenha uma visão sem censura desse confessional rápido e engraçado de uma mulher tão completamente desapegada que está completamente perdida.",
+                "poster": "https://image.tmdb.org/t/p/original/qI85n9DBgRv6ghhJuzHOCaKXk3v.jpg",
+                "episodios": [
+                    {
+                        "title": "Fleabag: Temporada 1",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85e92552c4b7e7a4945f124e038b504e59aa8a01"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "rate": 8.3,
+                "sinopse": "Fleabag está de volta para uma segunda luta, e dessa vez ela está enfrentando o homem lá de cima. Em uma reviravolta inesperada do destino, nossa diabinha conhece um padre que a faz ver o mundo de uma maneira diferente. Depois de um ano, ainda há feridas a ser descascadas e novas a serem feitas nesse novo capitulo da vida de Fleabag.",
+                "poster": "https://image.tmdb.org/t/p/original/o7ytmKNlOIcCyWXLdtDSRXi5Ruc.jpg",
+                "episodios": [
+                    {
+                        "title": "Fleabag: Temporada 2",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bfc8ca9d850c57ecc456870a34ed86bc1e65cc9"
                     }
                 ]
             }
@@ -4662,6 +4750,32 @@
         ]
     },
     {
+        "title": "The Night Of",
+        "rate": 8.4,
+        "classification": "18",
+        "year": 2016,
+        "aired": "10/07/2016",
+        "sinopse": "Após ter passado uma noite com uma mulher totalmente desconhecida, um homem acorda e encontra a tal mulher esfaqueada até a morte. Ele é acusado de a ter assassinado. As investigações policiais denunciam as relações complexas entre diversos casos que foram analisados pela polícia da cidade de Nova York nos Estados Unidos, sistema criminal, procedimentos legais e o temido purgatório de Rikers Island, é lá onde os acusados são presos em espera de seu julgamento final.",
+        "poster": "https://image.tmdb.org/t/p/original/q13XJHdnsmxQL9rXRcnNDrZGHjO.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/szxeyhCWt7C4hTdq60QYbrslGXn.jpg",
+        "studio": "HBO",
+        "genres": "Crime, Drama, Mistério",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 8.3,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/4j355xIV2dHi3jjFmoaCI0ayNO8.jpg",
+                "episodios": [
+                    {
+                        "title": "The Night Of: Teporada 1",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d8e492a1fe8ab81d67da1c274949cce572fab2d"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "title": "Futurama",
         "rate": 8.382,
         "year": 1999,
@@ -5973,6 +6087,244 @@
                     {
                         "title": "Grimm: Contos de Terror: Temporada 6",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb36416617c590ac7eec92a4a5c00796a8931dfe"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "The Last Kingdom",
+        "rate": 8.3,
+        "classification": "18",
+        "year": 2015,
+        "aired": "10/10/2015",
+        "sinopse": "Enquanto Alfredo, o Grande, defende seu reino de invasões nórdicas, Uhtred - um saxão criado por vikings - planeja reivindicar o que é seu por direito.",
+        "poster": "https://image.tmdb.org/t/p/original/fMNJjzZUdc8pBVIQ85olSNaBKix.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/ifZYdmNuMWimFCUGGcYAs9bHNlv.jpg",
+        "studio": "Netflix",
+        "genres": "Action & Adventure, Drama, War & Politics",
+        "temporadas": [
+            {
+                "title": "1ª Temporada (Link Direto)",
+                "rate": 8.2,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/hstr5b9YrXPE65cdvqxEs7wMiaa.jpg",
+                "episodios": [
+                    {
+                        "title": "1x01. Episódio 1",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=JTqzkwr9yJmhLNyLHgDpAU8zl7y%2B%2FFGOiT1Q3rwFHS6E2bUrW%2FSk7D4O7FJlHOg9&expiry=%2BOXir0W9MDwVLRCkEYJPnw%3D%3D&mac=49bf1eaefc1ecdeab25f664d685d0b5e933aeb8a40cae8308f84eaa50eca7c01"
+                    },
+                    {
+                        "title": "1x02. Episódio 2",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Q9Y0WHHvxs6pCy7Lt%2FSSaxOocHREWs8TSnO%2Bs7zt54XKjKaftJW9Jl4wdMuLBGCM&expiry=%2FlqZwYYnSAnMgWWOIr5Hfg%3D%3D&mac=ab7618b8efe3aabf017e53e1c3f56f3870658f8f253533423d6056317c7a23d9"
+                    },
+                    {
+                        "title": "1x03. Episódio 3",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=XR6yAE4jgLyVvG%2BCIVq7sZ0PonN%2BlhEO%2BPpTARDZETlsuC6Jp4g7HdAkTh5bGS3l&expiry=ACHjX%2Bu02xJh1AmDjci1XQ%3D%3D&mac=3af7072fd295c806db847b84aea83a5dd9beba46417a2168b107c2527e70583b"
+                    },
+                    {
+                        "title": "1x04. Episódio 4",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=aguvbXgEi7YnNP3jnFm%2F8vpUxa8ZvW9vZPRjWrd9KPrw0nbdrsNHeerxgZD%2F8DCY&expiry=vcvoo%2FnOibsxn97gK%2FaPLg%3D%3D&mac=8d557cff2ac49cc14eb65959e29574d314c9ce7254a1b4d12fb3da01c5887e8a"
+                    },
+                    {
+                        "title": "1x05. Episódio 5",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=F6ttC433zz%2BKmYYjj52I96SCmH6E4N9Z6I8xbZZ%2FdkIIo5On5%2BK747oyEaA4%2FUMe&expiry=8rXp%2F6RynWdQTGu9llU16Q%3D%3D&mac=7fe08ae6c8e19669747aedae70342f0b0f703fb23754f303eb82faac22a48261"
+                    },
+                    {
+                        "title": "1x06. Episódio 6",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Ow1ckXF57OaiinS%2FO2lpYOuVHaPSWn06BwlAA3BC74E3qyjg7zEMa1%2B9dcS6ccTS&expiry=WRJyk5OCTfOECpEqEJj84g%3D%3D&mac=6c14294f82fdc837bd3959d266964c6061dccd765c98c5dacf5e566e37e4f868"
+                    },
+                    {
+                        "title": "1x07. Episódio 7",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=0DkCPpEVm%2BdW6bS47JRwBfdGhAvSOnTkWf0RtBHui52n6CQ2egIKy%2FzzBNbeyXaJ&expiry=AO0NnSHNmpeg2G66TIZsRA%3D%3D&mac=7ac62534419ed38e702c06b307f6790652bae52538ade1802419aa8f3d312fc0"
+                    },
+                    {
+                        "title": "1x08. Episódio 8",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=f%2FLBtwuMs6VYQ51Botl6w8omCt4ZDMZHIi5SVEIR9L1m6gWcBtgIi0Ev%2FLY0leQc&expiry=8d3QoKH8RpSaLGDMeYEsUA%3D%3D&mac=573fd547a03f3fa69516482ebbe0036c16f7fe02732f8de8bfcba82845bdf416"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada (Link Direto)",
+                "rate": 8.4,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/aH1xyGWfAWDTq5YVEQFkwr40M4V.jpg",
+                "episodios": [
+                    {
+                        "title": "2x01. Episódio 1",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=zkKXotE9m%2B4qOLfeeqTQ%2Bj2swXJP0rxWyHkF3DOkHrDJW6tILAPFv535jVLBbbPq&expiry=Df%2BbB%2B1HvabDnFL5nxeKNw%3D%3D&mac=7f0bb626437c70b3e3af88183ef50c336dc426d48ae8e6e2ddd90b743e861833"
+                    },
+                    {
+                        "title": "2x02. Episódio 2",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=6kpb6xho3eV3x%2FYi81cgANCxq4zmiM%2FEJKTKb4YvWyh1tveTq5y%2BP0Yte5BmGXEF&expiry=SBoHCnXf%2B6Uf8328qxG%2Flw%3D%3D&mac=6e7c398f63da74fe036d2b087557eee5d002e438e2648a95f5241ca2f7ced5ae"
+                    },
+                    {
+                        "title": "2x03. Episódio 3",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=EZb49ZCQ19CZVAhDR4MnVX%2BJDZtXn%2F0ivEGqrNIJYvZIEP9DDYgxowGIArvjbfct&expiry=A9aRiLnpIfBVqtCIY%2BSlgQ%3D%3D&mac=2e44b4739b66383f989188d659357258649a9374e72616548a3e066e89bcffa1"
+                    },
+                    {
+                        "title": "2x04. Episódio 4",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=QEWQ54JZ9I9cBz7uuAwbWWGaohu2JRjBXMVqd%2FyMhxoFoD4j3aLA2cNlnmwN%2BWHu&expiry=jqtXAP6bFXUmCb2A5GQSTw%3D%3D&mac=f9129504028812af204ad543f6751d30cf17076fc848f4437eb8f15320fd4e19"
+                    },
+                    {
+                        "title": "2x05. Episódio 5",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=tztpAb6keVMP82drrDPRKUAhl7%2FDc%2F3WDRE09m81bUyjgFUf5gmAQrtnFudBdjBV&expiry=4YbJKAeMgEFaeVlKTh6GBg%3D%3D&mac=b0c077875fa763277eb5a95a3c537026c06b00528573029f440c7253f6be6c17"
+                    },
+                    {
+                        "title": "2x06. Episódio 6",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=lGfsZff0lUq0zKS1CfAPDULH5qgPaLMv8tRio30q96BcSXvnMwJ8nNCcVFn2qpey&expiry=H6%2Bd7gFLPWtngIBky0kWaQ%3D%3D&mac=45afa8b5236cd62914017c759da49e0dcf0228bf54adb721b6c67d58220b5a1f"
+                    },
+                    {
+                        "title": "2x07. Episódio 7",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=DhUU8XZs4dpdB%2FtYw2XlHxo6QKkDOA88swGYE3p9jIGHcUpJfitfjEFEu01VWvMQ&expiry=jwcdtnixMsLh0iN6Laj0BQ%3D%3D&mac=0eef80e33a22f2e737a1d009208b207cc83ec46b9ca52199ef02d686dab0173c"
+                    },
+                    {
+                        "title": "2x08. Episódio 8",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=WZqouLiaNIHaYhgTQXa5dg9G%2B90C84B1x0reCFF0hAd%2B3nooHKrK3MGfiszGx2Df&expiry=5pnWy%2FHXdOjtQpVtNjTt6A%3D%3D&mac=300abe16cae920f23f87311bae99ec779b1a8f723947c24bdda226d6dda7001b"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada (Link Direto)",
+                "rate": 8.3,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/7ZTRAuWXq1amsMtVIAll6qB0Hc2.jpg",
+                "episodios": [
+                    {
+                        "title": "3x01. Episódio 1",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=JNkV1dE0zqsEN0uE%2FuonplruUANabgaCaomE%2BZb%2BSxOgkWEgG8L8Ngu2jvfAU6QB&expiry=JM2pqz1wCJN35%2BhpcT6cZg%3D%3D&mac=c5471cca858f73931036fbac45ca4ff6e544c287c1a2b454b10d44a766644085"
+                    },
+                    {
+                        "title": "3x02. Episódio 2",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=qbzVhlzi69DNrPwGlFG9w6G4qEbDZeLXWrEJIcndSXq1kr5hfKggeeu5DvnABLXc&expiry=KD30jQt8fusL%2FpN3FQAljQ%3D%3D&mac=1d37f056149e5c53da505a838286948017e2d861faf578da78b287675d73ff0f"
+                    },
+                    {
+                        "title": "3x03. Episódio 3",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=XrBFv6jdOpkdRe7fIejQxnPj69wiuNgMJbi7m2tEFHxwdw6In%2BDWmgseQcOn%2FADd&expiry=tAoB2pD7uA82HEubLD2fCQ%3D%3D&mac=93f9cff890aecdfeee14a60fe62f2420c29b808131fece0bc6bb1ebc69b076d8"
+                    },
+                    {
+                        "title": "3x04. Episódio 4",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=FB%2BetqgHsnc%2F9qp3wQj1CD5BZ%2BWoTlsx9kqpenJcgB%2FRg0Jxuv6TYmfdL1vJyvoH&expiry=Nh8KbO10nslVA8DGJUdgsg%3D%3D&mac=40f8f11f55f59883388a9628a534854a8d3ab3d5139de5ad02d86d8abbd9603c"
+                    },
+                    {
+                        "title": "3x05. Episódio 5",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=XJ2M81E21nuiiFGPN2oD6b8GnjrEQr5cjcwB5ylQrlnaHhCPcwtWP7glc55TrM%2Fa&expiry=YZkTGPmdyjF%2BNL12b9bGYQ%3D%3D&mac=034809527a186a2ecd8912c4dd6a268ae0399d2e8489f2d70b2b4f67a3fb1097"
+                    },
+                    {
+                        "title": "3x06. Episódio 6",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=%2By5vaVdAKPq3P3O2V%2BlFq%2BNzE7pfoNTMNO%2BDpMtgVUPNxOboAvnVJ9Vl4mnoQinu&expiry=6%2F7akOm9yTMBVbhiZrtfHA%3D%3D&mac=764c8ab86866aa489ff2bbdfa8fafd0599bc0ba49fbd9ac8a99510b7314e186f"
+                    },
+                    {
+                        "title": "3x07. Episódio 7",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=PlpiCwuaCtDobuMDEt%2BgUcMFPmijjJHd3rhUQHV%2B4iAjMfQ4yoaGkjwhXrvsrBmV&expiry=cE%2B%2BZXsV7MOF%2BdCfsCUHBQ%3D%3D&mac=c75ab7925ef82035165a4e4e7c032635202beadb87cdb01654d7b5654b2ef2b1"
+                    },
+                    {
+                        "title": "3x08. Episódio 8",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=DIpQjZpc71hrOxL5Ugj30EP6WUPpcX4ZMAR4wZQA9QSN%2BBgMrXPGA1miJqnIO%2FhQ&expiry=duT2y7aURlA30NwIIYuCTg%3D%3D&mac=a0ace5752b0c6e9fdf0682ff6f440ec5d4d4a25e4bd26ae24be669ddd6dc1be2"
+                    },
+                    {
+                        "title": "3x09. Episódio 9",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=rH4lwunCiRwjOBR86rifOUztQsdVMgfwb7CoUjWSRa1k1cGmJH%2BRrc%2BIy7kAwkhc&expiry=Kwkh9OWrnOuqPTTPpfiDwg%3D%3D&mac=d4ebb9a3f0cbec052014835206ef6a0135f81d2ecb24101abefbd041ed8be927"
+                    },
+                    {
+                        "title": "3x010. Episódio 10",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=jn2Zp5ZV6zRKMv4MDr9s5NAGWM0sUi2cEN3b5hw2zVQF0aFYsVydlwT6%2Bwq796Eu&expiry=SkgMVACVJtaj2KLzhY9EMQ%3D%3D&mac=a7e22eb7bf58ca5d3242b55e69d6cd6ca21711300bfdf33d390306fb4a1bb48a"
+                    }
+                ]
+            },
+            {
+                "title": "4ª Temporada (Link Direto)",
+                "rate": 8.3,
+                "sinopse": "Eduardo e Aethelflaed discutem o futuro de Mércia e o sonho do pai de uma Inglaterra unida. Uhtred tenta recuperar o que é seu por direito.",
+                "poster": "https://image.tmdb.org/t/p/original/tKfrjBjMRUo5qjjQIoydKIgQ5Dd.jpg",
+                "episodios": [
+                    {
+                        "title": "4x01. Episódio 1",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=t5M0btj82aEx18W04TIo%2FHD9CAYi1wUjfOivF6Kt4p5WmRbYQFbivMLKbyihN025&expiry=E9oOtmWQV44liM69v44r%2BQ%3D%3D&mac=c320dfb8bdda90a92f276b35bdc442831f63a64fb414d1327ad505ba3ea85bfa"
+                    },
+                    {
+                        "title": "4x02. Episódio 2",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=UwQIiBYdlZ9XOLQSAawxhzcxuNGhRd1TIL%2FyVCoQFxtsSYhJuKKPIpb1NdpxS1EA&expiry=qnrr5oCaliifPiZKD52caA%3D%3D&mac=d8f3ad767874cb6e2dd62af0036e71298e1e0d3a5bb068d46f35b014765e36cb"
+                    },
+                    {
+                        "title": "4x03. Episódio 3",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=xLn6jsoohla9WEIB2%2F9X0xFNoxzGTGrLhswiBDHV%2FxUorzRNN4aYG7WIjCowv6yi&expiry=MB0%2FjNegoIFa%2FpEHhssbYw%3D%3D&mac=bd2fffef76798d8a2ad8973336344790033fc19260314e484611b359f606e63b"
+                    },
+                    {
+                        "title": "4x04. Episódio 4",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=bUDj0Mn%2B95hM%2B9iKXL83MdTzPfUczallzs%2FlVaTWmNKfkhv%2BNKWutk2oniqxo9sM&expiry=CWs%2FwNGnYJDw4Zbgmi%2FcVg%3D%3D&mac=d242e3b60ca9df16663bf2f81766dd19de6877e4b1f3cb1f47f57e07974e96ad"
+                    },
+                    {
+                        "title": "4x05. Episódio 5",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=XxZ%2FxGr4obZl63vwrd2GzNp%2Fbxw3mUrwZzpOi4caXbCIbsCn3PF4nMLGVFOlfeAg&expiry=EjUexPKFS41KmxhkSWX%2FMA%3D%3D&mac=e32a8a1a9012d313a5ad33bc9c7fcd8b296c105438813865ba184b12feb04748"
+                    },
+                    {
+                        "title": "4x06. Episódio 6",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=5GF3ixWD8k3fvHDBGbsyKPpJh4QC3jGJzqw6yWNggoT0yMLuW9JPZvlCrQlWpxTu&expiry=SXWboDuDwPj0doy4TW7jSQ%3D%3D&mac=57aadb5ca1f13069a300069ae57fdc753de31a7ce26ef293dc6cee0b3b0941fd"
+                    },
+                    {
+                        "title": "4x07. Episódio 7",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=QBYGSmgYgkBcfdUNypBdPYhwPT%2FbazGXjGqEwksOeeCOBzlWKbZqcnmSRUDLjhp8&expiry=r8np6M21HZlbYuco87lvUg%3D%3D&mac=fd22beaede84091609cb4671ba50a46c5d7758e15465241545e33ae69d597b0a"
+                    },
+                    {
+                        "title": "4x08. Episódio 8",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=exwzSct0nKA0oHlPD%2BX7%2F8eVl540W9ae9s0xP621fmkQty2jmyBkXno5rrc%2BqTTc&expiry=1kphy2ZrG5%2Btd1VNeQo1Lw%3D%3D&mac=d787cd4bb4c20f74b29f83f905e4c70f4974d23812ccbe8a2588abb94fac1e69"
+                    },
+                    {
+                        "title": "4x09. Episódio 9",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=xmv3uwgHlXbq0N1BQ7SVJwj0e0JBxZKuFcjAr%2FnAp%2F32IuKvpXPlVAlXqkptCD%2F4&expiry=ncxlXLFtk4O3cW1LxQ1yow%3D%3D&mac=ffd43eb9d6b8159608d63e560284756f9b83375cd984de1fcba1fd8fd237414a"
+                    },
+                    {
+                        "title": "4x010. Episódio 10",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=e%2FVpHxapixQkwW2LmAT9A84XCXm%2BOPPsXwdN9%2Fj0i854a3yTNSvf0U4ntSUvJ6pg&expiry=pO2%2BmWseAQRi56MIoyStDA%3D%3D&mac=dcdd52b88e9e9e6642a8dc2609cdedac53198217d67801ca9110197211632be3"
+                    }
+                ]
+            },
+            {
+                "title": "5ª Temporada (Link Direto)",
+                "rate": 8.1,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
+                "episodios": [
+                    {
+                        "title": "5x01. Episódio 1",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=%2BEkq0vdVAfKz8N%2F6l7XSlk1kE5VZ9OVc0WK0EE%2BvfMrYq1BZr58a9Nys3EKUywCy&expiry=h2wqUPb8IiKHlY6bsKjuZA%3D%3D&mac=41d80c92b6f1026316289bf2ce5a98137dc9edb61fef30de854141b161d3b558"
+                    },
+                    {
+                        "title": "5x02. Episódio 2",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=rxnV4Am4d06gbiRhzsZC2oYeS%2BTyjvsgbRQGYIHiQq9PJHpO4YRFRUOnumqY4hqW&expiry=ya2A6QIT2mnkck7Vmf%2BD0g%3D%3D&mac=dedda1d56533df4191a026a50f871b8df94394063d2a88420893a05b9da2f6dd"
+                    },
+                    {
+                        "title": "5x03. Episódio 3",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=lkRNj2bDigcgzMLnGvoat4nfaM9I%2B1klSU10U%2BDIY1dUlHZxAGR76ZMTOnvF1gaK&expiry=SS%2Blxgh5aKAOvS504Pdfqg%3D%3D&mac=98e9695c0f0ac620fd334ba870b440e4ba81a9bda813681fcaab368b280ec20b"
+                    },
+                    {
+                        "title": "5x04. Episódio 4",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=99SPaPz5ssZRoQj5RBSFNrB5k57Yu2y3xINs197%2Ff4pao6NyuUD5CM31Qczay1Zt&expiry=wXV4Nu%2BLOesJmmnTGVjDZA%3D%3D&mac=68a1c5314b2f0ab10345ce44db5686b478091b0d85974f721fb4310b325acfa5"
+                    },
+                    {
+                        "title": "5x05. Episódio 5",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=QKN4%2FaLDOD%2BDHcbLNAarpzwfUMzzfmN4vThrINv74a%2BrL4%2FRrsRasKhJT7W6pgOx&expiry=yLug6vGfBZzwUpSJGG483g%3D%3D&mac=b28f5cdc93ff93adbf134c209baa73742975e2f4cb755907cf85f0cf55cb0728"
+                    },
+                    {
+                        "title": "5x06. Episódio 6",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Zk5RGDJ56OKpbVUtXGw7ce18m%2BxMZuGrSIP6C02%2FQUz60BMkDcIEbjjyM%2Fn3PwDJ&expiry=ueRvXxOWcGCcjLQ0JuFKPA%3D%3D&mac=1b1eeaada8cbbd499cfacb1401a5143b383dca8b4d7e535195eb1475278a9f2e"
+                    },
+                    {
+                        "title": "5x07. Episódio 7",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=3aZAJiccC1ikMjS624k1dgewyrTx2FZT%2F812etchh7SzAWMn40YODh2kyrA1r0NW&expiry=8qzYSvxAer7qcJaxHpYoSA%3D%3D&mac=1ab160eab9c4cce4ee5b4361c3c6fa018abe4fc78e75e695e26c44039f22b1ec"
+                    },
+                    {
+                        "title": "5x08. Episódio 8",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=wvArh4s16rLadVYtyLWQHIUZXHHWEDpJyPprez7X4BgaJCf62%2FdR%2FACbgmuRCGKU&expiry=NiihAyymHR5P%2BqJr%2Fa9Tkw%3D%3D&mac=edfaccb49053dfabb18b98157848fb03cc67a21698ffaed6cb78795561304780"
+                    },
+                    {
+                        "title": "5x09. Episódio 9",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=tpsLSYIYEQ5gQ52kRrcQAr0KHhnnAwTsM%2BAqqnyeJUBQe6Z9QSOnUZD5dLpP4XMW&expiry=hMLfWV2Q92LemzJ27dBeAQ%3D%3D&mac=54da3de5642475e1dc4f9b0bb65d838b270e793bc469a49a0c52b97619e9d966"
+                    },
+                    {
+                        "title": "5x010. Episódio 10",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=ma0u3N1loL5pJRDTg0D%2FstFzuhOO1l0KsaiHQKTIcX27I7SFKcD2GlJP9s7mIRIj&expiry=5PaMrgVDAZPtyk13SNSWRw%3D%3D&mac=7bcf09fc37540ac86bef49b32daac51d54c3ee4b317d2629b69dcb789f8e912a"
                     }
                 ]
             }
@@ -10239,6 +10591,40 @@
         ]
     },
     {
+        "title": "Seu Amigão da Vizinhança: Homem-Aranha",
+        "rate": 8.0,
+        "classification": "12",
+        "year": 2025,
+        "aired": "29/01/2025",
+        "sinopse": "Uma série animada que segue Peter Parker em seu caminho para se tornar o Homem-Aranha no MCU, com uma jornada como nunca vimos e um estilo que celebra as raízes dos primeiros quadrinhos do personagem.",
+        "poster": "https://image.tmdb.org/t/p/original/fEhEJowHEcWgqWknxwbdsiHyGty.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/7CaXcLBWf41nHyX33DmpIpcOSg4.jpg",
+        "studio": "Disney+",
+        "genres": "Animação, Action & Adventure, Sci-Fi & Fantasy, Comédia",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 7.6,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/fEhEJowHEcWgqWknxwbdsiHyGty.jpg",
+                "episodios": [
+                    {
+                        "title": "1x01 e 02.",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b16b59aaa2b4ca8b4838edd48a79d9dc7784b2c"
+                    },
+                    {
+                        "title": "1x03 ao 05.",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ac16daed2f243f45589a602fda3df09f6543681"
+                    },
+                    {
+                        "title": "1x06 ao 08.",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bedb1b5e3df43852daf5f67214c6dedd5e8decdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "title": "Ted - A Série",
         "rate": 7.984,
         "classification": "16",
@@ -12384,6 +12770,68 @@
         ]
     },
     {
+        "title": "13 Reasons Why",
+        "rate": 7.59,
+        "classification": "18",
+        "year": 2017,
+        "aired": "03/31/2017",
+        "sinopse": "Clay Jensen é um estudante que se vê envolvido em uma série de mistérios provocados pelo trágico suicídio de uma amiga.",
+        "poster": "https://image.tmdb.org/t/p/original/8eUJQK8wRiBvGqiqMKEcYmAnESQ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/c4CSgKL6QfkJxsWcGYDyTxpbzpW.jpg",
+        "studio": "Netflix",
+        "genres": "Drama, Mistério",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 7.9,
+                "sinopse": "Após o suicídio de uma adolescente, seu colega de classe recebe gravações que revelam os motivos de sua decisão.",
+                "poster": "https://image.tmdb.org/t/p/original/kTzJ5PrPTZVjLoKeiiShl5Z8Owf.jpg",
+                "episodios": [
+                    {
+                        "title": "13 Reasons Why: Temporada 1",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c29fa01f1c7996a30b2e278133d2efedadf21a0"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "rate": 7.3,
+                "sinopse": "Lembranças de Hannah assombram Clay. No julgamento, os testemunhos dos alunos revelam segredos surpreendentes.",
+                "poster": "https://image.tmdb.org/t/p/original/rNBlSSSpKdHntdZJJJ5cSAKfWhv.jpg",
+                "episodios": [
+                    {
+                        "title": "13 Reasons Why: Temporada 2",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dfb90869d5f357b03548b3d7ea14c6b8b3c9677"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "rate": 6.9,
+                "sinopse": "Meses após o Baile de Primavera, a Escola Liberty recebe a notícia chocante de que Bryce Walker foi assassinado... e todos são suspeitos.",
+                "poster": "https://image.tmdb.org/t/p/original/nel144y4dIOdFFid6twN5mAX9Yd.jpg",
+                "episodios": [
+                    {
+                        "title": "13 Reasons Why: Temporada 3",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cabbb223c9cc03cdf8e6ab6a3deb1021cc49b2b2"
+                    }
+                ]
+            },
+            {
+                "title": "4ª Temporada",
+                "rate": 6.7,
+                "sinopse": "Com a formatura chegando, segredos revelados ameaçam o futuro de todos e obrigam Clay e os amigos a fazerem escolhas dolorosas. Última temporada.",
+                "poster": "https://image.tmdb.org/t/p/original/goaAdN1VifvVvVoQwidL7zrfKOp.jpg",
+                "episodios": [
+                    {
+                        "title": "13 Reasons Why: Temporada 4",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11a888432abc1895ddd14b7b1a76d71c4a752995"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "title": "O Ato",
         "rate": 7.565,
         "year": 2019,
@@ -13357,6 +13805,60 @@
                     {
                         "title": "1x010. Must/Can't",
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=jAc2bUx5R8LtQT5FvTJhwh3v9XlpGeeneH2%2BaCv3a%2F9ucwDPhg5fnitxKWJVebYi&expiry=cVs1LtlxUao%2BTUDhZ98Fyg%3D%3D&mac=ef6807eac2f0f52db9f28661d7d0f4297784ab85ce7e80d435a960a0b7da3b44"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Devs",
+        "rate": 7.336,
+        "classification": "16",
+        "year": 2020,
+        "aired": "05/03/2020",
+        "sinopse": "A jovem engenheira de software Lily Chan investiga a divisão secreta de desenvolvimento de seu empregador, uma empresa de tecnologia de ponta com sede no Vale do Silício, que ela acredita estar por trás do assassinato de seu namorado.",
+        "poster": "https://image.tmdb.org/t/p/original/uv63iNWOh69bSJYJQZjiX6n8B3m.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/5yf5yfogIxhHhDU7F2Nuk1BsTYQ.jpg",
+        "studio": "Disney+",
+        "genres": "Sci-Fi & Fantasy, Drama, Mistério",
+        "temporadas": [
+            {
+                "title": "1ª Temporada (Link direto)",
+                "rate": 7.5,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/pQZOPdFd09WSi5OJDy2UB8lOyUr.jpg",
+                "episodios": [
+                    {
+                        "title": "1x01. Episódio 01",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=5dViU5QyuzbR2VhstrYJ6uMLbQLa9yDH%2FT%2F4y5I9LezERIycIgvSUFq%2FyYfCpCt%2F&expiry=Bl9Ommws2HhIuJ%2BuVx33Mw%3D%3D&mac=5b7f786328e10311e334a6d58d3bd43ff4af53b12b57a1cd2d1ad8fae3fe8905"
+                    },
+                    {
+                        "title": "1x02. Episódio 02",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=cxgiWEZYK8NdEla1z%2BLlxkHUKHtzXp5AAeV5x9kZFf5mx%2FCIKOr7uuGxsqW12TtR&expiry=aMsJnddg5CtHaCPph1JM%2Fg%3D%3D&mac=0a7548ca9bc961a631115b214bff5f90babe4650fa7761c1556bf2ed272d0541"
+                    },
+                    {
+                        "title": "1x03. Episódio 03",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=vitAQY74uiAJ3lu3Z%2F9MTKGXY2yBf67XrB5DWoJ%2B7pn8jGEftV5PvmcEAntfzxv1&expiry=j9wgJDXczq0PeNzs0bqz2A%3D%3D&mac=de9f23667b0f81bf15b3f77e7e6aacc38c78d043e4ee25e6e22b394be0dd3ef0"
+                    },
+                    {
+                        "title": "1x04. Episódio 04",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=kTW6Ss5Ss6aHztv3YgQlPLeNXfsvgdzGVZhghlXYbElMUl7C%2Ff2LTZKwWORUplHt&expiry=E1Tho2anX0fmqdJv5JXXEQ%3D%3D&mac=d53f45aed366d82e96e206e2c965f0af7cec8f4b8c5f902db4c944f7c8788ff7"
+                    },
+                    {
+                        "title": "1x05. Episódio 05",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=XnG93vz1efrYX%2F14N63NNzsAFzQxuzVEpx7Hq9e7%2BR1LbwslK08zEqjsHg%2BjAPa3&expiry=h7SxVsEkeGXkc03ctpLXsQ%3D%3D&mac=89ee2f02d6bed07a7830d55306f6b4d3e5b1c94047ea679215722bbe3a914d3a"
+                    },
+                    {
+                        "title": "1x06. Episódio 06",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=RbohfDGV0STK3ZG7O8NBVY0EwVCLhtgGJgA9xi0oTAUdv0kqWMU5F9eDFenflVtk&expiry=m%2F2MV4LkGndTm3Q4S%2BnM1g%3D%3D&mac=58bbddba164227efcd6f30376365f6b775b544e99fdc6376a077122b6b6ab9ab"
+                    },
+                    {
+                        "title": "1x07. Episódio 07",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=AJHfpenM%2Bbl%2BbS4%2B5R8CdnA6U643H3d5aVLMt1mAMsNh%2FMQhibyGdGJzeFCfiN8q&expiry=ljHkBpC9%2B3Sad95ZOhZVOA%3D%3D&mac=419cb18a0ec3ae42a7545a3cf8b34bfc89bf665483b34ec0d7a5decdc18ad38d"
+                    },
+                    {
+                        "title": "1x08. Episódio 08 (Final Season)",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=I7krONhuRQbSYb%2FrxiZilwa3a5TrlHFC6HGjfC6k4WHFX0SyhIg2P2zHM0YAbbVK&expiry=zyIAd%2FWvEaSPIluhOHP5BQ%3D%3D&mac=914d1c6e857e07b576bdbd3665ffd5f2b35797c5485c9bdd1fed15fc5117c8a1"
                     }
                 ]
             }
