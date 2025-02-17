@@ -1,6 +1,21 @@
 [
 
-
+    {
+        "tmdb_id": 823219,
+        "title": "Flow",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf1c760c29b0fbf221437eb59735199fb64c6134",
+        "poster": "https://image.tmdb.org/t/p/w500/66Y6qdAmCTtzrtGSPrwHihIZP0W.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/b3mdmjYTEL70j7nuXATUAD9qgu4.jpg",
+        "synopsis": "Gato é um animal solitário, mas quando seu lar é destruído por uma grande inundação, ele encontra refúgio em um barco habitado por diversas espécies, tendo que se juntar a elas apesar das diferenças.",
+        "studio": "Dream Well Studio",
+        "year": 2024,
+        "genres": "Animação, Fantasia, Aventura",
+        "actors": [],
+        "rating": 8.3,
+        "director": "Gints Zilbalodis",
+        "runtime": 85,
+        "premiered": "2024-08-29"
+    },
     {
         "tmdb_id": 933260,
         "title": "A Substancia",
