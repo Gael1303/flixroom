@@ -3749,6 +3749,351 @@
         ]
     },
     {
+        "title": "The Rookie",
+        "rate": 8.5,
+        "classification": "14",
+        "year": 2018,
+        "aired": "16/10/2018",
+        "sinopse": "John Nolan, um homem de 40 anos, deixa para trás sua vida confortável em uma cidade pequena para viver seu sonho de ser um agente policial no Departamento de Polícia de Los Angeles. Como o novato mais velho, ele enfrenta a descrença de seus colegas.",
+        "poster": "https://image.tmdb.org/t/p/original/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/2m1Mu0xPj4SikiqkaolTRUcNtWH.jpg",
+        "studio": "ABC",
+        "genres": "Crime, Drama, Comédia",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 8.1,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/c5tWybs91GuwEFOucnj7yZu2YLu.jpg",
+                "episodios": [
+                    {
+                        "title": "1x01. Piloto",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9cfef977702bb9c6726e6d537374897a243a426e"
+                    },
+                    {
+                        "title": "1x02. Curso Intensivo",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dfe82c9bd8a941d4b3aabec19745c97bafa6401"
+                    },
+                    {
+                        "title": "1x03 e 04. O Bom, o Mau e o Ruim / A Troca",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:261431bccd7642e70a7d8ac2f4334e28e95631e9"
+                    },
+                    {
+                        "title": "1x05. A Caça",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f039470aa0769948ddbe07b2cbbe57aec9fa4c53"
+                    },
+                    {
+                        "title": "1x06. Hawke",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:414bddff63f50b092a69e976214bf96e524fd7d0"
+                    },
+                    {
+                        "title": "1x07. O Passageiro",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0501041a068ca1dc9f504d04b9896e7ab9ee6958"
+                    },
+                    {
+                        "title": "1x08. Hora da Morte",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e40ce84f708d2533e7073028ffb97c9ba99cad2"
+                    },
+                    {
+                        "title": "1x09. Confronto",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57e2e26296f8890dd2370caca523cc0db4bcddbc"
+                    },
+                    {
+                        "title": "1x010. Carne e Osso",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab4c3651957163707fa8cb9fde802bbb5c73864d"
+                    },
+                    {
+                        "title": "1x011 e 012. Redwood / Corações Partidos",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fbf2c0782eb7aa9be71b3f7e467e0f34f9d063de"
+                    },
+                    {
+                        "title": "1x013. O Roubo",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c04c43728ca7177c6889a7d1f7cd419ee185d77a"
+                    },
+                    {
+                        "title": "1x014. Dia à Paisana",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49fe951435085b14e7f837a337b430698a3cdf00"
+                    },
+                    {
+                        "title": "1x015. Caçada",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50d6e844ae2775ef2bd2de5b5e34fc394a6faf1b"
+                    },
+                    {
+                        "title": "1x016. Na Mira",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7dcdbbd654be9e406f9e5ebff3b92abc1ab25880"
+                    },
+                    {
+                        "title": "1x017. O Terremoto",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50b4076555bc14cbdc9f6b1fedfb7c4545f6fb9e"
+                    },
+                    {
+                        "title": "1x018. Defesa",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d06743ed5a0ac0521f686d85c90a9e6a0b1c448b"
+                    },
+                    {
+                        "title": "1x019. A Lista",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd899673b9d89accb4085159187ae2e90bb0600b"
+                    },
+                    {
+                        "title": "1x020. Queda Livre",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4a9a8ff9e3e3dc0d4c816b131ae33c0838800e9"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "rate": 8.4,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/arPUIveaNTdlZeSrOPrgof6UvhQ.jpg",
+                "episodios": [
+                    {
+                        "title": "2x01. Impacto",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfd1e170e18824476e013d41f3f25cd688a1b075"
+                    },
+                    {
+                        "title": "2x02. Patrulha Noturna",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:431d0121e0860ebaf6837839ebcce7c2a826eb60"
+                    },
+                    {
+                        "title": "2x03. A Aposta",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acb0bc38a7a30c505bb61d4fd14bb6cc80fd73df"
+                    },
+                    {
+                        "title": "2x04. Guerreiros e Guardiões",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c0480380f20fde0e2421102d4510e45bcdd284a9"
+                    },
+                    {
+                        "title": "2x05 e 06. Amor Difícil / A Ameaça",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb816f0745eada51bc22a7774c5a5570f1f50c49"
+                    },
+                    {
+                        "title": "2x07. Segurança",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a622e2282b0c47e10614fb60dd86c468b800358c"
+                    },
+                    {
+                        "title": "2x08. Serviço de Limpeza",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9165e30650db40e366ced947af8bd7a7bfd58f1b"
+                    },
+                    {
+                        "title": "2x09. Descontrole",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a9652581612349d919ea594a649330308b09752"
+                    },
+                    {
+                        "title": "2x010. O Lado Sombrio",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0da2843b253536e0e349399253a4bcee680ee47d"
+                    },
+                    {
+                        "title": "2x011. Dia da Morte",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05de096e2ad6b9c7a0042f76294f755bfd814aac"
+                    },
+                    {
+                        "title": "2x012. Vez ou Outra",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83989f277a6d31004ebf9fadb5e79730cffb6a0c"
+                    },
+                    {
+                        "title": "2x013. Dia de Revisão",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:214e96ec79e2e116633994594d23e77a169d38be"
+                    },
+                    {
+                        "title": "2x014. Vítimas",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0aae1de4aaa53dd5c09517f6dd36febf3d70d741"
+                    },
+                    {
+                        "title": "2x015. Sem Interferência",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7738fe1d5d7d697b07fa1285f33dded6e4db9836"
+                    },
+                    {
+                        "title": "2x016. O Pernoite",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:178bb3184b7fcb82e7124feac6eaccb380f0361a"
+                    },
+                    {
+                        "title": "2x017. Controle",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fef619de6c6209571d80b628ff486fc416dbc6bc"
+                    },
+                    {
+                        "title": "2x018. Encurralados",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63c161f48521e1da48cf49d996e736e186f03f77"
+                    },
+                    {
+                        "title": "2x019. Nada Calmo",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8cdd1079e6b5e39a4971012deb11e4b0a3e42df"
+                    },
+                    {
+                        "title": "2x020. A Caçada",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "rate": 7.6,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/6hChiX0vIjWY4y2kz1WndHVMsDu.jpg",
+                "episodios": [
+                    {
+                        "title": "3x01. Consequências",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b197d1833a68372ccaaa244a5667f72c72837c37"
+                    },
+                    {
+                        "title": "3x02. Na Justiça",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76bc563ab1dc1ea5e1c1fb1119ffc94029997962"
+                    },
+                    {
+                        "title": "3x03. A Feira",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a871d73fabaf96a8254c5403f430dc138ca53811"
+                    },
+                    {
+                        "title": "3x04. Sabotar",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a643b4bf4ded82d6b39940a9e7885c07ac6a020"
+                    },
+                    {
+                        "title": "3x05. Confinamento",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9bca643cdfcc994090fbf774ffbaef878802e6e6"
+                    },
+                    {
+                        "title": "3x06. Revelações",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a379d0df6a9f0c6757212d54297247d9862d4394"
+                    },
+                    {
+                        "title": "3x07. Crime Verdadeiro",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac703968910d75a8dfd9dc20895d1767c0885aa6"
+                    },
+                    {
+                        "title": "3x08. Sangue Ruim",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2e272747609a1dd2afae5909ec491ce62204d99"
+                    },
+                    {
+                        "title": "3x09. Âmber",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:305c0109518da729c10042034aea1c2fcb9feec2"
+                    },
+                    {
+                        "title": "3x010. Homem De Honra",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:690ad69ddb76e72f9b3e5be64fb289c22b70504f"
+                    },
+                    {
+                        "title": "3x011. Sangue Novo",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b44bf9bbfd0328be00227bc0258a5aedb2694aa"
+                    },
+                    {
+                        "title": "3x012. Coração Valente",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4334fdc6751e9087109189e0f988464314c8bd8a"
+                    },
+                    {
+                        "title": "3x013. Triplo Dever",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8402cacc6543e9bf72f48704c58a4bb2e341000"
+                    },
+                    {
+                        "title": "3x014. Limite",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:342fa0827295c03a6d7704b1e430080169fd881a"
+                    }
+                ]
+            },
+            {
+                "title": "4ª Temporada (Link Direto)",
+                "rate": 7.9,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/gSGj4zhuFllpZEkHGdsBMV2BGsq.jpg",
+                "episodios": [
+                    {
+                        "title": "4x01. Vida e Morte",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=ETFY8cPnKeLoPFhZYT%2Fm22u8aanJbesUAPgA9FyGUwcQhMBrDuVwPh2u5KWsWrqW&expiry=MQVzMG9ukbbINaZzWnF2sA%3D%3D&mac=6245ca2db27172a1b92651d4b9832973f9c124ab5c625100ef4b43b9ae928caf"
+                    },
+                    {
+                        "title": "4x02. Cinco Minutos",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=gC9ORjX%2F7ipz%2FHTqojPLg8NHy4%2B5JnjF8I0%2BKYyofNdplEFQc%2BQXnrOr6o7RnEO9&expiry=joS5fCh0aaYp3k3Feev1BQ%3D%3D&mac=5c715f5da6df0485a3e7321fbe36f0ebaa6f53b4e17ef2460745bfc0495f6383"
+                    },
+                    {
+                        "title": "4x03. Na Linha De Fogo",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=DZvQf2lzuc%2B0uXyx8udoOSA4uTvjvpTIhasXOo4RGeyLoXwOsz1h%2Ftsr3QDOupxe&expiry=UOA6ht9bRlY%2Boroya4e5ug%3D%3D&mac=34816c82b2c95d078494c59939442edccbe21827ac3b9796db0e1adc5c490e3e"
+                    },
+                    {
+                        "title": "4x04. Vermelho Quente",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=1ndT7MbnYlbxEFFSGRYtYIJ%2Bx5bLW9QHd%2FcQxi1rQAUIbY1xvPpbh14koo%2FtJvGU&expiry=ENXi3%2Bx1dbx9rKtB6NlT4A%3D%3D&mac=26b535f6521b517011f32925dde474804b3242b82b178cf5ee2d8a1ea848586c"
+                    },
+                    {
+                        "title": "4x05. A.C.H.",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=iqS0okfPRP%2B7cvbn7Zfna4Ob8nqV8NHjmdji3I0cO8m74C3QhgLh%2BoPFCrp4lvLm&expiry=qzb7X56YJqxhqhbbqka%2BZg%3D%3D&mac=2349c99b694c6849bc5df8e7de9c305e65216ddaf311bf4bb9f55a8e6c42631f"
+                    },
+                    {
+                        "title": "4x06. Justiça Poética",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=hdjPguXClmQW7mgwmvJkI1Le0iHNpgSHO8e%2B29jT4s4DVyFkBkfVo6YMTN%2F8BEoy&expiry=TxZn14xvaQZ5nWeGKx42yQ%3D%3D&mac=04a6972685bc59c2449eec7381c868cc3fc6fcf82989d74f4292b6dc085d5a1c"
+                    },
+                    {
+                        "title": "4x07. Combate Ao Fogo",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=fHwcIpa%2FHgWyH9NZr%2F9ZFfr3ROWecdGr0ExzbrpZZutBZr45UXrrk0mrgoPJ6OC4&expiry=g5%2BiZuXefqj14PWN%2FFfS2Q%3D%3D&mac=f7ce056ba96fe17efdc7a6ba106e55c7568064989723d82f198553157e25fd9b"
+                    },
+                    {
+                        "title": "4x08. Bater E Correr",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=yg2UlCNkjEn5d3FhBd63FUXjbezNbwILNsTJpvLj6K2lUfPogZDj1C8gQvLDDM7T&expiry=H0YPmTpoY%2FEs%2BrbVnPx1rA%3D%3D&mac=9d24e09c7a639bf218a590e58feff0a51129171a4aafeb13e8266e4e0dc8d04d"
+                    },
+                    {
+                        "title": "4x09. Colapso",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=ngv1TpgNf4cBDLsRMljr9%2BmNOLuUSn%2FZsjKHM1wa8sZrBD3I0EUkZ4gjMf2dNW9x&expiry=FKxkQGfC%2F8MZ%2BTKIelu7Mg%3D%3D&mac=4df27c9c920a5dc11664f6a553015e4c7a04ceeba5393ac8100fc54ce54711aa"
+                    },
+                    {
+                        "title": "4x010. Batimentos",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=RQWumZorj9TGkTouan2HZthN8HhXLvb53pg58UkEnjxPlPWgIX%2B%2BKgAvX%2Fi7gRtv&expiry=QeQ0I8idOyP6U35HyAPJuw%3D%3D&mac=eb3275ed4c890d0729f44d454ce0cbb9e522c3385c272df6bcdc3c1777b08ec0"
+                    },
+                    {
+                        "title": "4x011. Jogada Final",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=rTHS5yUWV8R2jnJ76CygCu6aFXh%2F%2FFTfqd1q3ubUnQ%2BpnmehMQJlvRHt1V8NI%2FG0&expiry=jNKXjpe2D8F2jycP2svnKA%3D%3D&mac=faf44470f7ed402f086d8b5dace2122e172776973c4a24399319fdcd653d1c04"
+                    },
+                    {
+                        "title": "4x012. As Batidas",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=AAP2cJZLSZsE2KtBMNLae13Il7pzxVyCH56%2BqhBt2qs%2F7vo%2BZ1EeNwsEngFbGmTi&expiry=kdX5MoBqcexDi%2BJbSrYEXw%3D%3D&mac=daaa405c3dc77eb11f42d2cebb7bd4b13d2b4f7f1c6057f1cdeac1c38b8c81bf"
+                    },
+                    {
+                        "title": "4x013. Voar Ou Lutar",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=qChtMk%2B5LZF%2B6F9FhCD795P5CK6goyTScCG1jsxGfyeWT%2BsXc1oUyNUObK7V0dqr&expiry=nGPkJ8%2Bx%2BHh8uXmoSSF71Q%3D%3D&mac=4ac7625e120351aef73ea3a05c2556f221c1866380e8687df286677429d684cc"
+                    },
+                    {
+                        "title": "4x014. Tiro no Escuro",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=h9meTYHTZKxhrZRlSeHrKv3GLiPG%2Bjdr%2F0Z0atchzn3uJtfP%2FfldE0KbNdWEq6Jc&expiry=EER30B1Gm0MPkq3NgDqiXQ%3D%3D&mac=9f559d53b756d2fcca42e5b8f88150ffe70cb15dcf0196bebe1f419c8a08a8ae"
+                    },
+                    {
+                        "title": "4x015. Lista De Testemunhas",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                    },
+                    {
+                        "title": "4x016. Crime Real",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=ktQZktgNEiRJKtq8xLzcLRoDSm7ZHy%2FlUVzEYXBolQP08mMgfaJ0NRKVhHliprU7&expiry=c89NXOhq2hhl8%2FCJ3BsrAA%3D%3D&mac=f33f5dbdebebc17fffb9ffcca7a1312bbb12d7a5114a7ecbe77ac1fd19d5a546"
+                    },
+                    {
+                        "title": "4x017. Código",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=81%2BkaZB3w%2BBI8KuYp7pOdBL7GXakJBGjqR554Fhgx4aYwBry1y%2Fd5SpAVoM8tfVq&expiry=jv7jO33idoeoAvL6xrFiiQ%3D%3D&mac=53be2e849ac8f71675a7a2b59fdb13542f752fc1009b85db20cc21bee2933619"
+                    },
+                    {
+                        "title": "4x018. Reconhecimento",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=sGMSRKYqjpgj7pNQdvAnkM%2FrAU7DWr1vIGrVaTWxRAt0P%2F3BbLi41yJzUIUfwOJz&expiry=LZjhIR9f6sIh4KHGbfjlnw%3D%3D&mac=7bacd04b82f21cd8274877d56c4111c5fc1744561be4809de339c529cc25d7f3"
+                    },
+                    {
+                        "title": "4x019. Simone",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=O9MnvUmm2yyZu5mpc6qpECU0tAuluQevojpjrFcmTu6fnCB5Tx1FFQWpuxa05%2FoW&expiry=RB60TQqgWMoUNMQ7eQKrLA%3D%3D&mac=455d41fa1940f35f11920839726bfa9f96ff6f8e5c1164008f84aa0d7e2b8ad6"
+                    },
+                    {
+                        "title": "4x020. Energia",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=265krNYL7d1ramAmi9WcLeGORI8yL7PmIcaGZ3Ju09tA4pYfQE8gAxqyPV7R01BV&expiry=tNFlV%2FXCsFC3oG3jkRU0rQ%3D%3D&mac=ef856c6ab5f8805dd5479b604c3a0dad66fad09fd48dbf671b40293cea4e934a"
+                    },
+                    {
+                        "title": "4x021. Dia Das Mães",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=sCd3NRDcFZks%2FZZ4HPWbLWAgeXUkje2lrI9jTl9CYnjCOokOjd5tyyMXXYPNBsEy&expiry=RZdoJRBoJURApwgVC2E6MQ%3D%3D&mac=544b6618e2f40b3459e5cdc961d81ce30e271f2829f22462827b8fe210d01631"
+                    },
+                    {
+                        "title": "4x022. Dia No Buraco",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                    }
+                ]
+            },
+            {
+                "title": "5ª Temporada (Breve)",
+                "rate": 8.1,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/cofQdlJ0voWzWlpisBqfuRChTbf.jpg",
+                "episodios": []
+            }
+        ]
+    },
+    {
         "title": "Lobo Adolescente",
         "rate": 8.49,
         "year": 2011,
@@ -7846,6 +8191,64 @@
         ]
     },
     {
+        "title": "Kingdom",
+        "rate": 8.2,
+        "classification": "16",
+        "year": 2019,
+        "aired": "25/01/2019",
+        "sinopse": "Estranhos rumores sobre a doença do rei deixam todos aterrorizados. Agora, o príncipe herdeiro é a única esperança contra a misteriosa epidemia.",
+        "poster": "https://image.tmdb.org/t/p/original/nFan35eF9xGHBsro3U9YbEKsfmV.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/6y8sE6s1sAbARztCuEbGOk6Qcz7.jpg",
+        "studio": "Netflix",
+        "genres": "Drama, Mistério",
+        "temporadas": [
+            {
+                "title": "1ª Temporada (Link Direto)",
+                "rate": 7.5,
+                "sinopse": "Estranhos rumores sobre a doença do rei deixam todos aterrorizados. Agora, o príncipe herdeiro é a única esperança contra a misteriosa epidemia.",
+                "poster": "https://image.tmdb.org/t/p/original/nbLv2DzKJTqRbjDCMYyzT38GkxP.jpg",
+                "episodios": [
+                    {
+                        "title": "1x01. Episódio 1",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=w9ctjXB3GaBIWJyDE5p6kbpbpR2NaVsKT9jdzU3q8lKlBTGp0Zc7XdnxYEEUW1Qf&expiry=5hUsIjaIpGvd7HFOLsXboA%3D%3D&mac=7bb420ff29387f6606bfbbefb61f0b635c8f1d7855b20549efec3836d1683f25"
+                    },
+                    {
+                        "title": "1x02. Episódio 2",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=9MDqy1p336eLdGqBy4V61YC7DUI%2BNSvxMAbUjvQP6PRgceGrH7U53aVnciDRXJmi&expiry=aUYpiQZl2PKM9siF6EYl2Q%3D%3D&mac=ae43c546947c28ff77762a6663548019aebcdf260eca89b625ebdeb0675029f8"
+                    },
+                    {
+                        "title": "1x03. Episódio 3",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=j23yMGnjmKgUqCumKVcaHIutcP9x7QB0WxBRdVMHS4YDmC6ujyCYPdyZ4322TtoH&expiry=KKue8QP0Tf0SF53fdOOdIg%3D%3D&mac=56ba797b57a90a255b50fc7c7970005f9208f76a806879745a9e54beed86eb3b"
+                    },
+                    {
+                        "title": "1x04. Episódio 4",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=ceGKmcTzqmaJyz%2Fc9D8cPmO79%2FysbvVPacujUoo7tBWy131cEp50R8wHTK0whnsL&expiry=9ZOTOVhaFR4DByEIwSWPqg%3D%3D&mac=6e210be3b58dbf0db3562fb6b1af409feee93339df4d6a8eb52367e2bfec7fdd"
+                    },
+                    {
+                        "title": "1x05. Episódio 5",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=thMqTlPdglBG3js%2F1RQgJUX934CO3X0JEpp4uULUZPrlCPe%2Bu%2BUY1D0s0iB0sFfr&expiry=JqAqqgnTV7cZpl1DbN6tvQ%3D%3D&mac=ea2d50e5ca7593510ae4e0147a7d7569e8b8ad9514eb06f1faebafda75829720"
+                    },
+                    {
+                        "title": "1x06. Episódio 6",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=96kaRZ%2BA%2FHimrXRZvjIedyCqvGLZ67faB%2BOzGY2curs3zd8LZj38sQnaAidSRR%2FX&expiry=OEvLrMHnhPkFe25TXPCHCA%3D%3D&mac=96182cdca9f2fd2cdea939201ad380f41d8471790c82488b05a72dd676c22c82"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada (Legendada)",
+                "rate": 7.7,
+                "sinopse": "A epidemia não perdoa ninguém. Mas os infectados não são os únicos monstros enfrentados pelo príncipe Chang em sua luta para proteger o reino.",
+                "poster": "https://image.tmdb.org/t/p/original/nFan35eF9xGHBsro3U9YbEKsfmV.jpg",
+                "episodios": [
+                    {
+                        "title": "Kingdom: Temporada 2",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2071ff64e6a9aca11e56dd30cc2331947a1b056"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "title": "Dexter",
         "rate": 8.194,
         "year": 2006,
@@ -8131,6 +8534,52 @@
                     {
                         "title": "O Justiceiro: Temporada 2",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd7369c49294988d1ce59333c0c0d6bd4a6b5916"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Black Bird",
+        "rate": 8.111,
+        "classification": "16",
+        "year": 2022,
+        "aired": "07/07/2022",
+        "sinopse": "Quando Jimmy Keene começa a cumprir uma sentença de 10 anos de prisão, ele recebe uma oferta incrível: se ele conseguir obter uma confissão do suspeito de assassinato Larry Hall, Jimmy será libertado. Completar esta missão torna-se o desafio de sua vida.",
+        "poster": "https://image.tmdb.org/t/p/original/qu312pwM61NPTr7nexvovCClDNP.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/o2C222QdW4dmoyd2dgPlnCcI3cW.jpg",
+        "studio": "Apple TV+",
+        "genres": "Drama, Crime",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 8.1,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/w2shojFb8JZsoh9Ddq52JsHaQoK.jpg",
+                "episodios": [
+                    {
+                        "title": "1x01. Piloto",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=dYXNKcQFizUgpVxH0s%2BwrbIEMa0rMGOK0ijIghnJ0qHQbExto6I8C3MyW2jl%2BWON&expiry=O%2F%2BrzzIlgG5qQ9klabHDkQ%3D%3D&mac=fe0fe28b0edff3698db7762069e7b3f5ce8160fdf0824dc3218f5b39e68d3852"
+                    },
+                    {
+                        "title": "1x02. Estamos chegando, Pai Abraão",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=7sEHSiSTS8K%2F8o8YGHK%2FE8sZOi%2B3JTtatR6PuQ76vPk6Xmz2SsJczwYVcX48uaMf&expiry=Zdt3u6q%2B%2FnznvQL8QaOssg%3D%3D&mac=4e717689a1ff19674afa3bf22ae975cf82e8ef0c646ff1a400e3dacadc75f458"
+                    },
+                    {
+                        "title": "1x03. Com uma mão na frente e outra atrás",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=f9TZmDHy2aCkdYLC5rEBJ4bWYwghJEKZlINmdr0u29sY%2Ff7bws6fb9whNHGqOTQH&expiry=ZdTBv6sxL5exGYckeZ3AEw%3D%3D&mac=f4e26d0461ca4c4f5e7f74b79578f27f0a948ba9341c122ec717fcf6d9c2447b"
+                    },
+                    {
+                        "title": "1x04. Qual é o nome dela mesmo?",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=mnt%2FD2CuUW1vVtnltnflH%2F7nsUm7y%2Bf%2F15FEP9rTpqCEzqejTN%2BMzb7nJ4AwLREz&expiry=x0923FfPsNMYroueaqhjQw%3D%3D&mac=4809968e5ed3f254b7e08cdb76232a957be4f2594656a07f0ffe675d89263a9e"
+                    },
+                    {
+                        "title": "1x05. O lugar onde eu jazo",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=MCtkAQsXZ6mTAnKO8vvg9yBxPAu7uWP4qr2iqoqaislN8cSWuVOMKRmfAcmNFGgc&expiry=ePLR3yBQ4Eyy5MBq6%2FLKaQ%3D%3D&mac=d9001215a6cfac2c5be3bd6e2732028acd427e4e514f3f59bd55867a0066183a"
+                    },
+                    {
+                        "title": "1x06. Você prometeu",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=oyUuD9oz9XuRFT%2BsnTiUw1kCff6WFP8aM%2FX%2BJ2gpYgeRNuC0voRHNufK4sF6NfSc&expiry=HHxZ2ljI5G1YkTQfVHGJoA%3D%3D&mac=9019230052360f0bc5795ef8d821f115863dd1b1a6f16a6c09f1d1fb643cc474"
                     }
                 ]
             }
@@ -12122,6 +12571,60 @@
         ]
     },
     {
+        "title": "Iluminadas",
+        "rate": 7.711,
+        "classification": "16",
+        "year": 2022,
+        "aired": "28/04/2022",
+        "sinopse": "Anos depois de um ataque brutal que a deixou em uma realidade em constante mudança, Kirby Mazrachi descobre que um recente assassinato tem relação com o atentado que sofreu. Ela se junta ao veterano repórter Dan Velazquez para entender o seu presente continuamente mutável — e confrontar o seu passado.",
+        "poster": "https://image.tmdb.org/t/p/original/1oFhTXVp1u8oNB9WacQMYd8s362.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/aijJqFjhyRA8g7xRg6KUdoExynk.jpg",
+        "studio": "Apple TV+",
+        "genres": "Drama, Mistério, Crime",
+        "temporadas": [
+            {
+                "title": "1ª Temporada (Link Direto)",
+                "rate": 6.9,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/1oFhTXVp1u8oNB9WacQMYd8s362.jpg",
+                "episodios": [
+                    {
+                        "title": "1x01. Legenda",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=wtfAXWBjCd1jchKf3HI7kNrwrbTdkwgv3aP%2BnePxzWBXmM2iK1552ekVGKdXTSlG&expiry=puF4Ydg39Ku2FWVHJ7uiuA%3D%3D&mac=2808edf8454bf028fec695c900fee2a225d9f289e9034f20574d8093b32b6f4f"
+                    },
+                    {
+                        "title": "1x02. Duradouro",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=PIoInaBAzv%2BICNLlDBVcMjb9cvs%2Fvi4Yqg7lwgSqAiVS9DO32Rs9%2BoD0ZdXAUBbb&expiry=40EQNpEX%2FY6JE6ZfwsaHSA%3D%3D&mac=c9a0d021a777db26193805235cb27458ef0c297dc901770ae1416b8a06b4e319"
+                    },
+                    {
+                        "title": "1x03. Pernoite",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=qB30lRy6ph3VR3Uj8rdVP8%2Bc%2BwR7SVvGlgsb2pLiQis%2FZwK6CVZABIdHRg8gnvwk&expiry=w2AhTqziznfNDOhIAOvwkA%3D%3D&mac=bab56dd382f86d4966b9eff15a19bc10e9b6cd897bb894d66236d426d8ccd535"
+                    },
+                    {
+                        "title": "1x04. Atribuição",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=AzswGUN0W2EvAf%2BlXQWLZZpMd%2BEKjsV8y8N%2F%2FjrECHBqhQmA5JWWyJE1FDPJRiHu&expiry=V4mz%2FJgWCIaZ1F%2BiwpL98A%3D%3D&mac=bc033efe9060a346672c68f2217068b35976041a13616f8a77a2db27c557c299"
+                    },
+                    {
+                        "title": "1x05. Manchete de jornal",
+                        "url": "phttps://animezey16082023.animezey16082023.workers.dev/download.aspx?file=gk6f4JtBQrb0K8ZLEfHkSRELN%2FUnMCm6O0bZdlhxi85k%2B%2FBZ6kfRP9joo5ctdE9%2B&expiry=H%2B4SMx4jDgCJPA69bk69CQ%3D%3D&mac=a106efabe834ae9bb8513e1f5d50423ddee60c0fa6cc6bba653784d6cfdf4fe4"
+                    },
+                    {
+                        "title": "1x06. Luminoso",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=TYRifkAJE2OSJqDMiYRypEIormDDjpIaiW4%2BxePMBROBFVSYogBPRBKUDAxrc4Jo&expiry=CzkaAsFxiVvkQ7uE0ALXlA%3D%3D&mac=dfe925a665f96b95dac3ed6e5713a407e854033c14389246c4fd2edad50cef2d"
+                    },
+                    {
+                        "title": "1x07. Compensação",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                    },
+                    {
+                        "title": "1x08. 30",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "title": "Carnival Row",
         "rate": 7.709,
         "classification": "16",
@@ -12345,6 +12848,236 @@
                     {
                         "title": "2x08. O Que Deveria Ser",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44a32e2725c638d2330172f227eae8559769a118"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Os 12 Macacos",
+        "rate": 7.7,
+        "classification": "14",
+        "year": 2015,
+        "aired": "16/01/2015",
+        "sinopse": "Em um mundo pós-apocalíptico, a humanidade é forçada a viver nos subterrâneos  depois que um vírus mortal é liberado. James Cole, um condenado, é enviado ao passado com o objetivo de reunir  informações sobre o vírus para que os cientistas possam erradicá-lo.",
+        "poster": "https://image.tmdb.org/t/p/original/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/rgBEfR1A9JVBvoc0xUWv73o4M1M.jpg",
+        "studio": "Amazon",
+        "genres": "Sci-Fi & Fantasy, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada (Link Direto)",
+                "rate": 7.5,
+                "sinopse": "Acompanhe a jornada de um viajante do tempo do futuro pós-apocalíptico que aparece nos dias atuais em uma missão para localizar e erradicar a fonte de uma praga mortal que acabará por dizimar a raça humana.",
+                "poster": "https://image.tmdb.org/t/p/original/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg",
+                "episodios": [
+                    {
+                        "title": "1x01. Fragmentação",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=y0lzgCfvkwl4tcZ%2BsBtaWpJZyb57aPXsigj9Ll%2BoUIARwk%2Fufy4mqnrCyVzVlCMO&expiry=Wpa4r6dqgsO2lc9okbKm1w%3D%3D&mac=6eff78f9cba9be6859700b88c2ff81e6726c2844d0ece55d6ff059995c8262d5"
+                    },
+                    {
+                        "title": "1x02. Mentalmente Divergente",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=hxYY77W9jnpoQhA666umbEnokMLhjZHoTnMymsVou5gKmgWWlzVbRoLDkPOwXwfi&expiry=R0xRTffcIhQCuvQH2jLozw%3D%3D&mac=eebc041836a98c429fa96a02f192c143d030a2a9c57c636fd9c02a5065376c7e"
+                    },
+                    {
+                        "title": "1x03. Complexo da Cassandra",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=KlJVmgcEsJhHsTadQxibvjXfUzvZO%2FyklZZPjQGdrynB1SnYlVRBp0%2FmtSN7Xnwi&expiry=zfLhcfkv8DwKO3mpdjXIdw%3D%3D&mac=8142b4bcb628ccf00030ba4b60e80c19e7458ab4f8b0b11415353630e38a84e3"
+                    },
+                    {
+                        "title": "1x04. Atari",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=ccFrgIbVUMqrWofmuKCtweZEJMStSQPm7Qsv15biJFTnuTYFKEucrM5bsJfym1C3&expiry=INqF6tduVTYdsyvwB7RDfA%3D%3D&mac=0bbc1b2a78216e6cecd47d916f3de8a7b50d80f8d43d0ebcd6470b3dd288306e"
+                    },
+                    {
+                        "title": "1x05. A Sala Noturna",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=cD4CIgw6wS6h1lLsqwGDkxzb6oc5CBHhxAQ5FaOeNj0zrsyWJiyucqV%2FyRhQvtiX&expiry=oYH7soJ62cbbBb%2BOzK8i3g%3D%3D&mac=497115917254c2d659dd4fd95578fb347969f8746e8f80565878b24c07ddf525"
+                    },
+                    {
+                        "title": "1x06. A Floresta Vermelha",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=NISqsfmPJT%2BabNsCTnl0q%2B%2Bvx0yd%2BOaXpUQL4iDUrrRdDd%2BruKEiPzN6ngaZDgY2&expiry=znqY2D8WVZNqgYqM6IfFqg%3D%3D&mac=ab4d5538618f7a9f4e1181d8685b9e03535256911782e53b2de1a3c4442b0f79"
+                    },
+                    {
+                        "title": "1x07. As Flóridas Keys",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=mCard3tXyK6L01aYLDgKCifuP8tigLYSK9wfdQU0DEXSAk6PZubWm5ZE%2FPBrsn8I&expiry=3f7J1R8W3alI0ep3YdlzTA%3D%3D&mac=2d6f454f92088df59603f50cb4edc49197d4c76dac3cee9ea71667e3a5406dc9"
+                    },
+                    {
+                        "title": "1x08. Ontem",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=eoG1s9LIp7ABecEYUokqnMlnxL2ksi1WYUaHeSY7sbuRx2NIax3UkrV5yxW5%2FzDh&expiry=ROC7kPcI2JlOXeQev5yPzg%3D%3D&mac=c6bfa9f750ee91ff03f463c223ac9f3145ac230a9eb6fe48b02ac4de433483f6"
+                    },
+                    {
+                        "title": "1x09. Amanhã",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=pomOQd6BSZmBKqyykuQYYRCWWA%2B708AgLIXgZjz8%2B27sj2NSGVQVfcCDG1FV%2FvdP&expiry=bpdzBlYr99CtkOHVf%2BBMpQ%3D%3D&mac=881d6fce636bcc78e8dba246dc3088420bb54a1ef0174fe2c3d922fa2f2cf51e"
+                    },
+                    {
+                        "title": "1x010. Manobra Divina",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=%2BD0iCtU%2FNi7gOteaQ1H7VIbvpcd7j18U6DTBGS%2BiTHFglHVbNBCp0GWdUzohg4M2&expiry=RbmkJIvIkZvuLmyjvQPfNw%3D%3D&mac=6a845bd0b91fb161c4efa106cb3625a89d4036d4564d503607c1931df12c1511"
+                    },
+                    {
+                        "title": "1x011. Shonin",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=G4KLGd56Kc7H144lRTVH98pcNopbgXrGID1Bezyms002tYjQ1XyqFPVoTo%2Fp1HCz&expiry=e7vJb%2B5NOCxzNK%2FSra4y6g%3D%3D&mac=73cb13fd21880295272844c55814463fdfa9902e0ebc3eeec6ec35edef719770"
+                    },
+                    {
+                        "title": "1x012. Paradoxo",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=KbCk%2BmNKFzONjESUVlVooey5wltVU4MqJCXPy8XyzUykvAMO9aT0MlIQUTLDlAaA&expiry=RSp8J3Ds3VVE2wT2ICV8yw%3D%3D&mac=24588fd75f5c68ce1d51413a7b1feb881a9ae8414571f53417f6fa9c1ac8ff6f"
+                    },
+                    {
+                        "title": "1x013. Invasão",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=%2F6au8oDYBNbWiN1la9mBfpKBjhM4fzsfF0tiYoEHAx2oCVSW95qsxSHGJnCO%2BIGC&expiry=HV77LiLRl6733uH3eJsKuA%3D%3D&mac=cf22005423f7921659c3308da824a49350375afb3b0edefacafc48dc60ede6c6"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada (Link Direto)",
+                "rate": 8.0,
+                "sinopse": "A segunda temporada mostra Cole incapaz de viajar no tempo devido a um paradoxo imprevisto. Enquanto isso, Jennifer parece estar prestes a liberar o vírus mortal. Cada ação tem o potencial de alterar a história nesta corrida alucinante contra o tempo.",
+                "poster": "https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg",
+                "episodios": [
+                    {
+                        "title": "2x01. O Ano do Macaco",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=lav7dT3ZkZJ%2F4YAdSjwVuN%2BHrjQQ5%2BZnHGsaUEuchSHpiUWP%2BBW8JdDROAbdg8tD&expiry=ZfOGct8E%2F%2F%2FBOl2uQhqc%2FQ%3D%3D&mac=f371392f21ef59eefdb6a3972bf26bb77df62aa9a9ef554a7a962635056e7f69"
+                    },
+                    {
+                        "title": "2x02. Primordial",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=vrJ1BUoBGVtcVztUNe%2FVvjML3EpotMbewcMGgzeuJgUKfwFarpClL2ltyFUw%2BTDe&expiry=pqFs0GU%2FV9s3St5dp2fPPw%3D%3D&mac=3ad45c464a224bcbd93e4cbe742f8a90215315dec3d3ed710627aa13a562ffda"
+                    },
+                    {
+                        "title": "2x03. Cem Anos",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=pL7vcaDERwZ7meWhX5sI4RYk%2FzhpVZAwlpy7pWuyDO1ktxPISayrVE77sL5HmB5b&expiry=ohFlrnM89CMCBzyAyQ1GnA%3D%3D&mac=a1b80977f46be9296470b8d6d78e84bc2b145fbfc2966154b7741be62e49467e"
+                    },
+                    {
+                        "title": "2x04. Advento",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=sgcx2Vx%2B103YaBRYcvbo5ECffGyicf%2B14lNs%2FUjdLQz23yVmJMs6tXrnjMsu7qFn&expiry=ZzKKT5jsBvjZAeY7avQxBg%3D%3D&mac=7d05ddd1c5ff12613e404dbd4f26ad36a64bd8d471925323fd00b210fa9c7be3"
+                    },
+                    {
+                        "title": "2x05. Corpos D'água",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=b4ZkLspgifH526BYyf8ckgpqvdN4llfzY5ZIPUmAu4kHO1Ph8FTPxndAxmSED8D1&expiry=RTdzh86ZxTZv2oOme7J9Hw%3D%3D&mac=2ea7145d8103225ec1b00b6553c6a34123ac302f2934068323583a1dbb6c6284"
+                    },
+                    {
+                        "title": "2x06. Imortal",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=H006r%2F8G%2FC%2B%2FLWfaDX%2BYsttGEmxEOMo6krC0YVS495rHxCHqeXyl4Y1Lt2yxHCOC&expiry=hUnYiiFWGUyaLCouJx4avg%3D%3D&mac=e1fe6bf0d7523a064bef952a6cb4ef74f77fb235bab83f09136b611059cd6bd3"
+                    },
+                    {
+                        "title": "2x07. Fusão Temporal",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=1UGSAnT5Pc1kihrWSqTVjijs%2BSfkbAT1eKv0sHD9BXO8AyeMDHN3afUJoe%2BrOjVf&expiry=Zm3UrAa28dhcBpUUyplEMg%3D%3D&mac=665794f116c7785c3b5e93e7f732185efcbba53209acb3e678150a737cc7b09e"
+                    },
+                    {
+                        "title": "2x08. Canção de Ninar",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=TUR10bnrVCZkFj6ROCUc4gfBDHG%2BlTt114U3zpgHTUGipsjZxjrVqTr%2FpzvsZaM1&expiry=U4roeMz8%2Fwi1vDJ80Uq22A%3D%3D&mac=be013dfcbf4a0e788e723944d3e80fecf3192001411ba2d65c24ec3496d3f0d0"
+                    },
+                    {
+                        "title": "2x09. Hienas",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=%2BMKYSBIwxuZKI%2B2Dwm2KeNb%2FssnZpZ%2FgJJfNuDPbzSL6ooXNko09zM%2FVAcb72Nvi&expiry=2VBgUuwlgBiiRhRd51khMQ%3D%3D&mac=611ccb6acceb3f625a384e647ab1862ecc3281114face969aa3d475d6824db4b"
+                    },
+                    {
+                        "title": "2x010. Pátria",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=9wCj1OG0h9pSqPEvVMA8BmzEOTkTco62SkF3w5VNNjTxc4psjspeoA75Aehv0NYo&expiry=pvtgwow5Fos8ayvc%2FEkuDg%3D%3D&mac=8f8ae2f470c05a6e3630777a8efd79e1f1d63b1f21b36e45ee02d4bbb176f531"
+                    },
+                    {
+                        "title": "2x011. Ressurreição",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=4ey%2FaQzcOo6OQltjRB32mq1z94iNAjenwwqqMr95tjVFLTd2qYdes%2BJ%2BUnODtjx%2F&expiry=x4b6UXuPtQe%2B%2FfC2F8mS7A%3D%3D&mac=06a0423646db02c695c7c3c0b85ace590c76f4136cbdbdc15f0a443248cbb5a3"
+                    },
+                    {
+                        "title": "2x012. Sangue Lavado",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=utPYk380P7GsgimhV6Mw3v%2FIZA5WHPqIapFTOp1X2KDO5aQxktYZD5JBBFELnkb%2B&expiry=gXnSy2ojQW0seSU1d9kMrA%3D%3D&mac=2961ae9186eaa8db75c5faea12f5a4008bbca32704ae98f21fd5e1dcb7160f64"
+                    },
+                    {
+                        "title": "2x013. Memória do Futuro",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=rOkbnruKdLydDA2HwITz%2BMei408YXKG6%2F57jZhmev0EpSpjgg5g0s2QBBcvcMvoZ&expiry=8CV%2FkDov6ZTV4ru5fvWmLQ%3D%3D&mac=e615497c67a102493f6c92ceeb04f1df553b5ce2bbef23d05a89c6d01a6997d3"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada (Link Direto)",
+                "rate": 7.9,
+                "sinopse": "Com a identidade da Testemunha - o engenheiro do reality final Exército dos 12 Macacos - agora conhecida, Cole e seus aliados devem viajar por diferentes épocas da história para detê-lo.",
+                "poster": "https://image.tmdb.org/t/p/original/9ThglVQvuExDvTOx3weUJVupCZH.jpg",
+                "episodios": [
+                    {
+                        "title": "3x01. Mãe",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=opuRwNCUYbm%2BqrEEsZ%2B0Xfg4AmIN6pUpnCwnmwmE143fVEeysQbUp8mH3zezf2%2B1&expiry=bydaToVIQcRsywi0PFPP5g%3D%3D&mac=4d56ae25fe09e01992a28ddd9196de3f776e9aceea04912a5f47c25181f3206d"
+                    },
+                    {
+                        "title": "3x02. Guardiões",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=8RQLBR4zqgvXrfYJtHcUuRfdAWn4876qMIvIEb863Keyfo%2B7whzJjdajTdb3aPru&expiry=%2BO9AorSxCnWEfHrVobz1BA%3D%3D&mac=7987d96bb9669a657c77a796a91e864ff79321a4d38ce905c6cad5bba0f69df6"
+                    },
+                    {
+                        "title": "3x03. Inimigo",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=pwNCwdU%2FhsRjXA3niR76dh1DH8L%2FTAKdMl5E0nw%2Bj1igOL1Ss1u1bvCXp4ZM8j4b&expiry=a9P36TBIQgToVOHTh3iHzQ%3D%3D&mac=30f2a3efa9482cb09d178470a1d0fbd75398cedbe4262f9545f6841ce57fa045"
+                    },
+                    {
+                        "title": "3x04. Irmãos",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Q4DzUCsETwqiOWCsgj2ExEAgavHIYvIgUfjasd8y4LX12pqzhW8GqpprEkCql9MT&expiry=2X6IVI0iFV4%2FN3PaTzzobg%3D%3D&mac=2ffcce556969f92285f97ccb726cd4c605a7fa729a445420bdc16ccf30758072"
+                    },
+                    {
+                        "title": "3x05. Causa e Efeito",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Ulk24xpOFMQesg%2FoCRRHLO0bv6ZxY8AN4XqjouhNDNh5WPpz5uvg8cEVuosiUTNv&expiry=7RY9pXjFhzrO%2F2sKrD1G4g%3D%3D&mac=bb5626fac36258a05c056d43e4b4fbdb65a36dd53f8affef2bec6b8a8d06f4aa"
+                    },
+                    {
+                        "title": "3x06. Natureza",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=o9vFcnIOYhCYsEGHMTW4c70ZtvLouYqajUgv86xd6iOeI8akf41DAMIJjbrVxYe6&expiry=E9akbcbudt8h3fhqxzrwLw%3D%3D&mac=421f31beb01f417059dfc1471be0f7dc6ffe4275e6ca5bab3286a787aa46a06d"
+                    },
+                    {
+                        "title": "3x07. Criação",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=%2F85gUJdLm%2FfS0a88ce2scnR1bCPIemnOnKsIT2NJwAg8jLvUOb9ik1%2FtOwhs51F6&expiry=eZJXeGqGwEbTuJy47qLK8w%3D%3D&mac=b0589d5ed82ef365315a3995cc9726f4e8f669e575d9c16309f233d2fcfc835f"
+                    },
+                    {
+                        "title": "3x08. Máscara",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=ojLoqwg2daKD0hCgl9b8x70b%2BC5WcRPlTqZSku%2BtUeVv1FCP0de55pkDqV03bro4&expiry=D%2BoppyUuLfS55bgL7ql%2BNA%3D%3D&mac=cd87e2aef35eb61b849e7b2a9cfe58494e8aef0eb85ce6ead5119adeaadf39b3"
+                    },
+                    {
+                        "title": "3x09. Ladra",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=ATScdm5cOUcu7pJ41RHvBe8iH4Z0GiuFFhNi1P7HXOMuj2Z2PWDeSIbWmoDpvSdc&expiry=rMpEyeQGQeCQMDW%2BwcvDRQ%3D%3D&mac=46ac61609aee8b31bf9f3a4119b21805546966c85df3e5ec239485f83d0e5d87"
+                    },
+                    {
+                        "title": "3x010. Testemunha",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=b1ApNRJMYnNaz6pJQzFBfLtGk4uJrSs3LdzcVGSm4QXBWZ1KO6KzxJ2w%2B2Cyi2By&expiry=gaHoChY71WXHa%2BOZSz2WNw%3D%3D&mac=4789f8f287bd95cccab4e1c4d2987cfe870bba7f4e6b56e508530d412f04d223"
+                    }
+                ]
+            },
+            {
+                "title": "4ª Temporada (Link Direto)",
+                "rate": 8.3,
+                "sinopse": "Na 4ª temporada, James Cole e a Dra. Cassandra Railly partem em uma jornada épica, viajando mais no tempo do que nunca. Segundo a lenda, sua única esperança está em uma arma capaz de parar a Testemunha para sempre. Mas eles logo descobrirão que, para vencer a batalha final e economizar tempo, eles terão que fazer o sacrifício final.",
+                "poster": "https://image.tmdb.org/t/p/original/ozeyktTsXDszE8bKyc3owNjownI.jpg",
+                "episodios": [
+                    {
+                        "title": "4x01. O Fim",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=h4VtVQnrxpAdD72qqiqEpxthbQjEStAnRVvIiRjyDLJidOu0xKgVDLtL%2Ff3gNREb&expiry=dvYoJ0fiJL382akDMjaNPw%3D%3D&mac=8cde27601a923dd842b089173ae22613e33f5fa97b3c3564af934e881fa48852"
+                    },
+                    {
+                        "title": "4x02. Ouroboros",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=USlpO0XTRmKF7MV5JmCpMwv7%2FkvJw0y4%2FzVpheMuyZ7F19xsfAEOUo2dGcA89bwe&expiry=X9gCDGH0WWGt8aeY6EV%2FJg%3D%3D&mac=5d75ba81c1d5f6a5d1840443ffed3a01ffc59db85afd6ce797f734420d31fc86"
+                    },
+                    {
+                        "title": "4x03. 45 RPM",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=klVuG3YccfxLFSsb5npx9qsMrRSAMF6xOd3Y2IHFnQkiTkzXenDTBw%2Bv6%2F5vVoqB&expiry=NaXfHHLIaET%2FjFddT32BJA%3D%3D&mac=031b74e6b4a07e9f9ce2c51c20a92088bd63b5099e903056b6973e6b20966a29"
+                    },
+                    {
+                        "title": "4x04. Legado",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=iG9pYyTBxdbgjm8MjuHVm0uV9fOeeJX8Q%2F4urvve8e4PbZS17JceYrouZ6SC48TH&expiry=hf%2BRikqxq5j1f7VYo0GAmg%3D%3D&mac=5416caea5e59d98d7c837d790da42b9cd220c3a500d8dad171ab0b87e6672ac4"
+                    },
+                    {
+                        "title": "4x05. Depois",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=msAe1cO0CGKNXHqPYqXjYOI6o4IQSDTPyKLItVVeIcjNfDhRCvxpHNR6F1IKrEsp&expiry=cXBa7S8fyg7M7XQ4ejzWHA%3D%3D&mac=9d77c2581ecdd5ce7349aafed512705468b6d8bd9dff43d66c6de86e34409d7a"
+                    },
+                    {
+                        "title": "4x06. O Sino",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=73FYN9ByEBMDnqpFQGY2e1TewpeWnNbjMHIxPhDXdhEIwIj5FtbFHZz078%2Bje4Z7&expiry=UfqRd9tkTIaqE4lHSBOrUg%3D%3D&mac=e65aad7f801515fbb2f753fc668156c9aebf3f2642dc05b93eddbb42992675a6"
+                    },
+                    {
+                        "title": "4x07. Filhas",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=KJPDIlR8AW8DGhFNYnP1cqlH7G172jqdaS0757jjey%2FxXceRF3lsyNO7s1Eyc94%2F&expiry=aOTN6%2BSJ5upthZvItQpv1g%3D%3D&mac=f55980b790627818a9d8bb112fd2c799f941041bf8d1e97dc3c3788978de0eb0"
+                    },
+                    {
+                        "title": "4x08. Demônios",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=zfbhj4Q%2FHHsXa4r%2FZTGHGGZPlYkJ1rD%2ByuyeUCQSaLiouz776df4xRjblZmv%2F9AU&expiry=XW6cx7JnIYI52greEAsNAA%3D%3D&mac=a61819f2f51337629efe0001c6f0285d61ff359f0e0726c1c52586f75ba4c5ff"
+                    },
+                    {
+                        "title": "4x09. Mais Um Minuto",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=%2BehBzXcYAMkxBy7QYWGF4Z5Kjfxbkup8G05VQz%2BH%2Ble5nXrjRV2ms0buC4Kd138A&expiry=bF4pY5Io%2BEEOZFBYqzPQzA%3D%3D&mac=9d3ce325cb76ad2834049209dd1e8b5a2ab01543e2f8d9d6d866210ede447017"
+                    },
+                    {
+                        "title": "4x010 e 11. O Começo: Parte 1 / O Começo: Parte 2",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=7wQXyjj6ixOVghnGdRls7GJ6STpJ9BXnAYVXiDJ6pEkN52R9Gy3rFJA%2BisF6xzlA&expiry=ndpTbjK6VVUzppw18C2Hsw%3D%3D&mac=8d269e9030eb5c65638026672822909822b792604c878c30c7f4ac304e03ef19"
                     }
                 ]
             }
@@ -12766,6 +13499,95 @@
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a8d45485027b9f56ea9c782c6b9b80165dc7561"
                     }
                 ]
+            }
+        ]
+    },
+    {
+        "title": "The White Lotus",
+        "rate": 7.6,
+        "classification": "16",
+        "year": 2021,
+        "aired": "11/07/2021",
+        "sinopse": "Minissérie original da HBO que apresenta uma sátira social através dos funcionários e hóspedes de um aparentemente idílico resort havaiano.",
+        "poster": "https://image.tmdb.org/t/p/original/jNFcfgLFPhCZdhUUmwjHvq6TLxh.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/rCTLaPwuApDx8vLGjYZ9pRl7zRB.jpg",
+        "studio": "HBO Max",
+        "genres": "Comédia, Drama, Mistério",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 7.6,
+                "sinopse": "A trama é centrada nos hóspedes e nos funcionários do The White Lotus, um hotel-resort localizado em um paraíso idílico. À medida que as férias vão se desenrolando, entretanto, tramas obscuras surgem entre os personagens e dentro do próprio hotel.",
+                "poster": "https://image.tmdb.org/t/p/original/4gBYNDdczkFOqjR4dgYamqbp6cS.jpg",
+                "episodios": [
+                    {
+                        "title": "1x01.  Chegadas",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4241bd807332c0a1f4975a8b86b4514c753b78c8"
+                    },
+                    {
+                        "title": "1x02.  Novo Dia",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80f02f76d3c31bb278de6d4b375beaed0132b7cc"
+                    },
+                    {
+                        "title": "1x03.  Macacos Misteriosos",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6df3ac5d37cb00c4d93892b5fdee65efb772eaab"
+                    },
+                    {
+                        "title": "1x04.  Recentramento",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:559e787081d19c573b53cbe7b114e0eb98f91bd6"
+                    },
+                    {
+                        "title": "1x05.  Os Come-Lótus",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52e0733d56803e550c791531a01a31548209f2f1"
+                    },
+                    {
+                        "title": "1x06.  Partidas",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e386a60a53f2273db9a02d4ba26d86276bf61127"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "rate": 7.5,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/gH5i3JbnLsyTvcImlofNvXtH3i5.jpg",
+                "episodios": [
+                    {
+                        "title": "2x01. Ciao",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f08190ce8fab9a5d3d916efa49250c16f128deb4"
+                    },
+                    {
+                        "title": "2x02. Sonho Italiano",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54a1c98eb6a2b88be7ed58547a9fe6dc07bc7a60"
+                    },
+                    {
+                        "title": "2x03. Elefante Macho",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76a55596af3bf785f219e56516c175d26d0f270a"
+                    },
+                    {
+                        "title": "2x04. Na Caixa de Areia",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d922905f8748e707cd17e28c02437d8fdef0dd69"
+                    },
+                    {
+                        "title": "2x05. É o Amore",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a2b680bf9dd962d50dbfcf32583f5aedee169408"
+                    },
+                    {
+                        "title": "2x06. Raptos",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a21025c51dce44b5a95b4f2b8895b1c59947ef68"
+                    },
+                    {
+                        "title": "2x07. Arrivederci",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2bf64193e73b3246947c0392e27e83448c7f8ca"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada (Breve)",
+                "rate": 9.0,
+                "sinopse": "A terceira temporada desta sátira social acompanha hóspedes e funcionários de um exclusivo resort tailandês ao longo de uma semana.",
+                "poster": "https://image.tmdb.org/t/p/original/jNFcfgLFPhCZdhUUmwjHvq6TLxh.jpg",
+                "episodios": []
             }
         ]
     },
@@ -14190,7 +15012,7 @@
                     },
                     {
                         "title": "1x08. Episódio 8",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:083b73100473b53141869f25ea7fdd183caf776c"
                     },
                     {
                         "title": "1x09. Episódio 9",
