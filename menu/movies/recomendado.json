@@ -1,5 +1,5 @@
 [
-     {
+    {
         "title": "O Caso Evandro",
         "rate": 9.1,
         "classification": "16",
@@ -20,8 +20,8 @@
                     {
                         "title": "O Caso Evandro: Temporada 1",
                         "url": [
-						    "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a75c4a6e0bf3737a4246b9ab69003a8262c2d71"
-						],
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a75c4a6e0bf3737a4246b9ab69003a8262c2d71"
+                        ]
                     }
                 ]
             }
@@ -31,9 +31,8 @@
         "tmdb_id": 933260,
         "title": "A Substancia",
         "url": [
-             	"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:036f46cd423312f538a07c5069a904af3ddfc485"
-	],			
-					
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:036f46cd423312f538a07c5069a904af3ddfc485"
+        ],
         "year": 2024,
         "genres": "Terror, Ficção científica",
         "actors": [
@@ -67,87 +66,5 @@
         "premiered": "2024-09-07",
         "synopsis": "Já sonhou com uma versão melhor de si mesmo? Continuará sendo você, só que melhor em todos os sentidos. Então, você deveria experimentar este novo produto: A Substância. MUDOU A MINHA VIDA.",
         "popularity": 680.179
-    },
-	{
-        "tmdb_id": 508965,
-        "title": "Klaus",
-        "url": [
-		        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:800605ba5c956d03b9948097a664ffaabdc22e1c",
-			"https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=B%2Flgpld9BkigMJCle6xydvV7HxQz8dej%2BaSVjPz04gO7ud%2F%2BM%2BPB4QbN3GR4hAuW&expiry=7qjARemCbCOc5ZI03BKvKg%3D%3D&mac=7a418f11d17d8a81c7a4090076911caa46efa86a939553aefeb31a3714c50326"
-	],		
-        "year": 2019,
-        "genres": "Animação, Família, Aventura, Comédia, Fantasia",
-        "actors": [
-            {
-                "name": "Jason Schwartzman",
-                "photo": "https://image.tmdb.org/t/p/w185/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"
-            },
-            {
-                "name": "J.K. Simmons",
-                "photo": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
-            },
-            {
-                "name": "Rashida Jones",
-                "photo": "https://image.tmdb.org/t/p/w185/cgWGm9eYCretBWeljPVtpRV7n6V.jpg"
-            },
-            {
-                "name": "Joan Cusack",
-                "photo": "https://image.tmdb.org/t/p/w185/ytjiXEqnaEYtS7XkYmoUXPrZCm5.jpg"
-            },
-            {
-                "name": "Norm Macdonald",
-                "photo": "https://image.tmdb.org/t/p/w185/pGOpdt9Xy9YO2nUEWgp8G89KC5r.jpg"
-            }
-        ],
-        "poster": "https://image.tmdb.org/t/p/w500/guyZW9AQdTMp2F4esttjyIMMK1k.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/mlxKite1x1PgmIhJgAxNS9eHmH8.jpg",
-        "director": "Sergio Pablos",
-        "studio": "Atresmedia",
-        "rating": 8.242,
-        "runtime": 97,
-        "premiered": "2019-11-08",
-        "synopsis": "Em Smeerensburg, remota ilha localizada acima do Círculo Ártico, Jesper é um estudante da Academia Postal que enfrenta um sério problema: os habitantes da cidade brigam o tempo todo, sem demonstrar o menor interesse por cartas. Prestes a desistir da profissão, ele encontra apoio na professora Alva e no misterioso carpinteiro Klaus, que vive sozinho em sua casa repleta de brinquedos feitos a mão.",
-        "popularity": 26.003
-    },
-    {
-        "tmdb_id": 399174,
-        "title": "Ilha dos Cachorros",
-        "url": [
-		       "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95a75937c2e249d1e46bd39790417483e3522081",
-			"https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=EKiJcTpLGLi42YrVHjMhqEToA6wsy9UygPq%2BEL%2FuNQaggka1Ozq3xWgB7qnHf69W&expiry=tNqaB%2FPdbpBoGiPfNVErBw%3D%3D&mac=a3d250c411e81b8b5d5799b975e87bf77d2ee6a8852cf7cf4e5923e3e2942a50"
-	],	   
-        "year": 2018,
-        "genres": "Aventura, Comédia, Animação",
-        "actors": [
-            {
-                "name": "Bryan Cranston",
-                "photo": "https://image.tmdb.org/t/p/w185/aGSvZg7uITJveQtGHDcPNI6map1.jpg"
-            },
-            {
-                "name": "Koyu Rankin",
-                "photo": "https://image.tmdb.org/t/p/w185/cJsX8JA9fCqdHlNYf2945MUvvn1.jpg"
-            },
-            {
-                "name": "Bob Balaban",
-                "photo": "https://image.tmdb.org/t/p/w185/tLUlpF9EDxxRh6nM8AZ5BsPKc2B.jpg"
-            },
-            {
-                "name": "Edward Norton",
-                "photo": "https://image.tmdb.org/t/p/w185/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
-            },
-            {
-                "name": "Bill Murray",
-                "photo": "https://image.tmdb.org/t/p/w185/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg"
-            }
-        ],
-        "poster": "https://image.tmdb.org/t/p/w500/4k4sjRXGMTfIDkfVi7lHccatnWk.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/dkk1wFBDhPzLXPwVmHTRzny3rkX.jpg",
-        "director": "Wes Anderson",
-        "studio": "Studio Babelsberg",
-        "rating": 7.852,
-        "runtime": 101,
-        "premiered": "2018-03-23",
-        "synopsis": "Atari Kobayashi é um garoto japonês de 12 anos de idade. Ele mora na cidade de Megasaki, sob tutela do corrupto prefeito Kobayashi. O político aprova uma nova lei que proíbe os cachorros de morarem no local, fazendo com que todos os animais sejam enviados a uma ilha vizinha repleta de lixo. Como não aceita se separar do cachorro Spots, Atari convoca os amigos, rouba um jato em miniatura e parte em busca de seu fiel amigo, aventura que transforma completamente a vida da cidade.",
-        "popularity": 25.984
     }
 ]
