@@ -3,8 +3,8 @@
         "tmdb_id": 933260,
         "title": "A Substancia",
         "url": [
-             		"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:036f46cd423312f538a07c5069a904af3ddfc485(Opção 1)",
-			"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:036f46cd423312f538a07c5069a904af3ddfc485(Opção 2)"
+             		"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:036f46cd423312f538a07c5069a904af3ddfc485",
+			"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:036f46cd423312f538a07c5069a904af3ddfc485"
 	 ],			
 					
         "year": 2024,
