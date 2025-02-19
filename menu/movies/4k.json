@@ -1,5 +1,80 @@
 [
-
+    {
+        "tmdb_id": 950396,
+        "title": "Entre Montanhas",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fb620c37c40b54c1f7831c4af416f2383b960f6",
+        "poster": "https://image.tmdb.org/t/p/w500/7zL6RxMPmpPSdU5OTdVC4dtiKcr.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ntQ1Y9fr7IFT1XN9NfdIFomSKHg.jpg",
+        "synopsis": "Dois agentes altamente treinados se aproximam à distância após serem enviados para proteger lados opostos de um desfiladeiro misterioso. Quando um mal emerge, eles precisam trabalhar juntos para sobreviver ao que está lá dentro.",
+        "studio": "Skydance Media",
+        "year": 2025,
+        "genres": "Thriller, Romance, Terror",
+        "actors": [
+            {
+                "name": "Anya Taylor-Joy",
+                "photo": "https://image.tmdb.org/t/p/w185/yZpghhtKM2VZHDx6JGAZqAVU4PL.jpg"
+            },
+            {
+                "name": "Miles Teller",
+                "photo": "https://image.tmdb.org/t/p/w185/cg3LW0xX6RKr8dmescxq1bepcb5.jpg"
+            },
+            {
+                "name": "Sigourney Weaver",
+                "photo": "https://image.tmdb.org/t/p/w185/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+            },
+            {
+                "name": "Sope Dirisu",
+                "photo": "https://image.tmdb.org/t/p/w185/24Se9voPxrO200Ae8GQRbMkE55B.jpg"
+            },
+            {
+                "name": "William Houston",
+                "photo": "https://image.tmdb.org/t/p/w185/4J4TG1dbyJcSs78hP9fU2x8jrJs.jpg"
+            }
+        ],
+        "rating": 7.0,
+        "director": "Scott Derrickson",
+        "runtime": 127,
+        "premiered": "2025-02-13",
+        "popularity": 463.558
+    },
+    {
+        "tmdb_id": 1294203,
+        "title": "Minha Culpa: Londres",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92a104d4dde85d57dd83dcc5bdbaa423946c8c0a",
+        "poster": "https://image.tmdb.org/t/p/w500/grM1am6mYzxA84xDzTk23FQU7dG.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/uJK0jjJ8QDOQw5lcNBwu059ht4D.jpg",
+        "synopsis": "Noah, de 18 anos, se muda dos EUA para Londres com a mãe, que recentemente se apaixonou por William, um rico empresário britânico. Noah conhece o filho de William, o bad boy Nick, e logo descobre uma atração que nenhum dos dois consegue evitar. Enquanto Noah passa o verão tentando se ajustar à nova vida, seu passado devastador a atingirá em cheio justo quando se apaixona pela primeira vez.",
+        "studio": "42",
+        "year": 2025,
+        "genres": "Romance, Drama",
+        "actors": [
+            {
+                "name": "Asha Banks",
+                "photo": "https://image.tmdb.org/t/p/w185/9McWYJPSySGOcNr5KuFWyW2bLe7.jpg"
+            },
+            {
+                "name": "Matthew Broome",
+                "photo": "https://image.tmdb.org/t/p/w185/nSjPuDG5IVQfyMU8TkZl0ZQkLu6.jpg"
+            },
+            {
+                "name": "Eve Macklin",
+                "photo": "https://image.tmdb.org/t/p/w185/2LaLgZbTBwLy1KojJ8UQivli4fF.jpg"
+            },
+            {
+                "name": "Ray Fearon",
+                "photo": "https://image.tmdb.org/t/p/w185/ou2cqhqdhfQoKVEBpIh0P3sKZti.jpg"
+            },
+            {
+                "name": "Enva Lewis",
+                "photo": "https://image.tmdb.org/t/p/w185/hFBuqi7NFiFgHho2J2IM43nZcrG.jpg"
+            }
+        ],
+        "rating": 7.1,
+        "director": "Dani Girdwood, Charlotte Fassler",
+        "runtime": 119,
+        "premiered": "2025-02-12",
+        "popularity": 698.991
+    },
     {
         "tmdb_id": 823219,
         "title": "Flow",
