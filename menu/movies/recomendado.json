@@ -1,4 +1,32 @@
 [
+     {
+        "title": "O Caso Evandro",
+        "rate": 9.1,
+        "classification": "16",
+        "year": 2021,
+        "aired": "13/05/2021",
+        "sinopse": "A série conta a história real de Evandro Ramos Caetano, uma criança de 6 anos de idade que desapareceu em abril de 1992, no litoral do Paraná. O corpo do garoto foi encontrado pouco tempo depois sem as mãos, cabelos e vísceras e um grupo confirmou que usou a criança em um ritual macabro. O caso na época ficou conhecido como “As Bruxas de Guaratuba”. Dois episódios semanais toda quinta-feira.",
+        "poster": "https://image.tmdb.org/t/p/original/90xXYiJ8BxCVsJkt3r8b0KVFZaM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/AhJ0DZavpUUduWvU1q9R07dpTOW.jpg",
+        "studio": "Globoplay",
+        "genres": "Documentário, Crime",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 0.0,
+                "sinopse": "A história do desaparecimento de um menino no Paraná e da investigação do caso – com uma reviravolta original de arrepiar.",
+                "poster": "",
+                "episodios": [
+                    {
+                        "title": "O Caso Evandro: Temporada 1",
+                        "url": [
+						    "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a75c4a6e0bf3737a4246b9ab69003a8262c2d71"
+						],
+                    }
+                ]
+            }
+        ]
+    },
     {
         "tmdb_id": 933260,
         "title": "A Substancia",
