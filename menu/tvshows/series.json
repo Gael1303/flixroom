@@ -19,7 +19,9 @@
                 "episodios": [
                     {
                         "title": "O Caso Evandro: Temporada 1",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a75c4a6e0bf3737a4246b9ab69003a8262c2d71"
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a75c4a6e0bf3737a4246b9ab69003a8262c2d71"
+                ]
                     }
                 ]
             }
