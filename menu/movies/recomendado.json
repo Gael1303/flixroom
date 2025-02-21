@@ -1,74 +1,1338 @@
 [
-{
-        "tmdb_id": 508965,
-        "title": "Klaus",
-        "url": [
-		        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:800605ba5c956d03b9948097a664ffaabdc22e1c",
-				"https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=B%2Flgpld9BkigMJCle6xydvV7HxQz8dej%2BaSVjPz04gO7ud%2F%2BM%2BPB4QbN3GR4hAuW&expiry=7qjARemCbCOc5ZI03BKvKg%3D%3D&mac=7a418f11d17d8a81c7a4090076911caa46efa86a939553aefeb31a3714c50326"
-		],		
-        "year": 2019,
-        "genres": "Animação, Família, Aventura, Comédia, Fantasia",
-        "actors": [
-            {
-                "name": "Jason Schwartzman",
-                "photo": "https://image.tmdb.org/t/p/w185/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"
-            },
-            {
-                "name": "J.K. Simmons",
-                "photo": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
-            },
-            {
-                "name": "Rashida Jones",
-                "photo": "https://image.tmdb.org/t/p/w185/cgWGm9eYCretBWeljPVtpRV7n6V.jpg"
-            },
-            {
-                "name": "Joan Cusack",
-                "photo": "https://image.tmdb.org/t/p/w185/ytjiXEqnaEYtS7XkYmoUXPrZCm5.jpg"
-            },
-            {
-                "name": "Norm Macdonald",
-                "photo": "https://image.tmdb.org/t/p/w185/pGOpdt9Xy9YO2nUEWgp8G89KC5r.jpg"
-            }
-        ],
-        "poster": "https://image.tmdb.org/t/p/w500/guyZW9AQdTMp2F4esttjyIMMK1k.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/mlxKite1x1PgmIhJgAxNS9eHmH8.jpg",
-        "director": "Sergio Pablos",
-        "studio": "Atresmedia",
-        "rating": 8.242,
-        "runtime": 97,
-        "premiered": "2019-11-08",
-        "synopsis": "Em Smeerensburg, remota ilha localizada acima do Círculo Ártico, Jesper é um estudante da Academia Postal que enfrenta um sério problema: os habitantes da cidade brigam o tempo todo, sem demonstrar o menor interesse por cartas. Prestes a desistir da profissão, ele encontra apoio na professora Alva e no misterioso carpinteiro Klaus, que vive sozinho em sua casa repleta de brinquedos feitos a mão.",
-        "popularity": 26.003
-    },
-	{
-        "title": "O Continental: Do Mundo de John Wick",
-        "rate": 7.5,
-        "year": 2023,
-        "aired": "22/09/2023",
-        "sinopse": "O jovem Winston Scott é arrastado para o cenário infernal da Nova York dos anos 70 para enfrentar um passado que ele pensava ter deixado para trás. Winston traça um caminho mortal através do misterioso submundo do hotel em uma tentativa angustiante de tomá-lo e finalmente assumir seu trono.",
-        "poster": "https://image.tmdb.org/t/p/original/uRcrRc74ztb1TV5uojRtXqvNQ5y.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/1gajPADcRyzmYvfAefbJwhCy4bk.jpg",
-        "studio": "Peacock, Amazon",
-        "genres": "Crime, Drama, Ação & Aventura",
+  
+  {
+    "title": "Dia Zero",
+    "rate": 7.5,
+    "classification": "16",
+    "year": 2025,
+    "aired": "02/20/2025",
+    "sinopse": "Um ex-presidente dos Estados Unidos volta à ativa para investigar a origem de um ataque cibernético letal e descobre uma rede de mentiras e conspirações.",
+    "poster": "https://image.tmdb.org/t/p/original/zG6dUIJ7gNIyKKrDpPionW2J83J.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/t4JPNpET4aEmMA4Fg7Bfc7tI6jQ.jpg",
+    "studio": "Netflix",
+    "genres": "Drama, War & Politics",
+    "temporadas": [
+        {
+            "title": "1ª Temporada",
+            "rate": 8.0,
+            "sinopse": "",
+            "poster": "https://image.tmdb.org/t/p/original/zG6dUIJ7gNIyKKrDpPionW2J83J.jpg",
+            "episodios": [
+                {
+                    "title": "Dia Zero: Temporada 1",
+                    "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5925a6c3236dd4173ce6b35cba80b32fa1ac6a63"
+                }
+            ]
+        }
+    ]
+ },
+ {
+        "title": "Reacher",
+        "rate": 8.078,
+        "year": 2022,
+        "aired": "03/02/2022",
+        "sinopse": "Quando o policial militar aposentado Jack Reacher é preso por um assassinato que não cometeu, ele se vê no meio de uma trama mortal cheia de policiais corruptos, empresários obscuros e políticos conspiradores. Só com sua inteligência, ele precisa descobrir o que está havendo em Margrave, Geórgia.",
+        "poster": "https://image.tmdb.org/t/p/original/jFuH0md41x5mB4qj5344mSmtHrO.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/m5CggjJuFc08QCuKz54znHP6spJ.jpg",
+        "studio": "amazon",
+        "genres": "Ação & Aventura, Crime, Drama",
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/uRcrRc74ztb1TV5uojRtXqvNQ5y.jpg",
+                "poster": "https://image.tmdb.org/t/p/original/bQnnKBe3VsvXKMoNCaYmRzs1Dup.jpg",
                 "episodios": [
                     {
-                        "title": "1x01. Irmãos de Armas",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b93f95f872c2e93f02939970aa2c208367a363c5"
+                        "title": "Reacher - 1ª Temporada Completa",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e460ea6068b520fa6e96fe9f827a3f82972ad4f"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/oVw8KUQn1RSDd8KmknpvIc34JtY.jpg",
+                "episodios": [
+                    {
+                        "title": "2X1 ao 3",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b802b81002803ab0464ef1e612aa0f8a4fa31fbf"
                     },
                     {
-                        "title": "1x02. Lealdade ao Mestre",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95d4241a9192e56f14ca78d2fe77037f5450b658"
+                        "title": "2X4 - Uma Noite na Sinfonia",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e96a166e4f520e98639537cc8a1bfbfd683b1fc"
                     },
                     {
-                        "title": "1x03. Teatro da Dor",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9e05abd1df0a6233de64cba26915a331ecd69c8"
+                        "title": "2X5 - Enterro",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95658eafe280ee62eb210846fe1da4afb40b86fe"
+                    },
+                    {
+                        "title": "2X6 - A Polícia de Nova York",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc9c49bf08bdf5c45365d4ec25c189aae75f34ca"
+                    },
+                    {
+                        "title": "2X7 - Cumprindo o que Prometeu",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4c0e8cd8a58a7ab5c42d12354fceb261ca51913"
+                    },
+                    {
+                        "title": "2X8 - Voador",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f5314cd3c919cc767c8094c688664a74660088d"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/w342/uF5v0SPpKzC9dWXIspA1x2zEDKO.jpg",
+                "episodios": [
+                    {
+                        "title": "3x01 , 02 e 03",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1d7ecdab766e1b9753655b9cf1daea7a192893b"
+                    }
+                ]
+            }
+            
+        ]
+    },
+	{
+        "tmdb_id": 950396,
+        "title": "Entre Montanhas",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb9eeac7c6f4db7883904f1ac94a9f9943c44c28",
+        "poster": "https://image.tmdb.org/t/p/w500/7zL6RxMPmpPSdU5OTdVC4dtiKcr.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ntQ1Y9fr7IFT1XN9NfdIFomSKHg.jpg",
+        "synopsis": "Dois agentes altamente treinados se aproximam à distância após serem enviados para proteger lados opostos de um desfiladeiro misterioso. Quando um mal emerge, eles precisam trabalhar juntos para sobreviver ao que está lá dentro.",
+        "studio": "Skydance Media",
+        "year": 2025,
+        "genres": "Thriller, Romance, Terror",
+        "actors": [
+            {
+                "name": "Anya Taylor-Joy",
+                "photo": "https://image.tmdb.org/t/p/w185/yZpghhtKM2VZHDx6JGAZqAVU4PL.jpg"
+            },
+            {
+                "name": "Miles Teller",
+                "photo": "https://image.tmdb.org/t/p/w185/cg3LW0xX6RKr8dmescxq1bepcb5.jpg"
+            },
+            {
+                "name": "Sigourney Weaver",
+                "photo": "https://image.tmdb.org/t/p/w185/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+            },
+            {
+                "name": "Sope Dirisu",
+                "photo": "https://image.tmdb.org/t/p/w185/24Se9voPxrO200Ae8GQRbMkE55B.jpg"
+            },
+            {
+                "name": "William Houston",
+                "photo": "https://image.tmdb.org/t/p/w185/4J4TG1dbyJcSs78hP9fU2x8jrJs.jpg"
+            }
+        ],
+        "rating": 7.0,
+        "director": "Scott Derrickson",
+        "runtime": 127,
+        "premiered": "2025-02-13",
+        "popularity": 1780.803
+    },
+    {
+        "tmdb_id": 1126166,
+        "title": "Ameaça no Ar",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80c49b2ded9f8b4fe23b5fd145e4831a332a556e",
+        "poster": "https://image.tmdb.org/t/p/w500/4LPIIwWiedwHeWgRXOjcBaL1tnv.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/rOMLLMGgDgGG6XeT3P8sUdUb8nl.jpg",
+        "synopsis": "Um piloto de avião transporta um agente federal e um fugitivo para julgamento através das montanhas do Alasca. A tensão aumenta quando verdades são reveladas e ninguém a bordo parecem ser quem realmente são.",
+        "studio": "Davis Entertainment",
+        "year": 2025,
+        "genres": "Thriller, Ação, Crime",
+        "actors": [
+            {
+                "name": "Michelle Dockery",
+                "photo": "https://image.tmdb.org/t/p/w185/pgPJGf2wAPgoC6Bp5PBJYQV7IVt.jpg"
+            },
+            {
+                "name": "Mark Wahlberg",
+                "photo": "https://image.tmdb.org/t/p/w185/bTEFpaWd7A6AZVWOqKKBWzKEUe8.jpg"
+            },
+            {
+                "name": "Topher Grace",
+                "photo": "https://image.tmdb.org/t/p/w185/oJQxl4DG0KSCtOGrpWNhYz9gUZA.jpg"
+            },
+            {
+                "name": "Leah Remini",
+                "photo": "https://image.tmdb.org/t/p/w185/19QpURecs6wDY9G46AmT7JnTchS.jpg"
+            },
+            {
+                "name": "Paul Ben-Victor",
+                "photo": "https://image.tmdb.org/t/p/w185/qhxGWVppbnwF4YuzQQtIym5z99E.jpg"
+            }
+        ],
+        "rating": 6.1,
+        "director": "Mel Gibson",
+        "runtime": 91,
+        "premiered": "2025-01-22",
+        "popularity": 1579.252
+    },
+	{
+        "title": "Invencível",
+        "rate": 8.5,
+        "year": 2021,
+        "aired": "25/03/2021",
+        "sinopse": "INVENCÍVEL é uma animação de super-heróis para adultos e conta a história de Mark Grayson, de 17 anos, um cara como qualquer outro de sua idade, exceto que seu pai é o super-herói mais poderoso do planeta, Omni-Man. Porém, à medida que Mark desenvolve seus próprios poderes, ele descobre que o legado de seu pai pode não ser tão heroico quanto parece.",
+        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c2f8pJMTxl5Z7VO6UmwxnmL6r0W.jpg",
+        "backdrop": "https://www.themoviedb.org/t/p/original/6UH52Fmau8RPsMAbQbjwN3wJSCj.jpg",
+        "studio": "amazon",
+        "genres": "Animação, Sci-Fi & Fantasia, Ação & Aventura, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
+                "episodios": [
+                    {
+                        "title": "1x01,02 E 03.",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f67fd75f3759d1eac7c03349031be0a3d4666c8"
+                    },
+                    {
+                        "title": "1x04. PROBLEMAS EM MARTE",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6bb8050fd5437b3d2e2e7840a513111c6124ec00"
+                    },
+                    {
+                        "title": "1x05. ESSA DOEU DE VERDADE",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad167b42e18e65e0fd42832385c8f559c862bf41"
+                    },
+                    {
+                        "title": "1x06. EU SÓ QUERO O PROGRESSO",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11caceba76be7ebeb9475c1e7d4144b6a4487d37"
+                    },
+                    {
+                        "title": "1x07. PRECISMOS CONVERSAR",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13f079c7b4c54302af71c8fc9a724399b4d05f96"
+                    },
+                    {
+                        "title": "1x08. A VERDADE",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6546e8de7a8346f704a634b7682815ab5b75e258"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
+                "episodios": [
+                    {
+                        "title": "2x01. UMA LIÇÃO PARA SUA PRÓXIMA VIDA",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38fb0518a33f820de2cf5e6d40b4ecee778f7d3d"
+                    },
+                    {
+                        "title": "2x02. EM CERCA DE SEIS HORAS PERCO MINHA VIRGINDADE PARA UM PEIXE",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a77698d552395115c9b7de8fc36ddefd1771630"
+                    },
+                    {
+                        "title": "2x03. ESTA MISSIVA, ESTA MAQUINAÇÃO!",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95fc30bc85064f4287f0557d178aaa73e7e7b2b6"
+                    },
+                    {
+                        "title": "2x04. JÁ FAZ UM TEMPO",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c0b348fa62f9db499f4dd51da5305d845d74385"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
+                "episodios": [
+                    {
+                        "title": "3x01 - 02 e 03",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38fb0518a33f820de2cf5e6d40b4ecee778f7d3d"
                     }
                 ]
             }
         ]
+    },
+	{
+        "title": "Seu Amigão da Vizinhança: Homem-Aranha",
+        "rate": 8.0,
+        "classification": "12",
+        "year": 2025,
+        "aired": "29/01/2025",
+        "sinopse": "Uma série animada que segue Peter Parker em seu caminho para se tornar o Homem-Aranha no MCU, com uma jornada como nunca vimos e um estilo que celebra as raízes dos primeiros quadrinhos do personagem.",
+        "poster": "https://image.tmdb.org/t/p/original/fEhEJowHEcWgqWknxwbdsiHyGty.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/7CaXcLBWf41nHyX33DmpIpcOSg4.jpg",
+        "studio": "Disney+",
+        "genres": "Animação, Action & Adventure, Sci-Fi & Fantasy, Comédia",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 7.6,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/fEhEJowHEcWgqWknxwbdsiHyGty.jpg",
+                "episodios": [
+                    {
+                        "title": "1x01 e 02.",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b16b59aaa2b4ca8b4838edd48a79d9dc7784b2c"
+                    },
+                    {
+                        "title": "1x03 ao 05.",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ac16daed2f243f45589a602fda3df09f6543681"
+                    },
+                    {
+                        "title": "1x06 ao 08.",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bedb1b5e3df43852daf5f67214c6dedd5e8decdf"
+                    }
+                ]
+            }
+        ]
+    },
+	{
+        "tmdb_id": 1028196,
+        "title": "O Reformatório Nickel",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75423570c38be9ce8a27d9f580411f5644acbc20",
+        "poster": "https://image.tmdb.org/t/p/w500/hlTuZinZ2EvrkTKpW66z2RXySmE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3bBu3xpbRRulHuinDd8SwQemhwe.jpg",
+        "synopsis": "A amizade poderosa formada por dois jovens negros é o centro gravitacional de Nickel Boys. O filme baseado no romance de mesmo nome vencedor do Prêmio Pulitzer acompanha a aliança entre Elwood e Turner, dois adolescentes afro-americanos que são enviados para um brutal reformatório juvenil na Flórida no ápice da implementação das leis segregacionistas de Jim Crow. A forte irmandade criada entre os dois forja um refúgio de esperança e carinho em meio aos horrores e às violências sofridas dentro e fora da detenção. Enquanto Elwood cultiva em Turner uma nova e mais otimista perspectiva do mundo, Turner conhece a realidade desse mundo bárbaro e ensina a Elwood os truques necessários para sobreviver.",
+        "studio": "Orion Pictures",
+        "year": 2024,
+        "genres": "Drama",
+        "actors": [
+            {
+                "name": "Ethan Herisse",
+                "photo": "https://image.tmdb.org/t/p/w185/a4QSvqAmdBwN0xKlxSBsWaQMPat.jpg"
+            },
+            {
+                "name": "Brandon Wilson",
+                "photo": "https://image.tmdb.org/t/p/w185/m8XtaANCSHJqZyXQn7RKiIEW9CE.jpg"
+            },
+            {
+                "name": "Aunjanue Ellis-Taylor",
+                "photo": "https://image.tmdb.org/t/p/w185/e54DfgDyS67xdtomYODFule6Ofa.jpg"
+            },
+            {
+                "name": "Hamish Linklater",
+                "photo": "https://image.tmdb.org/t/p/w185/AnpxdQjBk3v2OQTgyyb9EuUxAow.jpg"
+            },
+            {
+                "name": "Gralen Bryant Banks",
+                "photo": "https://image.tmdb.org/t/p/w185/mLxMcf6IoX6e0K1YpERdKY4t0Hc.jpg"
+            }
+        ],
+        "rating": 7.2,
+        "director": "RaMell Ross",
+        "runtime": 140,
+        "premiered": "2024-12-13"
+    },
+	{
+        "title": "The White Lotus",
+        "rate": 7.6,
+        "classification": "16",
+        "year": 2021,
+        "aired": "11/07/2021",
+        "sinopse": "Minissérie original da HBO que apresenta uma sátira social através dos funcionários e hóspedes de um aparentemente idílico resort havaiano.",
+        "poster": "https://image.tmdb.org/t/p/original/jNFcfgLFPhCZdhUUmwjHvq6TLxh.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/rCTLaPwuApDx8vLGjYZ9pRl7zRB.jpg",
+        "studio": "HBO Max",
+        "genres": "Comédia, Drama, Mistério",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 7.6,
+                "sinopse": "A trama é centrada nos hóspedes e nos funcionários do The White Lotus, um hotel-resort localizado em um paraíso idílico. À medida que as férias vão se desenrolando, entretanto, tramas obscuras surgem entre os personagens e dentro do próprio hotel.",
+                "poster": "https://image.tmdb.org/t/p/original/4gBYNDdczkFOqjR4dgYamqbp6cS.jpg",
+                "episodios": [
+                    {
+                        "title": "1x01.  Chegadas",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4241bd807332c0a1f4975a8b86b4514c753b78c8"
+                    },
+                    {
+                        "title": "1x02.  Novo Dia",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80f02f76d3c31bb278de6d4b375beaed0132b7cc"
+                    },
+                    {
+                        "title": "1x03.  Macacos Misteriosos",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6df3ac5d37cb00c4d93892b5fdee65efb772eaab"
+                    },
+                    {
+                        "title": "1x04.  Recentramento",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:559e787081d19c573b53cbe7b114e0eb98f91bd6"
+                    },
+                    {
+                        "title": "1x05.  Os Come-Lótus",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52e0733d56803e550c791531a01a31548209f2f1"
+                    },
+                    {
+                        "title": "1x06.  Partidas",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e386a60a53f2273db9a02d4ba26d86276bf61127"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "rate": 7.5,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/gH5i3JbnLsyTvcImlofNvXtH3i5.jpg",
+                "episodios": [
+                    {
+                        "title": "2x01. Ciao",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f08190ce8fab9a5d3d916efa49250c16f128deb4"
+                    },
+                    {
+                        "title": "2x02. Sonho Italiano",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54a1c98eb6a2b88be7ed58547a9fe6dc07bc7a60"
+                    },
+                    {
+                        "title": "2x03. Elefante Macho",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76a55596af3bf785f219e56516c175d26d0f270a"
+                    },
+                    {
+                        "title": "2x04. Na Caixa de Areia",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d922905f8748e707cd17e28c02437d8fdef0dd69"
+                    },
+                    {
+                        "title": "2x05. É o Amore",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a2b680bf9dd962d50dbfcf32583f5aedee169408"
+                    },
+                    {
+                        "title": "2x06. Raptos",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a21025c51dce44b5a95b4f2b8895b1c59947ef68"
+                    },
+                    {
+                        "title": "2x07. Arrivederci",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2bf64193e73b3246947c0392e27e83448c7f8ca"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada (Breve)",
+                "rate": 9.0,
+                "sinopse": "A terceira temporada desta sátira social acompanha hóspedes e funcionários de um exclusivo resort tailandês ao longo de uma semana.",
+                "poster": "https://image.tmdb.org/t/p/original/jNFcfgLFPhCZdhUUmwjHvq6TLxh.jpg",
+                "episodios": []
+            }
+        ]
+    },
+	{
+        "tmdb_id": 933260,
+        "title": "A Substancia",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:036f46cd423312f538a07c5069a904af3ddfc485",
+        "year": 2024,
+        "genres": "Terror, Ficção científica",
+        "actors": [
+            {
+                "name": "Demi Moore",
+                "photo": "https://image.tmdb.org/t/p/w185/gPgZSodybMFBodw7nKRTALONIr2.jpg"
+            },
+            {
+                "name": "Margaret Qualley",
+                "photo": "https://image.tmdb.org/t/p/w185/jStNyMj3acpLuH48awLVLqqlyaV.jpg"
+            },
+            {
+                "name": "Dennis Quaid",
+                "photo": "https://image.tmdb.org/t/p/w185/nvkto83iFngO8jg9UpdSaEBRC8a.jpg"
+            },
+            {
+                "name": "Edward Hamilton-Clark",
+                "photo": "https://image.tmdb.org/t/p/w185/q1EWL2z2xMcbf84TpOTqGs6Csxs.jpg"
+            },
+            {
+                "name": "Gore Abrams",
+                "photo": "https://image.tmdb.org/t/p/w185/bKMTqbl0FYlzIC6aTMKQZNAhhXK.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/vWeOgzlhnP1sS23H3rzctGHB9Nb.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7h6TqPB3ESmjuVbxCxAeB1c9OB1.jpg",
+        "director": "Coralie Fargeat",
+        "studio": "Working Title Films",
+        "rating": 7.127,
+        "runtime": 140,
+        "premiered": "2024-09-07",
+        "synopsis": "Já sonhou com uma versão melhor de si mesmo? Continuará sendo você, só que melhor em todos os sentidos. Então, você deveria experimentar este novo produto: A Substância. MUDOU A MINHA VIDA.",
+        "popularity": 379.18
+    },
+	{
+        "tmdb_id": 1222248,
+        "title": "Numero 24",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43ea91ff9075dca2ce31888684835f9e1f3d7b17",
+        "year": 2024,
+        "genres": "Guerra, História, Drama",
+        "actors": [
+            {
+                "name": "Sjur Vatne Brean",
+                "photo": "https://image.tmdb.org/t/p/w185/4QxXkOSm0CozKvGx83YwsXa9URU.jpg"
+            },
+            {
+                "name": "Erik Hivju",
+                "photo": "https://image.tmdb.org/t/p/w185/9CdMaQJJMywkM51cvhJM7VMxN84.jpg"
+            },
+            {
+                "name": "Lisa Loven Kongsli",
+                "photo": "https://image.tmdb.org/t/p/w185/hQetQ4NdzuJETQ57DZAssCF9hOD.jpg"
+            },
+            {
+                "name": "August Wittgenstein",
+                "photo": "https://image.tmdb.org/t/p/w185/8cATVO3sCDbA1IFM5vuUS8ICJkv.jpg"
+            },
+            {
+                "name": "Ines Høysæter Asserson",
+                "photo": "https://image.tmdb.org/t/p/w185/pneSKJdper5vroeQ62tx53ygEIN.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/jB096esffwNRFO65QcNTAPAfIX0.jpg",
+        "rating": 7.387,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3WnoZw50qIfXsFnKr0LddEh5Jnf.jpg",
+        "director": "John Andreas Andersen",
+        "studio": "Motion Blur",
+        "runtime": 111,
+        "premiered": "2024-10-30",
+        "synopsis": "Às vésperas da Segunda Guerra Mundial, a determinação de um jovem norueguês em resistir aos nazistas muda o rumo de sua vida (e de seu país).",
+        "popularity": 303.485
+    },
+    {
+        "tmdb_id": 519182,
+        "title": "Meu Malvado Favorito 4",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3ea5871d6cbac6cbcd0d45d72448273e4284088",
+        "year": 2024,
+        "genres": "Animação, Família, Comédia, Ficção científica",
+        "actors": [
+            {
+                "name": "Steve Carell",
+                "photo": "https://image.tmdb.org/t/p/w185/dA6n0qpnlMFBlTr8SBULsZbWkvn.jpg"
+            },
+            {
+                "name": "Kristen Wiig",
+                "photo": "https://image.tmdb.org/t/p/w185/N517EQh7j4mNl3BStMmjMN6hId.jpg"
+            },
+            {
+                "name": "Will Ferrell",
+                "photo": "https://image.tmdb.org/t/p/w185/xYPM1OOLXZguj4FsgmOzTSUXaXd.jpg"
+            },
+            {
+                "name": "Sofía Vergara",
+                "photo": "https://image.tmdb.org/t/p/w185/l79eVtn6bSOaiq7R0UGu60foMrK.jpg"
+            },
+            {
+                "name": "Miranda Cosgrove",
+                "photo": "https://image.tmdb.org/t/p/w185/qIGeoyXEVu1LxTH34TWx1YSHyQr.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/oCnwP87AskNyzATNEBNHHaktjzG.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg",
+        "director": "Chris Renaud",
+        "studio": "Universal Pictures",
+        "rating": 7.076,
+        "runtime": 94,
+        "premiered": "2024-06-20",
+        "synopsis": "Nesta sequência, o vilão mais amado do planeta retorna e agora Gru, Lucy, Margo, Edith e Agnes dão as boas-vindas a um novo membro da família: Gru Jr., que pretende atormentar seu pai. Enquanto se adapta com o pequeno, Gru enfrenta um novo inimigo, Maxime Le Mal, forçando sua namorada Valentina e a família a fugir do perigo.",
+        "popularity": 350.022
+    },
+	 {
+        "tmdb_id": 426063,
+        "title": "Nosferatu",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dafcea2c439f2109f13f1bb67e68022cc78b65c7",
+        "poster": "https://image.tmdb.org/t/p/w500/fbkUfzmVzEBFSt6p7VigknREIJT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/h7r6LZ32dgLwtwSW3CxoWIYD9pr.jpg",
+        "synopsis": "Um conto gótico de obsessão entre uma jovem assombrada na Alemanha do século XIX e o antigo vampiro da Transilvânia que a persegue, trazendo consigo um horror incalculável.",
+        "studio": "Focus Features",
+        "year": 2024,
+        "genres": "Terror, Fantasia",
+        "actors": [
+            {
+                "name": "Lily-Rose Depp",
+                "photo": "https://image.tmdb.org/t/p/w185/kWSRS0M5uv0KlFJUvH6Rqm2g70B.jpg"
+            },
+            {
+                "name": "Nicholas Hoult",
+                "photo": "https://image.tmdb.org/t/p/w185/laeAYQVBV9U3DkJ1B4Cn1XhpT8P.jpg"
+            },
+            {
+                "name": "Bill Skarsgård",
+                "photo": "https://image.tmdb.org/t/p/w185/wGQidITqyDl4Igmq9TCQjRpegsk.jpg"
+            },
+            {
+                "name": "Aaron Taylor-Johnson",
+                "photo": "https://image.tmdb.org/t/p/w185/pFtHhih2XEaFaD3qOFyQW6q83br.jpg"
+            },
+            {
+                "name": "Willem Dafoe",
+                "photo": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+            }
+        ],
+        "rating": 6.7,
+        "director": "Robert Eggers",
+        "runtime": 133,
+        "premiered": "2024-12-25",
+        "popularity": 425.968
+    },
+	{
+        "tmdb_id": 939243,
+        "title": "Sonic 3: O Filme",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aeecdea6debe2f7ffa20c904769d4ef0059cbfe7",
+        "year": 2024,
+        "genres": "Ação, Ficção científica, Comédia, Família",
+        "actors": [
+            {
+                "name": "Jim Carrey",
+                "photo": "https://image.tmdb.org/t/p/w185/u0AqTz6Y7GHPCHINS01P7gPvDSb.jpg"
+            },
+            {
+                "name": "Ben Schwartz",
+                "photo": "https://image.tmdb.org/t/p/w185/lJVYjPj0P6uvVxNrTy4xO2645D0.jpg"
+            },
+            {
+                "name": "Keanu Reeves",
+                "photo": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+            },
+            {
+                "name": "Idris Elba",
+                "photo": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+            },
+            {
+                "name": "Colleen O'Shaughnessey",
+                "photo": "https://image.tmdb.org/t/p/w185/y3Kl5tCX1XD6uyL9wefTRbEXTwj.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/8HzA55GCjRTEC2YhPGna8Lc8qHo.jpg",
+        "rating": 7.6,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+        "director": "Jeff Fowler",
+        "studio": "Paramount Pictures",
+        "runtime": 110,
+        "premiered": "2024-12-19",
+        "synopsis": "Sonic, Knuckles e Tails se reúnem contra um novo e poderoso adversário, Shadow, um vilão misterioso com poderes diferentes de tudo que eles já enfrentaram antes. Com suas habilidades superadas em todos os sentidos, a Equipe Sonic deve buscar uma aliança improvável na esperança de parar Shadow e proteger o planeta.",
+        "popularity": 1978.894
+    },
+	{
+        "tmdb_id": 1184918,
+        "title": "Robo Selvagem",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc3557cb5459e05930220911cdef8ee4a6321932",
+        "year": 2024,
+        "genres": "Animação, Ação, Ficção científica, Família",
+        "actors": [
+            {
+                "name": "Lupita Nyong'o",
+                "photo": "https://image.tmdb.org/t/p/w185/y40Wu1T742kynOqtwXASc5Qgm49.jpg"
+            },
+            {
+                "name": "Pedro Pascal",
+                "photo": "https://image.tmdb.org/t/p/w185/9VYK7oxcqhjd5LAH6ZFJ3XzOlID.jpg"
+            },
+            {
+                "name": "Kit Connor",
+                "photo": "https://image.tmdb.org/t/p/w185/4Bz8Hw3KqUsjMqV8aYe21EAXwNi.jpg"
+            },
+            {
+                "name": "Bill Nighy",
+                "photo": "https://image.tmdb.org/t/p/w185/acbigDOU1L1vMWAL3Wf0r8h8qLA.jpg"
+            },
+            {
+                "name": "Stephanie Hsu",
+                "photo": "https://image.tmdb.org/t/p/w185/8gb3lfIHKQAGOQyeC4ynQPsCiHr.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/cWsd33Nwp3tgYB5LMMadl3qVMKh.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
+        "director": "Chris Sanders",
+        "studio": "DreamWorks Animation",
+        "rating": 8.4,
+        "runtime": 101,
+        "premiered": "2024-09-12",
+        "synopsis": "Um robô – unidade ROZZUM 7134, abreviadamente “Roz” – naufraga em uma ilha desabitada e deve aprender a se adaptar ao ambiente hostil, gradualmente construindo relacionamentos com os animais da ilha e se tornando o pai adotivo de um filhote de ganso órfão.",
+        "popularity": 349.546
+    },
+    {
+        "tmdb_id": 823219,
+        "title": "Flow",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cb6462f16e3e1b946e541cb2848a481a4225448",
+        "poster": "https://image.tmdb.org/t/p/w500/66Y6qdAmCTtzrtGSPrwHihIZP0W.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/b3mdmjYTEL70j7nuXATUAD9qgu4.jpg",
+        "synopsis": "Gato é um animal solitário, mas quando seu lar é destruído por uma grande inundação, ele encontra refúgio em um barco habitado por diversas espécies, tendo que se juntar a elas apesar das diferenças.",
+        "studio": "Dream Well Studio",
+        "year": 2024,
+        "genres": "Animação, Fantasia, Aventura",
+        "actors": [],
+        "rating": 8.3,
+        "director": "Gints Zilbalodis",
+        "runtime": 85,
+        "premiered": "2024-08-29",
+        "popularity": 344.481
+    },
+	{
+        "tmdb_id": 993710,
+        "title": "De Volta a Açao",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:508c95136ca56c9df8db968f2f1d7e0645372f48",
+        "poster": "https://image.tmdb.org/t/p/w500/m4gzzzeYRmrwasrBdJmjhBmjS3U.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/px0YfXxWKclI0PVM79fOV6Kh2As.jpg",
+        "synopsis": "Quinze anos depois de abandonar a CIA para formar uma família, os ex-agentes de elite Matt e Emily voltam ao mundo da espionagem ao terem seus disfarces revelados.",
+        "studio": "Chernin Entertainment",
+        "year": 2025,
+        "genres": "Ação, Comédia",
+        "actors": [
+            {
+                "name": "Cameron Diaz",
+                "photo": "https://image.tmdb.org/t/p/w185/d4f4cQ9EiYuvNMjT1IB2h06KoRx.jpg"
+            },
+            {
+                "name": "Jamie Foxx",
+                "photo": "https://image.tmdb.org/t/p/w185/zD8Nsy4Xrghp7WunwpCj5JKBPeU.jpg"
+            },
+            {
+                "name": "McKenna Roberts",
+                "photo": "https://image.tmdb.org/t/p/w185/74G750E1HZzjksJ9oSr8aWFadE2.jpg"
+            },
+            {
+                "name": "Rylan Jackson",
+                "photo": "https://image.tmdb.org/t/p/w185/o2BK58fxhAJnOFfELtxMenZ4fpd.jpg"
+            },
+            {
+                "name": "Glenn Close",
+                "photo": "https://image.tmdb.org/t/p/w185/eNTn3OmlnsQYLIp7HVGeH9kOJiA.jpg"
+            }
+        ],
+        "rating": 6.3,
+        "director": "Seth Gordon",
+        "runtime": 114,
+        "premiered": "2025-01-17",
+        "popularity": 640.706
+    },
+	{
+        "tmdb_id": 811941,
+        "title": "Devara: Part 1",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6be5022eae41cb0e75b20da7ecf4258c0a10f078",
+        "year": 2024,
+        "genres": "Ação, Drama",
+        "actors": [
+            {
+                "name": "N.T. Rama Rao Jr.",
+                "photo": "https://image.tmdb.org/t/p/w185/5fFpyv9CoSezaWSBneO5YoKb5tu.jpg"
+            },
+            {
+                "name": "Saif Ali Khan",
+                "photo": "https://image.tmdb.org/t/p/w185/85uKiFDEcIqzLh0GwqYvecXw4uA.jpg"
+            },
+            {
+                "name": "Prakash Raj",
+                "photo": "https://image.tmdb.org/t/p/w185/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg"
+            },
+            {
+                "name": "శ్రీకాంత్",
+                "photo": "https://image.tmdb.org/t/p/w185/o10UQ9zvh9cOAUENybde25yrueV.jpg"
+            },
+            {
+                "name": "Kalaiyarasan",
+                "photo": "https://image.tmdb.org/t/p/w185/4xaAqc7EFfcJXIS23yVJb6vZhLt.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/reL2aDdytm4bfKSyMeUm3hwgOw5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3c525ZccGSwQWmF81wCHRvOQDqz.jpg",
+        "director": "Koratala Siva",
+        "studio": "N. T. R. Arts",
+        "rating": 7.1,
+        "runtime": 175,
+        "premiered": "2024-09-26",
+        "synopsis": "Uma saga épica de ação ambientada em terras costeiras, que narra incidentes emocionantes e carregados de emoção na linha do tempo periódica, e cujo protagonista é o salvador dos desfavorecidos e o terror dos malfeitores.",
+        "popularity": 564.512
+    },
+	{
+        "tmdb_id": 1010581,
+        "title": "Minha Culpa",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce98b7600125c34c4384d9233bbfb3e4f17e9477",
+        "year": 2023,
+        "genres": "Romance, Drama",
+        "actors": [
+            {
+                "name": "Nicole Wallace",
+                "photo": "https://image.tmdb.org/t/p/w185/xlvq6OYCN6yQef4fpJQtwVyQxqr.jpg"
+            },
+            {
+                "name": "Gabriel Guevara",
+                "photo": "https://image.tmdb.org/t/p/w185/pviRYKEEmoPUfLYwP1VHJ6LQcRg.jpg"
+            },
+            {
+                "name": "Marta Hazas",
+                "photo": "https://image.tmdb.org/t/p/w185/1dbeTFRCbWBt70dIGjYHKVLnpaG.jpg"
+            },
+            {
+                "name": "Iván Sánchez",
+                "photo": "https://image.tmdb.org/t/p/w185/woVz8D7t1VUKjFJnsTAdc8tyz5C.jpg"
+            },
+            {
+                "name": "Eva Ruiz",
+                "photo": "https://image.tmdb.org/t/p/w185/bcu0nmQvhxwTzh4csc4kuxJsQee.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/a59iGvF609yAZ5tfZUoQ3XipeQH.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/lntyt4OVDbcxA1l7LtwITbrD3FI.jpg",
+        "director": "Domingo González",
+        "studio": "Pokeepsie Films",
+        "rating": 7.9,
+        "runtime": 117,
+        "premiered": "2023-06-08",
+        "synopsis": "Noah é obrigada a mudar de cidade, deixando seus amigos e namorado para trás, após sua mãe se casar com um novo marido rico. Lá ela conhece Nick, seu novo meio-irmão, e os dois se apaixonam loucamente, vivendo um grande romance proibido.",
+        "popularity": 418.165
+    },
+	{
+        "tmdb_id": 1294203,
+        "title": "Minha Culpa: Londres",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b43516a088f6f524d8fb49912a852ff2cd654e0",
+        "poster": "https://image.tmdb.org/t/p/w500/grM1am6mYzxA84xDzTk23FQU7dG.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/uJK0jjJ8QDOQw5lcNBwu059ht4D.jpg",
+        "synopsis": "Noah, de 18 anos, se muda dos EUA para Londres com a mãe, que recentemente se apaixonou por William, um rico empresário britânico. Noah conhece o filho de William, o bad boy Nick, e logo descobre uma atração que nenhum dos dois consegue evitar. Enquanto Noah passa o verão tentando se ajustar à nova vida, seu passado devastador a atingirá em cheio justo quando se apaixona pela primeira vez.",
+        "studio": "42",
+        "year": 2025,
+        "genres": "Romance, Drama",
+        "actors": [
+            {
+                "name": "Asha Banks",
+                "photo": "https://image.tmdb.org/t/p/w185/9McWYJPSySGOcNr5KuFWyW2bLe7.jpg"
+            },
+            {
+                "name": "Matthew Broome",
+                "photo": "https://image.tmdb.org/t/p/w185/nSjPuDG5IVQfyMU8TkZl0ZQkLu6.jpg"
+            },
+            {
+                "name": "Eve Macklin",
+                "photo": "https://image.tmdb.org/t/p/w185/2LaLgZbTBwLy1KojJ8UQivli4fF.jpg"
+            },
+            {
+                "name": "Ray Fearon",
+                "photo": "https://image.tmdb.org/t/p/w185/ou2cqhqdhfQoKVEBpIh0P3sKZti.jpg"
+            },
+            {
+                "name": "Enva Lewis",
+                "photo": "https://image.tmdb.org/t/p/w185/hFBuqi7NFiFgHho2J2IM43nZcrG.jpg"
+            }
+        ],
+        "rating": 7.1,
+        "director": "Dani Girdwood, Charlotte Fassler",
+        "runtime": 119,
+        "premiered": "2025-02-12",
+        "popularity": 1082.542
+    },
+	{
+        "title": "Round 6",
+        "rate": 7.8,
+        "year": 2021,
+        "aired": "17/09/2021",
+        "sinopse": "Centenas de jogadores falidos aceitam um estranho convite para um jogo de sobrevivência. Um prêmio milionário aguarda, mas as apostas são altas e mortais.",
+        "poster": "https://image.tmdb.org/t/p/original/6gcHdboppvplmBWxvROc96NJnmm.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+        "studio": "Netflix",
+        "genres": "Ação & Aventura, Mistério, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/GB68Yvv0HxPHCTVDJFQCNU17fz.jpg",
+                "episodios": [
+                    {
+                        "title": "Round 6: 1ª Temporada",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d405d20013d04d50826cd6e5cebbcf34dbe735a9"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/xRf1qFosRHrymBL34H6nQg773Rk.jpg",
+                "episodios": [
+                    {
+                        "title": "Round 6: 2ª Temporada",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8e69b75d2baae8d5b2db89b5893361ba6015e96"
+                    }
+                ]
+            }
+        ]
+    },
+	{
+        "tmdb_id": 1247019,
+        "title": "Quando a Morte Sussurra 2",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:439e81b72e51863b7d039ea2051ef42af4495018",
+        "poster": "https://image.tmdb.org/t/p/w500/9G0czCAjBlZvrfmNhTPRyA14Ktj.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/vfkzNcVzTRCq3C2jYIZtIjSdwf7.jpg",
+        "synopsis": "Em um mundo envolto em escuridão, uma força implacável busca retribuição, sem se deixar abater por limites ou moralidade.",
+        "studio": "M Studio",
+        "year": 2024,
+        "genres": "Terror, Thriller, Ação",
+        "actors": [
+            {
+                "name": "ณเดชน์ คูกิมิยะ",
+                "photo": "https://image.tmdb.org/t/p/w185/w58HrktpHZ7UVGY5SKoJxFkitCy.jpg"
+            },
+            {
+                "name": "องอาจ เจียมเจริญพรกุล",
+                "photo": "https://image.tmdb.org/t/p/w185/i3e4IuDngcByoViRZ8HMwNMNdRw.jpg"
+            },
+            {
+                "name": "กาจบัณฑิต ใจดี",
+                "photo": "https://image.tmdb.org/t/p/w185/4XCjfePa5LYyYoUjWfwsODxszT0.jpg"
+            },
+            {
+                "name": "พีระกฤตย์ พชรบุณยเกียรติ",
+                "photo": "https://image.tmdb.org/t/p/w185/tr7Lmmqp1iRKlSaoJCyec0OZ1sf.jpg"
+            },
+            {
+                "name": "Denise Jelilcha Kapaun",
+                "photo": "https://image.tmdb.org/t/p/w185/d7rfzM7mmsHNKor8dXJ2f81I9qR.jpg"
+            }
+        ],
+        "rating": 7.5,
+        "director": "Taweewat Wantha",
+        "runtime": 112,
+        "premiered": "2024-10-10",
+        "popularity": 772.275
+    },
+	{
+        "tmdb_id": 533535,
+        "title": "Deadpool e Wolverine",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9bc58b28b3a497e76484c412120bb85bd4bdf70",
+        "year": 2024,
+        "genres": "Ação, Comédia, Ficção científica",
+        "actors": [
+            {
+                "name": "Ryan Reynolds",
+                "photo": "https://image.tmdb.org/t/p/w185/4SYTH5FdB0dAORV98Nwg3llgVnY.jpg"
+            },
+            {
+                "name": "Hugh Jackman",
+                "photo": "https://image.tmdb.org/t/p/w185/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+            },
+            {
+                "name": "Emma Corrin",
+                "photo": "https://image.tmdb.org/t/p/w185/wqGOVOsHzZaHeHymIS40elGCnY0.jpg"
+            },
+            {
+                "name": "Matthew Macfadyen",
+                "photo": "https://image.tmdb.org/t/p/w185/2FF3Yjxd7DYR4EIJL6s2GpKDMkJ.jpg"
+            },
+            {
+                "name": "Dafne Keen",
+                "photo": "https://image.tmdb.org/t/p/w185/g325OIjIHrFr0te8ewPfhKQ2SKj.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/xq4v7JE8niZ75OYYPDGNn6Gzpyt.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+        "director": "Shawn Levy",
+        "studio": "Marvel Studios",
+        "rating": 7.646,
+        "runtime": 128,
+        "premiered": "2024-07-24",
+        "synopsis": "Um apático Wade Wilson trabalha duro na vida civil. Seus dias como mercenário moralmente flexível, Deadpool, ficaram para trás. Quando seu planeta enfrenta uma ameaça, Wade deve relutantemente vestir-se novamente com um ainda mais relutante... relutante? Mais relutante? Ele deve convencer um Wolverine relutante em... Porra. As sinopses são tão estúpidas.",
+        "popularity": 385.961
+    },
+	{
+        "title": "The Rookie",
+        "rate": 8.5,
+        "classification": "14",
+        "year": 2018,
+        "aired": "16/10/2018",
+        "sinopse": "John Nolan, um homem de 40 anos, deixa para trás sua vida confortável em uma cidade pequena para viver seu sonho de ser um agente policial no Departamento de Polícia de Los Angeles. Como o novato mais velho, ele enfrenta a descrença de seus colegas.",
+        "poster": "https://image.tmdb.org/t/p/original/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/2m1Mu0xPj4SikiqkaolTRUcNtWH.jpg",
+        "studio": "ABC",
+        "genres": "Crime, Drama, Comédia",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 8.1,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/c5tWybs91GuwEFOucnj7yZu2YLu.jpg",
+                "episodios": [
+                    {
+                        "title": "1x01. Piloto",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9cfef977702bb9c6726e6d537374897a243a426e"
+                    },
+                    {
+                        "title": "1x02. Curso Intensivo",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dfe82c9bd8a941d4b3aabec19745c97bafa6401"
+                    },
+                    {
+                        "title": "1x03 e 04. O Bom, o Mau e o Ruim / A Troca",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:261431bccd7642e70a7d8ac2f4334e28e95631e9"
+                    },
+                    {
+                        "title": "1x05. A Caça",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f039470aa0769948ddbe07b2cbbe57aec9fa4c53"
+                    },
+                    {
+                        "title": "1x06. Hawke",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:414bddff63f50b092a69e976214bf96e524fd7d0"
+                    },
+                    {
+                        "title": "1x07. O Passageiro",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0501041a068ca1dc9f504d04b9896e7ab9ee6958"
+                    },
+                    {
+                        "title": "1x08. Hora da Morte",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e40ce84f708d2533e7073028ffb97c9ba99cad2"
+                    },
+                    {
+                        "title": "1x09. Confronto",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57e2e26296f8890dd2370caca523cc0db4bcddbc"
+                    },
+                    {
+                        "title": "1x010. Carne e Osso",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab4c3651957163707fa8cb9fde802bbb5c73864d"
+                    },
+                    {
+                        "title": "1x011 e 012. Redwood / Corações Partidos",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fbf2c0782eb7aa9be71b3f7e467e0f34f9d063de"
+                    },
+                    {
+                        "title": "1x013. O Roubo",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c04c43728ca7177c6889a7d1f7cd419ee185d77a"
+                    },
+                    {
+                        "title": "1x014. Dia à Paisana",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49fe951435085b14e7f837a337b430698a3cdf00"
+                    },
+                    {
+                        "title": "1x015. Caçada",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50d6e844ae2775ef2bd2de5b5e34fc394a6faf1b"
+                    },
+                    {
+                        "title": "1x016. Na Mira",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7dcdbbd654be9e406f9e5ebff3b92abc1ab25880"
+                    },
+                    {
+                        "title": "1x017. O Terremoto",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50b4076555bc14cbdc9f6b1fedfb7c4545f6fb9e"
+                    },
+                    {
+                        "title": "1x018. Defesa",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d06743ed5a0ac0521f686d85c90a9e6a0b1c448b"
+                    },
+                    {
+                        "title": "1x019. A Lista",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd899673b9d89accb4085159187ae2e90bb0600b"
+                    },
+                    {
+                        "title": "1x020. Queda Livre",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4a9a8ff9e3e3dc0d4c816b131ae33c0838800e9"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "rate": 8.4,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/arPUIveaNTdlZeSrOPrgof6UvhQ.jpg",
+                "episodios": [
+                    {
+                        "title": "2x01. Impacto",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfd1e170e18824476e013d41f3f25cd688a1b075"
+                    },
+                    {
+                        "title": "2x02. Patrulha Noturna",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:431d0121e0860ebaf6837839ebcce7c2a826eb60"
+                    },
+                    {
+                        "title": "2x03. A Aposta",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acb0bc38a7a30c505bb61d4fd14bb6cc80fd73df"
+                    },
+                    {
+                        "title": "2x04. Guerreiros e Guardiões",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c0480380f20fde0e2421102d4510e45bcdd284a9"
+                    },
+                    {
+                        "title": "2x05 e 06. Amor Difícil / A Ameaça",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb816f0745eada51bc22a7774c5a5570f1f50c49"
+                    },
+                    {
+                        "title": "2x07. Segurança",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a622e2282b0c47e10614fb60dd86c468b800358c"
+                    },
+                    {
+                        "title": "2x08. Serviço de Limpeza",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9165e30650db40e366ced947af8bd7a7bfd58f1b"
+                    },
+                    {
+                        "title": "2x09. Descontrole",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a9652581612349d919ea594a649330308b09752"
+                    },
+                    {
+                        "title": "2x010. O Lado Sombrio",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0da2843b253536e0e349399253a4bcee680ee47d"
+                    },
+                    {
+                        "title": "2x011. Dia da Morte",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05de096e2ad6b9c7a0042f76294f755bfd814aac"
+                    },
+                    {
+                        "title": "2x012. Vez ou Outra",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83989f277a6d31004ebf9fadb5e79730cffb6a0c"
+                    },
+                    {
+                        "title": "2x013. Dia de Revisão",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:214e96ec79e2e116633994594d23e77a169d38be"
+                    },
+                    {
+                        "title": "2x014. Vítimas",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0aae1de4aaa53dd5c09517f6dd36febf3d70d741"
+                    },
+                    {
+                        "title": "2x015. Sem Interferência",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7738fe1d5d7d697b07fa1285f33dded6e4db9836"
+                    },
+                    {
+                        "title": "2x016. O Pernoite",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:178bb3184b7fcb82e7124feac6eaccb380f0361a"
+                    },
+                    {
+                        "title": "2x017. Controle",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fef619de6c6209571d80b628ff486fc416dbc6bc"
+                    },
+                    {
+                        "title": "2x018. Encurralados",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63c161f48521e1da48cf49d996e736e186f03f77"
+                    },
+                    {
+                        "title": "2x019. Nada Calmo",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8cdd1079e6b5e39a4971012deb11e4b0a3e42df"
+                    },
+                    {
+                        "title": "2x020. A Caçada",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "rate": 7.6,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/6hChiX0vIjWY4y2kz1WndHVMsDu.jpg",
+                "episodios": [
+                    {
+                        "title": "3x01. Consequências",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b197d1833a68372ccaaa244a5667f72c72837c37"
+                    },
+                    {
+                        "title": "3x02. Na Justiça",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76bc563ab1dc1ea5e1c1fb1119ffc94029997962"
+                    },
+                    {
+                        "title": "3x03. A Feira",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a871d73fabaf96a8254c5403f430dc138ca53811"
+                    },
+                    {
+                        "title": "3x04. Sabotar",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a643b4bf4ded82d6b39940a9e7885c07ac6a020"
+                    },
+                    {
+                        "title": "3x05. Confinamento",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9bca643cdfcc994090fbf774ffbaef878802e6e6"
+                    },
+                    {
+                        "title": "3x06. Revelações",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a379d0df6a9f0c6757212d54297247d9862d4394"
+                    },
+                    {
+                        "title": "3x07. Crime Verdadeiro",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac703968910d75a8dfd9dc20895d1767c0885aa6"
+                    },
+                    {
+                        "title": "3x08. Sangue Ruim",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2e272747609a1dd2afae5909ec491ce62204d99"
+                    },
+                    {
+                        "title": "3x09. Âmber",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:305c0109518da729c10042034aea1c2fcb9feec2"
+                    },
+                    {
+                        "title": "3x010. Homem De Honra",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:690ad69ddb76e72f9b3e5be64fb289c22b70504f"
+                    },
+                    {
+                        "title": "3x011. Sangue Novo",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b44bf9bbfd0328be00227bc0258a5aedb2694aa"
+                    },
+                    {
+                        "title": "3x012. Coração Valente",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4334fdc6751e9087109189e0f988464314c8bd8a"
+                    },
+                    {
+                        "title": "3x013. Triplo Dever",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8402cacc6543e9bf72f48704c58a4bb2e341000"
+                    },
+                    {
+                        "title": "3x014. Limite",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:342fa0827295c03a6d7704b1e430080169fd881a"
+                    }
+                ]
+            },
+            {
+                "title": "4ª Temporada (Link Direto)",
+                "rate": 7.9,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/gSGj4zhuFllpZEkHGdsBMV2BGsq.jpg",
+                "episodios": [
+                    {
+                        "title": "4x01. Vida e Morte",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=ETFY8cPnKeLoPFhZYT%2Fm22u8aanJbesUAPgA9FyGUwcQhMBrDuVwPh2u5KWsWrqW&expiry=MQVzMG9ukbbINaZzWnF2sA%3D%3D&mac=6245ca2db27172a1b92651d4b9832973f9c124ab5c625100ef4b43b9ae928caf"
+                    },
+                    {
+                        "title": "4x02. Cinco Minutos",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=gC9ORjX%2F7ipz%2FHTqojPLg8NHy4%2B5JnjF8I0%2BKYyofNdplEFQc%2BQXnrOr6o7RnEO9&expiry=joS5fCh0aaYp3k3Feev1BQ%3D%3D&mac=5c715f5da6df0485a3e7321fbe36f0ebaa6f53b4e17ef2460745bfc0495f6383"
+                    },
+                    {
+                        "title": "4x03. Na Linha De Fogo",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=DZvQf2lzuc%2B0uXyx8udoOSA4uTvjvpTIhasXOo4RGeyLoXwOsz1h%2Ftsr3QDOupxe&expiry=UOA6ht9bRlY%2Boroya4e5ug%3D%3D&mac=34816c82b2c95d078494c59939442edccbe21827ac3b9796db0e1adc5c490e3e"
+                    },
+                    {
+                        "title": "4x04. Vermelho Quente",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=1ndT7MbnYlbxEFFSGRYtYIJ%2Bx5bLW9QHd%2FcQxi1rQAUIbY1xvPpbh14koo%2FtJvGU&expiry=ENXi3%2Bx1dbx9rKtB6NlT4A%3D%3D&mac=26b535f6521b517011f32925dde474804b3242b82b178cf5ee2d8a1ea848586c"
+                    },
+                    {
+                        "title": "4x05. A.C.H.",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=iqS0okfPRP%2B7cvbn7Zfna4Ob8nqV8NHjmdji3I0cO8m74C3QhgLh%2BoPFCrp4lvLm&expiry=qzb7X56YJqxhqhbbqka%2BZg%3D%3D&mac=2349c99b694c6849bc5df8e7de9c305e65216ddaf311bf4bb9f55a8e6c42631f"
+                    },
+                    {
+                        "title": "4x06. Justiça Poética",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=hdjPguXClmQW7mgwmvJkI1Le0iHNpgSHO8e%2B29jT4s4DVyFkBkfVo6YMTN%2F8BEoy&expiry=TxZn14xvaQZ5nWeGKx42yQ%3D%3D&mac=04a6972685bc59c2449eec7381c868cc3fc6fcf82989d74f4292b6dc085d5a1c"
+                    },
+                    {
+                        "title": "4x07. Combate Ao Fogo",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=fHwcIpa%2FHgWyH9NZr%2F9ZFfr3ROWecdGr0ExzbrpZZutBZr45UXrrk0mrgoPJ6OC4&expiry=g5%2BiZuXefqj14PWN%2FFfS2Q%3D%3D&mac=f7ce056ba96fe17efdc7a6ba106e55c7568064989723d82f198553157e25fd9b"
+                    },
+                    {
+                        "title": "4x08. Bater E Correr",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=yg2UlCNkjEn5d3FhBd63FUXjbezNbwILNsTJpvLj6K2lUfPogZDj1C8gQvLDDM7T&expiry=H0YPmTpoY%2FEs%2BrbVnPx1rA%3D%3D&mac=9d24e09c7a639bf218a590e58feff0a51129171a4aafeb13e8266e4e0dc8d04d"
+                    },
+                    {
+                        "title": "4x09. Colapso",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=ngv1TpgNf4cBDLsRMljr9%2BmNOLuUSn%2FZsjKHM1wa8sZrBD3I0EUkZ4gjMf2dNW9x&expiry=FKxkQGfC%2F8MZ%2BTKIelu7Mg%3D%3D&mac=4df27c9c920a5dc11664f6a553015e4c7a04ceeba5393ac8100fc54ce54711aa"
+                    },
+                    {
+                        "title": "4x010. Batimentos",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=RQWumZorj9TGkTouan2HZthN8HhXLvb53pg58UkEnjxPlPWgIX%2B%2BKgAvX%2Fi7gRtv&expiry=QeQ0I8idOyP6U35HyAPJuw%3D%3D&mac=eb3275ed4c890d0729f44d454ce0cbb9e522c3385c272df6bcdc3c1777b08ec0"
+                    },
+                    {
+                        "title": "4x011. Jogada Final",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=rTHS5yUWV8R2jnJ76CygCu6aFXh%2F%2FFTfqd1q3ubUnQ%2BpnmehMQJlvRHt1V8NI%2FG0&expiry=jNKXjpe2D8F2jycP2svnKA%3D%3D&mac=faf44470f7ed402f086d8b5dace2122e172776973c4a24399319fdcd653d1c04"
+                    },
+                    {
+                        "title": "4x012. As Batidas",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=AAP2cJZLSZsE2KtBMNLae13Il7pzxVyCH56%2BqhBt2qs%2F7vo%2BZ1EeNwsEngFbGmTi&expiry=kdX5MoBqcexDi%2BJbSrYEXw%3D%3D&mac=daaa405c3dc77eb11f42d2cebb7bd4b13d2b4f7f1c6057f1cdeac1c38b8c81bf"
+                    },
+                    {
+                        "title": "4x013. Voar Ou Lutar",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=qChtMk%2B5LZF%2B6F9FhCD795P5CK6goyTScCG1jsxGfyeWT%2BsXc1oUyNUObK7V0dqr&expiry=nGPkJ8%2Bx%2BHh8uXmoSSF71Q%3D%3D&mac=4ac7625e120351aef73ea3a05c2556f221c1866380e8687df286677429d684cc"
+                    },
+                    {
+                        "title": "4x014. Tiro no Escuro",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=h9meTYHTZKxhrZRlSeHrKv3GLiPG%2Bjdr%2F0Z0atchzn3uJtfP%2FfldE0KbNdWEq6Jc&expiry=EER30B1Gm0MPkq3NgDqiXQ%3D%3D&mac=9f559d53b756d2fcca42e5b8f88150ffe70cb15dcf0196bebe1f419c8a08a8ae"
+                    },
+                    {
+                        "title": "4x015. Lista De Testemunhas",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                    },
+                    {
+                        "title": "4x016. Crime Real",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=ktQZktgNEiRJKtq8xLzcLRoDSm7ZHy%2FlUVzEYXBolQP08mMgfaJ0NRKVhHliprU7&expiry=c89NXOhq2hhl8%2FCJ3BsrAA%3D%3D&mac=f33f5dbdebebc17fffb9ffcca7a1312bbb12d7a5114a7ecbe77ac1fd19d5a546"
+                    },
+                    {
+                        "title": "4x017. Código",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=81%2BkaZB3w%2BBI8KuYp7pOdBL7GXakJBGjqR554Fhgx4aYwBry1y%2Fd5SpAVoM8tfVq&expiry=jv7jO33idoeoAvL6xrFiiQ%3D%3D&mac=53be2e849ac8f71675a7a2b59fdb13542f752fc1009b85db20cc21bee2933619"
+                    },
+                    {
+                        "title": "4x018. Reconhecimento",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=sGMSRKYqjpgj7pNQdvAnkM%2FrAU7DWr1vIGrVaTWxRAt0P%2F3BbLi41yJzUIUfwOJz&expiry=LZjhIR9f6sIh4KHGbfjlnw%3D%3D&mac=7bacd04b82f21cd8274877d56c4111c5fc1744561be4809de339c529cc25d7f3"
+                    },
+                    {
+                        "title": "4x019. Simone",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=O9MnvUmm2yyZu5mpc6qpECU0tAuluQevojpjrFcmTu6fnCB5Tx1FFQWpuxa05%2FoW&expiry=RB60TQqgWMoUNMQ7eQKrLA%3D%3D&mac=455d41fa1940f35f11920839726bfa9f96ff6f8e5c1164008f84aa0d7e2b8ad6"
+                    },
+                    {
+                        "title": "4x020. Energia",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=265krNYL7d1ramAmi9WcLeGORI8yL7PmIcaGZ3Ju09tA4pYfQE8gAxqyPV7R01BV&expiry=tNFlV%2FXCsFC3oG3jkRU0rQ%3D%3D&mac=ef856c6ab5f8805dd5479b604c3a0dad66fad09fd48dbf671b40293cea4e934a"
+                    },
+                    {
+                        "title": "4x021. Dia Das Mães",
+                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=sCd3NRDcFZks%2FZZ4HPWbLWAgeXUkje2lrI9jTl9CYnjCOokOjd5tyyMXXYPNBsEy&expiry=RZdoJRBoJURApwgVC2E6MQ%3D%3D&mac=544b6618e2f40b3459e5cdc961d81ce30e271f2829f22462827b8fe210d01631"
+                    },
+                    {
+                        "title": "4x022. Dia No Buraco",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                    }
+                ]
+            },
+            {
+                "title": "5ª Temporada (Breve)",
+                "rate": 8.1,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/cofQdlJ0voWzWlpisBqfuRChTbf.jpg",
+                "episodios": []
+            }
+        ]
+    },
+	{
+        "tmdb_id": 558449,
+        "title": "Gladiador II",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e100c743c7c5b6232f55489b6bc06e904a2ffeea",
+        "year": 2024,
+        "genres": "Ação, Aventura, Drama",
+        "actors": [
+            {
+                "name": "Paul Mescal",
+                "photo": "https://image.tmdb.org/t/p/w185/vrzZ41TGNAFgfmZjC2sOJySzBLd.jpg"
+            },
+            {
+                "name": "Denzel Washington",
+                "photo": "https://image.tmdb.org/t/p/w185/9Iyt3wbsla5bM6IzbICDVnBhkER.jpg"
+            },
+            {
+                "name": "Pedro Pascal",
+                "photo": "https://image.tmdb.org/t/p/w185/9VYK7oxcqhjd5LAH6ZFJ3XzOlID.jpg"
+            },
+            {
+                "name": "Connie Nielsen",
+                "photo": "https://image.tmdb.org/t/p/w185/lvQypTfeH2Gn2PTbzq6XkT2PLmn.jpg"
+            },
+            {
+                "name": "Joseph Quinn",
+                "photo": "https://image.tmdb.org/t/p/w185/zshhuioZaH8S5ZKdMcojzWi1ntl.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/342bly9MqveL65TnEFzx8TTUxcL.jpg",
+        "rating": 6.8,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/euYIwmwkmz95mnXvufEmbL6ovhZ.jpg",
+        "director": "Ridley Scott",
+        "studio": "Paramount Pictures",
+        "runtime": 150,
+        "premiered": "2024-11-05",
+        "synopsis": "Anos depois de testemunhar a trágica morte do reverenciado herói Maximus nas mãos de seu tio malvado, Lucius se vê forçado a lutar no Coliseu depois que sua terra natal é conquistada por dois imperadores tirânicos, que agora governam Roma. Com o coração ardendo de raiva e o destino do Império pendurado por um fio, Lucius deve enfrentar perigos e inimigos, redescobrindo em seu passado a força e a honra necessárias para trazer a glória de Roma de volta ao seu povo. Prepare-se para uma jornada épica de coragem e vingança na sangrenta arena do Coliseu.",
+        "popularity": 642.478
+    },
+	{
+        "tmdb_id": 1035048,
+        "title": "A Linha da Extinçao",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3338f14c9e8fdd9507071345b668798b6ae9038",
+        "poster": "https://image.tmdb.org/t/p/w500/aJRTe0xSIMuvf8USGHHbouF8V7i.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/au3o84ub27qTZiMiEc9UYzN74V3.jpg",
+        "synopsis": "Vivendo nas montanhas após o apocalipse, um pai solteiro e duas mulheres se aventuram fora de suas casas e enfrentam criaturas monstruosas para salvar a vida de uma criança.",
+        "studio": "Lyrical Media",
+        "year": 2024,
+        "genres": "Ação, Ficção científica, Thriller",
+        "actors": [
+            {
+                "name": "Anthony Mackie",
+                "photo": "https://image.tmdb.org/t/p/w185/kfTwOYr3iUucmYz8kPjhYy07G2Z.jpg"
+            },
+            {
+                "name": "Morena Baccarin",
+                "photo": "https://image.tmdb.org/t/p/w185/kBSKKaOtsqIzZPhtEeHfCBmhWl9.jpg"
+            },
+            {
+                "name": "Maddie Hasson",
+                "photo": "https://image.tmdb.org/t/p/w185/eH6SnpMGDC9CQScmIchSnKkZAbc.jpg"
+            },
+            {
+                "name": "Danny Boyd Jr.",
+                "photo": "https://image.tmdb.org/t/p/w185/k6ewXmzmCJa71bQmmEifmy11ezt.jpg"
+            },
+            {
+                "name": "Rachel Nicks",
+                "photo": "https://image.tmdb.org/t/p/w185/wJx6DHJ5S5IGvj61yUUPtKzr9cf.jpg"
+            }
+        ],
+        "rating": 6.248,
+        "director": "George Nolfi",
+        "runtime": 95,
+        "premiered": "2024-11-07",
+        "popularity": 502.816
     }
+
+
+
+
+
+
+
 ]
