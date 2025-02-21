@@ -1,5 +1,741 @@
 [
 	
+	{
+        "tmdb_id": 842927,
+        "title": "Estado de Consciência",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18dd1de467f501afb9fd1859984da37e892fc1bc",
+        "poster": "https://image.tmdb.org/t/p/w500/1PT9TX36VWLGvOIfROIf03cdxsb.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/qgGGmOUhTSHsUjhxJdYTx0eZQhz.jpg",
+        "synopsis": "Após ser acusado de assassinato, Stephen aceita ingerir um medicamento para transtornos mentais e acaba perdendo parte da memória por um longo período. Sem conseguir distinguir o que é real e o que é fruto de sua imaginação, ele descobrirá que a verdade pode ser muito mais assustadora do que parece.",
+        "studio": "Paradox Studios",
+        "year": 2023,
+        "genres": "Thriller",
+        "actors": [
+            {
+                "name": "Emile Hirsch",
+                "photo": "https://image.tmdb.org/t/p/w185/Ah8BYOB7P8tX9jnQVrnAbL2kxYJ.jpg"
+            },
+            {
+                "name": "Tatjana Nardone",
+                "photo": "https://image.tmdb.org/t/p/w185/hL4DdocjZGVsXFwj1CqqQBnWixu.jpg"
+            },
+            {
+                "name": "Kesia Elwin",
+                "photo": "https://image.tmdb.org/t/p/w185/wejWDo1EpV0Y0D3wuAsdlKLwZ76.jpg"
+            },
+            {
+                "name": "Robin Mugnaini",
+                "photo": "https://image.tmdb.org/t/p/w185/tIA8hiw2aL67rP9y8X6Yu4W1caq.jpg"
+            },
+            {
+                "name": "David Wurawa",
+                "photo": "https://image.tmdb.org/t/p/w185/o8GheElZbQ7Z64GuwLVfkUyeOzf.jpg"
+            }
+        ],
+        "rating": 6.2,
+        "director": "Marcus Stokes",
+        "runtime": 0,
+        "premiered": "2023-01-19"
+    },
+    {
+        "tmdb_id": 1217379,
+        "title": "Cão de Briga",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81af68254e9963ebcc6a0803d7cce216737f1aeb",
+        "poster": "https://image.tmdb.org/t/p/w500/hSYO4omSzrx2UvKYJCDKd31Pmkk.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mhKQ5ntqlXyck0TWh1pCpn42aAx.jpg",
+        "synopsis": "Loreno é um matador de aluguel decidido a mudar de vida, mas antes de se aposentar ele aceita uma última missão para ajudar um velho amigo. Ele viaja até Bangkok para caçar um chefão do crime, mas acaba entrando em uma perigosa espiral de violência.",
+        "studio": "Desconhecido",
+        "year": 2024,
+        "genres": "Ação, Crime, Thriller",
+        "actors": [
+            {
+                "name": "Louis Mandylor",
+                "photo": "https://image.tmdb.org/t/p/w185/skvNBR83wxjbFj6XuLxWAhCZTmh.jpg"
+            },
+            {
+                "name": "วิทยา ปานศรีงาม",
+                "photo": "https://image.tmdb.org/t/p/w185/d27LoRSKh6WBYSQo6MNPNFfB0BQ.jpg"
+            },
+            {
+                "name": "Van Quattro",
+                "photo": "https://image.tmdb.org/t/p/w185/3W7P7vvdf0HV6i1oL2fVRiULV7a.jpg"
+            },
+            {
+                "name": "Panya Yimmumphai",
+                "photo": "https://image.tmdb.org/t/p/w185/OWJ4vs2CLxnlGeemlvwJE82kAE.jpg"
+            },
+            {
+                "name": "Winai Wiangyangkung",
+                "photo": null
+            }
+        ],
+        "rating": 6.3,
+        "director": "Joshua Dixon",
+        "runtime": 103,
+        "premiered": "2024-06-20"
+    },
+    {
+        "tmdb_id": 127826,
+        "title": "A Semente do Fruto Sagrado",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c182a9bb8f453c64ce9d8c94f7c4eae7d17e1da",
+        "poster": "https://image.tmdb.org/t/p/w500/eK1MMVXkBHZzDP7koNbwTG6GyTT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/a0oAVpNgV6ZxWsVrthesAR90MFH.jpg",
+        "synopsis": "",
+        "studio": "Paramount Pictures",
+        "year": 1936,
+        "genres": "Crime, Ação, Romance, Drama",
+        "actors": [
+            {
+                "name": "Paul Kelly",
+                "photo": "https://image.tmdb.org/t/p/w185/9pNhYgXbP10YTTyngwbhHbuYJNa.jpg"
+            },
+            {
+                "name": "Marsha Hunt",
+                "photo": "https://image.tmdb.org/t/p/w185/r4vTrX77yxFSTbIYXZVWRaDfCZ3.jpg"
+            },
+            {
+                "name": "Kent Taylor",
+                "photo": "https://image.tmdb.org/t/p/w185/2lAvFbEZ0xoqjtWMT10JIdpJSi2.jpg"
+            },
+            {
+                "name": "Robert Cummings",
+                "photo": "https://image.tmdb.org/t/p/w185/1xxVhYTbpcfNTqWqdx3XMrSVJ8V.jpg"
+            },
+            {
+                "name": "Harry Carey",
+                "photo": "https://image.tmdb.org/t/p/w185/AvNDsYjkLgeFHbxGFIFyl6QRgeM.jpg"
+            }
+        ],
+        "rating": 4.7,
+        "director": "James P. Hogan",
+        "runtime": 61,
+        "premiered": "1936-11-17"
+    },
+    {
+        "tmdb_id": 625518,
+        "title": "Pacificado",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3377509eea6198189df89d504ad42c4db4d112a7",
+        "poster": "https://image.tmdb.org/t/p/w500/tnJvroCbINCUFViNjSMJJ7ZQLhf.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/rRDSzCC1QsdMvefmygO2MuMFBnV.jpg",
+        "synopsis": "Tati, uma introspectiva garota de 13 anos, tenta se conectar com seu pai, Jaca, depois que ele é libertado da prisão. Enquanto a polícia pacificadora luta para manter a ocupação nas favelas do Rio, Tati e Jaca enfrentam as forças conflitantes que ameaçam destruir sua esperança para o futuro.",
+        "studio": "Muskat Filmed Properties",
+        "year": 2022,
+        "genres": "Drama",
+        "actors": [
+            {
+                "name": "Bukassa Kabengele",
+                "photo": "https://image.tmdb.org/t/p/w185/wg1lFAnr2cYQsIC1DoES6i1VbCx.jpg"
+            },
+            {
+                "name": "Cássia Gil",
+                "photo": null
+            },
+            {
+                "name": "Débora Nascimento",
+                "photo": "https://image.tmdb.org/t/p/w185/W0chjQKQbMRBe3WQTfPWUS6D4g.jpg"
+            },
+            {
+                "name": "Jefferson Brasil",
+                "photo": "https://image.tmdb.org/t/p/w185/qtAMgwRXgygDE4wG8VJDWOyWH7Y.jpg"
+            },
+            {
+                "name": "Léa Garcia",
+                "photo": "https://image.tmdb.org/t/p/w185/xJ8CK1zCZAk9uxY8GTnyhXD82r3.jpg"
+            }
+        ],
+        "rating": 6.3,
+        "director": "Paxton Winters",
+        "runtime": 121,
+        "premiered": "2022-08-11"
+    },
+    {
+        "tmdb_id": 1026377,
+        "title": "Sob a Lei do Crime",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bbd75d12c9ca94d671fc07b54c29b0719c21b85d",
+        "poster": "https://image.tmdb.org/t/p/w500/tbXKTqFuMuf9cASPsBy9ts3a1Uh.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9uwfH758mhTx6C0TEVmzbcQHuMz.jpg",
+        "synopsis": "Após ser dispensado do serviço militar, o sargento Barnes encontra seu caminho de volta à sociedade por intermédio de um político carismático que possui um plano secreto para eliminar um sindicato criminoso.",
+        "studio": "Desconhecido",
+        "year": 2022,
+        "genres": "Thriller, Ação",
+        "actors": [
+            {
+                "name": "Tobias Truvillion",
+                "photo": "https://image.tmdb.org/t/p/w185/e1ET1EPJZlm5p3KXKA7BdvGtEy2.jpg"
+            },
+            {
+                "name": "Zach McGowan",
+                "photo": "https://image.tmdb.org/t/p/w185/wXC8ffu54vUyw5Gk9SQAQcdL1mN.jpg"
+            },
+            {
+                "name": "Taryn Manning",
+                "photo": "https://image.tmdb.org/t/p/w185/kE4Hvw7Wga6keoMI3MyLakULr91.jpg"
+            },
+            {
+                "name": "Ebony Jo-Ann",
+                "photo": "https://image.tmdb.org/t/p/w185/vHiSk4Gl6H30AtBa0gCXDn1j1kK.jpg"
+            },
+            {
+                "name": "Chris Tardio",
+                "photo": "https://image.tmdb.org/t/p/w185/liVUUa1KJii6i1Vp5RlVXwW6aZT.jpg"
+            }
+        ],
+        "rating": 5.8,
+        "director": "Ante Novakovic",
+        "runtime": 110,
+        "premiered": "2022-10-07"
+    },
+    {
+        "tmdb_id": 785542,
+        "title": "De Volta ao Mar",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20771d5a07ca1a0413dfb01038eeba6903c72cbf",
+        "poster": "https://image.tmdb.org/t/p/w500/a1PVrIfWecgmzv5x799NVMssUAp.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/5OOYy7YpnwWxZAx8enpwRLIIRR8.jpg",
+        "synopsis": "Depois de uma década em Londres, Rona (Saoirse Ronan), de 29 anos, volta para sua terra natal nas Ilhas Órcades da Escócia. Sóbria, mas solitária, ela tenta suprimir a memória dos eventos que a levaram a essa jornada de recuperação. Lentamente, a terra mística adentra seu mundo interior e—um dia de cada vez—Rona acha esperança e força em si mesma entre os fortes ventos e o revigorante mar gelado.",
+        "studio": "BBC Film",
+        "year": 2024,
+        "genres": "Drama",
+        "actors": [
+            {
+                "name": "Saoirse Ronan",
+                "photo": "https://image.tmdb.org/t/p/w185/lVow9oXm454wjTfqOqTZeo1iwCd.jpg"
+            },
+            {
+                "name": "Paapa Essiedu",
+                "photo": "https://image.tmdb.org/t/p/w185/xMU7tSgdPMF53bdNMUhUMQOVIj3.jpg"
+            },
+            {
+                "name": "Nabil Elouahabi",
+                "photo": "https://image.tmdb.org/t/p/w185/gBWJGBBIWyAFv5rGv3hw3hwmEls.jpg"
+            },
+            {
+                "name": "Izuka Hoyle",
+                "photo": "https://image.tmdb.org/t/p/w185/p3JeJ5Wvlt0ZnN10h1kGyfZ5cOW.jpg"
+            },
+            {
+                "name": "Lauren Lyle",
+                "photo": "https://image.tmdb.org/t/p/w185/hlAAP180b300r6AdszNScugWKFq.jpg"
+            }
+        ],
+        "rating": 6.9,
+        "director": "Nora Fingscheidt",
+        "runtime": 118,
+        "premiered": "2024-09-27"
+    },
+    {
+        "tmdb_id": 1028196,
+        "title": "O Reformatório Nickel",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75423570c38be9ce8a27d9f580411f5644acbc20",
+        "poster": "https://image.tmdb.org/t/p/w500/hlTuZinZ2EvrkTKpW66z2RXySmE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3bBu3xpbRRulHuinDd8SwQemhwe.jpg",
+        "synopsis": "A amizade poderosa formada por dois jovens negros é o centro gravitacional de Nickel Boys. O filme baseado no romance de mesmo nome vencedor do Prêmio Pulitzer acompanha a aliança entre Elwood e Turner, dois adolescentes afro-americanos que são enviados para um brutal reformatório juvenil na Flórida no ápice da implementação das leis segregacionistas de Jim Crow. A forte irmandade criada entre os dois forja um refúgio de esperança e carinho em meio aos horrores e às violências sofridas dentro e fora da detenção. Enquanto Elwood cultiva em Turner uma nova e mais otimista perspectiva do mundo, Turner conhece a realidade desse mundo bárbaro e ensina a Elwood os truques necessários para sobreviver.",
+        "studio": "Orion Pictures",
+        "year": 2024,
+        "genres": "Drama",
+        "actors": [
+            {
+                "name": "Ethan Herisse",
+                "photo": "https://image.tmdb.org/t/p/w185/a4QSvqAmdBwN0xKlxSBsWaQMPat.jpg"
+            },
+            {
+                "name": "Brandon Wilson",
+                "photo": "https://image.tmdb.org/t/p/w185/m8XtaANCSHJqZyXQn7RKiIEW9CE.jpg"
+            },
+            {
+                "name": "Aunjanue Ellis-Taylor",
+                "photo": "https://image.tmdb.org/t/p/w185/e54DfgDyS67xdtomYODFule6Ofa.jpg"
+            },
+            {
+                "name": "Hamish Linklater",
+                "photo": "https://image.tmdb.org/t/p/w185/AnpxdQjBk3v2OQTgyyb9EuUxAow.jpg"
+            },
+            {
+                "name": "Gralen Bryant Banks",
+                "photo": "https://image.tmdb.org/t/p/w185/mLxMcf6IoX6e0K1YpERdKY4t0Hc.jpg"
+            }
+        ],
+        "rating": 7.2,
+        "director": "RaMell Ross",
+        "runtime": 140,
+        "premiered": "2024-12-13"
+    },
+    {
+        "tmdb_id": 589712,
+        "title": "O Comandante: Pânico nas Alturas",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65f03ae2acd282cb27acb656b6678cb3c8c0fdf7",
+        "poster": "https://image.tmdb.org/t/p/w500/fNBrFOw3GcJMGkJL6DTKgbkn0jW.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7kOxwYxZ9FNKlRSWOxd7ENIFPKP.jpg",
+        "synopsis": "Baseado na história verídica de um piloto que teve que garantir a segurança de 128 passageiros e tripulantes do avião quando seu para-brisa foi danificado durante o vôo. O incidente é considerado um dos milagres da história da aviação.",
+        "studio": "Bona Film Group",
+        "year": 2019,
+        "genres": "Thriller, Ação, Aventura, Família",
+        "actors": [
+            {
+                "name": "Zhang Hanyu",
+                "photo": "https://image.tmdb.org/t/p/w185/dhieL9tW25vBHjqqwElxPzWaWpQ.jpg"
+            },
+            {
+                "name": "歐豪",
+                "photo": "https://image.tmdb.org/t/p/w185/nHokLSjlWJB3Gwt3zBXUuBPvR77.jpg"
+            },
+            {
+                "name": "Du Jiang",
+                "photo": "https://image.tmdb.org/t/p/w185/pRuPkC5I2DjujSaSTob9RivweUk.jpg"
+            },
+            {
+                "name": "袁泉",
+                "photo": "https://image.tmdb.org/t/p/w185/wtkOtG4840ebwgtDA7mjSwlsfwJ.jpg"
+            },
+            {
+                "name": "张天爱",
+                "photo": "https://image.tmdb.org/t/p/w185/7YfldHgtWzOLOjLJ1gdODPeKiHV.jpg"
+            }
+        ],
+        "rating": 7.0,
+        "director": "劉偉強",
+        "runtime": 111,
+        "premiered": "2019-09-30"
+    },
+    {
+        "tmdb_id": 999278,
+        "title": "O Ourives",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8cdee12f1a0d1a8e43e54760082662258bc06b3",
+        "poster": "https://image.tmdb.org/t/p/w500/2CKqzCpqK1tRxWsT9NoV43EDkNY.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sBk6nzxhtTkrn9JZj32vaRki0QG.jpg",
+        "synopsis": "Um trio de criminosos invade a casa de campo de um ourives e sua esposa. No entanto, eles logo descobrem que os alvos escolhidos não são tão inofensivos quanto imaginavam.",
+        "studio": "Hurricane Studios",
+        "year": 2022,
+        "genres": "Terror, Thriller",
+        "actors": [
+            {
+                "name": "Stefania Casini",
+                "photo": "https://image.tmdb.org/t/p/w185/aSg1jmYTV4nUhm6noY6ocP6hGUT.jpg"
+            },
+            {
+                "name": "Giuseppe Pambieri",
+                "photo": "https://image.tmdb.org/t/p/w185/nCnTkRe4PjsVbHYdHVPaSZpmFv6.jpg"
+            },
+            {
+                "name": "Gianluca Vannucci",
+                "photo": "https://image.tmdb.org/t/p/w185/5oTGqhku7vdYLUZ2WyJ7L14RMBc.jpg"
+            },
+            {
+                "name": "Tania Bambaci",
+                "photo": "https://image.tmdb.org/t/p/w185/4tmaJET58B1bpQ6rhVITNroBrx8.jpg"
+            },
+            {
+                "name": "Mike Cimini",
+                "photo": null
+            }
+        ],
+        "rating": 6.1,
+        "director": "Vincenzo Ricchiuto",
+        "runtime": 89,
+        "premiered": "2022-10-08"
+    },
+    {
+        "tmdb_id": 1012173,
+        "title": "Uma Liçao do Passado",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca771c9dc1d6e574bc8c1ddee5af7a7d164e65b3",
+        "poster": "https://image.tmdb.org/t/p/w500/gGGFHfoA4fYPHZeWpq6oB9Z73EV.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/k6k7ui84uvbGhwJlLnuAzlM71RM.jpg",
+        "synopsis": "No final do século XIX, um jovem etnólogo visita uma colônia africana para coletar material e levar de volta para Berlim, mas é atormentado pela maneira cruel com que os povos locais são tratados pelo Império Alemão.",
+        "studio": "Zero One Film",
+        "year": 2023,
+        "genres": "Drama",
+        "actors": [
+            {
+                "name": "Leonard Scheicher",
+                "photo": "https://image.tmdb.org/t/p/w185/s4DqnzX8qPZCK81jMSR1s2Vz0Yu.jpg"
+            },
+            {
+                "name": "Girley Jazama",
+                "photo": "https://image.tmdb.org/t/p/w185/fKxBipG7aSDiL6KJxgnI6KU86gU.jpg"
+            },
+            {
+                "name": "Peter Simonischek",
+                "photo": "https://image.tmdb.org/t/p/w185/5Dw34hpB8dasodGZHRngZ3cmESb.jpg"
+            },
+            {
+                "name": "Corinna Kirchhoff",
+                "photo": "https://image.tmdb.org/t/p/w185/blg6O0tF1Jm93Et4u1m3VdoiRmc.jpg"
+            },
+            {
+                "name": "Anton Paulus",
+                "photo": null
+            }
+        ],
+        "rating": 6.7,
+        "director": "Lars Kraume",
+        "runtime": 116,
+        "premiered": "2023-02-22"
+    },
+    {
+        "tmdb_id": 1210035,
+        "title": "Todos Irao Morrer",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:359681f7546a9fcecac306dc298feb188cfac551",
+        "poster": "https://image.tmdb.org/t/p/w500/cTKNcZ5COnafbwHNZnEqEzF4r8J.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/4z1QfbOVwGwW36QY4zpoAVyoFvU.jpg",
+        "synopsis": "Na tentativa de libertar um homem inocente, um grupo de justiceiros começa uma investigação para encontrar o verdadeiro assassino. Mas aos poucos, eles começam a ser eliminados um por um, até restar uma única integrante.",
+        "studio": "Deep creek productions",
+        "year": 2023,
+        "genres": "Terror, Mistério",
+        "actors": [
+            {
+                "name": "Jackie Hunter",
+                "photo": null
+            },
+            {
+                "name": "Lori Petty",
+                "photo": "https://image.tmdb.org/t/p/w185/bmJFh4VxRii7h7jpo4YVC6BFeVd.jpg"
+            },
+            {
+                "name": "Richard Tyson",
+                "photo": "https://image.tmdb.org/t/p/w185/2VqDaBqbCTnz0qZKXLtuUa9MO7R.jpg"
+            },
+            {
+                "name": "Bill Wetherill",
+                "photo": null
+            },
+            {
+                "name": "Joe Arvallo",
+                "photo": null
+            }
+        ],
+        "rating": 4.0,
+        "director": "Dominic Ross",
+        "runtime": 88,
+        "premiered": "2023-11-24"
+    },
+    {
+        "tmdb_id": 926889,
+        "title": "Laços de Sangue",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f5778274d4e1c656985283b8ad918a80ed263a1",
+        "poster": "https://image.tmdb.org/t/p/w500/fBck0353UAGYf6qD32fJpjbYD7u.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/79xj3qlJzVr3ZAZNbX6VVWMkXxM.jpg",
+        "synopsis": "No final da década de 1980, Rose se muda da Costa do Marfim para a França com seus dois filhos pequenos. Apesar das dificuldades enfrentadas pela família, Rose demonstra um entusiasmo inabalável por seu novo país e sua nova vida.",
+        "studio": "Blue Monday Productions",
+        "year": 2022,
+        "genres": "Drama",
+        "actors": [
+            {
+                "name": "Annabelle Lengronne",
+                "photo": "https://image.tmdb.org/t/p/w185/sRczSwB4NUqDP4q2xcF7X2q6BTI.jpg"
+            },
+            {
+                "name": "Stéphane Bak",
+                "photo": "https://image.tmdb.org/t/p/w185/eDiflbTzXwkjVO5F8rQT17exIE3.jpg"
+            },
+            {
+                "name": "Kenzo Sambin",
+                "photo": "https://image.tmdb.org/t/p/w185/lJunXzoTbOo8WDdhykTCOh48r9k.jpg"
+            },
+            {
+                "name": "Ahmed Sylla",
+                "photo": "https://image.tmdb.org/t/p/w185/38DD74BMJ4PEebdKhtAGzrQyLwd.jpg"
+            },
+            {
+                "name": "Sidy Fofana",
+                "photo": "https://image.tmdb.org/t/p/w185/iMFrbOOKzYsNCu0d48yUNOtVmP8.jpg"
+            }
+        ],
+        "rating": 6.5,
+        "director": "Léonor Serraille",
+        "runtime": 116,
+        "premiered": "2022-11-25"
+    },
+    {
+        "tmdb_id": 846536,
+        "title": "Slime: Uma Aventura Pegajosa 2",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec3a6c9507ba020e6fb6c11733ce23616cda9c07",
+        "poster": "https://image.tmdb.org/t/p/w500/wqVybeRgb6V7MxcQvHAu4yOVWbs.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7WD7vG3RuNFQC2DMaMCIKH9lXOR.jpg",
+        "synopsis": "Esta é a divertida sequência do filme Slime - Uma Aventura Pegajosa, e agora temos a melhor e mais colorida receita de slime de todos os  tempos, que é roubada da Indy por um concorrente nefasto. Como ela poderá reconquistar sua base de fãs e, claro, sua fórmula?",
+        "studio": "NewBe",
+        "year": 2021,
+        "genres": "Comédia, Família",
+        "actors": [
+            {
+                "name": "Bibi Speek",
+                "photo": "https://image.tmdb.org/t/p/w185/u0XvxYAzrovywV0xae53Zwy5Rne.jpg"
+            },
+            {
+                "name": "Huub Smit",
+                "photo": "https://image.tmdb.org/t/p/w185/qUqgHoHLLRzTAk3XWVKGiuDLQYp.jpg"
+            },
+            {
+                "name": "Denise Aznam",
+                "photo": "https://image.tmdb.org/t/p/w185/jLCbtQM6EWXxSeLopZaTfGD7JQG.jpg"
+            },
+            {
+                "name": "Vincent Visser",
+                "photo": "https://image.tmdb.org/t/p/w185/9goWykOQbqZfgS71eoiylgRy0uy.jpg"
+            },
+            {
+                "name": "Ferdi Stofmeel",
+                "photo": "https://image.tmdb.org/t/p/w185/4dxZSNXedWu0D4rhbOlldGUjA8w.jpg"
+            }
+        ],
+        "rating": 0.0,
+        "director": "Martijn Smits",
+        "runtime": 81,
+        "premiered": "2021-07-07"
+    },
+    {
+        "tmdb_id": 957482,
+        "title": "Uma Jornada na África",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2bbd2d3e28f9c6ee9334797419eca90367a4c26a",
+        "poster": "https://image.tmdb.org/t/p/w500/j5C1TcPzyXVJB6nsij3MLLqelIo.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/u4R00OtVc4HJJK8cGgmmdUq7hYy.jpg",
+        "synopsis": "Em 1914, tropas alemãs e britânicas brigam pelo controle do leste africano. A enfermeira britânica Anne Corringfield consegue escapar de um ataque ao seu vilarejo e agora corre para salvar o posto vizinho de um possível massacre.",
+        "studio": "Desconhecido",
+        "year": 2022,
+        "genres": "Aventura",
+        "actors": [
+            {
+                "name": "Eric Roberts",
+                "photo": "https://image.tmdb.org/t/p/w185/NiWg1TaUcal7xn1ZQeyA2dLd5F.jpg"
+            },
+            {
+                "name": "Linn Bjornland",
+                "photo": "https://image.tmdb.org/t/p/w185/ag4FXyl7wUqVh3JyVO7KEcNFkpy.jpg"
+            },
+            {
+                "name": "Justin Gordon",
+                "photo": "https://image.tmdb.org/t/p/w185/zJ6nAHQWYuLMdmserxWEh4gVVk7.jpg"
+            },
+            {
+                "name": "Robert Okumu",
+                "photo": "https://image.tmdb.org/t/p/w185/wJkDw2dTYankbtdWpsp5Qkyqn0o.jpg"
+            },
+            {
+                "name": "Jeff Berg",
+                "photo": null
+            }
+        ],
+        "rating": 5.0,
+        "director": "Ted Betz",
+        "runtime": 90,
+        "premiered": "2022-03-28"
+    },
+    {
+        "tmdb_id": 520203,
+        "title": "Para Onde Vamos Quando Morremos?",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ccd8d13a272ff2584e2cafa9924d2082b84ceee",
+        "poster": "https://image.tmdb.org/t/p/w500/ymD4JBph5SJuUfTg6pwZsOTx6N1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/eUKKy46Td3ZpWwrmbIwPsLWNelH.jpg",
+        "synopsis": "Uma criança luta com seu pai contra as complexidades de um mundo adulto.",
+        "studio": "Mythical Films",
+        "year": 2019,
+        "genres": "Drama, Fantasia",
+        "actors": [
+            {
+                "name": "Mark Webber",
+                "photo": "https://image.tmdb.org/t/p/w185/y30VskmtlxNLz1HIMEIxjknUBQ4.jpg"
+            },
+            {
+                "name": "Teresa Palmer",
+                "photo": "https://image.tmdb.org/t/p/w185/sjSiLSCp9LS1Z0nyGpmquTBuUyr.jpg"
+            },
+            {
+                "name": "Bodhi Palmer",
+                "photo": null
+            },
+            {
+                "name": "Nicole Elizabeth Berger",
+                "photo": "https://image.tmdb.org/t/p/w185/fboJkNQFmzkevJMtNIGSl8oKtrY.jpg"
+            },
+            {
+                "name": "Eric Christian Olsen",
+                "photo": "https://image.tmdb.org/t/p/w185/k5Qr7dkvO4HTi3XtnDiMXcxTkg4.jpg"
+            }
+        ],
+        "rating": 7.3,
+        "director": "Mark Webber",
+        "runtime": 95,
+        "premiered": "2019-04-27"
+    },
+    {
+        "tmdb_id": 1064034,
+        "title": "Uma Comedia de Erros",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d31eec66ce219b76265524713812753341e8374",
+        "poster": "https://image.tmdb.org/t/p/w500/fYqNXgomWOOFsHoJMlSNWE9W1fT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/xDQjvMN2J7vHxSOLGf3u5oGSk7S.jpg",
+        "synopsis": "Após pegar dinheiro emprestado para realizar um longa-metragem que nunca saiu do papel, Patrick Bruckner possui apenas três semanas para devolver o dinheiro ou entregar o filme.",
+        "studio": "Desconhecido",
+        "year": 2020,
+        "genres": "Comédia",
+        "actors": [
+            {
+                "name": "Martin Kaps",
+                "photo": "https://image.tmdb.org/t/p/w185/3BsLiuTo1PcTgKNqVJm6vvVa9rd.jpg"
+            },
+            {
+                "name": "Nadine Petry",
+                "photo": "https://image.tmdb.org/t/p/w185/ijU5XVLaa6YLYXQLsKMZc5KjAvv.jpg"
+            },
+            {
+                "name": "Christina Rieth",
+                "photo": "https://image.tmdb.org/t/p/w185/hfuoZqqp56DjOzbrgnr2sgdiwO1.jpg"
+            },
+            {
+                "name": "Tamara Theisen",
+                "photo": null
+            },
+            {
+                "name": "Emrah Erdogru",
+                "photo": null
+            }
+        ],
+        "rating": 0.0,
+        "director": "Andreas Kröneck",
+        "runtime": 93,
+        "premiered": "2020-05-05"
+    },
+    {
+        "tmdb_id": 1405330,
+        "title": "Luigi Mangione: O Assassino do CEO",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:607e419c175efbe41de2f3cd1615726adea9ee30",
+        "poster": "https://image.tmdb.org/t/p/w500/vx3imUksnU1D0l4o3NsztCZynSb.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/pNlp3nGk6m94HttE4Sm6XCVarB8.jpg",
+        "synopsis": "",
+        "studio": "ABC News Studios",
+        "year": 2024,
+        "genres": "Documentário",
+        "actors": [
+            {
+                "name": "Luigi Mangione",
+                "photo": "https://image.tmdb.org/t/p/w185/pG7bMTPyjnnN9j7qU2IeSWNog3u.jpg"
+            },
+            {
+                "name": "Josh Margolin",
+                "photo": null
+            },
+            {
+                "name": "Josh Einiger",
+                "photo": null
+            },
+            {
+                "name": "Aaron Katersky",
+                "photo": null
+            },
+            {
+                "name": "Maria Cramer",
+                "photo": null
+            }
+        ],
+        "rating": 0.0,
+        "director": "Dave Hoffman",
+        "runtime": 40,
+        "premiered": "2024-12-19"
+    },
+    {
+        "tmdb_id": 593341,
+        "title": "Maximiliano Kolbe e Eu",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb41e4dd660bb1c52e3ae1991f204ef7eaf8b333",
+        "poster": "https://image.tmdb.org/t/p/w500/fFTVbtMZdFfwjpJceEMion7BD0q.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/em2NrrAltls4QVsMeVHcejbQfXf.jpg",
+        "synopsis": "A história verídica do Santo polonês Maximiliano Kolbe e os incríveis desafios que enfrentou durante a invasão nazista da Polónia na Segunda Guerra Mundial. Kolbe foi castigado por ter prestado ajuda e proteção aos judeus enviados para Auschwitz, um campo de concentração nazista. Num sacrifício final, ofereceu-se para trocar de lugar com um desconhecido que estava desolado por sua mulher e filhos. Ao tomar o lugar do estranho, Kolbe sacrifica a sua vida.",
+        "studio": "Dos Corazones",
+        "year": 2023,
+        "genres": "Animação, História, Drama",
+        "actors": [
+            {
+                "name": "Ashley Greene",
+                "photo": "https://image.tmdb.org/t/p/w185/d7UyEB3cm4doT5JgkZb68PmG4sT.jpg"
+            },
+            {
+                "name": "Héctor Elizondo",
+                "photo": "https://image.tmdb.org/t/p/w185/7Mfx9xeOFKXtzVpAc1488LiHs0b.jpg"
+            },
+            {
+                "name": "David Henrie",
+                "photo": "https://image.tmdb.org/t/p/w185/1NuD0ltILDRRCMfmLPHM8bSfzhb.jpg"
+            },
+            {
+                "name": "Bridger Zadina",
+                "photo": "https://image.tmdb.org/t/p/w185/z14kFdOJEwkMf9hD5orhSpiyl8I.jpg"
+            }
+        ],
+        "rating": 0.0,
+        "director": "Donovan Cook",
+        "runtime": 112,
+        "premiered": "2023-10-12"
+    },
+    {
+        "tmdb_id": 1123278,
+        "title": "O Último Refúgio",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f45983af1589acdb66eeea019adbe2ec8490feeb",
+        "poster": "https://image.tmdb.org/t/p/w500/95pve5bSSHQ695P5bKivC8oe2QY.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/5yZIKAPCjqm8t2r19vlzuasxbOP.jpg",
+        "synopsis": "Lee protege suas sobrinhas órfãs de um mundo apocalíptico em isolamento até que um estranho ameaça sua existência. Quando descobre um homem ferido na floresta, seu controle começa a desmoronar, desafiando sua sobrevivência.",
+        "studio": "TPC",
+        "year": 2024,
+        "genres": "Thriller",
+        "actors": [
+            {
+                "name": "Ashley Judd",
+                "photo": "https://image.tmdb.org/t/p/w185/dofk0Y9YnGfoakFOonxoyFD7LOC.jpg"
+            },
+            {
+                "name": "Sarah Pidgeon",
+                "photo": "https://image.tmdb.org/t/p/w185/wMj4WykLKTc6iHIYiXnho6jeYN1.jpg"
+            },
+            {
+                "name": "Katie Douglas",
+                "photo": "https://image.tmdb.org/t/p/w185/nBSSJ8ouRbaDvSJEdLxd1oa0Zec.jpg"
+            },
+            {
+                "name": "Asher Angel",
+                "photo": "https://image.tmdb.org/t/p/w185/hAPDhHyk2624QEKWfE48VZWjGS2.jpg"
+            },
+            {
+                "name": "Edward Balaban",
+                "photo": "https://image.tmdb.org/t/p/w185/5zGyELl92xwoFI00svuLnVqqzeq.jpg"
+            }
+        ],
+        "rating": 5.1,
+        "director": "Alec Tibaldi",
+        "runtime": 86,
+        "premiered": "2024-05-10"
+    },
+    {
+        "tmdb_id": 680295,
+        "title": "Um Mundo Selvagem",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96efb8500343e890bcca603e3151940359778b88",
+        "poster": "https://image.tmdb.org/t/p/w500/ptRyey5UVzK9LMYEPDapnI9lvkK.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/dAikF3XoiyE3Z7fhzjbFsGp2UmN.jpg",
+        "synopsis": "Um jovem garoto em um mundo pós-apocalíptico faz amizade com uma mãe enlutada que está rastreando o paradeiro de sua filha. A jornada os leva cara a cara com um déspota que mantém sua filha em cativeiro.",
+        "studio": "Tinyfist Films",
+        "year": 2020,
+        "genres": "Drama, Terror, Ficção científica",
+        "actors": [
+            {
+                "name": "Caleb Liban",
+                "photo": "https://image.tmdb.org/t/p/w185/3LiQy6J8hZSDZBlnxGjuUDECHnq.jpg"
+            },
+            {
+                "name": "Danielle Prall",
+                "photo": null
+            },
+            {
+                "name": "Vivienne Bersin",
+                "photo": null
+            },
+            {
+                "name": "Timothy McCracken",
+                "photo": "https://image.tmdb.org/t/p/w185/zfOAtHzKuxa06lHyIOuTcDZu11t.jpg"
+            },
+            {
+                "name": "Kaden Hinkle",
+                "photo": null
+            }
+        ],
+        "rating": 5.9,
+        "director": "David Liban",
+        "runtime": 105,
+        "premiered": "2020-09-22"
+    },
        {
         "tmdb_id": 823219,
         "title": "Flow",
