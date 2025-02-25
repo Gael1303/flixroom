@@ -1,5 +1,115 @@
 [
-	
+	{
+        "tmdb_id": 1000837,
+        "title": "Ainda Estou Aqui",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8cf1a7941e765f5b4a62b135c5a6b1d90560b3d3",
+        "poster": "https://image.tmdb.org/t/p/w500/zNAw7jK8bwCK56rIW676pdgkwhd.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/j9uruwRe9qM8RnP758dF7ISB8Bj.jpg",
+        "synopsis": "No início da década de 1970, o Brasil enfrenta o endurecimento da ditadura militar. No Rio de Janeiro, a família Paiva – Rubens, Eunice e seus cinco filhos – vive à beira da praia em uma casa de portas abertas para os amigos. Um dia, Rubens Paiva é levado por militares à paisana e desaparece.",
+        "studio": "VideoFilmes",
+        "year": 2024,
+        "genres": "Drama, História",
+        "actors": [
+            {
+                "name": "Fernanda Torres",
+                "photo": "https://image.tmdb.org/t/p/w185/dkxdADNwbM7ZLQK5YBNeKBqVJNM.jpg"
+            },
+            {
+                "name": "Selton Mello",
+                "photo": "https://image.tmdb.org/t/p/w185/sd9pWha3ThWyX5DPsVnZVPKSJ9W.jpg"
+            },
+            {
+                "name": "Fernanda Montenegro",
+                "photo": "https://image.tmdb.org/t/p/w185/bja0rn1BjAnA5Z5VbEvL2apvMT5.jpg"
+            },
+            {
+                "name": "Valentina Herszage",
+                "photo": "https://image.tmdb.org/t/p/w185/uJxN1QpU7XJzeg2navvMIQOGAjj.jpg"
+            },
+            {
+                "name": "Luiza Kosovski",
+                "photo": "https://image.tmdb.org/t/p/w185/zu3oHbqfqfc6u72wkWq5FCirmgS.jpg"
+            }
+        ],
+        "rating": 7.9,
+        "director": "Walter Salles",
+        "runtime": 135,
+        "premiered": "2024-09-19"
+    },
+    {
+        "tmdb_id": 978796,
+        "title": "O Homem do Saco",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9fbb02577448a4c98d85729f048266d2d3335b0b",
+        "poster": "https://image.tmdb.org/t/p/w500/upJVPS6e99GK1xP6gNKHKNxMsHB.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/gmYpUbSGOwmZnevCr0iwLEYdpVB.jpg",
+        "synopsis": "Uma família se vê envolvida em um pesadelo enquanto é caçada por uma criatura mítica e maligna. Durante séculos e em todas as culturas, os pais alertaram os seus filhos sobre o lendário Homem do Saco, que rapta crianças inocentes para nunca mais serem vistas. Patrick McKee escapou por pouco quando menino, o que o deixou com cicatrizes ao longo de sua vida adulta. Agora, o pesadelo da infância de Patrick voltou, ameaçando a segurança de sua esposa Karina e de seu filho Jake.",
+        "studio": "Lionsgate",
+        "year": 2024,
+        "genres": "Terror, Thriller",
+        "actors": [
+            {
+                "name": "Sam Claflin",
+                "photo": "https://image.tmdb.org/t/p/w185/e5CU4tjCNZFfm7ITmZfzjZse2Bb.jpg"
+            },
+            {
+                "name": "Antonia Thomas",
+                "photo": "https://image.tmdb.org/t/p/w185/ybmnPYUzcr3RMdaXnZIw2jEw9ju.jpg"
+            },
+            {
+                "name": "Caréll Vincent Rhoden",
+                "photo": "https://image.tmdb.org/t/p/w185/vaEX3jxuAHQ6qQZ2TNuoDK0UqBX.jpg"
+            },
+            {
+                "name": "Will Davis",
+                "photo": null
+            },
+            {
+                "name": "Adelle Leonce",
+                "photo": "https://image.tmdb.org/t/p/w185/zL3CdzHhQQdqNi6hrronOoh9jHQ.jpg"
+            }
+        ],
+        "rating": 6.232,
+        "director": "Colm McCarthy",
+        "runtime": 93,
+        "premiered": "2024-09-20"
+    },
+    {
+        "tmdb_id": 710295,
+        "title": "Lobisomem",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d399de0b5e96fff560ab1332fdff72a6601c91c5",
+        "poster": "https://image.tmdb.org/t/p/w500/nQLt14Yb7B5Mlq4KruQHTSaTCE6.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/nNF4ZB0UDL4qAUjQfbYZDq3Ck7J.jpg",
+        "synopsis": "Um homem deve proteger a si mesmo e sua família quando eles são perseguidos, aterrorizados e assombrados por um lobisomem mortal à noite durante a lua cheia. Mas conforme a noite avança, o homem começa a se comportar de forma estranha.",
+        "studio": "Universal Pictures",
+        "year": 2025,
+        "genres": "Terror, Thriller",
+        "actors": [
+            {
+                "name": "Christopher Abbott",
+                "photo": "https://image.tmdb.org/t/p/w185/qWmlTycQb3yXaGhxPb6LCyaDjqh.jpg"
+            },
+            {
+                "name": "Julia Garner",
+                "photo": "https://image.tmdb.org/t/p/w185/3ssgMsIWiTafSrjHNYdxYYZcvuf.jpg"
+            },
+            {
+                "name": "Matilda Firth",
+                "photo": "https://image.tmdb.org/t/p/w185/jmNWhQKAWy0uzGus4BpbKkQjWZ9.jpg"
+            },
+            {
+                "name": "Sam Jaeger",
+                "photo": "https://image.tmdb.org/t/p/w185/8t4wSekn6vUyEmg9etTnvTaGJEV.jpg"
+            },
+            {
+                "name": "Ben Prendergast",
+                "photo": "https://image.tmdb.org/t/p/w185/3xwPaoqFzk9t9uJlzcmvsvgBGaf.jpg"
+            }
+        ],
+        "rating": 6.52,
+        "director": "Leigh Whannell",
+        "runtime": 103,
+        "premiered": "2025-01-15"
+    },
 	{
         "tmdb_id": 842927,
         "title": "Estado de Consciência",
