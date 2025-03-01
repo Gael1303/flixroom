@@ -3003,6 +3003,93 @@
         ]
     },
     {
+        "title": "Invencível",
+        "rate": 8.6,
+        "year": 2021,
+        "aired": "25/03/2021",
+        "sinopse": "INVENCÍVEL é uma animação de super-heróis para adultos e conta a história de Mark Grayson, de 17 anos, um cara como qualquer outro de sua idade, exceto que seu pai é o super-herói mais poderoso do planeta, Omni-Man. Porém, à medida que Mark desenvolve seus próprios poderes, ele descobre que o legado de seu pai pode não ser tão heroico quanto parece.",
+        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c2f8pJMTxl5Z7VO6UmwxnmL6r0W.jpg",
+        "backdrop": "https://www.themoviedb.org/t/p/original/6UH52Fmau8RPsMAbQbjwN3wJSCj.jpg",
+        "studio": "amazon",
+        "genres": "Animação, Sci-Fi & Fantasia, Ação & Aventura, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
+                "episodios": [
+                    {
+                        "title": "1x01,02 E 03.",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f67fd75f3759d1eac7c03349031be0a3d4666c8"
+                    },
+                    {
+                        "title": "1x04. PROBLEMAS EM MARTE",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6bb8050fd5437b3d2e2e7840a513111c6124ec00"
+                    },
+                    {
+                        "title": "1x05. ESSA DOEU DE VERDADE",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad167b42e18e65e0fd42832385c8f559c862bf41"
+                    },
+                    {
+                        "title": "1x06. EU SÓ QUERO O PROGRESSO",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11caceba76be7ebeb9475c1e7d4144b6a4487d37"
+                    },
+                    {
+                        "title": "1x07. PRECISMOS CONVERSAR",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13f079c7b4c54302af71c8fc9a724399b4d05f96"
+                    },
+                    {
+                        "title": "1x08. A VERDADE",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6546e8de7a8346f704a634b7682815ab5b75e258"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
+                "episodios": [
+                    {
+                        "title": "2x01. UMA LIÇÃO PARA SUA PRÓXIMA VIDA",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38fb0518a33f820de2cf5e6d40b4ecee778f7d3d"
+                    },
+                    {
+                        "title": "2x02. EM CERCA DE SEIS HORAS PERCO MINHA VIRGINDADE PARA UM PEIXE",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a77698d552395115c9b7de8fc36ddefd1771630"
+                    },
+                    {
+                        "title": "2x03. ESTA MISSIVA, ESTA MAQUINAÇÃO!",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95fc30bc85064f4287f0557d178aaa73e7e7b2b6"
+                    },
+                    {
+                        "title": "2x04. JÁ FAZ UM TEMPO",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c0b348fa62f9db499f4dd51da5305d845d74385"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
+                "episodios": [
+                    {
+                        "title": "3x01 - 02 e 03",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a99fcf46b22756f9d12ecadb9ba4686b0b90fa41"
+                    },
+                    {
+                        "title": "3x04. VOCÊ ERA MEU HERÓI",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a11285bf3a872c884959492c523907052abd58a"
+                    },
+                    {
+                        "title": "3x05. ERA PARA ISSO SER FÁCIL",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1846550aa9695d601caac1e19b14d8e38d7bb98e"
+                    },
+                    {
+                        "title": "3x06. SÓ POSSO PEDIR DESCULPAS",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79ac564cca45b5a6c36151d08824b69957c76eeb"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "title": "The Last of Us",
         "rate": 8.59,
         "year": 2023,
@@ -3434,81 +3521,6 @@
                     {
                         "title": "Cyberpunk: Mercenários: 1ª Temporada",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9a2ba20c7433ec38bf51566816ade50bfffe058"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "title": "Invencível",
-        "rate": 8.5,
-        "year": 2021,
-        "aired": "25/03/2021",
-        "sinopse": "INVENCÍVEL é uma animação de super-heróis para adultos e conta a história de Mark Grayson, de 17 anos, um cara como qualquer outro de sua idade, exceto que seu pai é o super-herói mais poderoso do planeta, Omni-Man. Porém, à medida que Mark desenvolve seus próprios poderes, ele descobre que o legado de seu pai pode não ser tão heroico quanto parece.",
-        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c2f8pJMTxl5Z7VO6UmwxnmL6r0W.jpg",
-        "backdrop": "https://www.themoviedb.org/t/p/original/6UH52Fmau8RPsMAbQbjwN3wJSCj.jpg",
-        "studio": "amazon",
-        "genres": "Animação, Sci-Fi & Fantasia, Ação & Aventura, Drama",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
-                "episodios": [
-                    {
-                        "title": "1x01,02 E 03.",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f67fd75f3759d1eac7c03349031be0a3d4666c8"
-                    },
-                    {
-                        "title": "1x04. PROBLEMAS EM MARTE",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6bb8050fd5437b3d2e2e7840a513111c6124ec00"
-                    },
-                    {
-                        "title": "1x05. ESSA DOEU DE VERDADE",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad167b42e18e65e0fd42832385c8f559c862bf41"
-                    },
-                    {
-                        "title": "1x06. EU SÓ QUERO O PROGRESSO",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11caceba76be7ebeb9475c1e7d4144b6a4487d37"
-                    },
-                    {
-                        "title": "1x07. PRECISMOS CONVERSAR",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13f079c7b4c54302af71c8fc9a724399b4d05f96"
-                    },
-                    {
-                        "title": "1x08. A VERDADE",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6546e8de7a8346f704a634b7682815ab5b75e258"
-                    }
-                ]
-            },
-            {
-                "title": "2ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
-                "episodios": [
-                    {
-                        "title": "2x01. UMA LIÇÃO PARA SUA PRÓXIMA VIDA",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38fb0518a33f820de2cf5e6d40b4ecee778f7d3d"
-                    },
-                    {
-                        "title": "2x02. EM CERCA DE SEIS HORAS PERCO MINHA VIRGINDADE PARA UM PEIXE",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a77698d552395115c9b7de8fc36ddefd1771630"
-                    },
-                    {
-                        "title": "2x03. ESTA MISSIVA, ESTA MAQUINAÇÃO!",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95fc30bc85064f4287f0557d178aaa73e7e7b2b6"
-                    },
-                    {
-                        "title": "2x04. JÁ FAZ UM TEMPO",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c0b348fa62f9db499f4dd51da5305d845d74385"
-                    }
-                ]
-            },
-            {
-                "title": "3ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
-                "episodios": [
-                    {
-                        "title": "3x01 - 02 e 03",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38fb0518a33f820de2cf5e6d40b4ecee778f7d3d"
                     }
                 ]
             }
@@ -9559,6 +9571,10 @@
                     {
                         "title": "2x06. Átila",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d240a759f66b29d5805012fe439eed35be6db108"
+                    },
+                    {
+                        "title": "2x07. Chikhai Bardo",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1f7819a618ba43ea80a530eeb8fb3e0e2b7b8fe"
                     }
                 ]
             }
@@ -11021,6 +11037,10 @@
                     {
                         "title": "3x01 , 02 e 03",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1d7ecdab766e1b9753655b9cf1daea7a192893b"
+                    },
+                    {
+                        "title": "3x04. Dominique",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0334cb228b1117a1b5b571e710a20c0275686080"
                     }
                 ]
             }
@@ -14653,6 +14673,52 @@
                     {
                         "title": "4x010 e 11. O Começo: Parte 1 / O Começo: Parte 2",
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=7wQXyjj6ixOVghnGdRls7GJ6STpJ9BXnAYVXiDJ6pEkN52R9Gy3rFJA%2BisF6xzlA&expiry=ndpTbjK6VVUzppw18C2Hsw%3D%3D&mac=8d269e9030eb5c65638026672822909822b792604c878c30c7f4ac304e03ef19"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Casa de Davi",
+        "rate": 7.7,
+        "classification": "16",
+        "year": 2025,
+        "aired": "02/27/2025",
+        "sinopse": "Conta a história da ascensão do ícone bíblico Davi, que se torna o mais famoso rei de Israel. O outrora poderoso rei Saul é vítima de seu próprio orgulho. Seguindo as ordens de Deus, o profeta Samuel unge um pária adolescente como o novo rei.",
+        "poster": "https://image.tmdb.org/t/p/original/sOhUmdY6xoniIjGzFCD0Zf56u3s.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/83y6rp55fVjVaEq9KkRtG7MgS8U.jpg",
+        "studio": "Prime Video",
+        "genres": "Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 0.0,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/sOhUmdY6xoniIjGzFCD0Zf56u3s.jpg",
+                "episodios": [
+                    {
+                        "title": "1x01 ao 03. Um Pastor e Um Rei / Um Abismo Chama Outro Abismo / A Unção",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef5dd57f0931b64e258b52c94a6b1b6a6fe1c7b7"
+                    },
+                    {
+                        "title": "1x04. A Canção de Moisés [Breve]",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                    },
+                    {
+                        "title": "1x05. O Lobo e o Leão [Breve]",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                    },
+                    {
+                        "title": "1x06. Gigantes Despertados [Breve]",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                    },
+                    {
+                        "title": "1x07. Davi e Golias - Parte 1 [Breve]",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                    },
+                    {
+                        "title": "1x08. Davi e Golias - Parte 2 [Breve]",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
                     }
                 ]
             }
