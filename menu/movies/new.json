@@ -1,6 +1,675 @@
 [
 
 	{
+        "tmdb_id": 1117027,
+        "title": "Cassino em Ísquia",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd9af757970e908cf7f1b1d29666cff21b50914c"
+        ],
+        "year": 2024,
+        "genres": "Comédia, Ação",
+        "actors": [
+            {
+                "name": "Dominic Purcell",
+                "photo": "https://image.tmdb.org/t/p/w185/30giDZ53c8f72pPbXCLK9xMSAnw.jpg"
+            },
+            {
+                "name": "Ugo Dighero",
+                "photo": "https://image.tmdb.org/t/p/w185/gUJDnk8raCMrbDB94U95sdmCtyu.jpg"
+            },
+            {
+                "name": "Miriam Candurro",
+                "photo": "https://image.tmdb.org/t/p/w185/4R4Ar2bs2EPu463wUdRzzlAGz68.jpg"
+            },
+            {
+                "name": "Marcello Romolo",
+                "photo": "https://image.tmdb.org/t/p/w185/p9dsUxJQNJ685XMxSaoj63iQops.jpg"
+            },
+            {
+                "name": "Carlotta Natoli",
+                "photo": "https://image.tmdb.org/t/p/w185/fdVfGAslFZsoWeRzho0YziRVpvQ.jpg"
+            }
+        ],
+        "rating": 5.1,
+        "director": "Frank Ciota",
+        "runtime": 113,
+        "premiered": "2024-09-30",
+        "poster": "https://image.tmdb.org/t/p/w500/bQlT58ClG3YPUXj2QuQSAUvxNTS.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/rnsEwhRCJpWtEM1m5akd29Z9pvf.jpg",
+        "synopsis": "O astro de filmes de ação Nic Cassino vai à Itália para reavivar sua carreira fazendo um novo filme. Quando a produção sai dos trilhos, a tentativa de volta de Nic se transforma em uma desventura hilária.",
+        "studio": "Isola Verde Films"
+    },
+    {
+        "tmdb_id": 569916,
+        "title": "Confetti: Além das Palavras",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1d9b6e8389938a5e36d351dbef8bb9b73abfc94"
+        ],
+        "year": 2020,
+        "genres": "Drama, Família",
+        "actors": [
+            {
+                "name": "朱珠",
+                "photo": "https://image.tmdb.org/t/p/w185/7FgrPjkZnVBMbRZFLMa3AQbcBYm.jpg"
+            },
+            {
+                "name": "Amy Irving",
+                "photo": "https://image.tmdb.org/t/p/w185/dGPkygyZ8F5lKJyiuqBLs3WveeF.jpg"
+            },
+            {
+                "name": "Li Yanan",
+                "photo": "https://image.tmdb.org/t/p/w185/dYnUgrH1LDhcexSu9URySCHjmID.jpg"
+            },
+            {
+                "name": "Helen Slater",
+                "photo": "https://image.tmdb.org/t/p/w185/6WGhch6xLlFh0mQ9NR5BQ1UHaT9.jpg"
+            },
+            {
+                "name": "Tracy Ifeachor",
+                "photo": "https://image.tmdb.org/t/p/w185/6HsTxSGujUxv5LV5wcfociMdVS5.jpg"
+            }
+        ],
+        "rating": 7.5,
+        "director": "Ann Hu",
+        "runtime": 87,
+        "premiered": "2020-12-04",
+        "poster": "https://image.tmdb.org/t/p/w500/m2DvXwnSb17gKVj3UM6Ht26ec7m.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9vFwc40xBrOYUyRvexqckrq5nyl.jpg",
+        "synopsis": "Até onde uma mãe iria para reverter o destino de seu filho? Sofrendo de uma deficiência de aprendizado, Meimei é considerada uma menina estranha, uma excluída em sua escola e comunidade. Lan toma a decisão de deixar sua vida na China para aventurar-se sozinha com Meimei em Nova York.",
+        "studio": "Jagman Productions"
+    },
+    {
+        "tmdb_id": 944306,
+        "title": "Mundo em Chamas",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd241e3f1e470bb8bdc174b34dd9c755f8fa1150"
+        ],
+        "year": 2023,
+        "genres": "Thriller",
+        "actors": [
+            {
+                "name": "Alex Lutz",
+                "photo": "https://image.tmdb.org/t/p/w185/rrZcNAIOrTOLFLZqmpi1enF57Lp.jpg"
+            },
+            {
+                "name": "André Dussollier",
+                "photo": "https://image.tmdb.org/t/p/w185/rw3J5sNFr7VYvTKAPak9d14F7R6.jpg"
+            },
+            {
+                "name": "Sophie Parel",
+                "photo": "https://image.tmdb.org/t/p/w185/y2JaZuOlzVuIoZWAAHIiGXiSH1k.jpg"
+            },
+            {
+                "name": "Laura Sépul",
+                "photo": "https://image.tmdb.org/t/p/w185/rlyHCwbkfQGrMqBuKBuKnBmEiFb.jpg"
+            },
+            {
+                "name": "Vallier Vaudin",
+                "photo": null
+            }
+        ],
+        "rating": 4.9,
+        "director": "Quentin Reynaud",
+        "runtime": 85,
+        "premiered": "2023-03-08",
+        "poster": "https://image.tmdb.org/t/p/w500/8eZdlkitkNacDABfiAggVt4kut2.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/s9l1rmVx1PldYKj74Cts5hvKTF1.jpg",
+        "synopsis": "Um incêndio gigantesco devasta a floresta de Landes, devorando muitos hectares. O fogo, descontrolado, estava se aproximando das casas, e um alerta foi emitido pelas autoridades pedindo que todos os moradores deixassem o local. Simão e seu pai José então tomam a estrada que os levará para fora da zona de perigo. Mas se o início da jornada parece tranquilo, os dois homens...",
+        "studio": "22h22"
+    },
+    {
+        "tmdb_id": 1084199,
+        "title": "Acompanhante Perfeita",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eaa2e5d6c5b0337a6b54cbba6ed645ac090755b1"
+        ],
+        "year": 2025,
+        "genres": "Terror, Ficção científica, Thriller",
+        "actors": [
+            {
+                "name": "Sophie Thatcher",
+                "photo": "https://image.tmdb.org/t/p/w185/rUEPZaDxFdDGM76t4g6cYa8Ru7b.jpg"
+            },
+            {
+                "name": "Jack Quaid",
+                "photo": "https://image.tmdb.org/t/p/w185/320qW5yEbxpmyxQ3evmClJbtKag.jpg"
+            },
+            {
+                "name": "Lukas Gage",
+                "photo": "https://image.tmdb.org/t/p/w185/sftjB0MjD92meZqnL9OLtcTI02d.jpg"
+            },
+            {
+                "name": "Megan Suri",
+                "photo": "https://image.tmdb.org/t/p/w185/zUfiITKJh789PBSdF7B3HUBpJ8g.jpg"
+            },
+            {
+                "name": "Harvey Guillén",
+                "photo": "https://image.tmdb.org/t/p/w185/yiNBonobPwqMVweB02JWufzp2l9.jpg"
+            }
+        ],
+        "rating": 7.07,
+        "director": "Drew Hancock",
+        "runtime": 97,
+        "premiered": "2025-01-22",
+        "poster": "https://image.tmdb.org/t/p/w500/bjp5zXaIG5tOCtyzUzuf4lsdZub.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sc1abgWNXc29wSBaerrjGBih06l.jpg",
+        "synopsis": "Uma viagem de fim de semana se torna sangrenta e violenta quando uma androide subserviente, criada para a companhia humana, simplesmente enlouquece.",
+        "studio": "BoulderLight Pictures"
+    },
+    {
+        "tmdb_id": 1443733,
+        "title": "Calígula: O Corte Final",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37df8e73af96593a33585df2bb584794b4bc369c"
+        ],
+        "year": null,
+        "genres": "",
+        "actors": [],
+        "rating": 0.0,
+        "director": "",
+        "runtime": 178,
+        "premiered": null,
+        "poster": "https://image.tmdb.org/t/p/w500/raF11gPp9cU62mVrfpZYdhJ6xfI.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280None",
+        "synopsis": "Após 43 anos, Calígula - O Corte Final traz a visão original do épico de 1980. Com cenas inéditas de 1976, a versão explora a jornada de Calígula, que assume o Império Romano e sucumbe à corrupção e loucura. Esta reconstrução resgata as performances completas de McDowell e Helen Mirren, com cenários exuberantes do ganhador do Oscar, Danilo Donati. Um retrato poderoso sobre o impacto destrutivo do poder.",
+        "studio": "Desconhecido"
+    },
+    {
+        "tmdb_id": 973471,
+        "title": "Jogo de Sacrifício",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f90f34581397a3d4531ef7c436c992860b312114"
+        ],
+        "year": 2023,
+        "genres": "Terror, Thriller",
+        "actors": [
+            {
+                "name": "Georgia Acken",
+                "photo": "https://image.tmdb.org/t/p/w185/feWxxxLMlGJfzILOcGJQyVJ9rYB.jpg"
+            },
+            {
+                "name": "Mena Massoud",
+                "photo": "https://image.tmdb.org/t/p/w185/3Ng1Cxcln1tAMcgBY8L6aXNgGdV.jpg"
+            },
+            {
+                "name": "Olivia Scott Welch",
+                "photo": "https://image.tmdb.org/t/p/w185/9UXJ22J4SlWIUW8KWCwL5Tguoua.jpg"
+            },
+            {
+                "name": "Gus Kenworthy",
+                "photo": "https://image.tmdb.org/t/p/w185/XAI1wxZIlQlhNuIhMZoc80vaVH.jpg"
+            },
+            {
+                "name": "Chloë Levine",
+                "photo": "https://image.tmdb.org/t/p/w185/g00AlQl7LzlERqLK94pSkbQOLM9.jpg"
+            }
+        ],
+        "rating": 5.9,
+        "director": "Jenn Wexler",
+        "runtime": 99,
+        "premiered": "2023-12-07",
+        "poster": "https://image.tmdb.org/t/p/w500/n1cGwzuSi3bBKscH9axAJOQgXUq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/qwQCMlF4QI7XqHCBmkDW28Q1ZUP.jpg",
+        "synopsis": "Já é ruim o suficiente para as alunas do internato Samantha e Clara não poder ir para casa nas férias, mas as coisas tomam um rumo mortal quando uma gangue assassina chega à sua porta - bem a tempo do Natal.",
+        "studio": "Slater Brothers Entertainment"
+    },
+    {
+        "tmdb_id": 1187417,
+        "title": "Cupula do Caos",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a4113167eae5defa372fef47e3a11a8fff67742"
+        ],
+        "year": 2024,
+        "genres": "Comédia, Terror",
+        "actors": [
+            {
+                "name": "Cate Blanchett",
+                "photo": "https://image.tmdb.org/t/p/w185/mXpe59YDxcvAJS6EtshsvsRvLZP.jpg"
+            },
+            {
+                "name": "Roy Dupuis",
+                "photo": "https://image.tmdb.org/t/p/w185/iS6BCJzfzxxSMMyGbpQTarVeNSP.jpg"
+            },
+            {
+                "name": "Nikki Amuka-Bird",
+                "photo": "https://image.tmdb.org/t/p/w185/tRXvwTrX4ueKXkk5jxBoHoiUSxC.jpg"
+            },
+            {
+                "name": "Charles Dance",
+                "photo": "https://image.tmdb.org/t/p/w185/3xHwq5lchAI6mfW0aGQOEijexv6.jpg"
+            },
+            {
+                "name": "平岳大",
+                "photo": "https://image.tmdb.org/t/p/w185/2N1viBfPY4cRlz6W6YfM2F6UbSH.jpg"
+            }
+        ],
+        "rating": 4.9,
+        "director": "Guy Maddin, Galen Johnson, Evan Johnson",
+        "runtime": 104,
+        "premiered": "2024-10-18",
+        "poster": "https://image.tmdb.org/t/p/w500/zbI8Xc44P0KgNANNABenekOrM9q.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zpI09DEJuSpVct7hamFuCR9v91V.jpg",
+        "synopsis": "Saçaricando entre comédia, terror apocalíptico e arremedo de novela, CÚPULA DO CAOS acompanha os sete líderes das democracias mais ricas do mundo no encontro do G7. Lá eles se perdem num bosque e enfrentam perigos alarmantes enquanto tentam elaborar um documento sobre a crise global.",
+        "studio": "Buffalo Gal Pictures"
+    },
+    {
+        "tmdb_id": 1108958,
+        "title": "A Serva",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f143274144b21de00b71006d83116ee875f77969"
+        ],
+        "year": 2023,
+        "genres": "Drama, Documentário, História",
+        "actors": [
+            {
+                "name": "Cristina Gonzalez del Valle",
+                "photo": "https://image.tmdb.org/t/p/w185/ejVfUq82n0NpAXDRNoSy0KLmKKq.jpg"
+            },
+            {
+                "name": "Daniela Arias",
+                "photo": null
+            },
+            {
+                "name": "Marian Arahuetes",
+                "photo": "https://image.tmdb.org/t/p/w185/b3FTNB8KZiAlclICT02sqlX1QJ4.jpg"
+            },
+            {
+                "name": "Elena Furiase",
+                "photo": "https://image.tmdb.org/t/p/w185/y4zWZDLlynFxQg9yx1qEC4xEVH.jpg"
+            },
+            {
+                "name": "Eva Jakubovska",
+                "photo": null
+            }
+        ],
+        "rating": 4.0,
+        "director": "Pablo Moreno",
+        "runtime": 111,
+        "premiered": "2023-03-24",
+        "poster": "https://image.tmdb.org/t/p/w500/mrzxl9eBtPcD9m4pk5U81xL4RSc.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sMree7qOX4OuOtTb97yMeUggeAH.jpg",
+        "synopsis": "Lera, empregada doméstica, é acusada de um crime. Na cela de um quartel da Guarda Civil conhece Mihaela e Julia, duas prostitutas com quem partilha a história que lhe salvou a vida. A história de Vicenta María López Vicuña, fundadora das Religiosas de Maria Imaculada, que há mais de 150 anos se dedica à promoção de mulheres que deixaram suas cidades para construir um futuro melhor no serviço doméstico na capital. A verdadeira história de uma mulher, de muitas.",
+        "studio": "Proyecfilm S.L."
+    },
+    {
+        "tmdb_id": 1299430,
+        "title": "Carcaça",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c65b9573865e755d301ad1c95fa4356634c678c"
+        ],
+        "year": 2025,
+        "genres": "Thriller, Drama, Nacional",
+        "actors": [
+            {
+                "name": "Paulo Miklos",
+                "photo": "https://image.tmdb.org/t/p/w185/dqsz5celntOcn0whRJxdMcsxteX.jpg"
+            },
+            {
+                "name": "Carol Bresolin",
+                "photo": "https://image.tmdb.org/t/p/w185/14qyUrCCXQCxTcVhKZxi9IOz6IE.jpg"
+            }
+        ],
+        "rating": 0.0,
+        "director": "André Borelli",
+        "runtime": 70,
+        "premiered": "2025-03-03",
+        "poster": "https://image.tmdb.org/t/p/w500/iBaYd6mZiZ9h3dHfQT0hxUsDK1P.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zp1rEVGD9m8GavbgATUXmuz8Kj.jpg",
+        "synopsis": "Trancados na mesma casa em quarentena, um casal compartilha sua rotina em aparente tranquilidade. A descoberta de um segredo, no entanto, tornará a convivência um pesadelo.",
+        "studio": "BORELLI Produções"
+    },
+    {
+        "tmdb_id": 992940,
+        "title": "O Crítico",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:051e526b8338b6cf6322f2b9e499b5cd2abb8d20"
+        ],
+        "year": 2024,
+        "genres": "Thriller, Crime, Drama, Mistério",
+        "actors": [
+            {
+                "name": "Ian McKellen",
+                "photo": "https://image.tmdb.org/t/p/w185/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+            },
+            {
+                "name": "Gemma Arterton",
+                "photo": "https://image.tmdb.org/t/p/w185/Alfm28oyHNiYweNCUaMmrVjVMAT.jpg"
+            },
+            {
+                "name": "Mark Strong",
+                "photo": "https://image.tmdb.org/t/p/w185/pw6AvwaBbr44Nje9JQMBBwhchiu.jpg"
+            },
+            {
+                "name": "Lesley Manville",
+                "photo": "https://image.tmdb.org/t/p/w185/tioPlSoypjdME3oMu3g7XmgIIKS.jpg"
+            },
+            {
+                "name": "Ben Barnes",
+                "photo": "https://image.tmdb.org/t/p/w185/k0tAM9XK0s4n0VQq1jX5cGf9uAa.jpg"
+            }
+        ],
+        "rating": 5.2,
+        "director": "Anand Tucker",
+        "runtime": 101,
+        "premiered": "2024-09-13",
+        "poster": "https://image.tmdb.org/t/p/w500/keXDlpTJ1HAGbyXWNmu3FNCw24z.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6snj4WX74JQzwgWDv01fRI3YPaW.jpg",
+        "synopsis": "Uma história de ambição, chantagem e desejo com um anti-herói deslumbrante em seu coração sombrio. Um policial envolto em um pacto faustiano cada vez mais apertado. Patrick Marber adaptou o roteiro do romance de Anthony Quinn.",
+        "studio": "BK Studios"
+    },
+    {
+        "tmdb_id": 639103,
+        "title": "Em Dívida com a Sorte",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d890fbf66a12e135b32bcea379c21e87468c3ba"
+        ],
+        "year": 2020,
+        "genres": "Comédia, Thriller",
+        "actors": [
+            {
+                "name": "Mark Webber",
+                "photo": "https://image.tmdb.org/t/p/w185/y30VskmtlxNLz1HIMEIxjknUBQ4.jpg"
+            },
+            {
+                "name": "Nicole Elizabeth Berger",
+                "photo": "https://image.tmdb.org/t/p/w185/fboJkNQFmzkevJMtNIGSl8oKtrY.jpg"
+            },
+            {
+                "name": "Jon Abrahams",
+                "photo": "https://image.tmdb.org/t/p/w185/1gQkeDCmoJ3gjq7VbwvlYKKTKTz.jpg"
+            },
+            {
+                "name": "Erika Christensen",
+                "photo": "https://image.tmdb.org/t/p/w185/2QQJgrGVe3Fr8x7y50dBpN2g9lS.jpg"
+            },
+            {
+                "name": "Julia Jones",
+                "photo": "https://image.tmdb.org/t/p/w185/5MDt4lh6Zwrv5aCJfTV2i3rxwXl.jpg"
+            }
+        ],
+        "rating": 5.3,
+        "director": "Jon Abrahams",
+        "runtime": 101,
+        "premiered": "2020-04-03",
+        "poster": "https://image.tmdb.org/t/p/w500/2iBS7Z67jouOU1LJkhRPAPRYkTU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hgvNpunbkYhPLKj46GotQqlTXng.jpg",
+        "synopsis": "Dois irmãos, “Irish Twins”, em dívida com o chefe da máfia local, fogem com uma adolescente que acidentalmente mata seu filho.",
+        "studio": "Desconhecido"
+    },
+    {
+        "tmdb_id": 592128,
+        "title": "Cidade da Máfia",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae8769604ec19680a2420fc45e6245294e8334a4"
+        ],
+        "year": 2019,
+        "genres": "Drama, Crime",
+        "actors": [
+            {
+                "name": "David Arquette",
+                "photo": "https://image.tmdb.org/t/p/w185/39xacTP7V2QhGbk2YyXwmCHvbGz.jpg"
+            },
+            {
+                "name": "Danny A. Abeckaser",
+                "photo": "https://image.tmdb.org/t/p/w185/hNg6bsHkAFUNELz7x5ud3oT3NiU.jpg"
+            },
+            {
+                "name": "Jennifer Esposito",
+                "photo": "https://image.tmdb.org/t/p/w185/2cI03xHfnr5oDRh5FTHTaiSzcsY.jpg"
+            },
+            {
+                "name": "P.J. Byrne",
+                "photo": "https://image.tmdb.org/t/p/w185/shniQxLvKNvANyJy3hLG8Oo7fW7.jpg"
+            },
+            {
+                "name": "Jamie-Lynn Sigler",
+                "photo": "https://image.tmdb.org/t/p/w185/qevFZiT0bxEzjZdrp8tyPXYH4AX.jpg"
+            }
+        ],
+        "rating": 6.6,
+        "director": "Danny A. Abeckaser",
+        "runtime": 91,
+        "premiered": "2019-12-13",
+        "poster": "https://image.tmdb.org/t/p/w500/nUSjEtlVrXKDA6IVZnGfUPOcC0m.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/rbtjeAjtfKrOxVpKmZadmuvgE3H.jpg",
+        "synopsis": "Baseado na história real da notória “cúpula da máfia” de 1957 no norte de Nova York. Liderados por Vito Genovese, mais de 50 líderes dos sindicatos do crime organizado de todo o país convergiram para a cidade adormecida para discutir os próximos planos de expansão. Seus planos são frustrados quando o policial local Ed Croswell descobre suas atividades e, consequentemente, expõe a multidão ao público americano. As ações de Croswell lançaram luz sobre a enorme rede de corrupção e mudaram a face da aplicação da lei para sempre.",
+        "studio": "2B Films"
+    },
+    {
+        "tmdb_id": 1030983,
+        "title": "O Jogo da Garrafa",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2db17d11a7b3e69ae4016de8ef091b7bfa4f124c"
+        ],
+        "year": 2024,
+        "genres": "Terror",
+        "actors": [
+            {
+                "name": "Tanner Stine",
+                "photo": "https://image.tmdb.org/t/p/w185/7jPnlIvgpZidZqFS4jyAK32AcBs.jpg"
+            },
+            {
+                "name": "Kaylee Kaneshiro",
+                "photo": "https://image.tmdb.org/t/p/w185/2cfCz4fj9sZTyq8dJ90LG9QSknj.jpg"
+            },
+            {
+                "name": "Tony Amendola",
+                "photo": "https://image.tmdb.org/t/p/w185/eGgQGEwO2vCqhFcmDfyyjctmWcl.jpg"
+            },
+            {
+                "name": "Ryan Whitney",
+                "photo": "https://image.tmdb.org/t/p/w185/4tHQLE6pTelyIhYyNXd3GBHsLtb.jpg"
+            },
+            {
+                "name": "Hal Cumpston",
+                "photo": "https://image.tmdb.org/t/p/w185/vCXpWvEuYUqYpDZflgwtwR9pMQ8.jpg"
+            }
+        ],
+        "rating": 4.3,
+        "director": "Gavin Wiesen",
+        "runtime": 124,
+        "premiered": "2024-10-03",
+        "poster": "https://image.tmdb.org/t/p/w500/n1lf2grrVfu7cRPrIvQr3FH0dC5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/xTRnlDvGPXKI81zAXpZDT1J8i4Y.jpg",
+        "synopsis": "Amigos resolvem testar o jogo da garrafa numa casa marcada por um massacre, libertam um espírito maligno e começam a morrer. Os sobreviventes se unem para desvendar os segredos da casa e deter a carnificina.",
+        "studio": "Fortress Media Group"
+    },
+    {
+        "tmdb_id": 1214489,
+        "title": "Malu",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f21c710e44c7b609a33fe0184d36551a7cefbcf"
+        ],
+        "year": 2024,
+        "genres": "Drama, Nacional",
+        "actors": [
+            {
+                "name": "Yara de Novaes",
+                "photo": "https://image.tmdb.org/t/p/w185/oA7HZEiBFUWrfjHj2uTTExklNm9.jpg"
+            },
+            {
+                "name": "Juliana Carneiro da Cunha",
+                "photo": "https://image.tmdb.org/t/p/w185/jl4OC3nrL2TjMt7vFdqVd8qcM08.jpg"
+            },
+            {
+                "name": "Carol Duarte",
+                "photo": "https://image.tmdb.org/t/p/w185/Adz9ahEg1Tcxdm0peEjZQdwbLxR.jpg"
+            },
+            {
+                "name": "Átila Bee",
+                "photo": null
+            },
+            {
+                "name": "Márcio Vito",
+                "photo": "https://image.tmdb.org/t/p/w185/nzu5yon0hYOyN3uqu6aVxZ1DDQE.jpg"
+            }
+        ],
+        "rating": 9.0,
+        "director": "Pedro Freire",
+        "runtime": 102,
+        "premiered": "2024-10-31",
+        "poster": "https://image.tmdb.org/t/p/w500/jMPczLymsusTdhmvPcPK5EBVOMS.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/yM6g0ff1wZl7TQDxa7aw5eskwBK.jpg",
+        "synopsis": "Malu, uma mulher de meia idade com um passado glorioso, se vê presa em um caos existencial. A complexa relação com sua mãe conservadora e com sua filha adulta torna a crise ainda mais aguda, em meio a momentos de carinho e alegria entre as três. Um retrato de uma mulher em busca da melhor versão de si mesma.",
+        "studio": "TvZERO"
+    },
+    {
+        "tmdb_id": 1131996,
+        "title": "A Influencer Divina",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73cd96a43383b6c6246f625c7693850895946a38"
+        ],
+        "year": 2023,
+        "genres": "Drama, Romance",
+        "actors": [
+            {
+                "name": "Lara Silva",
+                "photo": "https://image.tmdb.org/t/p/w185/46YBx1r29VciKCFevcQ8IAS6H5.jpg"
+            },
+            {
+                "name": "Jason Burkey",
+                "photo": "https://image.tmdb.org/t/p/w185/wdiwFFH5xSx8AquNFRSwL5lUH0J.jpg"
+            },
+            {
+                "name": "Jesse Metcalfe",
+                "photo": "https://image.tmdb.org/t/p/w185/qZR4VAB2t0qawkH88Wv3K7y67nM.jpg"
+            },
+            {
+                "name": "Debra Stipe",
+                "photo": "https://image.tmdb.org/t/p/w185/xSzqC0NJbIooMVCaLZH4Efj87OC.jpg"
+            },
+            {
+                "name": "Matt Borlenghi",
+                "photo": "https://image.tmdb.org/t/p/w185/5cxI8zKxxH75SQRTAcaQMCYDr4i.jpg"
+            }
+        ],
+        "rating": 7.0,
+        "director": "Shari Rigby",
+        "runtime": 0,
+        "premiered": "2023-09-15",
+        "poster": "https://image.tmdb.org/t/p/w500/saP1nYtwwp9umyHeUUSKNyuBLbj.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/jcElVVuTwwKfknvWrIWmXMtufrL.jpg",
+        "synopsis": "Uma influenciadora acostumada ao luxo perde o apoio financeiro dos pais e aceita trabalhar em um abrigo. Lá, ela enfrenta desafios que a levam a descobrir o verdadeiro significado de servir ao próximo e um propósito maior.",
+        "studio": "Beautifully Flawed Productions"
+    },
+    {
+        "tmdb_id": 10623,
+        "title": "Contra o Tempo",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecd30077b9c445ab884c1e6b269573c5e549f3a8"
+        ],
+        "year": 2003,
+        "genres": "Ação, Crime, Drama",
+        "actors": [
+            {
+                "name": "Jet Li",
+                "photo": "https://image.tmdb.org/t/p/w185/c4s8INzU0ZAujCQ1YmphCmcsNzl.jpg"
+            },
+            {
+                "name": "DMX",
+                "photo": "https://image.tmdb.org/t/p/w185/dyone2AL9U3nVuBF3coucZMGRUn.jpg"
+            },
+            {
+                "name": "Kelly Hu",
+                "photo": "https://image.tmdb.org/t/p/w185/aE8K43akwifeAPpDFKiEJ678Bvn.jpg"
+            },
+            {
+                "name": "Anthony Anderson",
+                "photo": "https://image.tmdb.org/t/p/w185/reO1OjwFdtXmiO4LMDaBj6eatzK.jpg"
+            },
+            {
+                "name": "Tom Arnold",
+                "photo": "https://image.tmdb.org/t/p/w185/z2ajL1ozVCS4Ug04zOGCNH06OPP.jpg"
+            }
+        ],
+        "rating": 6.1,
+        "director": "Andrzej Bartkowiak",
+        "runtime": 101,
+        "premiered": "2003-02-28",
+        "poster": "https://image.tmdb.org/t/p/w500/nMslq3j5MLF1KKClHj883Tw1GOX.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/aE7GmGs9SQGcl1mZ18jBmgil2Ql.jpg",
+        "synopsis": "Ling (Marc Dacascos) deseja ter a posse de um raro e valioso diamente. Para tê-lo em mãos, ele decide por sequestrar a filha de Tony Fait (DMX), um famoso ladrão de joias, de forma a obrigá-lo a roubar o diamante. Sem saída, Fait e sua gangue forjam uma parceria com a Inteligência de Taiwan, chefiada por Su Duncan (Jet Li), para conseguir a cobiçada jóia.",
+        "studio": "Silver Pictures"
+    },
+    {
+        "tmdb_id": 2140,
+        "title": "O Beijo do Dragao",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd9b7f1621c83c6490a99cf1dd792b2674eece87"
+        ],
+        "year": 2001,
+        "genres": "Ação, Crime, Thriller",
+        "actors": [
+            {
+                "name": "Jet Li",
+                "photo": "https://image.tmdb.org/t/p/w185/c4s8INzU0ZAujCQ1YmphCmcsNzl.jpg"
+            },
+            {
+                "name": "Bridget Fonda",
+                "photo": "https://image.tmdb.org/t/p/w185/t3pHi0rus4vyLrSA82h1CiEDzBa.jpg"
+            },
+            {
+                "name": "Tchéky Karyo",
+                "photo": "https://image.tmdb.org/t/p/w185/jrtGiLYaALwDZgF39Hlgb8O1XZ1.jpg"
+            },
+            {
+                "name": "Ric Young",
+                "photo": "https://image.tmdb.org/t/p/w185/2XxcV8eGeyAXOofsXmEsN2hSx45.jpg"
+            },
+            {
+                "name": "Burt Kwouk",
+                "photo": "https://image.tmdb.org/t/p/w185/h65id1QbugPnKfC45NDkM7uJlSb.jpg"
+            }
+        ],
+        "rating": 6.9,
+        "director": "Chris Nahon",
+        "runtime": 98,
+        "premiered": "2001-07-06",
+        "poster": "https://image.tmdb.org/t/p/w500/hpGBqX4SG7xNJx4wqLv075KQoQl.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9S0BHQuZAyNMG0GpHAMSIbF38au.jpg",
+        "synopsis": "Liu Jian é um agente do governo chinês que é enviado a Paris para cumprir uma missão secreta, a qual nem ele mesmo conhece os detalhes. Lá ele conhece o inspetor Richard, com quem irá trabalhar na missão. Porém, Richard trai Liu e acaba colocando-o sob a mira de uma perigosa conspiração, acusado de um assassinato que não cometeu e tendo que provar sua inocência em uma cidade que não conhece. E para isso ele contará apenas com a ajuda de Jessica, uma americana a qual Richard obrigou a se prostituir.",
+        "studio": "EuropaCorp"
+    },
+    {
+        "tmdb_id": 1120911,
+        "title": "Saturday Night: A Noite que Mudou a Comédia",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:941d75101517d8295cc8293d8ba03cec365ef3f7"
+        ],
+        "year": 2024,
+        "genres": "Comédia, Drama",
+        "actors": [
+            {
+                "name": "Gabriel LaBelle",
+                "photo": "https://image.tmdb.org/t/p/w185/rHVSkVovxmmUPVlaJeMAklbamuv.jpg"
+            },
+            {
+                "name": "Rachel Sennott",
+                "photo": "https://image.tmdb.org/t/p/w185/fI9Fu7s5KHkdcYWQMAZW4PMY7h2.jpg"
+            },
+            {
+                "name": "Cory Michael Smith",
+                "photo": "https://image.tmdb.org/t/p/w185/hGW4o7oigkjdEZRO2fQJoCPkDsL.jpg"
+            },
+            {
+                "name": "Ella Hunt",
+                "photo": "https://image.tmdb.org/t/p/w185/g4xwqi7hs7vq4yuDY1bQSCMnJSl.jpg"
+            },
+            {
+                "name": "Dylan O'Brien",
+                "photo": "https://image.tmdb.org/t/p/w185/xN3GdvIlqsR838gDoblhPH0numP.jpg"
+            }
+        ],
+        "rating": 6.8,
+        "director": "Jason Reitman",
+        "runtime": 109,
+        "premiered": "2024-09-27",
+        "poster": "https://image.tmdb.org/t/p/w500/eCg3r4k0KUD5aEeWANw9P1fawAJ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3ZIPowwUwwMb6kO2Sh89GLnoLw9.jpg",
+        "synopsis": "Às 23h30 de 11 de outubro de 1975, um grupo de jovens comediantes e roteiristas mudou a televisão – e a cultura – para sempre. Saturday Night: A Noite que Mudou a Comédia traz a história dos bastidores dos 90 minutos que antecederam a primeira transmissão de Saturday Night Live. Repleta de humor, caos e magia de uma revolução que quase não aconteceu, a contagem regressiva acontece em tempo real…",
+        "studio": "Columbia Pictures"
+    },
+	{
         "tmdb_id": 1410082,
         "title": "O Atirador: A Última Batalha",
         "url": [
