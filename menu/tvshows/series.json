@@ -1,8 +1,4 @@
 [
-
-    {
-	"status": "on"
-    },
     {
         "title": "O Caso Evandro",
         "rate": 9.1,
@@ -89,6 +85,32 @@
                     {
                         "title": "Breaking Bad - 5ª Temporada Completa",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:549bfcc4b07bd8fa2aa92b475dbd35682b13f56f"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Demolidor: Renascido",
+        "rate": 8.9,
+        "classification": "18",
+        "year": 2025,
+        "aired": "04/03/2025",
+        "sinopse": "Matt Murdock, um advogado cego com habilidades fantásticas, luta por justiça através de seu agitado escritório de advocacia, enquanto o ex-chefe do crime Wilson Fisk busca seus próprios empreendimentos políticos em Nova Iorque. Quando suas identidades passadas começam a emergir, seus caminhos se cruzam perigosamente.",
+        "poster": "https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/qHCpG49qxs4owLgmhh0T62ErUZv.jpg",
+        "studio": "Disney+",
+        "genres": "Drama, Crime",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 9.4,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg",
+                "episodios": [
+                    {
+                        "title": "1x01 e 02 Meia Hora do Céu / Ótica",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:602a89697de71b0e242478f9b8cb4fe326cc577d"
                     }
                 ]
             }
@@ -10816,6 +10838,32 @@
                     {
                         "title": "Carnival Row: 2ª Temporada",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1ca61154cd221106d48481bb5e28776fc08d2b9"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Paradise",
+        "rate": 7.7,
+        "classification": "16",
+        "year": 2025,
+        "aired": "26/01/2025",
+        "sinopse": "Se passa em uma comunidade idílica habitada por alguns dos indivíduos mais proeminentes do mundo. Mas um assassinato chocante acaba com essa tranquilidade, desencadeando uma investigação de alto risco.",
+        "poster": "https://image.tmdb.org/t/p/original/wWoZDnP8eu4bpEnKF0WQ6VNF2j4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/qV2REPQ7pPlmQT7Mljkca0wi4Bx.jpg",
+        "studio": "Hulu",
+        "genres": "Drama, Crime",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 6.8,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/rkwqy7uE0ORdUxDFNeVq7vpJORN.jpg",
+                "episodios": [
+                    {
+                        "title": "Paradise: Temporada 1",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2120f60e2e8fd24dfd741a5fa4d92de989efe61"
                     }
                 ]
             }
