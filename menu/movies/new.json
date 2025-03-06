@@ -1,5 +1,720 @@
 [
-
+        {
+        "tmdb_id": 1038263,
+        "title": "Maria Callas",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4fa9aa31f12899f32b76e243d0a878e287e9440"
+        ],
+        "year": 2024,
+        "genres": "Drama, Música",
+        "actors": [
+            {
+                "name": "Angelina Jolie",
+                "photo": "https://image.tmdb.org/t/p/w185/bXNxIKcJ5cNNW8QFrBPWcfTSu9x.jpg"
+            },
+            {
+                "name": "Pierfrancesco Favino",
+                "photo": "https://image.tmdb.org/t/p/w185/hedzgTKFKrSleWvLkBlANng8w4T.jpg"
+            },
+            {
+                "name": "Alba Rohrwacher",
+                "photo": "https://image.tmdb.org/t/p/w185/swffcvnDnj5966fdLSnXOMY186.jpg"
+            },
+            {
+                "name": "Haluk Bilginer",
+                "photo": "https://image.tmdb.org/t/p/w185/krCEBAIGmEUUcA4GpLt3RiTHKLC.jpg"
+            },
+            {
+                "name": "Kodi Smit-McPhee",
+                "photo": "https://image.tmdb.org/t/p/w185/sesCWba9NwPDYDZzbVLs7OgLOti.jpg"
+            }
+        ],
+        "rating": 6.5,
+        "director": "Pablo Larraín",
+        "runtime": 124,
+        "premiered": "2024-11-27",
+        "poster": "https://image.tmdb.org/t/p/w500/bvwkLv20GrNIU7WSjCcpJVKxFUc.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9iw4a6AQkxUO3EuRn59Vgrqf0zO.jpg",
+        "synopsis": "Maria Callas, a maior cantora de ópera do mundo, vive os últimos dias de sua vida na Paris dos anos 1970, enquanto confronta sua identidade e vida.",
+        "studio": "The Apartment Pictures"
+    },
+    {
+        "tmdb_id": 1204892,
+        "title": "Queimando o Filme",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9326ca37be2f7ab4fd28f25f5aa3dfa26182b16"
+        ],
+        "year": 2025,
+        "genres": "Romance, Comédia",
+        "actors": [
+            {
+                "name": "Simone Ashley",
+                "photo": "https://image.tmdb.org/t/p/w185/NoWUSMGBrQrX23XK7eVjHlfaqY.jpg"
+            },
+            {
+                "name": "Hero Fiennes Tiffin",
+                "photo": "https://image.tmdb.org/t/p/w185/vNdScND38ytcV4tKEdu3cnGZgSe.jpg"
+            },
+            {
+                "name": "Sindhu Vee",
+                "photo": "https://image.tmdb.org/t/p/w185/xDSGdKJ7UMZhcpau7TJgc0UpGDA.jpg"
+            },
+            {
+                "name": "Luke Fetherston",
+                "photo": "https://image.tmdb.org/t/p/w185/dUUHwaao22eEfvhcrAclNsv7P6S.jpg"
+            },
+            {
+                "name": "Nikesh Patel",
+                "photo": "https://image.tmdb.org/t/p/w185/smlWLclZz1IKQVSygl3scLGPhgI.jpg"
+            }
+        ],
+        "rating": 6.4,
+        "director": "Prarthana Mohan",
+        "runtime": 100,
+        "premiered": "2025-03-05",
+        "poster": "https://image.tmdb.org/t/p/w500/6EIfh5Raw2Eil36dsYvkrVNvBWd.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/8JqwRue6rKwj2j8Ous9zifmtwvW.jpg",
+        "synopsis": "Solteira e sem ideia de casar, Pia administra um estúdio fotográfico quase falido em Londres com seu melhor amigo, Jay. Enquanto sua irmã, Sonal, se prepara para o casamento, e sua mãe, Laxmi, insiste que ela precisa namorar, um guru prevê que Pia encontrará o verdadeiro amor entre os próximos cinco encontros. Com a intervenção da família toda, Pia embarca numa busca engraçada e sincera pelo amor.",
+        "studio": "Ingenious Media"
+    },
+    {
+        "tmdb_id": 1426408,
+        "title": "Larissa: O Outro Lado de Anitta",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9326ca37be2f7ab4fd28f25f5aa3dfa26182b16",
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:649730c9f57d5b2a438386c295a56e75c3a407f1"
+        ],
+        "year": 2025,
+        "genres": "Documentário, Música",
+        "actors": [
+            {
+                "name": "Anitta",
+                "photo": "https://image.tmdb.org/t/p/w185/eWxizKj5csaQybp5cSWYL69vaiK.jpg"
+            },
+            {
+                "name": "Pedro Cantelmo",
+                "photo": null
+            }
+        ],
+        "rating": 7.0,
+        "director": "João Wainer, Pedro Cantelmo",
+        "runtime": 100,
+        "premiered": "2025-03-06",
+        "poster": "https://image.tmdb.org/t/p/w500/e1znkPMVSZv44DfRMeTrQ6G6Da2.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/rrqGyWXWCi6vgbuudzhPYEvNnHd.jpg",
+        "synopsis": "A pop star carioca Anitta revela sua intimidade neste documentário que explora sua identidade dupla, as dificuldades na vida pessoal e a busca pela felicidade.",
+        "studio": "Ginga Pictures"
+    },
+    {
+        "tmdb_id": 651657,
+        "title": "Aos Nossos Filhos",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb7fd800459fdeac75b9b404dd809c9c3bb4344f"
+        ],
+        "year": 2022,
+        "genres": "Drama",
+        "actors": [
+            {
+                "name": "Marieta Severo",
+                "photo": "https://image.tmdb.org/t/p/w185/912AulEGxubRlKsmNYVLrTmOVro.jpg"
+            },
+            {
+                "name": "Laura Castro",
+                "photo": "https://image.tmdb.org/t/p/w185/A0ElJYmbaWEU5uKw6h5FKLpvOyE.jpg"
+            },
+            {
+                "name": "Marta Nóbrega",
+                "photo": null
+            },
+            {
+                "name": "Andrei Cardoso",
+                "photo": null
+            },
+            {
+                "name": "Cláudio Lins",
+                "photo": "https://image.tmdb.org/t/p/w185/dzeq5sb8H3142IzPQHCPGp6StgW.jpg"
+            }
+        ],
+        "rating": 5.3,
+        "director": "Maria de Medeiros",
+        "runtime": 107,
+        "premiered": "2022-02-02",
+        "poster": "https://image.tmdb.org/t/p/w500/yJvvPr8pc35tYPZ8VZUiy98OVLv.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hwJ7NmZGeXD66zFtu11ChBc4XJn.jpg",
+        "synopsis": "Vera é uma mulher que lutou contra a ditadura e carrega terríveis traumas do passado. Tânia, sua filha, vive um casamento de 15 anos com outra mulher e pretendem ter um filho. A notícia gera um embate intenso na relação entre mãe e filha, que discordam completamente em suas opiniões relacionadas a construção familiar. Uma adaptação do espetáculo teatral homônimo de sucesso.",
+        "studio": "Globo Filmes"
+    },
+    {
+        "tmdb_id": 1425816,
+        "title": "Barbie e Teresa: Receita Para Amizade",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:505694d0cfb1c9fc599e6ac46b0c875d702e42aa"
+        ],
+        "year": 2025,
+        "genres": "Animação, Família, Comédia",
+        "actors": [
+            {
+                "name": "Tatiana Varria",
+                "photo": "https://image.tmdb.org/t/p/w185/3FCBQ73ns2JWZNV0ya2Op1h1WPF.jpg"
+            },
+            {
+                "name": "America Young",
+                "photo": "https://image.tmdb.org/t/p/w185/xxAr9L5Cto6q4H0nnxvhnnre1Qe.jpg"
+            },
+            {
+                "name": "Yeni Alvarez",
+                "photo": null
+            },
+            {
+                "name": "Giselle Fernández",
+                "photo": null
+            },
+            {
+                "name": "Ren Hanami",
+                "photo": "https://image.tmdb.org/t/p/w185/vQlsMgUIdFmPwObxIuITqDYDDEM.jpg"
+            }
+        ],
+        "rating": 6.0,
+        "director": "Karen J. Lloyd",
+        "runtime": 61,
+        "premiered": "2025-03-06",
+        "poster": "https://image.tmdb.org/t/p/w500/uDVsBMUE3QI0lZE44vfqpIojqRg.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/rbMUbtT7WHUEzrxJgSIEVEz5ACE.jpg",
+        "synopsis": "Um grupo de amigas ajuda Teresa a recriar uma querida receita de família para a inauguração do restaurante da prima dela em Nova York.",
+        "studio": "Mattel"
+    },
+    {
+        "tmdb_id": 1064213,
+        "title": "Anora",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1fae15ec8d7bf113d4d061989ab381a383635b1"
+        ],
+        "year": 2024,
+        "genres": "Drama, Comédia, Romance",
+        "actors": [
+            {
+                "name": "Mikey Madison",
+                "photo": "https://image.tmdb.org/t/p/w185/b0HZr4Xa4pIR7MzTPXfIWvUZELx.jpg"
+            },
+            {
+                "name": "Mark Eydelshteyn",
+                "photo": "https://image.tmdb.org/t/p/w185/vlQh0PedEBjpNUIa0vdbWEQPV48.jpg"
+            },
+            {
+                "name": "Youri Borissov",
+                "photo": "https://image.tmdb.org/t/p/w185/zLcD2UmXJG6m3qOQhNZs13SQRIp.jpg"
+            },
+            {
+                "name": "Karren Karagulian",
+                "photo": "https://image.tmdb.org/t/p/w185/rxyx8OFgShe0Kolptm5LpbsOUJj.jpg"
+            },
+            {
+                "name": "Vache Tovmasyan",
+                "photo": "https://image.tmdb.org/t/p/w185/cKHEEer9V0zK96f1gE0gvQ5IvZq.jpg"
+            }
+        ],
+        "rating": 7.093,
+        "director": "Sean Baker",
+        "runtime": 139,
+        "premiered": "2024-10-14",
+        "poster": "https://image.tmdb.org/t/p/w500/xmFdNzbUiT5XmH6rbIVGYDQHGeo.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/kEYWal656zP5Q2Tohm91aw6orlT.jpg",
+        "synopsis": "Anora, uma jovem profissional do sexo que trabalha nas noites do Brooklyn, pode se tornar a Cinderela da sua própria história quando encontra e casa, por impulso, com o filho de um oligarca russo. Mas quando a notícia chega à Rússia, seu conto de fadas fica ameaçado com a chegada dos pais dele a Nova York para cancelar o casamento.",
+        "studio": "Cre Film"
+    },
+    {
+        "tmdb_id": 1211472,
+        "title": "Setembro 5",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f80cfebf3a095a148606f9d7c45b49099cbb8ba"
+        ],
+        "year": 2024,
+        "genres": "Thriller, Drama, História",
+        "actors": [
+            {
+                "name": "John Magaro",
+                "photo": "https://image.tmdb.org/t/p/w185/ah4Jm4Lmrgab9xdHwRId80S4REd.jpg"
+            },
+            {
+                "name": "Leonie Benesch",
+                "photo": "https://image.tmdb.org/t/p/w185/hIRRfgggHgz07HBLyEHVpCXldYX.jpg"
+            },
+            {
+                "name": "Peter Sarsgaard",
+                "photo": "https://image.tmdb.org/t/p/w185/gYnEJjeHgZVBZh6aGzgfzm4jIHM.jpg"
+            },
+            {
+                "name": "Ben Chaplin",
+                "photo": "https://image.tmdb.org/t/p/w185/oJc9gA7cRvRg1v4tgeAmpkaqFxO.jpg"
+            },
+            {
+                "name": "Zinedine Soualem",
+                "photo": "https://image.tmdb.org/t/p/w185/feyQoQ89GDPnnmbeiiVFHkJvQtH.jpg"
+            }
+        ],
+        "rating": 7.0,
+        "director": "Tim Fehlbaum",
+        "runtime": 95,
+        "premiered": "2024-11-07",
+        "poster": "https://image.tmdb.org/t/p/w500/3emldMXl1Q3p5yFUOZmBtuEn65C.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/nEH7XUCeWsEuJtGgWUVUl6MEQW0.jpg",
+        "synopsis": "Em September 5, uma equipe de jornalistas esportivos precisa mudar sua cobertura radicalmente quando atletas são feitos de reféns dentro da Vila Olímpica. O drama histórico conta a história do Massacre de Munique, atentado que aconteceu nos Jogos Olímpicos de Verão de 1972 na Alemanha, a partir do ponto de vista da equipe de transmissão da ABC Sports. Na noite de 5 de setembro de 1972, um grupo terrorista chamado Setembro Negro invadiu a Vila Olímpica e fez 11 atletas da delegação israelense de reféns. Então, os jornalistas esportivos que estavam cobrindo o evento tiveram que mudar radicalmente a pauta para noticiar ao vivo o que estava acontecendo durante o sequestro que viria a se tornar o maior atentado terrorista a acontecer em um evento esportivo até hoje.",
+        "studio": "BerghausWöbke Filmproduktion"
+    },
+    {
+        "tmdb_id": 604685,
+        "title": "Covil de Ladrões 2",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc39dfd7a0bbd5eab3a02ed241ee91a1549dc411"
+        ],
+        "year": 2025,
+        "genres": "Ação, Crime, Thriller",
+        "actors": [
+            {
+                "name": "Gerard Butler",
+                "photo": "https://image.tmdb.org/t/p/w185/n7sTgAGHyL3u9KIOVWjVLRA1fyi.jpg"
+            },
+            {
+                "name": "O'Shea Jackson Jr.",
+                "photo": "https://image.tmdb.org/t/p/w185/zov23iUpL3QFHqzjdtzrBGOQYaF.jpg"
+            },
+            {
+                "name": "Evin Ahmad",
+                "photo": "https://image.tmdb.org/t/p/w185/806b9K90Q2Da3IKvm3EISMDnSfQ.jpg"
+            },
+            {
+                "name": "Salvatore Esposito",
+                "photo": "https://image.tmdb.org/t/p/w185/lvTeMD1NqYmYbaH0jYek2oXaSvR.jpg"
+            },
+            {
+                "name": "Meadow Williams",
+                "photo": "https://image.tmdb.org/t/p/w185/7CQHKHgjAEcKaeTOZ2XsBVoT6Uz.jpg"
+            }
+        ],
+        "rating": 6.7,
+        "director": "Christian Gudegast",
+        "runtime": 144,
+        "premiered": "2025-01-08",
+        "poster": "https://image.tmdb.org/t/p/w500/lwU8lY65QqcLOTVlZvL4Dse1h69.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mKIxSo3p1QKlsdegcOwapcbiV74.jpg",
+        "synopsis": "Big Nick está de volta à caça na Europa e se aproximando de Donnie, que está envolvido no mundo traiçoeiro e imprevisível dos ladrões de diamantes e da infame máfia dos Panteras, enquanto eles planejam um grande assalto à maior bolsa de diamantes do mundo.",
+        "studio": "Diamond Film Productions"
+    },
+    {
+        "tmdb_id": 857800,
+        "title": "Becoming Led Zeppelin",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61366a6bf3f0d532e0cd84259b360f58df7bedd2",
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5767852bc14639538d274c15c5eded41abb07e86"
+        ],
+        "year": 2025,
+        "genres": "Documentário, Música",
+        "actors": [
+            {
+                "name": "Jimmy Page",
+                "photo": "https://image.tmdb.org/t/p/w185/1xxzTj4HrCBBoyCP8eJimFpo6BK.jpg"
+            },
+            {
+                "name": "John Paul Jones",
+                "photo": "https://image.tmdb.org/t/p/w185/i4AwTlN8MVJPvsvDzdSiBxMbXxO.jpg"
+            },
+            {
+                "name": "John Bonham",
+                "photo": "https://image.tmdb.org/t/p/w185/4TTNncdvgMsFCJv9at0kOodE99y.jpg"
+            },
+            {
+                "name": "Robert Plant",
+                "photo": "https://image.tmdb.org/t/p/w185/4TcTkSEXE09MoZ8oeM8a5ExiM0T.jpg"
+            },
+            {
+                "name": "Peter Grant",
+                "photo": null
+            }
+        ],
+        "rating": 7.5,
+        "director": "Bernard MacMahon",
+        "runtime": 122,
+        "premiered": "2025-02-05",
+        "poster": "https://image.tmdb.org/t/p/w500/cAxteOtjaeQN045qNNbSEwu78c4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mmPzE3buVaALB9E3zDXOzoTW9oC.jpg",
+        "synopsis": "",
+        "studio": "Big Beach"
+    },
+    {
+        "tmdb_id": 1294134,
+        "title": "The Mountain Within Me",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9deaf743b8bcc765336324c1383d506ded0d6c02"
+        ],
+        "year": 2024,
+        "genres": "Documentário",
+        "actors": [
+            {
+                "name": "Ed Jackson",
+                "photo": null
+            }
+        ],
+        "rating": 7.0,
+        "director": "Polly Steele",
+        "runtime": 89,
+        "premiered": "2024-08-23",
+        "poster": "https://image.tmdb.org/t/p/w500/mRwlV2K8RKj9bJxPqVmEtjd1zAC.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/310EbteoLeSxB97xONW1GLkbpS7.jpg",
+        "synopsis": "Depois de sofrer uma lesão catastrófica e quase fatal na medula espinhal, o mundo do jogador profissional de rugby Ed Jackson mudou para sempre. THE MOUNTAIN WITHIN ME acompanha a jornada de Ed em sua recuperação enquanto ele encara os desafios físicos e mentais de Snowdonia, dos Alpes e do Himalaia, para os desafios que mudam sua vida perto de casa.",
+        "studio": "Universal Pictures Content Group"
+    },
+    {
+        "tmdb_id": 1364590,
+        "title": "Chris Brown: Uma Historia de Violencia",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f267f14f42fa5848b87060f9cc4d625fcfce0f2b"
+        ],
+        "year": 2024,
+        "genres": "Documentário, Crime",
+        "actors": [
+            {
+                "name": "Chris Brown",
+                "photo": "https://image.tmdb.org/t/p/w185/92NXoO1129xwDL65KEJUDvgG8iW.jpg"
+            },
+            {
+                "name": "Haseeb Hussain",
+                "photo": null
+            }
+        ],
+        "rating": 5.3,
+        "director": "",
+        "runtime": 83,
+        "premiered": "2024-10-27",
+        "poster": "https://image.tmdb.org/t/p/w500/etFYR5GGg4CdQEO2veAoX9ADYn2.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/vvWffl34rosQScZbWWcWwoRqYqw.jpg",
+        "synopsis": "Após uma agressão infame, Chris Brown conseguiu um retorno musical, mas uma lista crescente de alegações de agressão sexual gera alarme. Pela primeira vez, uma suposta vítima se pronuncia, e especialistas se aprofundam nas violência doméstica.",
+        "studio": "Investigation Discovery"
+    },
+    {
+        "tmdb_id": 1376704,
+        "title": "Compre! A Conspiraçao Consumista",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2541e86ba386b6d9b45b1ccc7776832ac0d7b594"
+        ],
+        "year": 2024,
+        "genres": "Documentário",
+        "actors": [
+            {
+                "name": "Alison Quin",
+                "photo": null
+            },
+            {
+                "name": "David Broughton",
+                "photo": null
+            },
+            {
+                "name": "Gary Comerford",
+                "photo": null
+            },
+            {
+                "name": "Steve Thompson",
+                "photo": null
+            },
+            {
+                "name": "Peter Marchant",
+                "photo": null
+            }
+        ],
+        "rating": 6.633,
+        "director": "Nic Stacey",
+        "runtime": 84,
+        "premiered": "2024-11-19",
+        "poster": "https://image.tmdb.org/t/p/w500/2qWoea16DIdfEZscAjzLHNgWa5P.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/m0rvRn5WG7pIrtVlLe5rSRQjVu7.jpg",
+        "synopsis": "Este documentário subversivo revela os truques que as marcas usam para os clientes continuarem comprando e o impacto que isso tem em nossas vidas.",
+        "studio": "Grain Media"
+    },
+    {
+        "tmdb_id": 1372665,
+        "title": "As Crianças Perdidas",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3a0c1263738b6c00e285fbcb947f0df1092b05e"
+        ],
+        "year": 2024,
+        "genres": "Documentário",
+        "actors": [],
+        "rating": 7.6,
+        "director": "Orlando von Einsiedel, Lali Houghton, Jorge Duran",
+        "runtime": 95,
+        "premiered": "2024-11-13",
+        "poster": "https://image.tmdb.org/t/p/w500/s0rtiZojWCizvu6K4PJZu6Cjf0c.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/z0v2QdZq4I61xt8mBlxKRyoOGqm.jpg",
+        "synopsis": "Após a queda de um avião, quatro crianças indígenas lutam para sobreviver na Amazônia colombiana usando sabedoria ancestral enquanto uma missão inédita tenta resgatá-las.",
+        "studio": "Grain Media"
+    },
+    {
+        "tmdb_id": 1229901,
+        "title": "Feitos de Pláatico",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eed8b654c43a629502f9cfddfcd43218b70b360f"
+        ],
+        "year": 2024,
+        "genres": "Documentário",
+        "actors": [
+            {
+                "name": "Ziya Tong",
+                "photo": null
+            },
+            {
+                "name": "Susan Freinkel",
+                "photo": null
+            },
+            {
+                "name": "Sedat Gündoğdu",
+                "photo": null
+            }
+        ],
+        "rating": 5.5,
+        "director": "Ben Addelman, Ziya Tong",
+        "runtime": 84,
+        "premiered": "2024-03-09",
+        "poster": "https://image.tmdb.org/t/p/w500/c4g82ZjkSJXAUnzxfU7yRW8V3dl.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3gzvzg16vCcHwmBVWRKRWABViGb.jpg",
+        "synopsis": "Cientistas investigam a ameaça dos microplásticos nos corpos humanos. Jornalista visita laboratórios e faz testes para encontrar plástico em casa, nos alimentos e no corpo.",
+        "studio": "White Pine Pictures"
+    },
+    {
+        "tmdb_id": 1300132,
+        "title": "Protegendo o Paraíso: A História de Niue",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b21841c99072694084f5133b08b0eab1d26a9aac"
+        ],
+        "year": 2024,
+        "genres": "Documentário",
+        "actors": [
+            {
+                "name": "Mona Ainu'u",
+                "photo": null
+            },
+            {
+                "name": "Alan Friedlander",
+                "photo": null
+            },
+            {
+                "name": "Launoa Gataua",
+                "photo": null
+            },
+            {
+                "name": "JinNam Hopotoa",
+                "photo": null
+            },
+            {
+                "name": "Ryan Jenkinson",
+                "photo": null
+            }
+        ],
+        "rating": 6.2,
+        "director": "",
+        "runtime": 45,
+        "premiered": "2024-06-07",
+        "poster": "https://image.tmdb.org/t/p/w500/8QjT0rbicohkCUc5143yiStHssU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/vwRSdopcxvafVz34tPUoXq47nuO.jpg",
+        "synopsis": "A National Geographic's Pristine Seas volta a Niue para estudar como a nova reserva marinha está ajudando a salvaguardar os recursos do oceano para as gerações futuras.",
+        "studio": "National Geographic Films"
+    },
+    {
+        "tmdb_id": 1167027,
+        "title": "A Extraordinaria Vida de Ibelin",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33a0d3a5b94eaa05d49ccb8382e4f27dc111cf08"
+        ],
+        "year": 2024,
+        "genres": "Documentário, Animação",
+        "actors": [
+            {
+                "name": "Mats Steen",
+                "photo": null
+            },
+            {
+                "name": "Robert Steen",
+                "photo": null
+            },
+            {
+                "name": "Trude Steen",
+                "photo": null
+            },
+            {
+                "name": "Mia Steen",
+                "photo": null
+            },
+            {
+                "name": "Kelsey Ellison",
+                "photo": null
+            }
+        ],
+        "rating": 8.1,
+        "director": "Benjamin Ree",
+        "runtime": 103,
+        "premiered": "2024-03-08",
+        "poster": "https://image.tmdb.org/t/p/w500/3KRdzmGq96bSV2dVU8mEKk4CocD.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sDBY5oI7I5SWSMWRpsTEmSBErfe.jpg",
+        "synopsis": "A vida secreta de um jovem jogador de World of Warcraft é reimaginada quando os amigos da internet entram com contato com a família dele após a morte.",
+        "studio": "Medieoperatørene"
+    },
+    {
+        "tmdb_id": 899082,
+        "title": "Comemoraçao de 20 anos de Harry Potter: De Volta a Hogwarts",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed391ff07b3a9f1be5e3a882efc6beca916a2912",
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e56230c9081f6a28d624ac27ce82b234333e46f5"
+        ],
+        "year": 2022,
+        "genres": "Documentário",
+        "actors": [
+            {
+                "name": "Daniel Radcliffe",
+                "photo": "https://image.tmdb.org/t/p/w185/iPg0J9UzAlPj1fLEJNllpW9IhGe.jpg"
+            },
+            {
+                "name": "Rupert Grint",
+                "photo": "https://image.tmdb.org/t/p/w185/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+            },
+            {
+                "name": "Emma Watson",
+                "photo": "https://image.tmdb.org/t/p/w185/A14lLCZYDhfYdBa0fFRpwMDiwRN.jpg"
+            },
+            {
+                "name": "Bonnie Wright",
+                "photo": "https://image.tmdb.org/t/p/w185/1O3bVJp2geFCqlDkOCJuTeSuqx.jpg"
+            },
+            {
+                "name": "Matthew Lewis",
+                "photo": "https://image.tmdb.org/t/p/w185/aPQCLK2gxWOallsFoEwjb1p9lWE.jpg"
+            }
+        ],
+        "rating": 7.3,
+        "director": "Joe Pearlman, Casey Patterson, Giorgio Testi, Eran Creevy",
+        "runtime": 103,
+        "premiered": "2022-01-01",
+        "poster": "https://image.tmdb.org/t/p/w500/bhY813zHKJStgUwl9kfBA3WDDPS.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/g8dafKwLfaueQ5GK0qjKTkRCBAA.jpg",
+        "synopsis": "Uma encantadora história de making-of contada por meio de novas entrevistas em profundidade e conversas com o elenco, convidando os fãs a uma jornada mágica em primeira pessoa através de uma das franquias de filmes mais amadas de todos os tempos.",
+        "studio": "Pulse Films"
+    },
+    {
+        "tmdb_id": 549559,
+        "title": "Apollo 11",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9da45a6835cc24379f1e269feea72fe9a7bda533",
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58e2c56f38ecab98aec1f7f4cbc41572656a2c3a"
+        ],
+        "year": 2019,
+        "genres": "Documentário, História, Drama",
+        "actors": [
+            {
+                "name": "Neil Armstrong",
+                "photo": "https://image.tmdb.org/t/p/w185/qFvQ2fS9RTGnOgWIUGSWaB6qWsO.jpg"
+            },
+            {
+                "name": "Buzz Aldrin",
+                "photo": "https://image.tmdb.org/t/p/w185/gUuAUCEAR3ut3ZX1a5iiz5tegk0.jpg"
+            },
+            {
+                "name": "Michael Collins",
+                "photo": null
+            },
+            {
+                "name": "Walter Cronkite",
+                "photo": "https://image.tmdb.org/t/p/w185/hCIBybvwP7aMqwJFxcmVEyNrRyB.jpg"
+            },
+            {
+                "name": "Bruce McCandless II",
+                "photo": null
+            }
+        ],
+        "rating": 7.9,
+        "director": "Todd Douglas Miller",
+        "runtime": 93,
+        "premiered": "2019-03-01",
+        "poster": "https://image.tmdb.org/t/p/w500/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/el4j0LHk56uH6ErE5FZu2x5UJx8.jpg",
+        "synopsis": "Com o plano de desembarcar dois astronautas na superfície lunar e regressar para a Terra em segurança, a missão Apollo 11 é até hoje uma grande referência quando se trata de momentos importantes na humanidade. Durante décadas, trechos dos bastidores permaneceram guardados e apenas recentemente foram liberados para visualização do público no geral.",
+        "studio": "Statement Pictures"
+    },
+    {
+        "tmdb_id": 6114,
+        "title": "Dracula de Bram Stoker",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92f5fe65c7e06a7bd2da026cf201600557c818d9"
+        ],
+        "year": 1992,
+        "genres": "Romance, Terror",
+        "actors": [
+            {
+                "name": "Gary Oldman",
+                "photo": "https://image.tmdb.org/t/p/w185/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+            },
+            {
+                "name": "Winona Ryder",
+                "photo": "https://image.tmdb.org/t/p/w185/dlffgYbqr1BllWacVLhAFw23nLl.jpg"
+            },
+            {
+                "name": "Anthony Hopkins",
+                "photo": "https://image.tmdb.org/t/p/w185/iaf7SHSkGDpnyrDh1Jolilwk2TD.jpg"
+            },
+            {
+                "name": "Keanu Reeves",
+                "photo": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+            },
+            {
+                "name": "Sadie Frost",
+                "photo": "https://image.tmdb.org/t/p/w185/ux1Ki77DMc9k2exzxUVAXM6y4pA.jpg"
+            }
+        ],
+        "rating": 7.45,
+        "director": "Francis Ford Coppola",
+        "runtime": 128,
+        "premiered": "1992-11-13",
+        "poster": "https://image.tmdb.org/t/p/w500/6JnvgcFX5bNZC6Xq2FPURBJFCxH.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/tyBkBHKDrJyVUeCs550kMr61jnq.jpg",
+        "synopsis": "O vampiro Conde Drácula vem à Inglaterra atrás de quem ele acredita ser sua antiga paixão, de quando ainda era um mortal.",
+        "studio": "American Zoetrope"
+    },
+    {
+        "tmdb_id": 407445,
+        "title": "Uma Razao para Viver",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f970950d3e7d34cf26d56a361f92a280051fd987",
+            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=nfF7SJctM6C244vOdPPTv4ojVJF6qJfyEpSPYYVV0Ol6KKcNbnjNMyQhHDx2wqbe&expiry=OK6hBWucbjPNwCsKy6qwtA%3D%3D&mac=77aa5f6ee59502b30f4dc99d4819c18253e611f1d1a937e4a68a4c13d32c0bfe"
+        ],
+        "year": 2017,
+        "genres": "Drama, Romance",
+        "actors": [
+            {
+                "name": "Andrew Garfield",
+                "photo": "https://image.tmdb.org/t/p/w185/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
+            },
+            {
+                "name": "Claire Foy",
+                "photo": "https://image.tmdb.org/t/p/w185/i8M7bLEJ2OF0P7GplTIEq46pA2J.jpg"
+            },
+            {
+                "name": "Hugh Bonneville",
+                "photo": "https://image.tmdb.org/t/p/w185/skbxj8MUuNiI39ZkP38uEirU0bC.jpg"
+            },
+            {
+                "name": "Tom Hollander",
+                "photo": "https://image.tmdb.org/t/p/w185/cqZiJsImFZ6TaeShRRg49AZ9TyT.jpg"
+            },
+            {
+                "name": "Miranda Raison",
+                "photo": "https://image.tmdb.org/t/p/w185/eEZi02e07nZ3qG6DA8dYRAVVEHh.jpg"
+            }
+        ],
+        "rating": 7.44,
+        "director": "Andy Serkis",
+        "runtime": 118,
+        "premiered": "2017-10-13",
+        "poster": "https://image.tmdb.org/t/p/w500/wadLTGQDiHCPndo6rPHKWCpUZql.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/quVfDYktBYQfojgZ3E9pYrclGse.jpg",
+        "synopsis": "A história real de Robin, um homem brilhante e aventureiro que fica paralisado por conta da poliomelite. Contra todos os conselhos, ele e sua amada Diana se recusam a ser aprisionados pelo sofrimento e vivem uma intensa história de amor, com cada respiração como se fosse a última.",
+        "studio": "The Imaginarium"
+    },
 	{
         "tmdb_id": 1117027,
         "title": "Cassino em Ísquia",
