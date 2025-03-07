@@ -795,23 +795,28 @@
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f67fd75f3759d1eac7c03349031be0a3d4666c8"
                     },
                     {
-                        "title": "1x04. PROBLEMAS EM MARTE",
+                        "title": "PROBLEMAS EM MARTE",
+						"episode": 4,
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6bb8050fd5437b3d2e2e7840a513111c6124ec00"
                     },
                     {
-                        "title": "1x05. ESSA DOEU DE VERDADE",
+                        "title": "ESSA DOEU DE VERDADE",
+						"episode": 5,
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad167b42e18e65e0fd42832385c8f559c862bf41"
                     },
                     {
-                        "title": "1x06. EU SÓ QUERO O PROGRESSO",
+                        "title": "EU SÓ QUERO O PROGRESSO",
+						"episode": 6,
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11caceba76be7ebeb9475c1e7d4144b6a4487d37"
                     },
                     {
-                        "title": "1x07. PRECISMOS CONVERSAR",
+                        "title": "PRECISMOS CONVERSAR",
+						"episode": 7,
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13f079c7b4c54302af71c8fc9a724399b4d05f96"
                     },
                     {
-                        "title": "1x08. A VERDADE",
+                        "title": "A VERDADE",
+						"episode": 8,
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6546e8de7a8346f704a634b7682815ab5b75e258"
                     }
                 ]
@@ -822,18 +827,22 @@
                 "episodios": [
                     {
                         "title": "2x01. UMA LIÇÃO PARA SUA PRÓXIMA VIDA",
+						"episode": 1,
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38fb0518a33f820de2cf5e6d40b4ecee778f7d3d"
                     },
                     {
                         "title": "2x02. EM CERCA DE SEIS HORAS PERCO MINHA VIRGINDADE PARA UM PEIXE",
+						"episode": 2,
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a77698d552395115c9b7de8fc36ddefd1771630"
                     },
                     {
                         "title": "2x03. ESTA MISSIVA, ESTA MAQUINAÇÃO!",
+						"episode": 3,
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95fc30bc85064f4287f0557d178aaa73e7e7b2b6"
                     },
                     {
                         "title": "2x04. JÁ FAZ UM TEMPO",
+						"episode": 4,
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c0b348fa62f9db499f4dd51da5305d845d74385"
                     }
                 ]
@@ -847,15 +856,18 @@
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a99fcf46b22756f9d12ecadb9ba4686b0b90fa41"
                     },
                     {
-                        "title": "3x04. VOCÊ ERA MEU HERÓI",
+                        "title": "VOCÊ ERA MEU HERÓI",
+						"episode": 4,
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a11285bf3a872c884959492c523907052abd58a"
                     },
                     {
-                        "title": "3x05. ERA PARA ISSO SER FÁCIL",
+                        "title": "ERA PARA ISSO SER FÁCIL",
+						"episode": 5,
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1846550aa9695d601caac1e19b14d8e38d7bb98e"
                     },
                     {
-                        "title": "3x06. SÓ POSSO PEDIR DESCULPAS",
+                        "title": "SÓ POSSO PEDIR DESCULPAS",
+						"episode": 6,
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79ac564cca45b5a6c36151d08824b69957c76eeb"
                     }
                 ]
