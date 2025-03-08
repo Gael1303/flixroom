@@ -192,94 +192,168 @@
         ]
     },
     {
-        "title": "Ruptura",
-        "rate": 8.1,
-        "year": 2022,
-        "aired": "17/02/2022",
-        "sinopse": "Mark lidera uma equipe de funcionários de escritório cujas memórias foram divididas cirurgicamente entre a vida no trabalho e a vida pessoal. Quando um colega de trabalho misterioso aparece fora do escritório, ele começa uma jornada para descobrir a verdade sobre seu trabalho.",
-        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d09X5AzxBq4GkHL6j8pmkDPySfA.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/npD65vPa4vvn1ZHpp3o05A5vdKT.jpg",
-        "studio": "Apple TV+",
-        "genres": "Drama, Mistério, Sci-Fi & Fantasia",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/vLRQ1W8VCMMfJLinwPpgt0ab5nO.jpg",
-                "episodios": [
-                    {
-                        "title": "1x01-2. Boas notícias sobre o inferno",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5cf4b504adf871fadc06d88bd83a5fa50f0d52b5"
-                    },
-                    {
-                        "title": "1x03. Na perpetuidade",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73239ed9da1cc3c63a4c3c110f8bfb0509236730"
-                    },
-                    {
-                        "title": "1x04. O você que você é",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce96d25aec0710e01816cffa05f3009fa0c3e014"
-                    },
-                    {
-                        "title": "1x05. A cruel barbárie da Óptica e Design",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecd0eca1271d7e1fe5861244d8ca339651715682"
-                    },
-                    {
-                        "title": "1x06. Esconde-esconde",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AVY5Y2WAAISLWMST7WRWC7RQJBO4N4FI"
-                    },
-                    {
-                        "title": "1x07. Jazz desafiador",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RFYTNL4JPEHWAPLZRC6VOH6RAZFJMH77"
-                    },
-                    {
-                        "title": "1x08. O que tem pra jantar?",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4Y52OQZV7JRLBM2JKMBWFR6IO4OEKKHG"
-                    },
-                    {
-                        "title": "1x09. O nós que nós somos",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:X3WO6UHOU2XQFQ4GFS6NX33DK4AODHNT"
-                    },
-                    {
-                        "title": "1ª Temporada (4K)",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5cf77e2dc5b3805560ab0604f261f9cfe375f79b"
-                    }
-                ]
-            },
-            {
-                "title": "2ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/w342/8tK6AnbN2zVzhRQ2yeza4Wry4ji.jpg",
-                "episodios": [
-                    {
-                        "title": "2x01. Olá, senhora Cobel",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0548cb3ad5773265056d4ed36c5500530d820adf"
-                    },
-                    {
-                        "title": "2x02. Adeus, senhora Selvig",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6d55cccf50f1c75d12615037a9868d6a8fe98c8"
-                    },
-                    {
-                        "title": "2x03. Quem está viva?",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6efaefb823322f69af3bb50a8ac996220c8fb60c"
-                    },
-                    {
-                        "title": "2x04. Vale da aflição",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe2df70aae97e82a62bf2d0b41ad69c254512c9d"
-                    },
-                    {
-                        "title": "2x05. Cavalo de Troia",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dd1eaaa61d4ff5b3dc4f0d0b11f20dbebfadeb6"
-                    },
-                    {
-                        "title": "2x06. Átila",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d240a759f66b29d5805012fe439eed35be6db108"
-                    },
-                    {
-                        "title": "2x07. Chikhai Bardo",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1f7819a618ba43ea80a530eeb8fb3e0e2b7b8fe"
-                    }
-                ]
-            }
-        ]
-    },
+    "title": "Ruptura",
+    "rate": 8.405,
+    "classification": "16",
+    "year": 2022,
+    "aired": "17/02/2022",
+    "sinopse": "Mark lidera uma equipe de funcionários de escritório cujas memórias foram divididas cirurgicamente entre a vida no trabalho e a vida pessoal. Quando um colega de trabalho misterioso aparece fora do escritório, ele começa uma jornada para descobrir a verdade sobre seu trabalho.",
+    "poster": "https://image.tmdb.org/t/p/original/3DjOAUBR8Hra4R9kK9U8jDaoqyC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/8MtMFngDWvIdRo34rz3ao0BGBAe.jpg",
+    "studio": "Apple TV+",
+    "genres": "Drama, Mistério, Sci-Fi & Fantasy",
+    "temporadas": [
+        {
+            "title": "1ª Temporada",
+            "rate": 8.4,
+            "sinopse": "A Lumon Industries pratica o procedimento de ‘ruptura’, que separa cirurgicamente memórias de trabalho das memórias não relacionadas ao trabalho de seus funcionários.",
+            "poster": "https://image.tmdb.org/t/p/original/d09X5AzxBq4GkHL6j8pmkDPySfA.jpg",
+            "episodios": [
+                {
+                    "title": "Boas notícias sobre o inferno",
+                    "episode": 1,
+                    "rate": 8.081,
+                    "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5cf4b504adf871fadc06d88bd83a5fa50f0d52b5",
+                    "poster": "https://image.tmdb.org/t/p/original/8Ppx99arhViF65p9R12oSI8ie2h.jpg"
+                },
+                {
+                    "title": "Meia volta",
+                    "episode": 2,
+                    "rate": 8.132,
+                    "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5cf4b504adf871fadc06d88bd83a5fa50f0d52b5",
+                    "poster": "https://image.tmdb.org/t/p/original/kvnyls1KdlHLxxefg4SODDXMfxp.jpg"
+                },
+                {
+                    "title": "Na perpetuidade",
+                    "episode": 3,
+                    "rate": 8.058,
+                    "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73239ed9da1cc3c63a4c3c110f8bfb0509236730",
+                    "poster": "https://image.tmdb.org/t/p/original/yezUFOqLt0U3haSYc5gIBzfsPvo.jpg"
+                },
+                {
+                    "title": "O você que você é",
+                    "episode": 4,
+                    "rate": 8.299,
+                    "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce96d25aec0710e01816cffa05f3009fa0c3e014",
+                    "poster": "https://image.tmdb.org/t/p/original/dzQJeDznS0I4spAqTImiLH9p252.jpg"
+                },
+                {
+                    "title": "A cruel barbárie da Óptica e Design",
+                    "episode": 5,
+                    "rate": 8.109,
+                    "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecd0eca1271d7e1fe5861244d8ca339651715682",
+                    "poster": "https://image.tmdb.org/t/p/original/oy4BZotFbNX5YoPkWuWF3kcdMVw.jpg"
+                },
+                {
+                    "title": "Esconde-esconde",
+                    "episode": 6,
+                    "rate": 8.148,
+                    "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0571dc6ac00224bb3253fda3617e30485dc6f0a8",
+                    "poster": "https://image.tmdb.org/t/p/original/3fQp0pUtgDkqqyEbXY8KKCZPMU7.jpg"
+                },
+                {
+                    "title": "Jazz desafiador",
+                    "episode": 7,
+                    "rate": 8.662,
+                    "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:897136af89790f603d7988bd571fd1064a961fff",
+                    "poster": "https://image.tmdb.org/t/p/original/gHoKlbC2esqq3SXm0ZCcl3bzpFZ.jpg"
+                },
+                {
+                    "title": "O que tem pra jantar?",
+                    "episode": 8,
+                    "rate": 8.73,
+                    "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e63ba74335fa62b0b349530362c7c8771c4528e6",
+                    "poster": "https://image.tmdb.org/t/p/original/hmfoVewhL4AxkU6ffUyn9OVsFxD.jpg"
+                },
+                {
+                    "title": "O nós que nós somos",
+                    "episode": 9,
+                    "rate": 9.273,
+                    "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:beecef50eea6af02c3862cbcdbef635700e19db3",
+                    "poster": "https://image.tmdb.org/t/p/original/dzx8D2B0ELncXuCNwtPCags43Q.jpg"
+                }
+            ]
+        },
+        {
+            "title": "2ª Temporada",
+            "rate": 8.3,
+            "sinopse": "Na segunda temporada, Mark e seus amigos descobrem as terríveis consequências de mexer com a barreira de separação, que os leva a um sofrimento ainda maior.",
+            "poster": "https://image.tmdb.org/t/p/original/vybaYLoYv8eLQzYzFD7YFUmazrA.jpg",
+            "episodios": [
+                {
+                    "title": "Olá, senhora Cobel",
+                    "episode": 1,
+                    "rate": 7.837,
+                    "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0548cb3ad5773265056d4ed36c5500530d820adf",
+                    "poster": "https://image.tmdb.org/t/p/original/a97vNY8Knu45FLQib0uQZ2VReLy.jpg"
+                },
+                {
+                    "title": "Adeus, senhora Selvig",
+                    "episode": 2,
+                    "rate": 7.706,
+                    "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6d55cccf50f1c75d12615037a9868d6a8fe98c8",
+                    "poster": "https://image.tmdb.org/t/p/original/wjlSkqMoLngSO6fv2Ajt2CIeCSi.jpg"
+                },
+                {
+                    "title": "Quem está viva?",
+                    "episode": 3,
+                    "rate": 8.029,
+                    "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6efaefb823322f69af3bb50a8ac996220c8fb60c",
+                    "poster": "https://image.tmdb.org/t/p/original/e7zJAljtx56xaWxS2B92b8XHNvB.jpg"
+                },
+                {
+                    "title": "Vale da aflição",
+                    "episode": 4,
+                    "rate": 8.412,
+                    "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe2df70aae97e82a62bf2d0b41ad69c254512c9d",
+                    "poster": "https://image.tmdb.org/t/p/original/mioOOhTaShLd1MPKsmfirbe9AwI.jpg"
+                },
+                {
+                    "title": "Cavalo de Troia",
+                    "episode": 5,
+                    "rate": 8.185,
+                    "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dd1eaaa61d4ff5b3dc4f0d0b11f20dbebfadeb6",
+                    "poster": "https://image.tmdb.org/t/p/original/7Gw2DWAbhsBREKFbM2S0h5sD0tL.jpg"
+                },
+                {
+                    "title": "Átila",
+                    "episode": 6,
+                    "rate": 7.522,
+                    "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d240a759f66b29d5805012fe439eed35be6db108",
+                    "poster": "https://image.tmdb.org/t/p/original/l9CC3onLMDBDKxs6Ie0yIWI8VmC.jpg"
+                },
+                {
+                    "title": "Chikhai Bardo",
+                    "episode": 7,
+                    "rate": 8.222,
+                    "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1f7819a618ba43ea80a530eeb8fb3e0e2b7b8fe",
+                    "poster": "https://image.tmdb.org/t/p/original/TvmP8feIm1Q2TOqSIrDZVMnaVA.jpg"
+                },
+                {
+                    "title": "Doce vitríolo",
+                    "episode": 8,
+                    "rate": 9.0,
+                    "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17d57a19eb0f708265123935edc65d7a5faab239",
+                    "poster": "https://image.tmdb.org/t/p/original/piWjCKARsSkmr9kMKHZ5ynengj3.jpg"
+                },
+                {
+                    "title": "Depois do expediente",
+                    "episode": 9,
+                    "rate": 10.0,
+                    "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:",
+                    "poster": "https://image.tmdb.org/t/p/original/2RJaWjY4dD5s7jpdo2aGeSLmtI3.jpg"
+                },
+                {
+                    "title": "Episódio 10",
+                    "episode": 10,
+                    "rate": 0.0,
+                    "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:",
+                    "poster": "https://image.tmdb.org/t/p/originalNone"
+                }
+            ]
+        }
+    ]
+},
     {
         "tmdb_id": 1204892,
         "title": "Queimando o Filme",
