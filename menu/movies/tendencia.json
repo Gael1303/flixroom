@@ -60,7 +60,13 @@
                 "poster": "https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg",
                 "episodios": [
                     {
-                        "title": "1x01 e 02 Meia Hora do Céu / Ótica",
+                        "title": "Meia Hora do Céu",
+                        "episode": 1,
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:602a89697de71b0e242478f9b8cb4fe326cc577d"
+                    },
+                    {
+                        "title": "Ótica",
+                        "episode": 2,
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:602a89697de71b0e242478f9b8cb4fe326cc577d"
                     }
                 ]
@@ -186,6 +192,10 @@
                     {
                         "title": "3x04. Dominique",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0334cb228b1117a1b5b571e710a20c0275686080"
+                    },
+                    {
+                        "title": "3x04. Confronto",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12f403bfd7c203f1732fdd6f54b9287b8deefde4"
                     }
                 ]
             }
