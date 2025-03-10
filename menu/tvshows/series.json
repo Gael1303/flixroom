@@ -6940,32 +6940,36 @@
                 "poster": "https://image.tmdb.org/t/p/w342/8tK6AnbN2zVzhRQ2yeza4Wry4ji.jpg",
                 "episodios": [
                     {
-                        "title": "2x01. Olá, senhora Cobel",
+                        "title": "01. Olá, senhora Cobel",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0548cb3ad5773265056d4ed36c5500530d820adf"
                     },
                     {
-                        "title": "2x02. Adeus, senhora Selvig",
+                        "title": "02. Adeus, senhora Selvig",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6d55cccf50f1c75d12615037a9868d6a8fe98c8"
                     },
                     {
-                        "title": "2x03. Quem está viva?",
+                        "title": "03. Quem está viva?",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6efaefb823322f69af3bb50a8ac996220c8fb60c"
                     },
                     {
-                        "title": "2x04. Vale da aflição",
+                        "title": "04. Vale da aflição",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe2df70aae97e82a62bf2d0b41ad69c254512c9d"
                     },
                     {
-                        "title": "2x05. Cavalo de Troia",
+                        "title": "05. Cavalo de Troia",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dd1eaaa61d4ff5b3dc4f0d0b11f20dbebfadeb6"
                     },
                     {
-                        "title": "2x06. Átila",
+                        "title": "06. Átila",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d240a759f66b29d5805012fe439eed35be6db108"
                     },
                     {
-                        "title": "2x07. Chikhai Bardo",
+                        "title": "07. Chikhai Bardo",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1f7819a618ba43ea80a530eeb8fb3e0e2b7b8fe"
+                    },
+                    {
+                        "title": "08. Doce vitríolo",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17d57a19eb0f708265123935edc65d7a5faab239"
                     }
                 ]
             }
@@ -8138,27 +8142,27 @@
                 "poster": "https://image.tmdb.org/t/p/original/oVw8KUQn1RSDd8KmknpvIc34JtY.jpg",
                 "episodios": [
                     {
-                        "title": "2X1 ao 3",
+                        "title": "01 ao 3",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b802b81002803ab0464ef1e612aa0f8a4fa31fbf"
                     },
                     {
-                        "title": "2X4 - Uma Noite na Sinfonia",
+                        "title": "04 - Uma Noite na Sinfonia",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e96a166e4f520e98639537cc8a1bfbfd683b1fc"
                     },
                     {
-                        "title": "2X5 - Enterro",
+                        "title": "05 - Enterro",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95658eafe280ee62eb210846fe1da4afb40b86fe"
                     },
                     {
-                        "title": "2X6 - A Polícia de Nova York",
+                        "title": "66 - A Polícia de Nova York",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc9c49bf08bdf5c45365d4ec25c189aae75f34ca"
                     },
                     {
-                        "title": "2X7 - Cumprindo o que Prometeu",
+                        "title": "07 - Cumprindo o que Prometeu",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4c0e8cd8a58a7ab5c42d12354fceb261ca51913"
                     },
                     {
-                        "title": "2X8 - Voador",
+                        "title": "08 - Voador",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f5314cd3c919cc767c8094c688664a74660088d"
                     }
                 ]
@@ -8168,12 +8172,16 @@
                 "poster": "https://image.tmdb.org/t/p/w342/uF5v0SPpKzC9dWXIspA1x2zEDKO.jpg",
                 "episodios": [
                     {
-                        "title": "3x01 , 02 e 03",
+                        "title": "01 , 02 e 03",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1d7ecdab766e1b9753655b9cf1daea7a192893b"
                     },
                     {
-                        "title": "3x04. Dominique",
+                        "title": "04. Dominique",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0334cb228b1117a1b5b571e710a20c0275686080"
+                    },
+                    {
+                        "title": "04. Confronto",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12f403bfd7c203f1732fdd6f54b9287b8deefde4"
                     }
                 ]
             }
@@ -11311,12 +11319,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/sOhUmdY6xoniIjGzFCD0Zf56u3s.jpg",
                 "episodios": [
                     {
-                        "title": "1x01 ao 03. Um Pastor e Um Rei / Um Abismo Chama Outro Abismo / A Unção",
+                        "title": "01 ao 03. Um Pastor e Um Rei / Um Abismo Chama Outro Abismo / A Unção",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef5dd57f0931b64e258b52c94a6b1b6a6fe1c7b7"
                     },
                     {
-                        "title": "1x04. A Canção de Moisés [Breve]",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                        "title": "04. A Canção de Moisés",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cad8788d3d7fc171b90ce03ce1039a619277a3d7"
                     },
                     {
                         "title": "1x05. O Lobo e o Leão [Breve]",
