@@ -1,5 +1,46 @@
 [
     {
+        "tmdb_id": 604685,
+        "title": "Covil de Ladrões 2",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc39dfd7a0bbd5eab3a02ed241ee91a1549dc411"
+        ],
+        "year": 2025,
+        "genres": "Ação, Crime, Thriller",
+        "actors": [
+            {
+                "name": "Gerard Butler",
+                "photo": "https://image.tmdb.org/t/p/w185/n7sTgAGHyL3u9KIOVWjVLRA1fyi.jpg"
+            },
+            {
+                "name": "O'Shea Jackson Jr.",
+                "photo": "https://image.tmdb.org/t/p/w185/zov23iUpL3QFHqzjdtzrBGOQYaF.jpg"
+            },
+            {
+                "name": "Evin Ahmad",
+                "photo": "https://image.tmdb.org/t/p/w185/806b9K90Q2Da3IKvm3EISMDnSfQ.jpg"
+            },
+            {
+                "name": "Salvatore Esposito",
+                "photo": "https://image.tmdb.org/t/p/w185/lvTeMD1NqYmYbaH0jYek2oXaSvR.jpg"
+            },
+            {
+                "name": "Meadow Williams",
+                "photo": "https://image.tmdb.org/t/p/w185/7CQHKHgjAEcKaeTOZ2XsBVoT6Uz.jpg"
+            }
+        ],
+        "rating": 6.751,
+        "director": "Christian Gudegast",
+        "runtime": 144,
+        "premiered": "2025-01-08",
+        "poster": "https://image.tmdb.org/t/p/w500/lwU8lY65QqcLOTVlZvL4Dse1h69.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mKIxSo3p1QKlsdegcOwapcbiV74.jpg",
+        "synopsis": "Big Nick está de volta à caça na Europa e se aproximando de Donnie, que está envolvido no mundo traiçoeiro e imprevisível dos ladrões de diamantes e da infame máfia dos Panteras, enquanto eles planejam um grande assalto à maior bolsa de diamantes do mundo.",
+        "studio": "Diamond Film Productions",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/wBdiXP97IywqIS3aTkAIcX8kM1d.png",
+        "popularity": 42.929
+    },	
+    {
         "tmdb_id": 1000837,
         "title": "Ainda Estou Aqui",
         "url": [
@@ -41,47 +82,6 @@
         "popularity": 31.095,
         "clearlogo": "https://image.tmdb.org/t/p/w500/swdCAsTAp1XSSRSe0QGo7y6fG1V.png"
     },
-    {
-        "tmdb_id": 604685,
-        "title": "Covil de Ladrões 2",
-        "url": [
-            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc39dfd7a0bbd5eab3a02ed241ee91a1549dc411"
-        ],
-        "year": 2025,
-        "genres": "Ação, Crime, Thriller",
-        "actors": [
-            {
-                "name": "Gerard Butler",
-                "photo": "https://image.tmdb.org/t/p/w185/n7sTgAGHyL3u9KIOVWjVLRA1fyi.jpg"
-            },
-            {
-                "name": "O'Shea Jackson Jr.",
-                "photo": "https://image.tmdb.org/t/p/w185/zov23iUpL3QFHqzjdtzrBGOQYaF.jpg"
-            },
-            {
-                "name": "Evin Ahmad",
-                "photo": "https://image.tmdb.org/t/p/w185/806b9K90Q2Da3IKvm3EISMDnSfQ.jpg"
-            },
-            {
-                "name": "Salvatore Esposito",
-                "photo": "https://image.tmdb.org/t/p/w185/lvTeMD1NqYmYbaH0jYek2oXaSvR.jpg"
-            },
-            {
-                "name": "Meadow Williams",
-                "photo": "https://image.tmdb.org/t/p/w185/7CQHKHgjAEcKaeTOZ2XsBVoT6Uz.jpg"
-            }
-        ],
-        "rating": 6.751,
-        "director": "Christian Gudegast",
-        "runtime": 144,
-        "premiered": "2025-01-08",
-        "poster": "https://image.tmdb.org/t/p/w500/lwU8lY65QqcLOTVlZvL4Dse1h69.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/mKIxSo3p1QKlsdegcOwapcbiV74.jpg",
-        "synopsis": "Big Nick está de volta à caça na Europa e se aproximando de Donnie, que está envolvido no mundo traiçoeiro e imprevisível dos ladrões de diamantes e da infame máfia dos Panteras, enquanto eles planejam um grande assalto à maior bolsa de diamantes do mundo.",
-        "studio": "Diamond Film Productions",
-        "clearlogo": "https://image.tmdb.org/t/p/w500/wBdiXP97IywqIS3aTkAIcX8kM1d.png",
-        "popularity": 42.929
-    },	
     {
         "tmdb_id": 1233208,
         "title": "Santosh: Vozes da Hierarquia",
