@@ -1,8 +1,390 @@
 [
-	
-	{
-		"status": "off"
-	}
-
-	
+    {
+        "tmdb_id": 1000837,
+        "title": "Ainda Estou Aqui",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1aaf1c1354a14cc2f4efb1aa2c87f0cffc19b96e",	
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94ce76385cc5844e3a018986fa042285ee94fe37",
+	    "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f18c6d54601662620fbcaaf1dddfacd6fdb53de"
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/r7TD7HhzlUYfWIS7ZqSgNxylkXV.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/yUOJzi3qIeXCAK1nZ7el7DUBDNV.jpg",
+        "synopsis": "No início da década de 1970, o Brasil enfrenta o endurecimento da ditadura militar. No Rio de Janeiro, a família Paiva – Rubens, Eunice e seus cinco filhos – vive à beira da praia em uma casa de portas abertas para os amigos. Um dia, Rubens Paiva é levado por militares à paisana e desaparece.",
+        "studio": "VideoFilmes",
+        "year": 2024,
+        "genres": "Drama, História",
+        "actors": [
+            {
+                "name": "Fernanda Torres",
+                "photo": "https://image.tmdb.org/t/p/w185/dkxdADNwbM7ZLQK5YBNeKBqVJNM.jpg"
+            },
+            {
+                "name": "Selton Mello",
+                "photo": "https://image.tmdb.org/t/p/w185/sd9pWha3ThWyX5DPsVnZVPKSJ9W.jpg"
+            },
+            {
+                "name": "Valentina Herszage",
+                "photo": "https://image.tmdb.org/t/p/w185/uJxN1QpU7XJzeg2navvMIQOGAjj.jpg"
+            },
+            {
+                "name": "Bárbara Luz",
+                "photo": "https://image.tmdb.org/t/p/w185/im8iKs98xlvkUjnwt2wVRkzLNm5.jpg"
+            },
+            {
+                "name": "Guilherme Silveira",
+                "photo": null
+            }
+        ],
+        "rating": 8.0,
+        "director": "Walter Salles",
+        "runtime": 135,
+        "premiered": "2024-09-19",
+        "popularity": 31.095,
+        "clearlogo": "https://image.tmdb.org/t/p/w500/swdCAsTAp1XSSRSe0QGo7y6fG1V.png"
+    },
+    {
+        "tmdb_id": 604685,
+        "title": "Covil de Ladrões 2",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc39dfd7a0bbd5eab3a02ed241ee91a1549dc411"
+        ],
+        "year": 2025,
+        "genres": "Ação, Crime, Thriller",
+        "actors": [
+            {
+                "name": "Gerard Butler",
+                "photo": "https://image.tmdb.org/t/p/w185/n7sTgAGHyL3u9KIOVWjVLRA1fyi.jpg"
+            },
+            {
+                "name": "O'Shea Jackson Jr.",
+                "photo": "https://image.tmdb.org/t/p/w185/zov23iUpL3QFHqzjdtzrBGOQYaF.jpg"
+            },
+            {
+                "name": "Evin Ahmad",
+                "photo": "https://image.tmdb.org/t/p/w185/806b9K90Q2Da3IKvm3EISMDnSfQ.jpg"
+            },
+            {
+                "name": "Salvatore Esposito",
+                "photo": "https://image.tmdb.org/t/p/w185/lvTeMD1NqYmYbaH0jYek2oXaSvR.jpg"
+            },
+            {
+                "name": "Meadow Williams",
+                "photo": "https://image.tmdb.org/t/p/w185/7CQHKHgjAEcKaeTOZ2XsBVoT6Uz.jpg"
+            }
+        ],
+        "rating": 6.751,
+        "director": "Christian Gudegast",
+        "runtime": 144,
+        "premiered": "2025-01-08",
+        "poster": "https://image.tmdb.org/t/p/w500/lwU8lY65QqcLOTVlZvL4Dse1h69.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mKIxSo3p1QKlsdegcOwapcbiV74.jpg",
+        "synopsis": "Big Nick está de volta à caça na Europa e se aproximando de Donnie, que está envolvido no mundo traiçoeiro e imprevisível dos ladrões de diamantes e da infame máfia dos Panteras, enquanto eles planejam um grande assalto à maior bolsa de diamantes do mundo.",
+        "studio": "Diamond Film Productions",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/wBdiXP97IywqIS3aTkAIcX8kM1d.png",
+        "popularity": 42.929
+    },	
+    {
+        "tmdb_id": 1233208,
+        "title": "Santosh: Vozes da Hierarquia",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf1e33816f145387a9a297f14b7b8611069c442e"
+        ],
+        "year": 2024,
+        "genres": "Crime, Drama, Thriller",
+        "actors": [
+            {
+                "name": "Shahana Goswami",
+                "photo": "https://image.tmdb.org/t/p/w185/huexJWjPKR940RPiUAtXyzkx6Jf.jpg"
+            },
+            {
+                "name": "Sunita Rajwar",
+                "photo": "https://image.tmdb.org/t/p/w185/cEhnGiU6arxA4vxZCUspFWDP76F.jpg"
+            },
+            {
+                "name": "Naval Shukla",
+                "photo": "https://image.tmdb.org/t/p/w185/lJAKcetFitMb4PgQAzQniYe9ROe.jpg"
+            },
+            {
+                "name": "Sanjay Bishnoi",
+                "photo": "https://image.tmdb.org/t/p/w185/A9bYH6T7GLffZoj1wR9PgkrJOnW.jpg"
+            },
+            {
+                "name": "Shashi Beniwal",
+                "photo": null
+            }
+        ],
+        "rating": 7.2,
+        "director": "Sandhya Suri",
+        "runtime": 128,
+        "premiered": "2024-07-17",
+        "poster": "https://image.tmdb.org/t/p/w500/5qkog1Esn1OKOoreg42Z1mIP0Fw.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/c6DH4DO5Gf1MRuFIA8omh2b6psn.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/3JNLORSM8rE6pgfwrWgIlaqYBOk.png",
+        "synopsis": "Um esquema do governo faz com que Santosh, uma recém-viúva, herde o trabalho de seu marido como policial nas terras rurais do norte da Índia. Quando uma menina de casta inferior é assassinada, Santosh é puxada para a investigação e começa a explorar seu novo poder, enquanto se envolve em uma teia de misoginia e preconceito.",
+        "studio": "Good Chaos"
+    },
+    {
+        "tmdb_id": 1104845,
+        "title": "Plankton: O Filme",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4f4c102e41bc9a2be2baf80bd3ece25ae8bb099"
+        ],
+        "year": 2025,
+        "genres": "Animação, Aventura, Comédia, Família, Fantasia",
+        "actors": [
+            {
+                "name": "Mr. Lawrence",
+                "photo": "https://image.tmdb.org/t/p/w185/9EOlQ6YG8zQOwTn10dQewYOyQ6C.jpg"
+            },
+            {
+                "name": "Jill Talley",
+                "photo": "https://image.tmdb.org/t/p/w185/x0r43qyI9KNEyb5RsF0MckqxgfM.jpg"
+            },
+            {
+                "name": "Tom Kenny",
+                "photo": "https://image.tmdb.org/t/p/w185/dKOxpGnRkIMaPkZSHKIns99WxQa.jpg"
+            },
+            {
+                "name": "Bill Fagerbakke",
+                "photo": "https://image.tmdb.org/t/p/w185/zntKKc1uT53BnIihmzbq601eWKZ.jpg"
+            },
+            {
+                "name": "Rodger Bumpass",
+                "photo": "https://image.tmdb.org/t/p/w185/lGQkw6adxqB6Hcm7VK8nVHbKupe.jpg"
+            }
+        ],
+        "rating": 7.2,
+        "director": "Dave Needham",
+        "runtime": 87,
+        "premiered": "2025-03-08",
+        "poster": "https://image.tmdb.org/t/p/w500/xODFawcWmxx2vn7rCw3KrdZmtmy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/lsgT602GYV8ts97sKH1gWFtQs1k.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/xYo2LM6iYg1lsxWImV9IWewa0oz.png",
+        "synopsis": "A emaranhada história de amor de Plankton e sua esposa-computador vira um desastre quando ela decide destruir o mundo sem ele.",
+        "studio": "Nickelodeon Movies"
+    },
+    {
+        "tmdb_id": 1418522,
+        "title": "Delicious",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5df35db296e67dac78e532206ea38f331fa9dc70"
+        ],
+        "year": 2025,
+        "genres": "Thriller, Drama",
+        "actors": [
+            {
+                "name": "Valerie Pachner",
+                "photo": "https://image.tmdb.org/t/p/w185/oNrQcvw8DbpPuhWJ5bt0t5sXDf7.jpg"
+            },
+            {
+                "name": "Fahri Yardım",
+                "photo": "https://image.tmdb.org/t/p/w185/wO4U2qYkayOHwStZXWc5YHnnLCA.jpg"
+            },
+            {
+                "name": "Carla Díaz",
+                "photo": "https://image.tmdb.org/t/p/w185/lSPsk1VHxM9G9a4fgoXIWXLzBnC.jpg"
+            },
+            {
+                "name": "Naila Schuberth",
+                "photo": "https://image.tmdb.org/t/p/w185/evYmtGc11LWZNlwSUeBun4w0yOu.jpg"
+            },
+            {
+                "name": "Caspar Hoffmann",
+                "photo": null
+            }
+        ],
+        "rating": 5.081,
+        "director": "Nele Mueller-Stöfen",
+        "runtime": 102,
+        "premiered": "2025-02-18",
+        "poster": "https://image.tmdb.org/t/p/w500/oBh6Cljpg7678grLPZFLLmzMCPq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6iU9A1TtZKFB8222erj0UD0iYYn.jpg",
+        "clearlogo": null,
+        "synopsis": "De férias no interior da França, uma família alemã se envolve com uma funcionária do hotel, que tem intenções sinistras.",
+        "studio": "Komplizen Film"
+    },
+    {
+        "tmdb_id": 1216780,
+        "title": "Namorado Contratado",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4861e374628e3392c0c12991c6e762946016e1a7"
+        ],
+        "year": 2025,
+        "genres": "Romance, Comédia, Drama",
+        "actors": [
+            {
+                "name": "Ibrahim Ali Khan",
+                "photo": "https://image.tmdb.org/t/p/w185/rJuwbl1tcvvQFCyJek2poQLsbOT.jpg"
+            },
+            {
+                "name": "Khushi Kapoor",
+                "photo": "https://image.tmdb.org/t/p/w185/sP9LRxZxllQkFIk73dO9keZihzv.jpg"
+            },
+            {
+                "name": "Mahima Chaudhry",
+                "photo": "https://image.tmdb.org/t/p/w185/pgqztcCYYCdOfQgnqR0lRUlPfKZ.jpg"
+            },
+            {
+                "name": "Suniel Shetty",
+                "photo": "https://image.tmdb.org/t/p/w185/r2aAiF5rul1cR7OiWKlLC5hoW2D.jpg"
+            },
+            {
+                "name": "Dia Mirza",
+                "photo": "https://image.tmdb.org/t/p/w185/oJSZlMkIGC1Yr8QxdBLliUjPRSd.jpg"
+            }
+        ],
+        "rating": 5.3,
+        "director": "Shauna Gautam",
+        "runtime": 119,
+        "premiered": "2025-03-01",
+        "poster": "https://image.tmdb.org/t/p/w500/AnS9KBzGiSUNGbNAPiI8zKe90YQ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/lFz7HFWLmBVoa7kITzWEsT9tsEL.jpg",
+        "clearlogo": null,
+        "synopsis": "Depois de brigar com as amigas por causa de um mal-entendido, Pia contrata o aluno novo para fingir ser seu namorado.",
+        "studio": "Dharmatic Entertainment"
+    },
+    {
+        "tmdb_id": 1426486,
+        "title": "Caos: Os Crimes de Manson",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a2872b66262d3f216298e50c43e89460983c5574"
+        ],
+        "year": 2025,
+        "genres": "Documentário, Crime",
+        "actors": [
+            {
+                "name": "Charles Manson",
+                "photo": "https://image.tmdb.org/t/p/w185/fPBUj4MVR7x2FG2F296otdhxDJC.jpg"
+            }
+        ],
+        "rating": 6.357,
+        "director": "Errol Morris",
+        "runtime": 96,
+        "premiered": "2025-03-06",
+        "poster": "https://image.tmdb.org/t/p/w500/wvM4FDKDfeUFZnf6RGOLRMzT6zf.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/s6jEjHXlCyUJEFnV2fAodwhIRi1.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/qxVNkWgUq68yFD3NpjHrhS3REm9.png",
+        "synopsis": "Agosto de 1969: seguidores de Charles Manson matam sete pessoas a mando dele. Mas por quê? Explore uma história sobre controle mental, experimentos da CIA e assassinato.",
+        "studio": "Moxie Pictures"
+    },
+    {
+        "tmdb_id": 1020006,
+        "title": "Priscilla",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83b474738c3fc5117cbdfccaa239231043eee80b"
+        ],
+        "year": 2023,
+        "genres": "Drama, Romance",
+        "actors": [
+            {
+                "name": "Cailee Spaeny",
+                "photo": "https://image.tmdb.org/t/p/w185/oEkEzgRwVy2UAFtbvs1umiCQl7f.jpg"
+            },
+            {
+                "name": "Jacob Elordi",
+                "photo": "https://image.tmdb.org/t/p/w185/khfLyxY9gsKiLFoz2zj0h3uhDFJ.jpg"
+            },
+            {
+                "name": "Ari Cohen",
+                "photo": "https://image.tmdb.org/t/p/w185/qwflAB8DTO4VzllPNWFu8PLKlb0.jpg"
+            },
+            {
+                "name": "Dagmara Dominczyk",
+                "photo": "https://image.tmdb.org/t/p/w185/zoZ8cJNOgAsU1rxSbhhziSTOJbZ.jpg"
+            },
+            {
+                "name": "Tim Post",
+                "photo": "https://image.tmdb.org/t/p/w185/kk45jSIOmAw63x5mGpr7md4Itpb.jpg"
+            }
+        ],
+        "rating": 6.8,
+        "director": "Sofia Coppola",
+        "runtime": 113,
+        "premiered": "2023-10-27",
+        "poster": "https://image.tmdb.org/t/p/w500/uDCeELWWpsNq7ErM61Yuq70WAE9.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zz219ZRGo0vVIzvKttjx5nXOc2N.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/ze9xsKuxqTiOC8FnNAyPviElaR5.png",
+        "synopsis": "Quando Priscilla Beaulieu conheceu Elvis Presley, ele já era a grande estrela do rock que conhecemos, mas logo se revela uma pessoa completamente para Priscilla: um aliado durante momentos ruins, um amigo que se pode contar e claro, uma grande paixão.",
+        "studio": "The Apartment Pictures"
+    },
+    {
+        "tmdb_id": 516729,
+        "title": "Paddington: Uma Aventura na Floresta",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef4ae5ae4c4282731d267502f4bea8705244ae3b"
+        ],
+        "year": 2024,
+        "genres": "Família, Aventura, Comédia",
+        "actors": [
+            {
+                "name": "Ben Whishaw",
+                "photo": "https://image.tmdb.org/t/p/w185/2GBtQ6scGeSHkX1urOP1EJbmksx.jpg"
+            },
+            {
+                "name": "Hugh Bonneville",
+                "photo": "https://image.tmdb.org/t/p/w185/skbxj8MUuNiI39ZkP38uEirU0bC.jpg"
+            },
+            {
+                "name": "Emily Mortimer",
+                "photo": "https://image.tmdb.org/t/p/w185/eh0AebcU5ag535e3KLb6ydWR09d.jpg"
+            },
+            {
+                "name": "Samuel Joslin",
+                "photo": "https://image.tmdb.org/t/p/w185/gXthNRK0BN9IqXnhKIc4glxOB7P.jpg"
+            },
+            {
+                "name": "Madeleine Harris",
+                "photo": "https://image.tmdb.org/t/p/w185/a0leGmuuQslxiuP7g52sMxET6rm.jpg"
+            }
+        ],
+        "rating": 6.8,
+        "director": "Dougal Wilson",
+        "runtime": 106,
+        "premiered": "2024-11-08",
+        "poster": "https://image.tmdb.org/t/p/w500/gsPWpCx5ezjoGT9WvST0CwcZvat.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hfTyu2VPBqLRPo2DauW8q7bh9bm.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/hBKXDeWSznMFQCSjXmr8ah0URkL.png",
+        "synopsis": "Paddington viaja para o Peru para visitar sua amada tia Lucy. Com a família Brown a tiracolo, uma aventura emocionante acontece quando um mistério os mergulha em uma jornada inesperada pela floresta amazônica e até os picos das montanhas do Peru.",
+        "studio": "Marmalade Pictures"
+    },
+    {
+        "tmdb_id": 1235499,
+        "title": "A Última Showgirl",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06f884746b795a430f600219547bc5784341d8e0"
+        ],
+        "year": 2024,
+        "genres": "Drama",
+        "actors": [
+            {
+                "name": "Pamela Anderson",
+                "photo": "https://image.tmdb.org/t/p/w185/dO7XVuQjFj5Wx3hUelxbTPogovQ.jpg"
+            },
+            {
+                "name": "Jamie Lee Curtis",
+                "photo": "https://image.tmdb.org/t/p/w185/9KWvPVeiLOXlOGl0XVyHZtJWQtx.jpg"
+            },
+            {
+                "name": "Dave Bautista",
+                "photo": "https://image.tmdb.org/t/p/w185/ymn6iQBJbQZN6BYI60YJDXVP4gF.jpg"
+            },
+            {
+                "name": "Brenda Song",
+                "photo": "https://image.tmdb.org/t/p/w185/1vLlotlVcvfESzXWCk8p1RKQqV7.jpg"
+            },
+            {
+                "name": "Kiernan Shipka",
+                "photo": "https://image.tmdb.org/t/p/w185/t2FWVLTIhVRIa398mQAfN4thO5R.jpg"
+            }
+        ],
+        "rating": 6.3,
+        "director": "Gia Coppola",
+        "runtime": 88,
+        "premiered": "2024-12-13",
+        "poster": "https://image.tmdb.org/t/p/w500/xBO5ATR7PaoH4BWhPX9tqGKSPam.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sfhhJmKJBidavKSnCd8ZIMFOOup.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/DDoQ3m9cDZWJLrH26mble5Kv4b.png",
+        "synopsis": "Uma dançarina experiente precisa planejar seu futuro quando seu show é encerrado abruptamente após 30 anos de duração.",
+        "studio": "Utopia"
+    }
 ]
