@@ -1,4 +1,47 @@
 [
+
+    {
+        "tmdb_id": 1241982,
+        "title": "Moana 2",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17418aecb8ebb73721776b32951b74707d0aa403",
+			"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc48356bd09203c0a7e4c740a669c609669700fb"
+        ],
+        "year": 2024,
+        "genres": "Animação, Aventura, Família, Comédia",
+        "actors": [
+            {
+                "name": "Auliʻi Cravalho",
+                "photo": "https://image.tmdb.org/t/p/w185/vEroqcnM2g6yY7qXDAie7hx2Cyp.jpg"
+            },
+            {
+                "name": "Dwayne Johnson",
+                "photo": "https://image.tmdb.org/t/p/w185/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+            },
+            {
+                "name": "Hualālai Chung",
+                "photo": "https://image.tmdb.org/t/p/w185/x2g5fdHqETY9dZgL4aB0QDP0boR.jpg"
+            },
+            {
+                "name": "Rose Matafeo",
+                "photo": "https://image.tmdb.org/t/p/w185/zQa39fMjbOTIsovbh1TBTJVlToz.jpg"
+            },
+            {
+                "name": "David Fane",
+                "photo": "https://image.tmdb.org/t/p/w185/tcozyaTgAa8rRmzc5qeht0loni6.jpg"
+            }
+        ],
+        "poster": "https://image.tmdb.org/t/p/w500/ulVUcVy919yt3IJKtmiJBzf4Kqt.jpg",
+        "rating": 6.8,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+        "director": "David G. Derrick Jr., Jason Hand, Dana Ledoux Miller",
+        "studio": "Walt Disney Pictures",
+        "runtime": 100,
+        "premiered": "2024-11-21",
+        "synopsis": "Depois de receber um chamado inesperado de seus ancestrais navegadores, Moana vai viajar para mares distantes da Oceania, em águas perdidas em uma aventura perigosa.",
+        "popularity": 137.318,
+        "clearlogo": "https://image.tmdb.org/t/p/w500/sFzVGobXVnazwttzOo34nx0c4vF.png"
+    },
     {
         "tmdb_id": 604685,
         "title": "Covil de Ladrões 2",
@@ -69,10 +112,6 @@
             {
                 "name": "Bárbara Luz",
                 "photo": "https://image.tmdb.org/t/p/w185/im8iKs98xlvkUjnwt2wVRkzLNm5.jpg"
-            },
-            {
-                "name": "Guilherme Silveira",
-                "photo": null
             }
         ],
         "rating": 8.0,
