@@ -68,6 +68,11 @@
                         "title": "Ótica",
                         "episode": 2,
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:602a89697de71b0e242478f9b8cb4fe326cc577d"
+                    },
+                    {
+                        "title": "A Palma da Sua Mão",
+                        "episode": 3,
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c8850e7229675dc22be89c56fd19fbe33a7df13"
                     }
                 ]
             }
