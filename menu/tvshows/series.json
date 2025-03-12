@@ -107,8 +107,16 @@
                 "poster": "https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg",
                 "episodios": [
                     {
-                        "title": "1x01 e 02 Meia Hora do Céu / Ótica",
+                        "title": "01. Meia Hora do Céu",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:602a89697de71b0e242478f9b8cb4fe326cc577d"
+                    },
+                    {
+                        "title": "02. Ótica",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:602a89697de71b0e242478f9b8cb4fe326cc577d"
+                    },
+                    {
+                        "title": "02. A Palma da Sua Mão",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c8850e7229675dc22be89c56fd19fbe33a7df13"
                     }
                 ]
             }
