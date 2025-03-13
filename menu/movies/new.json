@@ -1,11 +1,9 @@
 [
-
+    {"status": "on"},
     {
         "tmdb_id": 1241982,
         "title": "Moana 2",
-        "url": [
-            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17418aecb8ebb73721776b32951b74707d0aa403"
-        ],
+        "url": ["plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17418aecb8ebb73721776b32951b74707d0aa403"],
         "year": 2024,
         "genres": "Animação, Aventura, Família, Comédia",
         "actors": [
@@ -44,9 +42,7 @@
     {
         "tmdb_id": 604685,
         "title": "Covil de Ladrões 2",
-        "url": [
-            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc39dfd7a0bbd5eab3a02ed241ee91a1549dc411"
-        ],
+        "url": ["plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc39dfd7a0bbd5eab3a02ed241ee91a1549dc411" ],
         "year": 2025,
         "genres": "Ação, Crime, Thriller",
         "actors": [
@@ -85,9 +81,7 @@
     {
         "tmdb_id": 1000837,
         "title": "Ainda Estou Aqui",
-        "url": [
-            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1aaf1c1354a14cc2f4efb1aa2c87f0cffc19b96e"
-        ],
+        "url": ["plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1aaf1c1354a14cc2f4efb1aa2c87f0cffc19b96e"],
         "poster": "https://image.tmdb.org/t/p/w500/r7TD7HhzlUYfWIS7ZqSgNxylkXV.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/yUOJzi3qIeXCAK1nZ7el7DUBDNV.jpg",
         "synopsis": "No início da década de 1970, o Brasil enfrenta o endurecimento da ditadura militar. No Rio de Janeiro, a família Paiva – Rubens, Eunice e seus cinco filhos – vive à beira da praia em uma casa de portas abertas para os amigos. Um dia, Rubens Paiva é levado por militares à paisana e desaparece.",
