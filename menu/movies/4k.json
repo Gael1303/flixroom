@@ -3,9 +3,7 @@
     {
         "tmdb_id": 1241982,
         "title": "Moana 2",
-        "url": [
-            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb0c2893c1a6ea4de20be161b613f5c581f7d081"
-        ],
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb0c2893c1a6ea4de20be161b613f5c581f7d081",
         "year": 2024,
         "genres": "Animação, Aventura, Família, Comédia",
         "actors": [
