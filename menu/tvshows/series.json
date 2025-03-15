@@ -1,4 +1,5 @@
 [
+{"status": "on"},
     {
         "title": "O Caso Evandro",
         "rate": 9.1,
@@ -13,13 +14,15 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rate": 0.0,
+                "rate": 0,
                 "sinopse": "A história do desaparecimento de um menino no Paraná e da investigação do caso – com uma reviravolta original de arrepiar.",
                 "poster": "",
                 "episodios": [
                     {
                         "title": "O Caso Evandro: Temporada 1",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a75c4a6e0bf3737a4246b9ab69003a8262c2d71"
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a75c4a6e0bf3737a4246b9ab69003a8262c2d71"
+                        ]
                     }
                 ]
             }
@@ -115,7 +118,7 @@
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:602a89697de71b0e242478f9b8cb4fe326cc577d"
                     },
                     {
-                        "title": "02. A Palma da Sua Mão",
+                        "title": "03. A Palma da Sua Mão",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c8850e7229675dc22be89c56fd19fbe33a7df13"
                     }
                 ]
@@ -1170,7 +1173,7 @@
             },
             {
                 "title": "2ª Temporada",
-                "rate": 8.0,
+                "rate": 8,
                 "sinopse": "O crime e a violência pairam sobre Hell's Kitchen novamente. Dessa vez, o Demolidor precisa escolher entre a cidade e seus amigos.",
                 "poster": "https://image.tmdb.org/t/p/original/tt37OtTjsrCokPnHx0gqamOYhPo.jpg",
                 "episodios": [
@@ -1182,7 +1185,7 @@
             },
             {
                 "title": "3ª Temporada",
-                "rate": 8.0,
+                "rate": 8,
                 "sinopse": "Com Wilson Fisk recuperando poder, Matt Murdock ressurge do caos em que se transformou sua vida preparado para fazer o que for preciso para proteger Hell's Kitchen.",
                 "poster": "https://image.tmdb.org/t/p/original/x7zUHG5cko4ZXQO2209Qc2aoyrc.jpg",
                 "episodios": [
@@ -2403,7 +2406,7 @@
             },
             {
                 "title": "3ª Temporada",
-                "rate": 8.0,
+                "rate": 8,
                 "sinopse": "Na terceira temporada, o Dr. Shaun Murphy volta a trabalhar no Hospital St. Bonaventure, tendo conquistado de vez a amizade e confiança dos seus colegas. Shaun também começa a namorar a Dra. Carly, mas os seus sentimentos não resolvidos pela sua colega de quarto Lea complicam o relacionamento.",
                 "poster": "https://image.tmdb.org/t/p/original/zmffGw2FfsSZPoOCPfydcPbz1rH.jpg",
                 "episodios": [
@@ -3209,7 +3212,7 @@
             },
             {
                 "title": "3ª Temporada",
-                "rate": 8.0,
+                "rate": 8,
                 "sinopse": "Passaram-se três anos desde o dia 2 e o incidente com a bomba nuclear.  Jack Bauer agora é o Diretor de Operações de Campo e está  lamentavelmente viciado em heroína, enquanto Tony Almeida é o Diretor da  UCT de LA. Michelle Dessler subiu de cargo, agora casada com Tony, é a  segunda no comando. Kim Bauer agora trabalha na UCT, onde poderá ser  vigiada de perto por Jack. Ela agora é namorada de Chase Edmunds, agente  de campo e parceiro de Jack. David Palmer cumpre seu último ano de  mandato, e no dia em que iria combater seu adversário nas eleições, o  senador John Keeler em um debate em rede nacional, uma ameaça a  segurança dos E.U.A. cresce. Um vírus modificado e letal, o vírus  Cordilla, aparentemente se encontra em posse dos Irmãos Salazar, Ramón e  Hector, que tem íntimas relações com atividades e grupos terroristas. O  objetivo da UCT agora é impedir que este vírus permaneça no mercado ou  caia em mãos erradas.",
                 "poster": "https://image.tmdb.org/t/p/original/ePtiSA8zk2jRhaxYOToRJZHnClu.jpg",
                 "episodios": [
@@ -3282,7 +3285,7 @@
             {
                 "title": "9ª Temporada",
                 "rate": 8.5,
-                "sinopse": "Composta por 12 episódios, a série mantém o protagonista absoluto Jack Bauer (Kiefer Sutherland) e se passa quatro anos após o fim da oitava temporada de 24 Horas. Fugitivo da Justiça dos Estados Unidos, o ex-agente está exilado em Londres e mais disposto do que nunca a arriscar sua vida e sua liberdade para evitar outro desastre global. Enquanto isso, sua melhor amiga e confidente, Chloe O'Brian (Mary Lynn Rajskub), vai à Europa para ajudá-lo. Para capturar Bauer, unem as forças o chefe da CIA Steve Navarro (Benjamin Bratt), a implacável agente da CIA Kate Morgan (Yvonne Strahovski), o inteligente técnico em computação da CIA Jordan Reed (Giles Matthey), e o perspicaz e arrogante agente de campo Erik Ritter (Gbenga Akinnagbe). Quem toma as decisões é James Heller (William Devane), agora presidente dos Estados Unidos.",
+                "sinopse": "Composta por 12 episódios, a série mantém o protagonista absoluto Jack Bauer (Kiefer Sutherland) e se passa quatro anos após o fim da oitava temporada de 24 Horas. Fugitivo da Justiça dos Estados Unidos, o ex-agente está exilado em Londres e mais disposto do que nunca a arriscar sua vida e sua liberdade para evitar outro desastre global. Enquanto isso, sua melhor amiga e confidente, Chloe O'Brian (Mary Lynn Rajskub), vai à Europa para ajudá-lo. Para capturar Bauer, unem as forças o chefe da CIA Steve Navarro (Benjamin Bratt), a implacável agente da CIA Kate Morgan (Yvonne Strahovski), o inteligente técnico em computação da CIA Jordan Reed (Giles Matthey), e o perspicaz e arrogante agente de campo Erik Ritter (Gbenga Akinnagbe). Quem toma as decisões é James Heller (William Devane), agora presidente dos Estados Unidos.",
                 "poster": "https://image.tmdb.org/t/p/original/yU78ch7el7Vy22YbGydvgno26ff.jpg",
                 "episodios": [
                     {
@@ -6445,7 +6448,7 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rate": 5.0,
+                "rate": 5,
                 "sinopse": "Mikhael é o líder da principal equipe do BOPE. Quando um dos seus amigos é ferido em uma operação, ele busca vingança e acaba em conflito com a alta cúpula política do estado.",
                 "poster": "https://image.tmdb.org/t/p/original/gnGD338eehThLKH76oWHjDjW8tz.jpg",
                 "episodios": [
@@ -6457,7 +6460,7 @@
             },
             {
                 "title": "2ª Temporada",
-                "rate": 0.0,
+                "rate": 0,
                 "sinopse": "Desta vez, Mikhael (Marcello Melo Jr.) está retornando ao Brasil depois de passar um período integrando um grupo militar privado com atuação na África. Logo, o desejo por justiça e acerto de contas fará com que ele se envolva em momentos de muita tensão e adrenalina! De cara, ele descobre que o jornalista e amigo Ronaldo (Álamo Facó) está correndo perigo de vida.",
                 "poster": "https://image.tmdb.org/t/p/original/rYz3o3C9zfX078LVLVrOfiOHSHG.jpg",
                 "episodios": [
@@ -6481,7 +6484,7 @@
             },
             {
                 "title": "3ª Temporada",
-                "rate": 10.0,
+                "rate": 10,
                 "sinopse": "Mikhael (Marcello Melo Jr.) passa uma temporada no Pará, onde vivencia o cotidiano em um assentamento liderado pela Irmã Emily (Chris Couto). O local enfrenta constantes ameaças de produtores rurais, expondo Mikhael a novos desafios e dilemas morais. Enquanto isso, no Rio de Janeiro, sua irmã Sarah lida com frustrações em sua rotina como policial, o que a leva a buscar amadurecimento e autoconfiança em meio à pressão do ambiente. No mesmo cenário carioca, as facções criminosas perdem território para as milícias, enquanto Ronaldo (Álamo Facó), com seu site de notícias, denuncia esquemas criminosos que envolvem o Bispo Cristóvão (Thelmo Fernandes) em atividades ilícitas. Figuras do passado de Mikhael se unem em uma força-tarefa para combater uma guerra que apenas começou, abordando temas como drogas, violência, corrupção, fake news, milícias e manipulação política. A temporada promete explorar, com intensidade, diferentes facetas do poder e da resistência.",
                 "poster": "https://image.tmdb.org/t/p/original/htQ7JUhr477DjWapcDVQc9gRUQ.jpg",
                 "episodios": [
@@ -6904,36 +6907,36 @@
                 "poster": "https://image.tmdb.org/t/p/original/vLRQ1W8VCMMfJLinwPpgt0ab5nO.jpg",
                 "episodios": [
                     {
-                        "title": "1x01-2. Boas notícias sobre o inferno",
+                        "title": "01-2. Boas notícias sobre o inferno",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5cf4b504adf871fadc06d88bd83a5fa50f0d52b5"
                     },
                     {
-                        "title": "1x03. Na perpetuidade",
+                        "title": "03. Na perpetuidade",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73239ed9da1cc3c63a4c3c110f8bfb0509236730"
                     },
                     {
-                        "title": "1x04. O você que você é",
+                        "title": "04. O você que você é",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce96d25aec0710e01816cffa05f3009fa0c3e014"
                     },
                     {
-                        "title": "1x05. A cruel barbárie da Óptica e Design",
+                        "title": "05. A cruel barbárie da Óptica e Design",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecd0eca1271d7e1fe5861244d8ca339651715682"
                     },
                     {
-                        "title": "1x06. Esconde-esconde",
+                        "title": "06. Esconde-esconde",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AVY5Y2WAAISLWMST7WRWC7RQJBO4N4FI"
                     },
                     {
-                        "title": "1x07. Jazz desafiador",
+                        "title": "07. Jazz desafiador",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RFYTNL4JPEHWAPLZRC6VOH6RAZFJMH77"
                     },
                     {
-                        "title": "1x08. O que tem pra jantar?",
+                        "title": "08. O que tem pra jantar?",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4Y52OQZV7JRLBM2JKMBWFR6IO4OEKKHG"
                     },
                     {
-                        "title": "1x09. O nós que nós somos",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:X3WO6UHOU2XQFQ4GFS6NX33DK4AODHNT"
+                        "title": "09. O nós que nós somos",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:X3WO6UHOUQFQ4GFS6NX33DK4AODHNT"
                     },
                     {
                         "title": "1ª Temporada (4K)",
@@ -6976,6 +6979,14 @@
                     {
                         "title": "08. Doce vitríolo",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17d57a19eb0f708265123935edc65d7a5faab239"
+                    },
+                    {
+                        "title": "09. Depois do expediente",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0089054f2358fc1816bc64a3439ae883ceb5f5b"
+                    },
+                    {
+                        "title": "10. [COLOR red]Cold Harbor[/COLOR]",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
                     }
                 ]
             }
@@ -7573,7 +7584,7 @@
             },
             {
                 "title": "8ª Temporada",
-                "rate": 8.0,
+                "rate": 8,
                 "sinopse": "Negan continua seu reinado de terror. Rick reúne seus aliados no Reino e no Topo da Colina para declarar guerra aos Salvadores.",
                 "poster": "https://image.tmdb.org/t/p/original/jP6XyARVDEMKAncIbUql3krIOyd.jpg",
                 "episodios": [
@@ -8160,7 +8171,7 @@
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95658eafe280ee62eb210846fe1da4afb40b86fe"
                     },
                     {
-                        "title": "66 - A Polícia de Nova York",
+                        "title": "06 - A Polícia de Nova York",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc9c49bf08bdf5c45365d4ec25c189aae75f34ca"
                     },
                     {
@@ -8178,16 +8189,24 @@
                 "poster": "https://image.tmdb.org/t/p/w342/uF5v0SPpKzC9dWXIspA1x2zEDKO.jpg",
                 "episodios": [
                     {
-                        "title": "01 , 02 e 03",
+                        "title": "3x01 , 02 e 03",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1d7ecdab766e1b9753655b9cf1daea7a192893b"
                     },
                     {
-                        "title": "04. Dominique",
+                        "title": "3x04. Dominique",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0334cb228b1117a1b5b571e710a20c0275686080"
                     },
                     {
-                        "title": "04. Confronto",
+                        "title": "05. Confronto",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12f403bfd7c203f1732fdd6f54b9287b8deefde4"
+                    },
+                    {
+                        "title": "06. Fumaça na Água",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1030545f518c8b3959831787319c7f67a0773690"
+                    },
+                    {
+                        "title": "07. L.A. Story",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
                     }
                 ]
             }
@@ -9130,7 +9149,7 @@
     },
     {
         "title": "Chaves",
-        "rate": 8.0,
+        "rate": 8,
         "classification": "L",
         "year": 1973,
         "aired": "26/02/1973",
@@ -9156,7 +9175,7 @@
     },
     {
         "title": "Landman",
-        "rate": 8.0,
+        "rate": 8,
         "classification": "16",
         "year": 2024,
         "aired": "17/11/2024",
@@ -9182,7 +9201,7 @@
     },
     {
         "title": "1923",
-        "rate": 8.0,
+        "rate": 8,
         "classification": "16",
         "year": 2022,
         "aired": "18/12/2022",
@@ -10009,7 +10028,7 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rate": 0.0,
+                "rate": 0,
                 "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/zclGqPFfnHrR3Oi0hwetm1Syibr.jpg",
                 "episodios": [
@@ -10568,7 +10587,7 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rate": 7.0,
+                "rate": 7,
                 "sinopse": "A Humanidade fundou um Império Galático que, por 12 mil anos, expandiu suas fronteiras chegando a mais de 25 milhões de planetas. Hari Seldon, famoso matemático, desenvolve um novo ramo da Matemática chamado Psicohistória. Com ela, consegue prever o futuro e descobre que o Império tem apenas mais 500 anos de vida. Todo o conhecimento da Humanidade será perdido.",
                 "poster": "https://image.tmdb.org/t/p/original/lFgwBRCzlsFTs9B6PXK3sCyZcQ0.jpg",
                 "episodios": [
@@ -10704,7 +10723,7 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rate": 7.0,
+                "rate": 7,
                 "sinopse": "A série fala sobre John Constantine, um exorcista sombrio, detetive oculto e vigarista que está lutando com seus pecados passados, enquanto ele tenta proteger a humanidade de uma coleta ameaça sobrenatural.",
                 "poster": "https://image.tmdb.org/t/p/original/7CNfWp4mn2SBXcbzkE5ENo3gQhA.jpg",
                 "episodios": [
@@ -11013,31 +11032,31 @@
                 "poster": "https://image.tmdb.org/t/p/original/5LKxmsgkBSbwGJkNOnYgD9gzS87.jpg",
                 "episodios": [
                     {
-                        "title": "1x01 e 02. A Partida",
+                        "title": "01 e 02. A Partida",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ff7b92cb319cd8745c3c7ccd530b4eb30c787a4"
                     },
                     {
-                        "title": "1x03. Um Lugar Seguro",
+                        "title": "03. Um Lugar Seguro",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e393591e5ab128a70795d9114789721015a7cba6"
                     },
                     {
-                        "title": "1x04. O Dragão Renascido",
+                        "title": "04. O Dragão Renascido",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92161ed3966b51301951b9aef158e8e214ba20f7"
                     },
                     {
-                        "title": "1x05. Sangue Pede Sangue",
+                        "title": "05. Sangue Pede Sangue",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7608cf4b5e539094f14ec3b94f855610eebb4be"
                     },
                     {
-                        "title": "1x06. A Chama de Tar Valon",
+                        "title": "06. A Chama de Tar Valon",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa6614a52edd5e755085251355ae6b874b61bc73"
                     },
                     {
-                        "title": "1x07. As Trevas nos Caminhos",
+                        "title": "07. As Trevas nos Caminhos",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c689a3d5f1a2fb9d9f341a52d6874520a4b3ddd5"
                     },
                     {
-                        "title": "1x08. O Olho do Mundo",
+                        "title": "08. O Olho do Mundo",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71b0adc041127caa9207a59822fdaca54ac21f69"
                     }
                 ]
@@ -11049,28 +11068,48 @@
                 "poster": "https://image.tmdb.org/t/p/original/lH1ZRIUQEXvWhY19EjOAGtr9aRc.jpg",
                 "episodios": [
                     {
-                        "title": "2x01 ao 03. O Sabor da Solidão",
+                        "title": "01 ao 03. O Sabor da Solidão",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e4396f6f95f6a7393067704e1a808f740689b74"
                     },
                     {
-                        "title": "2x04. Filha da Noite",
+                        "title": "04. Filha da Noite",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79b2a7b36b5e91185a5894f8777ff784fae06897"
                     },
                     {
-                        "title": "2x05. Damane",
+                        "title": "05. Damane",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cb77b2d6248ae82903b5259cc145cc69a7e0b39"
                     },
                     {
-                        "title": "2x06. Olhos Sem Piedade",
+                        "title": "06. Olhos Sem Piedade",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee4699194b6920386b52cb6bbf3f407e5d38416a"
                     },
                     {
-                        "title": "2x07. Daes Dae'Mar",
+                        "title": "07. Daes Dae'Mar",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9600de729903ff0e25eb987f85515343833b17b4"
                     },
                     {
-                        "title": "2x08. O Que Deveria Ser",
+                        "title": "08. O Que Deveria Ser",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44a32e2725c638d2330172f227eae8559769a118"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "rate": 7.1,
+                "sinopse": "Com os Amaldiçoados soltos pelo mundo, os heróis da Luz precisam traçar seus próprios caminhos e reunir forças ocultas para enfrentarem as Trevas dentro de si próprios.",
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dCEIpgPohZK7f3FsXLPhG0aprGr.jpg",
+                "episodios": [
+                    {
+                        "title": "01. Vencer a Sombra",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d272110ce9b624257cb5180e4a7ad8c563200837"
+                    },
+                    {
+                        "title": "02. Uma Questão Carmesim",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d272110ce9b624257cb5180e4a7ad8c563200837"
+                    },
+                    {
+                        "title": "03. Sementes da Sombra",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d272110ce9b624257cb5180e4a7ad8c563200837"
                     }
                 ]
             }
@@ -11150,7 +11189,7 @@
             },
             {
                 "title": "2ª Temporada (Link Direto)",
-                "rate": 8.0,
+                "rate": 8,
                 "sinopse": "A segunda temporada mostra Cole incapaz de viajar no tempo devido a um paradoxo imprevisto. Enquanto isso, Jennifer parece estar prestes a liberar o vírus mortal. Cada ação tem o potencial de alterar a história nesta corrida alucinante contra o tempo.",
                 "poster": "https://image.tmdb.org/t/p/original/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg",
                 "episodios": [
@@ -11320,7 +11359,7 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rate": 0.0,
+                "rate": 0,
                 "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/sOhUmdY6xoniIjGzFCD0Zf56u3s.jpg",
                 "episodios": [
@@ -11333,19 +11372,19 @@
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cad8788d3d7fc171b90ce03ce1039a619277a3d7"
                     },
                     {
-                        "title": "1x05. O Lobo e o Leão [Breve]",
+                        "title": "05. O Lobo e o Leão",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cc8be811e506d2b01619b774d56648c3d00c907"
+                    },
+                    {
+                        "title": "06. Gigantes Despertados [Breve]",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
                     },
                     {
-                        "title": "1x06. Gigantes Despertados [Breve]",
+                        "title": "07. Davi e Golias - Parte 1 [Breve]",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
                     },
                     {
-                        "title": "1x07. Davi e Golias - Parte 1 [Breve]",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-                    },
-                    {
-                        "title": "1x08. Davi e Golias - Parte 2 [Breve]",
+                        "title": "08. Davi e Golias - Parte 2 [Breve]",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
                     }
                 ]
@@ -11790,27 +11829,27 @@
                 "poster": "https://image.tmdb.org/t/p/original/4gBYNDdczkFOqjR4dgYamqbp6cS.jpg",
                 "episodios": [
                     {
-                        "title": "1x01.  Chegadas",
+                        "title": "1x01.  Chegadas",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4241bd807332c0a1f4975a8b86b4514c753b78c8"
                     },
                     {
-                        "title": "1x02.  Novo Dia",
+                        "title": "1x02.  Novo Dia",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80f02f76d3c31bb278de6d4b375beaed0132b7cc"
                     },
                     {
-                        "title": "1x03.  Macacos Misteriosos",
+                        "title": "1x03.  Macacos Misteriosos",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6df3ac5d37cb00c4d93892b5fdee65efb772eaab"
                     },
                     {
-                        "title": "1x04.  Recentramento",
+                        "title": "1x04.  Recentramento",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:559e787081d19c573b53cbe7b114e0eb98f91bd6"
                     },
                     {
-                        "title": "1x05.  Os Come-Lótus",
+                        "title": "1x05.  Os Come-Lótus",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52e0733d56803e550c791531a01a31548209f2f1"
                     },
                     {
-                        "title": "1x06.  Partidas",
+                        "title": "1x06.  Partidas",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e386a60a53f2273db9a02d4ba26d86276bf61127"
                     }
                 ]
@@ -11853,7 +11892,7 @@
             },
             {
                 "title": "3ª Temporada (Breve)",
-                "rate": 9.0,
+                "rate": 9,
                 "sinopse": "A terceira temporada desta sátira social acompanha hóspedes e funcionários de um exclusivo resort tailandês ao longo de uma semana.",
                 "poster": "https://image.tmdb.org/t/p/original/jNFcfgLFPhCZdhUUmwjHvq6TLxh.jpg",
                 "episodios": []
@@ -12267,7 +12306,7 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rate": 8.0,
+                "rate": 8,
                 "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/zG6dUIJ7gNIyKKrDpPionW2J83J.jpg",
                 "episodios": [
@@ -12454,7 +12493,7 @@
             },
             {
                 "title": "6ª Temporada",
-                "rate": 7.0,
+                "rate": 7,
                 "sinopse": "Charlie Harper (Charlie Sheen) é um solteirão bem de vida que vive numa casa na praia, tem um belo carro na garagem e tem uma grande facilidade de conquistar as mulheres. Seu estilo de vida casual em Malibu é interrompido quando seu irmão Alan (Jon Cryer), que está no meio de um divórcio, e seu sobrinho de 10 anos Jake (Angus T. Jones), chegam para morar com ele.",
                 "poster": "https://image.tmdb.org/t/p/original/xqKHH6IF2X4svTYoHJawnZwbkBT.jpg",
                 "episodios": [
@@ -13333,7 +13372,7 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rate": 6.0,
+                "rate": 6,
                 "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/3l1uHCE1IMHKjUOTpbkw5exUfQV.jpg",
                 "episodios": [
@@ -13699,7 +13738,7 @@
             },
             {
                 "title": "3ª Temporada (Link Direto)",
-                "rate": 7.0,
+                "rate": 7,
                 "sinopse": "Michele cria um santuário idílico aberto a todos no Continente, mas, quando chega a crise, ela é forçada a criar o seu próprio processo de seleção.",
                 "poster": "https://image.tmdb.org/t/p/original/kRJeQkAA5NdxC9JWkmplZxPCBWq.jpg",
                 "episodios": [
@@ -14112,7 +14151,7 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rate": 0.0,
+                "rate": 0,
                 "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/dPAKujqmx2QMWpvro1EGezSJ8SC.jpg",
                 "episodios": [
