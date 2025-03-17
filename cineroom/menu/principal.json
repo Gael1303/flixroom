@@ -29,6 +29,13 @@
                 "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/movies/popular.json"
             },
             {
+                "categories": "Melhores Avaliados",
+                "poster": "https://exemplo.com/poster_rating.jpg",
+                "backdrop": "https://exemplo.com/backdrop_rating.jpg",
+                "description": "Filmes com as melhores avaliações",
+                "action": "list_movies_by_rating"
+            },
+            {
                 "categories": "2025",
                 "poster": "https://exemplo.com/poster_4k.jpg",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
@@ -52,18 +59,18 @@
                 "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/movies/4k.json"
             },
             {
-                "categories": "Melhores Avaliados",
-                "poster": "https://exemplo.com/poster_rating.jpg",
-                "backdrop": "https://exemplo.com/backdrop_rating.jpg",
-                "description": "Filmes com as melhores avaliações",
-                "action": "list_movies_by_rating"
-            },
-            {
                 "categories": "Por Gênero",
                 "poster": "https://exemplo.com/poster_generos.jpg",
                 "backdrop": "https://exemplo.com/backdrop_generos.jpg",
                 "description": "Filmes organizados por gênero",
                 "action": "list_genres"
+            },
+            {
+                "categories": "Por Estudios",
+                "poster": "https://exemplo.com/poster_4k.jpg",
+                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
+                "description": "Estudios diversos de filmes",
+                "action": "list_studios"
             },
             {
                 "categories": "Por Ano",
