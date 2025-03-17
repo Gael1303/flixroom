@@ -26,7 +26,7 @@
                 "poster": "https://exemplo.com/poster_4k.jpg",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Filmes mais assistidos",
-                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista5.json"
+                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/movies/popular.json"
             },
             {
                 "categories": "2025",
@@ -41,7 +41,7 @@
                 "poster": "https://exemplo.com/poster_colecoes.jpg",
                 "backdrop": "https://exemplo.com/backdrop_colecoes.jpg",
                 "description": "Franquias de filmes e coleções",
-                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista3.json",
+                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/movies/sagas.json",
                 "sort_method": "rating"
             },
             {
@@ -49,7 +49,7 @@
                 "poster": "https://exemplo.com/poster_colecoes.jpg",
                 "backdrop": "https://exemplo.com/backdrop_colecoes.jpg",
                 "description": "Filmes com qualidade 4K",
-                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista3.json"
+                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/movies/4k.json"
             },
             {
                 "categories": "Melhores Avaliados",
@@ -84,7 +84,7 @@
                 "poster": "https://exemplo.com/poster_series_populares.jpg",
                 "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
                 "description": "Séries mais assistidas",
-                "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/lista2.json",
+                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/popular",
                 "sort_method": "label"
             },
             {
