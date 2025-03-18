@@ -1,0 +1,147 @@
+[
+{
+        "title": "Os Bandidos do Tempo",
+        "rate": 6.3,
+        "classification": "12",
+        "year": 2024,
+        "aired": "23/07/2024",
+        "sinopse": "A paixão de Kevin, de onze anos, pela história é testada quando ele se junta a um grupo de bandidos que viajam no tempo em uma aventura hilária e de alto risco.",
+        "poster": "https://image.tmdb.org/t/p/original/5GeQCZwtUvxBLlsccGK2qvMpFBH.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/33Al50uZ9cZSddklcuHTaHmNxeE.jpg",
+        "studio": ["Apple TV+"],
+        "genres": ["Sci-Fi & Fantasia, Ação & Aventura, Comédia"],
+		"type": "tvshow"
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 4.2,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/5GeQCZwtUvxBLlsccGK2qvMpFBH.jpg",
+                "episodios": [
+                    {
+                        "title": "Episodios 01 e 02",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95eb89ff4e718e6409fc34b79a52ca76127c4fc1"
+                    },
+                    {
+                        "title": "Episodios 03 e 04",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f98871194b7e27347737c344764d6695de7e5a5d"
+                    },
+                    {
+                        "title": "Episodios 05 e 06",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ff25fe3011c34914b2217f7b7ebf72481593209"
+                    },
+                    {
+                        "title": "Episodios 07 e 08",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b5f1d81ae303eb0ff65a7d7ac68fa150711e384"
+                    },
+                    {
+                        "title": "Episodios 09 e 10",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cebc1c4de59f673e5634cab8c16926bcde0e5644"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "O Professor",
+        "rate": 6.2,
+        "classification": "18",
+        "year": 2024,
+        "aired": "02/09/2024",
+        "sinopse": "Evan Marquez é um professor de ensino médio em Austin, Texas, que frequentemente se encontra na interseção dos aspectos pessoais, profissionais e políticos de trabalhar em uma escola de ensino médio.",
+        "poster": "https://image.tmdb.org/t/p/original/t0hEVuk1cTJ1ryT81fRIJ0xkqet.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/kKuXtcFRhQcXbA1C20WHO1XnEqL.jpg",
+        "studio": ["Disney+"],
+        "episode_count": 8,
+        "genres": ["Comédia"],
+		"type": "tvshow"
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 1,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/bgxRmVtdfaRhuosBYa1B2csHZ1e.jpg",
+                "episodios": [
+                    {
+                        "title": "O Professor: 1ª Temporada",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d7abb813f87e65e16aff9ed94f9107d37a4950c"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Que Falta Você Me Faz",
+        "rate": 5.7,
+        "classification": "16",
+        "year": 2025,
+        "aired": "01/01/2025",
+        "sinopse": "Depois de dar match em um app de namoro com o noivo que desapareceu há vários anos, a detetive Kat Donovan descobre que alguns segredos devem permanecer no passado.",
+        "poster": "https://image.tmdb.org/t/p/original/dPAKujqmx2QMWpvro1EGezSJ8SC.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/iC92jNOuhxSIGTFoMmAjtyaNOGV.jpg",
+        "studio": ["Netflix"],
+        "genres": ["Mistério, Drama, Crime"],
+		"type": "tvshow"
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 0,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/dPAKujqmx2QMWpvro1EGezSJ8SC.jpg",
+                "episodios": [
+                    {
+                        "title": "Que Falta Você Me Faz: Temporada 1",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd3ab8f79107336624e04de05fce82d3bfadf1f9"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Casa de Davi",
+        "rate": 7.7,
+        "classification": "16",
+        "year": 2025,
+        "aired": "02/27/2025",
+        "sinopse": "Conta a história da ascensão do ícone bíblico Davi, que se torna o mais famoso rei de Israel. O outrora poderoso rei Saul é vítima de seu próprio orgulho. Seguindo as ordens de Deus, o profeta Samuel unge um pária adolescente como o novo rei.",
+        "poster": "https://image.tmdb.org/t/p/original/sOhUmdY6xoniIjGzFCD0Zf56u3s.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/83y6rp55fVjVaEq9KkRtG7MgS8U.jpg",
+        "studio": ["Prime Video"],
+        "genres": ["Drama"],
+		"type": "tvshow"
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 0,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/sOhUmdY6xoniIjGzFCD0Zf56u3s.jpg",
+                "episodios": [
+                    {
+                        "title": "01. Um Pastor e Um Rei",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef5dd57f0931b64e258b52c94a6b1b6a6fe1c7b7"
+                    },
+                    {
+                        "title": "04. A Canção de Moisés",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cad8788d3d7fc171b90ce03ce1039a619277a3d7"
+                    },
+                    {
+                        "title": "05. O Lobo e o Leão",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cc8be811e506d2b01619b774d56648c3d00c907"
+                    },
+                    {
+                        "title": "06. Gigantes Despertados [Breve]",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                    },
+                    {
+                        "title": "07. Davi e Golias - Parte 1 [Breve]",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                    },
+                    {
+                        "title": "08. Davi e Golias - Parte 2 [Breve]",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                    }
+                ]
+            }
+        ]
+    }
+]    
