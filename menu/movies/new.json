@@ -1,5 +1,527 @@
 [
     {"status": "on"},
+
+    {
+        "tmdb_id": 1249385,
+        "title": "O Mal Mora Aqui",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af7261f6dee6885e8dc64494448561499ccbe8fb"
+        ],
+        "year": 2024,
+        "genres": "Terror, Thriller",
+        "actors": [
+            {
+                "name": "Kia Dorsey",
+                "photo": "https://image.tmdb.org/t/p/w185/6zcmut5CbCansJvoyvGZFDn8mL6.jpg"
+            },
+            {
+                "name": "Emily Bennett",
+                "photo": "https://image.tmdb.org/t/p/w185/yIByRjhsfKqeUHQYFeM94oK8Iw.jpg"
+            }
+        ],
+        "rating": 4.6,
+        "director": "Jill Gevargizian",
+        "runtime": 86,
+        "premiered": "2024-10-18",
+        "poster": "https://image.tmdb.org/t/p/w500/y7nz1uSQt3J6i2fDdebukK1V1Ep.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/tTOTzbwAD7lzApFMLC8xTzSWvM.jpg",
+        "clearlogo": null,
+        "synopsis": "Participando de um desafio na Internet que exige invadir casas e viver sem ser detectado ao lado dos moradores, um casal em busca de emoções tem como alvo uma infame casa mal-assombrada e enfrenta uma série de incidentes assustadores enquanto testemunham uma família enlouquecendo.",
+        "studio": "Epic Pictures Group"
+    },
+    {
+        "tmdb_id": 1333099,
+        "title": "Dalia e o Livro Vermelho",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32e213a556b870e79098a7ae6a139e23e29d89ae"
+        ],
+        "year": 2024,
+        "genres": "Aventura, Drama, Fantasia, Animação",
+        "actors": [
+            {
+                "name": "Agustina Gonzalez Cirulnik",
+                "photo": "https://image.tmdb.org/t/p/w185/AdcA4Bd3Y2rEHnXyNyDbCeZtDB.jpg"
+            }
+        ],
+        "rating": 6.6,
+        "director": "David Bisbano",
+        "runtime": 106,
+        "premiered": "2024-10-17",
+        "poster": "https://image.tmdb.org/t/p/w500/4LCpqQxa95g9VniypAuGC6jbHaB.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/585hAEHBMNqyCt3pswF5MjImBrR.jpg",
+        "clearlogo": null,
+        "synopsis": "Dalia, filha de um famoso escritor que morreu recentemente, herda o legado de terminar seu livro. Para isso, Dalia se tornará parte do livro e ficará cara a cara com os personagens que assumiram o tema do livro para serem os protagonistas.",
+        "studio": "Vista Sur Films"
+    },
+    {
+        "tmdb_id": 850920,
+        "title": "Um Terror de Parentes",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7926b12c4e84d4c42bd910efe93ec6f842ad95d"
+        ],
+        "year": 2025,
+        "genres": "Terror, Comédia",
+        "actors": [
+            {
+                "name": "Brandon Flynn",
+                "photo": "https://image.tmdb.org/t/p/w185/b1pEWBm0g2dxoNg1hX2d8My92Q8.jpg"
+            },
+            {
+                "name": "Nik Dodani",
+                "photo": "https://image.tmdb.org/t/p/w185/5g7JgbpVV6DhMa6ltp2V4UCWX1N.jpg"
+            },
+            {
+                "name": "Brian Cox",
+                "photo": "https://image.tmdb.org/t/p/w185/yvoAgJTOvuNSPSKegcIcD62ySY9.jpg"
+            },
+            {
+                "name": "Edie Falco",
+                "photo": "https://image.tmdb.org/t/p/w185/jS2Hnr5OmntpX0J7EpH70zAG0mz.jpg"
+            },
+            {
+                "name": "Lisa Kudrow",
+                "photo": "https://image.tmdb.org/t/p/w185/ziatnwJRiBJIcc8jlk6xoClhfOy.jpg"
+            }
+        ],
+        "rating": 5.9,
+        "director": "Craig Johnson",
+        "runtime": 94,
+        "premiered": "2025-03-12",
+        "poster": "https://image.tmdb.org/t/p/w500/7YdDBrddepnP7biAsd2X7JJKcuV.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/h4peDpoepEmErFwBeoIE4yZ1pvJ.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/5OgN6pHMSCcVlROmw1kqKMFRnEt.png",
+        "synopsis": "Um casal gay aluga uma casa rural para passar o fim de semana com seus pais, mas descobre que ela já é habitada por uma entidade antiga.",
+        "studio": "Good Fear"
+    },
+    {
+        "tmdb_id": 832964,
+        "title": "Lee",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad854add04b64b3d04e8d3a71d7dd1a2c6cac7d0"
+        ],
+        "year": 2024,
+        "genres": "História, Drama, Guerra",
+        "actors": [
+            {
+                "name": "Kate Winslet",
+                "photo": "https://image.tmdb.org/t/p/w185/cPRq7uH3PIFcHilP15BrMKunink.jpg"
+            },
+            {
+                "name": "Andy Samberg",
+                "photo": "https://image.tmdb.org/t/p/w185/jMXU5oG3i93SH1yhkpbBGskFiJl.jpg"
+            },
+            {
+                "name": "Alexander Skarsgård",
+                "photo": "https://image.tmdb.org/t/p/w185/hIuDik6KDmHLrqZWxBVdXzUw1kq.jpg"
+            },
+            {
+                "name": "Marion Cotillard",
+                "photo": "https://image.tmdb.org/t/p/w185/biitzOF0GffIqFYLyOPkoiaOngQ.jpg"
+            },
+            {
+                "name": "Andrea Riseborough",
+                "photo": "https://image.tmdb.org/t/p/w185/dQzAXj6R8cTRqTwGzxUgegXbV13.jpg"
+            }
+        ],
+        "rating": 7.1,
+        "director": "Ellen Kuras",
+        "runtime": 117,
+        "premiered": "2024-09-12",
+        "poster": "https://image.tmdb.org/t/p/w500/ffw51hmecHHdTWihncJZgmp9XH2.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9SvSJJSgufM76vn9ddB0YMF6lzs.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/2Gfd9h2SWyDtvwUuZ5WgkCTnico.png",
+        "synopsis": "Tendo abandonado a carreira de modelo para se dedicar à fotografia, a estadunidense Lee Miller aproveita a vida com os amigos boêmios na França quando a Segunda Guerra Mundial eclode. Ela se junta ao artista que ama em Londres e consegue trabalho na revista Vogue britânica documentando o front doméstico, mas não gosta da posição e ultrapassa obstáculos burocráticos para chegar na perigosa linha de frente. Na França, Miller une forças com o fotojornalista David E. Scherman e os dois documentam a devastação da Europa.",
+        "studio": "Brouhaha Entertainment"
+    },
+    {
+        "tmdb_id": 1448273,
+        "title": "Henry e Klauss: Mestres da Mágica",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f2253382ab377dfdbb6b8cf0fc4c4729c3e7f17"
+        ],
+        "year": 2025,
+        "genres": "Documentário",
+        "actors": [
+            {
+                "name": "Henry Vargas",
+                "photo": "https://image.tmdb.org/t/p/w185/jvHfj2qFXbN1xERiWX45XI9jrYI.jpg"
+            },
+            {
+                "name": "Klauss Durães",
+                "photo": "https://image.tmdb.org/t/p/w185/wjgxR25pIXeQoHpF7tPGxmTivFq.jpg"
+            }
+        ],
+        "rating": 0.0,
+        "director": "Klauss Durães, Henry Vargas",
+        "runtime": 68,
+        "premiered": "2025-03-14",
+        "poster": "https://image.tmdb.org/t/p/w500/4Z4uGlnOWx2MqIsIaSa21dfuAvT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/5DQdpQFiktsfPDZYmcLHtyGrgAm.jpg",
+        "clearlogo": null,
+        "synopsis": "Se prepare para viver o impossível em Mestres da Mágica com Henry & Klauss! Levitação, teletransporte, escapismo e efeitos visuais de última geração no maior show de ilusionismo da América Latina, diante de 8 mil pessoas. E tem mais: o influenciador fenômeno Enaldinho se junta ao espetáculo, prometendo deixar tudo ainda mais eletrizante. Uma experiência inesquecível, perfeita para toda a família.",
+        "studio": "Henry & Klauss"
+    },
+    {
+        "tmdb_id": 923993,
+        "title": "Loteria Fatal",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1fd660bcf348daa59db4be12ed12ba90ebceaeb7"
+        ],
+        "year": 2023,
+        "genres": "Thriller, Crime",
+        "actors": [
+            {
+                "name": "Angus Cloud",
+                "photo": "https://image.tmdb.org/t/p/w185/cN3n9UBBtRASNLSibS8WUZD1d1A.jpg"
+            },
+            {
+                "name": "Elliot Knight",
+                "photo": "https://image.tmdb.org/t/p/w185/9FshFJvMIvHAJiBHNlazeMYNJKw.jpg"
+            },
+            {
+                "name": "Jessica Garza",
+                "photo": "https://image.tmdb.org/t/p/w185/7wz2LJq4VY9W0FAstCtRfZvjYel.jpg"
+            },
+            {
+                "name": "Sterling Beaumon",
+                "photo": "https://image.tmdb.org/t/p/w185/33uwIFqdXFVZGml5G45qSW0O9uQ.jpg"
+            },
+            {
+                "name": "Mousa Kraish",
+                "photo": "https://image.tmdb.org/t/p/w185/vO4adQjvUe2eJ5AlTpfLb44IGwf.jpg"
+            }
+        ],
+        "rating": 6.0,
+        "director": "Dan Brown",
+        "runtime": 89,
+        "premiered": "2023-11-10",
+        "poster": "https://image.tmdb.org/t/p/w500/3zwqemYFrYiWISWeC64OumJW95v.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/rkmjKERkVIqG3DhwY4mcRYH1RFf.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/yUBynsZh9qXoJVNihaRcmQTx8mM.png",
+        "synopsis": "Situado na véspera de Natal em uma pequena loja de conveniência perto da base da cadeia alimentar socioeconômica, onde ocorre uma situação de refém por causa de um bilhete de loteria de $ 156 milhões.",
+        "studio": "Paradigm Talent Agency"
+    },
+    {
+        "tmdb_id": 777443,
+        "title": "The Electric State",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38b5b34d942961efd5c0af9b8007ad9be119b338"
+        ],
+        "year": 2025,
+        "genres": "Ficção científica, Aventura, Drama",
+        "actors": [
+            {
+                "name": "Millie Bobby Brown",
+                "photo": "https://image.tmdb.org/t/p/w185/3Qblbk5JIMxzlGVd1k1ucSKK7rf.jpg"
+            },
+            {
+                "name": "Chris Pratt",
+                "photo": "https://image.tmdb.org/t/p/w185/83o3koL82jt30EJ0rz4Bnzrt2dd.jpg"
+            },
+            {
+                "name": "Anthony Mackie",
+                "photo": "https://image.tmdb.org/t/p/w185/kfTwOYr3iUucmYz8kPjhYy07G2Z.jpg"
+            },
+            {
+                "name": "Alan Tudyk",
+                "photo": "https://image.tmdb.org/t/p/w185/a9ZMieYNVy5vCPldEJfkY2puEmK.jpg"
+            },
+            {
+                "name": "Giancarlo Esposito",
+                "photo": "https://image.tmdb.org/t/p/w185/rcXnr82TwDzU4ZGdBeNXfG0ZQnZ.jpg"
+            }
+        ],
+        "rating": 6.8,
+        "director": "Joe Russo, Anthony Russo",
+        "runtime": 125,
+        "premiered": "2025-03-07",
+        "poster": "https://image.tmdb.org/t/p/w500/mUBxeBpI5xg66YhLJxg8Ppv0ArW.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/2n7lYEeIbucsEQCswRcVB6ZYmMP.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/3ytYkpRKXPdUO90Jom4QOkVTRLY.png",
+        "synopsis": "Uma adolescente órfã pega a estrada com um robô misterioso em busca do irmão há muito tempo desaparecido, encontrando no caminho um contrabandista e seu ajudante hilário.",
+        "studio": "AGBO"
+    },
+    {
+        "tmdb_id": 1123282,
+        "title": "Depravação",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f734626f7ee23e5fb85071f3d369d29d71d9656e"
+        ],
+        "year": 2024,
+        "genres": "Mistério, Thriller, Crime",
+        "actors": [
+            {
+                "name": "Taylor John Smith",
+                "photo": "https://image.tmdb.org/t/p/w185/6dXZRf8ePa1oxQN9a5hFGEjDoI0.jpg"
+            },
+            {
+                "name": "Victoria Justice",
+                "photo": "https://image.tmdb.org/t/p/w185/sF1SCpA4AiRdPebmOURw8JkIhS4.jpg"
+            },
+            {
+                "name": "Devon Ross",
+                "photo": "https://image.tmdb.org/t/p/w185/rkHwTd27pB43ORTbI21FLZNWvhZ.jpg"
+            },
+            {
+                "name": "Alex Roe",
+                "photo": "https://image.tmdb.org/t/p/w185/snMMhl76mgl6a3PU204vIUXOH5U.jpg"
+            },
+            {
+                "name": "Adam Lazarre-White",
+                "photo": "https://image.tmdb.org/t/p/w185/p63rzBpX50N94k81febrIwxUeQD.jpg"
+            }
+        ],
+        "rating": 4.8,
+        "director": "Paul Tamasy",
+        "runtime": 112,
+        "premiered": "2024-10-11",
+        "poster": "https://image.tmdb.org/t/p/w500/n19vWwaN3NgxazMbxxNYn5h30EE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/lMZNd7AiVKjA29imjOiTMXPUOeO.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/lEol5ekXLXLwzhQKWngzvs8YWFb.png",
+        "synopsis": "Um grupo de colegas de quarto em uma metrópole dos EUA mata inadvertidamente um homem inocente e prossegue em uma perigosa jornada de engano e encobrimento.",
+        "studio": "BondIt Media Capital"
+    },
+    {
+        "tmdb_id": 1030462,
+        "title": "10 Regras Para Salvar um Casamento",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d6c2dd66972b621c095843527dce095156ecef2"
+        ],
+        "year": 2023,
+        "genres": "Romance, Drama, Comédia",
+        "actors": [
+            {
+                "name": "Camille Chamoux",
+                "photo": "https://image.tmdb.org/t/p/w185/yEQBeUdwPiJ4gCybtrirBEiaD0g.jpg"
+            },
+            {
+                "name": "Damien Bonnard",
+                "photo": "https://image.tmdb.org/t/p/w185/cN9L9PWztvkhvkAllldc3j07HtC.jpg"
+            },
+            {
+                "name": "Ariane Ascaride",
+                "photo": "https://image.tmdb.org/t/p/w185/tBwt69J3EeSHUNYYtxbI0r40KoT.jpg"
+            },
+            {
+                "name": "Jeanne Balibar",
+                "photo": "https://image.tmdb.org/t/p/w185/nvy943Oez5Grrulv3FzLjzN8OSM.jpg"
+            },
+            {
+                "name": "Sabrina Seyvecou",
+                "photo": "https://image.tmdb.org/t/p/w185/lRdNKbc5m5jnuvL2soYzAZiWY7k.jpg"
+            }
+        ],
+        "rating": 5.3,
+        "director": "Ilan Klipper",
+        "runtime": 92,
+        "premiered": "2023-06-07",
+        "poster": "https://image.tmdb.org/t/p/w500/rcmoIeno4fh6QnNmg93TVNq8aj.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6pktUTdDV4FTUf1ilduPN2nGcHc.jpg",
+        "clearlogo": null,
+        "synopsis": "Marie e Simon vivem um casamento caótico, marcado por discussões e desafios na criação dos filhos. Apesar de não se suportarem mais, eles lutam para manter a união e criam dez mandamentos para alcançar a paz e o amor na relação.",
+        "studio": "Cinéfrance Studios"
+    },
+    {
+        "tmdb_id": 1117321,
+        "title": "Você Nunca Me Encontrará",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33633e9b3bea85440e6129599d424ae00fafa874"
+        ],
+        "year": 2023,
+        "genres": "Terror, Thriller",
+        "actors": [
+            {
+                "name": "Brendan Rock",
+                "photo": "https://image.tmdb.org/t/p/w185/11zTQERJqs45QkwLwPyDyuz16jx.jpg"
+            },
+            {
+                "name": "Jordan Cowan",
+                "photo": "https://image.tmdb.org/t/p/w185/snn78uWcOGn1v58gKbzkXSbijjj.jpg"
+            },
+            {
+                "name": "Elena Carapetis",
+                "photo": "https://image.tmdb.org/t/p/w185/sIbZfOYmNpVNohAgRNEksbSzxVB.jpg"
+            },
+            {
+                "name": "Angela Korng",
+                "photo": null
+            },
+            {
+                "name": "Finn Watson",
+                "photo": null
+            }
+        ],
+        "rating": 6.2,
+        "director": "Indianna Bell, Josiah Allen",
+        "runtime": 100,
+        "premiered": "2023-03-14",
+        "poster": "https://image.tmdb.org/t/p/w500/oa4IBO64nlc14lip3PmPO2vjMPq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/xYNiy7nCN7C01QI8OKTutstY3Vq.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/trbYsT9W6qeXJsvR8lGc9z2PSfs.png",
+        "synopsis": "Patrick, um homem estranho e solitário, mora num trailer. Em uma furiosa tempestade, uma jovem bate à sua porta, em busca de abrigo. Quanto mais tempo passa, mais a jovem conhece Patrick e, por consequência, mais difícil ela fica pra ela ir embora, pois logo ela irá começar a questionar as intenções de Patrick.",
+        "studio": "Someone Like U Productions"
+    },
+    {
+        "tmdb_id": 1096563,
+        "title": "O Fim da Lealdade",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:466c387df65d51c7c7b9106185ed0e5ecc67a15a"
+        ],
+        "year": 2023,
+        "genres": "Crime, Ação",
+        "actors": [
+            {
+                "name": "Braxton Angle",
+                "photo": "https://image.tmdb.org/t/p/w185/yqKXLMS31dfof7ZNF3GBbEp39F0.jpg"
+            },
+            {
+                "name": "Justice Joslin",
+                "photo": "https://image.tmdb.org/t/p/w185/1rqHEYlyYz6cNoGFNQaH3Lo4hk.jpg"
+            },
+            {
+                "name": "Simon Phillips",
+                "photo": "https://image.tmdb.org/t/p/w185/uGD1Wm0AIFCOcOoY9kdONGdpXMC.jpg"
+            },
+            {
+                "name": "Tenley Kellogg",
+                "photo": null
+            },
+            {
+                "name": "生島翔",
+                "photo": "https://image.tmdb.org/t/p/w185/wwCweYxYIWdXcEpgCeBngyl6Nt2.jpg"
+            }
+        ],
+        "rating": 5.0,
+        "director": "Hiroshi Katagiri",
+        "runtime": 90,
+        "premiered": "2023-03-07",
+        "poster": "https://image.tmdb.org/t/p/w500/sy1r4ABRjNrk6Xsp2hPnfhDPM7.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/qskMJe62v9kPj4tD9UawIGW0WxD.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/1h4kVGL2JL5D2iFfnSyzM9mmfv5.png",
+        "synopsis": "Grant faz parte de uma família de criminosos e jura vingança após o assassinato de seu pai. Conforme sua dor se transforma em violência, cabe ao seu melhor amigo, um agente federal, fazer de tudo para impedi-lo de perder o controle.",
+        "studio": "Desconhecido"
+    },
+    {
+        "tmdb_id": 835778,
+        "title": "O Agiota",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35e8493600d2afbcac3f6a031177d4765c06979e"
+        ],
+        "year": 2021,
+        "genres": "Crime, Drama",
+        "actors": [
+            {
+                "name": "Dušan Petković",
+                "photo": null
+            },
+            {
+                "name": "Strahinja Blažić",
+                "photo": "https://image.tmdb.org/t/p/w185/zFufDAPifytqSS6kI1MZzneR0MJ.jpg"
+            },
+            {
+                "name": "Jovo Maksić",
+                "photo": "https://image.tmdb.org/t/p/w185/3EnxE3TyXtTzQL6rnfnENXHTqcB.jpg"
+            },
+            {
+                "name": "Branko 'Čombe' Vidaković",
+                "photo": null
+            },
+            {
+                "name": "Milica Grujičić",
+                "photo": null
+            }
+        ],
+        "rating": 6.5,
+        "director": "Nemanja Ćeranić",
+        "runtime": 90,
+        "premiered": "2021-05-25",
+        "poster": "https://image.tmdb.org/t/p/w500/sdbAoj5akfFHj7dTDOpUIrTcHT1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/BkUz51SW5Slx1xeWsYSxgAviUg.jpg",
+        "clearlogo": null,
+        "synopsis": "Com a polícia em seu encalço, um agiota busca uma maneira de mudar de vida. Durante seu último dia antes da aposentadoria, ele tenta fazer o impossível: ficar longe dos problemas e deixar o seu passado para trás.",
+        "studio": "Tracktor Film"
+    },
+    {
+        "tmdb_id": 1297763,
+        "title": "Batman Ninja vs. Liga da Yakuza",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c34d017ddc98c78e954d09971a58e3b837fce88a"
+        ],
+        "year": 2025,
+        "genres": "Animação, Ação",
+        "actors": [
+            {
+                "name": "Koichi Yamadera",
+                "photo": "https://image.tmdb.org/t/p/w185/biov5jENp2XYfehkcdnRvi796Wi.jpg"
+            },
+            {
+                "name": "Yuki Kaji",
+                "photo": "https://image.tmdb.org/t/p/w185/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg"
+            },
+            {
+                "name": "河西健吾",
+                "photo": "https://image.tmdb.org/t/p/w185/u59FdPSHlA7JCWNnX1m10neLfT.jpg"
+            },
+            {
+                "name": "Daisuke Ono",
+                "photo": "https://image.tmdb.org/t/p/w185/5rjl28lx84JjRS0hzq3Ajvx2dhp.jpg"
+            },
+            {
+                "name": "Akira Ishida",
+                "photo": "https://image.tmdb.org/t/p/w185/kfUSe8g2XwIWMpWt3oU9cjV04FW.jpg"
+            }
+        ],
+        "rating": 4.5,
+        "director": "水﨑淳平, 高木真司",
+        "runtime": 90,
+        "premiered": "2025-03-17",
+        "poster": "https://image.tmdb.org/t/p/w500/y2mQtPz6uDdw4CRpSdU5tlGB2MA.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/j8nqTRqnvidMrU1WG84lRvr7CcK.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/aZZDtaWmD8a8M63xU4vUlvXnRMg.png",
+        "synopsis": "Nesta continuação de Batman Ninja, a Família Batman volta ao presente e descobre que o Japão desapareceu, e agora uma ilha gigante chamada “Hinomoto” flutua nos céus de Gotham City. No topo estão os Yakuza, um grupo de indivíduos superpoderosos que reinam sem honra ou humanidade e se parecem estranhamente com a Liga da Justiça. Agora, cabe a Batman e seus aliados salvar Gotham!",
+        "studio": "Kamikaze Douga"
+    },
+    {
+        "tmdb_id": 276839,
+        "title": "Lar Doce Inferno",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d67e35cfa4482ee5250b9398bb78748af243abb0",
+            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=aQpzfqeupRRoF1cKibNCyq1uOpmhDlAi78Oee7polWDwkUGQequF1TMAM72vlO56&expiry=Hhd04gX9hzFZ1jX4YKjOMA%3D%3D&mac=fa27e7579000b373c3937ce55736432d6ee5a3ed6a54c87ce87a87eac1337df6"
+        ],
+        "year": 2015,
+        "genres": "Comédia, Thriller",
+        "actors": [
+            {
+                "name": "Katherine Heigl",
+                "photo": "https://image.tmdb.org/t/p/w185/hjtNdbdy1qn25y5SGl71y8nR0Kg.jpg"
+            },
+            {
+                "name": "Patrick Wilson",
+                "photo": "https://image.tmdb.org/t/p/w185/tc1ezEfIY8BhCy85svOUDtpBFPt.jpg"
+            },
+            {
+                "name": "Madison Wolfe",
+                "photo": "https://image.tmdb.org/t/p/w185/eWD11hclW0N6CmXr0VbdgLRSC80.jpg"
+            },
+            {
+                "name": "Aiden Flowers",
+                "photo": "https://image.tmdb.org/t/p/w185/gKW6jxWfsiYGkKXNBfu2ZEylI2S.jpg"
+            },
+            {
+                "name": "Jordana Brewster",
+                "photo": "https://image.tmdb.org/t/p/w185/ceL0zxeVbWfCfhoIDZIE1NYqBWb.jpg"
+            }
+        ],
+        "rating": 5.4,
+        "director": "Anthony Burns",
+        "runtime": 98,
+        "premiered": "2015-03-13",
+        "poster": "https://image.tmdb.org/t/p/w500/fpBzu5ekoaDlzr1I6LO5ertxJkn.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/c4sKPgyJj19GBCAvUjpPRiiA45.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/4me1Efe5Izgcj1ISjKWUFvb7hcb.png",
+        "synopsis": "Don Champagne parece ter tudo: um negócio próspero, uma casa perfeita, filhos perfeitos e uma mulher perfeita. Infelizmente, quando Mona, a esposa, descobre que uma vendedora jovem e linda é amante dele, esse pedacinho suburbano do paraíso sai totalmente do controle. Don logo percebe que Mona vai fazer de tudo, inclusive matar, para manter a vida de conto de fadas deles, em que o \"Ponto de Vista é Tudo\".",
+        "studio": "Passcode Entertainment"
+    },
     {
         "tmdb_id": 1241982,
         "title": "Moana 2",
