@@ -21,7 +21,6 @@
         "poster": "https://exemplo.com/poster_filmes.jpg",
         "fanart": "https://exemplo.com/fanart_filmes.jpg",
         "subcategorias": [
-
             {
                 "categories": "2025",
                 "poster": "https://exemplo.com/poster_4k.jpg",
@@ -100,7 +99,7 @@
                 "poster": "https://exemplo.com/poster_series_populares.jpg",
                 "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
                 "description": "Séries mais assistidas",
-                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/popular.json",
+                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/popular.json"
             },
             {
                 "categories": "Melhores Avaliadas",
@@ -133,7 +132,7 @@
         "action": "list_favorites"
     },
     {
-        "menu_title": "[COLOR blue]Informações[/COLOR]",
+        "menu_title": "[COLOR blue]FAQ[/COLOR]",
         "poster": "https://png.pngtree.com/png-clipart/20190614/original/pngtree-info-vector-icon-png-image_3791375.jpg",
         "fanart": "https://exemplo.com/fanart_sobre.jpg",
         "icon": "https://exemplo.com/icone_sobre.png",
