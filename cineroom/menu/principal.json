@@ -21,6 +21,15 @@
         "poster": "https://exemplo.com/poster_filmes.jpg",
         "fanart": "https://exemplo.com/fanart_filmes.jpg",
         "subcategorias": [
+
+            {
+                "categories": "2025",
+                "poster": "https://exemplo.com/poster_4k.jpg",
+                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
+                "description": "Filmes lançados em 2025",
+                "action": "list_movies_by_specific_year",
+                "year": 2025
+            },
             {
                 "categories": "Filmes Populares",
                 "poster": "https://exemplo.com/poster_4k.jpg",
@@ -36,14 +45,6 @@
                 "action": "list_movies_by_rating"
             },
             {
-                "categories": "2025",
-                "poster": "https://exemplo.com/poster_4k.jpg",
-                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-                "description": "Filmes lançados em 2025",
-                "action": "list_movies_by_specific_year",
-                "year": 2025
-            },
-            {
                 "categories": "Trilogias e Coleções",
                 "poster": "https://exemplo.com/poster_colecoes.jpg",
                 "backdrop": "https://exemplo.com/backdrop_colecoes.jpg",
@@ -52,7 +53,7 @@
                 "sort_method": "rating"
             },
             {
-                "categories": "4K Ultra Hd",
+                "categories": "4K Ultra HD",
                 "poster": "https://exemplo.com/poster_colecoes.jpg",
                 "backdrop": "https://exemplo.com/backdrop_colecoes.jpg",
                 "description": "Filmes com qualidade 4K",
@@ -87,20 +88,20 @@
         "fanart": "https://exemplo.com/fanart_series.jpg",
         "subcategorias": [
             {
-                "categories": "Séries Populares",
-                "poster": "https://exemplo.com/poster_series_populares.jpg",
-                "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
-                "description": "Séries mais assistidas",
-                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/popular",
-                "sort_method": "label"
-            },
-            {
                 "categories": "2025",
                 "poster": "https://exemplo.com/poster_series_populares.jpg",
                 "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
                 "description": "Séries de 2025",
                 "action": "list_series_by_specific_year",
                 "year": 2025
+            },
+            {
+                "categories": "Séries Populares",
+                "poster": "https://exemplo.com/poster_series_populares.jpg",
+                "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
+                "description": "Séries mais assistidas",
+                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/popular",
+                "sort_method": "label"
             },
             {
                 "categories": "Melhores Avaliadas",
