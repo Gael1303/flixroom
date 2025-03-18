@@ -1,5 +1,5 @@
 [
-{
+    {
         "title": "Os Bandidos do Tempo",
         "rate": 6.3,
         "classification": "12",
@@ -8,9 +8,13 @@
         "sinopse": "A paixão de Kevin, de onze anos, pela história é testada quando ele se junta a um grupo de bandidos que viajam no tempo em uma aventura hilária e de alto risco.",
         "poster": "https://image.tmdb.org/t/p/original/5GeQCZwtUvxBLlsccGK2qvMpFBH.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/33Al50uZ9cZSddklcuHTaHmNxeE.jpg",
-        "studio": ["Apple TV+"],
-        "genres": ["Sci-Fi & Fantasia, Ação & Aventura, Comédia"],
-		"type": "tvshow"
+        "studio": [
+            "Apple TV+"
+        ],
+        "genres": [
+            "Sci-Fi & Fantasia, Ação & Aventura, Comédia"
+        ],
+        "type": "tvshow",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -51,10 +55,14 @@
         "sinopse": "Evan Marquez é um professor de ensino médio em Austin, Texas, que frequentemente se encontra na interseção dos aspectos pessoais, profissionais e políticos de trabalhar em uma escola de ensino médio.",
         "poster": "https://image.tmdb.org/t/p/original/t0hEVuk1cTJ1ryT81fRIJ0xkqet.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/kKuXtcFRhQcXbA1C20WHO1XnEqL.jpg",
-        "studio": ["Disney+"],
+        "studio": [
+            "Disney+"
+        ],
         "episode_count": 8,
-        "genres": ["Comédia"],
-		"type": "tvshow"
+        "genres": [
+            "Comédia"
+        ],
+        "type": "tvshow",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -79,9 +87,13 @@
         "sinopse": "Depois de dar match em um app de namoro com o noivo que desapareceu há vários anos, a detetive Kat Donovan descobre que alguns segredos devem permanecer no passado.",
         "poster": "https://image.tmdb.org/t/p/original/dPAKujqmx2QMWpvro1EGezSJ8SC.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/iC92jNOuhxSIGTFoMmAjtyaNOGV.jpg",
-        "studio": ["Netflix"],
-        "genres": ["Mistério, Drama, Crime"],
-		"type": "tvshow"
+        "studio": [
+            "Netflix"
+        ],
+        "genres": [
+            "Mistério, Drama, Crime"
+        ],
+        "type": "tvshow",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -98,17 +110,58 @@
         ]
     },
     {
+        "tmdb_id": 202555,
+        "title": "Demolidor: Renascido",
+        "rating": 8.9,
+        "classification": "18",
+        "year": 2025,
+        "aired": "04/03/2025",
+        "synopsis": "Matt Murdock, um advogado cego com habilidades fantásticas, luta por justiça através de seu agitado escritório de advocacia, enquanto o ex-chefe do crime Wilson Fisk busca seus próprios empreendimentos políticos em Nova Iorque. Quando suas identidades passadas começam a emergir, seus caminhos se cruzam perigosamente.",
+        "poster": "https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/qHCpG49qxs4owLgmhh0T62ErUZv.jpg",
+        "studio": [
+            "Disney+"
+        ],
+        "genres": [
+            "Drama, Crime"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 9.4,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg",
+                "episodios": [
+                    {
+                        "title": "01. Meia Hora do Céu",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:602a89697de71b0e242478f9b8cb4fe326cc577d"
+                    },
+                    {
+                        "title": "02. Ótica",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:602a89697de71b0e242478f9b8cb4fe326cc577d"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tmdb_id": 243881,
         "title": "Casa de Davi",
-        "rate": 7.7,
+        "rating": 7.7,
         "classification": "16",
         "year": 2025,
         "aired": "02/27/2025",
         "sinopse": "Conta a história da ascensão do ícone bíblico Davi, que se torna o mais famoso rei de Israel. O outrora poderoso rei Saul é vítima de seu próprio orgulho. Seguindo as ordens de Deus, o profeta Samuel unge um pária adolescente como o novo rei.",
         "poster": "https://image.tmdb.org/t/p/original/sOhUmdY6xoniIjGzFCD0Zf56u3s.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/83y6rp55fVjVaEq9KkRtG7MgS8U.jpg",
-        "studio": ["Prime Video"],
-        "genres": ["Drama"],
-		"type": "tvshow"
+        "studio": [
+            "Prime Video"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "type": "tvshow",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -121,27 +174,67 @@
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef5dd57f0931b64e258b52c94a6b1b6a6fe1c7b7"
                     },
                     {
-                        "title": "04. A Canção de Moisés",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cad8788d3d7fc171b90ce03ce1039a619277a3d7"
+                        "title": "02. Um Abismo Chama Outro Abismo",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef5dd57f0931b64e258b52c94a6b1b6a6fe1c7b7"
                     },
                     {
-                        "title": "05. O Lobo e o Leão",
-                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cc8be811e506d2b01619b774d56648c3d00c907"
+                        "title": "03. A Unção",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef5dd57f0931b64e258b52c94a6b1b6a6fe1c7b7"
                     },
                     {
-                        "title": "06. Gigantes Despertados [Breve]",
+                        "title": "1x04. A Canção de Moisés [Breve]",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
                     },
                     {
-                        "title": "07. Davi e Golias - Parte 1 [Breve]",
+                        "title": "1x05. O Lobo e o Leão [Breve]",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
                     },
                     {
-                        "title": "08. Davi e Golias - Parte 2 [Breve]",
+                        "title": "1x06. Gigantes Despertados [Breve]",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                    },
+                    {
+                        "title": "1x07. Davi e Golias - Parte 1 [Breve]",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                    },
+                    {
+                        "title": "1x08. Davi e Golias - Parte 2 [Breve]",
                         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
                     }
                 ]
             }
         ]
+    },
+    {
+        "tmdb_id": 245927,
+        "title": "Paraiso",
+        "rating": 7.8,
+        "classification": "16",
+        "year": 2025,
+        "aired": "26/01/2025",
+        "sinopse": "Se passa em uma comunidade idílica habitada por alguns dos indivíduos mais proeminentes do mundo. Mas um assassinato chocante acaba com essa tranquilidade, desencadeando uma investigação de alto risco.",
+        "poster": "https://image.tmdb.org/t/p/original/wWoZDnP8eu4bpEnKF0WQ6VNF2j4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/qV2REPQ7pPlmQT7Mljkca0wi4Bx.jpg",
+        "studio": [
+            "Hulu"
+        ],
+        "genres": [
+            "Drama, Crime"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 6.8,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/rkwqy7uE0ORdUxDFNeVq7vpJORN.jpg",
+                "episodios": [
+                    {
+                        "title": "Paradise: Temporada 1",
+                        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2120f60e2e8fd24dfd741a5fa4d92de989efe61"
+                    }
+                ]
+            }
+        ]
     }
-]    
+]
