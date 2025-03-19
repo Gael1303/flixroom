@@ -110,7 +110,14 @@
                 "year": 2025
             },
             {
-                "categories": "Melhores Avaliadas",
+                "categories": "Mais Populares (TMDb)",
+                "poster": "https://exemplo.com/poster_series_rating.jpg",
+                "backdrop": "https://exemplo.com/backdrop_series_rating.jpg",
+                "description": "Séries mais populares",
+                "action": "list_series_by_popularity"
+            },
+            {
+                "categories": "Melhores Avaliadas (TMDb)",
                 "poster": "https://exemplo.com/poster_series_rating.jpg",
                 "backdrop": "https://exemplo.com/backdrop_series_rating.jpg",
                 "description": "Séries com as melhores avaliações",
