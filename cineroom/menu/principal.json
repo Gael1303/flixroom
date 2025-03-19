@@ -10,11 +10,11 @@
         "action": "search_videos"
     },
     {
-        "menu_title": "Canais",
+        "menu_title": "Canais (on)",
         "poster": "https://w7.pngwing.com/pngs/12/837/png-transparent-brown-crt-tv-illustration-television-show-icon-tv-television-rectangle-media-thumbnail.png",
         "fanart": "",
         "action": "list_canais",
-        "externallink": "https://raw.githubusercontent.com/cineroom1/teste/refs/heads/main/teste4"
+        "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista1"
     },
     {
         "menu_title": "Filmes",
