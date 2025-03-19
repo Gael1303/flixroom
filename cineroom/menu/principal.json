@@ -117,12 +117,12 @@
                 "action": "list_series_by_rating"
             },
             {
-                "categories": "Random",
+                "categories": "Tudo",
                 "poster": "https://exemplo.com/poster_series_populares.jpg",
                 "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
-                "description": "Séries mais assistidas",
+                "description": "Todas as Séries em um só lugar",
                 "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/popular.json",
-                "shuffle": true 
+                "sort_method": "label"
             },
             {
                 "categories": "Por Gênero",
