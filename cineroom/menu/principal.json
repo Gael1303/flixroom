@@ -1,7 +1,7 @@
 [
     {"status": "on"},
     {
-        "menu_title": "[COLOR yellow]Pesquisar[/COLOR]",
+        "menu_title": "[COLOR gold]Buscar[/COLOR]",
         "poster": "https://archive.org/download/1700740365535/1700740365535.png",
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
         "icon": "https://exemplo.com/icone_favoritos.png",
@@ -17,7 +17,7 @@
         "subcategorias": [
             {
                 "categories": "2025",
-                "poster": "https://exemplo.com/poster_4k.jpg",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Filmes lançados em 2025",
                 "action": "list_movies_by_specific_year",
@@ -25,21 +25,21 @@
             },
             {
                 "categories": "Mais Populares",
-                "poster": "https://exemplo.com/poster_4k.jpg",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Filmes mais assistidos",
                 "action": "list_movies_by_popularity"
             },
             {
                 "categories": "Melhores Avaliados",
-                "poster": "https://exemplo.com/poster_rating.jpg",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_rating.jpg",
                 "description": "Filmes com as melhores avaliações",
                 "action": "list_movies_by_rating"
             },
             {
                 "categories": "Trilogias e Coleções",
-                "poster": "https://exemplo.com/poster_colecoes.jpg",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_colecoes.jpg",
                 "description": "Explore as maiores franquias e coleções de filmes",
                 "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/movies/sagas.json",
@@ -47,42 +47,42 @@
             },
             {
                 "categories": "4K Ultra HD",
-                "poster": "https://exemplo.com/poster_4k.jpg",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Filmes com qualidade 4K para uma experiência imersiva",
                 "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/movies/4k.json"
             },
             {
                 "categories": "Por Gênero",
-                "poster": "https://exemplo.com/poster_generos.jpg",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_generos.jpg",
                 "description": "Filmes organizados por gênero",
                 "action": "list_genres"
             },
             {
                 "categories": "Por Estudios",
-                "poster": "https://exemplo.com/poster_4k.jpg",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Estudios diversos de filmes",
                 "action": "list_studios"
             },
             {
                 "categories": "Por Ano",
-                "poster": "https://exemplo.com/poster_anos.jpg",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_anos.jpg",
                 "description": "Filmes organizados por ano de lançamento",
                 "action": "list_years"
             },
             {
                 "categories": "Por Atores",
-                "poster": "https://exemplo.com/poster_atores.jpg",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_atores.jpg",
                 "description": "Filmes organizados por atores principais",
                 "action": "list_actors"
             },
             {
                 "categories": "Tudo",
-                "poster": "https://exemplo.com/poster_4k.jpg",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Todos os Filmes em um só lugar",
                 "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/movies/popular.json",
@@ -98,7 +98,7 @@
         "subcategorias": [
             {
                 "categories": "2025",
-                "poster": "https://exemplo.com/poster_series_populares.jpg",
+                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
                 "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
                 "description": "Séries de 2025",
                 "action": "list_series_by_specific_year",
@@ -106,42 +106,42 @@
             },
             {
                 "categories": "Mais Populares",
-                "poster": "https://exemplo.com/poster_series_rating.jpg",
+                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
                 "backdrop": "https://exemplo.com/backdrop_series_rating.jpg",
                 "description": "Séries mais populares",
                 "action": "list_series_by_popularity"
             },
             {
                 "categories": "Melhores Avaliadas",
-                "poster": "https://exemplo.com/poster_series_rating.jpg",
+                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
                 "backdrop": "https://exemplo.com/backdrop_series_rating.jpg",
                 "description": "Séries com as melhores avaliações",
                 "action": "list_series_by_rating"
             },
             {
                 "categories": "Por Gênero",
-                "poster": "https://exemplo.com/poster_series_generos.jpg",
+                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
                 "backdrop": "https://exemplo.com/backdrop_series_generos.jpg",
                 "description": "Séries organizadas por gênero",
                 "action": "list_series_genres"
             },
             {
                 "categories": "Por Plataforma",
-                "poster": "https://exemplo.com/poster_series_plataformas.jpg",
+                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
                 "backdrop": "https://exemplo.com/backdrop_series_plataformas.jpg",
                 "description": "Séries organizadas por plataforma de streaming",
                 "action": "list_series_studios"
             },
              {
                 "categories": "Animes",
-                "poster": "https://exemplo.com/poster_series_plataformas.jpg",
+                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
                 "backdrop": "https://exemplo.com/backdrop_series_plataformas.jpg",
                 "description": "Aba especifica para animes",
                 "action": "list_anime_series"
             },
             {
                 "categories": "Tudo",
-                "poster": "https://exemplo.com/poster_series_populares.jpg",
+                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
                 "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
                 "description": "Todas as Séries em um só lugar",
                 "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/popular.json",
@@ -157,7 +157,7 @@
         "action": "list_favorites"
     },
     {
-        "menu_title": "[COLOR blue]FAQ[/COLOR]",
+        "menu_title": "[COLOR blue]Informações[/COLOR]",
         "poster": "https://archive.org/download/1700740365556/1700740365704.png",
         "fanart": "https://exemplo.com/fanart_sobre.jpg",
         "icon": "https://exemplo.com/icone_sobre.png",
