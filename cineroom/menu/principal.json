@@ -30,7 +30,7 @@
                 "year": 2025
             },
             {
-                "categories": "Todos os Filmes",
+                "categories": "Tudo",
                 "poster": "https://exemplo.com/poster_4k.jpg",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Todos os Filmes em um só lugar",
@@ -38,14 +38,14 @@
                 "sort_method": "label"
             },
             {
-                "categories": "Filmes Populares",
+                "categories": "Filmes Populares (TMDb)",
                 "poster": "https://exemplo.com/poster_4k.jpg",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Filmes mais assistidos",
-                "externallink": "list_movies_by_popularity"
+                "action": "list_movies_by_popularity"
             },
             {
-                "categories": "Melhores Avaliados",
+                "categories": "Melhores Avaliados (TMDb)",
                 "poster": "https://exemplo.com/poster_rating.jpg",
                 "backdrop": "https://exemplo.com/backdrop_rating.jpg",
                 "description": "Filmes com as melhores avaliações",
