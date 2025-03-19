@@ -1,10 +1,12 @@
 [
     {
-        "menu_title": "[COLOR yellow]Buscar[/COLOR]",
+        "menu_title": "[COLOR yellow]Pesquisar[/COLOR]",
         "poster": "https://archive.org/download/1700740365535/1700740365535.png",
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
         "icon": "https://exemplo.com/icone_favoritos.png",
-        "action": "search_videos"
+        "action": "search_videos",
+        "status": "on"
+        
     },
     {
         "menu_title": "Filmes",
