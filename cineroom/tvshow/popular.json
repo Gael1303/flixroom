@@ -16231,6 +16231,66 @@
         ]
     },
     {
+        "tmdb_id": 40008,
+        "popularity": 3.79,
+        "title": "Hannibal",
+        "rating": 8.5,
+        "classification": "18",
+        "year": 2013,
+        "premiered": "04/04/2013",
+        "synopsis": "Will Graham é um investigador do FBI que tem o talento de se inserir nas cenas dos crimes e visualizar exatamente o que aconteceu. Tal capacidade ajuda a solucionar muitos casos, mas também exige muito dele, obrigando-o a consultar o psiquiatra Hannibal Lecter. Mal sabe Graham, que o dr. Lecter não é um psiquiatra comum.",
+        "poster": "https://image.tmdb.org/t/p/original/pbV2eLnKSIm1epSZt473UYfqaeZ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/vlG182ZY2WMzD5bjFZNnhyvv5V4.jpg",
+        "studio": [
+            "Amazon"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/9aCWg7kU0865IPJmv8ui1kEQBNX.jpg",
+                "episodios": [
+                    {
+                        "title": "Hannibal: 1ª Temporada",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97451d28843100e246760ab4a5332f60df196365"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/fjSfJNUoFPigBngA1isQxPnzxrO.jpg",
+                "episodios": [
+                    {
+                        "title": "Hannibal: 2ª Temporada",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a660bbf0486b5c695bd3ef0167e51e60f6108ce"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/rHS29GbV7Ffmn66Ewndgl791fja.jpg",
+                "episodios": [
+                    {
+                        "title": "Hannibal: 3ª Temporada",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb7d9f679e60b56c5e97188265bc03c576247ded"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "tmdb_id": 67744,
         "popularity": 3.79,
         "title": "Mindhunter",
@@ -17505,6 +17565,278 @@
                         "title": "Assassino Zen: 1ª Temporada",
                         "url": [
                             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a9adf93b9722bb5bbd64906ae99468fa7d7043a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tmdb_id": 60059,
+        "popularity": 3.682,
+        "title": "Better Call Saul",
+        "rating": 8.7,
+        "year": 2015,
+        "premiered": "08/02/2015",
+        "synopsis": "Antes de se transformar no infame Saul Goodman, o advogado de Breaking Bad era mais inocente, mas não era santo.",
+        "poster": "https://image.tmdb.org/t/p/original/4g3UBFRKrA3Iq3wilqHhAIpQdTN.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.jpg",
+        "studio": [
+            "Netflix"
+        ],
+        "genres": [
+            "Crime"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/ba4YPnwVNNF6mTgMtYFHPdG4hON.jpg",
+                "episodios": [
+                    {
+                        "title": "Better Call Saul - 1ª Temporada Completa",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce3c1ee3884e249681540fcd9ab528781763975c"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/cU58ielafD9QIsZmYwCCDS8cAWF.jpg",
+                "episodios": [
+                    {
+                        "title": "Better Call Saul - 2ª Temporada Completa",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d8aa6da526e9b01cfd40aee86c5ffe7e5a8cf09"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/4JeoLWgoF3RRiN9b6vQHSn9OOGr.jpg",
+                "episodios": [
+                    {
+                        "title": "3X1 - Mabel",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3735bb34880f540754a2f0dd50226d936b12af11"
+                        ]
+                    },
+                    {
+                        "title": "3X2 - Testemunha",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d3b02e60300a481e14eb1f0423c9074e478e73c"
+                        ]
+                    },
+                    {
+                        "title": "3X3 - Prejuízo irrecuperável",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1bf11966a32988e0b611ca41f3dd49bf4634ec1a"
+                        ]
+                    },
+                    {
+                        "title": "3X4 - Sabrosito",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6abca0a74fd1cb66858d0503fdbbcd81bac623f5"
+                        ]
+                    },
+                    {
+                        "title": "3X5 - Sacanagem",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0d8598b422a1d26b34ed9cec7783d5def6300a8"
+                        ]
+                    },
+                    {
+                        "title": "3X6 - Revolução de branding",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b078a815fa752c3dcfc00bc6f1c023a906d84c9e"
+                        ]
+                    },
+                    {
+                        "title": "3X7 - Despesas",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e7a485196c7ff20efd55f794f8569461518732f"
+                        ]
+                    },
+                    {
+                        "title": "3X8 - Escorregada",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23755379af4f12e3f4f2e20f0b2b02d9c71e343b"
+                        ]
+                    },
+                    {
+                        "title": "3X9 - Queda",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2be8e46f4c0a0f5f55bd4a1f107495ca5ac9625c"
+                        ]
+                    },
+                    {
+                        "title": "3X10 - Lanterna",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f81c6e6f537e396acb223b8a662d38ce879bdb59"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "4ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/ssagf6DB1S4TAbg3x8a9FcQHctQ.jpg",
+                "episodios": [
+                    {
+                        "title": "Better Call Saul - 4ª Temporada Completa",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a877b38ec72e6b1227550c6d801d228db3856ac"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "5ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/sf9ojuuhExU3GegmGxdrC4TrcJv.jpg",
+                "episodios": [
+                    {
+                        "title": "5X1 - Mago",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e20ddfcfbfa14489f7748d0b81fd6a6f035e8a7b"
+                        ]
+                    },
+                    {
+                        "title": "5X2 - 50% de Desconto",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5f96e9a8fb1f92c4d12dad062bd42c75fe5121f"
+                        ]
+                    },
+                    {
+                        "title": "5X3 - O Cara Certo",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:138ad0ee55fdfb5f920e40e2279c87c071e8786e"
+                        ]
+                    },
+                    {
+                        "title": "5X4 - Namastê",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d56c541d41b1eb255d243c60bae201241d73da9d"
+                        ]
+                    },
+                    {
+                        "title": "5X5 - Dedicado a Max",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2b100da02f455e3f1e5e10e20d11284e25896fd"
+                        ]
+                    },
+                    {
+                        "title": "5X6 - Wexler contra Goodman",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff34d03ab84aa49ab8c7d5214ffa25c31cf7f2d5"
+                        ]
+                    },
+                    {
+                        "title": "5X7 - JMM",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5a336da9e78960f8ff1bcc90625417c0fb644fa"
+                        ]
+                    },
+                    {
+                        "title": "5X8 - A Mula",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a8b9472a5ca0debde73f9d50e58650740ca57d9"
+                        ]
+                    },
+                    {
+                        "title": "5X9 - Estradas das Más Escolhas",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:394488aa8f4cb8413ec513c66126c931d78d9a8d"
+                        ]
+                    },
+                    {
+                        "title": "5X10 - Imperdoável",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab6f0d19d482cc185e6037f7b089415cbd4f1457"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "6ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/rbNc44otT6VRd7QpxqlUAMyByaQ.jpg",
+                "episodios": [
+                    {
+                        "title": "6X1 - Vinho e rosas",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:681b9e820f91003d63877e5ee4d232b98a88bfa8"
+                        ]
+                    },
+                    {
+                        "title": "6X2 - Punição e Recompensa",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:681b9e820f91003d63877e5ee4d232b98a88bfa8"
+                        ]
+                    },
+                    {
+                        "title": "6X3 - Entre a Cruz e a Espada",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef223ccf824e8f2acc2c086e37633f0c0ba0d1ac"
+                        ]
+                    },
+                    {
+                        "title": "6X4 - Não Fique no Caminho",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d5126101d1bb2bf5d5bcbc896c596f4c7881dbd"
+                        ]
+                    },
+                    {
+                        "title": "6X5 - Machucados",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26eecb2d087788f174a996326a1524ea5f9c2abe"
+                        ]
+                    },
+                    {
+                        "title": "6X6 - Segundas Intenções",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1230550048568453caf425f33f3bfd2cbae7f0fe"
+                        ]
+                    },
+                    {
+                        "title": "6X7 - Plano e Execução",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c15736f2d09ff42b973d26b5fb9ffafdc8774f6"
+                        ]
+                    },
+                    {
+                        "title": "6X8 - Mirar e Atirar",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3bf3e566a9661c1543c3ff76c2fa74ff736cd40"
+                        ]
+                    },
+                    {
+                        "title": "6X9 - Jogos e Diversão",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d89e5dc377d46fbe4ed7c7d55450b24d5e50a6d"
+                        ]
+                    },
+                    {
+                        "title": "6X10 - Nippy",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54c669ed1e85c92f25a6105516255cd1c942dbb7"
+                        ]
+                    },
+                    {
+                        "title": "6X11 - Breaking Bad",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5561389e00f4e56ca0f80fa15d3dcbe5eb91aac8"
+                        ]
+                    },
+                    {
+                        "title": "6X12 - Lágrimas",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71a2ada550467d58e7b8e8621cada2feb56addd1"
+                        ]
+                    },
+                    {
+                        "title": "6X13 - A saída de Saul",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc81dc5bdbb505fd419b3dcbb8f9312e2f59c087"
                         ]
                     }
                 ]
@@ -27276,338 +27608,6 @@
                         "title": "Volta Priscila: Temporada 1",
                         "url": [
                             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc105d368528704d559921dba4f2bb334f533d0d"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "tmdb_id": 40880,
-        "popularity": 0.042,
-        "title": "Hannibal",
-        "rating": 8.5,
-        "classification": "18",
-        "year": 2013,
-        "premiered": "04/04/2013",
-        "synopsis": "Will Graham é um investigador do FBI que tem o talento de se inserir nas cenas dos crimes e visualizar exatamente o que aconteceu. Tal capacidade ajuda a solucionar muitos casos, mas também exige muito dele, obrigando-o a consultar o psiquiatra Hannibal Lecter. Mal sabe Graham, que o dr. Lecter não é um psiquiatra comum.",
-        "poster": "https://image.tmdb.org/t/p/original/pbV2eLnKSIm1epSZt473UYfqaeZ.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/vlG182ZY2WMzD5bjFZNnhyvv5V4.jpg",
-        "studio": [
-            "Amazon"
-        ],
-        "genres": [
-            "Drama"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/9aCWg7kU0865IPJmv8ui1kEQBNX.jpg",
-                "episodios": [
-                    {
-                        "title": "Hannibal: 1ª Temporada",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97451d28843100e246760ab4a5332f60df196365"
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "2ª Temporada",
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/fjSfJNUoFPigBngA1isQxPnzxrO.jpg",
-                "episodios": [
-                    {
-                        "title": "Hannibal: 2ª Temporada",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a660bbf0486b5c695bd3ef0167e51e60f6108ce"
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "3ª Temporada",
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/rHS29GbV7Ffmn66Ewndgl791fja.jpg",
-                "episodios": [
-                    {
-                        "title": "Hannibal: 3ª Temporada",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb7d9f679e60b56c5e97188265bc03c576247ded"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "tmdb_id": 60069,
-        "popularity": 0,
-        "title": "Better Call Saul",
-        "rating": 8.7,
-        "year": 2015,
-        "premiered": "08/02/2015",
-        "synopsis": "Antes de se transformar no infame Saul Goodman, o advogado de Breaking Bad era mais inocente, mas não era santo.",
-        "poster": "https://image.tmdb.org/t/p/original/4g3UBFRKrA3Iq3wilqHhAIpQdTN.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.jpg",
-        "studio": [
-            "Netflix"
-        ],
-        "genres": [
-            "Crime"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/ba4YPnwVNNF6mTgMtYFHPdG4hON.jpg",
-                "episodios": [
-                    {
-                        "title": "Better Call Saul - 1ª Temporada Completa",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce3c1ee3884e249681540fcd9ab528781763975c"
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "2ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/cU58ielafD9QIsZmYwCCDS8cAWF.jpg",
-                "episodios": [
-                    {
-                        "title": "Better Call Saul - 2ª Temporada Completa",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d8aa6da526e9b01cfd40aee86c5ffe7e5a8cf09"
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "3ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/4JeoLWgoF3RRiN9b6vQHSn9OOGr.jpg",
-                "episodios": [
-                    {
-                        "title": "3X1 - Mabel",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3735bb34880f540754a2f0dd50226d936b12af11"
-                        ]
-                    },
-                    {
-                        "title": "3X2 - Testemunha",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d3b02e60300a481e14eb1f0423c9074e478e73c"
-                        ]
-                    },
-                    {
-                        "title": "3X3 - Prejuízo irrecuperável",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1bf11966a32988e0b611ca41f3dd49bf4634ec1a"
-                        ]
-                    },
-                    {
-                        "title": "3X4 - Sabrosito",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6abca0a74fd1cb66858d0503fdbbcd81bac623f5"
-                        ]
-                    },
-                    {
-                        "title": "3X5 - Sacanagem",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0d8598b422a1d26b34ed9cec7783d5def6300a8"
-                        ]
-                    },
-                    {
-                        "title": "3X6 - Revolução de branding",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b078a815fa752c3dcfc00bc6f1c023a906d84c9e"
-                        ]
-                    },
-                    {
-                        "title": "3X7 - Despesas",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e7a485196c7ff20efd55f794f8569461518732f"
-                        ]
-                    },
-                    {
-                        "title": "3X8 - Escorregada",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23755379af4f12e3f4f2e20f0b2b02d9c71e343b"
-                        ]
-                    },
-                    {
-                        "title": "3X9 - Queda",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2be8e46f4c0a0f5f55bd4a1f107495ca5ac9625c"
-                        ]
-                    },
-                    {
-                        "title": "3X10 - Lanterna",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f81c6e6f537e396acb223b8a662d38ce879bdb59"
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "4ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/ssagf6DB1S4TAbg3x8a9FcQHctQ.jpg",
-                "episodios": [
-                    {
-                        "title": "Better Call Saul - 4ª Temporada Completa",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a877b38ec72e6b1227550c6d801d228db3856ac"
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "5ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/sf9ojuuhExU3GegmGxdrC4TrcJv.jpg",
-                "episodios": [
-                    {
-                        "title": "5X1 - Mago",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e20ddfcfbfa14489f7748d0b81fd6a6f035e8a7b"
-                        ]
-                    },
-                    {
-                        "title": "5X2 - 50% de Desconto",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5f96e9a8fb1f92c4d12dad062bd42c75fe5121f"
-                        ]
-                    },
-                    {
-                        "title": "5X3 - O Cara Certo",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:138ad0ee55fdfb5f920e40e2279c87c071e8786e"
-                        ]
-                    },
-                    {
-                        "title": "5X4 - Namastê",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d56c541d41b1eb255d243c60bae201241d73da9d"
-                        ]
-                    },
-                    {
-                        "title": "5X5 - Dedicado a Max",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2b100da02f455e3f1e5e10e20d11284e25896fd"
-                        ]
-                    },
-                    {
-                        "title": "5X6 - Wexler contra Goodman",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff34d03ab84aa49ab8c7d5214ffa25c31cf7f2d5"
-                        ]
-                    },
-                    {
-                        "title": "5X7 - JMM",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5a336da9e78960f8ff1bcc90625417c0fb644fa"
-                        ]
-                    },
-                    {
-                        "title": "5X8 - A Mula",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a8b9472a5ca0debde73f9d50e58650740ca57d9"
-                        ]
-                    },
-                    {
-                        "title": "5X9 - Estradas das Más Escolhas",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:394488aa8f4cb8413ec513c66126c931d78d9a8d"
-                        ]
-                    },
-                    {
-                        "title": "5X10 - Imperdoável",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab6f0d19d482cc185e6037f7b089415cbd4f1457"
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "6ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/rbNc44otT6VRd7QpxqlUAMyByaQ.jpg",
-                "episodios": [
-                    {
-                        "title": "6X1 - Vinho e rosas",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:681b9e820f91003d63877e5ee4d232b98a88bfa8"
-                        ]
-                    },
-                    {
-                        "title": "6X2 - Punição e Recompensa",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:681b9e820f91003d63877e5ee4d232b98a88bfa8"
-                        ]
-                    },
-                    {
-                        "title": "6X3 - Entre a Cruz e a Espada",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef223ccf824e8f2acc2c086e37633f0c0ba0d1ac"
-                        ]
-                    },
-                    {
-                        "title": "6X4 - Não Fique no Caminho",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d5126101d1bb2bf5d5bcbc896c596f4c7881dbd"
-                        ]
-                    },
-                    {
-                        "title": "6X5 - Machucados",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26eecb2d087788f174a996326a1524ea5f9c2abe"
-                        ]
-                    },
-                    {
-                        "title": "6X6 - Segundas Intenções",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1230550048568453caf425f33f3bfd2cbae7f0fe"
-                        ]
-                    },
-                    {
-                        "title": "6X7 - Plano e Execução",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c15736f2d09ff42b973d26b5fb9ffafdc8774f6"
-                        ]
-                    },
-                    {
-                        "title": "6X8 - Mirar e Atirar",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3bf3e566a9661c1543c3ff76c2fa74ff736cd40"
-                        ]
-                    },
-                    {
-                        "title": "6X9 - Jogos e Diversão",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d89e5dc377d46fbe4ed7c7d55450b24d5e50a6d"
-                        ]
-                    },
-                    {
-                        "title": "6X10 - Nippy",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54c669ed1e85c92f25a6105516255cd1c942dbb7"
-                        ]
-                    },
-                    {
-                        "title": "6X11 - Breaking Bad",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5561389e00f4e56ca0f80fa15d3dcbe5eb91aac8"
-                        ]
-                    },
-                    {
-                        "title": "6X12 - Lágrimas",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71a2ada550467d58e7b8e8621cada2feb56addd1"
-                        ]
-                    },
-                    {
-                        "title": "6X13 - A saída de Saul",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc81dc5bdbb505fd419b3dcbb8f9312e2f59c087"
                         ]
                     }
                 ]
