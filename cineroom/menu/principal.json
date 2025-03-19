@@ -55,15 +55,15 @@
                 "categories": "Trilogias e Coleções",
                 "poster": "https://exemplo.com/poster_colecoes.jpg",
                 "backdrop": "https://exemplo.com/backdrop_colecoes.jpg",
-                "description": "Franquias de filmes e coleções",
+                "description": "Explore as maiores franquias e coleções de filmes",
                 "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/movies/sagas.json",
                 "sort_method": "rating"
             },
             {
                 "categories": "4K Ultra HD",
-                "poster": "https://exemplo.com/poster_colecoes.jpg",
-                "backdrop": "https://exemplo.com/backdrop_colecoes.jpg",
-                "description": "Filmes com qualidade 4K",
+                "poster": "https://exemplo.com/poster_4k.jpg",
+                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
+                "description": "Filmes com qualidade 4K para uma experiência imersiva",
                 "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/movies/4k.json"
             },
             {
@@ -89,9 +89,9 @@
             },
             {
                 "categories": "Por Atores",
-                "poster": "https://exemplo.com/poster_anos.jpg",
-                "backdrop": "https://exemplo.com/backdrop_anos.jpg",
-                "description": "Filmes organizados por ano de lançamento",
+                "poster": "https://exemplo.com/poster_atores.jpg",
+                "backdrop": "https://exemplo.com/backdrop_atores.jpg",
+                "description": "Filmes organizados por atores principais",
                 "action": "list_actors"
             }
         ]
