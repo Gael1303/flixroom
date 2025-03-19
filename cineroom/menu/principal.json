@@ -1,8 +1,5 @@
 [
     {
-        "status": "on"
-    },
-    {
         "menu_title": "[COLOR yellow]Buscar[/COLOR]",
         "poster": "https://archive.org/download/1700740365535/1700740365535.png",
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
@@ -13,7 +10,7 @@
         "menu_title": "Filmes",
         "poster": "https://archive.org/download/1700740365556/1700740365556.png",
         "fanart": "https://exemplo.com/fanart_filmes.jpg",
-		"status": "on",
+        "status": "on",
         "subcategorias": [
             {
                 "categories": "2025",
@@ -80,7 +77,7 @@
                 "description": "Filmes organizados por atores principais",
                 "action": "list_actors"
             },
-			{
+            {
                 "categories": "Tudo",
                 "poster": "https://exemplo.com/poster_4k.jpg",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
@@ -94,7 +91,7 @@
         "menu_title": "Séries",
         "poster": "https://archive.org/download/1700740365556/1700740365556.png",
         "fanart": "https://exemplo.com/fanart_series.jpg",
-		"status": "off",
+        "status": "off",
         "subcategorias": [
             {
                 "categories": "2025",
@@ -132,14 +129,14 @@
                 "description": "Séries organizadas por plataforma de streaming",
                 "action": "list_series_studios"
             },
-			{
+            {
                 "categories": "Tudo",
                 "poster": "https://exemplo.com/poster_series_populares.jpg",
                 "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
                 "description": "Todas as Séries em um só lugar",
                 "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/popular.json",
                 "sort_method": "label"
-            },
+            }
         ]
     },
     {
