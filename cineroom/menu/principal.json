@@ -132,6 +132,13 @@
                 "description": "Séries organizadas por plataforma de streaming",
                 "action": "list_series_studios"
             },
+             {
+                "categories": "Animes",
+                "poster": "https://exemplo.com/poster_series_plataformas.jpg",
+                "backdrop": "https://exemplo.com/backdrop_series_plataformas.jpg",
+                "description": "Aba especifica para animes",
+                "action": "list_anime_series"
+            },
             {
                 "categories": "Tudo",
                 "poster": "https://exemplo.com/poster_series_populares.jpg",
