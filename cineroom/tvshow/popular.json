@@ -15,6 +15,7 @@
             "Drama",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -42,8 +43,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Paradise",
@@ -61,6 +61,7 @@
             "Drama",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -76,8 +77,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "O Caso Evandro",
@@ -95,6 +95,7 @@
             "Documentário",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -110,8 +111,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Breaking Bad: A Química do Mal",
@@ -128,6 +128,7 @@
             "Drama",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -189,8 +190,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Arremesso Final",
@@ -207,6 +207,7 @@
         "genres": [
             "Documentário"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -228,8 +229,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Twin Peaks",
@@ -247,6 +247,7 @@
             "Drama",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -290,8 +291,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Dark",
@@ -310,6 +310,7 @@
             "Sci-Fi & Fantasia",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -347,8 +348,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Better Call Saul",
@@ -365,6 +365,7 @@
             "Crime",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -618,8 +619,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Anne com um E",
@@ -636,6 +636,7 @@
             "Drama",
             "Família"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -661,8 +662,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Narcos",
@@ -680,6 +680,7 @@
             "Crime",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -720,8 +721,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Fleabag",
@@ -739,6 +739,7 @@
             "Comédia",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -768,8 +769,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Chernobyl",
@@ -785,6 +785,7 @@
         "genres": [
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -798,8 +799,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "A Esposa do Meu Marido",
@@ -819,6 +819,7 @@
             "Sci-Fi & Fantasia",
             "Comédia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -834,8 +835,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "The Chosen: Os Escolhidos",
@@ -852,6 +852,7 @@
             "Drama",
             "Família"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -901,8 +902,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Heartstopper",
@@ -918,6 +918,7 @@
         "genres": [
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -955,8 +956,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Stranger Things",
@@ -976,6 +976,7 @@
             "Mistério",
             "Ação & Aventura"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -1029,8 +1030,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Irmãos de Guerra",
@@ -1047,6 +1047,7 @@
             "Drama",
             "Guerra & Politics"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -1060,8 +1061,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Família Soprano",
@@ -1078,6 +1078,7 @@
         "genres": [
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -1150,8 +1151,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/b1P9PAUI18mb62N0DtHOd71L3CT.jpg",
                 "episodios": []
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Os Originais",
@@ -1170,6 +1170,7 @@
             "Drama",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -1236,8 +1237,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "The Office",
@@ -1254,6 +1254,7 @@
         "genres": [
             "Comédia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -1372,8 +1373,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "A Escuta",
@@ -1391,6 +1391,7 @@
             "Crime",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -1431,8 +1432,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Xógum: A Gloriosa Saga do Japão",
@@ -1450,6 +1450,7 @@
             "Drama",
             "Guerra & Politics"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -1512,8 +1513,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Marvel - Demolidor",
@@ -1532,6 +1532,7 @@
             "Drama",
             "Ação & Aventura"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -1575,8 +1576,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "The Last of Us",
@@ -1592,6 +1592,7 @@
         "genres": [
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -1671,8 +1672,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Dr. House",
@@ -1690,6 +1690,7 @@
             "Mistério",
             "Comédia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -1787,8 +1788,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Peaky Blinders: Sangue, Apostas e Navalhas",
@@ -1805,6 +1805,7 @@
             "Drama",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -1878,8 +1879,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Vincenzo",
@@ -1898,6 +1898,7 @@
             "Comédia",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada (Leg)",
@@ -2027,8 +2028,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Pinguim",
@@ -2045,6 +2045,7 @@
             "Drama",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -2100,8 +2101,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Dexter: Pecado Original",
@@ -2118,6 +2118,7 @@
             "Crime",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -2185,8 +2186,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Nosso Planeta",
@@ -2204,6 +2204,7 @@
             "Documentário",
             "Ação & Aventura"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -2218,8 +2219,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "The Umbrella Academy",
@@ -2238,6 +2238,7 @@
             "Sci-Fi & Fantasia",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -2291,8 +2292,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Uma Advogada Extraordinária",
@@ -2309,6 +2309,7 @@
         "genres": [
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -2323,8 +2324,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Doctor Who",
@@ -2343,6 +2343,7 @@
             "Drama",
             "Sci-Fi & Fantasia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -2474,8 +2475,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Hannibal",
@@ -2493,6 +2493,7 @@
             "Drama",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -2533,8 +2534,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "O Jogo da Morte",
@@ -2553,6 +2553,7 @@
             "Drama",
             "Sci-Fi & Fantasia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -2568,8 +2569,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "The Rookie",
@@ -2588,6 +2588,7 @@
             "Drama",
             "Comédia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -3066,8 +3067,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/cofQdlJ0voWzWlpisBqfuRChTbf.jpg",
                 "episodios": []
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Lobo Adolescente",
@@ -3085,6 +3085,7 @@
             "Drama",
             "Comédia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -3158,8 +3159,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "The Good Doctor: O Bom Doutor",
@@ -3176,6 +3176,7 @@
         "genres": [
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -3305,8 +3306,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "O Gambito da Rainha",
@@ -3322,6 +3322,7 @@
         "genres": [
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -3341,8 +3342,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "The Boys",
@@ -3359,6 +3359,7 @@
             "Sci-Fi & Fantasia",
             "Ação & Aventura"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -3504,8 +3505,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Lucifer",
@@ -3522,6 +3522,7 @@
             "Crime",
             "Sci-Fi & Fantasia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -3601,8 +3602,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Game of Thrones",
@@ -3620,6 +3620,7 @@
             "Drama",
             "Ação & Aventura"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "*Todas as Temporadas",
@@ -3633,8 +3634,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Filhos da Anarquia",
@@ -3652,6 +3652,7 @@
             "Crime",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -3744,8 +3745,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Tulsa King",
@@ -3762,6 +3762,7 @@
             "Crime",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -3841,8 +3842,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Friends",
@@ -3858,6 +3858,7 @@
         "genres": [
             "Comédia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª a 10ª Temporada",
@@ -3871,8 +3872,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Wandinha",
@@ -3891,6 +3891,7 @@
             "Mistério",
             "Comédia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -3905,8 +3906,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "The Mandalorian",
@@ -3925,6 +3925,7 @@
             "Ação & Aventura",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -4091,8 +4092,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "O Conto da Aia",
@@ -4110,6 +4110,7 @@
             "Drama",
             "Sci-Fi & Fantasia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -4230,8 +4231,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "24 Horas",
@@ -4250,6 +4250,7 @@
             "Drama",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -4377,8 +4378,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "The Night Of",
@@ -4397,6 +4397,7 @@
             "Drama",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -4412,8 +4413,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "A Casa do Dragão",
@@ -4431,6 +4431,7 @@
             "Drama",
             "Ação & Aventura"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -4552,8 +4553,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "O Mentalista",
@@ -4571,6 +4571,7 @@
             "Drama",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -4656,8 +4657,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Euphoria",
@@ -4674,6 +4674,7 @@
         "genres": [
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -4785,8 +4786,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Fallout",
@@ -4805,6 +4805,7 @@
             "Ação & Aventura",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -4824,8 +4825,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Sobrenatural",
@@ -4843,6 +4843,7 @@
             "Mistério",
             "Sci-Fi & Fantasia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -5264,8 +5265,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Black Mirror",
@@ -5283,6 +5283,7 @@
             "Drama",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -5356,8 +5357,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Senna",
@@ -5373,6 +5373,7 @@
         "genres": [
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -5386,8 +5387,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Diários de um Vampiro",
@@ -5404,6 +5404,7 @@
             "Drama",
             "Sci-Fi & Fantasia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -5501,8 +5502,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Sex Education",
@@ -5519,6 +5519,7 @@
             "Comédia",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -5568,8 +5569,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Cães de Caça",
@@ -5588,6 +5588,7 @@
             "Ação & Aventura",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -5602,8 +5603,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Planeta Pré-histórico",
@@ -5621,6 +5621,7 @@
             "Documentário",
             "Ação & Aventura"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -5635,8 +5636,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Um Maluco no Pedaço",
@@ -5654,6 +5654,7 @@
             "Comédia",
             "Família"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "Todas as Temporadas",
@@ -5668,8 +5669,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Sweet Home",
@@ -5687,6 +5687,7 @@
             "Sci-Fi & Fantasia",
             "Ação & Aventura"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -5733,8 +5734,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Cangaço Novo",
@@ -5753,6 +5753,7 @@
             "Crime",
             "Faroeste"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -5767,8 +5768,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "O Urso",
@@ -5787,6 +5787,7 @@
             "Drama",
             "Comédia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -5830,8 +5831,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Vagabond",
@@ -5850,6 +5850,7 @@
             "Mistério",
             "Ação e Aventura"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada (Leg)",
@@ -5865,8 +5866,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Grimm: Contos de Terror",
@@ -5885,6 +5885,7 @@
             "Mistério",
             "Sci-Fi & Fantasy"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -5970,8 +5971,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "The Last Kingdom",
@@ -5990,6 +5990,7 @@
             "Drama",
             "War & Politics"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada (Link Direto)",
@@ -6307,8 +6308,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Halo",
@@ -6327,6 +6327,7 @@
             "Sci-Fi & Fantasia",
             "Ação & Aventura"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -6392,8 +6393,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "All of Us Are Dead",
@@ -6412,6 +6412,7 @@
             "Drama",
             "Sci-Fi & Fantasy"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -6427,8 +6428,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "O Dia do Chacal",
@@ -6446,6 +6446,7 @@
             "Ação & Aventura",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -6459,8 +6460,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Yellowstone",
@@ -6478,6 +6478,7 @@
             "Faroeste",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada (Link Direto)",
@@ -6825,8 +6826,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "La casa de papel",
@@ -6844,6 +6844,7 @@
             "Crime",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -6910,8 +6911,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "O Mundo Sombrio de Sabrina",
@@ -6930,6 +6930,7 @@
             "Sci-Fi & Fantasia",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -6987,8 +6988,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Pacificador",
@@ -7006,6 +7006,7 @@
             "Sci-Fi & Fantasia",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -7054,8 +7055,7 @@
                 "poster": "",
                 "episodios": []
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Olhos que Condenam",
@@ -7071,6 +7071,7 @@
         "genres": [
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -7084,8 +7085,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Origem",
@@ -7103,6 +7103,7 @@
             "Drama",
             "Sci-Fi & Fantasia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -7145,8 +7146,7 @@
                 "poster": "",
                 "episodios": []
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Cobra Kai",
@@ -7164,6 +7164,7 @@
             "Drama",
             "Comédia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -7237,8 +7238,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Ozark",
@@ -7255,6 +7255,7 @@
             "Crime",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -7304,8 +7305,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Homens de Terno",
@@ -7321,6 +7321,7 @@
         "genres": [
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -7418,8 +7419,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Watchmen",
@@ -7437,6 +7437,7 @@
             "Crime",
             "Sci-Fi & Fantasia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -7507,8 +7508,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Brooklyn Nine-Nine: Lei e Desordem",
@@ -7526,6 +7526,7 @@
             "Comédia",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -7751,8 +7752,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Smallville: As Aventuras do Superboy",
@@ -7771,6 +7771,7 @@
             "Ação & Aventura",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -7902,8 +7903,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Star Wars: Andor",
@@ -7922,6 +7922,7 @@
             "Ação & Aventura",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -7990,8 +7991,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Como Eu Conheci Sua Mãe",
@@ -8008,6 +8008,7 @@
         "genres": [
             "Comédia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -8135,8 +8136,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Mr. Robot",
@@ -8155,6 +8155,7 @@
             "Crime",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -8212,8 +8213,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "ONE PIECE: A Série",
@@ -8232,6 +8232,7 @@
             "Ação & Aventura",
             "Sci-Fi & Fantasia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -8247,8 +8248,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Alice in Borderland",
@@ -8267,6 +8267,7 @@
             "Mistério",
             "Ação e Aventura"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -8296,8 +8297,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "WandaVision",
@@ -8316,6 +8316,7 @@
             "Mistério",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -8373,8 +8374,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Silo",
@@ -8391,6 +8391,7 @@
             "Sci-Fi & Fantasia",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -8524,8 +8525,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Arcanjo Renegado",
@@ -8543,6 +8543,7 @@
             "Drama",
             "Ação e Aventura"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -8604,8 +8605,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Kingdom",
@@ -8623,6 +8623,7 @@
             "Drama",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada (Link Direto)",
@@ -8682,8 +8683,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Dexter",
@@ -8701,6 +8701,7 @@
             "Drama",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -8798,8 +8799,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Loki",
@@ -8816,6 +8816,7 @@
             "Drama",
             "Sci-Fi & Fantasia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -8901,8 +8902,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "The Walking Dead: Daryl Dixon",
@@ -8922,6 +8922,7 @@
             "Ação & Aventura",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -8949,8 +8950,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Bridgerton",
@@ -8966,6 +8966,7 @@
         "genres": [
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -9014,8 +9015,7 @@
                 "poster": "",
                 "episodios": []
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Marvel - O Justiceiro",
@@ -9034,6 +9034,7 @@
             "Crime",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -9063,8 +9064,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Black Bird",
@@ -9082,6 +9082,7 @@
             "Drama",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -9127,8 +9128,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Ruptura",
@@ -9146,6 +9146,7 @@
             "Mistério",
             "Sci-Fi & Fantasia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -9273,8 +9274,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "See",
@@ -9293,6 +9293,7 @@
             "Sci-Fi & Fantasia",
             "Ação & Aventura"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -9450,8 +9451,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "A Maldição da Residência Hill",
@@ -9468,6 +9468,7 @@
             "Mistério",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -9481,8 +9482,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Superman e Lois",
@@ -9499,6 +9499,7 @@
             "Drama",
             "Sci-Fi & Fantasia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -9770,8 +9771,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Dahmer: Um Canibal Americano",
@@ -9789,6 +9789,7 @@
             "Crime",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -9803,8 +9804,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Resident Alien",
@@ -9821,6 +9821,7 @@
         "genres": [
             "Sci-Fi & Fantasia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -9861,8 +9862,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Sintonia",
@@ -9880,6 +9880,7 @@
             "Drama",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -9951,8 +9952,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "The Walking Dead",
@@ -9971,6 +9971,7 @@
             "Drama",
             "Sci-Fi & Fantasy"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -10378,8 +10379,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "The End of the F***ing World",
@@ -10398,6 +10398,7 @@
             "Drama",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -10469,8 +10470,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Vikings",
@@ -10488,6 +10488,7 @@
             "Drama",
             "Guerra & Politics"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -10723,8 +10724,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Acima de Qualquer Suspeita",
@@ -10742,6 +10742,7 @@
             "Drama",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -10798,8 +10799,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Mindhunter",
@@ -10816,6 +10816,7 @@
             "Drama",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -10841,8 +10842,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Reacher",
@@ -10860,6 +10860,7 @@
             "Crime",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -10951,8 +10952,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Jovem Sheldon",
@@ -10972,6 +10972,7 @@
             "Família",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -11411,8 +11412,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Prison Break: Em Busca da Verdade",
@@ -11430,6 +11430,7 @@
             "Crime",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -11491,8 +11492,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Motel Bates",
@@ -11511,6 +11511,7 @@
             "Crime",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -11554,8 +11555,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Lioness",
@@ -11572,6 +11572,7 @@
             "Drama",
             "Guerra & Politics"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -11681,8 +11682,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "The Witcher",
@@ -11701,6 +11701,7 @@
             "Drama",
             "Ação & Aventura"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -11747,8 +11748,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Todo Mundo Odeia o Chris",
@@ -11768,6 +11768,7 @@
             "Kids",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "Todas as Temporadas",
@@ -11783,8 +11784,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "A Lista Terminal",
@@ -11802,6 +11802,7 @@
             "Ação e Aventura",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -11817,8 +11818,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Sandman",
@@ -11837,6 +11837,7 @@
             "Drama",
             "Ação e Aventura"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -11850,8 +11851,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Você",
@@ -11867,6 +11867,7 @@
         "genres": [
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -11916,8 +11917,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Avatar: O Último Mestre do Ar",
@@ -11936,6 +11936,7 @@
             "Ação & Aventura",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -11950,8 +11951,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Westworld",
@@ -11969,6 +11969,7 @@
             "Sci-Fi & Fantasia",
             "Faroeste"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -12100,8 +12101,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Jack Ryan de Tom Clancy",
@@ -12120,6 +12120,7 @@
             "Drama",
             "Guerra & Politics"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -12191,8 +12192,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "The Walking Dead: The Ones Who Live",
@@ -12210,6 +12210,7 @@
             "Sci-Fi & Fantasia",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -12224,8 +12225,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Chaves",
@@ -12244,6 +12244,7 @@
             "Família",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "Todas as Temporadas",
@@ -12259,8 +12260,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Landman",
@@ -12277,6 +12277,7 @@
         "genres": [
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -12292,8 +12293,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "1923",
@@ -12311,6 +12311,7 @@
             "Drama",
             "Faroeste"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada (Link Direto)",
@@ -12425,8 +12426,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Ted - A Série",
@@ -12443,6 +12443,7 @@
         "genres": [
             "Comédia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -12457,8 +12458,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Twisted Metal",
@@ -12477,6 +12477,7 @@
             "Ação & Aventura",
             "Comédia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada (Leg)",
@@ -12492,8 +12493,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Bel-Air",
@@ -12510,6 +12510,7 @@
         "genres": [
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -12550,8 +12551,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Lost",
@@ -12569,6 +12569,7 @@
             "Ação & Aventura",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -12642,8 +12643,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "A Queda da Casa de Usher",
@@ -12661,6 +12661,7 @@
             "Drama",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -12674,8 +12675,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Chucky",
@@ -12694,6 +12694,7 @@
             "Comédia",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -12848,8 +12849,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Gen V",
@@ -12868,6 +12868,7 @@
             "Drama",
             "Sci-Fi & Fantasia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -12912,8 +12913,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Big Bang: A Teoria",
@@ -12930,6 +12930,7 @@
         "genres": [
             "Comédia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -13213,8 +13214,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Magnatas do Crime",
@@ -13234,6 +13234,7 @@
             "Drama",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -13250,8 +13251,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Monarch - Legado de Monstros",
@@ -13271,6 +13271,7 @@
             "Drama",
             "Ação & Aventura"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -13334,8 +13335,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Altered Carbon",
@@ -13353,6 +13353,7 @@
             "Sci-Fi & Fantasy",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -13382,8 +13383,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Plantão Policial",
@@ -13402,6 +13402,7 @@
             "Drama",
             "Ação & Aventura"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -13417,8 +13418,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Gavião Arqueiro",
@@ -13437,6 +13437,7 @@
             "Comédia",
             "Ação & Aventura"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -13452,8 +13453,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Big Little Lies",
@@ -13470,6 +13470,7 @@
         "genres": [
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada (Link Direto)",
@@ -13571,8 +13572,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Os 100",
@@ -13590,6 +13590,7 @@
             "Drama",
             "Ação & Aventura"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -13765,8 +13766,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Sweet Tooth",
@@ -13784,6 +13784,7 @@
             "Drama",
             "Sci-Fi & Fantasia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -13824,8 +13825,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Sequestro no Ar",
@@ -13842,6 +13842,7 @@
         "genres": [
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -13892,8 +13893,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Periféricos",
@@ -13911,6 +13911,7 @@
             "Sci-Fi & Fantasia",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -13967,8 +13968,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Duna: A Profecia",
@@ -13986,6 +13986,7 @@
             "Drama",
             "Ação & Aventura"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -14029,8 +14030,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Round 6",
@@ -14048,6 +14048,7 @@
             "Mistério",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -14073,8 +14074,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Matéria Escura",
@@ -14092,6 +14092,7 @@
             "Sci-Fi & Fantasia",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -14148,8 +14149,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Fundação",
@@ -14167,6 +14167,7 @@
             "Sci-Fi & Fantasia",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -14298,8 +14299,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "O Pacífico",
@@ -14318,6 +14318,7 @@
             "Ação & Aventura",
             "War & Politica"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -14339,8 +14340,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Constantine",
@@ -14359,6 +14359,7 @@
             "Drama",
             "Sci-Fi & Fantasy"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -14374,8 +14375,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Lupin",
@@ -14395,6 +14395,7 @@
             "Drama",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -14438,8 +14439,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Iluminadas",
@@ -14458,6 +14458,7 @@
             "Mistério",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada (Link Direto)",
@@ -14515,8 +14516,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Carnival Row",
@@ -14535,6 +14535,7 @@
             "Drama",
             "Sci-Fi & Fantasia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -14562,8 +14563,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Agatha Desde Sempre",
@@ -14580,6 +14580,7 @@
             "Sci-Fi & Fantasia",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -14629,8 +14630,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Manifest: O Mistério do Voo 828",
@@ -14649,6 +14649,7 @@
             "Mistério",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -14678,8 +14679,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Cavaleiro da Lua",
@@ -14698,6 +14698,7 @@
             "Sci-Fi & Fantasy",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -14713,8 +14714,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "A Roda do Tempo",
@@ -14732,6 +14732,7 @@
             "Sci-Fi & Fantasy",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -14853,8 +14854,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Os 12 Macacos",
@@ -14872,6 +14872,7 @@
             "Sci-Fi & Fantasy",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada (Link Direto)",
@@ -15181,8 +15182,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Falcão e o Soldado Invernal",
@@ -15200,6 +15200,7 @@
             "Ação e Aventura",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -15215,8 +15216,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "A Maldição da Mansão Bly",
@@ -15233,6 +15233,7 @@
             "Mistério",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -15246,8 +15247,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Bebê Rena",
@@ -15263,6 +15263,7 @@
         "genres": [
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -15276,8 +15277,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Missa da Meia-Noite",
@@ -15294,6 +15294,7 @@
             "Mistério",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -15313,8 +15314,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Assassino Zen",
@@ -15333,6 +15333,7 @@
             "Crime",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -15347,8 +15348,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Toda Luz que Não Podemos Ver",
@@ -15365,6 +15365,7 @@
         "genres": [
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -15379,8 +15380,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "ELES",
@@ -15399,6 +15399,7 @@
             "Drama",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -15428,8 +15429,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Parasyte: The Grey",
@@ -15449,6 +15449,7 @@
             "Ação & Aventura",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -15464,8 +15465,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Gotham",
@@ -15484,6 +15484,7 @@
             "Crime",
             "Sci-Fi & Fantasy"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -15675,8 +15676,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Orville: nave interestelar",
@@ -15695,6 +15695,7 @@
             "Comédia",
             "Sci-Fi & Fantasia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -15738,8 +15739,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "The White Lotus",
@@ -15758,6 +15758,7 @@
             "Drama",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -15860,8 +15861,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/jNFcfgLFPhCZdhUUmwjHvq6TLxh.jpg",
                 "episodios": []
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "13 Reasons Why",
@@ -15879,6 +15879,7 @@
             "Drama",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -15936,8 +15937,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "O Ato",
@@ -15954,6 +15954,7 @@
             "Drama",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -15967,8 +15968,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "1899",
@@ -15987,6 +15987,7 @@
             "Mistério",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -16002,8 +16003,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Cidade de Deus: A Luta Não Para",
@@ -16021,6 +16021,7 @@
             "Drama",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -16065,8 +16066,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "El Chapo",
@@ -16084,6 +16084,7 @@
             "Drama",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -16127,8 +16128,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "O Continental: Do Mundo de John Wick",
@@ -16146,6 +16146,7 @@
             "Drama",
             "Ação & Aventura"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -16171,8 +16172,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Maníaco do Parque: A História Não Contada",
@@ -16191,6 +16191,7 @@
             "Crime",
             "Reality"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -16205,8 +16206,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Mary e George",
@@ -16223,6 +16223,7 @@
         "genres": [
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -16237,8 +16238,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Impuros",
@@ -16257,6 +16257,7 @@
             "Drama",
             "Ação & Aventura"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -16328,8 +16329,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "O Problema dos 3 Corpos",
@@ -16349,6 +16349,7 @@
             "Mistério",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -16370,8 +16371,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Dia Zero",
@@ -16389,6 +16389,7 @@
             "Drama",
             "War & Politics"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -16404,8 +16405,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "A Agência",
@@ -16423,6 +16423,7 @@
             "Drama",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -16438,8 +16439,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "La Brea: A Terra Perdida",
@@ -16459,6 +16459,7 @@
             "Drama",
             "Ação & Aventura"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -16538,8 +16539,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Dois Homens e Meio",
@@ -16556,6 +16556,7 @@
         "genres": [
             "Comédia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -16725,8 +16726,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Eu, a Patroa e as Crianças",
@@ -16745,6 +16745,7 @@
             "Família",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -16816,8 +16817,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Knuckles",
@@ -16836,6 +16836,7 @@
             "Família",
             "Comédia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -16850,8 +16851,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Virgin River",
@@ -16867,6 +16867,7 @@
         "genres": [
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -16946,8 +16947,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "The Underground Railroad: Os Caminhos para a Liberdade",
@@ -16965,6 +16965,7 @@
             "Drama",
             "Sci-Fi & Fantasia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -16979,8 +16980,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Por Trás de Seus Olhos",
@@ -16996,6 +16996,7 @@
         "genres": [
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -17009,8 +17010,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Percy Jackson e os Olimpianos",
@@ -17031,6 +17031,7 @@
             "Drama",
             "Família"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -17082,8 +17083,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "The Outsider",
@@ -17102,6 +17102,7 @@
             "Drama",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada (Link Direto)",
@@ -17171,8 +17172,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Devs",
@@ -17191,6 +17191,7 @@
             "Drama",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada (Link direto)",
@@ -17248,8 +17249,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "O Senhor dos Anéis: Os Anéis de Poder",
@@ -17267,6 +17267,7 @@
             "Sci-Fi & Fantasia",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -17358,8 +17359,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "The Rain",
@@ -17377,6 +17377,7 @@
             "Sci-Fi & Fantasia",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -17420,8 +17421,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Star Wars: Skeleton Crew",
@@ -17439,6 +17439,7 @@
             "Ação & Aventura",
             "Sci-Fi & Fantasia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -17490,8 +17491,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Sugar",
@@ -17509,6 +17509,7 @@
             "Drama",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -17523,8 +17524,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Detetive Alex Cross",
@@ -17543,6 +17543,7 @@
             "Drama",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -17557,8 +17558,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Citadel: Diana",
@@ -17576,6 +17576,7 @@
             "Ação & Aventura",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -17591,8 +17592,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Georgie e Mandy - Seu Primeiro Casamento",
@@ -17609,6 +17609,7 @@
         "genres": [
             "Comédia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -17672,8 +17673,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "30 Moedas",
@@ -17692,6 +17692,7 @@
             "Mistério",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada (Link Direto)",
@@ -17749,8 +17750,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "KAOS",
@@ -17769,6 +17769,7 @@
             "Sci-Fi & Fantasia",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -17783,8 +17784,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "A Grande Descoberta",
@@ -17802,6 +17802,7 @@
             "Drama",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -17817,8 +17818,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Falling Skies",
@@ -17837,6 +17837,7 @@
             "Sci-Fi & Fantasy",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -17908,8 +17909,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Fight Night: The Million Dollar Heist",
@@ -17927,6 +17927,7 @@
             "Drama",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -17942,8 +17943,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Invasão",
@@ -17961,6 +17961,7 @@
             "Sci-Fi & Fantasia",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -18086,8 +18087,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "O Domo: Prisão Invisível",
@@ -18106,6 +18106,7 @@
             "Mistério",
             "Sci-Fi & Fantasy"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -18149,8 +18150,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "3%",
@@ -18168,6 +18168,7 @@
             "Drama",
             "Sci-Fi & Fantasy"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada (Link Direto)",
@@ -18399,8 +18400,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Obi-Wan Kenobi",
@@ -18419,6 +18419,7 @@
             "Ação e Aventura",
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -18458,8 +18459,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Cidade Invisível",
@@ -18478,6 +18478,7 @@
             "Drama",
             "Sci-Fi & Fantasia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -18507,8 +18508,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "O Véu",
@@ -18526,6 +18526,7 @@
             "Drama",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -18570,8 +18571,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "A Mulher no Lago",
@@ -18589,6 +18589,7 @@
             "Drama",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -18634,8 +18635,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Volta Priscila",
@@ -18652,6 +18652,7 @@
         "genres": [
             "Documentário"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -18667,8 +18668,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Cowboy Bebop",
@@ -18687,6 +18687,7 @@
             "Ação & Aventura",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -18708,8 +18709,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "O Sinal",
@@ -18729,6 +18729,7 @@
             "Drama",
             "Mistério"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -18744,8 +18745,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Os Bandidos do Tempo",
@@ -18764,6 +18764,7 @@
             "Ação & Aventura",
             "Comédia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -18803,8 +18804,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "O Professor",
@@ -18822,6 +18822,7 @@
         "genres": [
             "Comédia"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -18837,8 +18838,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Que Falta Você Me Faz",
@@ -18857,6 +18857,7 @@
             "Drama",
             "Crime"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -18872,8 +18873,7 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     },
     {
         "title": "Casa de Davi",
@@ -18890,6 +18890,7 @@
         "genres": [
             "Drama"
         ],
+        "type": "tv_show",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -18935,7 +18936,6 @@
                     }
                 ]
             }
-        ],
-        "type": "tv_show"
+        ]
     }
 ]
