@@ -78,6 +78,13 @@
                 "backdrop": "https://exemplo.com/backdrop_anos.jpg",
                 "description": "Filmes organizados por ano de lançamento",
                 "action": "list_years"
+            },
+            {
+                "categories": "Por Atores",
+                "poster": "https://exemplo.com/poster_anos.jpg",
+                "backdrop": "https://exemplo.com/backdrop_anos.jpg",
+                "description": "Filmes organizados por ano de lançamento",
+                "action": "list_actors"
             }
         ]
     },
