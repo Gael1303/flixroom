@@ -10,16 +10,10 @@
         "action": "search_videos"
     },
     {
-        "menu_title": "Canais (on)",
-        "poster": "https://w7.pngwing.com/pngs/12/837/png-transparent-brown-crt-tv-illustration-television-show-icon-tv-television-rectangle-media-thumbnail.png",
-        "fanart": "",
-        "action": "list_canais",
-        "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista1"
-    },
-    {
         "menu_title": "Filmes",
-        "poster": "https://exemplo.com/poster_filmes.jpg",
+        "poster": "https://archive.org/download/1700740365556/1700740365556.png",
         "fanart": "https://exemplo.com/fanart_filmes.jpg",
+		"status": "on",
         "subcategorias": [
             {
                 "categories": "2025",
@@ -30,22 +24,14 @@
                 "year": 2025
             },
             {
-                "categories": "Tudo",
-                "poster": "https://exemplo.com/poster_4k.jpg",
-                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-                "description": "Todos os Filmes em um só lugar",
-                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/movies/popular.json",
-                "sort_method": "label"
-            },
-            {
-                "categories": "Filmes Populares (TMDb)",
+                "categories": "Mais Populares",
                 "poster": "https://exemplo.com/poster_4k.jpg",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Filmes mais assistidos",
                 "action": "list_movies_by_popularity"
             },
             {
-                "categories": "Melhores Avaliados (TMDb)",
+                "categories": "Melhores Avaliados",
                 "poster": "https://exemplo.com/poster_rating.jpg",
                 "backdrop": "https://exemplo.com/backdrop_rating.jpg",
                 "description": "Filmes com as melhores avaliações",
@@ -93,13 +79,22 @@
                 "backdrop": "https://exemplo.com/backdrop_atores.jpg",
                 "description": "Filmes organizados por atores principais",
                 "action": "list_actors"
+            },
+			{
+                "categories": "Tudo",
+                "poster": "https://exemplo.com/poster_4k.jpg",
+                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
+                "description": "Todos os Filmes em um só lugar",
+                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/movies/popular.json",
+                "sort_method": "label"
             }
         ]
     },
     {
         "menu_title": "Séries",
-        "poster": "https://exemplo.com/poster_series.jpg",
+        "poster": "https://archive.org/download/1700740365556/1700740365556.png",
         "fanart": "https://exemplo.com/fanart_series.jpg",
+		"status": "off",
         "subcategorias": [
             {
                 "categories": "2025",
@@ -110,26 +105,18 @@
                 "year": 2025
             },
             {
-                "categories": "Mais Populares (TMDb)",
+                "categories": "Mais Populares",
                 "poster": "https://exemplo.com/poster_series_rating.jpg",
                 "backdrop": "https://exemplo.com/backdrop_series_rating.jpg",
                 "description": "Séries mais populares",
                 "action": "list_series_by_popularity"
             },
             {
-                "categories": "Melhores Avaliadas (TMDb)",
+                "categories": "Melhores Avaliadas",
                 "poster": "https://exemplo.com/poster_series_rating.jpg",
                 "backdrop": "https://exemplo.com/backdrop_series_rating.jpg",
                 "description": "Séries com as melhores avaliações",
                 "action": "list_series_by_rating"
-            },
-            {
-                "categories": "Tudo",
-                "poster": "https://exemplo.com/poster_series_populares.jpg",
-                "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
-                "description": "Todas as Séries em um só lugar",
-                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/popular.json",
-                "sort_method": "label"
             },
             {
                 "categories": "Por Gênero",
@@ -144,19 +131,27 @@
                 "backdrop": "https://exemplo.com/backdrop_series_plataformas.jpg",
                 "description": "Séries organizadas por plataforma de streaming",
                 "action": "list_series_studios"
-            }
+            },
+			{
+                "categories": "Tudo",
+                "poster": "https://exemplo.com/poster_series_populares.jpg",
+                "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
+                "description": "Todas as Séries em um só lugar",
+                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/popular.json",
+                "sort_method": "label"
+            },
         ]
     },
     {
         "menu_title": "Minha Lista",
-        "poster": "https://exemplo.com/poster_favoritos.jpg",
+        "poster": "https://archive.org/download/1700740365675/1700740365686.png",
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
         "icon": "https://exemplo.com/icone_favoritos.png",
         "action": "list_favorites"
     },
     {
         "menu_title": "[COLOR blue]FAQ[/COLOR]",
-        "poster": "https://png.pngtree.com/png-clipart/20190614/original/pngtree-info-vector-icon-png-image_3791375.jpg",
+        "poster": "https://archive.org/download/1700740365556/1700740365704.png",
         "fanart": "https://exemplo.com/fanart_sobre.jpg",
         "icon": "https://exemplo.com/icone_sobre.png",
         "action": "show_about"
