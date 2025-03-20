@@ -149,18 +149,23 @@
             }
         ]
     },
-    {
+	{
         "menu_title": "Minha Lista",
         "poster": "https://archive.org/download/1700740365675/1700740365686.png",
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
-        "icon": "https://exemplo.com/icone_favoritos.png",
         "action": "list_favorites"
     },
     {
         "menu_title": "[COLOR blue]Informações[/COLOR]",
-        "poster": "https://archive.org/download/1700740365556/1700740365704.png",
+        "poster": "https://archive.org/download/1700740365525/1700740365532.png",
         "fanart": "https://exemplo.com/fanart_sobre.jpg",
-        "icon": "https://exemplo.com/icone_sobre.png",
         "action": "show_about"
+    },
+	
+    {
+        "menu_title": "[COLOR darkred]Limpar Cache[/COLOR]",
+        "poster": "https://archive.org/download/1700740365525/1700740365525.png",
+        "fanart": "https://exemplo.com/fanart_favoritos.jpg",
+        "action": "clear_cache"
     }
 ]
