@@ -38,13 +38,12 @@
                 "description": "Filmes com as melhores avaliações",
                 "action": "list_movies_by_rating"
             },
-            {
-                "categories": "Trilogias e Coleções",
+			{
+                "categories": "Nos Cinemas",
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
-                "backdrop": "https://exemplo.com/backdrop_colecoes.jpg",
-                "description": "Explore as maiores franquias e coleções de filmes",
-                "action": "list_movies_by_collection",
-                "sort_method": "rating"
+                "backdrop": "https://exemplo.com/backdrop_atores.jpg",
+                "description": "Filmes em HDCam",
+                "action": "list_movies_in_cinemas"
             },
             {
                 "categories": "4K Ultra HD",
@@ -52,6 +51,14 @@
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Filmes com qualidade 4K para uma experiência imersiva",
                 "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/movies/4k.json"
+            },
+			{
+                "categories": "Trilogias e Coleções",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
+                "backdrop": "https://exemplo.com/backdrop_colecoes.jpg",
+                "description": "Explore as maiores franquias e coleções de filmes",
+                "action": "list_movies_by_collection",
+                "sort_method": "rating"
             },
             {
                 "categories": "Por Gênero",
