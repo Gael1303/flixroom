@@ -6961,98 +6961,6 @@
         ]
     },
     {
-        "tmdb_id": 77169,
-        "popularity": 4.261,
-        "title": "Cobra Kai",
-        "rating": 8.2,
-        "year": 2018,
-        "premiered": "02/05/2018",
-        "synopsis": "Nesta aclamada série que é continuação dos filmes Karatê Kid, Daniel e Johnny retomam a rivalidade dos tempos de escola.",
-        "poster": "https://image.tmdb.org/t/p/original/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/mQJVtl7SYjNLwjsUZZsITmAxtdU.jpg",
-        "studio": [
-            "Netflix"
-        ],
-        "genres": [
-            "Ação"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/ydEqHwK83HH2W6rzqcN44ZIGwNh.jpg",
-                "episodios": [
-                    {
-                        "title": "Cobra Kai - 1ª Temporada Completa",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36f6dcd9dee522460774e197a325e355b9fc6235"
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "2ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/6GlR2dFUa8g5Np04lpxBhm5a6hM.jpg",
-                "episodios": [
-                    {
-                        "title": "Cobra Kai - 2ª Temporada Completa",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:674406f0bbc2b6970a7897ae2351753ca6400b87"
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "3ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/f9ccj6MfeAsOk1qAqpifJwzxdfn.jpg",
-                "episodios": [
-                    {
-                        "title": "Cobra Kai - 3ª Temporada Completa",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9241cd119255ed86d07a9a70bb37ac651623eb21"
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "4ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/hETMqMZYTBtVrA4A8AcLw5w76Xa.jpg",
-                "episodios": [
-                    {
-                        "title": "Cobra Kai - 4ª Temporada Completa",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50c2ae883e6a2283ccf1fcad0d89d5735f57e736"
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "5ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/u2o6NDi5aNQ3SfyN1kZSXBaKoHK.jpg",
-                "episodios": [
-                    {
-                        "title": "Cobra Kai - 5ª Temporada Completa",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:710e33a4252181d425feecff030cc894812edcd7"
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "6ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/dC88tPr0RwuKe0O16hh8AevlKcO.jpg",
-                "episodios": [
-                    {
-                        "title": "Cobra Kai - 6ª Temporada Completa",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67fad5435d575019492856415c794f6511661529"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "tmdb_id": 113962,
         "popularity": 4.261,
         "title": "Lioness",
@@ -7174,6 +7082,98 @@
                         "title": "2X8 - Episódio 8",
                         "url": [
                             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc58fa05fe0f03d61d1205078d79c124344618bd"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tmdb_id": 77169,
+        "popularity": 4.261,
+        "title": "Cobra Kai",
+        "rating": 8.2,
+        "year": 2018,
+        "premiered": "02/05/2018",
+        "synopsis": "Nesta aclamada série que é continuação dos filmes Karatê Kid, Daniel e Johnny retomam a rivalidade dos tempos de escola.",
+        "poster": "https://image.tmdb.org/t/p/original/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/mQJVtl7SYjNLwjsUZZsITmAxtdU.jpg",
+        "studio": [
+            "Netflix"
+        ],
+        "genres": [
+            "Ação"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/ydEqHwK83HH2W6rzqcN44ZIGwNh.jpg",
+                "episodios": [
+                    {
+                        "title": "Cobra Kai - 1ª Temporada Completa",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36f6dcd9dee522460774e197a325e355b9fc6235"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/6GlR2dFUa8g5Np04lpxBhm5a6hM.jpg",
+                "episodios": [
+                    {
+                        "title": "Cobra Kai - 2ª Temporada Completa",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:674406f0bbc2b6970a7897ae2351753ca6400b87"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/f9ccj6MfeAsOk1qAqpifJwzxdfn.jpg",
+                "episodios": [
+                    {
+                        "title": "Cobra Kai - 3ª Temporada Completa",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9241cd119255ed86d07a9a70bb37ac651623eb21"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "4ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/hETMqMZYTBtVrA4A8AcLw5w76Xa.jpg",
+                "episodios": [
+                    {
+                        "title": "Cobra Kai - 4ª Temporada Completa",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50c2ae883e6a2283ccf1fcad0d89d5735f57e736"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "5ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/u2o6NDi5aNQ3SfyN1kZSXBaKoHK.jpg",
+                "episodios": [
+                    {
+                        "title": "Cobra Kai - 5ª Temporada Completa",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:710e33a4252181d425feecff030cc894812edcd7"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "6ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/dC88tPr0RwuKe0O16hh8AevlKcO.jpg",
+                "episodios": [
+                    {
+                        "title": "Cobra Kai - 6ª Temporada Completa",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67fad5435d575019492856415c794f6511661529"
                         ]
                     }
                 ]
@@ -14514,38 +14514,6 @@
         ]
     },
     {
-        "tmdb_id": 87108,
-        "popularity": 3.833,
-        "title": "Chernobyl",
-        "rating": 8.681,
-        "year": 2019,
-        "premiered": "06/05/2019",
-        "synopsis": "Aqui é contada a história da explosão que aconteceu na Usina Nuclear de Chernobyl. Em 1986, na Ucrânia, o acidente dizimou dezenas de pessoas e acabou por se tornar o maior desastre nuclear da história. Enquanto o mundo lamentava o ocorrido, o cientista Valery Legasov (Jared Harris), a física Ulana Khomyuk (Emily Watson) e o vice-presidente do Conselho de Ministros Boris Shcherbina (Stellan Skarsgård) tentam descobrir as causas do acidente.",
-        "poster": "https://image.tmdb.org/t/p/original/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/900tHlUYUkp7Ol04XFSoAaEIXcT.jpg",
-        "studio": [
-            "HBO"
-        ],
-        "genres": [
-            "Drama"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
-                "episodios": [
-                    {
-                        "title": "Chernobyl - 1ª Temporada Completa",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a31f54520affb0ab281602938f0b3ffdec68fe07"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "tmdb_id": 120089,
         "popularity": 3.833,
         "title": "SPY x FAMILY",
@@ -14802,6 +14770,38 @@
                         "title": "2x012. Parte da família",
                         "url": [
                             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37742bc39a3e3319cf2cc0c94665043d887a6a6c"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tmdb_id": 87108,
+        "popularity": 3.833,
+        "title": "Chernobyl",
+        "rating": 8.681,
+        "year": 2019,
+        "premiered": "06/05/2019",
+        "synopsis": "Aqui é contada a história da explosão que aconteceu na Usina Nuclear de Chernobyl. Em 1986, na Ucrânia, o acidente dizimou dezenas de pessoas e acabou por se tornar o maior desastre nuclear da história. Enquanto o mundo lamentava o ocorrido, o cientista Valery Legasov (Jared Harris), a física Ulana Khomyuk (Emily Watson) e o vice-presidente do Conselho de Ministros Boris Shcherbina (Stellan Skarsgård) tentam descobrir as causas do acidente.",
+        "poster": "https://image.tmdb.org/t/p/original/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/900tHlUYUkp7Ol04XFSoAaEIXcT.jpg",
+        "studio": [
+            "HBO"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+                "episodios": [
+                    {
+                        "title": "Chernobyl - 1ª Temporada Completa",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a31f54520affb0ab281602938f0b3ffdec68fe07"
                         ]
                     }
                 ]
@@ -15104,6 +15104,70 @@
         ]
     },
     {
+        "tmdb_id": 96677,
+        "popularity": 3.828,
+        "title": "Lupin",
+        "rating": 7.742,
+        "classification": "16",
+        "year": 2021,
+        "premiered": "08/01/2021",
+        "synopsis": "Inspirado pelas aventuras de Arsène Lupin, o ladrão gentil Assane Diop quer se vingar de uma família rica por uma injustiça cometida contra o pai dele.",
+        "poster": "https://image.tmdb.org/t/p/original/sOUWRai0215iUSMackrZx3Y1j05.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
+        "studio": [
+            "Netflix"
+        ],
+        "episode_count": 17,
+        "genres": [
+            "Crime"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 7.6,
+                "synopsis": "Inspirado pelas aventuras de Arsène Lupin, o ladrão gentil Assane Diop resolve vingar o pai de uma injustiça cometida por uma família rica.",
+                "poster": "https://image.tmdb.org/t/p/original/pk3ahGmVunewuDfnXxJYr4U5Fck.jpg",
+                "episodios": [
+                    {
+                        "title": "Lupin: 1ª Temporada",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8e2456de818b24463d119e3f8df2885a936f0b7"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "rating": 7.5,
+                "synopsis": "A mídia e a polícia atormentam Claire e Raoul. Assane faz de tudo para proteger os dois, mesmo em fuga e de longe, mas antigos inimigos vão atrapalhar seus planos.",
+                "poster": "https://image.tmdb.org/t/p/original/zwhkRtsZmV53FZOxJ7lkxegfXRy.jpg",
+                "episodios": [
+                    {
+                        "title": "Lupin: 2ª Temporada",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eab57445d9249ad40f71c1b1efcbdb01d9cb7aa9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "rating": 7.5,
+                "synopsis": "A mídia e a polícia atormentam Claire e Raoul. Assane faz de tudo para proteger os dois, mesmo em fuga e de longe, mas antigos inimigos vão atrapalhar seus planos.",
+                "poster": "https://image.tmdb.org/t/p/original/zwhkRtsZmV53FZOxJ7lkxegfXRy.jpg",
+                "episodios": [
+                    {
+                        "title": "Lupin: 3ª Temporada",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52279ee9af92c2e218be22f60ad6284c1ad0e31a"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "tmdb_id": 1409,
         "popularity": 3.828,
         "title": "Filhos da Anarquia",
@@ -15209,70 +15273,6 @@
                         "title": "Filhos da Anarquia: 7ª Temporada",
                         "url": [
                             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8324eccd0e4b5f617081c7b27099c25445f195e"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "tmdb_id": 96677,
-        "popularity": 3.828,
-        "title": "Lupin",
-        "rating": 7.742,
-        "classification": "16",
-        "year": 2021,
-        "premiered": "08/01/2021",
-        "synopsis": "Inspirado pelas aventuras de Arsène Lupin, o ladrão gentil Assane Diop quer se vingar de uma família rica por uma injustiça cometida contra o pai dele.",
-        "poster": "https://image.tmdb.org/t/p/original/sOUWRai0215iUSMackrZx3Y1j05.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
-        "studio": [
-            "Netflix"
-        ],
-        "episode_count": 17,
-        "genres": [
-            "Crime"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "rating": 7.6,
-                "synopsis": "Inspirado pelas aventuras de Arsène Lupin, o ladrão gentil Assane Diop resolve vingar o pai de uma injustiça cometida por uma família rica.",
-                "poster": "https://image.tmdb.org/t/p/original/pk3ahGmVunewuDfnXxJYr4U5Fck.jpg",
-                "episodios": [
-                    {
-                        "title": "Lupin: 1ª Temporada",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8e2456de818b24463d119e3f8df2885a936f0b7"
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "2ª Temporada",
-                "rating": 7.5,
-                "synopsis": "A mídia e a polícia atormentam Claire e Raoul. Assane faz de tudo para proteger os dois, mesmo em fuga e de longe, mas antigos inimigos vão atrapalhar seus planos.",
-                "poster": "https://image.tmdb.org/t/p/original/zwhkRtsZmV53FZOxJ7lkxegfXRy.jpg",
-                "episodios": [
-                    {
-                        "title": "Lupin: 2ª Temporada",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eab57445d9249ad40f71c1b1efcbdb01d9cb7aa9"
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "3ª Temporada",
-                "rating": 7.5,
-                "synopsis": "A mídia e a polícia atormentam Claire e Raoul. Assane faz de tudo para proteger os dois, mesmo em fuga e de longe, mas antigos inimigos vão atrapalhar seus planos.",
-                "poster": "https://image.tmdb.org/t/p/original/zwhkRtsZmV53FZOxJ7lkxegfXRy.jpg",
-                "episodios": [
-                    {
-                        "title": "Lupin: 3ª Temporada",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52279ee9af92c2e218be22f60ad6284c1ad0e31a"
                         ]
                     }
                 ]
@@ -15706,41 +15706,6 @@
         ]
     },
     {
-        "tmdb_id": 236429,
-        "popularity": 3.796,
-        "title": "Plantão Policial",
-        "rating": 7.9,
-        "classification": "18",
-        "year": 2025,
-        "premiered": "09/01/2025",
-        "synopsis": "Repleta de adrenalina, esta série nos coloca em um carro de patrulha da Polícia de Long Beach. Junto ao policial de treinamento Traci Harmon e o novato Alex Diaz, esta série examina como as complexidades do trabalho afetam a condição humana. Harmon será iluminado por um menino das ruas enquanto Diaz aprenderá que o trabalho de policial não é branco ou negro, mas envolve tons de cinza.",
-        "poster": "https://image.tmdb.org/t/p/original/zclGqPFfnHrR3Oi0hwetm1Syibr.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/sMhDkrG904UcMJyrUtTuJVlsBJq.jpg",
-        "studio": [
-            "Amazon"
-        ],
-        "genres": [
-            "Crime"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "rating": 0,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/zclGqPFfnHrR3Oi0hwetm1Syibr.jpg",
-                "episodios": [
-                    {
-                        "title": "Plantão Policial: Temporada 1",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c86f36174f13ea720aa992b13723c8587a526fe8"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "tmdb_id": 97400,
         "popularity": 3.796,
         "title": "Missa da Meia-Noite",
@@ -15772,6 +15737,41 @@
                         "title": "Missa da Meia-Noite: 1ª Temporada (Legendada)",
                         "url": [
                             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e9772d1cf896dd25f68852b9fa5331830536e69"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tmdb_id": 236429,
+        "popularity": 3.796,
+        "title": "Plantão Policial",
+        "rating": 7.9,
+        "classification": "18",
+        "year": 2025,
+        "premiered": "09/01/2025",
+        "synopsis": "Repleta de adrenalina, esta série nos coloca em um carro de patrulha da Polícia de Long Beach. Junto ao policial de treinamento Traci Harmon e o novato Alex Diaz, esta série examina como as complexidades do trabalho afetam a condição humana. Harmon será iluminado por um menino das ruas enquanto Diaz aprenderá que o trabalho de policial não é branco ou negro, mas envolve tons de cinza.",
+        "poster": "https://image.tmdb.org/t/p/original/zclGqPFfnHrR3Oi0hwetm1Syibr.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/sMhDkrG904UcMJyrUtTuJVlsBJq.jpg",
+        "studio": [
+            "Amazon"
+        ],
+        "genres": [
+            "Crime"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 0,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/zclGqPFfnHrR3Oi0hwetm1Syibr.jpg",
+                "episodios": [
+                    {
+                        "title": "Plantão Policial: Temporada 1",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c86f36174f13ea720aa992b13723c8587a526fe8"
                         ]
                     }
                 ]
@@ -16900,7 +16900,7 @@
         "poster": "https://image.tmdb.org/t/p/original/iuorrLyDwiOOwsCeEwtCyMOZFh8.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/vanNED66ty4Kc45IMcGI7edQBwH.jpg",
         "studio": [
-            "Disney+"
+            "AMC"
         ],
         "episode_count": 6,
         "genres": [
@@ -17266,7 +17266,7 @@
         "poster": "https://image.tmdb.org/t/p/original/ywbacot78IuNhGW4uVZPxxxVTkm.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/5PCKxpFcCTDFT3b1olJGPaAIM9e.jpg",
         "studio": [
-            "Disney+"
+            "AMC"
         ],
         "genres": [
             "Ficção Cientifica"
@@ -19977,74 +19977,6 @@
         ]
     },
     {
-        "tmdb_id": 81356,
-        "popularity": 3.584,
-        "title": "Sex Education",
-        "rating": 8.3,
-        "year": 2019,
-        "premiered": "01/11/2019",
-        "synopsis": "Graças à mãe terapeuta, Otis sabe tudo de sexo. Para aproveitar isso, a rebelde Maeve propõe abrir uma clínica de terapia sexual na escola.",
-        "poster": "https://image.tmdb.org/t/p/original/dzmDLYIokc7DkmDTBw1S4WTRVzj.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/u23G9KZregWHs1use6ir1fX27gl.jpg",
-        "studio": [
-            "Netflix"
-        ],
-        "genres": [
-            "Comédia"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/9iQtb56Y8c9OCq8TrL0ylto8Drt.jpg",
-                "episodios": [
-                    {
-                        "title": "Sex Education: 1ª Temporada",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ebfeae72238a0a653934a9bd4760722dbffdf5d"
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "2ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/3giYcKm447KW5t2U182qJLsjI9k.jpg",
-                "episodios": [
-                    {
-                        "title": "Sex Education: 2ª Temporada",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a6e3dbe82c70e6611f0ccb699ba670f26114be5"
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "3ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/60pAlpzkc1rHfa76ji3lm3xe4LM.jpg",
-                "episodios": [
-                    {
-                        "title": "Sex Education: 3ª Temporada",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1bd71a9ac629ea5797da5d9a1db33405795fbfb8"
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "4ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/8TIEbGYzDRxBQrb7z4cL7AWkgZq.jpg",
-                "episodios": [
-                    {
-                        "title": "Sex Education: 4ª Temporada",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c1a0ad41a1399a7a03c63f327e790489f3d0f69"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "tmdb_id": 61222,
         "popularity": 3.584,
         "title": "BoJack Horseman",
@@ -20139,6 +20071,74 @@
         ]
     },
     {
+        "tmdb_id": 81356,
+        "popularity": 3.584,
+        "title": "Sex Education",
+        "rating": 8.3,
+        "year": 2019,
+        "premiered": "01/11/2019",
+        "synopsis": "Graças à mãe terapeuta, Otis sabe tudo de sexo. Para aproveitar isso, a rebelde Maeve propõe abrir uma clínica de terapia sexual na escola.",
+        "poster": "https://image.tmdb.org/t/p/original/dzmDLYIokc7DkmDTBw1S4WTRVzj.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/u23G9KZregWHs1use6ir1fX27gl.jpg",
+        "studio": [
+            "Netflix"
+        ],
+        "genres": [
+            "Comédia"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/9iQtb56Y8c9OCq8TrL0ylto8Drt.jpg",
+                "episodios": [
+                    {
+                        "title": "Sex Education: 1ª Temporada",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ebfeae72238a0a653934a9bd4760722dbffdf5d"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/3giYcKm447KW5t2U182qJLsjI9k.jpg",
+                "episodios": [
+                    {
+                        "title": "Sex Education: 2ª Temporada",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a6e3dbe82c70e6611f0ccb699ba670f26114be5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/60pAlpzkc1rHfa76ji3lm3xe4LM.jpg",
+                "episodios": [
+                    {
+                        "title": "Sex Education: 3ª Temporada",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1bd71a9ac629ea5797da5d9a1db33405795fbfb8"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "4ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/8TIEbGYzDRxBQrb7z4cL7AWkgZq.jpg",
+                "episodios": [
+                    {
+                        "title": "Sex Education: 4ª Temporada",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c1a0ad41a1399a7a03c63f327e790489f3d0f69"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "tmdb_id": 67070,
         "popularity": 3.583,
         "title": "Fleabag",
@@ -20181,69 +20181,6 @@
                         "title": "Fleabag: Temporada 2",
                         "url": [
                             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bfc8ca9d850c57ecc456870a34ed86bc1e65cc9"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "tmdb_id": 1920,
-        "popularity": 3.582,
-        "title": "Twin Peaks",
-        "rating": 8.8,
-        "classification": "16",
-        "year": 1990,
-        "premiered": "08/04/1990",
-        "synopsis": "A misteriosa morte de Laura Palmer na pacata cidade de Twin Peaks dá início a uma série de problemas ao agente do FBI Dale Cooper e ao xerife Harry Truman. Eles são os responsáveis pela investigação do crime e acabam percebendo que várias pessoas da cidade estão envolvidas e que segredos obscuros estão por trás do caso.",
-        "poster": "https://image.tmdb.org/t/p/original/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/dZklTql88IDOmkC3JAYQSTgyK6f.jpg",
-        "studio": [
-            "ABC"
-        ],
-        "genres": [
-            "Drama"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "rating": 7.8,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/2dI60F5ODC6LvpKJgatpTcKdizv.jpg",
-                "episodios": [
-                    {
-                        "title": "Twin Peaks: Temporada 1",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51b4eb1ebd66461e431dc3b3af3110db079a2468"
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "2ª Temporada",
-                "rating": 7.5,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/dkxtnSbbm8T6NZ1VQB87NeToE0B.jpg",
-                "episodios": [
-                    {
-                        "title": "Twin Peaks: Temporada 1",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8ca2efddd41b02b746cb006e2805db40a15e064"
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "3ª Temporada",
-                "rating": 7.9,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/ei7odFMfdnNV9pr5LyfrAAQOFes.jpg",
-                "episodios": [
-                    {
-                        "title": "Twin Peaks: Temporada 1",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd7964539233f16f72e2c6d54a707398dc7dcc01"
                         ]
                     }
                 ]
@@ -20330,6 +20267,69 @@
                         "title": "Os Originais - 5ª Temporada",
                         "url": [
                             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6470d3d3aab9504331cdb2e3890a692f46584c1"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tmdb_id": 1920,
+        "popularity": 3.582,
+        "title": "Twin Peaks",
+        "rating": 8.8,
+        "classification": "16",
+        "year": 1990,
+        "premiered": "08/04/1990",
+        "synopsis": "A misteriosa morte de Laura Palmer na pacata cidade de Twin Peaks dá início a uma série de problemas ao agente do FBI Dale Cooper e ao xerife Harry Truman. Eles são os responsáveis pela investigação do crime e acabam percebendo que várias pessoas da cidade estão envolvidas e que segredos obscuros estão por trás do caso.",
+        "poster": "https://image.tmdb.org/t/p/original/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/dZklTql88IDOmkC3JAYQSTgyK6f.jpg",
+        "studio": [
+            "ABC"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 7.8,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/2dI60F5ODC6LvpKJgatpTcKdizv.jpg",
+                "episodios": [
+                    {
+                        "title": "Twin Peaks: Temporada 1",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51b4eb1ebd66461e431dc3b3af3110db079a2468"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "rating": 7.5,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/dkxtnSbbm8T6NZ1VQB87NeToE0B.jpg",
+                "episodios": [
+                    {
+                        "title": "Twin Peaks: Temporada 1",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8ca2efddd41b02b746cb006e2805db40a15e064"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "rating": 7.9,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/ei7odFMfdnNV9pr5LyfrAAQOFes.jpg",
+                "episodios": [
+                    {
+                        "title": "Twin Peaks: Temporada 1",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd7964539233f16f72e2c6d54a707398dc7dcc01"
                         ]
                     }
                 ]
@@ -20493,6 +20493,83 @@
         ]
     },
     {
+        "tmdb_id": 89844,
+        "popularity": 3.579,
+        "title": "30 Moedas",
+        "rating": 7.3,
+        "classification": "TV-MA",
+        "year": 2020,
+        "premiered": "29/11/2020",
+        "synopsis": "Judas traiu Cristo por 30 moedas. 2000 anos depois, uma delas aparece em um vilarejo da Espanha causando fenômenos paranormais.",
+        "poster": "https://image.tmdb.org/t/p/original/yo3udZRKPbhfzI7sWaI2hhyfhRM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/j5B7G6NsWfgLawCAUsQU8Qrl6Tm.jpg",
+        "studio": [
+            "HBO"
+        ],
+        "genres": [
+            "Crime"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada (Link Direto)",
+                "rating": 7.3,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/mXOlKTnTpu9Aw66sfKB1iMke1IN.jpg",
+                "episodios": [
+                    {
+                        "title": "1x01. Teias de Aranha",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=VWVEMa8y35dYc32dNzh5HjNpdcGsT8oJNfg1jvHHHlPRBbLYCqw0N3zaVFg%2Fm5Wv&expiry=beCg8L8J05NPtIgSd6xAPw%3D%3D&mac=a25762efd1c61508c1a215ed5be5170cfa606f02797cb809af6e720efc4a715f"
+                        ]
+                    },
+                    {
+                        "title": "1x02. Ouija",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=qQuMbv8Xch5X4RZAwbsK1DTio7KzPzELjohJe28HR0jMt1hZlhpPZkaJ6fEgm0fi&expiry=beCg8L8J05NPtIgSd6xAPw%3D%3D&mac=fee928526d7f981f2253174f3b17cabcedb4973c284bc39e9383dceae113c91e"
+                        ]
+                    },
+                    {
+                        "title": "1x03. O Espelho",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=FjCUXrI3YRImzLu7XDAtwl%2BtqCTAbSVCzh06PkZlEEtLvgE6ba7gzUxAJzJAzH0t&expiry=beCg8L8J05NPtIgSd6xAPw%3D%3D&mac=c5f6eeb69d2205ab6cd97c00bacb101c1a5f9a50276397b9f34ede3cbcffaff9"
+                        ]
+                    },
+                    {
+                        "title": "1x04. Memórias",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=LdMS%2F7lFrkIjC0Y4R2suR07ke3tNrU8nG6DRu9FgrlvmQkzOWuQwSd6m1PAnvcOR&expiry=beCg8L8J05NPtIgSd6xAPw%3D%3D&mac=e2f903934f78b246c6072f56f134b1e50488cfd8a1a16de8d3dc7249f6843389"
+                        ]
+                    },
+                    {
+                        "title": "1x05. O Duplo",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=jdTquPJPek%2Fsoo37M0Zisvv1vHJZxMyAK2PcKj%2FeRY64OJCJ8Eu0EywrcH5A4s5q&expiry=beCg8L8J05NPtIgSd6xAPw%3D%3D&mac=47dd590e9ada3d385f458ea678c86ad178d48733427cb990ba7dec5afe3122d6"
+                        ]
+                    },
+                    {
+                        "title": "1x06. Guerra Santa",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=znxmHHZ4a1umzwrKaM0tzuGjDV9QHK32fBjFwV1HRVpSSus5zpU4vCtfbvVsci4z&expiry=beCg8L8J05NPtIgSd6xAPw%3D%3D&mac=262d765d5305f450deadfc39b7f04b84332e398c4418fe9e38e15e315487f169"
+                        ]
+                    },
+                    {
+                        "title": "1x07. A Caixa de Vidro",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=jl5NUNIPSy54xQ6XwpeMvl2W%2FKxJwR8LK40FYX0ryr9oE85HdrapWwfz0jZD9bvo&expiry=beCg8L8J05NPtIgSd6xAPw%3D%3D&mac=26f0722f95e15412ea315b0b7379bf30623d1e02a350f7e45a53a14c5db220a0"
+                        ]
+                    },
+                    {
+                        "title": "1x08. Sacrifício",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=FrcMz43wPvGt0ph9Zhaf75F1E9Ym89AHANw1yQ%2B5Bfj%2BFb06q5IPkMvGTHZB9Kyu&expiry=beCg8L8J05NPtIgSd6xAPw%3D%3D&mac=0ac604f02162baacfb5ce1fe7a1ccbcb8986c91c461139ce23d9a906d1f3b488"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "tmdb_id": 79788,
         "popularity": 3.579,
         "title": "Watchmen",
@@ -20575,83 +20652,6 @@
                         "url": [
                             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2bca36d2a0c0965b1ecdfa22be9ea2eaea93feb5",
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=PwSZwn%2Fi8Rulx15d7Xluz9Qc8omOggMbFKez0mpyotpR%2BxPT2voWIDLcDG5jpHyf&expiry=f0FN2Cf8B2bx9G47hm9fpw%3D%3D&mac=7c3fa666ebaee74f16fdace735baedb36b5307974e6e2b88e24afdf32ce4cae9"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "tmdb_id": 89844,
-        "popularity": 3.579,
-        "title": "30 Moedas",
-        "rating": 7.3,
-        "classification": "TV-MA",
-        "year": 2020,
-        "premiered": "29/11/2020",
-        "synopsis": "Judas traiu Cristo por 30 moedas. 2000 anos depois, uma delas aparece em um vilarejo da Espanha causando fenômenos paranormais.",
-        "poster": "https://image.tmdb.org/t/p/original/yo3udZRKPbhfzI7sWaI2hhyfhRM.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/j5B7G6NsWfgLawCAUsQU8Qrl6Tm.jpg",
-        "studio": [
-            "HBO"
-        ],
-        "genres": [
-            "Crime"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada (Link Direto)",
-                "rating": 7.3,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/mXOlKTnTpu9Aw66sfKB1iMke1IN.jpg",
-                "episodios": [
-                    {
-                        "title": "1x01. Teias de Aranha",
-                        "url": [
-                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=VWVEMa8y35dYc32dNzh5HjNpdcGsT8oJNfg1jvHHHlPRBbLYCqw0N3zaVFg%2Fm5Wv&expiry=beCg8L8J05NPtIgSd6xAPw%3D%3D&mac=a25762efd1c61508c1a215ed5be5170cfa606f02797cb809af6e720efc4a715f"
-                        ]
-                    },
-                    {
-                        "title": "1x02. Ouija",
-                        "url": [
-                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=qQuMbv8Xch5X4RZAwbsK1DTio7KzPzELjohJe28HR0jMt1hZlhpPZkaJ6fEgm0fi&expiry=beCg8L8J05NPtIgSd6xAPw%3D%3D&mac=fee928526d7f981f2253174f3b17cabcedb4973c284bc39e9383dceae113c91e"
-                        ]
-                    },
-                    {
-                        "title": "1x03. O Espelho",
-                        "url": [
-                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=FjCUXrI3YRImzLu7XDAtwl%2BtqCTAbSVCzh06PkZlEEtLvgE6ba7gzUxAJzJAzH0t&expiry=beCg8L8J05NPtIgSd6xAPw%3D%3D&mac=c5f6eeb69d2205ab6cd97c00bacb101c1a5f9a50276397b9f34ede3cbcffaff9"
-                        ]
-                    },
-                    {
-                        "title": "1x04. Memórias",
-                        "url": [
-                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=LdMS%2F7lFrkIjC0Y4R2suR07ke3tNrU8nG6DRu9FgrlvmQkzOWuQwSd6m1PAnvcOR&expiry=beCg8L8J05NPtIgSd6xAPw%3D%3D&mac=e2f903934f78b246c6072f56f134b1e50488cfd8a1a16de8d3dc7249f6843389"
-                        ]
-                    },
-                    {
-                        "title": "1x05. O Duplo",
-                        "url": [
-                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=jdTquPJPek%2Fsoo37M0Zisvv1vHJZxMyAK2PcKj%2FeRY64OJCJ8Eu0EywrcH5A4s5q&expiry=beCg8L8J05NPtIgSd6xAPw%3D%3D&mac=47dd590e9ada3d385f458ea678c86ad178d48733427cb990ba7dec5afe3122d6"
-                        ]
-                    },
-                    {
-                        "title": "1x06. Guerra Santa",
-                        "url": [
-                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=znxmHHZ4a1umzwrKaM0tzuGjDV9QHK32fBjFwV1HRVpSSus5zpU4vCtfbvVsci4z&expiry=beCg8L8J05NPtIgSd6xAPw%3D%3D&mac=262d765d5305f450deadfc39b7f04b84332e398c4418fe9e38e15e315487f169"
-                        ]
-                    },
-                    {
-                        "title": "1x07. A Caixa de Vidro",
-                        "url": [
-                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=jl5NUNIPSy54xQ6XwpeMvl2W%2FKxJwR8LK40FYX0ryr9oE85HdrapWwfz0jZD9bvo&expiry=beCg8L8J05NPtIgSd6xAPw%3D%3D&mac=26f0722f95e15412ea315b0b7379bf30623d1e02a350f7e45a53a14c5db220a0"
-                        ]
-                    },
-                    {
-                        "title": "1x08. Sacrifício",
-                        "url": [
-                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=FrcMz43wPvGt0ph9Zhaf75F1E9Ym89AHANw1yQ%2B5Bfj%2BFb06q5IPkMvGTHZB9Kyu&expiry=beCg8L8J05NPtIgSd6xAPw%3D%3D&mac=0ac604f02162baacfb5ce1fe7a1ccbcb8986c91c461139ce23d9a906d1f3b488"
                         ]
                     }
                 ]
@@ -22540,40 +22540,6 @@
         ]
     },
     {
-        "tmdb_id": 80039,
-        "popularity": 3.545,
-        "title": "The Underground Railroad: Os Caminhos para a Liberdade",
-        "rating": 7.4,
-        "classification": "16",
-        "year": 2021,
-        "premiered": "13/05/2021",
-        "synopsis": "Cora é uma jovem escrava em uma jornada comovente e cheia de história pela liberdade, enquanto é perseguida por um perigoso caçador de escravos, Ridgeway. Em sua árdua jornada de crescimento e perseverança, Cora encontra uma misteriosa ferrovia subterrânea e as verdades atemporais sobre o que significa ser negro na América.",
-        "poster": "https://image.tmdb.org/t/p/original/x0i5uyhmVecgCLbIuas83D7sq2G.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/pZcS7g2wsGWqWvleu3f9JS288QT.jpg",
-        "studio": [
-            "Amazon"
-        ],
-        "genres": [
-            "Drama"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/x0i5uyhmVecgCLbIuas83D7sq2G.jpg",
-                "episodios": [
-                    {
-                        "title": "Os Caminhos para a Liberdade: 1ª Temporada",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1344064a8da9ec9ae1c0b6b550e73050a7562e0f"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "tmdb_id": 111177,
         "popularity": 3.545,
         "title": "Godzilla Ponto Singular",
@@ -22605,6 +22571,40 @@
                         "title": "Godzilla Ponto Singular - Temporada 1",
                         "url": [
                             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfcf99323d355b4ace6c16a93b080c6cc1bfab80"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tmdb_id": 80039,
+        "popularity": 3.545,
+        "title": "The Underground Railroad: Os Caminhos para a Liberdade",
+        "rating": 7.4,
+        "classification": "16",
+        "year": 2021,
+        "premiered": "13/05/2021",
+        "synopsis": "Cora é uma jovem escrava em uma jornada comovente e cheia de história pela liberdade, enquanto é perseguida por um perigoso caçador de escravos, Ridgeway. Em sua árdua jornada de crescimento e perseverança, Cora encontra uma misteriosa ferrovia subterrânea e as verdades atemporais sobre o que significa ser negro na América.",
+        "poster": "https://image.tmdb.org/t/p/original/x0i5uyhmVecgCLbIuas83D7sq2G.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/pZcS7g2wsGWqWvleu3f9JS288QT.jpg",
+        "studio": [
+            "Amazon"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/x0i5uyhmVecgCLbIuas83D7sq2G.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Caminhos para a Liberdade: 1ª Temporada",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1344064a8da9ec9ae1c0b6b550e73050a7562e0f"
                         ]
                     }
                 ]
@@ -22649,38 +22649,6 @@
                         "title": "Anne com um E - 2ª Temporada",
                         "url": [
                             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac71197af9a513eff1548dcfae2637c46a7508eb"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "tmdb_id": 109958,
-        "popularity": 3.542,
-        "title": "A Maldição da Mansão Bly",
-        "rating": 7.6,
-        "year": 2020,
-        "premiered": "09/10/2020",
-        "synopsis": "Uma babá adentra um mundo de segredos sinistros neste romance gótico do criador de \"A Maldição da Residência Hill\".",
-        "poster": "https://image.tmdb.org/t/p/original/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/isevY1UDcpaAYlYo7IqoSAU9s81.jpg",
-        "studio": [
-            "Netflix"
-        ],
-        "genres": [
-            "Mistério"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg",
-                "episodios": [
-                    {
-                        "title": "A Maldição da Mansão Bly: 1ª Temporada",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ece3683c87d931007c0ccb329c7db644880ee19"
                         ]
                     }
                 ]
@@ -22939,6 +22907,38 @@
         ]
     },
     {
+        "tmdb_id": 109958,
+        "popularity": 3.542,
+        "title": "A Maldição da Mansão Bly",
+        "rating": 7.6,
+        "year": 2020,
+        "premiered": "09/10/2020",
+        "synopsis": "Uma babá adentra um mundo de segredos sinistros neste romance gótico do criador de \"A Maldição da Residência Hill\".",
+        "poster": "https://image.tmdb.org/t/p/original/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/isevY1UDcpaAYlYo7IqoSAU9s81.jpg",
+        "studio": [
+            "Netflix"
+        ],
+        "genres": [
+            "Mistério"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg",
+                "episodios": [
+                    {
+                        "title": "A Maldição da Mansão Bly: 1ª Temporada",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ece3683c87d931007c0ccb329c7db644880ee19"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "tmdb_id": 80623,
         "popularity": 3.542,
         "title": "Baki - O Campeão",
@@ -22986,47 +22986,6 @@
                         "title": "Baki - O Campeão: Temporada 2",
                         "url": [
                             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b7a408c64fdfae2e48b578b5c0ee8b970429f81"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "tmdb_id": 79525,
-        "popularity": 3.541,
-        "title": "Arremesso Final",
-        "rating": 8.8,
-        "classification": "12",
-        "year": 2020,
-        "premiered": "19/04/2020",
-        "synopsis": "Esse relato definitivo sobre a carreira de Michael Jordan e o time do Chicago Bulls nos anos 90 traz imagens inéditas da temporada de 1997–1998.",
-        "poster": "https://image.tmdb.org/t/p/original/3a50zkySihNjgRfhLl2qIdhie7p.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/kY0h95L73t7a6ev6Rv0aHSCtN7y.jpg",
-        "studio": [
-            "Netflix"
-        ],
-        "genres": [
-            "Documentário"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "rating": 8.1,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/5VpKtJUEdZRJ4pd0HX2rVs2e2xg.jpg",
-                "episodios": [
-                    {
-                        "title": "Arremesso Final: Temporada 1",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:535a81eb4cced749ee67def6893e48cd4af71dce"
-                        ]
-                    },
-                    {
-                        "title": "Arremesso Final: Temporada 1 (Leg)",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3c068cd354bf637fc0e98fcafaa9e3c78c65fdc"
                         ]
                     }
                 ]
@@ -23190,6 +23149,47 @@
         ]
     },
     {
+        "tmdb_id": 79525,
+        "popularity": 3.541,
+        "title": "Arremesso Final",
+        "rating": 8.8,
+        "classification": "12",
+        "year": 2020,
+        "premiered": "19/04/2020",
+        "synopsis": "Esse relato definitivo sobre a carreira de Michael Jordan e o time do Chicago Bulls nos anos 90 traz imagens inéditas da temporada de 1997–1998.",
+        "poster": "https://image.tmdb.org/t/p/original/3a50zkySihNjgRfhLl2qIdhie7p.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/kY0h95L73t7a6ev6Rv0aHSCtN7y.jpg",
+        "studio": [
+            "Netflix"
+        ],
+        "genres": [
+            "Documentário"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 8.1,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/5VpKtJUEdZRJ4pd0HX2rVs2e2xg.jpg",
+                "episodios": [
+                    {
+                        "title": "Arremesso Final: Temporada 1",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:535a81eb4cced749ee67def6893e48cd4af71dce"
+                        ]
+                    },
+                    {
+                        "title": "Arremesso Final: Temporada 1 (Leg)",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3c068cd354bf637fc0e98fcafaa9e3c78c65fdc"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "tmdb_id": 81355,
         "popularity": 3.54,
         "title": "Olhos que Condenam",
@@ -23215,41 +23215,6 @@
                         "title": "1ª Temporada - Completa",
                         "url": [
                             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97d129f3fc62931eb4d1faa3dc309bd2ff3587f9"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "tmdb_id": 60743,
-        "popularity": 3.54,
-        "title": "Constantine",
-        "rating": 7.77,
-        "classification": "16",
-        "year": 2014,
-        "premiered": "24/10/2014",
-        "synopsis": "John Constantine é um detetive com habilidades sobrenaturais. Perseguido por mistérios e segredos de seu próprio passado, a vida de John é mudada quando suas habilidades são descobertas pelas forças do céu, ou seja, pelo autoritário anjo Manny. Ele irá ajudar o detetive a se tornar um grande e feroz defensor das forças do bem contra o mal.",
-        "poster": "https://image.tmdb.org/t/p/original/gQ3bA1DBKyZwkDCHJFEAT0MkKpu.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/m6gZjzynVlVj5bQiJ6a6hrgw7dw.jpg",
-        "studio": [
-            "NBC"
-        ],
-        "genres": [
-            "Ação e Aventura"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "rating": 7,
-                "synopsis": "A série fala sobre John Constantine, um exorcista sombrio, detetive oculto e vigarista que está lutando com seus pecados passados, enquanto ele tenta proteger a humanidade de uma coleta ameaça sobrenatural.",
-                "poster": "https://image.tmdb.org/t/p/original/7CNfWp4mn2SBXcbzkE5ENo3gQhA.jpg",
-                "episodios": [
-                    {
-                        "title": "Constantine: Temporada 1",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ec77c93fa4584ac8e49299c16881353ec4b3445"
                         ]
                     }
                 ]
@@ -23339,6 +23304,73 @@
                         "title": "1x010. Must/Can't",
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=jAc2bUx5R8LtQT5FvTJhwh3v9XlpGeeneH2%2BaCv3a%2F9ucwDPhg5fnitxKWJVebYi&expiry=cVs1LtlxUao%2BTUDhZ98Fyg%3D%3D&mac=ef6807eac2f0f52db9f28661d7d0f4297784ab85ce7e80d435a960a0b7da3b44"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tmdb_id": 60743,
+        "popularity": 3.54,
+        "title": "Constantine",
+        "rating": 7.77,
+        "classification": "16",
+        "year": 2014,
+        "premiered": "24/10/2014",
+        "synopsis": "John Constantine é um detetive com habilidades sobrenaturais. Perseguido por mistérios e segredos de seu próprio passado, a vida de John é mudada quando suas habilidades são descobertas pelas forças do céu, ou seja, pelo autoritário anjo Manny. Ele irá ajudar o detetive a se tornar um grande e feroz defensor das forças do bem contra o mal.",
+        "poster": "https://image.tmdb.org/t/p/original/gQ3bA1DBKyZwkDCHJFEAT0MkKpu.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/m6gZjzynVlVj5bQiJ6a6hrgw7dw.jpg",
+        "studio": [
+            "NBC"
+        ],
+        "genres": [
+            "Ação e Aventura"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 7,
+                "synopsis": "A série fala sobre John Constantine, um exorcista sombrio, detetive oculto e vigarista que está lutando com seus pecados passados, enquanto ele tenta proteger a humanidade de uma coleta ameaça sobrenatural.",
+                "poster": "https://image.tmdb.org/t/p/original/7CNfWp4mn2SBXcbzkE5ENo3gQhA.jpg",
+                "episodios": [
+                    {
+                        "title": "Constantine: Temporada 1",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ec77c93fa4584ac8e49299c16881353ec4b3445"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tmdb_id": 82883,
+        "popularity": 3.539,
+        "title": "O Ato",
+        "rating": 7.565,
+        "year": 2019,
+        "premiered": "20/03/2019",
+        "synopsis": "O relaciotitlento entre Dee Dee Blanchard e sua filha Gypsy, que acreditou ter uma grave doença durante toda a vida por causa da mãe extremamente controladora e insegura. Em busca de independência para viver um amor proibido, Gypsy decide então orquestrar um assassinato.",
+        "poster": "https://image.tmdb.org/t/p/original/vb1sQLC2MqfCPOFqHd8SyVsyDVB.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/1yhQGQH7pfKdIY2xJSYNdp8ReD6.jpg",
+        "studio": [
+            "Hulu"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/vb1sQLC2MqfCPOFqHd8SyVsyDVB.jpg",
+                "episodios": [
+                    {
+                        "title": "O Ato: 1ª Temporada",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2274e8736d96421570d30b0f9a27ec11b07ae081"
                         ]
                     }
                 ]
@@ -23460,38 +23492,6 @@
                         "title": "2x07. I Want to Know",
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=YWM%2F7cwfbKGm9IAbW%2F9N2gzYVU5bQkOm3aoIyyXL0c2CyyW10CKg8ybQu7FxRpYE&expiry=0vKLYLMuBON2Jin0z3p36A%3D%3D&mac=7f3069f22dd27b1e4d34cbbbab57f6ecf2c3f6a5799b045b7bb28840b1185e17"
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "tmdb_id": 82883,
-        "popularity": 3.539,
-        "title": "O Ato",
-        "rating": 7.565,
-        "year": 2019,
-        "premiered": "20/03/2019",
-        "synopsis": "O relaciotitlento entre Dee Dee Blanchard e sua filha Gypsy, que acreditou ter uma grave doença durante toda a vida por causa da mãe extremamente controladora e insegura. Em busca de independência para viver um amor proibido, Gypsy decide então orquestrar um assassinato.",
-        "poster": "https://image.tmdb.org/t/p/original/vb1sQLC2MqfCPOFqHd8SyVsyDVB.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/1yhQGQH7pfKdIY2xJSYNdp8ReD6.jpg",
-        "studio": [
-            "Hulu"
-        ],
-        "genres": [
-            "Drama"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/vb1sQLC2MqfCPOFqHd8SyVsyDVB.jpg",
-                "episodios": [
-                    {
-                        "title": "O Ato: 1ª Temporada",
-                        "url": [
-                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2274e8736d96421570d30b0f9a27ec11b07ae081"
                         ]
                     }
                 ]
@@ -24431,6 +24431,756 @@
         ]
     },
     {
+        "tmdb_id": 4184,
+        "popularity": 3.531,
+        "title": "A Usurpadora",
+        "rating": 7.5,
+        "classification": "10",
+        "year": 1998,
+        "premiered": "02/09/1998",
+        "synopsis": "Paulina é uma jovem bondosa que precisa cuidar de sua mãe doente. Ao acaso, encontrará uma mulher idêntica a ela, a rica Paola Bracho, que mudará sua vida para sempre.",
+        "poster": "https://image.tmdb.org/t/p/original/pcslXe33yoUsEu97U5ekrS5qzip.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/zW7XIkhguVYnrxc00fcudXzvwrv.jpg",
+        "studio": [
+            "Globoplay"
+        ],
+        "genres": [
+            "Novela",
+            "Drama"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada (Link Direto)",
+                "rating": 8.1,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/5a0YqspmF7xBHlJSqX0n1Ecl57o.jpg",
+                "episodios": [
+                    {
+                        "title": "1x01. Capítulo 1",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=rHmUtVpbofsqy3%2FN%2BSnWJMU1MWRqVSnTcRfkMUooqFqn7b4K9VmDjhAtGV8b7Aee&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=a2fcf2a597866c26761415d5b3bee380ff3cb22f63a9a7ac3eb292cad22dc95b"
+                        ]
+                    },
+                    {
+                        "title": "1x02. Capítulo 2",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=wxcf610zwvpBHLNNhZKsjgkW4vqFsR9itjy9hsDcHcj9eibgvdJBpfr%2B1nBH90oJ&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=c2410024dfe2fe51806286979c6dc5e04a94b05045d3edcd852623eb2dca07eb"
+                        ]
+                    },
+                    {
+                        "title": "1x03. Capítulo 3",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=aUxRoLtbKvrbNkaTJ%2BMM%2F7ViIx2x8sKlrSTLozhpJPYpdF8AnekxAMGqQFdxyvp4&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=2a434959a345fd268940fe84a67b5b18d69916830496c6bf40572855d5b437cd"
+                        ]
+                    },
+                    {
+                        "title": "1x04. Capítulo 4",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=El48fo6F1GM0n8%2FvapDM0KNKy3rauN1dSTCpjPdzzRGXrEFFuo%2FVIGWvSSKXvBeT&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=3dd0e940261ad5e5a3faca3c5999ec6c463faf5525d436417a479ff7540b05dd"
+                        ]
+                    },
+                    {
+                        "title": "1x05. Capítulo 5",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=hVXkg9wI8hxxbl%2BSB%2BJycXrUz6ddZLmFW0VP%2Ftc7IJyn810V6FlOnSdHN2otjhSl&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=b756d7d12244fd9e46124a795df1ee347feaa5bef2fc637443e791785baa3481"
+                        ]
+                    },
+                    {
+                        "title": "1x06. Capítulo 6",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=%2B5Zjzq26YqnC5Ck7kbu1OiDqJFKi6dPR6LXMSukeiszx68sFBGmD7JsUIbMBBjUX&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=df23a0110896ac31f8a894e1bff5797ae1317944928b25bb7be0f06cd5460378"
+                        ]
+                    },
+                    {
+                        "title": "1x07. Capítulo 7",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=lgZEBUu%2FM1HxCWmlyyMW%2FP%2BT3Hxc34I8LStw4G4KA11sySRsOXq32Tp0SeztTUIJ&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=c51291675a9cc7686b84b0f4181b399d3122ca734817429dc313957534536658"
+                        ]
+                    },
+                    {
+                        "title": "1x08. Capítulo 8",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=wf2iWOwk35tX72rb90JG8gteT01rUwu36OAloEwHbycnIFJGi2DjRvaPAhSCGZkl&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=17945a5e38169083cea9566bef9d7eec326f3192f65240583b0f6734819bb9a0"
+                        ]
+                    },
+                    {
+                        "title": "1x09. Capítulo 9",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=hrdoZkAfzYkCnXhr0JtU9W4gBqNuqZWLEBFXsV5mZFxb%2FaEsKx2VBcNE1B3m7dpj&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=12421165585a6db8f9f7d6c0176020bcdf5eab51c9bcc52ad52a25a373db3cb7"
+                        ]
+                    },
+                    {
+                        "title": "1x010. Capítulo 10",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=ltCftVs2jRUEtOoRGGYPoC2%2FMX5jCWhr9BGZoh7SG9gx54UdUJJRJWlULp9mPKDr&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=c4dfe0166a465451ac7e2b9995f7496adb238e028d9412abd0a09680e7c37fd6"
+                        ]
+                    },
+                    {
+                        "title": "1x011. Capítulo 11",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=4YmczQZumB10R0MO3%2Fey%2Bm5p8dwxfcsu8X%2BCx4xagH79qR5EiHs%2B5LznrZwPjxRj&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=a5e285fee7478ae6f7dc9827b354eff69c37bbef10a3fcd9d54bb1c5ed8fbaad"
+                        ]
+                    },
+                    {
+                        "title": "1x012. Capítulo 12",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Xhi7iB8ptrf%2B8STvMdI5KMD4EAX82jfVDvg0HQ8TlStTRnMfsUQBF%2BjIwzGNi%2B3J&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=3da4c6007b91d951201e51531c8a0b52eb1e43fb811a8be1e0b25c6ea020536a"
+                        ]
+                    },
+                    {
+                        "title": "1x013. Capítulo 13",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=ZMNVkS8kBPr1H%2Fe2Sq%2BCZJQ1fL2UpBp4vNqdD9%2FZrIJ2oMzO6JbZSLybAJuJ3hJa&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=55815a7277f1dde0d39d86324c9395701e1873cb14d16a23203fb7ce3b3a079a"
+                        ]
+                    },
+                    {
+                        "title": "1x014. Capítulo 14",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=OJLlD%2BBIgUfMBew3CJ23%2BVM2SkNzmdTXETzQ91IkYs48rf%2FcxujiCfdNEN16BVB1&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=acb168dbe58f54df00f79b0e14f3b7d1dafbcd7cd2162d182b72bbc473962ad2"
+                        ]
+                    },
+                    {
+                        "title": "1x015. Capítulo 15",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=cH5f82BVoqzhUt09MRX8RJzzHLnTnvzzX6AJ%2B751f%2FI%2BZP8RT5%2B%2BTOlpZYD63HyZ&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=519533ed90d534c053375931ef63bc8d5dbae1a0c54ecd9e94de1191b1927bba"
+                        ]
+                    },
+                    {
+                        "title": "1x016. Capítulo 16",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=28B7%2Ft%2F9vl15Majuoa%2Fl941ylStU6J2P8IbS6W5kEdVbULajTS32ZyXSO7%2FDSI9L&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=26b2b99ec276e64bead76e75b4fb1eac64c7fb47d683b17630b521ca7d7d7f90"
+                        ]
+                    },
+                    {
+                        "title": "1x017. Capítulo 17",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=SkN3SIEuxfdSEcX%2BKPfFtL0KZIcr3MSvK%2FmfDYCI9YneMarTqMis3XdmkSj7h%2FqT&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=2f7d1c45de8d4bd7ee1560ae8ff13c76002a003eaa61c6b0c8a3ddb059741d2a"
+                        ]
+                    },
+                    {
+                        "title": "1x018. Capítulo 18",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=EciVHnKxw%2B53isg0GMPloHNs6nnH%2B%2BxD%2Fio3xN81Mbdh%2FkSmAVc5xkM4%2BBt7skid&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=fa0aaaea8f27691a25b1db190b7fe1f101bad40a78ffc5215e94797f597ecbc6"
+                        ]
+                    },
+                    {
+                        "title": "1x019. Capítulo 19",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Ik%2FcyNFwqly%2BY9%2FWLB1XGPoVdU%2FG2ycMe0u0I2uoAk254dgmo0pULVw%2F3Z4FLNfw&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=727fda7071495adc91c69ce6f718c741e3751b14b0465f6afe947b7af2453311"
+                        ]
+                    },
+                    {
+                        "title": "1x020. Capítulo 20",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Fkf5VrGbqHQ64lOKc7mqKrBnZgHqkhDH2kYiTQJCtU5jguFG2PMutIR6cB8KL9G1&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=3b22bc810c2bd4bb67a980c7f62998168c5a2e2573b1dd2c0247700bb253e728"
+                        ]
+                    },
+                    {
+                        "title": "1x021. Capítulo 21",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=mEhj4GECid%2FayGL5jqinyyjvOLDDUGvfjIMk9gRkF4dP1qdO2wdcY4uXP9PV9pUH&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=cf0155db3b52fa3775c9e0aab7db38a88626dea40044eb9b90ccd91b691eabc5"
+                        ]
+                    },
+                    {
+                        "title": "1x022. Capítulo 22",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=sIsTgEs%2BEM27Lp%2BqVA9y3RgTdwI21OJarzxkzmgor8lIZQHCINyLBp3F%2F9xANZ4s&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=1b86c51d681f67398b8332a2bc7cfcbb8e88a0b81d059b6850883333309b70e9"
+                        ]
+                    },
+                    {
+                        "title": "1x023. Capítulo 23",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=efsONbKjnWtE4v6LwfNZLbM%2B8BNZcnLkX3k%2F8HNI0h4FkFuyc5z7Jd6yZhU5Z52M&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=b90db92a6bf18d2ba05f890c35430bf9e1fa5c675e1d30c28948b05f0b43e7e2"
+                        ]
+                    },
+                    {
+                        "title": "1x024. Capítulo 24",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=fld3Zm9Pj9ZGxpoZmx2ZfM3my%2FBKH1Ag9r4vL4wOs%2BK0rrsJ83MnMxeEbULoIdIr&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=c9b87aca33250970ad05956c096c0fcdca3deda74334412943ad86373da19eb1"
+                        ]
+                    },
+                    {
+                        "title": "1x025. Capítulo 25",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=QiNbu1RGp9IsJoRI7uDkS1%2BTMftfxG5gQiAoPCHMXLgIbQNqh6%2Fa90DPyG%2BcEUGI&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=05460e3ea43f71d26de399cd527963cc23672a9a69bb9fbc468b92c612940ac2"
+                        ]
+                    },
+                    {
+                        "title": "1x026. Capítulo 26",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=xBdtjgC9Z7KSS7OLRFzg53unxdYPZlOkpVyCgxIAurX5KwWitOBSPYdRDhSEbPwL&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=e4cc8bf082ed1f7f42ef0299c9318c428b4eadb7e1cef1802d87cd276802e0a5"
+                        ]
+                    },
+                    {
+                        "title": "1x027. Capítulo 27",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=x7mRW6mbfCp4Ei7gpqiSlOWWO%2FnbGule%2F7gGBpShPzzOE1OlKcL%2FaSgdSyimap8R&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=f326f76df3bf50a4736cb2ccc00ca5441daf07ceed6c276af6d85f8efa186af3"
+                        ]
+                    },
+                    {
+                        "title": "1x028. Capítulo 28",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=YZl54dptS2WSVLqgApFUA9QYp8gQCJL9xrHDUBUBj%2FI9yQ4OT5x8HeRw9qse1uLa&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=c14414e58c1083ea1a1ba648449cbfe0605b66c972ab2da4068ceb5efcbeba76"
+                        ]
+                    },
+                    {
+                        "title": "1x029. Capítulo 29",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=%2FoUHXlcx0vBwogh8Cl7GTgdZL238RLGcXpPE8%2B0MvD4uqApRJduIoS3CQNKlEP3v&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=2af90871e37cd0884e0f6687814129ab7ad32ea5d1fb30ab18f1f0bbc18bdb51"
+                        ]
+                    },
+                    {
+                        "title": "1x030. Capítulo 30",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=eXw%2FryqAqjko%2BsG%2Bock4Ya3bzAYVNg%2BNu%2Bd9egMe7lxddSK9HfeIdJyFxcGK5r6j&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=85cf26c495120d6d68564284c2d7e930e7eabc05790fb83eec5e4c3ef61fb780"
+                        ]
+                    },
+                    {
+                        "title": "1x031. Capítulo 31",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=02X3SnFmKK9LsfSNiJ3v5OYLW7ftpu9d%2BFemlI%2BEWuLk1Lyg6ZMEZU6ZdnwhGrQh&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=c8be8c944af9c22c2f6824d49fe034e3a480f7c22ac4f383cdee4dac46c05c14"
+                        ]
+                    },
+                    {
+                        "title": "1x032. Capítulo 32",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=oD2dL6ebLn6iVr5WvqqYkORlQDX%2BN4zoF91yDJZj1dt3nCFI4lPJW3jSmvFYkxgx&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=769f2dac606166ea25f291f8fd84e8acf52527f3500aed60c6ee9e024ce3e0df"
+                        ]
+                    },
+                    {
+                        "title": "1x033. Capítulo 33",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=IcQImLi5QJabkJ6sq2U%2FFqahc4cPGt5Rgq1oayfMR25QT9ysUlnABQbe8MsOUNgH&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=80c05aee4c279516146c396cd6bffbce0bb099a94624962b9ef1004c47f94525"
+                        ]
+                    },
+                    {
+                        "title": "1x034. Capítulo 34",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=djoKox5GLHW3fXyt4AESaAXaJcot6HK2O3UW9sy5FrXgISruZMW7fyJbNBnuW4ph&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=04e55505d4a67cdca2817c00a1781b674d9dee6c58c5bf2c5331c21a502000a5"
+                        ]
+                    },
+                    {
+                        "title": "1x035. Capítulo 35",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=54J0%2B9Q3MIJKrxcrWmHN3%2BAgx01LCxmB6BPCMHKfvS5txLbrIJQ%2FifwxHzENxi1m&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=62d37683344997a1b6579e8ac7d918ba2f780fa41fe8bb64053ad4f22e8f5429"
+                        ]
+                    },
+                    {
+                        "title": "1x036. Capítulo 36",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=qlJz%2BtCOGJa%2FhBbQp%2BqAxS2jtsPkTQBAnMapJ2XYoP73DiQHriI%2BBAQBctpFf7QY&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=9583d6be7032fea9f37cf12b87b0b0bd7d8c1ef6b2204895025b6782907251ec"
+                        ]
+                    },
+                    {
+                        "title": "1x037. Capítulo 37",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=7fqo0zB%2BmiG%2FU5N683h53Bo2OqvzHtNGrN%2FTiSA7QFd8R94a8nS%2BFcTUB4PVPIMT&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=8535a1c5a8ba4d5d9064b995584247631716c9f6c7abb31451eee656c498c8b7"
+                        ]
+                    },
+                    {
+                        "title": "1x038. Capítulo 38",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=XAyKXblkDgGSaYPaElch6QvZelaCi4YKu%2FS6QAOG2eRE9FeVAKEz9Mm665KraKG3&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=7eb38dee53ff40ed4606d3865ce9fb8f9228930ed4c40fb8c0afed19d93dcf3b"
+                        ]
+                    },
+                    {
+                        "title": "1x039. Capítulo 39",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=LMWBDqGRK4VGt6gtRHLJat2bQOAQNb%2FV84s0fOVNzDdbirM2PupFyUrn0frTIZZo&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=72d094be855ee3b731991aa6286e678482a47fb610b2fd731890295fffcfa269"
+                        ]
+                    },
+                    {
+                        "title": "1x040. Capítulo 40",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=mPvXIO51bhR6vfHDX8jbiBmH1gDXIURj4nmcTIBlqAGvUOamPXMNlw%2FyyguTW4lv&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=8013ef3398e58f83e1d2dcb0da7c9a769ab5c2a753db65412de3725551b525c0"
+                        ]
+                    },
+                    {
+                        "title": "1x041. Capítulo 41",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=le5QNI9XEmeNTHZvDzFuwfZSwcJ81ZqPM44CS41PgCvkulRdq2kstfbrvdYt74q1&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=3de740ff870802602bc538486aa936ebb5c815ce1a55a37ec641cf5c1092439e"
+                        ]
+                    },
+                    {
+                        "title": "1x042. Capítulo 42",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=2HMff3s%2FOvANSnL%2BsBfNVpYKX%2F9ZY%2FlT3t1hByKlqh1mpT1wd%2Bmn5JoN88aewluj&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=d9087a45295d571a35d272bbbb2f82709b812495b18411f266dcfefac155a37c"
+                        ]
+                    },
+                    {
+                        "title": "1x043. Capítulo 43",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=XU3gdgbH4mIekqKe6k4DC3pJAOI%2BKdibScziK7bqwekITvjQjxzMa6MSrGP3kB3d&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=dd157804abd4ec37fb1c2da04b051b2951475d721ef299671afc33efbd49bff1"
+                        ]
+                    },
+                    {
+                        "title": "1x044. Capítulo 44",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=fR%2B%2BJBnnfR7YXgXamw6RRUo0GPdeatouSGQVe%2BDT0YbfdXT4eyQfyreeF4G9y8XV&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=55de79de94da1ea1e723420f336fa2d184ee762194cac2c063aa81cc1481cda0"
+                        ]
+                    },
+                    {
+                        "title": "1x045. Capítulo 45",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=57%2FolkD%2Fpr94rBPuqdoJhJ3OzfmiUpoRkrmwUHpphlNlHWLl36KU1F5i4GPnTlkH&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=63006d5d39c35e900fb968828630682929c139fc2b8ffdd356fed832fd9ccc0a"
+                        ]
+                    },
+                    {
+                        "title": "1x046. Capítulo 46",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=aAXe%2FuTiQYRGyj3Ep4aGWFdQSC9bKLD2GUXguaO1%2FgfFk8bww5DO6jZaIYUKcJFR&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=72a5e2bc8ddd30b6f4dda70fee296f5301ddc3c9a06aabab0b87d73d4c933197"
+                        ]
+                    },
+                    {
+                        "title": "1x047. Capítulo 47",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=DoeJhaQkClA0ARhvXV4LtoA5XX3s2pePlsVmX6kBa3ea4ca98m6pXhoRBePm3mMu&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=7e75b0ab605386356e0e3dc33045d22526ec94c194251c9eb8cde620ba7bb084"
+                        ]
+                    },
+                    {
+                        "title": "1x048. Capítulo 48",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=hWeMpDDOcQnS5pMTrU2Z8yC7NLX%2F%2F29dlJXf8BTmtgK%2FL%2Br06fbMGMV7S0MS58dm&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=d5cd5497048142de156ded36cdf51f0b4d64b5d295e9e73b0442584a94b94799"
+                        ]
+                    },
+                    {
+                        "title": "1x049. Capítulo 49",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=%2BjaWTU4EHEOyROMNcCpkwUi%2Becpv1olW3tHC92WR%2Fnu6RsmZ09%2BjNg4O7H0ybWBY&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=d2708d284aa0ec3b258226ac48bad47e5fb4954b25ed5113d02e9eb759c13471"
+                        ]
+                    },
+                    {
+                        "title": "1x050. Capítulo 50",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=kKOtLk0QdBD%2BwnN8ww7zG4JAzaoEnXAxu4mCeaJl8NhlG3JMHtHBuvf58GNgO%2BZL&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=9a374b45d7ecf18e62c5c521fafd733621a7d1ca34e4b1c7a0f8d458371ec9a8"
+                        ]
+                    },
+                    {
+                        "title": "1x051. Capítulo 51",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=j0abBDxkDhvvp12vPp3pMVGbCDqUXjdV6x%2FryHo4orufqOGC8%2F6qltz%2Bp1WExhLl&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=9f7445e4cf52a52d5ba71bdf5daa5134704b0aa958928cc41b4d5d9fc2e0542d"
+                        ]
+                    },
+                    {
+                        "title": "1x052. Capítulo 52",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=DEA6yNjNAnf056x0kNxRI2HlHT9H1yNUuuak0Iy5gyl0GlrS%2FwY9EKZpdFwEqr0D&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=fef3aa2048c63dfc604fafc4859a20f0c80995feb2def3b1006843dc4f1cff4b"
+                        ]
+                    },
+                    {
+                        "title": "1x053. Capítulo 53",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=%2BbMoKfhopXa8Hs8nNaMBjP7iKnGF0mcvTWCDPlCgRTld6VZ2P9Si2zPrTp%2BnMsVF&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=3e67061ccb9e844a307c3ec600f7a255a1aa162d2e1ff46156033957cb1b8349"
+                        ]
+                    },
+                    {
+                        "title": "1x054. Capítulo 54",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=CFNckSOtvssKtyELYmp49vJI3GeRZFFGpfAKspzVfHBWflEbOJLT%2FTb%2BPxSzQW81&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=80c52009e11df8975de61a9209d4599ddaf26d9b43c3efbc0546ec8ff6fdfd7c"
+                        ]
+                    },
+                    {
+                        "title": "1x055. Capítulo 55",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=u7wOfkUTvynRY8nVjvKhizALflil2WrR6U0W0qkaT3qn51Nq9mF0tKi5dkHyZ5MZ&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=94b2bfb1636d2903eb4974a17d2401d1a041c9b1f038ab7b6988c33d79aba4d1"
+                        ]
+                    },
+                    {
+                        "title": "1x056. Capítulo 56",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=2oBrjP8rFVLhc4o2%2Bv0QhYd2Eme86c%2FxQSD8fpRWNYpFAx1Dol2%2BkVEhfAYdLRHi&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=279e281509ceb53d7e91462a9277e3db8435fea95e4b87e9d5e6e007d1e9e00a"
+                        ]
+                    },
+                    {
+                        "title": "1x057. Capítulo 57",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=tyjbXuRcxtsXjvRSpSMePaqgH1cjzxoiUDovPo%2F6uQosvFeuIPWWAeQXLquIwfpS&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=15fd67fc7f1003cfddadc12af12546d9fa788532690ac1366ecc2627a7c8f607"
+                        ]
+                    },
+                    {
+                        "title": "1x058. Capítulo 58",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=jEa9dM1lrlzwkQscM%2F3ZU3FAZn0p8a9CLYPm2%2F1HNUsJ75GO6mBFxdv0BFXaFWMT&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=32f92f8968e807a73589b2cce757225678b2adf6250008b340ad81138c367b91"
+                        ]
+                    },
+                    {
+                        "title": "1x059. Capítulo 59",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=dhZTg6Ysg2lddyscBpIIKaC3udp%2F%2FugWfbbl03%2Bc5%2BacIVaffJRJ3Jfv%2FdJYumjJ&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=e9944d45f14c614cf4e364ff0fe1d2b533e80893ac75b8182d37fb9c73430931"
+                        ]
+                    },
+                    {
+                        "title": "1x060. Capítulo 60",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Gk6bR5Y1cEd5%2BUeBZwZf663l4ZorzclfY0uJ47zxdfL%2Bz9%2B94Cgu2kV4PB1VSehC&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=50f42f0f073c6512741aa0fbca97bc004c4f930d2c46f4912889d02f23be585f"
+                        ]
+                    },
+                    {
+                        "title": "1x061. Capítulo 61",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=fUyj4TtFCkK4kry3k5Zx0k3swVi3qvR3X3JROwoSyiQZLrt5yfeb6unYQRHsADcS&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=a82bee0859a1f7a8aefc20bd81516cba8be7a93fdcc6c2c0ddbe1616461e39d4"
+                        ]
+                    },
+                    {
+                        "title": "1x062. Capítulo 62",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=LSyHbMmMbsUGe5t6iULEUEjghxkQASBLEe%2BnfZKSdmO23WcavYgiSBWD0Kg7qhhs&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=25f9531606b23282cb0bfae6967ee58f1c6cb899cbcd30ed4b3e11027a17d7dc"
+                        ]
+                    },
+                    {
+                        "title": "1x063. Capítulo 63",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=tg2EcG%2FTY%2Bx0z%2BsJKvNxeOmV47lXktgiIBB3XH5l%2FYTQCKJBN6Id0ipeq7KbZjKB&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=8164e0fff3b757eba26442dcee87969aa5eae4559d9c979be3753545fac7d5cf"
+                        ]
+                    },
+                    {
+                        "title": "1x064. Capítulo 64",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=FuV2dVqWimK0NvaQxx0x3cLYUjloNF9BvKFxDQ2e49ack98yJbzfLzT1gFrZIRTG&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=ab96ed2a8a119410fafce7ce4cca6b2aec204930ac27fe1700a498205946e1d9"
+                        ]
+                    },
+                    {
+                        "title": "1x065. Capítulo 65",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=syAlstBMdvWwwDMXBCHqWJrtIqV1d32p9O4jkPfKC%2BJCxlcbUahXk%2Fci5yr6KcEq&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=0896cea651fafdbfda93b6a52b7925e105b5ab5289ae9e8b7c8badf954dfe464"
+                        ]
+                    },
+                    {
+                        "title": "1x066. Capítulo 66",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=WY1mJ7K1F0BeAIarRajg59acgKCemnx0jrTAPiyfaBHjTNle5%2FF2cepIDdHb04eH&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=1c6dd07d7f8b9ef4cfcd2b9fb69feda70f2ec9d60e26205a5b5cac0fd15019df"
+                        ]
+                    },
+                    {
+                        "title": "1x067. Capítulo 67",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=uGjzfeyDg4n2NRjv1GS%2Ft0fBQpyW4V64XsgjUPbTJAgGfMRkt%2BtlEAquUN7fbEIv&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=a007865d3ef0d7fd277face4890f39290b97652142d84e9ee9be4cfdfbe53ccd"
+                        ]
+                    },
+                    {
+                        "title": "1x068. Capítulo 68",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=xMurlDVHXVgu9q5IthJI8N%2BfcsYAWLEzMwnu0Dk9hZ1gQQjA6dYPS4uZ3i3vXUQi&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=a94322301590d1e5f5f42a6d47e616e0a78c16e872e0727349266a89f8da1664"
+                        ]
+                    },
+                    {
+                        "title": "1x069. Capítulo 69",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=DUTrBr8Ob7fFzuVqrkReRFh0L%2B3wYIMSy2Jq1c1hHEGx40CF55fRVRQZB15lC3I0&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=d542e5cc7b3889704890dbc496f09197ab24ee7e3590ec62c4492b57e8668408"
+                        ]
+                    },
+                    {
+                        "title": "1x070. Capítulo 70",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=7vV5rStrKSGLtd%2B24J165UsmYU%2FeS4FNoD05xeZeMaBF8ywN3qZbuPH3yMaCmlvz&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=7eb7b2a2776644bbcc3504b511ba80dac7fc1be7d819b636d45a73277094c675"
+                        ]
+                    },
+                    {
+                        "title": "1x071. Capítulo 71",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=EvTKpfh5BUra9PpT%2FZj46P%2F1DhmE%2Fhpps6n2NbvkSCHXq5dJUYYY8w9DCGL%2FOiQj&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=2efbdd6d88c9a127591607de35bfc55d400668136463f1d41d8c780480ded209"
+                        ]
+                    },
+                    {
+                        "title": "1x072. Capítulo 72",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=6DqfI2E4yvUwOL%2BUdnGWQp2Xg%2Fnwp9cGf58tX9bPmcfSD47Ldzr%2Bxt2B9XJFRJhL&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=4d96fc032ad878d536bff92cf5278cbacff513853e79af8b9a9d5eb000dfe214"
+                        ]
+                    },
+                    {
+                        "title": "1x073. Capítulo 73",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=2jlHKVF4Z9zQrNiUh9ZLkl13DBTYZ5OlC3UM6I6t8gAU9dOMXLhcQOvhiu0LqiLc&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=1f7c23b39f67117994cb645e10efc44b6f47e96d9f0a748d47d51ade40d30273"
+                        ]
+                    },
+                    {
+                        "title": "1x074. Capítulo 74",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=DERkQaVURRTADCZVyh1CbdZJ4ZU%2F0ENGSO8BwGiJyu8qoXE4sQEDgpuPiBXhCYTf&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=99e2ab01ce52693ee914b62f2cc91f37a4cdca57eb35302607cc71b86bc3bbb2"
+                        ]
+                    },
+                    {
+                        "title": "1x075. Capítulo 75",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=fZL6gbS3wAWEy%2BPEtHm11ppBRMCrDoKohcEePqZaFLwJWE%2BRdFqWD4Mp4BLjiWQ4&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=0fd9724e391e74b2fbe54d6400cfb14dc0758673961339d541e9508c9f74769d"
+                        ]
+                    },
+                    {
+                        "title": "1x076. Capítulo 76",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=XQ2IqlbwpSfSPQ3reLcgSZyJJW3r5vI8n%2FR99%2BdaONcIHQs5Ga9%2FJocUo73yNjbs&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=dc0ee50751352dc20a151765c6a980c3d55b009ad202a4e299e8b2ee1eef86a5"
+                        ]
+                    },
+                    {
+                        "title": "1x077. Capítulo 77",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=y3hMSjETyXBH8pmDVvm21uvqtnWd6mv8vlO9DqGN8OwMQM8%2F1CR8kdPXprg1ckPV&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=04caf55b73810adfe42a619112fd23cd7712cddc0df04a6b848df41b16896e74"
+                        ]
+                    },
+                    {
+                        "title": "1x078. Capítulo 78",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=OMlcq7B%2FqDDW8cW8njN40AvQx2RgqEUKRuJ3zcbKRfaDe3%2FON4ecZ%2F3Sabmi4Hcj&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=ee2bacd91c12be0ff4f28132f90e5aecf8c220f461adf94a962d9cd7738a5740"
+                        ]
+                    },
+                    {
+                        "title": "1x079. Capítulo 79",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=fPG5ylCSBXsqw0WlvSv4M8JQJF9hUdSIjnqy%2F313TtoChrUs26al%2FVC5%2Fhh449%2B6&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=1e5f9f4f07ad6738039e44bdbafc3193ca46a4e4cd6b431206aae943a9e18a11"
+                        ]
+                    },
+                    {
+                        "title": "1x080. Capítulo 80",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=crLHTmrJt1zwr9tUVERtXGqeuKcuUnzArQ8n%2FuOyYH3kL1kmWZKiMliPWIdcQhx%2F&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=8c73e5da39dbcc5768544d75d609d94c8f57704d5e67754331b2cc22da36cc01"
+                        ]
+                    },
+                    {
+                        "title": "1x081. Capítulo 81",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=CYHXylFqz7wPqKNfMIMM37XDNWgjtpABuhHDQUPXduxJkVmOROnoIXVAuozhLXDr&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=78cddf99ea9673482d568243c9d9160e89e95792277141888c7b37ea84d7f909"
+                        ]
+                    },
+                    {
+                        "title": "1x082. Capítulo 82",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=dtvgebBr1AxL0TayTQh8Or9%2BcdPXv5kVlwRmUkh3oLYL%2BduGXOCCsPYN%2B4wzCDRI&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=efd90132e8aa7d76d1b6b2d63bb4e06aaccbd666feeb92c415783e43129e7764"
+                        ]
+                    },
+                    {
+                        "title": "1x083. Capítulo 83",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=tiifKB2NFV0rOdEP3%2FygxkOIsseClTEMF%2FltuBXSIuiqJFWWLnb22%2BGtamgJr96x&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=efabee349c7b31393feb2dc5492728e8d48effd67e8f398fa9fc545daeaaed44"
+                        ]
+                    },
+                    {
+                        "title": "1x084. Capítulo 84",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=%2BNd20mbpUh5ygYgMUb3EK3jbnICO8B%2BzBambUR1fMjEDvPR%2BDAd0W%2Byh2pJtmJaQ&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=8106952f393c1c9727eae8d8edc9b73189cce6e53156b8eab7003d8eec5ae42c"
+                        ]
+                    },
+                    {
+                        "title": "1x085. Capítulo 85",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=AuPSn2Sgg11oRL2tfQ9j9LhUc602dmReyXAAT1VkIWJPzj51cu11P%2F7lM9cIiNJQ&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=80677c47155f4b466da59188d4c77eb162ac32c4957f920bbec7d36eb07128a7"
+                        ]
+                    },
+                    {
+                        "title": "1x086. Capítulo 86",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=1qWOlS9Cy%2FHzMFOENqPUrmgBTTYP6Ozrdq7qlRsIeySe0YwNqdyGZoxwTdG8j%2B7g&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=5e70a0518afb5050a2cd586a0722b3479f43bb0f66645ba80bcbff45a4f74051"
+                        ]
+                    },
+                    {
+                        "title": "1x087. Capítulo 87",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Yixtcrb%2FiorAk3ax%2FJaS3KaVuFa%2BsggZ1vJduUOJISNShA7yUJU2oH55a4b77DYC&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=c444c50cdbc73875bfd87b0ed60c74dc07f5a857b8dc5a7b7c924853d6893e2d"
+                        ]
+                    },
+                    {
+                        "title": "1x088. Capítulo 88",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=YxJemo3stFk2vG5ZmYIipLjL8s%2BNHYvg68pSTDwEBFRYz1Vdk9n6kiBWS1kmDs%2BI&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=5b654be596df7785a8976fede61ab94ab271e2fb2fe07f3d3c922a8250878bb7"
+                        ]
+                    },
+                    {
+                        "title": "1x089. Capítulo 89",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=%2ByTaNa8DJYuaEx6KfCs7Nbl4%2FQuF%2BHpyafcuV%2F%2BbAxXmOCqnAtpZKk0HrSXpCdjr&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=009b835e997b0d964970bf1ef28ead08b37a37a2be65b8aa535eb6165f6e7924"
+                        ]
+                    },
+                    {
+                        "title": "1x090. Capítulo 90",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=6jleKr1rL6YtIBbsb%2B%2BHFY%2BxnC3FZv5DEG%2FCkCXKTx4bxhQnBRWpMEfbJ6qOxSLa&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=c91aa281bffdbbf80917059eb6886e35659d8981efedec0799278ff5b93ce2fd"
+                        ]
+                    },
+                    {
+                        "title": "1x091. Capítulo 91",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=ETK4DRuKT%2B9At9pvh9x9LQjfaP%2FMl3GrvmRi0VTYxDJbunJHSY2dLZ9Hsh%2FcGz0U&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=17b1fd0addd1dc6e3a94d359eb447e096f9fc954e27d3d511edcd1332d094327"
+                        ]
+                    },
+                    {
+                        "title": "1x092. Capítulo 92",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=B8xue3ToUUWw9QhpuhyXUUxScXTSed7IaI1dNNv%2BAosRMh%2FdzZk4JSZj%2FdtQIa97&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=25c15f896d7ec9f539a786dfbe8c8086bd0b43dc705f49e2697625396a1872b1"
+                        ]
+                    },
+                    {
+                        "title": "1x093. Capítulo 93",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=g%2B0SapKkBvFnkWCEXCg0K7eqnb7%2F%2BH3AIXqfUA%2FYbWHtdb6UBY0WB1MRKbLW5PYN&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=b85585165329a615914aec0f23271f5fcc378be2d8100fa8a5ecb0b8e8cefe73"
+                        ]
+                    },
+                    {
+                        "title": "1x094. Capítulo 94",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=2N80oH3E5yOtAuLcBuBVBrpaQhpdhu8OMJ8G5xN17QwAfBz3ospadGogKDvQhQV0&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=1f0ec30a0113cc9d0f39071c1086c36a08d86329eb1f603310ef6593df972bbe"
+                        ]
+                    },
+                    {
+                        "title": "1x095. Capítulo 95",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=6oxxyhl%2Bo6JLj2zO5CMsNmqveaefCM%2FMunSNBgLnRe8v%2F4%2BhWIuU6fiyZ8YzTAYG&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=4ddd83515c4ec8efbd3960dd383f148f56ad8799b8305c300f230d916c11042a"
+                        ]
+                    },
+                    {
+                        "title": "1x096. Capítulo 96",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=s86tX0NTZn4yki%2F%2FKQvqMXQ6A8DV%2BjrnlE5tB%2FxFxdgwkxe8T%2BV1LwcObGrgNoSl&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=0ff4f2e0c485e024b09eb7926548cc8edb3cf76b95bc6027ce4ff7b52058485d"
+                        ]
+                    },
+                    {
+                        "title": "1x097. Capítulo 97",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=am1E52MKfMqASLZhDYvew%2F5k5X3EfYT17JPJzQimaCe%2Fe%2BNapJiFHGhS3%2FgF8RME&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=450e3794b9feb45cbbb0b277bbabbf7a75d94dfd15b00cd7e745983444735fe9"
+                        ]
+                    },
+                    {
+                        "title": "1x098. Capítulo 98",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=%2B9Nl48FnS1ZWDSxV4mI4MBwTIpppggl3Kfz%2Fm59zs6uaSa%2BIQ0c1zzDPPpeal4l1&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=3f1f1f60b80eba7e39168214b967754ee7e092f74b06914c045afdfe97e6513a"
+                        ]
+                    },
+                    {
+                        "title": "1x099. Capítulo 99",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=r45FXHgDk19ZcPGZeQ0YJCkgt8N%2FlkEt0ZzAPqsMelfKvXQA40JWNPQhLRunvkAN&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=ab4c2360606b877aefdc81e4dc2a4455deb9aecef79ce99bf379c795db0f1a3b"
+                        ]
+                    },
+                    {
+                        "title": "1x0100. Capítulo 100",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=hR8KlGYNHhoy7%2FfCve1kknTyM5cMrUYRVItEQzResAxAagDqwkbvAYy5tZ7%2Bw8bX&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=2afca26821c5722fcdd542bdf43ab1df8a766b9991ea66be201c5d6b8aff50f6"
+                        ]
+                    },
+                    {
+                        "title": "1x0101. Capítulo 101",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=tF5ltvIlhZpy8meKcFDrBhfUhDtDNATK4B2Nr17BKlNeKRBSSTsYrWJ%2Fwl7WgATA&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=125ae602e73286a4bfb85d3dc45e91adf43964c846af03077020b1d0010e4ed0"
+                        ]
+                    },
+                    {
+                        "title": "1x0102. Capítulo 102",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=drTlbiQI6s6NYY%2BNfrC%2FWDu%2FhnUji2ymx3PFEu7XuwO4LmsT%2B08qLAbUFvgxdjBU&expiry=w6WoZCmXcaGohOXHjgHVLA%3D%3D&mac=8487471a09e629ffcc88b58b6e1966a53365ed5c7c0be10da919b1ebd1ae2d5a"
+                        ]
+                    },
+                    {
+                        "title": "1x0103. Episódio 103",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                        ]
+                    },
+                    {
+                        "title": "1x0104. Capítulo 104",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                        ]
+                    },
+                    {
+                        "title": "1x0105. Capítulo 105",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                        ]
+                    },
+                    {
+                        "title": "1x0106. Capítulo 106",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                        ]
+                    },
+                    {
+                        "title": "1x0107. Capítulo 107",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                        ]
+                    },
+                    {
+                        "title": "1x0108. Capítulo 108",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                        ]
+                    },
+                    {
+                        "title": "1x0109. Capítulo 109",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                        ]
+                    },
+                    {
+                        "title": "1x0110. Capítulo 110",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                        ]
+                    },
+                    {
+                        "title": "1x0111. Capítulo 111",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                        ]
+                    },
+                    {
+                        "title": "1x0112. Capítulo 112",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                        ]
+                    },
+                    {
+                        "title": "1x0113. Capítulo 113",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                        ]
+                    },
+                    {
+                        "title": "1x0114. Capítulo 114",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                        ]
+                    },
+                    {
+                        "title": "1x0115. Capítulo 115",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                        ]
+                    },
+                    {
+                        "title": "1x0116. Capítulo 116",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                        ]
+                    },
+                    {
+                        "title": "1x0117. Capítulo 117",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                        ]
+                    },
+                    {
+                        "title": "1x0118. Capítulo 118",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                        ]
+                    },
+                    {
+                        "title": "1x0119. Capítulo 119",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                        ]
+                    },
+                    {
+                        "title": "1x0120. Capítulo 120 - Final",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "tmdb_id": 47,
         "popularity": 3.53,
         "title": "Chaves",
@@ -25010,7 +25760,7 @@
         "poster": "https://image.tmdb.org/t/p/original/9lb02gTh4LLB17yAEXFd4C3R4JP.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/rAOjnEFTuNysY7bot8zonhImGMh.jpg",
         "studio": [
-            "Disney+"
+            "AMC"
         ],
         "genres": [
             "Ação"
