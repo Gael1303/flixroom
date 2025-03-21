@@ -89,11 +89,11 @@
                 "action": "list_actors"
             },
             {
-                "categories": "Tudo",
+                "categories": "Todos od Filmes",
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Todos os Filmes em um só lugar",
-                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/movies/popular.json",
+                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/movies/tudo.json",
                 "sort_method": "label"
             }
         ]
@@ -155,7 +155,7 @@
                 "action": "list_novela_series"
             },
             {
-                "categories": "Tudo",
+                "categories": "Todas as Séries",
                 "poster": "https://archive.org/download/1700740365675/1700740365651.png",
                 "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
                 "description": "Todas as Séries em um só lugar",
