@@ -1,5 +1,7 @@
 [
-    {"status": "on"},
+    {
+        "status": "on"
+    },
     {
         "menu_title": "[COLOR gold]Buscar[/COLOR]",
         "poster": "https://archive.org/download/1700740365535/1700740365535.png",
@@ -7,7 +9,6 @@
         "icon": "https://exemplo.com/icone_favoritos.png",
         "action": "search_videos",
         "status": "on"
-        
     },
     {
         "menu_title": "Filmes",
@@ -132,12 +133,19 @@
                 "description": "Séries organizadas por plataforma de streaming",
                 "action": "list_series_studios"
             },
-             {
+            {
                 "categories": "Animes",
                 "poster": "https://archive.org/download/1700740365675/1700740365651.png",
                 "backdrop": "https://exemplo.com/backdrop_series_plataformas.jpg",
                 "description": "Aba especifica para animes",
                 "action": "list_anime_series"
+            },
+            {
+                "categories": "Novelas",
+                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
+                "backdrop": "https://exemplo.com/backdrop_series_plataformas.jpg",
+                "description": "Aba especifica para novelas",
+                "action": "list_novela_series"
             },
             {
                 "categories": "Tudo",
@@ -149,7 +157,7 @@
             }
         ]
     },
-	{
+    {
         "menu_title": "Minha Lista",
         "poster": "https://archive.org/download/1700740365675/1700740365686.png",
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
@@ -160,12 +168,5 @@
         "poster": "https://archive.org/download/1700740365525/1700740365532.png",
         "fanart": "https://exemplo.com/fanart_sobre.jpg",
         "action": "show_about"
-    },
-	
-    {
-        "menu_title": "[COLOR darkred]Limpar Cache[/COLOR]",
-        "poster": "https://archive.org/download/1700740365525/1700740365525.png",
-        "fanart": "https://exemplo.com/fanart_favoritos.jpg",
-        "action": "clear_cache"
     }
 ]
