@@ -140,6 +140,13 @@
                 "description": "Séries com as melhores avaliações",
                 "action": "list_series_by_rating"
             },
+	    {
+                "categories": "Infantil",
+                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
+                "backdrop": "https://exemplo.com/backdrop_series_generos.jpg",
+                "description": "Séries com classificação L ou Kids",
+                "action": "list_kids_series"
+            },	
             {
                 "categories": "Por Gênero",
                 "poster": "https://archive.org/download/1700740365675/1700740365651.png",
