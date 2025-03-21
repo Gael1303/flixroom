@@ -1,5 +1,8 @@
 [
     {
+        "status": "off"
+    },
+    {
         "tmdb_id": 1013850,
         "title": "A Verdadeira Dor",
         "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67ae77f978c878cd1c8d4e6dae6b81f8059ba081",
