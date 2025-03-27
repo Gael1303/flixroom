@@ -24,13 +24,13 @@
                 "action": "list_movies_by_specific_year",
                 "year": 2025
             },
-	    {
+            {
                 "categories": "Adicionados Recentemente",
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_atores.jpg",
                 "description": "Filmes recem-adicionados ao catalogo, sejam eles novos ou antigos",
                 "action": "list_recently_added"
-            },	
+            },
             {
                 "categories": "Mais Populares",
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
@@ -45,7 +45,7 @@
                 "description": "Filmes com as melhores avaliações",
                 "action": "list_movies_by_rating"
             },
-	    {
+            {
                 "categories": "Nos Cinemas",
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_atores.jpg",
@@ -59,7 +59,7 @@
                 "description": "Filmes com qualidade 4K para uma experiência imersiva",
                 "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/movies/4k.json"
             },
-	    {
+            {
                 "categories": "Trilogias e Coleções",
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_colecoes.jpg",
@@ -119,13 +119,13 @@
                 "action": "list_series_by_specific_year",
                 "year": 2025
             },
-	    {
+            {
                 "categories": "Adicionados Recentemente",
                 "poster": "https://archive.org/download/1700740365675/1700740365651.png",
                 "backdrop": "https://exemplo.com/backdrop_atores.jpg",
                 "description": "Séries recem-adicionados ao catalogo, sejam eles novos ou antigos",
                 "action": "list_recently_added_series"
-            },		
+            },
             {
                 "categories": "Mais Populares",
                 "poster": "https://archive.org/download/1700740365675/1700740365651.png",
@@ -140,13 +140,13 @@
                 "description": "Séries com as melhores avaliações",
                 "action": "list_series_by_rating"
             },
-	    {
+            {
                 "categories": "Infantil",
                 "poster": "https://archive.org/download/1700740365675/1700740365651.png",
                 "backdrop": "https://exemplo.com/backdrop_series_generos.jpg",
                 "description": "Séries com classificação L ou Kids",
                 "action": "list_kids_series"
-            },	
+            },
             {
                 "categories": "Por Gênero",
                 "poster": "https://archive.org/download/1700740365675/1700740365651.png",
@@ -192,9 +192,27 @@
         "action": "list_favorites"
     },
     {
-        "menu_title": "[COLOR blue]Informações[/COLOR]",
-        "poster": "https://archive.org/download/1700740365525/1700740365532.png",
-        "fanart": "https://exemplo.com/fanart_sobre.jpg",
-        "action": "show_about"
+        "menu_title": "[COLOR red]Configurações[/COLOR]",
+        "poster": "https://archive.org/download/1700740365556/1700740365556.png",
+        "fanart": "https://exemplo.com/fanart_filmes.jpg",
+        "subcategorias": [
+            {
+                "menu_title": "[COLOR blue]Informações[/COLOR]",
+                "poster": "https://archive.org/download/1700740365525/1700740365532.png",
+                "action": "show_about"
+            },
+            {
+                "categories": "Limpar Cache",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
+                "description": "Limpe o cache",
+                "action": "clear_cache"
+            },
+            {
+                "categories": "Doação",
+                "poster": "https://archive.org/download/1700740365525/1700740365525.png",
+                "description": "Colabore com o addon",
+                "action": "show_donation"
+            }
+        ]
     }
 ]
