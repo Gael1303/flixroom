@@ -192,13 +192,14 @@
         "action": "list_favorites"
     },
     {
-        "menu_title": "[COLOR red]Configurações[/COLOR]",
+        "menu_title": "[COLOR yellow]Configurações[/COLOR]",
         "poster": "https://archive.org/download/1700740365556/1700740365556.png",
         "fanart": "https://exemplo.com/fanart_filmes.jpg",
         "subcategorias": [
             {
-                "menu_title": "[COLOR blue]Informações[/COLOR]",
+                "categories": "Informações",
                 "poster": "https://archive.org/download/1700740365525/1700740365532.png",
+                "description": "changelog",
                 "action": "show_about"
             },
             {
