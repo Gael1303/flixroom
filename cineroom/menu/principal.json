@@ -192,8 +192,8 @@
         "action": "list_favorites"
     },
     {
-        "menu_title": "[COLOR yellow]Configurações[/COLOR]",
-        "poster": "https://archive.org/download/1700740365556/1700740365556.png",
+        "menu_title": "[COLOR red]Configurações[/COLOR]",
+        "poster": "https://archive.org/download/1700740365525/1700740365525.png",
         "fanart": "https://exemplo.com/fanart_filmes.jpg",
         "subcategorias": [
             {
@@ -204,13 +204,13 @@
             },
             {
                 "categories": "Limpar Cache",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
+                "poster": "https://archive.org/download/1700740365525/1700740365525.png",
                 "description": "Limpe o cache",
                 "action": "clear_cache"
             },
             {
                 "categories": "Doação",
-                "poster": "https://archive.org/download/1700740365525/1700740365525.png",
+                "poster": "https://getdrawings.com/free-icon-bw/donate-icon-8.png",
                 "description": "Colabore com o addon",
                 "action": "show_donation"
             }
