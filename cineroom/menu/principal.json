@@ -8,11 +8,13 @@
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
         "icon": "https://exemplo.com/icone_favoritos.png",
         "action": "search_videos",
+        "status": "on"
     },
     {
         "menu_title": "Filmes",
         "poster": "https://archive.org/download/1700740365556/1700740365556.png",
         "fanart": "https://exemplo.com/fanart_filmes.jpg",
+        "status": "on",
         "subcategorias": [
             {
                 "categories": "2025",
@@ -107,6 +109,7 @@
         "menu_title": "Séries",
         "poster": "https://archive.org/download/1700740365556/1700740365556.png",
         "fanart": "https://exemplo.com/fanart_series.jpg",
+        "status": "on",
         "subcategorias": [
             {
                 "categories": "2025",
