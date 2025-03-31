@@ -178,12 +178,12 @@
         "tmdb_id": 1416,
         "popularity": 273.497,
         "title": "Grey's Anatomy",
-        "rating": 8.2,
+        "rate": 8.2,
         "classification": "14",
         "year": 2005,
-        "premiered": "27/03/2005",
+        "aired": "27/03/2005",
         "date_added": "2025-03-31",
-        "synopsis": "Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte. É um no outro que eles encontram apoio, conforto, amizade e, às vezes, até mais que amizade... Juntos, eles descobrem o quanto a vida profissional e a pessoal podem ser complicadas e se misturarem no meio do caminho.",
+        "sinopse": "Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte. É um no outro que eles encontram apoio, conforto, amizade e, às vezes, até mais que amizade... Juntos, eles descobrem o quanto a vida profissional e a pessoal podem ser complicadas e se misturarem no meio do caminho.",
         "poster": "https://image.tmdb.org/t/p/original/Als9Xo4MoZxJeMenHtNLOoBzqwT.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/fgvM6m7gAd8kDAaLF16aflbOSAK.jpg",
         "studio": [
@@ -193,12 +193,11 @@
         "genres": [
             "Drama"
         ],
-		"type": "tvshow",
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 7.4,
-                "synopsis": "Meredith Grey faz o primeiro ano de cirurgia do Seattle Grace Hospital. Orientada por uma experiente equipe de médicos dedicados, Grey e seus colegas sofrem com cada decisão entre vida e morte, o stress da profissão e o turbilhão que é a vida.",
+                "rate": 7.4,
+                "sinopse": "Meredith Grey faz o primeiro ano de cirurgia do Seattle Grace Hospital. Orientada por uma experiente equipe de médicos dedicados, Grey e seus colegas sofrem com cada decisão entre vida e morte, o stress da profissão e o turbilhão que é a vida.",
                 "poster": "https://image.tmdb.org/t/p/original/2fe6fJU5cQCmgK4aHXb9NfphCYX.jpg",
                 "episodios": [
                     {
@@ -212,8 +211,8 @@
             },
             {
                 "title": "2ª Temporada",
-                "rating": 8.1,
-                "synopsis": "Meredith está envolvida em um triângulo amoroso com o Dr. \"McDreamy\" e sua esposa. Enquanto isso, Cristina testa o terreno com o Dr. Burke. Alex, George e Izzie também cruzam alguns limites.",
+                "rate": 8.1,
+                "sinopse": "Meredith está envolvida em um triângulo amoroso com o Dr. \"McDreamy\" e sua esposa. Enquanto isso, Cristina testa o terreno com o Dr. Burke. Alex, George e Izzie também cruzam alguns limites.",
                 "poster": "https://image.tmdb.org/t/p/original/zAX2eRPNTdor2iAl2MXXi7ROleY.jpg",
                 "episodios": [
                     {
@@ -227,8 +226,8 @@
             },
             {
                 "title": "3ª Temporada",
-                "rating": 7.9,
-                "synopsis": "Os internos do Seattle Grace Hospital, Meredith, Cristina, Izzie, George e Alex, estão de volta para a terceira temporada de perigosas armadilhas como médicos novatos e tratando os traumas da vida de seus pacientes, enquanto enfrentam seus próprios dramas.",
+                "rate": 7.9,
+                "sinopse": "Os internos do Seattle Grace Hospital, Meredith, Cristina, Izzie, George e Alex, estão de volta para a terceira temporada de perigosas armadilhas como médicos novatos e tratando os traumas da vida de seus pacientes, enquanto enfrentam seus próprios dramas.",
                 "poster": "https://image.tmdb.org/t/p/original/xboZ0skreyJzBQgx0I1T0XIY04u.jpg",
                 "episodios": [
                     {
@@ -242,8 +241,8 @@
             },
             {
                 "title": "4ª Temporada",
-                "rating": 7.5,
-                "synopsis": "Conforme ganham mais experiência, Meredith, Cristina, Izzie, George e Alex continuam a lidar com os problemas de vida e morte no trabalho. Enquanto isso, vivem seus complicados relacionamentos e dramas pessoais.",
+                "rate": 7.5,
+                "sinopse": "Conforme ganham mais experiência, Meredith, Cristina, Izzie, George e Alex continuam a lidar com os problemas de vida e morte no trabalho. Enquanto isso, vivem seus complicados relacionamentos e dramas pessoais.",
                 "poster": "https://image.tmdb.org/t/p/original/beTp9l6N6fZ7pcCGjX3VZymBn7H.jpg",
                 "episodios": [
                     {
@@ -257,8 +256,8 @@
             },
             {
                 "title": "5ª Temporada",
-                "rating": 7.9,
-                "synopsis": "Meredith, Cristina, Izzie, George e Alex passam por várias crises tanto dentro quanto fora do hospital Seattle Grace. Além dos desafios profissionais, os jovens médicos também enfrentam vidas pessoais complicadas.",
+                "rate": 7.9,
+                "sinopse": "Meredith, Cristina, Izzie, George e Alex passam por várias crises tanto dentro quanto fora do hospital Seattle Grace. Além dos desafios profissionais, os jovens médicos também enfrentam vidas pessoais complicadas.",
                 "poster": "https://image.tmdb.org/t/p/original/uUxLJFvLippWgvK2oEiYOpfh5Ip.jpg",
                 "episodios": [
                     {
@@ -272,8 +271,8 @@
             },
             {
                 "title": "6ª Temporada",
-                "rating": 7.6,
-                "synopsis": "Com os destinos de Izzie Stevens e George O'Malley pendentes no fim da quinta temporada da série, a nova temporada traz mais drama para as vidas dos jovens médicos do Hospital Seattle Grace.",
+                "rate": 7.6,
+                "sinopse": "Com os destinos de Izzie Stevens e George O'Malley pendentes no fim da quinta temporada da série, a nova temporada traz mais drama para as vidas dos jovens médicos do Hospital Seattle Grace.",
                 "poster": "https://image.tmdb.org/t/p/original/krK4AAZlOprC1umV5Z7h0aJ2hTl.jpg",
                 "episodios": [
                     {
@@ -287,8 +286,8 @@
             },
             {
                 "title": "7ª Temporada",
-                "rating": 7.3,
-                "synopsis": "Os médicos do Hospital Seattle Grace continuam festejando o casamento de Cristina e Owen. Enquanto isso, Derek se demite da chefia de cirurgia.",
+                "rate": 7.3,
+                "sinopse": "Os médicos do Hospital Seattle Grace continuam festejando o casamento de Cristina e Owen. Enquanto isso, Derek se demite da chefia de cirurgia.",
                 "poster": "https://image.tmdb.org/t/p/original/upHA2SUtU1rBoxFqiKhkE5E2ky4.jpg",
                 "episodios": [
                     {
@@ -302,8 +301,8 @@
             },
             {
                 "title": "8ª Temporada",
-                "rating": 7.5,
-                "synopsis": "Após as revelações de que a Dra. Grey manipulou os resultados de um experimento clínico, ela e seus colegas esperam para ver qual será o impacto.",
+                "rate": 7.5,
+                "sinopse": "Após as revelações de que a Dra. Grey manipulou os resultados de um experimento clínico, ela e seus colegas esperam para ver qual será o impacto.",
                 "poster": "https://image.tmdb.org/t/p/original/gWzUkqAEBt0YZgIUttvTQx3XN6z.jpg",
                 "episodios": [
                     {
@@ -317,8 +316,8 @@
             },
             {
                 "title": "9ª Temporada",
-                "rating": 7.4,
-                "synopsis": "Neste drama hospitalar, desastres aéreos, mortes e desilusões amorosas não impedem que os médicos Derek Shepherd, Meredith Grey e toda sua equipe continuem trabalhando.",
+                "rate": 7.4,
+                "sinopse": "Neste drama hospitalar, desastres aéreos, mortes e desilusões amorosas não impedem que os médicos Derek Shepherd, Meredith Grey e toda sua equipe continuem trabalhando.",
                 "poster": "https://image.tmdb.org/t/p/original/qqAmpF12GMpQ1SonnRCNwzNTjKM.jpg",
                 "episodios": [
                     {
@@ -332,8 +331,8 @@
             },
             {
                 "title": "10ª Temporada",
-                "rating": 7.4,
-                "synopsis": "O drama retorna em sua décima temporada retratando as consequências da poderosa tempestade que mudou a vida dos funcionários do hospital.",
+                "rate": 7.4,
+                "sinopse": "O drama retorna em sua décima temporada retratando as consequências da poderosa tempestade que mudou a vida dos funcionários do hospital.",
                 "poster": "https://image.tmdb.org/t/p/original/j1sIMAmOpaRd1VHZNp0S2HpZSmk.jpg",
                 "episodios": [
                     {
@@ -347,8 +346,8 @@
             },
             {
                 "title": "11ª Temporada",
-                "rating": 7.6,
-                "synopsis": "Amelia planeja uma arriscada cirurgia para salvar a Dra. Herman. Meredith e Derek lidam com problemas no casamento.",
+                "rate": 7.6,
+                "sinopse": "Amelia planeja uma arriscada cirurgia para salvar a Dra. Herman. Meredith e Derek lidam com problemas no casamento.",
                 "poster": "https://image.tmdb.org/t/p/original/fcssqkirYGHJnMUEIBEvEhQ2E06.jpg",
                 "episodios": [
                     {
@@ -362,8 +361,8 @@
             },
             {
                 "title": "12ª Temporada",
-                "rating": 7.6,
-                "synopsis": "Enquanto Meredith se adapta à nova realidade, Bailey tenta retomar o equilíbrio. Nascem romances e rivalidades, e um novo cirurgião chega ao hospital.",
+                "rate": 7.6,
+                "sinopse": "Enquanto Meredith se adapta à nova realidade, Bailey tenta retomar o equilíbrio. Nascem romances e rivalidades, e um novo cirurgião chega ao hospital.",
                 "poster": "https://image.tmdb.org/t/p/original/wGWVPFlP7UWXaB6gMfn5jZ6iDjm.jpg",
                 "episodios": [
                     {
@@ -377,8 +376,8 @@
             },
             {
                 "title": "13ª Temporada",
-                "rating": 7.2,
-                "synopsis": "Meredith esconde um relacionamento de Maggie, Owen recebe notícias alarmantes e um incêndio ameaça o hospital.",
+                "rate": 7.2,
+                "sinopse": "Meredith esconde um relacionamento de Maggie, Owen recebe notícias alarmantes e um incêndio ameaça o hospital.",
                 "poster": "https://image.tmdb.org/t/p/original/6SjtUUJMPzqpomA6YgZNQRLONzI.jpg",
                 "episodios": [
                     {
@@ -392,8 +391,8 @@
             },
             {
                 "title": "14ª Temporada",
-                "rating": 7.7,
-                "synopsis": "O retorno dos médicos ao hospital reformado complica o relacionamento de Meredith e Nathan.",
+                "rate": 7.7,
+                "sinopse": "O retorno dos médicos ao hospital reformado complica o relacionamento de Meredith e Nathan.",
                 "poster": "https://image.tmdb.org/t/p/original/l3LSXgON6NSUtaiDweGtft7BdHI.jpg",
                 "episodios": [
                     {
@@ -1323,11 +1322,11 @@
         "tmdb_id": 897,
         "popularity": 171.3284,
         "title": "As Terríveis Aventuras de Billy e Mandy",
-        "rating": 8.0,
+        "rate": 8.0,
         "classification": "Kids",
         "year": 2001,
-        "premiered": "24/08/2001",
-        "synopsis": "A história do desenho se inicia quando Puro Osso, o Ceifador Sinistro, entra na casa de Billy, para ceifar a alma de seu hamster, mas Mandy não deixa que isso aconteça, e desafia Puro Osso a um jogo de limbo. Se Billy e Mandy ganhasse, eles ficariam com o hamster e Puro Osso se tornaria amigo deles para sempre, e, se Puro Osso ganhasse ficaria com a alma do hamster. Billy e Mandy vencem o desafio no Reino do Limbo contra o representante da morte, Puro Osso. Então, o desenho trata de acontecimentos estranhos e sinistros, como que diários, da relação de Puro Osso (criatura mágica e imortal) e Billy e Mandy (crianças normais).",
+        "aired": "24/08/2001",
+        "sinopse": "A história do desenho se inicia quando Puro Osso, o Ceifador Sinistro, entra na casa de Billy, para ceifar a alma de seu hamster, mas Mandy não deixa que isso aconteça, e desafia Puro Osso a um jogo de limbo. Se Billy e Mandy ganhasse, eles ficariam com o hamster e Puro Osso se tornaria amigo deles para sempre, e, se Puro Osso ganhasse ficaria com a alma do hamster. Billy e Mandy vencem o desafio no Reino do Limbo contra o representante da morte, Puro Osso. Então, o desenho trata de acontecimentos estranhos e sinistros, como que diários, da relação de Puro Osso (criatura mágica e imortal) e Billy e Mandy (crianças normais).",
         "poster": "https://image.tmdb.org/t/p/original/cGRMEzgnBQUlhgzE89BNpMIJCkJ.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/1eRvnxCQLrMjCieyO8VBsPJ28Jv.jpg",
         "studio": [
@@ -1341,8 +1340,8 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 7.0,
-                "synopsis": "",
+                "rate": 7.0,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/1q0uEruI5Whr6idwWRdtOZoxrHd.jpg",
                 "episodios": [
                     {
@@ -2599,12 +2598,12 @@
         "tmdb_id": 32798,
         "popularity": 145.0197,
         "title": "Havaí Cinco-0",
-        "rating": 7.755,
+        "rate": 7.755,
         "classification": "14",
         "year": 2010,
-        "premiered": "20/09/2010",
+        "aired": "20/09/2010",
         "date_added": "2025-03-31",
-        "synopsis": "A equipe especial de policiais, liderada pelo comandante Steve McGarret, recebeu carta branca da governadora do Havaí para fazer o que for preciso para erradicar o crime na ilha.",
+        "sinopse": "A equipe especial de policiais, liderada pelo comandante Steve McGarret, recebeu carta branca da governadora do Havaí para fazer o que for preciso para erradicar o crime na ilha.",
         "poster": "https://image.tmdb.org/t/p/original/wGTE1SRuVB1xNfP63URLBQ7hwTd.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/tLccUh3uazZ9TkLhe53UwprJhI4.jpg",
         "studio": [
@@ -2619,8 +2618,8 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 8.4,
-                "synopsis": "",
+                "rate": 8.4,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/fiBEWQRQAp6N901MbE6sJyNs8LD.jpg",
                 "episodios": [
                     {
@@ -2634,8 +2633,8 @@
             },
             {
                 "title": "2ª Temporada",
-                "rating": 8.8,
-                "synopsis": "",
+                "rate": 8.8,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/9VjqFsJ8yfHEnyYmexQkCxo8V0Q.jpg",
                 "episodios": [
                     {
@@ -2649,8 +2648,8 @@
             },
             {
                 "title": "3ª Temporada",
-                "rating": 8.2,
-                "synopsis": "",
+                "rate": 8.2,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/mn9CBdUlu2lkabbVmEEhpCdnqMI.jpg",
                 "episodios": [
                     {
@@ -2664,8 +2663,8 @@
             },
             {
                 "title": "4ª Temporada",
-                "rating": 8.2,
-                "synopsis": "",
+                "rate": 8.2,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/wm3men9DXATGMDeEo3JaaQpisSM.jpg",
                 "episodios": [
                     {
@@ -2679,8 +2678,8 @@
             },
             {
                 "title": "5ª Temporada",
-                "rating": 8.1,
-                "synopsis": "",
+                "rate": 8.1,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/runoUsspYpVG0KEVdxoEkUyUKiZ.jpg",
                 "episodios": [
                     {
@@ -2694,8 +2693,8 @@
             },
             {
                 "title": "6ª Temporada",
-                "rating": 8.1,
-                "synopsis": "",
+                "rate": 8.1,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/4fv8F7fxg82X1cYBtOjTDvLFSz4.jpg",
                 "episodios": [
                     {
@@ -4209,11 +4208,11 @@
         "tmdb_id": 4602,
         "popularity": 127.3322,
         "title": "As Visões da Raven",
-        "rating": 7.2,
+        "rate": 7.2,
         "classification": "L",
         "year": 2003,
-        "premiered": "17/01/2003",
-        "synopsis": "Raven Baxter é uma típica adolescente, mas com poderes psíquicos! Ela adora prever o futuro e com a ajuda de seus amigos, Eddie e Chelsea, elabora planos para alterar o que vai acontecer. Juntos eles criam mais problemas do que os resolvem de uma maneira muito engraçada!",
+        "aired": "17/01/2003",
+        "sinopse": "Raven Baxter é uma típica adolescente, mas com poderes psíquicos! Ela adora prever o futuro e com a ajuda de seus amigos, Eddie e Chelsea, elabora planos para alterar o que vai acontecer. Juntos eles criam mais problemas do que os resolvem de uma maneira muito engraçada!",
         "poster": "https://image.tmdb.org/t/p/original/5AYuv6cSBC0Iqb1Ugkfp3z3Pjyw.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/diqbnJ5ScnSwm6dbHsMWkWMPrPH.jpg",
         "studio": [
@@ -4227,8 +4226,8 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 6.3,
-                "synopsis": "",
+                "rate": 6.3,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/su0OdwKQzpQ2w2DygO3yKvrDUAk.jpg",
                 "episodios": [
                     {
@@ -4242,8 +4241,8 @@
             },
             {
                 "title": "2ª Temporada",
-                "rating": 5.3,
-                "synopsis": "",
+                "rate": 5.3,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/vUgOpnj3DK5PkDxqtqVZQczxc5z.jpg",
                 "episodios": [
                     {
@@ -4257,8 +4256,8 @@
             },
             {
                 "title": "3ª Temporada",
-                "rating": 5.5,
-                "synopsis": "",
+                "rate": 5.5,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/fNVY78pQb4qU8Fx0jFVzSyMYjK2.jpg",
                 "episodios": [
                     {
@@ -7307,12 +7306,12 @@
         "tmdb_id": 2309,
         "popularity": 85.0424,
         "title": "Danny Phantom",
-        "rating": 8.326,
+        "rate": 8.326,
         "classification": "10",
         "year": 2004,
-        "premiered": "03/04/2004",
+        "aired": "03/04/2004",
         "date_added": "2025-03-31",
-        "synopsis": "Após um acidente no laboratório dos pais, Danny adquiriu alguns poderes fantasmagóricos. Metade fantasma, metade menino, Danny pode ver, ouvir e falar com seres de outras dimensões. Sua batalha diária é para salvar todo o planeta",
+        "sinopse": "Após um acidente no laboratório dos pais, Danny adquiriu alguns poderes fantasmagóricos. Metade fantasma, metade menino, Danny pode ver, ouvir e falar com seres de outras dimensões. Sua batalha diária é para salvar todo o planeta",
         "poster": "https://image.tmdb.org/t/p/original/pBUOFBmZLaIxzjDjQP7d3QZrd4w.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/4gFUAPBZg5Z1k8NGqwgLoOJFXJh.jpg",
         "studio": [
@@ -7330,8 +7329,8 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 5.6,
-                "synopsis": "",
+                "rate": 5.6,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/qewIDYGbF3r5xUnipqBAxhAsxuR.jpg",
                 "episodios": [
                     {
@@ -7438,8 +7437,8 @@
             },
             {
                 "title": "2ª Temporada",
-                "rating": 5.7,
-                "synopsis": "",
+                "rate": 5.7,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/wCRd6y6u4BvVR4n4xWBFqswr6x7.jpg",
                 "episodios": [
                     {
@@ -7551,8 +7550,8 @@
             },
             {
                 "title": "3ª Temporada",
-                "rating": 6.9,
-                "synopsis": "",
+                "rate": 6.9,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/9Ti4ine8RG9Gp0xO47w1KSHV3sB.jpg",
                 "episodios": [
                     {
@@ -13145,12 +13144,12 @@
         "tmdb_id": 3103,
         "popularity": 43.9654,
         "title": "Bananas de Pijamas",
-        "rating": 5.3,
+        "rate": 5.3,
         "classification": "L",
         "year": 1992,
-        "premiered": "20/07/1992",
+        "aired": "20/07/1992",
         "date_added": "2025-03-31",
-        "synopsis": "A história é sobre duas bananas, B1 e B2. Eles são bons amigos e companheiros. Eles moram na Avenida dos Agrados, onde também vivem os ursinhos Amy, Morgan e Lulu, o Rato de Boné e várias outras criaturas. As bananas estão constantemente provocando os ursinhos e são sempre capazes de impedir os truques astutos do Rato. B1 e B2 são tipicamente maliciosos; no entanto, eles estão sempre prontos para lutar por uma boa causa.",
+        "sinopse": "A história é sobre duas bananas, B1 e B2. Eles são bons amigos e companheiros. Eles moram na Avenida dos Agrados, onde também vivem os ursinhos Amy, Morgan e Lulu, o Rato de Boné e várias outras criaturas. As bananas estão constantemente provocando os ursinhos e são sempre capazes de impedir os truques astutos do Rato. B1 e B2 são tipicamente maliciosos; no entanto, eles estão sempre prontos para lutar por uma boa causa.",
         "poster": "https://image.tmdb.org/t/p/original/opUFH6kWzgepKX7kkboYH9EUiP7.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/xxkZSH3c3DpmBBnc6Ab2NcHp9Sx.jpg",
         "studio": [
@@ -13164,217 +13163,217 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 0.0,
-                "synopsis": "",
+                "rate": 0.0,
+                "sinopse": "",
                 "poster": "",
                 "episodios": [
                     {
                         "title": "Episódio 1",
                         "episode": 1,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=XSE0KarBILEL%2FiySXeqUbHHy3iLUHMckgTPRS0%2BHLWKZZ1xKC7886eLgXzx9doFF&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=6c1144fb5338f5b398af618884e01d71c7d5da0f3355404c7fb7dd0ccd523a27",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 2",
                         "episode": 2,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=gg89A4AMGEIe54P29%2FYOBHTONVTjGK14BdxlJG8YLDYwFm15ReAk0gkFncdgdJSp&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=21ee9d9ef866a21fd5cf77bd0e6710dcad5b9bd8f9e8aae83987bf91a9de9f77",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 3",
                         "episode": 3,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=9FTC2AF8MS3Dotg6fSpDWluNJohXui6H%2BvzRGBdnQqUHRkSVzaWKhTuqV0ngDuez&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=2f6da6c288d912ce710fc76792969111ee52838d519ac74b5a4be3a41c11b371",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 4",
                         "episode": 4,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=udpMXA0A09aIgqcIeQ536yJGWG71Bz7z1M74PomoudCFLWECeEJubdCMpBl1Zy5x&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=1ca78c65e9cbcc0c5aa2f2506a2ec02c385ae3b9379c8d05e854400b87a23c27",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 5",
                         "episode": 5,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=fBTVh%2FEmjYKNkx0Qhj0QKUGVglwmIdwGROhkXgvk1S25RkNqUpqZRxU%2FylH%2FYORI&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=d2aadbbcc5277e629eb95421194bfca50ca96e477de495a6562ca79882ff313e",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 6",
                         "episode": 6,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=R9wG%2BOstAsLqZ7U0e2HVES2cbRgjty3Wrbr%2F1XTa55KGJok8vOqI5tJ4Z43pwFCY&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=b59e6168b4d82dd5a71e8419e5ad213b0111408d8f8f1d060093ef31f9d461e7",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 7",
                         "episode": 7,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=wlN0NmOGNjgiLqsl7OMqdBqA3FCT8mx6ivrWgjxyIb7911d5YUampIXltXsaObo3&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=9bf36779845ddf63b59e4cd3fecb5afe56cc4fb788dd34f2d422402adbbf3fb5",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 8",
                         "episode": 8,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Yvua4sM5V52uCU%2FZb8LOGqUL4iIKDpwWK3jUNG29rE4f14Uz2rawfkb75BXGYGqv&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=d069d30290a1b8b8605fb4c4ac2831fac33859025ed574bce07f326fedbaa4e1",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 9",
                         "episode": 9,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=dIF%2FlHOX7GM8Kc%2FSZ8OuTdrXZaVoZy5vyXcwijAJ5pknyL%2FK5ZMC3qdE%2BAV939Y8&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=4f909d64bac4332dda237596731a61a7b12ffd90e77053ac7928cd0a30d0d92d",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 10",
                         "episode": 10,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=RYEks%2F%2FZkHqoR%2F95%2BS14R5oFBdbz6Ca%2Bjf%2BEajgt%2B4U7LwNtndiBBqcw08eYly8%2B&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=944076fd5a92fcbdd24c42203551094bf72e0c399da7ed68b8fde58ed67524d9",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 11",
                         "episode": 11,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=nAeXcVsdzK1K8by8c1OmamQv8%2FUTfpwjsmT68xCL9SoGDPuU2Ng40fy1EOAsGUrS&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=78895bece9f84de341a53c935418e1e515f6b0a8ec6e6e5f969fa6e834a2275c",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 12",
                         "episode": 12,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=u8HIeCCoYvCyQBZ7%2F1I%2BIX6cpAJeXzV5bJWKllCnLQq3nyo3KSl4eXwC1ti023y1&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=59880b13ff47cc0cff1981cda5dc95e3097461767703457a6cb99cdaf547636d",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 13",
                         "episode": 13,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=7v%2BAIfsnM91N%2BHSf4%2F9PItqbVO8YcNixlys15pgwu5YM6wqdEb%2F6uHH%2BzkC3dI1J&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=df55d00a1550973901f6214aba1ca6abe4523b6467a0aebc270fd89bdcf1fb40",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 14",
                         "episode": 14,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=vaOr%2FAqWiUgIWpbPhvgnBCp77kU%2Fb6gJzmIV2%2BMCybeHozb2z1mto8SlU5qvC3wr&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=ef980496d6a96613129d6b47af244001b0f1f637f169c6fab0f896508b61fcfc",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 15",
                         "episode": 15,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=DVuQnwUsC91w13clFOVqA5EjF1usX%2BPB9NQ4dxf3dE%2FrhnyYqGOA1pWTnh73wbs1&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=5cd82062eac7a6721b2ac4a266548f615989eb13c01ffab98cf6ee64216529c8",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 16",
                         "episode": 16,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=G3jWMh7a0t5Fuib5YgGzLZ8fptYJMZ8%2BbZfsg7luCuc1EHvjnx8KkIJ%2FIxQfcVV9&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=d8a3fab963ae4a8469a206c3a301cbbba3856855c434007a71ffcd3026bf7552",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 17",
                         "episode": 17,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=rxMHxvwy7rR9o37qtllw9yb15akVKPVQjHZewPiq1aQMwkfJ5JxMm%2BUnOUWDIrZ0&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=47338d867ec890000f70ab3e83c27bb543ddac79e6b53cb907c142e27c46c963",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 18",
                         "episode": 18,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=qg7EM6iaeGCm%2FikkbNzW8kq7%2BhOp9HvuY5KAilr2v7ob7o8jA7ue9em5I%2FJa%2BhTc&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=d265586d5a4bdb315ecb9898e4834648449dfb80dcdf3adfe1dfe1dbc8530748",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 19",
                         "episode": 19,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=nYyMLz%2BE4ChE%2BQ327Lsytw24ZkEd3rhouogeogfTiV%2BrIuSo%2FXhkB7lk8HWQ1VEA&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=f3461fb3bb2ea936bff50bb27f6c9c793812788fb0056e36393c23b178d4f592",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 20",
                         "episode": 20,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=xa9a9bFsm3etiFz1f8lZLeyey4u9uWgazEGhRtLe1kicTn%2Fp6Zk8WEu%2BF8YKuXxj&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=db0c536edfaaf5fd5971c2058386518d91321e6323ca4b6d8d20e0e3c6a3dd2e",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 21",
                         "episode": 21,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=k2k9ukMSaoxzW8%2BGVGZHpFSbefHx%2BtlLtD3CxQKXJthNU3uOpX0SL7FPJ11ypuMu&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=eb22b6a027d6d2ff56f06506f23881591ac7e84fc2822425e1d2267927e68c1f",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 22",
                         "episode": 22,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=TCgClUKs9LtGG%2Bf%2BkURGhIf9SH8VaA8mzBO0j8omjogng6%2FnCYQsPOtco%2Bu26%2FGK&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=8455c24216000b15356efff154a16a016cab6b7b0a6a960b005ee8f3de48f473",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 23",
                         "episode": 23,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=AEVYfAlbstEEGWSi36AyAz4gEp4v2knU8zBEt2fyC9EY2n1%2BegI%2FoneGjOmuLl9N&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=161a3efa5a0b436f4f12f7ee1a427ff8eb4fe0196451d5beacc1130b5391df22",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 24",
                         "episode": 24,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=cniUjLmZZwJd%2BOoV1C7uNRHATDfVZrYcyT%2Bkvgi2tb1WFNQu6ttXZlHrDiUdjwu6&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=afe46855f8e3283c931232769d908419947892b274a1135d67573aaed0fe357b",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 25",
                         "episode": 25,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=L70fR4wgmkxOoGhErYsO5ktQ5kBDxAQEgmzLs%2FaZtrdLVJVqyuSb7tRco3gX8zVE&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=c7ddb638403292fad646e34080a5bcd5546f0bfa39335a383074100afa9c7482",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 26",
                         "episode": 26,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=rCMkhKvMCXvhLvvXP1Z3hDRbIFEOY8misZW5amtXntYqLnvO%2BZgY1Pnz2dY9XgDi&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=1d6e64be70bb015d70f61687e6daa56f7021ad9a33a481e9aeeaddc821b4d824",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 27",
                         "episode": 27,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=gJqs8VUciLRsNZ3D6qW6zRq97KUONWgWLDSzIVXrJfn1DWMgvPc%2FRN%2BfkriXMh7z&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=021cfeeff7cadfaea87d04daf6e13bacb8eb2e0c727d38623086ecf9da986655",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 28",
                         "episode": 28,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=g9ONBHDK1BRKtHotJ5u8A7zUiri1J7iIJGCW7gPbnyt8Cj4uvJviiO1CBQ3ug2fw&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=efa7ead73be586d8e73a70b145ba24eebb70ae08f3a6b8b1c06f7312f0d56ff3",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 29",
                         "episode": 29,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=u9yZPAlOHo88SeUAu7lE1ddYnQX9A8aShcdNdVAKemZ%2F9uiigXGKKu%2F50P9I8bto&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=7e2d2a01579008b790be275e83ee29472647eb11d80e6fbd15d92156bd7240d9",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 30",
                         "episode": 30,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=2i22PeZ5FhuqoqDr16Yi8Jr4gg8ta3BZSkFsJackedpfThSrzwZnRfPwEycsPWBp&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=f766bab0b9c7ae733b173abcc8c588e57bd45ffe4d2555a44645dc6f6e48b223",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     }
@@ -13382,217 +13381,217 @@
             },
             {
                 "title": "2ª Temporada",
-                "rating": 0.0,
-                "synopsis": "",
+                "rate": 0.0,
+                "sinopse": "",
                 "poster": "",
                 "episodios": [
                     {
                         "title": "Episódio 1",
                         "episode": 1,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=8yvx3A7RKEmJCteDnypMqO2Pe7Cgq%2BSshEjIpY2eBvThqj4YxUzMp%2Fof1gxzNHJv&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=0c336f4aaf7a549f96db60d3bd279d2d9a14b59f329fbf00c41a5666fc2893ff",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 2",
                         "episode": 2,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=FQc38p1qJkguwELshzgWxDiH7Rlfkv5EXIj9o87ZYrOma8UQzvcYxLsS%2BOmSNZ5G&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=ca60acc2362c5135a3f727a1cc39299575bad95ad3a91de29ab9884c3cb038c9",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 3",
                         "episode": 3,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=7o6VJldND%2BuHQDgHTKkbSTgfMkNQWVxsd2CEPGLibuTtZkUf%2F1iVUdoJG0%2BaAbLF&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=71b7b60eb4e7f2a474ce28f5482d6a964a5c35148cc361303282926a17a8fdde",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 4",
                         "episode": 4,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Meh%2BTLECuB708K2SxGWHGLADWHSWWttwHl7RN4qFrq6NOXNsghlMSbNdP9qKljHl&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=d2385dac5e18ee4dc02c7549d25beba01bbfc9b10644bcda51585dab2466e1d3",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 5",
                         "episode": 5,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=T507QW4y5hL1EU0pNsOb4J0IQPkneEHMWL62PNdt5kb4syFmEL%2BqwTYB7u64Z8C3&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=371f843a0b9b372e7330e4de7d50a2d7ac0d10fdfb81fab6ce91f7fa373fba86",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 6",
                         "episode": 6,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=LNLkPmF98jSPZg%2BUnR9%2BZUSc9bqq8GejO61A0UptOsXUzIkc%2B8NwhvXJwuHwk3jM&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=28d5c5f44e52d15b45001536ea00c564f9b29d1cd7d3ad422a2ffa839b4174d9",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 7",
                         "episode": 7,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=GoyrqKv9s00oALuoRLMR2Unb3XRzYFALns%2FKz0br8VZRVOUP6A2PoEtKs%2FpgJ5Ze&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=4eaab6057ff396e1de1e11dbc6fc30d3d454b7e13a8897023c48a91c4c7fc639",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 8",
                         "episode": 8,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=QFm%2FvsTY2AL6O0bkAuyzuPiPbLXHO%2B%2F5SGQDd1TtuhkgJzUwHBBTfXasF7sG8ISq&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=0b3ec86b00f5bd76ca9d38a05f7a15f543dd303305a18da1a97d759cd81e0d5b",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 9",
                         "episode": 9,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=EXWvO8d3yQLK5owqpPP5AfrSGRDAG1cxcvjIaCwNLTbSL98qo%2FgAcLR4Iauezepx&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=09cee89bfb60694e156ba9c726c47fe52e0cd065e1e9dfb4a299793edd7231c8",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 10",
                         "episode": 10,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Mz1LHkq6OeKHGWJOiQAi4YNLhh8%2FaKWOEaUzII4Nycs%2BYMO1mnK3dlY8UnqYDU0a&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=8b082b67a7ad9400d0e0bdcc751300b575d5017423375ef6bebf647e4a5580ea",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 11",
                         "episode": 11,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=xHZPM1raeIFCeMuxAIi3jmZfU7ISvd%2FpT0%2F9s5hBigrMUIf0B%2Bwf%2B6NdwTJY0NQX&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=de9f5e84a2008c6bdfae7995876738ad601a24d75e3b077177b094197e1ae57e",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 12",
                         "episode": 12,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=cer8DAA4GhEF8ZzpIeTA0ppoI9wanLscoTbafFT%2FQ85MF9MaJmJrIlk1WB3h%2FNmf&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=06f0d50a6e221a878807c70d48f1ac1692f992c5856de33f6d013c0d0a47e339",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 13",
                         "episode": 13,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=HghaCTa6X7L6dNYkKDiVKUX4EQxOeWl75fUjedJZ0X42xTuMvic3aeo0G%2FnHdMeZ&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=5867e456ed35de81fc91e48970ddf43d5e09193ea8deafe8e358aa65259999cd",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 14",
                         "episode": 14,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=0c2g20QzQN2h1qOyobSnaTIz%2FYfBEG0QrmvwcbJIoU4tGsb7jF8j0e9FY9UC%2Fpge&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=3f1decd55f465494e104f92168086cc6cad849fd21e9fd5d96725d7696080fa7",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 15",
                         "episode": 15,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=W9DQlz1OdPLwOOPXo9GmdZEqVY7C47TywtgG%2Bzi%2BKxvUk0tC2HhSvjG4X2RQ%2Fz0c&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=c058fc8f5232f71ae5c8dae3dde466de84c908d50793996f02310760e165d1c1",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 16",
                         "episode": 16,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=INPTPJfMaN2BF7mMGua%2FpjbZMssAqRnEMXCH%2FqpXPRnTw9ObfZkotkWj%2FZexgHCn&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=c1eddf295114461b7abf5a503c27048237fcf49b5a55cd8799ed98cb255f091b",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 17",
                         "episode": 17,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=XsDmYfUPrmnx4nMlQuHdTUrTyhKVPlqsGSURW20liuBRhl6rPRLXQjqNM6Dx%2FCZ5&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=e31d0fb6918262c1a13afd3015367f48da1a6cf9e60bd2f1e9b2ffab34d43a73",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 18",
                         "episode": 18,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=UBg8pZ1Y7kCsTtZ3sahlhqaRazH7SudadL%2B5M1DtRWAA2OOOpxRTs17sYqw3NuVS&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=8a7006072c1092ab53bb82d091a4ff5ac0857be2172ff509a23d1f0af72634d5",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 19",
                         "episode": 19,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=hhMLEjrm4kw9fMpWOj3CbkEwB4OgadtR8ZbJXOnlhH6e34LmZIhVYyYb%2FfCqLmAl&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=27967deb897914d63957087d982913b918f44387350cc5ba1c9e164fa5f9d664",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 20",
                         "episode": 20,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=KOlQWCC0BdOFJDa2Qbj2s7QxrnIKx%2FXM1uUUpohpakFrVUMrdnHfoHEeC4t1YKan&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=958bef377bbc458a82fd2269875116b66730186726051970999f992fcebc874e",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 21",
                         "episode": 21,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=NpGiWRXv6GsqWYjmXrR9exa7%2FEGDsUha8G7xM5Oak%2BX0%2Bhxl2KmFJ6FE%2FV%2B9Mavu&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=322e11dc855a5e201708abbc373413472df6273ab8a0e34817b1e8b728a722b6",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 22",
                         "episode": 22,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=MBmGLjaCLBDaKZVB2OEkzTKNSEmm6bSffzrzFixZTZB0MKDdG2bLLF6dmWovrWmY&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=89cd6948e32a96e61644176ae25eaec1dc9960059ccb6f278237faca5c19f2ad",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 23",
                         "episode": 23,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=HFfZFyorSdYdwqGGMmVdgw3tudaydmdOqG8bHI%2FafT76%2Bcx2dKy9PljOOvBHUouZ&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=9beae25f028120786a091fcd9d2f7b3946960e477a2ad7b0e208283739009234",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 24",
                         "episode": 24,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=d3w7qJpoTXH2yW1Kkf0SfL3S1bBNNIZ9kiSXTsQfeM7Ugj%2F89PkKZ4ToEMjJ2jUR&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=836d12e401ca79bf37d78ee99fb51a750b18c29eb19db2bb667e2bbaf37b3c62",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 25",
                         "episode": 25,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=ThyPdtd6gA4rxa0qNcVwU5VOV6ISRz%2F%2FTuwuKH9O9T%2BX7c0Se%2FvBjU7kxTbToygA&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=0395ec0992c5392adefbec068daa7340fc860d3f86c39db47f83d6612444fcb6",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 26",
                         "episode": 26,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=1hjAC6ztBiIAk3JqWiKPW%2FwKNm5mKCdMEl0R1BBR3ebxUg9KnZT5qAlwJIgmjx9h&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=06bdf8f0618c4d5a878b7aa3f01234eafd4707490a333dcfc4b5b678568fb21f",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 27",
                         "episode": 27,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=vraxmHHIIx6sLYSwxWpB7GueSqqA7gsJA1AAYJDnnGBzgyBm7gYlMhqD%2BCYMOWsB&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=ce37a73968a4aca38893a21f19606bc283015b0c212612a7c3523315e6519686",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 28",
                         "episode": 28,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=MYL1wUOcNK%2BQQH3QJd%2FQwhammFjdjLSh8DxntOIknjNV82Yh3Dkq67CKGsR3RAi5&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=d44252a6c5dca053d931d53a20f355e7299dbd251fc2bb0064f7358c7d0210a7",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 29",
                         "episode": 29,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=MpA62mXRgZfZxo25wz9nv9zuT8qmKB0qH9sqC%2F6iUSxAlpdokz%2FsqwJfdVqsg2pk&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=298f7be8446c28683b7c4c0af21f02113d0bc867ca3e1b22c70a4d57784c6231",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 30",
                         "episode": 30,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Y1QKV%2BtGz3puLs3Vs6HLSKcV74fznWv4kQ18BMie4LNxyVXSFC1o%2Fft2Mzfk4Cop&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=9ea61d58cdc3d3f9f638ff7d1b5aaeb7233a5c77e534a99c3d3e5f589008e09e",
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     }
@@ -15873,11 +15872,11 @@
         "tmdb_id": 2038,
         "popularity": 34.6016,
         "title": "Drake e Josh",
-        "rating": 8.369,
+        "rate": 8.369,
         "classification": "10",
         "year": 2004,
-        "premiered": "01/11/2004",
-        "synopsis": "Drake Parker e Josh Nichols estudam na mesma escola e nunca se falaram. Mas quando a mãe de Drake e o pai de Josh decidem se casar, eles terão que se tornar meio-irmãos.",
+        "aired": "01/11/2004",
+        "sinopse": "Drake Parker e Josh Nichols estudam na mesma escola e nunca se falaram. Mas quando a mãe de Drake e o pai de Josh decidem se casar, eles terão que se tornar meio-irmãos.",
         "poster": "https://image.tmdb.org/t/p/original/udCvGctktHvvf8w51XyTPfcmzDa.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/qBcQOOaIBjajLaU1sKUVHjcvbQK.jpg",
         "studio": [
@@ -15892,8 +15891,8 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 7.4,
-                "synopsis": "Drake Parker e Josh Nichols são 2 garotos com jeitos totalmente diferentes, mas por uma ironia do destino, a mãe de Drake e o pai de Josh resolvem se casar.Para piorar, Drake tem uma irmã malvada que apronta com ele e Josh.Depois disso, Josh se mete numa encrenca:ele tem uma briga com o valentão da escola pois ele achou que Josh roubou sua namorada, mas na verdade Drake fez isso.",
+                "rate": 7.4,
+                "sinopse": "Drake Parker e Josh Nichols são 2 garotos com jeitos totalmente diferentes, mas por uma ironia do destino, a mãe de Drake e o pai de Josh resolvem se casar.Para piorar, Drake tem uma irmã malvada que apronta com ele e Josh.Depois disso, Josh se mete numa encrenca:ele tem uma briga com o valentão da escola pois ele achou que Josh roubou sua namorada, mas na verdade Drake fez isso.",
                 "poster": "https://image.tmdb.org/t/p/original/vBYAGdP2Dq7QRe01cAvieVN0ylR.jpg",
                 "episodios": [
                     {
@@ -16900,11 +16899,11 @@
         "tmdb_id": 2405,
         "popularity": 30.9514,
         "title": "Johnny Bravo",
-        "rating": 7.2,
+        "rate": 7.2,
         "classification": "L",
         "year": 1997,
-        "premiered": "07/07/1997",
-        "synopsis": "Com o cabelo grande e roupas pretas apertadas, Johnny Bravo é conhecido por seus golpes de karatê, sua forte atração por mulheres e garotas bonitas. Apesar de sempre ser rejeitado, ele nunca desiste de encontrar uma namorada.",
+        "aired": "07/07/1997",
+        "sinopse": "Com o cabelo grande e roupas pretas apertadas, Johnny Bravo é conhecido por seus golpes de karatê, sua forte atração por mulheres e garotas bonitas. Apesar de sempre ser rejeitado, ele nunca desiste de encontrar uma namorada.",
         "poster": "https://image.tmdb.org/t/p/original/obbdeoOk8XSXzJrWGiBbaeMMSMl.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/vv2FQBvol6JgL9AO8mwi8jaoaNv.jpg",
         "studio": [
@@ -16921,8 +16920,8 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 7.3,
-                "synopsis": "",
+                "rate": 7.3,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/fpkqytug1IZrjnhYQjV13YTsjb4.jpg",
                 "episodios": [
                     {
@@ -19052,11 +19051,11 @@
         "tmdb_id": 606,
         "popularity": 23.0228,
         "title": "Du, Dudu e Edu",
-        "rating": 7.8,
+        "rate": 7.8,
         "classification": "L",
         "year": 1999,
-        "premiered": "04/01/1999",
-        "synopsis": "Du, Dudu e Edu constantemente bolam esquemas para ganhar dinheiro e poder comprar seu doce favorito: bala de caramelo. No entanto, seus planos costumam falhar, deixando-os em várias situações difíceis e hilárias.",
+        "aired": "04/01/1999",
+        "sinopse": "Du, Dudu e Edu constantemente bolam esquemas para ganhar dinheiro e poder comprar seu doce favorito: bala de caramelo. No entanto, seus planos costumam falhar, deixando-os em várias situações difíceis e hilárias.",
         "poster": "https://image.tmdb.org/t/p/original/4yYKMN6kyMbfXg2E5ZwJiq3NQrU.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/iRbNLYmqlxbqkfCuAmHaFwZ9ocY.jpg",
         "studio": [
@@ -19073,8 +19072,8 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 7.0,
-                "synopsis": "",
+                "rate": 7.0,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/e0hLfKakSL3BcxfzGZ5yZvzQgTB.jpg",
                 "episodios": [
                     {
@@ -21801,12 +21800,12 @@
         "tmdb_id": 129478,
         "popularity": 15.0546,
         "title": "O Rei de Porcelana",
-        "rating": 8.2,
+        "rate": 8.2,
         "classification": "16",
         "year": 2021,
-        "premiered": "11/10/2021",
+        "aired": "11/10/2021",
         "date_added": "2025-03-31",
-        "synopsis": "Com o assassinato do príncipe herdeiro, sua irmã gêmea assume o trono. Só que ela deve esconder sua identidade e seu amor por um jovem se quiser sobreviver.",
+        "sinopse": "Com o assassinato do príncipe herdeiro, sua irmã gêmea assume o trono. Só que ela deve esconder sua identidade e seu amor por um jovem se quiser sobreviver.",
         "poster": "https://image.tmdb.org/t/p/original/xiwbHmrFqC2UJejuHsKGYoYegbi.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/4r7scgI5aUrShN0YzriAatWd15e.jpg",
         "studio": [
@@ -21820,8 +21819,8 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 8.7,
-                "synopsis": "",
+                "rate": 8.7,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/gVSTAUM8w00f3Ai3Q9Ea70MOJN9.jpg",
                 "episodios": [
                     {
@@ -23228,11 +23227,11 @@
         "tmdb_id": 720,
         "popularity": 14.2023,
         "title": "DuckTales: Os Caçadores de Aventuras",
-        "rating": 7.63,
+        "rate": 7.63,
         "classification": "L",
         "year": 1987,
-        "premiered": "18/09/1987",
-        "synopsis": "As aventuras do Tio Patinhas e de seus três sobrinhos-netos Huguinho, Zezinho e Luisinho. Quando não estão à procura de tesouros, os sobrinhos do Pato Donald estão em Patópolis, rodeados por Patrícia Vanderpato, Madame Patilda e o Capitão Boing, enfrentando astutamente os inimigos do seu tio.",
+        "aired": "18/09/1987",
+        "sinopse": "As aventuras do Tio Patinhas e de seus três sobrinhos-netos Huguinho, Zezinho e Luisinho. Quando não estão à procura de tesouros, os sobrinhos do Pato Donald estão em Patópolis, rodeados por Patrícia Vanderpato, Madame Patilda e o Capitão Boing, enfrentando astutamente os inimigos do seu tio.",
         "poster": "https://image.tmdb.org/t/p/original/wjQfPEkKA0hgV5BxWGCrLS7qHlx.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/exXuOvRwzkbtZmojV65CJpwc2BU.jpg",
         "studio": [
@@ -23252,14 +23251,14 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 6.1,
-                "synopsis": "A série narra as aventuras do Tio Patinhas, personagem das histórias em quadrinhos da Disney criado por Carl Barks, junto com seus sobrinhos-netos Huguinho, Zezinho e Luisinho, além de vários outros personagens criados exclusivamente para a série. Apesar dos três sobrinhos originalmente surgirem nos curtas animados na década de 1930 do Pato Donald, a sua caracterização em DuckTales está mais aproximada a dos quadrinhos de Barks.",
+                "rate": 6.1,
+                "sinopse": "A série narra as aventuras do Tio Patinhas, personagem das histórias em quadrinhos da Disney criado por Carl Barks, junto com seus sobrinhos-netos Huguinho, Zezinho e Luisinho, além de vários outros personagens criados exclusivamente para a série. Apesar dos três sobrinhos originalmente surgirem nos curtas animados na década de 1930 do Pato Donald, a sua caracterização em DuckTales está mais aproximada a dos quadrinhos de Barks.",
                 "poster": "https://image.tmdb.org/t/p/original/wjQfPEkKA0hgV5BxWGCrLS7qHlx.jpg",
                 "episodios": [
                     {
                         "title": "O Tesouro do Sol Dourado (Parte 1)",
                         "episode": 1,
-                        "rating": 8.0,
+                        "rate": 8.0,
                         "url": [
                             "on"
                         ],
@@ -23268,7 +23267,7 @@
                     {
                         "title": "O Tesouro do Sol Dourado (Parte 2)",
                         "episode": 2,
-                        "rating": 7.7,
+                        "rate": 7.7,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=dCA5GLylSjRjvAiy%2FAIea8in7S2oWXfqo7z8r4kvpXK4OQpklmgRDZnWWy9paalw&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=deb9415f80c27541faa9fc8bbed908cde55d16ab2de2c17128ed2958e3291679"
                         ],
@@ -23277,7 +23276,7 @@
                     {
                         "title": "O Tesouro do Sol Dourado (Parte 3)",
                         "episode": 3,
-                        "rating": 7.0,
+                        "rate": 7.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Z9SZIt9eNApmW5B1YE5bwLT9g3PmwoAuJpALiLQLtf5fnEsHj2dwIE%2BgnOfHXwRL&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=11c700c6cb7252b1c3efa36a8af30c99262e58ee8ec258d1de30c19d65c52030"
                         ],
@@ -23286,7 +23285,7 @@
                     {
                         "title": "O Tesouro do Sol Dourado (Parte 4)",
                         "episode": 4,
-                        "rating": 7.7,
+                        "rate": 7.7,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=AX1WGJzmyA4KxT4jpMRes%2BVkbNOKW%2F7AYjd7UlARbtUd%2FU5wTBXQyUmU1UlNx6Fe&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=fce084ba3af313bc4f9b73247b0b73d6c21790495d2ac0d13dcd53d284960772"
                         ],
@@ -23295,7 +23294,7 @@
                     {
                         "title": "O Tesouro do Sol Dourado (Parte 5)",
                         "episode": 5,
-                        "rating": 7.3,
+                        "rate": 7.3,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=zmewtIAY3T4E3yYBCYMGpX79%2Fw%2Bzqhh6LNRMT0zhdQBGzX4TenEmOtJIia3wXZly&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=c6086343a93e3f7d85fbc9970aa78c0c567ff3c3f7e13dfcca7c5173bdafce2a"
                         ],
@@ -23304,7 +23303,7 @@
                     {
                         "title": "Clonagens Patalójikas",
                         "episode": 6,
-                        "rating": 8.1,
+                        "rate": 8.1,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Feu2onDO8KNRe%2FkW0f39ni%2FY2s8VyebLIEI6ot3lAvqUTflA9YA0%2BH%2Bq9%2FM%2BV3Bs&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=f14bdc7ca925ab110a31a9ce5740c3f9511c3e702aa2fd760a98c45c90bf0be8"
                         ],
@@ -23313,7 +23312,7 @@
                     {
                         "title": "Uma Esfinge Para Recordar",
                         "episode": 7,
-                        "rating": 6.8,
+                        "rate": 6.8,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=XCCMZqCk%2FAGPZaLY5HiAbfx5cKVSTmvrJdc%2BD6ppyfebN4Fuq9JHl6Eapkm8y2fT&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=e4140d17dcfbf94a42c1ec77a516f9f616dfcfe2cf218ea800a458ced16ee635"
                         ],
@@ -23322,7 +23321,7 @@
                     {
                         "title": "Onde Nenhum Pato Já Foi",
                         "episode": 8,
-                        "rating": 7.3,
+                        "rate": 7.3,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=4DfJYLnlMSUjleWHkhQ%2B%2FIaLmiz0qriTp5rMQv2OvBror5hG8mShdtRyYGlRiHCQ&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=0f123d672ceed200df5b7428eec1b8df03517603f4df4571b9d15d3371d11c22"
                         ],
@@ -23331,7 +23330,7 @@
                     {
                         "title": "Capacildo, o Robô",
                         "episode": 9,
-                        "rating": 7.3,
+                        "rate": 7.3,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=PIPVNsik6jFO%2FN%2BF%2B3MKST8MsxtXQRaFlEbunFNz%2BRTJh40VQJXv1OIQDsVNRyiV&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=83cab468ef191578c98f7c1c70ed5bb09d7bdf13313f244887795db13a502a94"
                         ],
@@ -23340,7 +23339,7 @@
                     {
                         "title": "Assaltantes Robôs",
                         "episode": 10,
-                        "rating": 7.0,
+                        "rate": 7.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=466cDuCCsJMM18D%2FMqpos2XWDmlcDGk%2B1xLNC2Cg55OxmQIt6NAxkH8yfLLa8u9P&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=edb300b40dacb598d6b8c27ee4a62683c5480e9ab66b44aef3fa33976b09ef6a"
                         ],
@@ -23349,7 +23348,7 @@
                     {
                         "title": "A Guerra das Sombras",
                         "episode": 11,
-                        "rating": 7.2,
+                        "rate": 7.2,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=y12FQAevjz1HI7TIY%2Bx%2FrCLzyT%2FB4KuyVlTUq1C19hllS3eRH6yw6ZdkgromLGdD&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=31c5162dad9b563304974e86de353c2b4c091175e60fcce4b15a437ff9a2308f"
                         ],
@@ -23358,7 +23357,7 @@
                     {
                         "title": "Um Gênio, Dois Amos, Três Pedidos",
                         "episode": 12,
-                        "rating": 7.0,
+                        "rate": 7.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=YkkfogwukAHoSYNqAE8pQDF2tXrUhFEnPLDpqN2upTvyKHLWvINCLQZhHWiZM74x&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=9c6ba441639dcf93307c1c1d33b68195b72a57868f63592a90121e462300d574"
                         ],
@@ -23367,7 +23366,7 @@
                     {
                         "title": "Hotel Patusquela",
                         "episode": 13,
-                        "rating": 7.2,
+                        "rate": 7.2,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=1xJgZqkkOryTmkAiJKlewWK5s051%2Bdu1XgfqMk1WmbhAlmf8j67JQGrfTEAKowWQ&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=9f747f73e361cf6be07e6cce80433d831c701729fbf2a47f731e637f49b094c5"
                         ],
@@ -23376,7 +23375,7 @@
                     {
                         "title": "A Coroa Perdida de Genghis Khan",
                         "episode": 14,
-                        "rating": 7.2,
+                        "rate": 7.2,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=lB7pKBBkUjlXkbTGoizq45wNZI8DKurAtixywb829eD9ROqxnCCttfKSOxs1Wlxl&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=f58912c04bdf34cf9146e810163623c6a1104905a5aa7b34d4269b11ccaae47c"
                         ],
@@ -23385,7 +23384,7 @@
                     {
                         "title": "O Pato de Aquatraz",
                         "episode": 15,
-                        "rating": 6.7,
+                        "rate": 6.7,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=RjPMUwLfEdkBlgO5DH6tL7yB%2BB%2BHzzuOiq6DHpIULAgJvfNHahlrZEODl2Ys%2FVTl&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=c1648baeb649406985211811c71f5bc17d5948a8ec41c7831800c86357024c65"
                         ],
@@ -23394,7 +23393,7 @@
                     {
                         "title": "O Dinheiro Desaparece",
                         "episode": 16,
-                        "rating": 6.7,
+                        "rate": 6.7,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=k6HUdgEXjkI9CA0Np50xuGGBVC7smfTjBKvcQhGHOjbV3melP54OV9fkDwVf2X8X&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=a83cdeeb06488ef755603b42e3192f86a5a26577334155367f544f434b13218f"
                         ],
@@ -23403,7 +23402,7 @@
                     {
                         "title": "Sir Pardal",
                         "episode": 17,
-                        "rating": 6.8,
+                        "rate": 6.8,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=EW30rcWchpJRorXoIiXTy7dB%2FnSwhReyCldzCdKle%2Bd4OLtNJFNo4ic1kOhJHvlW&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=db6247456c7614fc93cbc46767f9c679110b7507fa321679065fa0be094de564"
                         ],
@@ -23412,7 +23411,7 @@
                     {
                         "title": "Patossauros",
                         "episode": 18,
-                        "rating": 7.0,
+                        "rate": 7.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=xj7JQ8DY6ejDtpAY0YtHqrJjX6aGvq5E7LRDI7qf56QfD4pDmvdqo3gJW0WVA56x&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=bb873b81ade9e8815c487c928e1d2a4943402d99303c3d6c21d0fe56e611ade9"
                         ],
@@ -23421,7 +23420,7 @@
                     {
                         "title": "Procura-se um Herói",
                         "episode": 19,
-                        "rating": 7.0,
+                        "rate": 7.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=rsw9wY1A5UJxsXibRYYhz%2FNRYSVIXCT4Dr8i9%2FHrAurMY1XxlPH8us1uFaznnP33&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=9e95536b57743c23dadef2c66762a3f5d6d2727285a39e3cf013a2a43ba6fc2d"
                         ],
@@ -23430,7 +23429,7 @@
                     {
                         "title": "Super Pato",
                         "episode": 20,
-                        "rating": 7.2,
+                        "rate": 7.2,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=KVGdZ1iYXsgnMCQyFHFCt5JY6%2BskHuoj90vS1H9zE%2FzHbOYhbrzPi4Cfwaw2K7DM&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=37a4de9800d4d3427d8a3a0e0795127e4f327fb776e74874d9875657e88aaa14"
                         ],
@@ -23439,7 +23438,7 @@
                     {
                         "title": "Vikings à Vista",
                         "episode": 21,
-                        "rating": 6.5,
+                        "rate": 6.5,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=dFf4RRG%2Fpf0P46AQLbtwi24VBFD45wCrcQrIiF2BPTbr10khH0I%2FjTu5g8RQLP3y&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=7b387869e85940380b6983aa09bf4d04309fad452fd3848007d4b623516f8b3a"
                         ],
@@ -23448,7 +23447,7 @@
                     {
                         "title": "Caixa Alta em Baixa",
                         "episode": 22,
-                        "rating": 7.8,
+                        "rate": 7.8,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Y3Bqm2hHAFnumeTmJURGwSesUjkJzxcM2M32GZeiEtWGELgIxFWP9l9VMBSFl4n5&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=99013a82081bef1fa82b2a3b7a1b6514944c2bbd0a2d8fed0187a2b3f689aa03"
                         ],
@@ -23457,7 +23456,7 @@
                     {
                         "title": "Vender ou Não Vender, Eis a Questão",
                         "episode": 23,
-                        "rating": 7.0,
+                        "rate": 7.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=13Y7xt439gdJoukzWn2xduMUOVh%2BxJ4EAS0dP773XRtHgJK70nUNEO6eeLKin7Ik&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=146bb5010fc0ff46b7610db6c60d5fa0aa7c10a6b6f6341f5a1f40a76ac5b1df"
                         ],
@@ -23466,7 +23465,7 @@
                     {
                         "title": "Autos Patos",
                         "episode": 24,
-                        "rating": 6.0,
+                        "rate": 6.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=YvrzTBkm%2BuEYRnX1Taafg639PJj%2FSKHFeoWXf4phGR8qbfraQNhkiuaU4Qz%2BnIil&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=92605e0ebc60d13292fae351801a392501e46d53f05a715b963b8b37ec24e5e7"
                         ],
@@ -23475,7 +23474,7 @@
                     {
                         "title": "Pérola da Sabedoria",
                         "episode": 25,
-                        "rating": 6.5,
+                        "rate": 6.5,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=OeEZbnUJi6izurqRiJXeqIVlyzqeSCeCZgH2tC8Z6hLntIQ00CBLQvNXCkKEd2fb&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=a5c3d6def11b4706d84e6ded6893ea824ed9fa303d24d1b154ed2fdcd6644b92"
                         ],
@@ -23484,7 +23483,7 @@
                     {
                         "title": "A Maldição do Castelo Patinhas",
                         "episode": 26,
-                        "rating": 6.7,
+                        "rate": 6.7,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=CBNEb98L6Ohv6FmPic4SfTnP2COCM%2FrqiWXs8mZP2%2BfSYXWfb3wKCGWRI34isBUv&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=1f88ae01ab200de0c2603dd2a16263bb3d5f10f6e9e0cc65c8168bb56b273121"
                         ],
@@ -23493,7 +23492,7 @@
                     {
                         "title": "A Guerra Civil do Capitão Bóing",
                         "episode": 27,
-                        "rating": 6.7,
+                        "rate": 6.7,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=VxZOAApZEb3%2B91E1vb0hsK7T5g2XnWxLn4Fkp9CSCf%2FAXwP8hrRoEUEG4gawWHgt&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=27c1b0fd72f18ab96bd8dbd4624b23e37d0fb6d7b33f5b353de21315422c577a"
                         ],
@@ -23502,7 +23501,7 @@
                     {
                         "title": "Doce Pato da Juventude",
                         "episode": 28,
-                        "rating": 7.0,
+                        "rate": 7.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=PImtMdx16V%2FJp4i9ni1kjeKDVugRq6EokdahfRWZGBMtZ5eXH%2B2rKmoDR4A6Bp3T&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=6ae5e7ed3892d5825e723733616fa9b817b74804867df3eb1acea89e421fb340"
                         ],
@@ -23511,7 +23510,7 @@
                     {
                         "title": "Os Terremotos",
                         "episode": 29,
-                        "rating": 6.0,
+                        "rate": 6.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=LDYVNswGh%2FGzjDbOshQ%2FGeMLnxdqCOqtv4hmKmghbf7lxmHeSEVi8C3m%2BmJaviKs&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=0457d714990f86095d4cbc3288c8c166fa563f44165612158a2f3e28d3cfa8b1"
                         ],
@@ -23520,7 +23519,7 @@
                     {
                         "title": "Uma Odisséia Entre Patos",
                         "episode": 30,
-                        "rating": 6.3,
+                        "rate": 6.3,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=93xZmoeMjZ9vBJwbruQA4%2BP3l1zNS8Qs07kyClJaR9QoJfS7q6AMWTJPTbIClPPC&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=d6c7f3facf11cd251a90062a663bb0d3d86aedc1c0436c2d717dcb9c099dbeb7"
                         ],
@@ -23529,7 +23528,7 @@
                     {
                         "title": "Bonança do Triângulo das Bermudas",
                         "episode": 31,
-                        "rating": 6.2,
+                        "rate": 6.2,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=%2BTt3xwVJN0%2Bh9e9PosWIULWDnHOD3bupJXP1SCaaZJRYqc9asG%2FvKO2l%2FrTMDZfe&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=6dfcf4ebeef86f2d9343d5bc8bcf6d4a5ebe9fac5f0a7b3994a54483daaaa6b9"
                         ],
@@ -23538,7 +23537,7 @@
                     {
                         "title": "Micropatos do Espaço",
                         "episode": 32,
-                        "rating": 6.0,
+                        "rate": 6.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=aZQJjSeENvoKqcKPKzJ7ChmQqpBsWTB7ZvtafMbWmeU7een35SW745fRghJf9Qnb&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=9bbe590ebb92aa8a9521b80ac492274a966f289502ca5c04be22dccefcfb1ba4"
                         ],
@@ -23547,7 +23546,7 @@
                     {
                         "title": "De Volta a Klondike",
                         "episode": 33,
-                        "rating": 6.5,
+                        "rate": 6.5,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=yBqbC7ATd1UI7rxRQM1qCIq3Vh2xNwlIQinrQc9%2BrLNRQl84WrRVwwGl5%2Bit%2Bz1J&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=fa06926e71b7e7d8a203494d13411e470010d6b561cacde0f47bb4bdcc76c82e"
                         ],
@@ -23556,7 +23555,7 @@
                     {
                         "title": "Um Amor de Cavalo",
                         "episode": 34,
-                        "rating": 4.0,
+                        "rate": 4.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=%2FbG938%2BGt%2BuswYpVXB8B35koMAJbi4SeEwPDdVSeWVuNYkO8agTgG5XwmbN%2FTOO2&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=9e014c193a0d251dfe93185cff70cf677d28c48299e556cc754baed2dfe8ea01"
                         ],
@@ -23565,7 +23564,7 @@
                     {
                         "title": "O Mascote do Tio Patinhas",
                         "episode": 35,
-                        "rating": 4.0,
+                        "rate": 4.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=MUozTJyqnQ0zRYnnT8AdmStOrE0Tdf8IYIPb4%2FSVIYLBHE4oHO97jOwi077KbZUu&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=90698fad14cb3b71299bf8d55b6f3c49036908a1040b15055e87839938ba4fb7"
                         ],
@@ -23574,7 +23573,7 @@
                     {
                         "title": "Uma Fortuna por Água Abaixo",
                         "episode": 36,
-                        "rating": 6.5,
+                        "rate": 6.5,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=qx53ReLm0%2Fd9yILq7n%2B%2FpAmYa4RJFEAVbGGbtQ3fWgVSZHcEPxLO%2BZ6JpW%2FQ7oME&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=5e8654a27fa11538279d799a9b36a83f362a00474fb5320d4f99d4a6e5959fbd"
                         ],
@@ -23583,7 +23582,7 @@
                     {
                         "title": "Uma Baleia que Chateia",
                         "episode": 37,
-                        "rating": 5.0,
+                        "rate": 5.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=hu0Sf2ZK0Mw8YcDgLfBv14LLesLk8V%2BZG%2BesH%2FDT6vWGLKXyzMNAT81d0NTRSL7g&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=73957c9c8951471c9d2cafff6d8a39ccdf938ab737c08b28db27e329c2693358"
                         ],
@@ -23592,7 +23591,7 @@
                     {
                         "title": "Áqua Patos",
                         "episode": 38,
-                        "rating": 5.0,
+                        "rate": 5.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=BKRmIElBPZVlQfWn5swg0vdLx7c1gITd3wEdKYfUUQoHoBv8UH%2BBtOXzk8vt2GU7&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=6530105c6b2ba333811397d44a855921f99661c597c1e6c6ff9ed4c40e0f708d"
                         ],
@@ -23601,7 +23600,7 @@
                     {
                         "title": "Pesando Fortunas",
                         "episode": 39,
-                        "rating": 4.5,
+                        "rate": 4.5,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=D%2B5XzXMzijqzda2Q%2FqhoMEAKMIbkx7hCUZkXd1wwA%2ByHuOu9Rxgx%2Fth2142eWQar&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=74d3be4eb98593a91a7e52cb136781e7e399de165b7178e0fcd4bd0c43dfa3b6"
                         ],
@@ -23610,7 +23609,7 @@
                     {
                         "title": "Emblemas de Mérito",
                         "episode": 40,
-                        "rating": 4.5,
+                        "rate": 4.5,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=limtw%2F%2Bf1CC662tfBbBktG9TsIOSZWJvzCpb1BFUbI47ZEK6g9f0RZfS6PoeG0nE&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=f55415d031ad3b429514f79d32cbbc8c75c470de4dda63e9b09262c99dd21a07"
                         ],
@@ -23619,7 +23618,7 @@
                     {
                         "title": "O Velocino de Ouro",
                         "episode": 41,
-                        "rating": 5.0,
+                        "rate": 5.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=xu%2FhebFDNWjIqzpSNdJbJVwuOjU3FsBLDfgyUjbWOmuUnuBVs8QpfUqc5a0XfcUv&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=f2fb75192645ffd57e933a572af14e5b85ff0bad70c4c8b25b6c3d9b6c563668"
                         ],
@@ -23628,7 +23627,7 @@
                     {
                         "title": "Patos do Oeste",
                         "episode": 42,
-                        "rating": 4.5,
+                        "rate": 4.5,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=aCCezhxTTPC5KaGmGRWfF%2F5340ZlVzuaNrT1l0xo%2BIDk0QrNhrsmW7IX2kEAzZ4r&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=bb397f36b9f341535eba7f85d0a931c5bcfb4e83e886073cc887f75e648f2def"
                         ],
@@ -23637,7 +23636,7 @@
                     {
                         "title": "Pirados no Tempo",
                         "episode": 43,
-                        "rating": 6.5,
+                        "rate": 6.5,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Nh103Qc3k8ZQnKD98AYQQoaj4uxAuwbGVQ15SOax6kC%2B3sXsiNq50woRmA95KkiD&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=c3667ef56702856c7074f3da66487a1bdcad1e5cac947ceeb8aa452963552d68"
                         ],
@@ -23646,7 +23645,7 @@
                     {
                         "title": "Aventura na Austrália",
                         "episode": 44,
-                        "rating": 5.0,
+                        "rate": 5.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=hs8hF%2FKB5zhJxtKqQV3sjzix4ObqOQNl8crXrjcHbLklfXOSH%2BoTtCxDBy9ygyv8&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=395d69de6a033b4c06f1543e57821dd734cc7724ec6071313a2fecf40a1287e6"
                         ],
@@ -23655,7 +23654,7 @@
                     {
                         "title": "Os Ladrões da Harpa Perdida",
                         "episode": 45,
-                        "rating": 4.5,
+                        "rate": 4.5,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=WPUNAS3SKZ7ssZEnS2FjIpJUXG2ZkP%2BGHvq7dYXq%2FhlzRcPa3Q%2FiMnVemUX6DplR&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=657fdcc770afcad8a54c0bfa11a92bb2e99915e81f0ef63724ea85393bab6648"
                         ],
@@ -23664,7 +23663,7 @@
                     {
                         "title": "O Pato Certo",
                         "episode": 46,
-                        "rating": 4.5,
+                        "rate": 4.5,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=1goLj4QtC10aRlbvtygieVPgyb646OsoAxcFlI4s1aOuc%2FGGv8uls7I9LAJp5XmU&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=d652ade2948894f1e641e6182fcab77693c29182253849c29d9ce6c490f3193a"
                         ],
@@ -23673,7 +23672,7 @@
                     {
                         "title": "Patinhas Cinderelo",
                         "episode": 47,
-                        "rating": 6.8,
+                        "rate": 6.8,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=JKJ18as79h3u7%2BHV%2FwFA6dmG2eKS1dycGIdosOqJQSQ0elDZUNi%2FTXPpnvt2Dgsn&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=66d76a1c2eca147af783cbb281de0d2ed7283e6973ed01a2482aa111a358ebca"
                         ],
@@ -23682,7 +23681,7 @@
                     {
                         "title": "00 Boing",
                         "episode": 48,
-                        "rating": 5.0,
+                        "rate": 5.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=rSeXG9URM4VSwNItJttn57aRKVN0TKi662PaW8Izmzwczqpgdsna3v3qTGNkRLtN&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=582b73d0a34967d8d5386345779804bc7aa09efbcec04581f223b076acfd95f2"
                         ],
@@ -23691,7 +23690,7 @@
                     {
                         "title": "Depende do Duende",
                         "episode": 49,
-                        "rating": 6.2,
+                        "rate": 6.2,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=lcqhFgAM%2BPnTYJprDc%2Bfa1D2ak0yZ9k92I8XjP8aCmioNzsMWT60xz%2BBg2v56JWm&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=35417bba0d537a1cdbb6fd5554654af8b22155298dd1533ca86eba15b3e2ab6e"
                         ],
@@ -23700,7 +23699,7 @@
                     {
                         "title": "A Revolta de Leopoldo",
                         "episode": 50,
-                        "rating": 4.5,
+                        "rate": 4.5,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=xNh6m1Bss3YNLldnG1aOog4MUXs3%2BCMxfELN1CUfCdfbemQm9Y3ehc2RJ2kctoW0&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=9e45714a96916e49170a72788f0e2ea7a4d738e57e69f3fad8a455f768c9e4c5"
                         ],
@@ -23709,7 +23708,7 @@
                     {
                         "title": "O Espelho Mágico da Maga Patalógika",
                         "episode": 51,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=JvWOYRIYiIi5uWENVgqZtXvB5Is79%2BAfwE45uleTENprDb65GPTQa9J%2F69pURe9p&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=9ab8d6b647206cd72fefb8e4baedadf7b644fd7ae0a01e0e455f8a2f652097e3"
                         ],
@@ -23718,7 +23717,7 @@
                     {
                         "title": "Dando Tratos a Bola",
                         "episode": 52,
-                        "rating": 4.0,
+                        "rate": 4.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=6aZyUXI5vCzMqlDNaFKGq2HawV6eHKyUnQggH2s1SU%2BUZ47ttNNZn%2FNMy1S1Wrr%2B&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=33e69ac07f755f8d94239642d8dfb2679f3ef62b49812ae28c86d201061077c7"
                         ],
@@ -23727,7 +23726,7 @@
                     {
                         "title": "O Futuro do Patinhas",
                         "episode": 53,
-                        "rating": 6.5,
+                        "rate": 6.5,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=3mv8Q42uj7Mu1%2B903WFxbC1ojS9ZiAn62o7SS0GIUT4dnglvYKTBsNhWUhNFeOLi&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=fa2a9903e5c373119e3fadee3b093467fca83ab8948694594728eee15629a33d"
                         ],
@@ -23736,7 +23735,7 @@
                     {
                         "title": "Pato das Selvas",
                         "episode": 54,
-                        "rating": 6.0,
+                        "rate": 6.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=LJx7rVmkCYqC%2FkJfzSrS4IIIlOf5OviI3zu6%2F34Ny5E9X0Cv1pCoPi8Yg5B6lURk&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=8ef8fdb28ed3dc7dffbcb9f15d4e7f0818fbe633ec5c79560c9926cc8be97eff"
                         ],
@@ -23745,7 +23744,7 @@
                     {
                         "title": "A Primeira Queda do Capitão Boing",
                         "episode": 55,
-                        "rating": 5.0,
+                        "rate": 5.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=8SYcBWkexwM3M05One8N7cyHF1GdhUEB8sUgoAlAnM9N23ieOmxsMvFadTqMQprd&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=e5fabd363907bf17a8ceafd06b01cf2bc956291c360cf83dc204a12da19de267"
                         ],
@@ -23754,7 +23753,7 @@
                     {
                         "title": "A Sorte da Moeda da Sorte",
                         "episode": 56,
-                        "rating": 6.8,
+                        "rate": 6.8,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=fVpRzVWQ0JpvDjA2nAV7ZpMwHjO0r4V3wFcCnePTFEyvyJ6x4h2bsbTaMNIjPWFS&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=52b4937e29ed547515be477a4675d06f8094db00028523a2444c810b29f85731"
                         ],
@@ -23763,7 +23762,7 @@
                     {
                         "title": "O Pato da Máscara de Ferro",
                         "episode": 57,
-                        "rating": 7.0,
+                        "rate": 7.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=CLnL02%2FIsqHbUH2T4MycctnrKYTxOsvpfyC0YcdLGD586og%2FgTzHK%2FNG0%2B4pZJwm&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=0e54018b8fae377e96429e613bad83ca133f2bfa52ebc6ad2c486b79943e1677"
                         ],
@@ -23772,7 +23771,7 @@
                     {
                         "title": "O Inderrubável Hindentanic",
                         "episode": 58,
-                        "rating": 5.0,
+                        "rate": 5.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=eBMw9M%2BBYDAXmX5DE3j533R%2BfJcVjmPMe0qovvZRSMXb6zI89X0qU%2BrnW5%2FLEEw8&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=fbcd8d7346bffd7b906c6afd0e40de2cce5e6f1adebc8a8b9b07136f1c8af74e"
                         ],
@@ -23781,7 +23780,7 @@
                     {
                         "title": "Falta Sociedade",
                         "episode": 59,
-                        "rating": 4.5,
+                        "rate": 4.5,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=sJKESjSMORkLyfalH4x81BXim3pWe9BPbFd7eIY3aBShD7%2BIZkWmmuZKyMytWivd&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=09b975da42aa9dc70463787035830cd619023dd759be0e15de8fa46640ad580d"
                         ],
@@ -23790,7 +23789,7 @@
                     {
                         "title": "Nada a Temer",
                         "episode": 60,
-                        "rating": 6.5,
+                        "rate": 6.5,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Ckmc7NuYCSvcAfbyVl4Y9efwoJuZ7u39lEzI3XUPwDrS3DyS7GhczYp5TacDlw1j&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=ad66ec605bedca080d87d716ba436d26eb716ec115862e741c1f0c7fa563fa8f"
                         ],
@@ -23799,7 +23798,7 @@
                     {
                         "title": "Dr. Jekyll & Sr. Patinhas",
                         "episode": 61,
-                        "rating": 5.0,
+                        "rate": 5.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=c5LKSZFkiIKMumEG5DlUNKx23I3RJ6oAowYar9ylruMauIr0cd6A58gER9dUFp%2BG&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=e164ac0d160d95c9f138ac3a633f4c991180346eae1bad5cfbe703aca0697148"
                         ],
@@ -23808,7 +23807,7 @@
                     {
                         "title": "A Moedinha Número Um",
                         "episode": 62,
-                        "rating": 5.0,
+                        "rate": 5.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Cd%2B2c%2B%2Bcc%2Fjx4arLBS8E7knhnruKCnRIStqESPMbj9mV9j186DJ40V5phJ8Dc%2BCq&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=7bd87c2436745b7c54bb4441263f1dc03a66c24a45c6c74aee0888939e492dfa"
                         ],
@@ -23817,7 +23816,7 @@
                     {
                         "title": "Olhos Que Espiam",
                         "episode": 63,
-                        "rating": 5.8,
+                        "rate": 5.8,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=7I4YZdzt8pYWP9KexYPrgpGApMng0XcVf2Sf3XOnPnNkRGJrsZIY3Xd6YMOb6aLX&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=349b0e5c1de6ac8894a63f87c2482d6865623015d70f057693459a71ffa578de"
                         ],
@@ -23826,7 +23825,7 @@
                     {
                         "title": "Donald Bravatas e Batatas",
                         "episode": 64,
-                        "rating": 4.5,
+                        "rate": 4.5,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=tBxhpGsLVGwyiqGhgRiFn03dub7ObFGSUQmMSNU1q8MoG34ZdozQajmn1vc57hbV&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=b665a1071b31782357d708a1315b8d3a77c9a02e542e28083b1b55a92c945d85"
                         ],
@@ -23835,7 +23834,7 @@
                     {
                         "title": "Horror Aspatacular",
                         "episode": 65,
-                        "rating": 5.0,
+                        "rate": 5.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=4dTL9FBNGM3q19yTV36lz3L04V0yQSuPN%2BuTOXbPLpvMJr9rjsZQOugo3o%2FaE8ER&expiry=A6njJlQYiuH7i3mZckCwrg%3D%3D&mac=5ad6dab6c83b21dcbfa50f336d76237fe8df5a9ec3b26469af8deeb54a6d9167"
                         ],
@@ -25260,12 +25259,12 @@
         "tmdb_id": 158596,
         "popularity": 12.3409,
         "title": "Beleza Fatal",
-        "rating": 7.647,
+        "rate": 7.647,
         "classification": "16",
         "year": 2025,
-        "premiered": "27/01/2025",
+        "aired": "27/01/2025",
         "date_added": "2025-03-31",
-        "synopsis": "Uma jovem órfã e sua nova família se unem em uma busca de vingança contra os responsáveis por suas tragédias pessoais.",
+        "sinopse": "Uma jovem órfã e sua nova família se unem em uma busca de vingança contra os responsáveis por suas tragédias pessoais.",
         "poster": "https://image.tmdb.org/t/p/original/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/rdeEKPvdDKt5b5lcY3bHsUfrwjU.jpg",
         "studio": [
@@ -25281,8 +25280,8 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 10.0,
-                "synopsis": "Uma jovem órfã e sua nova família se unem em uma busca de vingança contra os responsáveis por suas tragédias pessoais.",
+                "rate": 10.0,
+                "sinopse": "Uma jovem órfã e sua nova família se unem em uma busca de vingança contra os responsáveis por suas tragédias pessoais.",
                 "poster": "https://image.tmdb.org/t/p/original/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg",
                 "episodios": [
                     {
@@ -27507,12 +27506,12 @@
         "tmdb_id": 72496,
         "popularity": 8.933,
         "title": "Law & Order True Crime",
-        "rating": 7.3,
+        "rate": 7.3,
         "classification": "TV-14",
         "year": 2017,
-        "premiered": "26/09/2017",
+        "aired": "26/09/2017",
         "date_added": "2025-03-31",
-        "synopsis": "Law & Order: True Crime terá como tema principal, em sua primeira temporada, o caso real dos Assassinatos de Menendez — irmãos que assassinaram os pais para ficar com sua herança. Falco dará vida à sua grande advogada de defesa, que alegou uma vida inteira de abuso para tentar livrá-los da sentença. Jose Menendez, o pai, era um homem conhecidamente cruel e fora acusado de abuso sexual. A mãe, Kitty, era mentalmente instável e viciada em drogas e álcool.",
+        "sinopse": "Law & Order: True Crime terá como tema principal, em sua primeira temporada, o caso real dos Assassinatos de Menendez — irmãos que assassinaram os pais para ficar com sua herança. Falco dará vida à sua grande advogada de defesa, que alegou uma vida inteira de abuso para tentar livrá-los da sentença. Jose Menendez, o pai, era um homem conhecidamente cruel e fora acusado de abuso sexual. A mãe, Kitty, era mentalmente instável e viciada em drogas e álcool.",
         "poster": "https://image.tmdb.org/t/p/original/14T6cTwynqxU10e1cCnSc75AcNa.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/o9YZvh82gSfkZuScn4XM9xeNeCY.jpg",
         "studio": [
@@ -27527,8 +27526,8 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 10.0,
-                "synopsis": "",
+                "rate": 10.0,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/14T6cTwynqxU10e1cCnSc75AcNa.jpg",
                 "episodios": [
                     {
@@ -28113,11 +28112,11 @@
         "tmdb_id": 74606,
         "popularity": 8.1686,
         "title": "Irmão do Jorel",
-        "rating": 8.8,
+        "rate": 8.8,
         "classification": "L",
         "year": 2014,
-        "premiered": "22/09/2014",
-        "synopsis": "A série mostra o cotidiano de uma família excêntrica e extravagante. O filho mais novo conhecido apenas pelo nome de \"Irmão do Jorel\" é ofuscado pela fama e popularidade de seu irmão mais velho Jorel. Junto de sua família composta por seus dois irmãos mais velhos, seu pai, sua mãe, suas duas avós e seu cachorro eles vivem situações típicas de uma família brasileira no final da década de 80.",
+        "aired": "22/09/2014",
+        "sinopse": "A série mostra o cotidiano de uma família excêntrica e extravagante. O filho mais novo conhecido apenas pelo nome de \"Irmão do Jorel\" é ofuscado pela fama e popularidade de seu irmão mais velho Jorel. Junto de sua família composta por seus dois irmãos mais velhos, seu pai, sua mãe, suas duas avós e seu cachorro eles vivem situações típicas de uma família brasileira no final da década de 80.",
         "poster": "https://image.tmdb.org/t/p/original/uCIUYkw6zqEyaRFUMOeD5ZzeOq9.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/rI332PN8I3q8rZ6SzJ0CGAtqCzm.jpg",
         "studio": [
@@ -28134,14 +28133,14 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 0.0,
-                "synopsis": "",
+                "rate": 0.0,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/noVz6XUUlVtIiL4aBZjyKvA3ZfI.jpg",
                 "episodios": [
                     {
                         "title": "O Fenomenal Capacete com Rodinhas",
                         "episode": 1,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=GMs5QhUuDEZ7hY%2Bpx8jB5IbWHMTxLmiqnXEKnYkBN65TZHY1Zl3gjwX%2Fb%2FNt8vog&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=3867825033d983c5bb12fe3c18009fcd5ad255cd7824ecfc78a42cc71e376b1b"
                         ],
@@ -28150,7 +28149,7 @@
                     {
                         "title": "Gangorras da Revolução",
                         "episode": 2,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=nfZcKrCRvebbbb2uWi06mF5g6S9GWsEjdaq1A8HrGD8QRXYC5u1H9LdFuOmfOE1k&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=7f4e2a605ea66caf683f5829bebf616107cbff16bc0b4d9fe5ff65d51a42d203"
                         ],
@@ -28159,7 +28158,7 @@
                     {
                         "title": "Clube da Luta Livre",
                         "episode": 3,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Q7GT9jV7hGWU7ZMWWW1ySIgndy5Oz3zMuPRCmgw3JtaIOYl7ymYo%2B3GuiRyACMH6&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=1ee2520cb233b234adaa7f9980b9a4fde1007313f07ea0161b9af908ccc21bc3"
                         ],
@@ -28168,7 +28167,7 @@
                     {
                         "title": "Não Tenha Medo do seu Medo",
                         "episode": 4,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=AM4FDyAxeateqLzEMz5m5SltBfRgYFVVM3gQmXhvAWMxc43uJyu53rC%2BTRjRrvPN&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=21038557c8dc454fa8a00ddf216ccd433280fc4b061e88041f27c69beec7d17c"
                         ],
@@ -28177,7 +28176,7 @@
                     {
                         "title": "Jornal do Quintal",
                         "episode": 5,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=YZjVr5PgoQOgkbWIrN5yOKSCKgORk0wmxqXrfTa9H4%2FlTERSX%2BmiEZglTIXIQHIM&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=307517a3dc55a009cdfa71dfcfce2178b986af6af113558ee1e50524c35d58dc"
                         ],
@@ -28186,7 +28185,7 @@
                     {
                         "title": "O Mistério dos Bilhetinhos Ultra-Secretos",
                         "episode": 6,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Q7rQWm5ldBx%2B1a2%2FMpGNsRE1gqB27yDfcWYgpuTJkdN5su35GbgwCXWTzmq3X13w&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=765e899c514878a6ce2780efdb427f0e8875a94ba264ae963bdd701ee79c6f19"
                         ],
@@ -28195,7 +28194,7 @@
                     {
                         "title": "A Perigosa Lambada Brutal",
                         "episode": 7,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=eEbZBGOWn2AFez4Jp5x1g6PAwlWa5H%2FK0wfcWN9dTNFIvcamwfU4F2JrwC4utnk7&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=67a2f9d09ae9bb10a52b2abe4fd67a6f88b2c0687efa53c2e51bb44542cd8f6d"
                         ],
@@ -28204,7 +28203,7 @@
                     {
                         "title": "A História Sem Começo, Meio e Fim",
                         "episode": 8,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Vs1Bl0O0HKVT0R0GjKKcz22TheXGr3tvMsu8Nn6d6m%2BOCB%2F72XBP3vKyfc%2B3oEKX&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=963b20b54e4562d01c22db615554cf35d8dd264f8be15b735b8231ce32728ec5"
                         ],
@@ -28213,7 +28212,7 @@
                     {
                         "title": "Expressividade Máxima",
                         "episode": 9,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=C7xIA4FumEUg0HxXjjhnzbRpCSdxGMpc7gJdg8ceNkrcbG%2FHZzvkLtdS%2FdcL%2Bfm5&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=99abdfcc4a26ed20f6a22ccd2ab51a351a0be30af62523869aa501cd8a251721"
                         ],
@@ -28222,7 +28221,7 @@
                     {
                         "title": "O Terrível Ataque dos Piolhos Mutantes",
                         "episode": 10,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=PNXwWATFvaXqQ7IQG1IWR%2FHkNXvC80WUIEwkE4DbAWSKphHy7NFRArVDey5EZOB1&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=b3d944db96a69c73984bee3ccfc1b2ac23370a8d8075ce440d44a5400d25015d"
                         ],
@@ -28231,7 +28230,7 @@
                     {
                         "title": "Natureza Totalmente Selvagem",
                         "episode": 11,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=BVHfmC%2FoROdAytfshWg4ol46SDYCf83hnYsrvd5ZQwXBdpR6pIeCHkiJnXCoBQg2&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=1c76044c74d43890ea07659818675f4c604a1e8a785c354cd044f44218719649"
                         ],
@@ -28240,7 +28239,7 @@
                     {
                         "title": "Jornada Matinal Implacável",
                         "episode": 12,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=RouJJulQTEbB8zDSj%2FbCNjuCe7AKhSVmSjXD%2FGm8t%2B8u%2BENznzAzbdpbi2UdLEP9&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=b8eaf4768aa1254cd889318073bd2e8ee596ee5691a6770323602c2b7b7fac86"
                         ],
@@ -28249,7 +28248,7 @@
                     {
                         "title": "Aterrorizante Vida Adulta",
                         "episode": 13,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=HAZSB4aVFVNfrqXcfoQZjCS4gzCs1zA225uDybOJb2tlPKXZ%2FKr47R3CYV07ShlI&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=7ee9e06dbfeeed7a19f97ef54a96d74cfa7f619fae16c913f2e46cc667d38078"
                         ],
@@ -28258,7 +28257,7 @@
                     {
                         "title": "Caneta de 250 Cores",
                         "episode": 14,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=g3z0TLDnx5Y8zRSb1ukrwYXlQVGxGsHUliE%2BFSNgB37FX8q2l2EK%2FkcX9WuUtz0r&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=984b208453ddd3521a552c64c7b1921aad14da9c484d6fe2ba512df14a757010"
                         ],
@@ -28267,7 +28266,7 @@
                     {
                         "title": "Embarque Nessa Onda",
                         "episode": 15,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=FJ0nqQHa4pHTZ9ShaeUF1T24FSV%2BTr8ukXdR4gHl2nzurSauhZsFQubt9987qTxX&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=52f13089b7e9b1b8f60d591ffc2f2be3412309c23ddfe9dd899a80dba48c51dd"
                         ],
@@ -28276,7 +28275,7 @@
                     {
                         "title": "Profissão: Palhaço",
                         "episode": 16,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=0%2FueOqUxtMRsLeL%2BTxILKFG9yXF0REQ8ybAeaH96R0pP%2BVLlLiN3X%2FivVRh9OUGh&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=a01965ef5d15d50e8ac46a8ff874c99ae016c1ea6448f06501d3a41c3f817299"
                         ],
@@ -28285,7 +28284,7 @@
                     {
                         "title": "Uma Odisseia no Espaço Recreativo",
                         "episode": 17,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=z12gI53LaqDb4BOgtvxXrRxoNZyx79BImQDBkEJ1N3hJ%2BPGVnYxSXlT05aqjQ6td&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=31db4c2cdcbe4f17cbed914125aa7ee52173477f0a4f480950ba46a815bf6c3a"
                         ],
@@ -28294,7 +28293,7 @@
                     {
                         "title": "Os Caçadores da Figurinha Perdida",
                         "episode": 18,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=wCe276w%2Bec2noD1E4WqDwovQCdxU6YM7zV0MRWDm%2BlnJoL3UjADaBAvr8cWm149R&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=eec74fb45a267872acad940641e4444bcd25debe8bfaac4c3a8c6b58d6bec99b"
                         ],
@@ -28303,7 +28302,7 @@
                     {
                         "title": "Gincana Mortal",
                         "episode": 19,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=YWUsd4jDO1B6SV2fAFtAUymyUz7VgK5RVGGVyOkfgvR1czG74QmJTdwG2qZfslQS&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=c1be72e31ad6166db3636e312e2ce461140fea018fef27414bf2ef25b630b753"
                         ],
@@ -28312,7 +28311,7 @@
                     {
                         "title": "Ilha Doideira",
                         "episode": 20,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=JoN3V%2FqSS9UMobw13GVegHmdagmz%2FFYGSufQGDIZussU4QaiAX8weEfqHM%2FtPh61&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=4cc49dbcb4746e49ff095b78ecf864dc9c5fe4bf8cf6838a7f71e4b0e6178e0c"
                         ],
@@ -28321,7 +28320,7 @@
                     {
                         "title": "Os Incríveis Lateenagers",
                         "episode": 21,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=hRwqNUeL68Gs%2Fm7Bcxl09Hog6dp9sfPkS02Ob2kWTY7B07SA131JHqbHYPvlyPmB&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=e80034eea8254ddb6f5114bca57df6dd145bc4be6b7ab2834e9c98393c61158e"
                         ],
@@ -28330,7 +28329,7 @@
                     {
                         "title": "A Lenda da Mulher de Algodão",
                         "episode": 22,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=shzDUJsmhPkVR62H%2BJda0gvxvf%2Bv0mFUn7hCSohew4z%2B9l%2FsP3wEyRBoRnL0MX%2Fx&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=fceaba89d004a37165e707820f9b07c74545e6d92bc0e9ef2e747beea7fd6f1e"
                         ],
@@ -28339,7 +28338,7 @@
                     {
                         "title": "Família á Deriva",
                         "episode": 23,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=iI5wZDgwn8HmVTy84nYijR08uTnh51nwIkLvC7wUH8QsRrxEL9kca2irg3MYeEx1&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=3dc62ab52c8f9adeb3855abaa56f7c82943d4690351be1858c5569f490ec3978"
                         ],
@@ -28348,7 +28347,7 @@
                     {
                         "title": "O Pequeno Mestre do Gi Gitsu",
                         "episode": 24,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=0U5idwhM9trUjk6%2FRUSJodEVFdk0%2BHvhGRRVvimEMQGQEdlpsPDDAzYj3DxDFWqN&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=d5ad1336f14b694b9fbe3b5013c06ea7cd72893ca4ceb13ba953611e6f98a253"
                         ],
@@ -28357,7 +28356,7 @@
                     {
                         "title": "Fúria e Poder Sobre Rodas",
                         "episode": 25,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=zufVBhWaVdigXzAp8X1KajD3%2Fx8P%2FFQQEXTtLBdH9Tf9doQj9L2rLqH6stcB9Dur&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=400e2410289a56efe82c0e87ad278a6b6cf159b28631d7384a39e2c47f56e03d"
                         ],
@@ -28366,7 +28365,7 @@
                     {
                         "title": "Meu Segundo Amor",
                         "episode": 26,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=N53hc54kf4%2FqH9Sjv1xbyc%2BkUw1RxMHD%2BI%2FbypUo9Mvq0KigUi%2F68vq93XzhF1nZ&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=d5073fa604248f8facc864a3e2e1040285006474ce11bcf5696064dadd914fe4"
                         ],
@@ -28376,14 +28375,14 @@
             },
             {
                 "title": "2ª Temporada",
-                "rating": 0.0,
-                "synopsis": "",
+                "rate": 0.0,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/xswzVge20s4Ib9XQPCrdQfeBFSj.jpg",
                 "episodios": [
                     {
                         "title": "Carlos Felino: Conselheiro Amoroso",
                         "episode": 1,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=zZvrxrNyEVTQ3FrUQht10qY%2Fw1nmZleNtbG3h9Zq%2FtGvB8UIlXR%2F0Kqz3JmwG01o&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=967a8dc7f30e3b24b401274617293c152fabd6d2be28e898b2893666277fd315"
                         ],
@@ -28392,7 +28391,7 @@
                     {
                         "title": "Fluffy, O Golfinho Assassino",
                         "episode": 2,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=g9Dx%2FbYfVEwWE70mN23tGXg%2FPmIVqUE%2BMAwtKp5YdTUasvrEw1IdFTk7hFLK5vDS&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=e2d651da09dd8d94fabd3188bfae62e3aced49de9cf5273c4fbdb87054a0ca19"
                         ],
@@ -28401,7 +28400,7 @@
                     {
                         "title": "Shostners Shopping",
                         "episode": 3,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=%2Ft%2F%2Fn1c46WComgre21NEC0pcb1z17uUW3nw0q11rSJs8gIl8IY6Wiz%2BXTTR2KMDO&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=873e2c9922e8621a0dee56411a77780d84e5cfae4a78011bebdb15e8e1244d42"
                         ],
@@ -28410,7 +28409,7 @@
                     {
                         "title": "Consequência ou Consequência?",
                         "episode": 4,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=48eLFuYnfhGJtUUs5gNLUSxmheJ05hqefLeTJ0YLFAu2l9UFjs406OxfF2dkXv3w&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=d2b209d6f7c78536dd843220ae82aabf078040bb78003ca9030bd8dbf3428a7a"
                         ],
@@ -28419,7 +28418,7 @@
                     {
                         "title": "Através do Guarda-Roupa",
                         "episode": 5,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=VmD12sCdDmv75nFUXz9AlUN0F4CzXefFpEeKs%2BQtjkAzQ7to4bpikzQ%2FqmmqflQb&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=55ce973a67cfc4f96c51576833e6279fb0b1ec90ab3c84c06f2762597bf3f69e"
                         ],
@@ -28428,7 +28427,7 @@
                     {
                         "title": "Excursão Alucinante Sem Freio",
                         "episode": 6,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=TgnxEn23J2HU6SgPwBz9vbyulG6JNhkuNPdw%2BSf%2B4aVcZPLc8WjPyZpU%2Bkphj80O&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=ede98a336c75a671f3d69f03aa86425dcddc6dd521e517b63dd3837233b7425d"
                         ],
@@ -28437,7 +28436,7 @@
                     {
                         "title": "A Fantástica Fábrica de Refrigerantes",
                         "episode": 7,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=qfYw5mT6%2F3v0V0Eihthn6K6evmNRXB0ts%2FpZEniojx8umCrB4DYW73m9fh5CHVzg&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=bd4fbce7e1125f040248f9534918f8cb4e32f63b1016a33e7f27ef89b6e2d4b5"
                         ],
@@ -28446,7 +28445,7 @@
                     {
                         "title": "Acampamento Brutal",
                         "episode": 8,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=C7oqHm%2By8Ql4T40CW5fRMVajcXtaB3c4hfegSI1h9JHP05tcQJOlUv6b74UxtO3p&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=0aa1adb29fa5306cc1f19c723c57588d6d4dbcc05549a8d713c91aacae638063"
                         ],
@@ -28455,7 +28454,7 @@
                     {
                         "title": "Então é Natal",
                         "episode": 9,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=WPuXO1J76rbv0Hlgy7HOCbjObZHeX4gAfnkIY2VyQHWH9sqfRWora24mL07v0y1u&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=ddc834689e5abbb39a8a3109c23b0d9046d6e5f0aa05cdf2b79a3d8549177d86"
                         ],
@@ -28464,7 +28463,7 @@
                     {
                         "title": "A Vida Secreta dos Belezitos",
                         "episode": 10,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=5V2gayP0muzC7jiH0zr0z67Rq9bAHn2PcUglqADi4proyHpBNhOq4NZ1Njvb5Tfa&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=af2adec2765e7f97068d335ee7551a20b76ed1387b8d866c3113e0792205be8f"
                         ],
@@ -28473,7 +28472,7 @@
                     {
                         "title": "M.C. Juju",
                         "episode": 11,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=9qNLGLoxPx3I%2Fx77GXhWhzsuSuR%2Fo1%2FNy9qlUpBm%2B0t8xyhoMdyczDb9%2BjPW56VK&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=a2a7693c8e005f0ffad2b6ec12d4ccf66449d4f679281694a19721474e0dfe43"
                         ],
@@ -28482,7 +28481,7 @@
                     {
                         "title": "Embalos de Sábado á Tarde",
                         "episode": 12,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=wjOKfbK5wnQljtpjioaszAgFud83aYjJ6Ypmq%2Fo8NcHuPY6BEOKQZ%2BkiTM3XN%2B3f&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=417dba554a17d63202f1d89731af10f38fdc969bb4f722991775159a06a822cc"
                         ],
@@ -28491,7 +28490,7 @@
                     {
                         "title": "Sucesso Interplanetário",
                         "episode": 13,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=EZIyx9u%2BgMC7ZN3DNCNkEWeQHL84PjyYIewcwfep7GukillNbCukaBYTAUZu9SL6&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=ba88f0204c198a2b4fdd8e1a43628076fb5e7100ba655733f61498adb45810f3"
                         ],
@@ -28500,7 +28499,7 @@
                     {
                         "title": "Maquinito, o Robô Amigo",
                         "episode": 14,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=n46gS36JczUv2jNqV%2BCU6je4%2FN8KabAQD3nXwEF7KgJPsbmcNErcynocKZp8xPb8&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=9a8a1061f3e5a7ff52db99335f4e2dd2d1acb6060710600e5fea422c20dc9196"
                         ],
@@ -28509,7 +28508,7 @@
                     {
                         "title": "Sedoso Cream Double Cream",
                         "episode": 15,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=VIQ%2BBQjlWaVV0tB%2F4viwGGZTHE4n3THk69hXwZ%2BK6t4Z4kxDBZr99hUPbnHtIZ88&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=803e17fc3e00efabbfa03379c7ab549542068e52e6def9d82dfa722c23a41134"
                         ],
@@ -28518,7 +28517,7 @@
                     {
                         "title": "Shostners Burguer",
                         "episode": 16,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=dLGLDbPpENb4BouOLMNmS5vSKiFmUKC%2FrRfkju%2Fj1UTQ95yWuFWwJOIr5%2Fp45rNj&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=a52bfd7b1f3a822c6e33ebf150418375f1655adf7f363650b6944770355e405d"
                         ],
@@ -28527,7 +28526,7 @@
                     {
                         "title": "Irmão do Nico",
                         "episode": 17,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=6ZD%2BvZRb7LnaZsw9dRWB0tKjKI%2BoG%2Bgfj5hhn0i%2FXIJ10%2FbqNGPQGFn9CtYV7UaG&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=61f445728e8ebaad8230d2ac94d2fec70f7b70dff9b51fc3871c4cce5f56c820"
                         ],
@@ -28536,7 +28535,7 @@
                     {
                         "title": "Perdido no Cinema",
                         "episode": 18,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=80omcNv0ES%2BM0t6hrDp081dpE1toU877SbYKXele3gGuafWLlwOWIT9hx5nRYPyQ&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=cf4853621454926578d7431facb4f8782dca742ed11fa641a509892b94c3f252"
                         ],
@@ -28545,7 +28544,7 @@
                     {
                         "title": "Adelino Adventure Park",
                         "episode": 19,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=UmjFBc6VBT9ISfb9ll5qPLTB7c4wrVTLL1IJjumZfGnKHHHpXB0TpaDiuLUbYzRP&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=f5050a4e7166374e5f1e557083f5091075183a4c54c728b015579a0489ba6897"
                         ],
@@ -28554,7 +28553,7 @@
                     {
                         "title": "De Volta para o Futuro do Passado",
                         "episode": 20,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=69oErBxAC7hgZQ%2FJ%2FfEie13lg%2Bg9f6KYdGGEfsJgprG1wbMnnC2RgX9xtAVakViZ&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=31baf1fc3e673c41b37f537edc60fcb449eda14d1b49ab25b9d786f57e400890"
                         ],
@@ -28563,7 +28562,7 @@
                     {
                         "title": "Recreio Brutal",
                         "episode": 21,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=BAlp63eaLSkXcml%2FvIu5KZTWAvWe7k1Gh85TPuQXQEvdnKCaF24OXZb548dKoLcQ&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=248661f80a2f0a9e49e3ad868349300fa754bfef6fde2915f8085537777675bf"
                         ],
@@ -28572,7 +28571,7 @@
                     {
                         "title": "Inimigo Imaginário",
                         "episode": 22,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=0LfnEhPmOH0Us4880YeAudXCBiZTtSW1ySnE%2BQVJZ8zzE5o%2FwMoCkogtALkQkNA%2B&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=1e8933c736ed1ebfdaecd876457981711e42504492f50563c1d8e88db066b0b3"
                         ],
@@ -28581,7 +28580,7 @@
                     {
                         "title": "Em Busca de Liberdade",
                         "episode": 23,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=FKrebtsWmuBgvoYuLUU0Kp67lDVCc0gdA45neEG3B%2FPkZvEcRcm8iBNuDjtRdyLE&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=599d015010a629d1deed8807b9eb111d7daf0237678e8ed95d17472fe1b0e603"
                         ],
@@ -28590,7 +28589,7 @@
                     {
                         "title": "Elefante de Porcelana",
                         "episode": 24,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=jIpwSAJmXN8QxnI6HOz%2Fvt%2FFCRe4Nf8e9BlfQAOkIEhcnxGyU1qsZQvteLKQHYXe&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=7febc160b4a942fb4d837222074ba180c302aa49c22bb13e19dc01ea83e308e8"
                         ],
@@ -28599,7 +28598,7 @@
                     {
                         "title": "Dormindo Acordado Dormindo",
                         "episode": 25,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=6ckyjPIiWyhR3jebqzRfqNPDwurt0fTLfdTCRyvYB7rRTFK%2BZls7F20jC7iNGcXn&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=1b5462f5ea1228fc75b927879c98643570e3e044b3ddd790c74aacccd16fd568"
                         ],
@@ -28608,7 +28607,7 @@
                     {
                         "title": "Eject Especial",
                         "episode": 26,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=rIcWXNou1ODCZ2rDLSP9DE8lZWOyZeM134n%2F18wfv%2BiaLr%2Bbq1ZykOVUBXd6ZHjU&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=c7b966dc75e52491d568db22c418f2bfa06566492f0dead78a8656fdb318310c"
                         ],
@@ -28618,14 +28617,14 @@
             },
             {
                 "title": "3ª Temporada",
-                "rating": 0.0,
-                "synopsis": "",
+                "rate": 0.0,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/qeLEsGZMr7mQGODeUO3X1rfDlK9.jpg",
                 "episodios": [
                     {
                         "title": "Jardim da Pesada",
                         "episode": 1,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=zZAdTPVzOv%2BLQPKPIZ3lDtYR%2Fb2B7e4lO5BxsUrNhoir5KkQ6Y4kxXMnH987dLN5&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=011592e946a3698ea4392750a175a765e7ccb8e14e68799388ec3973e89b44ab"
                         ],
@@ -28634,7 +28633,7 @@
                     {
                         "title": "Irmãozinho do Jorel",
                         "episode": 2,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=O9SbxS1j%2FmYpSSl6fbe9MpdzUZlhgXVSZyAJzVcyql0GtVfbPsOFlvDVd5ORh5PH&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=bc503aa4f08dc528779f93a2ddeddc033e09abd812959774354b8b873f8724df"
                         ],
@@ -28643,7 +28642,7 @@
                     {
                         "title": "O Dono da Casa",
                         "episode": 3,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Jfq4bjmO6%2B1IMFzGyogjiwKs2xkD1%2B46f8BpypeuTRqrkBvAlIM%2Bb7zh9%2BAHEXQq&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=7c7f4458ca6d82e144d70886e04ffc51da3c10f3db9efd19e34373f28ec665fb"
                         ],
@@ -28652,7 +28651,7 @@
                     {
                         "title": "Ed Show",
                         "episode": 4,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=cYfGQEdublWqEjlbP31o0TmN93vL%2B6krjnADdMyVS2nqJQNmHQSfAL3Y8fEyuoAP&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=852b332de5b60bd4b5a7482e28cf5559539c7088c669e17532d80eadc79b2c1d"
                         ],
@@ -28661,7 +28660,7 @@
                     {
                         "title": "A Pipa Ideal",
                         "episode": 5,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=1B6uG4wwpzBjv6l8GG5uK1GOV13zhVeETqH4hdkBD2BduT5J0M1c%2FKnU4ZQgzRgX&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=f27080c6a80b6564702b58861df518a83a7c5dba3c1dc9a4fc9cb90eac6690c9"
                         ],
@@ -28670,7 +28669,7 @@
                     {
                         "title": "Disputa do Mais Doidão da Escola",
                         "episode": 6,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=AalB68xiOdw7kDKBaHoemLYK4849iiXe0Npx9NLYtBr8SGQerzdmERDFvt1gp3lg&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=77d13e927213880a15cb4a6c60b36528e7d9553a1c72e0df556613a6a76c453f"
                         ],
@@ -28679,7 +28678,7 @@
                     {
                         "title": "Vovó Me Leva Pra Aula",
                         "episode": 7,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=fQKHpqxKjToryF%2Fel2S4ClcbA2Vvuku%2FkHUQ3kc7Sxv%2FwLYpQgtulZWpi%2BGoYUkZ&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=691aac18a36f6a28eafdda6329f0deaa66dfe73220a9002f45a4b3e6647d7f50"
                         ],
@@ -28688,7 +28687,7 @@
                     {
                         "title": "Soluço Eterno",
                         "episode": 8,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=0U%2F2UGbhC6Qf4e7kK1Edb9NTky4Vq5KCRagyHJ90RXdYx9haftjuer%2F0Aq7zEpKT&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=53769bfb823feb5ee1c37ab7a5c470d2c0410e9c85f2b29b2e55452382881218"
                         ],
@@ -28697,7 +28696,7 @@
                     {
                         "title": "Seja Brócolis!",
                         "episode": 9,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=iBcU60kOyfJMwSmAGxkcMaueMEMKrcvSMC4FV2NSDdAOKsnN2iidB0C8PVkjN52x&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=ac9fa08143806e46002b2b8ef3356d9fcfb21bf71ce2835a8f86ba4c47d55036"
                         ],
@@ -28706,7 +28705,7 @@
                     {
                         "title": "Shostners Cable",
                         "episode": 10,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=oz6iS1MbvTpGKTKed%2Fnikq60%2BpkN6dtLWs8CSQq79R2MWQp88xrPmbo0S4pHNaFM&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=54ef627bf1034b1b9b7a6f288ce17c6e41aed8e808b993ea5d4e85bd489fd605"
                         ],
@@ -28715,7 +28714,7 @@
                     {
                         "title": "Enquanto Isso, no Japão",
                         "episode": 11,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=1Nlsm%2BwuWJLzUnbUpnPSx8DfFkrPYserSTTn1BwxbFWJd%2FOc5TgXyKLxQWyPnXig&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=dc75c260655bc63803bd79d25622fc4dc3f0ca7cebbe7d50a7144d86fd4536ab"
                         ],
@@ -28724,7 +28723,7 @@
                     {
                         "title": "Cine Horrível",
                         "episode": 12,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=FyIrwQo74cJ8F2ZpkFuwQoa%2B6ZAiaJPRdA7fiftJ81JNMbsll8FvSd99HHtN4Kd1&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=a7e0b200a3a836e1f10153af4e8d72c3f62283029f7a6ff5a18f89322998e5b4"
                         ],
@@ -28733,7 +28732,7 @@
                     {
                         "title": "Zazázila",
                         "episode": 13,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=zuuXiskcd40gNgf%2F3kFFjxdnoeerlkvLekXWkSO5lqycMS93yaPXJa0jmu3TrgWa&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=2c69845ef76d014849fbe2c4d9b1dfb2255960da8910cc1fbe052d388d42ff3b"
                         ],
@@ -28742,7 +28741,7 @@
                     {
                         "title": "Jornal do Quintal Urgente",
                         "episode": 14,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Rfz0dDlz8MymWs0bkiHm7vXfd%2FgYmR8ZpSj7s7PKMdVuj%2Fe5M686QeJ5nCdXj4sl&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=8bfbd1b0f2feea8222d8a802065b78779d051668f7fe00b373fa524c110d05cd"
                         ],
@@ -28751,7 +28750,7 @@
                     {
                         "title": "A Vida é Muito Curta pra Gostar de Futebol",
                         "episode": 15,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=vFt1ACc2wl9EDzd3nG6Z5G9rMw9p%2BH9eDWu%2BMoiDN400qsCzlxpgGCmeSX%2BxxH%2F8&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=0374047ee04ed1c15ed48a549fe0fc3135852dd514c2dd0cc8541c55d8a49411"
                         ],
@@ -28760,7 +28759,7 @@
                     {
                         "title": "Carnaval a Qualquer Momento",
                         "episode": 16,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=BB606XF03d7dj9rIWnypnowmhAuBbezAt9q65LL90vlhgJG%2B6wdgEtfl4rATVBrQ&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=b4f5fb43efab77ee261417079cbecc08d82df35c590589d6e30a0dbf235533a8"
                         ],
@@ -28769,7 +28768,7 @@
                     {
                         "title": "Steve Vs. Sidney",
                         "episode": 17,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=N99Toqwv%2FsN7hrOyldjlwsqgVkqBlMxuaRauGt1ivIIOH2SE9Atc1j6%2FPQ7wnpkB&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=b7702904fa1635b4b1774eff9b873eba4b41c5f661bc56090021057cc3124a42"
                         ],
@@ -28778,7 +28777,7 @@
                     {
                         "title": "Meu Amigo Vicente",
                         "episode": 18,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=tgrnZlz3Twdkx84WjwJJ6iAofxzkV8x%2BMks%2FmsqQS2Bbo4kNo9uj7I5Oo3%2FqcaBB&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=4d52a00e277f9d3ed7e94c5e82305919ca6ebe6c57794794be772deb2c1506eb"
                         ],
@@ -28787,7 +28786,7 @@
                     {
                         "title": "Revolução das Coisas",
                         "episode": 19,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=7B4ftnu9hHnRjl1rh1dJiSxiTU0vClX4aFtoGtyzHSpIzkNMeaWTbvuT46YIDa%2Fp&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=697bedf6e68567cd9a7ce001a3d661297d45b0be7edc37be765c731d15aefaac"
                         ],
@@ -28796,7 +28795,7 @@
                     {
                         "title": "O Clã das Sandálias Voadoras",
                         "episode": 20,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=HoTHceTO5KyIPsrkEyWhaVXOaJWBWa8L7awKQsSCHwaWjEptqA27PKQEmaif9Ze6&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=f92f958438ff07d27939e9f401d30aa87e4b47aef1a5c396eb76b9e9b17d269c"
                         ],
@@ -28805,7 +28804,7 @@
                     {
                         "title": "A Última Vídeo Locadora do Mundo",
                         "episode": 21,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=HQZWU9j%2FRUBK0n2T6JjQbCW1XvR5jUaglQROJuDSS1dl%2F72nkQQWd5E2ULFYGKaC&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=600fe41f15c82cd11f2a8112d8c490e828b2153bbf8d05c900a3cdbe45c4836f"
                         ],
@@ -28814,7 +28813,7 @@
                     {
                         "title": "O High Five Perdido",
                         "episode": 22,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=HHUQtNOeorz3MQygXo7H2XzC%2Fw1uw376uuXcR04JMLaTe%2BUG75gopHywFaUSlOyz&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=981feaac3512cabc8a72b84a01213e9ecfbd5159ee8d180e1559ab51a82d4fa6"
                         ],
@@ -28823,7 +28822,7 @@
                     {
                         "title": "Pombo Boy",
                         "episode": 23,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=ZkUOmSqXE4Yh3GleAhvHOdgs3sVzp%2BezPsf7HUK%2FBfECClTRR%2Baa7OwT82XZKu05&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=92e166e9fc8ece294fc42d26fa44e684ec375591f19908c7c0afa01738e8ff76"
                         ],
@@ -28832,7 +28831,7 @@
                     {
                         "title": "Hashtag Art",
                         "episode": 24,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=MZHHEVZxurzqp8cAD6HRmAYUJwqWgUE2U630X7tuRHZLAdKslmUIxn%2BQEpF8sehn&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=7b8a4ff2365cb3ce1442773fc72446e7678faf34e548dcd86dbe4fa7c88a5d9c"
                         ],
@@ -28841,7 +28840,7 @@
                     {
                         "title": "Curtição sem Limites",
                         "episode": 25,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Vb9a8kkPKrQ1OGcNI%2FM1I6LSSln7ugRrDnvZtXEpp0Ycn78mV2nDG0z%2FBsdnw8a%2F&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=26103394c67a29e125c37ad0136043f315d9e1cde464deec85f3588bb5cead27"
                         ],
@@ -28850,7 +28849,7 @@
                     {
                         "title": "Rock 'n' Spro",
                         "episode": 26,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Al5pkUaIPPjZ62DZbti7osbMFe1wGPMZnQXsvoXQu%2FIPigrRAvtARqSJrEVi%2BtRZ&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=15c0c581f3a784eab440defa7771294edcf9d9efdc50f19b0c00cbd9659e751d"
                         ],
@@ -28860,14 +28859,14 @@
             },
             {
                 "title": "4ª Temporada",
-                "rating": 9.0,
-                "synopsis": "",
+                "rate": 9.0,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/oT58ixhiiN3Gw5dvmWNshvEhJDL.jpg",
                 "episodios": [
                     {
                         "title": "Em Busca do Edson Perdido",
                         "episode": 1,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=IRTp6lXzKkibRi0E4KMZYHPKohKT9nsadbI%2Fsye0qHt%2BSkN5YXXZrxwnmthHW9Fi&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=d19500c94e19eb2523ba1208ad7500d63346cae41e47a180a660b9f68510d8ff"
                         ],
@@ -28876,7 +28875,7 @@
                     {
                         "title": "Apenas Felino",
                         "episode": 2,
-                        "rating": 9.0,
+                        "rate": 9.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=n6k1YozJmNdl%2B1WJVn0pA7cjQnetnSnlJYPUsi6BIF3PO4k04KzmBBPYKyPn0MMC&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=82f71634817037fc8f4a5b7b29a4d082f1f25275951a448590c4ff20e6e9b713"
                         ],
@@ -28885,7 +28884,7 @@
                     {
                         "title": "O Maior Videoclipe de Todos os Tempos",
                         "episode": 3,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=vaLGfL4t6pds%2BWaxGjA%2BpJ7bO%2BsBuiO7viKRZS%2BpDZM5m%2FX%2F4hB6t2hz28eWk6mp&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=a2797a850de7ad7adf46969167aba3229720bc784576f77a03ca715a58c8ae87"
                         ],
@@ -28894,7 +28893,7 @@
                     {
                         "title": "Danuza Vai à Luta",
                         "episode": 4,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=3sbroNbHL5aXnYhKfOVPCDQKU5Qchc6adMatIp9AjfuTzctYE54QqQ5BBI3gPLm9&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=2fa85b0883bf535831be0efae639a986449d95b40cac86f18c1a9f47ad124f1f"
                         ],
@@ -28903,7 +28902,7 @@
                     {
                         "title": "Ladrãozinho de Shopping",
                         "episode": 5,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=qM%2FXsaytNHQAUmHu4Vh0p8ZIDaJjlAY9PGWAyAfZ7tFb0%2FvuTbrEB%2FtVikJoM5N5&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=bb31d7274d1cf7ac80362da70275762a3517057de6dbd8d51fa6c2b45f081eac"
                         ],
@@ -28912,7 +28911,7 @@
                     {
                         "title": "Primo do Jorel",
                         "episode": 6,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=lYFy7nxqG%2BCEvnwdVfO36tmML9Sr4eMmzMnSOoxJz%2FeK42%2BkVed%2BjbJ9tx3qOdzR&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=abf724de0bd32b322a766d7d7f8cef8fc82fb9cfc4e8a2db9962dc1f59681d20"
                         ],
@@ -28921,7 +28920,7 @@
                     {
                         "title": "Não Diga Não para Meu Sonho",
                         "episode": 7,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=j8msmt9AM3V5Z%2F%2F2D1etnVudQ6YccmKsw8pQlxzLvs73gx%2Bh%2BSNUOrgtztXX1RBD&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=06c7e070b0403c3ecca36fb4e2fa392b9836c8c31987b7ec9779fb70daedee95"
                         ],
@@ -28930,7 +28929,7 @@
                     {
                         "title": "Fortificante Mendonça",
                         "episode": 8,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=wCiaF4eTMhzyzY8Y0VfCR%2BF%2F2MRrpX%2FJqYRltrGFcYTJAGtUPcdbjx99zzUsZx4a&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=a7d9137e4f65dfedcce27c6e01a262f11140d8ae94446bd7ae197b4751267d1e"
                         ],
@@ -28939,7 +28938,7 @@
                     {
                         "title": "Menino Ferido",
                         "episode": 9,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=S8iOLWpb2vDkr6RvpP7w69kdukggCkR12rIJmKM4IpHwrLm%2BwgWmFk5kV3fQAqyg&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=18b47c63581e5cb9fbc510cbaa055062c965503fa7b6808d9ba90bff3bee31c2"
                         ],
@@ -28948,7 +28947,7 @@
                     {
                         "title": "Shostners Games",
                         "episode": 10,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=v7GH8QQKS8quiTNYnOw6HRDQfWFfEVZuydMdKn5rFNWpNHc1NbB6QhrFzD9Zvt8u&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=c395145692f4944e7a08ad1b7329eece7871ac4e56d43d7c8454640c25b2319b"
                         ],
@@ -28957,7 +28956,7 @@
                     {
                         "title": "Vote em Mim",
                         "episode": 11,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=SBhGiLDlzyIPUZG7jN6ayEIaL3PvQleSOsTHO89il%2FzpSL7mPZ1YeWl2wkvIyBQs&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=ffb211e3cee62a4718fed10f12469e6a4ddc040ee4dcc095e1ed0721c96acaba"
                         ],
@@ -28966,7 +28965,7 @@
                     {
                         "title": "Colecionador do Futuro",
                         "episode": 12,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=RcW4xWdZbEle62yQ3b%2F9E%2Bo3kOs4pdTEeK7GV3kmUF3l4CcRB%2BZjfWbBQwR2NAZM&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=c229ce55d07bc78435830d8d4df834b5f0ede78dc6b3ccc86700fcf0898d869a"
                         ],
@@ -28975,7 +28974,7 @@
                     {
                         "title": "Gesonel Detetive do Tempo",
                         "episode": 13,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=fiDg8OmtRoVRQKySvw%2F04R8gJQWl3rOuGrkYitDPl2DbAtbrynLX4pNl9lQJJ4yx&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=22cb6df6d9634860d21098443c0d407dfb7eea9b4b06a3ff288e2f1d9b535599"
                         ],
@@ -28984,7 +28983,7 @@
                     {
                         "title": "In English, Please!",
                         "episode": 14,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=wxws3p9ICEpIWHAdvOsUwM5ejukMSZG7T1UINznXhpquVWHWOyXeFpH1eFqXn%2Fb7&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=a628f8f6f415a92dd0e4f5e180f073c9726068e063ebe2308ac74244786da7f6"
                         ],
@@ -28993,7 +28992,7 @@
                     {
                         "title": "Judoka Kid II",
                         "episode": 15,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=%2FYN1S2FLcoqxrJUQekrwSYUZWSq7NiGgVAK49NXAH2UmtmBAfZX%2FUw2t5HnRXGxA&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=b90c5bca57f57aab7aa162dfc3fd3ec00548760a3c2af36f69060ce6ab6e9a66"
                         ],
@@ -29002,7 +29001,7 @@
                     {
                         "title": "Comitê dos Patos",
                         "episode": 16,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=cN1WGHGrJPNwAbHoVQazPXQ2FcPnD9YaZp%2FtuDau9YnHO7jyRkwZWDvwbmQ6Ei4v&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=3a79d50d0557dab98edd6f148da62b04fdc6bb90b84b60eb863b015b2dfb04d3"
                         ],
@@ -29011,7 +29010,7 @@
                     {
                         "title": "Dente de Leite de Vampiro",
                         "episode": 17,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=e5vUrJkmBlAGvKor9crWFLeJZmHjiTPIHBiDGSa0NJRQ4JRZwHQiQbayjxRFNq70&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=71a80a78f458eceb641f79ac0ab7648f0d5b116aa1b6a5175625b5145d04d12b"
                         ],
@@ -29020,7 +29019,7 @@
                     {
                         "title": "A Revanche de Kleyton",
                         "episode": 18,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=NBzJrwoSAJpTRGQ4czjAn%2BeMOzBzOfCI2%2FuEbUTwbewZpZtYd70gvIEYirJQQWU%2B&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=5287ffada098d513eda355b59c64e26d917fc18569326975c92e58422f2278cf"
                         ],
@@ -29029,7 +29028,7 @@
                     {
                         "title": "Vidinha Show de Bola",
                         "episode": 19,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=uajbbwflnn%2FQQImi0D7lZbAua9BKz5V5KHrZ%2BD7kaxW4%2BuTdLQNp%2FJUCiYzBQxUe&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=d2e8fe6f1cc0959b207e3117a40bf6ee69858bb1e7f7b42e7a6b51d70db88a4e"
                         ],
@@ -29038,7 +29037,7 @@
                     {
                         "title": "Jorginhous and Dragons",
                         "episode": 20,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=24WNE00G46u3J5AMG4Zp%2BIdpnwLRWUqWuR2baDv2PwZW0n%2FEvUdt2AWsONphLzvt&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=3187f399d3e88103478ecd46c025ae89fe6e90409491c6f50c9c39dd674e91df"
                         ],
@@ -29047,7 +29046,7 @@
                     {
                         "title": "Sprokalipse Show",
                         "episode": 21,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=LVn%2BUdVwVRAc29Y%2FVelYhyJAbAWLpJxRuJ%2B93P31%2FQIu%2BGd5mFyrvxUt75SJFapX&expiry=SMBzqwQuwP%2BiGzYFEO1ISw%3D%3D&mac=5fa1c1916de2dfe7514ff0405a304b3bf82334d07f4d020107c048cb8f4182f5"
                         ],
@@ -29056,7 +29055,7 @@
                     {
                         "title": "Centésimo Episódio",
                         "episode": 22,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=pfl9YXUcrqDGW6DhWNBjh8CDIaDkyRGJllXl6IDBrHFKa8NDk%2FfgiTbZrxQ4YVBW&expiry=z4%2BZTTZ9x2%2FWBHQ7wK5IWw%3D%3D&mac=1254dfebde19a7c292c1e380d0be0b77e7dbf1f27e43530a1971c925434864ed"
                         ],
@@ -29065,7 +29064,7 @@
                     {
                         "title": "O Ursinho na Casca de Noz",
                         "episode": 23,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=THuIWpKbjMLxrPth6YEE4zJ4YjzK33t%2BDLis9U9bGhoc0UVHaqqobu3TF4bm3pGq&expiry=z4%2BZTTZ9x2%2FWBHQ7wK5IWw%3D%3D&mac=214d6ce7af801dfafeafdd310e2f36885e727b72ecbaac8689be8fa8a146499c"
                         ],
@@ -29074,7 +29073,7 @@
                     {
                         "title": "O Rapto das Cores",
                         "episode": 24,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=TjDnw5KdNKNo5euWziwbCJePrPDOjgV55%2B7UoGl5%2B%2FBJioRpW9FhqrbYXmO0%2BTjj&expiry=z4%2BZTTZ9x2%2FWBHQ7wK5IWw%3D%3D&mac=21b18ea2ffbc72a7cfee0a9093547daddc4e9ad8ef6f7b8299d9613971745553"
                         ],
@@ -29083,7 +29082,7 @@
                     {
                         "title": "Juju e o Pé de Abacate",
                         "episode": 25,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=kxiQxqi4yT3XlC3VRQhyqADBIHnicK61oREbTmTz3MDxHN1Lhv%2B%2F3s%2FqkS0e%2FOob&expiry=z4%2BZTTZ9x2%2FWBHQ7wK5IWw%3D%3D&mac=e00febb54239c2c51b8577ebe2159de6fa4f1f449202d2c93e24273a65eac027"
                         ],
@@ -29092,7 +29091,7 @@
                     {
                         "title": "Poneimorfose",
                         "episode": 26,
-                        "rating": 0.0,
+                        "rate": 0.0,
                         "url": [
                             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
                         ],
@@ -30872,11 +30871,11 @@
         "tmdb_id": 91296,
         "popularity": 4.5658,
         "title": "A Divisão",
-        "rating": 8.2,
+        "rate": 8.2,
         "classification": "16",
         "year": 2019,
-        "premiered": "19/07/2019",
-        "synopsis": "O Rio de Janeiro está acuado por uma onda de sequestros nos anos 90. As forças de segurança chamam agentes de fama controversa para salvar a cidade de bandidos e até da polícia.",
+        "aired": "19/07/2019",
+        "sinopse": "O Rio de Janeiro está acuado por uma onda de sequestros nos anos 90. As forças de segurança chamam agentes de fama controversa para salvar a cidade de bandidos e até da polícia.",
         "poster": "https://image.tmdb.org/t/p/original/An3TOHOWXIhAUnZ5O7pDzpnZTMz.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/wpCq9vD1of69h1wb57lu2gp5eal.jpg",
         "studio": [
@@ -30890,8 +30889,8 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 0.0,
-                "synopsis": "",
+                "rate": 0.0,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/qucT08BrRQeS7Q0zaFhBnbsPJoq.jpg",
                 "episodios": [
                     {
@@ -30905,8 +30904,8 @@
             },
             {
                 "title": "2ª Temporada",
-                "rating": 1.0,
-                "synopsis": "",
+                "rate": 1.0,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/6FcQyqpBJZEhf4W41wIzcWCYh2M.jpg",
                 "episodios": [
                     {
@@ -30920,8 +30919,8 @@
             },
             {
                 "title": "3ª Temporada",
-                "rating": 0.0,
-                "synopsis": "",
+                "rate": 0.0,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/6ReYpdqfXc9XrGWQEVeZcFrPNtX.jpg",
                 "episodios": [
                     {
@@ -30935,8 +30934,8 @@
             },
             {
                 "title": "4ª Temporada",
-                "rating": 0.0,
-                "synopsis": "",
+                "rate": 0.0,
+                "sinopse": "",
                 "poster": "https://image.tmdb.org/t/p/original/An3TOHOWXIhAUnZ5O7pDzpnZTMz.jpg",
                 "episodios": [
                     {
