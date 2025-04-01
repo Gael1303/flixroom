@@ -17,11 +17,11 @@
         "status": "on",
         "subcategorias": [
             {
-                "categories": "Tendencias",
+                "categories": "Em Alta",
                 "poster": "https://archive.org/download/1700740365761/1700740365761.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Filmes e Séries tendencias TMDb",
-                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/explorar/trending.json",
+                "action": "list_trending",
                 "sort_method": "rating"
             },
             {
