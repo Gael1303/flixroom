@@ -1,5 +1,7 @@
 [
-    {"status": "on"},
+    {
+        "status": "on"
+    },
     {
         "menu_title": "Pesquisar",
         "poster": "https://archive.org/download/1700740365535/1700740365535.png",
@@ -7,6 +9,102 @@
         "icon": "https://exemplo.com/icone_favoritos.png",
         "action": "search_videos",
         "status": "on"
+    },
+    {
+        "menu_title": "Canais",
+        "poster": "https://archive.org/download/1700740365556/1700740365556.png",
+        "fanart": "https://exemplo.com/fanart_canais.jpg",
+        "status": "on",
+        "subcategorias": [
+            {
+                "categories": "Favoritos",
+                "poster": "https://archive.org/download/1700740365675/1700740365686.png",
+                "backdrop": "https://exemplo.com/backdrop_favoritos.jpg",
+                "description": "Seus canais favoritos salvos",
+                "action": "list_favorites",
+                "sort_method": "title"
+            },
+            {
+                "categories": "Todos os Canais",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
+                "backdrop": "https://exemplo.com/backdrop_canais.jpg",
+                "description": "Lista completa de todos os canais disponíveis",
+                "action": "list_live_channels",
+                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista1",
+                "sort_method": "title"
+            },
+            {
+                "categories": "Abertos",
+                "poster": "https://archive.org/download/1700740365675/1700740365517.png",
+                "backdrop": "https://exemplo.com/backdrop_abertos.jpg",
+                "description": "Canais de TV aberta e sinal digital",
+                "action": "list_group",
+                "group": "CANAIS ABERTOS",
+                "sort_method": "title"
+            },
+            {
+                "categories": "Esportes",
+                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
+                "backdrop": "https://exemplo.com/backdrop_esportes.jpg",
+                "description": "Canais esportivos e transmissões ao vivo",
+                "action": "list_group",
+                "group": "ESPORTES",
+                "sort_method": "title"
+            },
+            {
+                "categories": "Filmes e Séries",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
+                "backdrop": "https://exemplo.com/backdrop_filmes.jpg",
+                "description": "Canais especializados em filmes e séries",
+                "action": "list_group",
+                "group": "FILMES E SÉRIES",
+                "sort_method": "title"
+            },
+            {
+                "categories": "Infantil",
+                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
+                "backdrop": "https://exemplo.com/backdrop_infantil.jpg",
+                "description": "Canais infantis e desenhos animados",
+                "action": "list_group",
+                "group": "INFANTIL",
+                "sort_method": "title"
+            },
+            {
+                "categories": "Documentários",
+                "poster": "https://archive.org/download/1700740365675/1700740365517.png",
+                "backdrop": "https://exemplo.com/backdrop_docs.jpg",
+                "description": "Canais de documentários e natureza",
+                "action": "list_group",
+                "group": "DOCUMENTÁRIOS",
+                "sort_method": "title"
+            },
+            {
+                "categories": "Notícias",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
+                "backdrop": "https://exemplo.com/backdrop_noticias.jpg",
+                "description": "Canais de notícias 24 horas",
+                "action": "list_group",
+                "group": "NOTÍCIAS",
+                "sort_method": "title"
+            },
+            {
+                "categories": "Internacionais",
+                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
+                "backdrop": "https://exemplo.com/backdrop_internacional.jpg",
+                "description": "Canais estrangeiros e internacionais",
+                "action": "list_group",
+                "group": "INTERNACIONAIS",
+                "sort_method": "title"
+            },
+            {
+                "categories": "Atualizar Playlist",
+                "poster": "https://archive.org/download/1700740365525/1700740365525.png",
+                "backdrop": "https://exemplo.com/backdrop_atualizar.jpg",
+                "description": "Atualiza a lista de canais da fonte externa",
+                "action": "refresh_playlist",
+                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista1"
+            }
+        ]
     },
     {
         "menu_title": "Explorar",
