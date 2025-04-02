@@ -25,12 +25,11 @@
                 "sort_method": "title"
             },
             {
-                "categories": "Todos os canais",
+                "categories": "All",
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_canais.jpg",
                 "description": "Lista completa de todos os canais disponíveis",
-                "externallink": "https://github.com/Gael1303/flixroom/raw/refs/heads/main/cineroom/canais/lista1",
-                "sort_method": "title"
+                "externallink": "https://github.com/Gael1303/flixroom/raw/refs/heads/main/cineroom/canais/lista1"
             },
             {
                 "categories": "Abertos",
@@ -38,8 +37,7 @@
                 "backdrop": "https://exemplo.com/backdrop_abertos.jpg",
                 "description": "Canais de TV aberta e sinal digital",
                 "action": "list_group",
-                "group": "CANAIS ABERTOS",
-                "sort_method": "title"
+                "group": "CANAIS ABERTOS"
             },
             {
                 "categories": "Esportes",
@@ -47,8 +45,7 @@
                 "backdrop": "https://exemplo.com/backdrop_esportes.jpg",
                 "description": "Canais esportivos e transmissões ao vivo",
                 "action": "list_group",
-                "group": "ESPORTES",
-                "sort_method": "title"
+                "group": "ESPORTES"
             },
             {
                 "categories": "Filmes e Séries",
@@ -65,8 +62,7 @@
                 "backdrop": "https://exemplo.com/backdrop_infantil.jpg",
                 "description": "Canais infantis e desenhos animados",
                 "action": "list_group",
-                "group": "INFANTIL",
-                "sort_method": "title"
+                "group": "INFANTIL"
             },
             {
                 "categories": "Documentários",
@@ -74,8 +70,7 @@
                 "backdrop": "https://exemplo.com/backdrop_docs.jpg",
                 "description": "Canais de documentários e natureza",
                 "action": "list_group",
-                "group": "DOCUMENTÁRIOS",
-                "sort_method": "title"
+                "group": "DOCUMENTÁRIOS"
             },
             {
                 "categories": "Notícias",
@@ -83,8 +78,7 @@
                 "backdrop": "https://exemplo.com/backdrop_noticias.jpg",
                 "description": "Canais de notícias 24 horas",
                 "action": "list_group",
-                "group": "NOTÍCIAS",
-                "sort_method": "title"
+                "group": "NOTÍCIAS"
             },
             {
                 "categories": "Internacionais",
@@ -92,8 +86,7 @@
                 "backdrop": "https://exemplo.com/backdrop_internacional.jpg",
                 "description": "Canais estrangeiros e internacionais",
                 "action": "list_group",
-                "group": "INTERNACIONAIS",
-                "sort_method": "title"
+                "group": "INTERNACIONAIS"
             }
         ]
     },
