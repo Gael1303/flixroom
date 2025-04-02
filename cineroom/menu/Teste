@@ -223,18 +223,10 @@
     },
     {
         "menu_title": "Doação",
-        "poster": "https://getdrawings.com/free-icon-bw/donate-icon-8.png",
+        "poster": "https://phoenixctr.com/wp-content/uploads/2019/02/donation-01.png",
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
         "icon": "https://exemplo.com/icone_favoritos.png",
         "action": "show_donation",
-        "status": "on"
-    },
-    {
-        "menu_title": "Chagelog",
-        "poster": "https://archive.org/download/1700740365525/1700740365532.png",
-        "fanart": "https://exemplo.com/fanart_favoritos.jpg",
-        "icon": "https://exemplo.com/icone_favoritos.png",
-        "action": "show_about",
         "status": "on"
     },
     {
@@ -243,6 +235,14 @@
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
         "icon": "https://exemplo.com/icone_favoritos.png",
         "action": "Limpe o cache",
+        "status": "on"
+    },
+    {
+        "menu_title": "Changelog",
+        "poster": "https://archive.org/download/1700740365525/1700740365532.png",
+        "fanart": "https://exemplo.com/fanart_favoritos.jpg",
+        "icon": "https://exemplo.com/icone_favoritos.png",
+        "action": "show_about",
         "status": "on"
     }
 ]
