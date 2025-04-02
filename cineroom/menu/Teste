@@ -219,7 +219,8 @@
         "menu_title": "Minha Lista",
         "poster": "https://archive.org/download/1700740365675/1700740365686.png",
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
-        "action": "list_favorites"
+        "action": "list_favorites",
+        "status": "on"
     },
     {
         "menu_title": "Doação",
