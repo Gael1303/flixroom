@@ -1,1 +1,36 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO" tvg-logo="https://exemplo.com/logos/globo.png" group-title="CANAIS ABERTOS",Globo
+http://exemplo-ficticio.com/globo/stream.m3u8
+
+#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://exemplo.com/logos/sbt.png" group-title="CANAIS ABERTOS",SBT
+http://exemplo-ficticio.com/sbt/stream.m3u8
+
+#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD" tvg-logo="https://exemplo.com/logos/record.png" group-title="CANAIS ABERTOS",Record
+http://exemplo-ficticio.com/record/stream.m3u8
+
+#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND" tvg-logo="https://exemplo.com/logos/band.png" group-title="CANAIS ABERTOS",Band
+http://exemplo-ficticio.com/band/stream.m3u8
+
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO" tvg-logo="https://exemplo.com/logos/hbo.png" group-title="CANAIS PAGOS",HBO
+http://exemplo-ficticio.com/hbo/stream.m3u8
+
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX" tvg-logo="https://exemplo.com/logos/fox.png" group-title="CANAIS PAGOS",Fox
+http://exemplo-ficticio.com/fox/stream.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY" tvg-logo="https://exemplo.com/logos/discovery.png" group-title="DOCUMENTÁRIOS",Discovery Channel
+http://exemplo-ficticio.com/discovery/stream.m3u8
+
+#EXTINF:-1 tvg-id="NatGeo.br" tvg-name="NATGEO" tvg-logo="https://exemplo.com/logos/natgeo.png" group-title="DOCUMENTÁRIOS",National Geographic
+http://exemplo-ficticio.com/natgeo/stream.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="https://exemplo.com/logos/espn.png" group-title="ESPORTES",ESPN Brasil
+http://exemplo-ficticio.com/espn/stream.m3u8
+
+#EXTINF:-1 tvg-id="SportTV.br" tvg-name="SPORTV" tvg-logo="https://exemplo.com/logos/sportv.png" group-title="ESPORTES",SportTV
+http://exemplo-ficticio.com/sportv/stream.m3u8
+
+#EXTINF:-1 tvg-id="CanalInfantil.br" tvg-name="CANAL INFANTIL" tvg-logo="https://exemplo.com/logos/infantil.png" group-title="INFANTIL",Canal Infantil
+http://exemplo-ficticio.com/infantil/stream.m3u8
+
+#EXTINF:-1 tvg-id="Culinaria.br" tvg-name="CANAL CULINÁRIA" tvg-logo="https://exemplo.com/logos/culinaria.png" group-title="VARIEDADES",Canal Culinária
+http://exemplo-ficticio.com/culinaria/stream.m3u8
