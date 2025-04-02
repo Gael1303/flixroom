@@ -1,9 +1,7 @@
 [
+    {"status": "on"},
     {
-        "status": "on"
-    },
-    {
-        "menu_title": "[COLOR gold]Buscar[/COLOR]",
+        "menu_title": "Pesquisar",
         "poster": "https://archive.org/download/1700740365535/1700740365535.png",
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
         "icon": "https://exemplo.com/icone_favoritos.png",
@@ -224,29 +222,27 @@
         "action": "list_favorites"
     },
     {
-        "menu_title": "[COLOR red]Configurações[/COLOR]",
+        "menu_title": "Doação",
+        "poster": "https://getdrawings.com/free-icon-bw/donate-icon-8.png",
+        "fanart": "https://exemplo.com/fanart_favoritos.jpg",
+        "icon": "https://exemplo.com/icone_favoritos.png",
+        "action": "show_donation",
+        "status": "on"
+    },
+    {
+        "menu_title": "Chagelog",
+        "poster": "https://archive.org/download/1700740365525/1700740365532.png",
+        "fanart": "https://exemplo.com/fanart_favoritos.jpg",
+        "icon": "https://exemplo.com/icone_favoritos.png",
+        "action": "show_about",
+        "status": "on"
+    },
+    {
+        "menu_title": "Limpar Cache",
         "poster": "https://archive.org/download/1700740365525/1700740365525.png",
-        "fanart": "https://exemplo.com/fanart_filmes.jpg",
-        "status": "on",
-        "subcategorias": [
-            {
-                "categories": "Informações",
-                "poster": "https://archive.org/download/1700740365525/1700740365532.png",
-                "description": "changelog",
-                "action": "show_about"
-            },
-            {
-                "categories": "Limpar Cache",
-                "poster": "https://archive.org/download/1700740365525/1700740365525.png",
-                "description": "Limpe o cache",
-                "action": "clear_cache"
-            },
-            {
-                "categories": "Doação",
-                "poster": "https://getdrawings.com/free-icon-bw/donate-icon-8.png",
-                "description": "Colabore com o addon",
-                "action": "show_donation"
-            }
-        ]
+        "fanart": "https://exemplo.com/fanart_favoritos.jpg",
+        "icon": "https://exemplo.com/icone_favoritos.png",
+        "action": "Limpe o cache",
+        "status": "on"
     }
 ]
