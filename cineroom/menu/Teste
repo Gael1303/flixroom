@@ -257,19 +257,19 @@
         "status": "on"
     },
     {
-        "menu_title": "Limpar Cache",
-        "poster": "https://archive.org/download/chat-gpt-image-3-de-abr.-de-2025-11-17-47/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2011_17_31.png",
-        "fanart": "https://exemplo.com/fanart_favoritos.jpg",
-        "icon": "https://exemplo.com/icone_favoritos.png",
-        "action": "clear_cache",
-        "status": "on"
-    },
-    {
         "menu_title": "Changelog",
         "poster": "https://archive.org/download/chat-gpt-image-3-de-abr.-de-2025-11-17-47/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2011_17_41.png",
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
         "icon": "https://exemplo.com/icone_favoritos.png",
         "action": "show_about",
+        "status": "on"
+    },
+    {
+        "menu_title": "Limpar Cache",
+        "poster": "https://archive.org/download/chat-gpt-image-3-de-abr.-de-2025-11-17-47/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2011_17_31.png",
+        "fanart": "https://exemplo.com/fanart_favoritos.jpg",
+        "icon": "https://exemplo.com/icone_favoritos.png",
+        "action": "clear_cache",
         "status": "on"
     }
 ]
