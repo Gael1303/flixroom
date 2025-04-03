@@ -11,12 +11,12 @@
         "status": "on"
     },
     {
-        "menu_title": "Canais",
+        "menu_title": "Canais ao Vivo",
         "poster": "https://archive.org/download/1700740365556/1700740365556.png",
         "fanart": "https://exemplo.com/fanart_canais.jpg",
         "status": "on", 
         "action": "list_canais",
-        "external_link": "https://github.com/Gael1303/flixroom/raw/refs/heads/main/cineroom/canais/lista1"
+        "externallink": "https://github.com/Gael1303/flixroom/raw/refs/heads/main/cineroom/canais/lista1"
     },
     {
         "menu_title": "Filmes",
