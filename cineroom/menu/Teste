@@ -17,15 +17,15 @@
         "status": "on",
 	"subcategorias": [
 	    {
-                "categories": "Lista 1",
+                "categories": "Lista de canais 1",
                 "poster": "https://archive.org/download/chat-gpt-image-3-de-abr.-de-2025-11-17-47/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2011_17_57.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Lista 1 de canais",
 		"action": "list_canais",
-		"externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista1"
+		"external_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista1"
             },
 	    {
-                "categories": "Lista 2",
+                "categories": "Lista de canais 2",
                 "poster": "https://archive.org/download/chat-gpt-image-3-de-abr.-de-2025-11-17-47/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2011_17_57.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Lista 2 de canais",
