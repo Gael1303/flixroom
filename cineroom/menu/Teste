@@ -15,9 +15,9 @@
         "poster": "https://archive.org/download/chat-gpt-image-3-de-abr.-de-2025-11-17-47/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2011_17_57.png",
         "fanart": "https://exemplo.com/fanart_canais.jpg",
         "status": "on",
-		"action": "list_canais",
-		"externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista1",
-    },    
+        "action": "list_canais",
+        "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista1"
+    },
     {
         "menu_title": "Filmes",
         "poster": "https://archive.org/download/chat-gpt-image-3-de-abr.-de-2025-11-17-47/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2011_18_11.png",
@@ -193,11 +193,11 @@
             }
         ]
     },
-	{
+    {
         "menu_title": "Explorar",
         "poster": "https://archive.org/download/chat-gpt-image-3-de-abr.-de-2025-11-17-47/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2011_18_02.png",
         "fanart": "https://exemplo.com/fanart_filmes.jpg",
-        "status": "off",
+        "status": "on",
         "subcategorias": [
             {
                 "categories": "Em Alta",
@@ -254,6 +254,6 @@
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
         "icon": "https://exemplo.com/icone_favoritos.png",
         "action": "clear_cache",
-        "status": "on"
+        "status": "off"
     }
 ]
