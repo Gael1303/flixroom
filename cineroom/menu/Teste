@@ -14,114 +14,9 @@
         "menu_title": "Canais",
         "poster": "https://archive.org/download/1700740365556/1700740365556.png",
         "fanart": "https://exemplo.com/fanart_canais.jpg",
-        "status": "on",
-        "subcategorias": [
-            {
-                "categories": "Favoritos",
-                "poster": "https://archive.org/download/1700740365675/1700740365686.png",
-                "backdrop": "https://exemplo.com/backdrop_favoritos.jpg",
-                "description": "Seus canais favoritos salvos",
-                "action": "list_favorites",
-                "sort_method": "title"
-            },
-            {
-                "categories": "All",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
-                "backdrop": "https://exemplo.com/backdrop_canais.jpg",
-                "description": "Lista completa de todos os canais disponíveis",
-                "action": "list_canais",
-                "external_link": "https://github.com/Gael1303/flixroom/raw/refs/heads/main/cineroom/canais/lista1"
-            },
-            {
-                "categories": "Abertos",
-                "poster": "https://archive.org/download/1700740365675/1700740365517.png",
-                "backdrop": "https://exemplo.com/backdrop_abertos.jpg",
-                "description": "Canais de TV aberta e sinal digital",
-                "action": "list_group",
-                "group": "CANAIS ABERTOS"
-            },
-            {
-                "categories": "Esportes",
-                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
-                "backdrop": "https://exemplo.com/backdrop_esportes.jpg",
-                "description": "Canais esportivos e transmissões ao vivo",
-                "action": "list_group",
-                "group": "ESPORTES"
-            },
-            {
-                "categories": "Filmes e Séries",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
-                "backdrop": "https://exemplo.com/backdrop_filmes.jpg",
-                "description": "Canais especializados em filmes e séries",
-                "action": "list_group",
-                "group": "FILMES E SÉRIES",
-                "sort_method": "title"
-            },
-            {
-                "categories": "Infantil",
-                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
-                "backdrop": "https://exemplo.com/backdrop_infantil.jpg",
-                "description": "Canais infantis e desenhos animados",
-                "action": "list_group",
-                "group": "INFANTIL"
-            },
-            {
-                "categories": "Documentários",
-                "poster": "https://archive.org/download/1700740365675/1700740365517.png",
-                "backdrop": "https://exemplo.com/backdrop_docs.jpg",
-                "description": "Canais de documentários e natureza",
-                "action": "list_group",
-                "group": "DOCUMENTÁRIOS"
-            },
-            {
-                "categories": "Notícias",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
-                "backdrop": "https://exemplo.com/backdrop_noticias.jpg",
-                "description": "Canais de notícias 24 horas",
-                "action": "list_group",
-                "group": "NOTÍCIAS"
-            },
-            {
-                "categories": "Internacionais",
-                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
-                "backdrop": "https://exemplo.com/backdrop_internacional.jpg",
-                "description": "Canais estrangeiros e internacionais",
-                "action": "list_group",
-                "group": "INTERNACIONAIS"
-            }
-        ]
-    },
-    {
-        "menu_title": "Explorar",
-        "poster": "https://archive.org/download/1700740365761/1700740365590.png",
-        "fanart": "https://exemplo.com/fanart_filmes.jpg",
-        "status": "on",
-        "subcategorias": [
-            {
-                "categories": "Em Alta",
-                "poster": "https://archive.org/download/1700740365761/1700740365761.png",
-                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-                "description": "Filmes e Séries tendencias TMDb",
-                "action": "list_trending",
-                "sort_method": "rating"
-            },
-            {
-                "categories": "Recomendações",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
-                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-                "description": "Filmes e Séries Recomendados no mes",
-                "action": "list_recommended",
-                "sort_method": "rating"
-            },
-            {
-                "categories": "Top 250",
-                "poster": "https://archive.org/download/1700740365761/1700740365517.png",
-                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-                "description": "Top 250 IMDb",
-                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/explorar/top250.json",
-                "sort_method": "rating"
-            }
-        ]
+        "status": "on", 
+        "action": "list_canais",
+        "external_link": "https://github.com/Gael1303/flixroom/raw/refs/heads/main/cineroom/canais/lista1"
     },
     {
         "menu_title": "Filmes",
@@ -295,6 +190,38 @@
                 "description": "Todas as Séries em um só lugar",
                 "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/tudo.json",
                 "sort_method": "label"
+            }
+        ]
+    },
+    {
+        "menu_title": "Explorar",
+        "poster": "https://archive.org/download/1700740365761/1700740365590.png",
+        "fanart": "https://exemplo.com/fanart_filmes.jpg",
+        "status": "on",
+        "subcategorias": [
+            {
+                "categories": "Em Alta",
+                "poster": "https://archive.org/download/1700740365761/1700740365761.png",
+                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
+                "description": "Filmes e Séries tendencias TMDb",
+                "action": "list_trending",
+                "sort_method": "rating"
+            },
+            {
+                "categories": "Recomendações",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
+                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
+                "description": "Filmes e Séries Recomendados no mes",
+                "action": "list_recommended",
+                "sort_method": "rating"
+            },
+            {
+                "categories": "Top 250",
+                "poster": "https://archive.org/download/1700740365761/1700740365517.png",
+                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
+                "description": "Top 250 IMDb",
+                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/explorar/top250.json",
+                "sort_method": "rating"
             }
         ]
     },
