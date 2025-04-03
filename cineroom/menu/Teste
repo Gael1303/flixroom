@@ -11,8 +11,8 @@
         "status": "on"
     },  
     {
-    "menu_title": "TV ao Vivo",
-    "poster": "https://archive.org/download/tv-icon-png/tv-icon-png.png",
+    "menu_title": "Canais",
+    "poster": "https://archive.org/download/chat-gpt-image-3-de-abr.-de-2025-11-17-47/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2011_17_57.png",
     "fanart": "https://exemplo.com/fanart_tv.jpg",
     "status": "on",
     "subcategorias": [
@@ -22,7 +22,7 @@
             "backdrop": "https://exemplo.com/backdrop_tv.jpg",
             "description": "Navegue pelos grupos de canais automaticamente detectados",
             "action": "list_m3u8_groups",
-            "url": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista1"
+            "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista1"
         },
         {
             "categories": "Todos os Canais",
@@ -30,7 +30,7 @@
             "backdrop": "https://exemplo.com/backdrop_tv.jpg",
             "description": "Todos os canais sem filtro por grupo",
             "action": "list_m3u8_channels",
-            "url": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista1"
+            "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista1"
         }
     ]
     },	
