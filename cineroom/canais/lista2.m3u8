@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO" tvg-logo="https://i.imgur.com/globo.png" group-title="ABERTOS",Globo
+http://exemplo.com/globo
+#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://i.imgur.com/sbt.png" group-title="ABERTOS",SBT
+http://exemplo.com/sbt
+#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD" tvg-logo="https://i.imgur.com/record.png" group-title="ABERTOS",Record
+http://exemplo.com/record
+#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND" tvg-logo="https://i.imgur.com/band.png" group-title="ABERTOS",Band
+http://exemplo.com/band
+
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO" tvg-logo="https://i.imgur.com/hbo.png" group-title="FILMES/SÉRIES",HBO
+http://exemplo.com/hbo
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX" tvg-logo="https://i.imgur.com/fox.png" group-title="FILMES/SÉRIES",Fox
+http://exemplo.com/fox
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY" tvg-logo="https://i.imgur.com/discovery.png" group-title="DOCUMENTÁRIOS",Discovery
+http://exemplo.com/discovery
+
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="https://i.imgur.com/espn.png" group-title="ESPORTES",ESPN Brasil
+http://exemplo.com/espn
+#EXTINF:-1 tvg-id="SportTV.br" tvg-name="SPORTV" tvg-logo="https://i.imgur.com/sportv.png" group-title="ESPORTES",SportTV
+http://exemplo.com/sportv
+
+#EXTINF:-1 tvg-id="CanalKids.br" tvg-name="KIDS" tvg-logo="https://i.imgur.com/kids.png" group-title="INFANTIL",Canal Infantil
+http://exemplo.com/kids
