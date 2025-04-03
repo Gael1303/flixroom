@@ -68,11 +68,11 @@
                 "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/movies/4k.json"
             },
             {
-                "categories": "Trilogias e Coleções",
+                "categories": "Coleções",
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_colecoes.jpg",
                 "description": "Explore as maiores franquias e coleções de filmes",
-                "action": "list_movies_by_collection",
+                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/movies/sagas.json"
                 "sort_method": "rating"
             },
             {
