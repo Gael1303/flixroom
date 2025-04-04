@@ -1,3 +1,4 @@
+
 [
     {
         "status": "on"
@@ -11,18 +12,20 @@
         "status": "on"
     },
     {
-        "menu_title": "Tv ao Vivo",
+        "menu_title": "Canais",
         "poster": "https://archive.org/download/chat-gpt-image-3-de-abr.-de-2025-11-17-47/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2011_17_57.png",
         "fanart": "https://exemplo.com/fanart_canais.jpg",
         "status": "on",
         "action": "list_canais",
-        "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista1"
+        "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista1",
+		"password": true
     },
     {
         "menu_title": "Filmes",
         "poster": "https://archive.org/download/chat-gpt-image-3-de-abr.-de-2025-11-17-47/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2011_18_11.png",
         "fanart": "https://exemplo.com/fanart_filmes.jpg",
         "status": "on",
+		"password": false,
         "subcategorias": [
             {
                 "categories": "2025",
@@ -118,6 +121,7 @@
         "poster": "https://archive.org/download/chat-gpt-image-3-de-abr.-de-2025-11-17-47/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2011_18_06.png",
         "fanart": "https://exemplo.com/fanart_series.jpg",
         "status": "on",
+		"password": false,
         "subcategorias": [
             {
                 "categories": "2025",
@@ -198,6 +202,7 @@
         "poster": "https://archive.org/download/chat-gpt-image-3-de-abr.-de-2025-11-17-47/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2011_18_02.png",
         "fanart": "https://exemplo.com/fanart_filmes.jpg",
         "status": "on",
+		"password": false,
         "subcategorias": [
             {
                 "categories": "Em Alta",
