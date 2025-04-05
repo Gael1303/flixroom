@@ -217,14 +217,6 @@
                 "sort_method": "rating"
             },
             {
-                "categories": "Top 250",
-                "poster": "https://archive.org/download/1700740365761/1700740365517.png",
-                "backdrop": "https://exemplo.com/backdrop_4k.jpg",
-                "description": "Top 250 IMDb",
-                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/explorar/top250.json",
-                "sort_method": "rating"
-            },
-            {
                 "categories": "Aleatórios",
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
