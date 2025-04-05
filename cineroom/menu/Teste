@@ -18,7 +18,7 @@
         "status": "on",
         "action": "list_canais",
         "externallink": [
-	    "search(Pesquisar Canal)",
+		    "search(Pesquisar Canal)",
             "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista1(Lista 1)",
             "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista2.m3u8(Lista 2)",
             "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista3.m3u8(Lista 3)"
@@ -139,6 +139,13 @@
                 "backdrop": "https://exemplo.com/backdrop_atores.jpg",
                 "description": "Séries recem-adicionados ao catalogo, sejam eles novos ou antigos",
                 "action": "list_recently_added_series"
+            },
+	    {
+                "categories": "Novos Episodios",
+                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
+                "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
+                "description": "Episodios adicionados recentemente",
+                "action": "list_recently_added_episodes"
             },
             {
                 "categories": "Mais Populares",
