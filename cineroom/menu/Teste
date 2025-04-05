@@ -1,3 +1,4 @@
+
 [
     {
         "status": "on"
@@ -10,13 +11,14 @@
         "action": "search_videos",
         "status": "on"
     },
-    {
+{
         "menu_title": "Canais (Teste)",
         "poster": "https://archive.org/download/em_alta/canais.png",
         "fanart": "https://exemplo.com/fanart_canais.jpg",
         "status": "on",
         "action": "list_canais",
         "externallink": [
+		    "search(Pesquisar Canal)",
             "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista1(Lista 1)",
             "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista2.m3u8(Lista 2)",
             "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista3.m3u8(Lista 3)"
