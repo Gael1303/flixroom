@@ -5,7 +5,7 @@
     },
     {
         "menu_title": "Pesquisar",
-        "poster": "https://archive.org/download/1700740365535/1700740365535.png",
+        "poster": "https://archive.org/download/em_alta/search.png",
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
         "icon": "https://exemplo.com/icone_favoritos.png",
         "action": "search_videos",
@@ -13,7 +13,7 @@
     },
     {
         "menu_title": "TV ao Vivo",
-        "poster": "https://archive.org/download/chat-gpt-image-3-de-abr.-de-2025-11-17-47/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2011_17_57.png",
+        "poster": "https://archive.org/download/em_alta/canais.png",
         "fanart": "https://exemplo.com/fanart_canais.jpg",
         "status": "on",
         "action": "list_canais",
@@ -21,7 +21,7 @@
     },
     {
         "menu_title": "Filmes",
-        "poster": "https://archive.org/download/chat-gpt-image-3-de-abr.-de-2025-11-17-47/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2011_18_11.png",
+        "poster": "https://archive.org/download/em_alta/filmes.png",
         "fanart": "https://exemplo.com/fanart_filmes.jpg",
         "status": "on",
         "subcategorias": [
@@ -116,7 +116,7 @@
     },
     {
         "menu_title": "Séries",
-        "poster": "https://archive.org/download/chat-gpt-image-3-de-abr.-de-2025-11-17-47/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2011_18_06.png",
+        "poster": "https://archive.org/download/em_alta/series.png",
         "fanart": "https://exemplo.com/fanart_series.jpg",
         "status": "on",
         "subcategorias": [
@@ -196,13 +196,13 @@
     },
     {
         "menu_title": "Explorar",
-        "poster": "https://archive.org/download/chat-gpt-image-3-de-abr.-de-2025-11-17-47/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2011_18_02.png",
+        "poster": "https://archive.org/download/em_alta/explorar.png",
         "fanart": "https://exemplo.com/fanart_filmes.jpg",
         "status": "on",
         "subcategorias": [
             {
                 "categories": "Em Alta",
-                "poster": "https://archive.org/download/1700740365761/1700740365761.png",
+                "poster": "https://archive.org/download/em_alta/em_alta.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Filmes e Séries tendencias TMDb",
                 "action": "list_trending",
@@ -210,7 +210,7 @@
             },
             {
                 "categories": "Recomendações da Semana",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
+                "poster": "https://archive.org/download/em_alta/recomenda%C3%A7ao.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Filmes e Séries Recomendados por 7 dias",
                 "action": "list_week_recommendations",
@@ -218,7 +218,7 @@
             },
             {
                 "categories": "Aleatórios",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
+                "poster": "https://archive.org/download/em_alta/random.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Filmes Aleatorios",
                 "action": "list_random",
@@ -228,14 +228,14 @@
     },
     {
         "menu_title": "Minha Lista",
-        "poster": "https://archive.org/download/chat-gpt-image-3-de-abr.-de-2025-11-17-47/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2011_17_52.png",
+        "poster": "https://archive.org/download/em_alta/minha_lista.png",
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
         "action": "list_favorites",
         "status": "on"
     },
     {
         "menu_title": "Doação",
-        "poster": "https://archive.org/download/chat-gpt-image-3-de-abr.-de-2025-11-17-47/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2011_17_47.png",
+        "poster": "https://archive.org/download/em_alta/doa%C3%A7%C3%A3o.png",
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
         "icon": "https://exemplo.com/icone_favoritos.png",
         "action": "show_donation",
@@ -243,7 +243,7 @@
     },
     {
         "menu_title": "Changelog",
-        "poster": "https://archive.org/download/chat-gpt-image-3-de-abr.-de-2025-11-17-47/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2011_17_41.png",
+        "poster": "https://archive.org/download/em_alta/changelog.png",
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
         "icon": "https://exemplo.com/icone_favoritos.png",
         "action": "show_about",
@@ -251,7 +251,7 @@
     },
     {
         "menu_title": "Limpar Cache",
-        "poster": "https://archive.org/download/chat-gpt-image-3-de-abr.-de-2025-11-17-47/ChatGPT%20Image%203%20de%20abr.%20de%202025%2C%2011_17_31.png",
+        "poster": "https://archive.org/download/em_alta/cache.png",
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
         "icon": "https://exemplo.com/icone_favoritos.png",
         "action": "clear_cache",
