@@ -89,11 +89,11 @@
                 "action": "list_genres"
             },
 			{
-                "categories": "Por Plataformas",
+                "categories": "Plataformas",
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_generos.jpg",
                 "description": "Filmes disponiveis em plataformas de streaming",
-                "action": "movies_by_provider"
+                "action": "list_movies_by_provider"
             },
             {
                 "categories": "Por Estudios",
