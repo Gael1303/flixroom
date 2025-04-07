@@ -1,5 +1,5 @@
 [
-{"status": "on"},	
+	{"status": "on"},
 
     {
         "tmdb_id": 127532,
@@ -21,7 +21,7 @@
             "Ação",
             "Aventura",
             "Ficção Cientifica",
-            "& Fantasy",
+            "Fantasia",
             "Animação"
         ],
         "type": "tvshow",
@@ -16026,12 +16026,13 @@
             }
         ]
     },
+    [
     {
         "tmdb_id": 3103,
         "popularity": 33.401,
-        "trending": false,
         "title": "Bananas de Pijamas",
         "rating": 5.3,
+		"trending": false,
         "classification": "L",
         "year": 1992,
         "premiered": "20/07/1992",
@@ -16047,7 +16048,7 @@
             "Kids",
             "Comédia"
         ],
-		"type": "tvshow",
+        "type": "tvshow",
         "temporadas": [
             {
                 "title": "1ª Temporada",
@@ -16057,212 +16058,262 @@
                 "episodios": [
                     {
                         "title": "Episódio 1",
-                        "episode": 1,
-                        "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=XSE0KarBILEL%2FiySXeqUbHHy3iLUHMckgTPRS0%2BHLWKZZ1xKC7886eLgXzx9doFF&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=6c1144fb5338f5b398af618884e01d71c7d5da0f3355404c7fb7dd0ccd523a27",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=XSE0KarBILEL%2FiySXeqUbHHy3iLUHMckgTPRS0%2BHLWKZZ1xKC7886eLgXzx9doFF&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=6c1144fb5338f5b398af618884e01d71c7d5da0f3355404c7fb7dd0ccd523a27"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 2",
-                        "episode": 2,
-                        "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=gg89A4AMGEIe54P29%2FYOBHTONVTjGK14BdxlJG8YLDYwFm15ReAk0gkFncdgdJSp&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=21ee9d9ef866a21fd5cf77bd0e6710dcad5b9bd8f9e8aae83987bf91a9de9f77",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=gg89A4AMGEIe54P29%2FYOBHTONVTjGK14BdxlJG8YLDYwFm15ReAk0gkFncdgdJSp&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=21ee9d9ef866a21fd5cf77bd0e6710dcad5b9bd8f9e8aae83987bf91a9de9f77"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 3",
-                        "episode": 3,
-                        "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=9FTC2AF8MS3Dotg6fSpDWluNJohXui6H%2BvzRGBdnQqUHRkSVzaWKhTuqV0ngDuez&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=2f6da6c288d912ce710fc76792969111ee52838d519ac74b5a4be3a41c11b371",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=9FTC2AF8MS3Dotg6fSpDWluNJohXui6H%2BvzRGBdnQqUHRkSVzaWKhTuqV0ngDuez&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=2f6da6c288d912ce710fc76792969111ee52838d519ac74b5a4be3a41c11b371"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 4",
-                        "episode": 4,
-                        "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=udpMXA0A09aIgqcIeQ536yJGWG71Bz7z1M74PomoudCFLWECeEJubdCMpBl1Zy5x&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=1ca78c65e9cbcc0c5aa2f2506a2ec02c385ae3b9379c8d05e854400b87a23c27",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=udpMXA0A09aIgqcIeQ536yJGWG71Bz7z1M74PomoudCFLWECeEJubdCMpBl1Zy5x&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=1ca78c65e9cbcc0c5aa2f2506a2ec02c385ae3b9379c8d05e854400b87a23c27"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 5",
-                        "episode": 5,
-                        "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=fBTVh%2FEmjYKNkx0Qhj0QKUGVglwmIdwGROhkXgvk1S25RkNqUpqZRxU%2FylH%2FYORI&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=d2aadbbcc5277e629eb95421194bfca50ca96e477de495a6562ca79882ff313e",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=fBTVh%2FEmjYKNkx0Qhj0QKUGVglwmIdwGROhkXgvk1S25RkNqUpqZRxU%2FylH%2FYORI&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=d2aadbbcc5277e629eb95421194bfca50ca96e477de495a6562ca79882ff313e"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 6",
                         "episode": 6,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=R9wG%2BOstAsLqZ7U0e2HVES2cbRgjty3Wrbr%2F1XTa55KGJok8vOqI5tJ4Z43pwFCY&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=b59e6168b4d82dd5a71e8419e5ad213b0111408d8f8f1d060093ef31f9d461e7",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=R9wG%2BOstAsLqZ7U0e2HVES2cbRgjty3Wrbr%2F1XTa55KGJok8vOqI5tJ4Z43pwFCY&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=b59e6168b4d82dd5a71e8419e5ad213b0111408d8f8f1d060093ef31f9d461e7"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 7",
                         "episode": 7,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=wlN0NmOGNjgiLqsl7OMqdBqA3FCT8mx6ivrWgjxyIb7911d5YUampIXltXsaObo3&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=9bf36779845ddf63b59e4cd3fecb5afe56cc4fb788dd34f2d422402adbbf3fb5",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=wlN0NmOGNjgiLqsl7OMqdBqA3FCT8mx6ivrWgjxyIb7911d5YUampIXltXsaObo3&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=9bf36779845ddf63b59e4cd3fecb5afe56cc4fb788dd34f2d422402adbbf3fb5"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 8",
                         "episode": 8,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Yvua4sM5V52uCU%2FZb8LOGqUL4iIKDpwWK3jUNG29rE4f14Uz2rawfkb75BXGYGqv&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=d069d30290a1b8b8605fb4c4ac2831fac33859025ed574bce07f326fedbaa4e1",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Yvua4sM5V52uCU%2FZb8LOGqUL4iIKDpwWK3jUNG29rE4f14Uz2rawfkb75BXGYGqv&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=d069d30290a1b8b8605fb4c4ac2831fac33859025ed574bce07f326fedbaa4e1"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 9",
                         "episode": 9,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=dIF%2FlHOX7GM8Kc%2FSZ8OuTdrXZaVoZy5vyXcwijAJ5pknyL%2FK5ZMC3qdE%2BAV939Y8&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=4f909d64bac4332dda237596731a61a7b12ffd90e77053ac7928cd0a30d0d92d",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=dIF%2FlHOX7GM8Kc%2FSZ8OuTdrXZaVoZy5vyXcwijAJ5pknyL%2FK5ZMC3qdE%2BAV939Y8&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=4f909d64bac4332dda237596731a61a7b12ffd90e77053ac7928cd0a30d0d92d"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 10",
                         "episode": 10,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=RYEks%2F%2FZkHqoR%2F95%2BS14R5oFBdbz6Ca%2Bjf%2BEajgt%2B4U7LwNtndiBBqcw08eYly8%2B&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=944076fd5a92fcbdd24c42203551094bf72e0c399da7ed68b8fde58ed67524d9",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=RYEks%2F%2FZkHqoR%2F95%2BS14R5oFBdbz6Ca%2Bjf%2BEajgt%2B4U7LwNtndiBBqcw08eYly8%2B&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=944076fd5a92fcbdd24c42203551094bf72e0c399da7ed68b8fde58ed67524d9"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 11",
                         "episode": 11,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=nAeXcVsdzK1K8by8c1OmamQv8%2FUTfpwjsmT68xCL9SoGDPuU2Ng40fy1EOAsGUrS&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=78895bece9f84de341a53c935418e1e515f6b0a8ec6e6e5f969fa6e834a2275c",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=nAeXcVsdzK1K8by8c1OmamQv8%2FUTfpwjsmT68xCL9SoGDPuU2Ng40fy1EOAsGUrS&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=78895bece9f84de341a53c935418e1e515f6b0a8ec6e6e5f969fa6e834a2275c"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 12",
                         "episode": 12,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=u8HIeCCoYvCyQBZ7%2F1I%2BIX6cpAJeXzV5bJWKllCnLQq3nyo3KSl4eXwC1ti023y1&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=59880b13ff47cc0cff1981cda5dc95e3097461767703457a6cb99cdaf547636d",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=u8HIeCCoYvCyQBZ7%2F1I%2BIX6cpAJeXzV5bJWKllCnLQq3nyo3KSl4eXwC1ti023y1&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=59880b13ff47cc0cff1981cda5dc95e3097461767703457a6cb99cdaf547636d"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 13",
                         "episode": 13,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=7v%2BAIfsnM91N%2BHSf4%2F9PItqbVO8YcNixlys15pgwu5YM6wqdEb%2F6uHH%2BzkC3dI1J&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=df55d00a1550973901f6214aba1ca6abe4523b6467a0aebc270fd89bdcf1fb40",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=7v%2BAIfsnM91N%2BHSf4%2F9PItqbVO8YcNixlys15pgwu5YM6wqdEb%2F6uHH%2BzkC3dI1J&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=df55d00a1550973901f6214aba1ca6abe4523b6467a0aebc270fd89bdcf1fb40"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 14",
                         "episode": 14,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=vaOr%2FAqWiUgIWpbPhvgnBCp77kU%2Fb6gJzmIV2%2BMCybeHozb2z1mto8SlU5qvC3wr&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=ef980496d6a96613129d6b47af244001b0f1f637f169c6fab0f896508b61fcfc",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=vaOr%2FAqWiUgIWpbPhvgnBCp77kU%2Fb6gJzmIV2%2BMCybeHozb2z1mto8SlU5qvC3wr&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=ef980496d6a96613129d6b47af244001b0f1f637f169c6fab0f896508b61fcfc"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 15",
                         "episode": 15,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=DVuQnwUsC91w13clFOVqA5EjF1usX%2BPB9NQ4dxf3dE%2FrhnyYqGOA1pWTnh73wbs1&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=5cd82062eac7a6721b2ac4a266548f615989eb13c01ffab98cf6ee64216529c8",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=DVuQnwUsC91w13clFOVqA5EjF1usX%2BPB9NQ4dxf3dE%2FrhnyYqGOA1pWTnh73wbs1&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=5cd82062eac7a6721b2ac4a266548f615989eb13c01ffab98cf6ee64216529c8"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 16",
                         "episode": 16,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=G3jWMh7a0t5Fuib5YgGzLZ8fptYJMZ8%2BbZfsg7luCuc1EHvjnx8KkIJ%2FIxQfcVV9&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=d8a3fab963ae4a8469a206c3a301cbbba3856855c434007a71ffcd3026bf7552",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=G3jWMh7a0t5Fuib5YgGzLZ8fptYJMZ8%2BbZfsg7luCuc1EHvjnx8KkIJ%2FIxQfcVV9&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=d8a3fab963ae4a8469a206c3a301cbbba3856855c434007a71ffcd3026bf7552"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 17",
                         "episode": 17,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=rxMHxvwy7rR9o37qtllw9yb15akVKPVQjHZewPiq1aQMwkfJ5JxMm%2BUnOUWDIrZ0&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=47338d867ec890000f70ab3e83c27bb543ddac79e6b53cb907c142e27c46c963",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=rxMHxvwy7rR9o37qtllw9yb15akVKPVQjHZewPiq1aQMwkfJ5JxMm%2BUnOUWDIrZ0&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=47338d867ec890000f70ab3e83c27bb543ddac79e6b53cb907c142e27c46c963"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 18",
                         "episode": 18,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=qg7EM6iaeGCm%2FikkbNzW8kq7%2BhOp9HvuY5KAilr2v7ob7o8jA7ue9em5I%2FJa%2BhTc&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=d265586d5a4bdb315ecb9898e4834648449dfb80dcdf3adfe1dfe1dbc8530748",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=qg7EM6iaeGCm%2FikkbNzW8kq7%2BhOp9HvuY5KAilr2v7ob7o8jA7ue9em5I%2FJa%2BhTc&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=d265586d5a4bdb315ecb9898e4834648449dfb80dcdf3adfe1dfe1dbc8530748"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 19",
                         "episode": 19,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=nYyMLz%2BE4ChE%2BQ327Lsytw24ZkEd3rhouogeogfTiV%2BrIuSo%2FXhkB7lk8HWQ1VEA&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=f3461fb3bb2ea936bff50bb27f6c9c793812788fb0056e36393c23b178d4f592",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=nYyMLz%2BE4ChE%2BQ327Lsytw24ZkEd3rhouogeogfTiV%2BrIuSo%2FXhkB7lk8HWQ1VEA&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=f3461fb3bb2ea936bff50bb27f6c9c793812788fb0056e36393c23b178d4f592"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 20",
                         "episode": 20,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=xa9a9bFsm3etiFz1f8lZLeyey4u9uWgazEGhRtLe1kicTn%2Fp6Zk8WEu%2BF8YKuXxj&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=db0c536edfaaf5fd5971c2058386518d91321e6323ca4b6d8d20e0e3c6a3dd2e",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=xa9a9bFsm3etiFz1f8lZLeyey4u9uWgazEGhRtLe1kicTn%2Fp6Zk8WEu%2BF8YKuXxj&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=db0c536edfaaf5fd5971c2058386518d91321e6323ca4b6d8d20e0e3c6a3dd2e"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 21",
                         "episode": 21,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=k2k9ukMSaoxzW8%2BGVGZHpFSbefHx%2BtlLtD3CxQKXJthNU3uOpX0SL7FPJ11ypuMu&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=eb22b6a027d6d2ff56f06506f23881591ac7e84fc2822425e1d2267927e68c1f",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=k2k9ukMSaoxzW8%2BGVGZHpFSbefHx%2BtlLtD3CxQKXJthNU3uOpX0SL7FPJ11ypuMu&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=eb22b6a027d6d2ff56f06506f23881591ac7e84fc2822425e1d2267927e68c1f"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 22",
                         "episode": 22,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=TCgClUKs9LtGG%2Bf%2BkURGhIf9SH8VaA8mzBO0j8omjogng6%2FnCYQsPOtco%2Bu26%2FGK&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=8455c24216000b15356efff154a16a016cab6b7b0a6a960b005ee8f3de48f473",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=TCgClUKs9LtGG%2Bf%2BkURGhIf9SH8VaA8mzBO0j8omjogng6%2FnCYQsPOtco%2Bu26%2FGK&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=8455c24216000b15356efff154a16a016cab6b7b0a6a960b005ee8f3de48f473"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 23",
                         "episode": 23,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=AEVYfAlbstEEGWSi36AyAz4gEp4v2knU8zBEt2fyC9EY2n1%2BegI%2FoneGjOmuLl9N&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=161a3efa5a0b436f4f12f7ee1a427ff8eb4fe0196451d5beacc1130b5391df22",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=AEVYfAlbstEEGWSi36AyAz4gEp4v2knU8zBEt2fyC9EY2n1%2BegI%2FoneGjOmuLl9N&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=161a3efa5a0b436f4f12f7ee1a427ff8eb4fe0196451d5beacc1130b5391df22"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 24",
                         "episode": 24,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=cniUjLmZZwJd%2BOoV1C7uNRHATDfVZrYcyT%2Bkvgi2tb1WFNQu6ttXZlHrDiUdjwu6&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=afe46855f8e3283c931232769d908419947892b274a1135d67573aaed0fe357b",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=cniUjLmZZwJd%2BOoV1C7uNRHATDfVZrYcyT%2Bkvgi2tb1WFNQu6ttXZlHrDiUdjwu6&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=afe46855f8e3283c931232769d908419947892b274a1135d67573aaed0fe357b"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 25",
                         "episode": 25,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=L70fR4wgmkxOoGhErYsO5ktQ5kBDxAQEgmzLs%2FaZtrdLVJVqyuSb7tRco3gX8zVE&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=c7ddb638403292fad646e34080a5bcd5546f0bfa39335a383074100afa9c7482",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=L70fR4wgmkxOoGhErYsO5ktQ5kBDxAQEgmzLs%2FaZtrdLVJVqyuSb7tRco3gX8zVE&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=c7ddb638403292fad646e34080a5bcd5546f0bfa39335a383074100afa9c7482"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 26",
                         "episode": 26,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=rCMkhKvMCXvhLvvXP1Z3hDRbIFEOY8misZW5amtXntYqLnvO%2BZgY1Pnz2dY9XgDi&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=1d6e64be70bb015d70f61687e6daa56f7021ad9a33a481e9aeeaddc821b4d824",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=rCMkhKvMCXvhLvvXP1Z3hDRbIFEOY8misZW5amtXntYqLnvO%2BZgY1Pnz2dY9XgDi&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=1d6e64be70bb015d70f61687e6daa56f7021ad9a33a481e9aeeaddc821b4d824"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 27",
                         "episode": 27,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=gJqs8VUciLRsNZ3D6qW6zRq97KUONWgWLDSzIVXrJfn1DWMgvPc%2FRN%2BfkriXMh7z&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=021cfeeff7cadfaea87d04daf6e13bacb8eb2e0c727d38623086ecf9da986655",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=gJqs8VUciLRsNZ3D6qW6zRq97KUONWgWLDSzIVXrJfn1DWMgvPc%2FRN%2BfkriXMh7z&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=021cfeeff7cadfaea87d04daf6e13bacb8eb2e0c727d38623086ecf9da986655"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 28",
                         "episode": 28,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=g9ONBHDK1BRKtHotJ5u8A7zUiri1J7iIJGCW7gPbnyt8Cj4uvJviiO1CBQ3ug2fw&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=efa7ead73be586d8e73a70b145ba24eebb70ae08f3a6b8b1c06f7312f0d56ff3",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=g9ONBHDK1BRKtHotJ5u8A7zUiri1J7iIJGCW7gPbnyt8Cj4uvJviiO1CBQ3ug2fw&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=efa7ead73be586d8e73a70b145ba24eebb70ae08f3a6b8b1c06f7312f0d56ff3"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 29",
                         "episode": 29,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=u9yZPAlOHo88SeUAu7lE1ddYnQX9A8aShcdNdVAKemZ%2F9uiigXGKKu%2F50P9I8bto&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=7e2d2a01579008b790be275e83ee29472647eb11d80e6fbd15d92156bd7240d9",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=u9yZPAlOHo88SeUAu7lE1ddYnQX9A8aShcdNdVAKemZ%2F9uiigXGKKu%2F50P9I8bto&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=7e2d2a01579008b790be275e83ee29472647eb11d80e6fbd15d92156bd7240d9"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 30",
                         "episode": 30,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=2i22PeZ5FhuqoqDr16Yi8Jr4gg8ta3BZSkFsJackedpfThSrzwZnRfPwEycsPWBp&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=f766bab0b9c7ae733b173abcc8c588e57bd45ffe4d2555a44645dc6f6e48b223",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=2i22PeZ5FhuqoqDr16Yi8Jr4gg8ta3BZSkFsJackedpfThSrzwZnRfPwEycsPWBp&expiry=Xhrh37Ep%2BWvcYUePvhmYhw%3D%3D&mac=f766bab0b9c7ae733b173abcc8c588e57bd45ffe4d2555a44645dc6f6e48b223"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     }
                 ]
@@ -16277,210 +16328,270 @@
                         "title": "Episódio 1",
                         "episode": 1,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=8yvx3A7RKEmJCteDnypMqO2Pe7Cgq%2BSshEjIpY2eBvThqj4YxUzMp%2Fof1gxzNHJv&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=0c336f4aaf7a549f96db60d3bd279d2d9a14b59f329fbf00c41a5666fc2893ff",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=8yvx3A7RKEmJCteDnypMqO2Pe7Cgq%2BSshEjIpY2eBvThqj4YxUzMp%2Fof1gxzNHJv&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=0c336f4aaf7a549f96db60d3bd279d2d9a14b59f329fbf00c41a5666fc2893ff"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 2",
                         "episode": 2,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=FQc38p1qJkguwELshzgWxDiH7Rlfkv5EXIj9o87ZYrOma8UQzvcYxLsS%2BOmSNZ5G&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=ca60acc2362c5135a3f727a1cc39299575bad95ad3a91de29ab9884c3cb038c9",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=FQc38p1qJkguwELshzgWxDiH7Rlfkv5EXIj9o87ZYrOma8UQzvcYxLsS%2BOmSNZ5G&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=ca60acc2362c5135a3f727a1cc39299575bad95ad3a91de29ab9884c3cb038c9"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 3",
                         "episode": 3,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=7o6VJldND%2BuHQDgHTKkbSTgfMkNQWVxsd2CEPGLibuTtZkUf%2F1iVUdoJG0%2BaAbLF&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=71b7b60eb4e7f2a474ce28f5482d6a964a5c35148cc361303282926a17a8fdde",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=7o6VJldND%2BuHQDgHTKkbSTgfMkNQWVxsd2CEPGLibuTtZkUf%2F1iVUdoJG0%2BaAbLF&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=71b7b60eb4e7f2a474ce28f5482d6a964a5c35148cc361303282926a17a8fdde"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 4",
                         "episode": 4,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Meh%2BTLECuB708K2SxGWHGLADWHSWWttwHl7RN4qFrq6NOXNsghlMSbNdP9qKljHl&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=d2385dac5e18ee4dc02c7549d25beba01bbfc9b10644bcda51585dab2466e1d3",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Meh%2BTLECuB708K2SxGWHGLADWHSWWttwHl7RN4qFrq6NOXNsghlMSbNdP9qKljHl&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=d2385dac5e18ee4dc02c7549d25beba01bbfc9b10644bcda51585dab2466e1d3"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 5",
                         "episode": 5,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=T507QW4y5hL1EU0pNsOb4J0IQPkneEHMWL62PNdt5kb4syFmEL%2BqwTYB7u64Z8C3&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=371f843a0b9b372e7330e4de7d50a2d7ac0d10fdfb81fab6ce91f7fa373fba86",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=T507QW4y5hL1EU0pNsOb4J0IQPkneEHMWL62PNdt5kb4syFmEL%2BqwTYB7u64Z8C3&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=371f843a0b9b372e7330e4de7d50a2d7ac0d10fdfb81fab6ce91f7fa373fba86"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 6",
                         "episode": 6,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=LNLkPmF98jSPZg%2BUnR9%2BZUSc9bqq8GejO61A0UptOsXUzIkc%2B8NwhvXJwuHwk3jM&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=28d5c5f44e52d15b45001536ea00c564f9b29d1cd7d3ad422a2ffa839b4174d9",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=LNLkPmF98jSPZg%2BUnR9%2BZUSc9bqq8GejO61A0UptOsXUzIkc%2B8NwhvXJwuHwk3jM&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=28d5c5f44e52d15b45001536ea00c564f9b29d1cd7d3ad422a2ffa839b4174d9"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 7",
                         "episode": 7,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=GoyrqKv9s00oALuoRLMR2Unb3XRzYFALns%2FKz0br8VZRVOUP6A2PoEtKs%2FpgJ5Ze&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=4eaab6057ff396e1de1e11dbc6fc30d3d454b7e13a8897023c48a91c4c7fc639",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=GoyrqKv9s00oALuoRLMR2Unb3XRzYFALns%2FKz0br8VZRVOUP6A2PoEtKs%2FpgJ5Ze&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=4eaab6057ff396e1de1e11dbc6fc30d3d454b7e13a8897023c48a91c4c7fc639"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 8",
                         "episode": 8,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=QFm%2FvsTY2AL6O0bkAuyzuPiPbLXHO%2B%2F5SGQDd1TtuhkgJzUwHBBTfXasF7sG8ISq&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=0b3ec86b00f5bd76ca9d38a05f7a15f543dd303305a18da1a97d759cd81e0d5b",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=QFm%2FvsTY2AL6O0bkAuyzuPiPbLXHO%2B%2F5SGQDd1TtuhkgJzUwHBBTfXasF7sG8ISq&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=0b3ec86b00f5bd76ca9d38a05f7a15f543dd303305a18da1a97d759cd81e0d5b"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 9",
                         "episode": 9,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=EXWvO8d3yQLK5owqpPP5AfrSGRDAG1cxcvjIaCwNLTbSL98qo%2FgAcLR4Iauezepx&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=09cee89bfb60694e156ba9c726c47fe52e0cd065e1e9dfb4a299793edd7231c8",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=EXWvO8d3yQLK5owqpPP5AfrSGRDAG1cxcvjIaCwNLTbSL98qo%2FgAcLR4Iauezepx&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=09cee89bfb60694e156ba9c726c47fe52e0cd065e1e9dfb4a299793edd7231c8"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 10",
                         "episode": 10,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Mz1LHkq6OeKHGWJOiQAi4YNLhh8%2FaKWOEaUzII4Nycs%2BYMO1mnK3dlY8UnqYDU0a&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=8b082b67a7ad9400d0e0bdcc751300b575d5017423375ef6bebf647e4a5580ea",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Mz1LHkq6OeKHGWJOiQAi4YNLhh8%2FaKWOEaUzII4Nycs%2BYMO1mnK3dlY8UnqYDU0a&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=8b082b67a7ad9400d0e0bdcc751300b575d5017423375ef6bebf647e4a5580ea"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 11",
                         "episode": 11,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=xHZPM1raeIFCeMuxAIi3jmZfU7ISvd%2FpT0%2F9s5hBigrMUIf0B%2Bwf%2B6NdwTJY0NQX&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=de9f5e84a2008c6bdfae7995876738ad601a24d75e3b077177b094197e1ae57e",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=xHZPM1raeIFCeMuxAIi3jmZfU7ISvd%2FpT0%2F9s5hBigrMUIf0B%2Bwf%2B6NdwTJY0NQX&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=de9f5e84a2008c6bdfae7995876738ad601a24d75e3b077177b094197e1ae57e"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 12",
                         "episode": 12,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=cer8DAA4GhEF8ZzpIeTA0ppoI9wanLscoTbafFT%2FQ85MF9MaJmJrIlk1WB3h%2FNmf&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=06f0d50a6e221a878807c70d48f1ac1692f992c5856de33f6d013c0d0a47e339",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=cer8DAA4GhEF8ZzpIeTA0ppoI9wanLscoTbafFT%2FQ85MF9MaJmJrIlk1WB3h%2FNmf&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=06f0d50a6e221a878807c70d48f1ac1692f992c5856de33f6d013c0d0a47e339"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 13",
                         "episode": 13,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=HghaCTa6X7L6dNYkKDiVKUX4EQxOeWl75fUjedJZ0X42xTuMvic3aeo0G%2FnHdMeZ&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=5867e456ed35de81fc91e48970ddf43d5e09193ea8deafe8e358aa65259999cd",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=HghaCTa6X7L6dNYkKDiVKUX4EQxOeWl75fUjedJZ0X42xTuMvic3aeo0G%2FnHdMeZ&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=5867e456ed35de81fc91e48970ddf43d5e09193ea8deafe8e358aa65259999cd"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 14",
                         "episode": 14,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=0c2g20QzQN2h1qOyobSnaTIz%2FYfBEG0QrmvwcbJIoU4tGsb7jF8j0e9FY9UC%2Fpge&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=3f1decd55f465494e104f92168086cc6cad849fd21e9fd5d96725d7696080fa7",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=0c2g20QzQN2h1qOyobSnaTIz%2FYfBEG0QrmvwcbJIoU4tGsb7jF8j0e9FY9UC%2Fpge&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=3f1decd55f465494e104f92168086cc6cad849fd21e9fd5d96725d7696080fa7"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 15",
                         "episode": 15,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=W9DQlz1OdPLwOOPXo9GmdZEqVY7C47TywtgG%2Bzi%2BKxvUk0tC2HhSvjG4X2RQ%2Fz0c&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=c058fc8f5232f71ae5c8dae3dde466de84c908d50793996f02310760e165d1c1",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=W9DQlz1OdPLwOOPXo9GmdZEqVY7C47TywtgG%2Bzi%2BKxvUk0tC2HhSvjG4X2RQ%2Fz0c&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=c058fc8f5232f71ae5c8dae3dde466de84c908d50793996f02310760e165d1c1"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 16",
                         "episode": 16,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=INPTPJfMaN2BF7mMGua%2FpjbZMssAqRnEMXCH%2FqpXPRnTw9ObfZkotkWj%2FZexgHCn&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=c1eddf295114461b7abf5a503c27048237fcf49b5a55cd8799ed98cb255f091b",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=INPTPJfMaN2BF7mMGua%2FpjbZMssAqRnEMXCH%2FqpXPRnTw9ObfZkotkWj%2FZexgHCn&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=c1eddf295114461b7abf5a503c27048237fcf49b5a55cd8799ed98cb255f091b"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 17",
                         "episode": 17,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=XsDmYfUPrmnx4nMlQuHdTUrTyhKVPlqsGSURW20liuBRhl6rPRLXQjqNM6Dx%2FCZ5&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=e31d0fb6918262c1a13afd3015367f48da1a6cf9e60bd2f1e9b2ffab34d43a73",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=XsDmYfUPrmnx4nMlQuHdTUrTyhKVPlqsGSURW20liuBRhl6rPRLXQjqNM6Dx%2FCZ5&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=e31d0fb6918262c1a13afd3015367f48da1a6cf9e60bd2f1e9b2ffab34d43a73"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 18",
                         "episode": 18,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=UBg8pZ1Y7kCsTtZ3sahlhqaRazH7SudadL%2B5M1DtRWAA2OOOpxRTs17sYqw3NuVS&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=8a7006072c1092ab53bb82d091a4ff5ac0857be2172ff509a23d1f0af72634d5",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=UBg8pZ1Y7kCsTtZ3sahlhqaRazH7SudadL%2B5M1DtRWAA2OOOpxRTs17sYqw3NuVS&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=8a7006072c1092ab53bb82d091a4ff5ac0857be2172ff509a23d1f0af72634d5"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 19",
                         "episode": 19,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=hhMLEjrm4kw9fMpWOj3CbkEwB4OgadtR8ZbJXOnlhH6e34LmZIhVYyYb%2FfCqLmAl&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=27967deb897914d63957087d982913b918f44387350cc5ba1c9e164fa5f9d664",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=hhMLEjrm4kw9fMpWOj3CbkEwB4OgadtR8ZbJXOnlhH6e34LmZIhVYyYb%2FfCqLmAl&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=27967deb897914d63957087d982913b918f44387350cc5ba1c9e164fa5f9d664"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 20",
                         "episode": 20,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=KOlQWCC0BdOFJDa2Qbj2s7QxrnIKx%2FXM1uUUpohpakFrVUMrdnHfoHEeC4t1YKan&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=958bef377bbc458a82fd2269875116b66730186726051970999f992fcebc874e",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=KOlQWCC0BdOFJDa2Qbj2s7QxrnIKx%2FXM1uUUpohpakFrVUMrdnHfoHEeC4t1YKan&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=958bef377bbc458a82fd2269875116b66730186726051970999f992fcebc874e"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 21",
                         "episode": 21,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=NpGiWRXv6GsqWYjmXrR9exa7%2FEGDsUha8G7xM5Oak%2BX0%2Bhxl2KmFJ6FE%2FV%2B9Mavu&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=322e11dc855a5e201708abbc373413472df6273ab8a0e34817b1e8b728a722b6",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=NpGiWRXv6GsqWYjmXrR9exa7%2FEGDsUha8G7xM5Oak%2BX0%2Bhxl2KmFJ6FE%2FV%2B9Mavu&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=322e11dc855a5e201708abbc373413472df6273ab8a0e34817b1e8b728a722b6"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 22",
                         "episode": 22,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=MBmGLjaCLBDaKZVB2OEkzTKNSEmm6bSffzrzFixZTZB0MKDdG2bLLF6dmWovrWmY&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=89cd6948e32a96e61644176ae25eaec1dc9960059ccb6f278237faca5c19f2ad",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=MBmGLjaCLBDaKZVB2OEkzTKNSEmm6bSffzrzFixZTZB0MKDdG2bLLF6dmWovrWmY&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=89cd6948e32a96e61644176ae25eaec1dc9960059ccb6f278237faca5c19f2ad"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 23",
                         "episode": 23,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=HFfZFyorSdYdwqGGMmVdgw3tudaydmdOqG8bHI%2FafT76%2Bcx2dKy9PljOOvBHUouZ&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=9beae25f028120786a091fcd9d2f7b3946960e477a2ad7b0e208283739009234",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=HFfZFyorSdYdwqGGMmVdgw3tudaydmdOqG8bHI%2FafT76%2Bcx2dKy9PljOOvBHUouZ&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=9beae25f028120786a091fcd9d2f7b3946960e477a2ad7b0e208283739009234"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 24",
                         "episode": 24,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=d3w7qJpoTXH2yW1Kkf0SfL3S1bBNNIZ9kiSXTsQfeM7Ugj%2F89PkKZ4ToEMjJ2jUR&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=836d12e401ca79bf37d78ee99fb51a750b18c29eb19db2bb667e2bbaf37b3c62",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=d3w7qJpoTXH2yW1Kkf0SfL3S1bBNNIZ9kiSXTsQfeM7Ugj%2F89PkKZ4ToEMjJ2jUR&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=836d12e401ca79bf37d78ee99fb51a750b18c29eb19db2bb667e2bbaf37b3c62"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 25",
                         "episode": 25,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=ThyPdtd6gA4rxa0qNcVwU5VOV6ISRz%2F%2FTuwuKH9O9T%2BX7c0Se%2FvBjU7kxTbToygA&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=0395ec0992c5392adefbec068daa7340fc860d3f86c39db47f83d6612444fcb6",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=ThyPdtd6gA4rxa0qNcVwU5VOV6ISRz%2F%2FTuwuKH9O9T%2BX7c0Se%2FvBjU7kxTbToygA&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=0395ec0992c5392adefbec068daa7340fc860d3f86c39db47f83d6612444fcb6"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 26",
                         "episode": 26,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=1hjAC6ztBiIAk3JqWiKPW%2FwKNm5mKCdMEl0R1BBR3ebxUg9KnZT5qAlwJIgmjx9h&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=06bdf8f0618c4d5a878b7aa3f01234eafd4707490a333dcfc4b5b678568fb21f",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=1hjAC6ztBiIAk3JqWiKPW%2FwKNm5mKCdMEl0R1BBR3ebxUg9KnZT5qAlwJIgmjx9h&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=06bdf8f0618c4d5a878b7aa3f01234eafd4707490a333dcfc4b5b678568fb21f"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 27",
                         "episode": 27,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=vraxmHHIIx6sLYSwxWpB7GueSqqA7gsJA1AAYJDnnGBzgyBm7gYlMhqD%2BCYMOWsB&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=ce37a73968a4aca38893a21f19606bc283015b0c212612a7c3523315e6519686",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=vraxmHHIIx6sLYSwxWpB7GueSqqA7gsJA1AAYJDnnGBzgyBm7gYlMhqD%2BCYMOWsB&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=ce37a73968a4aca38893a21f19606bc283015b0c212612a7c3523315e6519686"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 28",
                         "episode": 28,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=MYL1wUOcNK%2BQQH3QJd%2FQwhammFjdjLSh8DxntOIknjNV82Yh3Dkq67CKGsR3RAi5&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=d44252a6c5dca053d931d53a20f355e7299dbd251fc2bb0064f7358c7d0210a7",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=MYL1wUOcNK%2BQQH3QJd%2FQwhammFjdjLSh8DxntOIknjNV82Yh3Dkq67CKGsR3RAi5&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=d44252a6c5dca053d931d53a20f355e7299dbd251fc2bb0064f7358c7d0210a7"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 29",
                         "episode": 29,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=MpA62mXRgZfZxo25wz9nv9zuT8qmKB0qH9sqC%2F6iUSxAlpdokz%2FsqwJfdVqsg2pk&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=298f7be8446c28683b7c4c0af21f02113d0bc867ca3e1b22c70a4d57784c6231",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=MpA62mXRgZfZxo25wz9nv9zuT8qmKB0qH9sqC%2F6iUSxAlpdokz%2FsqwJfdVqsg2pk&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=298f7be8446c28683b7c4c0af21f02113d0bc867ca3e1b22c70a4d57784c6231"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     },
                     {
                         "title": "Episódio 30",
                         "episode": 30,
                         "rating": 0.0,
-                        "url": "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Y1QKV%2BtGz3puLs3Vs6HLSKcV74fznWv4kQ18BMie4LNxyVXSFC1o%2Fft2Mzfk4Cop&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=9ea61d58cdc3d3f9f638ff7d1b5aaeb7233a5c77e534a99c3d3e5f589008e09e",
+                        "url": [
+                            "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Y1QKV%2BtGz3puLs3Vs6HLSKcV74fznWv4kQ18BMie4LNxyVXSFC1o%2Fft2Mzfk4Cop&expiry=HspY1QlVBHgNeKdYkgtp5Q%3D%3D&mac=9ea61d58cdc3d3f9f638ff7d1b5aaeb7233a5c77e534a99c3d3e5f589008e09e"
+                        ],
                         "poster": "https://image.tmdb.org/t/p/originalNone"
                     }
                 ]
