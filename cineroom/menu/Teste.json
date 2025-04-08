@@ -223,21 +223,21 @@
             },
             {
                 "categories": "Por Atores",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
+                "poster": "https://archive.org/download/em_alta/actor.png",
                 "backdrop": "https://exemplo.com/backdrop_atores.jpg",
                 "description": "Filmes organizados por atores principais",
                 "action": "list_actors"
             },
             {
                 "categories": "Por Ano",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
+                "poster": "https://archive.org/download/em_alta/year.png",
                 "backdrop": "https://exemplo.com/backdrop_anos.jpg",
                 "description": "Filmes e Series organizados por ano de lançamento",
                 "action": "list_years_explorar"
             },
             {
                 "categories": "Por Plataformas",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
+                "poster": "https://archive.org/download/em_alta/plataforma.png",
                 "backdrop": "https://exemplo.com/backdrop_generos.jpg",
                 "description": "Filmes e Séries disponiveis em plataformas de streaming ou VOD",
                 "action": "list_providers"
