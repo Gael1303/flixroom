@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="EPG de Teste" generator-info-url="https://exemplo.com">
+  <!-- Canais Brasileiros (IDs compatíveis com o seu M3U de teste) -->
+  <channel id="Globo.br">
+    <display-name>TV Globo</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/TV_Globo_logo.svg/320px-TV_Globo_logo.svg.png"/>
+  </channel>
+  
+  <channel id="SBT.br">
+    <display-name>SBT</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SBT_logo.svg/320px-SBT_logo.svg.png"/>
+  </channel>
+
+  <!-- Programação para TV Globo -->
+  <programme start="20240609200000 -0300" stop="20240609210000 -0300" channel="Globo.br">
+    <title>Jornal Nacional</title>
+    <desc>Telejornal com as principais notícias do Brasil e do mundo. Apresentação: William Bonner e Renata Vasconcellos.</desc>
+  </programme>
+  
+  <programme start="20240609210000 -0300" stop="20240609220000 -0300" channel="Globo.br">
+    <title>Novela: Elas por Elas</title>
+    <desc>Capítulo emocionante da novela das 9.</desc>
+  </programme>
+
+  <!-- Programação para SBT -->
+  <programme start="20240609200000 -0300" stop="20240609203000 -0300" channel="SBT.br">
+    <title>Jornal do SBT</title>
+    <desc>Telejornal apresentado por Rachel Sheherazade.</desc>
+  </programme>
+  
+  <programme start="20240609203000 -0300" stop="20240609210000 -0300" channel="SBT.br">
+    <title>Programa Silvio Santos</title>
+    <desc>Diversão e prêmios com o maior comunicador do Brasil.</desc>
+  </programme>
+</tv>
