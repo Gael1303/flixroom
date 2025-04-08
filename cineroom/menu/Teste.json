@@ -1,9 +1,10 @@
 [
     {
-        "status": "on"
+        "status": "off"
     },
     {
         "menu_title": "Pesquisar",
+		"menu_key": "Pesquisar",
         "poster": "https://archive.org/download/em_alta/search.png",
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
         "icon": "https://exemplo.com/icone_favoritos.png",
@@ -11,7 +12,8 @@
         "status": "on"
     },
     {
-        "menu_title": "Canais",
+        "menu_title": "TV ao Vivo",
+		"menu_key": "Canais",
         "poster": "https://archive.org/download/em_alta/canais.png",
         "fanart": "https://exemplo.com/fanart_canais.jpg",
         "status": "on",
@@ -25,6 +27,7 @@
     },
     {
         "menu_title": "Filmes",
+		"menu_key": "Filmes",
         "poster": "https://archive.org/download/em_alta/filmes.png",
         "fanart": "https://exemplo.com/fanart_filmes.jpg",
         "status": "on",
@@ -106,6 +109,7 @@
     },
     {
         "menu_title": "Séries",
+		"menu_key": "Séries",
         "poster": "https://archive.org/download/em_alta/series.png",
         "fanart": "https://exemplo.com/fanart_series.jpg",
         "status": "on",
@@ -193,6 +197,7 @@
     },
     {
         "menu_title": "Explorar",
+		"menu_key": "Explorar",
         "poster": "https://archive.org/download/em_alta/explorar.png",
         "fanart": "https://exemplo.com/fanart_filmes.jpg",
         "status": "on",
@@ -246,6 +251,7 @@
     },
     {
         "menu_title": "Minha Lista",
+		"menu_key": "Minhas Lista",
         "poster": "https://archive.org/download/em_alta/minha_lista.png",
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
         "action": "list_favorites",
