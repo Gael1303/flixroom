@@ -1,4 +1,3 @@
-
 [
     {
         "status": "on"
@@ -11,14 +10,14 @@
         "action": "search_videos",
         "status": "on"
     },
-{
+    {
         "menu_title": "Canais (Teste)",
         "poster": "https://archive.org/download/em_alta/canais.png",
         "fanart": "https://exemplo.com/fanart_canais.jpg",
         "status": "on",
         "action": "list_canais",
         "externallink": [
-		    "search(Pesquisar Canal)",
+            "search(Pesquisar Canal)",
             "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista1(Lista 1)",
             "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista2.m3u8(Lista 2)",
             "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista3.m3u8(Lista 3)"
@@ -88,13 +87,6 @@
                 "description": "Filmes organizados por gênero",
                 "action": "list_genres"
             },
-	    {
-                "categories": "Por Plataformas",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
-                "backdrop": "https://exemplo.com/backdrop_generos.jpg",
-                "description": "Filmes disponiveis em plataformas de streaming",
-                "action": "list_providers"
-            },
             {
                 "categories": "Por Estudios",
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
@@ -103,18 +95,11 @@
                 "action": "list_studios"
             },
             {
-                "categories": "Por Ano",
-                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
-                "backdrop": "https://exemplo.com/backdrop_anos.jpg",
-                "description": "Filmes organizados por ano de lançamento",
-                "action": "list_years"
-            },
-            {
                 "categories": "Todos os Filmes",
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Todos os Filmes em um só lugar",
-                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/movies/lista.filmes.json",
+                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/movies/tudo.json",
                 "sort_method": "label"
             }
         ]
@@ -140,7 +125,7 @@
                 "description": "Séries recem-adicionados ao catalogo, sejam eles novos ou antigos",
                 "action": "list_recently_added_series"
             },
-	    {
+            {
                 "categories": "Novos Episodios",
                 "poster": "https://archive.org/download/1700740365675/1700740365651.png",
                 "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
@@ -235,6 +220,27 @@
                 "description": "Filmes Aleatorios",
                 "action": "list_random",
                 "sort_method": "rating"
+            },
+            {
+                "categories": "Por Atores",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
+                "backdrop": "https://exemplo.com/backdrop_atores.jpg",
+                "description": "Filmes organizados por atores principais",
+                "action": "list_actors"
+            },
+            {
+                "categories": "Por Ano",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
+                "backdrop": "https://exemplo.com/backdrop_anos.jpg",
+                "description": "Filmes organizados por ano de lançamento",
+                "action": "list_years"
+            },
+            {
+                "categories": "Por Plataformas",
+                "poster": "https://archive.org/download/1700740365675/1700740365741.png",
+                "backdrop": "https://exemplo.com/backdrop_generos.jpg",
+                "description": "Filmes disponiveis em plataformas de streaming",
+                "action": "movies_by_provider"
             }
         ]
     },
