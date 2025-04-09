@@ -1,6 +1,285 @@
 [
   {"status": "on"},
     {
+        "tmdb_id": 696506,
+        "title": "Mickey 17",
+        "date_added": "2025-04-09",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6fd4bec8b88dd19f5ff57c235f9f36134cd01e5",
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecf6992fbc014c3e7ea6e43433a550ea06c1a8a7"
+        ],
+        "year": 2025,
+        "genres": [
+            "Ficção científica",
+            "Comédia",
+            "Aventura"
+        ],
+        "actors": [
+            "Robert Pattinson",
+            "Naomi Ackie",
+            "Steven Yeun",
+            "Mark Ruffalo",
+            "Toni Collette"
+        ],
+        "rating": 6.955,
+        "director": [
+            "Bong Joon-Ho"
+        ],
+        "runtime": 136,
+        "premiered": "2025-02-28",
+        "poster": "https://image.tmdb.org/t/p/w500/rqMl7ngnuRM4ZltatYQeSArG7gM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hGLywNhy1Fo1rNFHsNZsXGS69B8.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/ffJVoywEy5F838YkqBljNm0yyit.png",
+        "synopsis": "Mickey faz parte de um programa espacial de colonização e sempre é enviado para missões perigosas, quase suicidas. Se morrer, ele é clonado e boa parte de suas memórias são recuperadas. Mas, após seis mortes, ele começa a entender o porquê de seu cargo nunca ter sido ocupado antes.",
+        "studio": [
+            "Warner Bros. Pictures",
+            "Plan B Entertainment",
+            "Offscreen",
+            "Kate Street Picture Company",
+            "Domain Entertainment"
+        ],
+        "popularity": 243.092,
+        "trending": true,
+        "providers": []
+    },
+    {
+        "tmdb_id": 1195506,
+        "title": "Novocaine: À Prova de Dor",
+        "date_added": "2025-04-09",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9dd441c01c6929d4c3901932ae5a8264e1014d6c"
+        ],
+        "year": 2025,
+        "genres": [
+		    "HDCAM",
+            "Ação",
+            "Comédia",
+            "Thriller"
+        ],
+        "actors": [
+            "Jack Quaid",
+            "Amber Midthunder",
+            "Ray Nicholson",
+            "Jacob Batalon",
+            "Betty Gabriel"
+        ],
+        "rating": 7.0,
+        "director": [
+            "Dan Berk",
+            "Robert Olsen"
+        ],
+        "runtime": 110,
+        "premiered": "2025-03-12",
+        "poster": "https://image.tmdb.org/t/p/w500/knIEw2jWOxrb6ugNPEoaiYI6p77.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sNx1A3822kEbqeUxvo5A08o4N7o.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/458Ty20JuTIzJ7X9wNAaHyOORrq.png",
+        "synopsis": "Quando a garota de seus sonhos é sequestrada, Nathan, um homem comum, transforma sua condição de não sentir dor em sua maior força para recuperar a amada das garras dos criminosos.",
+        "studio": [
+            "Circle of Confusion",
+            "Safehouse Pictures",
+            "Paramount Pictures",
+            "Infrared Pictures",
+            "Domain Entertainment",
+            "FilmNation Entertainment",
+            "Mediaflix"
+        ],
+        "popularity": 73.9419,
+        "trending": true,
+        "providers": []
+    },
+    {
+        "tmdb_id": 774370,
+        "title": "O Homem-Cão",
+        "date_added": "2025-04-09",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:87c480c3e5420c047cabf26d42d3a9734aa12a32"
+        ],
+        "year": 2025,
+        "genres": [
+            "Família",
+            "Comédia",
+            "Aventura",
+            "Animação"
+        ],
+        "actors": [
+            "Peter Hastings",
+            "Pete Davidson",
+            "Lil Rel Howery",
+            "Isla Fisher",
+            "Lucas Hopkins Calderon"
+        ],
+        "rating": 7.8,
+        "director": [
+            "Peter Hastings"
+        ],
+        "runtime": 89,
+        "premiered": "2025-01-24",
+        "poster": "https://image.tmdb.org/t/p/w500/iBZlbYSVOYjBJDwg4D3bcK0hE8F.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/czEi9dJaCNUZpObhzQPf3yoyc0P.png",
+        "synopsis": "Metade humano, metade cão. O Homem-Cão nasce depois de um acidente entre um policial humano e seu fiel cachorro de estimação durante uma operação. Uma operação para salvar a vida dos dois realiza a fusão do corpo de um com a cabeça do outro. Sob essa nova identidade, o homem-cão vira então um protetor da cidade e precisa parar os planos de destruição do malvado gato e supervilão Pepê. Pronto para criar uma versão sua em miniatura, o pequeno Pepezinho, e duplicar sua capacidade criminosa, o gato, porém, perde o controle da situação e acaba precisando se unir com o homem-cão. Os dois precisam, então, correr contra o tempo para salvar o pequeno gatinho das garras de um inimigo em comum. Baseado na série de livros de sucesso de Dav Pilkey, Homem-Cão se transforma no herói que precisa ser e descobre o poder da família em meio a aventuras eletrizantes.",
+        "studio": [
+            "DreamWorks Animation"
+        ],
+        "popularity": 50.4958,
+        "trending": true,
+        "providers": []
+    },
+    {
+        "tmdb_id": 658224,
+        "title": "O Maravilhoso Mágico de Oz – Parte 1",
+        "date_added": "2025-04-09",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d5b511d935fc924675f64d2cd6133d99327f6c9"
+        ],
+        "year": 2025,
+        "genres": [
+            "Drama",
+            "Fantasia"
+        ],
+        "actors": [
+            "Екатерина Червова",
+            "Юрий Колокольников",
+            "Артур Ваха",
+            "Светлана Ходченкова",
+            "Vasilina Makovtseva"
+        ],
+        "rating": 6.8,
+        "director": [
+            "Игорь Волошин"
+        ],
+        "runtime": 104,
+        "premiered": "2025-01-01",
+        "poster": "https://image.tmdb.org/t/p/w500/s4pK8Cpna56SbYbmFGgKyBvLj7A.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/1t3YfNmAZeWIFEctgh43pL10gdQ.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/ocjVwrY8b1ZhKRGfGf50STlsJ9R.png",
+        "synopsis": "Levada por um furacão a um mundo mágico e desconhecido, Ellie decide seguir a estrada de tijolos amarelos rumo à Cidade Esmeralda, onde acredita que o poderoso Mágico poderá ajudá-la a voltar para casa. No caminho, ela encontra grandes amigos: o Espantalho, que sonha em ter um cérebro; o Homem de Lata, que deseja um coração; e o Leão Covarde, que busca coragem. Juntos, eles enfrentam desafios em uma história encantadora que celebra a amizade, a coragem e a força dos sonhos.",
+        "studio": [
+            "Central Partnership",
+            "Kinoslovo",
+            "Studio Trite",
+            "CGF Films"
+        ],
+        "popularity": 33.5956,
+        "trending": false,
+        "providers": []
+    },
+    {
+        "tmdb_id": 1088514,
+        "title": "O Quarto ao Lado",
+        "date_added": "2025-04-09",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:abc5e127a6a88ce4b4e746455112bf9e41550384"
+        ],
+        "year": 2024,
+        "genres": [
+            "Drama"
+        ],
+        "actors": [
+            "Julianne Moore",
+            "Tilda Swinton",
+            "John Turturro",
+            "Alessandro Nivola",
+            "Juan Diego Botto"
+        ],
+        "rating": 6.8,
+        "director": [
+            "Pedro Almodóvar"
+        ],
+        "runtime": 107,
+        "premiered": "2024-10-07",
+        "poster": "https://image.tmdb.org/t/p/w500/xkR30rpo6Fl0jBZ6QKGR0GUARnK.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9Xx0BCkxDsF47niAPsb8lQ0O9Qu.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/kM1bKVGLhJlrG7RI8ZQht02XF78.png",
+        "synopsis": "Ingrid, uma escritora de sucesso, decide retomar o contato com Martha, sua amiga de longa data e jornalista de guerra, com quem não falava há muitos anos. Conforme se reconectam, as duas mergulham em lembranças do passado, relembrando histórias, compartilhando experiências, artes e filmes que marcaram suas vidas. No entanto, essa reconciliação é posta à prova quando Martha faz um pedido inesperado, que desafiará a força do laço renovado entre elas.",
+        "studio": [
+            "El Deseo"
+        ],
+        "popularity": 7.3163,
+        "trending": false,
+        "providers": []
+    },
+    {
+        "tmdb_id": 87217,
+        "title": "A Concepção",
+        "date_added": "2025-04-09",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04a331547c8ac85a49080ae19bef7366cb87d73d",
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:efdf81e74aabd9aaec836f4f4e69e183f4571e45"
+        ],
+        "year": 2005,
+        "genres": [
+            "Drama"
+        ],
+        "actors": [
+            "Matheus Nachtergaele",
+            "Milhem Cortaz",
+            "Juliano Cazarré",
+            "Murilo Grossi",
+            "Gabrielle Lopes"
+        ],
+        "rating": 4.8,
+        "director": [
+            "José Eduardo Belmonte"
+        ],
+        "runtime": 96,
+        "premiered": "2005-11-27",
+        "poster": "https://image.tmdb.org/t/p/w500/w3TZ8wsQWSduU9EZClS2LwwPsMK.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9fUx1GV8lALwb1cbUdIa8gsJv1J.jpg",
+        "clearlogo": null,
+        "synopsis": "Alex, Lino e Liz são filhos de diplomatas, que vivem juntos em Brasília. Eles moram em uma casa repleta de quinquilharias obtidas nos mais variados cantos do mundo e levam uma vida entediada. Até que surge em suas vidas uma pessoa sem nome e sem passado, que se chama X e propõe viver um dia sem qualquer impedimento. X propõe um movimento chamado Concepcionismo, que consiste na morte ao ego e em seguir o caminho do excesso, que é encampado pelo trio de amigos.",
+        "studio": [
+            "Olhos de Cão Produções Cinematográficas",
+            "Film Noise"
+        ],
+        "popularity": 0.8306,
+        "trending": false,
+        "providers": []
+    },
+    {
+        "tmdb_id": 1446943,
+        "title": "O Melhor do Mundo",
+        "date_added": "2025-04-09",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe0b660642bda764b613441bbc8e0e5b706f521e"
+        ],
+        "year": 2025,
+        "genres": [
+            "Comédia",
+            "Drama"
+        ],
+        "actors": [
+            "Michel Brown",
+            "Martino Leonardi",
+            "Mayra Hermosillo",
+            "Fernanda Castillo",
+            "Julieta Egurrola"
+        ],
+        "rating": 7.0,
+        "director": [
+            "Salvador Espinosa"
+        ],
+        "runtime": 83,
+        "premiered": "2025-04-08",
+        "poster": "https://image.tmdb.org/t/p/w500/qED1q18l2rM5eBbJsmnc4JakN5b.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/uzAYt3mJ0vZIf8VcQogW9PSLFAN.jpg",
+        "clearlogo": null,
+        "synopsis": "Ao descobrirem que podem não ter o mesmo sangue, pai e filho embarcam em uma viagem cheia de aventuras pelo México em busca da verdade.",
+        "studio": [
+            "Desconhecido"
+        ],
+        "popularity": 0.6503,
+        "trending": false,
+        "providers": []
+    },
+    {
         "tmdb_id": 1229730,
         "popularity": 369.9575,
         "trending": false,
@@ -51,6 +330,7 @@
         ],
         "year": 2025,
         "genres": [
+		    "HDCAM",
             "Ação",
             "Thriller",
             "Ficção científica"
