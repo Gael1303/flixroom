@@ -251,6 +251,15 @@
         ]
     },
     {
+        "menu_title": "TMDb",
+	"menu_key": "TMDb",
+        "poster": "https://previews.123rf.com/images/get4net/get4net2112/get4net211230073/179642877-the-movie-database-tmdb-a-popular-user-editable-database-for-movies-and-tv-shows.jpg",
+        "fanart": "https://exemplo.com/fanart_favoritos.jpg",
+        "icon": "https://exemplo.com/icone_favoritos.png",
+        "action": "tmdb",
+        "status": "on"
+    },	
+    {
         "menu_title": "Minha Lista",
 		"menu_key": "Minhas Lista",
         "poster": "https://archive.org/download/em_alta/minha_lista.png",
