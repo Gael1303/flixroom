@@ -1,10 +1,7 @@
 [
     {
-        "status": "off"
-    },
-    {
         "menu_title": "Pesquisar",
-		"menu_key": "Pesquisar",
+        "menu_key": "Pesquisar",
         "poster": "https://archive.org/download/em_alta/search.png",
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
         "icon": "https://exemplo.com/icone_favoritos.png",
@@ -13,7 +10,7 @@
     },
     {
         "menu_title": "Canais",
-	"menu_key": "Canais",
+        "menu_key": "Canais",
         "poster": "https://archive.org/download/em_alta/canais.png",
         "fanart": "https://exemplo.com/fanart_canais.jpg",
         "status": "on",
@@ -23,12 +20,12 @@
             "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista1(Servidor 1)",
             "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista2.m3u8(Servidor 2)",
             "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista3.m3u8(Servidor 3)",
-	    "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista4.m3u8(Servidor 4)"	
+            "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista4.m3u8(Servidor 4)"
         ]
     },
     {
         "menu_title": "Filmes",
-		"menu_key": "Filmes",
+        "menu_key": "Filmes",
         "poster": "https://archive.org/download/em_alta/filmes.png",
         "fanart": "https://exemplo.com/fanart_filmes.jpg",
         "status": "on",
@@ -110,7 +107,7 @@
     },
     {
         "menu_title": "Séries",
-		"menu_key": "Séries",
+        "menu_key": "Séries",
         "poster": "https://archive.org/download/em_alta/series.png",
         "fanart": "https://exemplo.com/fanart_series.jpg",
         "status": "on",
@@ -198,7 +195,7 @@
     },
     {
         "menu_title": "Explorar",
-		"menu_key": "Explorar",
+        "menu_key": "Explorar",
         "poster": "https://archive.org/download/em_alta/explorar.png",
         "fanart": "https://exemplo.com/fanart_filmes.jpg",
         "status": "on",
@@ -251,17 +248,8 @@
         ]
     },
     {
-        "menu_title": "TMDb",
-	"menu_key": "TMDb",
-        "poster": "https://previews.123rf.com/images/get4net/get4net2112/get4net211230073/179642877-the-movie-database-tmdb-a-popular-user-editable-database-for-movies-and-tv-shows.jpg",
-        "fanart": "https://exemplo.com/fanart_favoritos.jpg",
-        "icon": "https://exemplo.com/icone_favoritos.png",
-        "action": "tmdb",
-        "status": "on"
-    },	
-    {
         "menu_title": "Minha Lista",
-		"menu_key": "Minhas Lista",
+        "menu_key": "Minhas Lista",
         "poster": "https://archive.org/download/em_alta/minha_lista.png",
         "fanart": "https://exemplo.com/fanart_favoritos.jpg",
         "action": "list_favorites",
