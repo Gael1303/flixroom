@@ -1,5 +1,5 @@
 [
-    {"status": "on"},	
+    {"status": "on"},
     {
         "tmdb_id": 1416,
         "popularity": 301.0897,
@@ -4193,7 +4193,14 @@
                 "poster": "https://image.tmdb.org/t/p/original/eGUT7j3n3rn5yGihlCgwUnD70HV.jpg",
                 "episodios": [
                     {
-                        "title": "EP 01. Train / EP 02.Exile",
+                        "title": "01. Train",
+                        "date_added": "2025-04-09",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbc053dae53d23b6cd7f67e6af99c122b4ffd8b0"
+                        ]
+                    },
+                    {
+                        "title": "02.Exile",
                         "date_added": "2025-04-09",
                         "url": [
                             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbc053dae53d23b6cd7f67e6af99c122b4ffd8b0"
@@ -8335,6 +8342,20 @@
                         "url": [
                             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a62dbd00d2f0c4f60139e5b696528bf92c4d5a3"
                         ]
+                    },
+					{
+                        "title": "06. A Sombra da Noite",
+						"date_added": "2025-04-10",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d73e9bfb0b667cf3ab66c8c5987bff2b0f2da9bd"
+                        ]
+                    },
+					{
+                        "title": "07. Olhos-Dourados",
+						"date_added": "2025-04-10",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:263422b75951af6fefb023557c5061736736f70f"
+                        ]
                     }
                 ]
             }
@@ -12220,7 +12241,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/9i9ERPkeehryHxrxgld6cQDOsuZ.jpg",
                 "episodios": [
                     {
-                        "title": "Black Mirror - 1ª Temporada",
+                        "title": "Black Mirror: Temporada 1",
                         "url": [
                             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:382b0aeb43a770840f6830993bb04e5d6f8bf912"
                         ]
@@ -12232,7 +12253,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/fUdjtYX2u7A6oqh6e7t23N3EE7T.jpg",
                 "episodios": [
                     {
-                        "title": "Black Mirror - 2ª Temporada",
+                        "title": "Black Mirror: Temporada 2",
                         "url": [
                             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e81bba17800a2e65b49948cf4ccb8349bf7014c9"
                         ]
@@ -12244,7 +12265,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/vtzzIp8TazQNtm7Pt7QygnXw7Q5.jpg",
                 "episodios": [
                     {
-                        "title": "Black Mirror - 3ª Temporada",
+                        "title": "Black Mirror: Temporada 3",
                         "url": [
                             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:501f13dbabd94c8753dad8c9166213e01220847b"
                         ]
@@ -12256,7 +12277,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/sqpIcJ3teyCPikV32sK26XrBQQ4.jpg",
                 "episodios": [
                     {
-                        "title": "Black Mirror - 4ª Temporada",
+                        "title": "Black Mirror: Temporada 4",
                         "url": [
                             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9f557c083c1f0e62ff41864bbba5be8ccd7bc80"
                         ]
@@ -12268,7 +12289,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/6UabkwKAnGDSalntoHAvkf7L2fW.jpg",
                 "episodios": [
                     {
-                        "title": "Black Mirror - 5ª Temporada",
+                        "title": "Black Mirror: Temporada 5",
                         "url": [
                             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b992d36753bf401039867ab16d7e60fe4b340cd"
                         ]
@@ -12280,9 +12301,21 @@
                 "poster": "https://image.tmdb.org/t/p/original/kwATNh8JC1IJclnVwk8x7wZb2b4.jpg",
                 "episodios": [
                     {
-                        "title": "Black Mirror - 6ª Temporada",
+                        "title": "Black Mirror: Temporada 6",
                         "url": [
                             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:abfadc8af90082ae55096da48a739143ef2b02aa"
+                        ]
+                    }
+                ]
+            },
+			{
+                "title": "7ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+                "episodios": [
+                    {
+                        "title": "Black Mirror: Temporada 7",
+                        "url": [
+                            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29465011116ab2601bc477faa877a044eb72cb3a"
                         ]
                     }
                 ]
