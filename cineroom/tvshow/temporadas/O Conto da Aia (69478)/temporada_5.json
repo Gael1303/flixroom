@@ -1,0 +1,64 @@
+{
+    "episodios": [
+        {
+            "title": "5x01. Manhã",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22259581a511befb3cdc453f738bea9183cabf62"
+            ]
+        },
+        {
+            "title": "5x02. Balé",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6c8f68082c9e8c03afc8ef219519e60cac33d6e"
+            ]
+        },
+        {
+            "title": "5x03. Fronteira",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73bbbdd15c87785ff1c93e31a0c7b7dad6229187"
+            ]
+        },
+        {
+            "title": "5x04. Cara Offred",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab62dda0189b3805c974547d44407459fd3e6301"
+            ]
+        },
+        {
+            "title": "5x05. Conto de Fadas",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b70c3a490fa1679701407d98df628c56654fbbbd"
+            ]
+        },
+        {
+            "title": "5x06. Juntos",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31f90246f61af2506d55a11f4f0a8939c3480dad"
+            ]
+        },
+        {
+            "title": "5x07. Terra de Ninguém",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f0a6157ed5ce3d40993c2fe2423be2a5d579fe4"
+            ]
+        },
+        {
+            "title": "5x08. Terra Natal",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c218f42c74401611a9d757ee6e4f4d8d5c479858"
+            ]
+        },
+        {
+            "title": "5x09. Lealdade",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bfd9fdf27f69d89ddf5f2766d79522653371ee4"
+            ]
+        },
+        {
+            "title": "5x010. Segurança",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17de7bccb01d6ac8bb7e54a96f4faa7e84889fe0"
+            ]
+        }
+    ]
+}

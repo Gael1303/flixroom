@@ -1,0 +1,40 @@
+{
+    "episodios": [
+        {
+            "title": "1x01. O Campo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5cb7eeed5b625918d9cadd6568fffaa63c0980c6"
+            ]
+        },
+        {
+            "title": "1x02. Atravessando a Ponte",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44856830d518e03eeae0bbf1286e0286bdff71d1"
+            ]
+        },
+        {
+            "title": "1x03. O Ativo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90bf09312926416ceda4c467c6a10222d741b193"
+            ]
+        },
+        {
+            "title": "1x04. Desclassificado",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36a20055ffdd2a16602854895d122b48d9fed146"
+            ]
+        },
+        {
+            "title": "1x05. Casa do Avô",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2077d0300e4ff3cfbaccdf30715258536c124a86"
+            ]
+        },
+        {
+            "title": "1x06. A Cabana",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ff275c36b00abedba0a33562398f51a234a56c2"
+            ]
+        }
+    ]
+}
