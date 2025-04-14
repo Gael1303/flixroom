@@ -1,0 +1,64 @@
+{
+    "episodios": [
+        {
+            "title": "1x01. Alguma coisa mudou",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9104bc9c23fcd9c4148225d374fd884d3fcfdb3e"
+            ]
+        },
+        {
+            "title": "1x02. Perseguindo Fantasmas",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:431f5aab1a6e7267fcbe1b9c59442f85f48508d0"
+            ]
+        },
+        {
+            "title": "1x03. Fogos de artifício",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a16332d6b6f1bf405aa0989b67127401943dd69"
+            ]
+        },
+        {
+            "title": "1x04. O tunel",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f73105ed84270e1fc44a8781b685788209fa39cb"
+            ]
+        },
+        {
+            "title": "1x05. Uma voz do outro lado",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f2ced47da43e554c7e4282d923628d8583c8ead"
+            ]
+        },
+        {
+            "title": "1x06. Pontos de pressão",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5023d6d47550d4e84cc4e5aeb81f01855460c59"
+            ]
+        },
+        {
+            "title": "1x07. No buraco do coelho",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:680a7cb58b31c4f3e514a2f08964b538878fa065"
+            ]
+        },
+        {
+            "title": "1x08. Oceano Cósmico",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:287743614e4172c9041b6bb50eb88cb689d82d2f"
+            ]
+        },
+        {
+            "title": "1x09. Avanço",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a26e35e30a885a0cdde172e14b448e4c485a05b"
+            ]
+        },
+        {
+            "title": "1x010. Velhos amigos, novas fronteiras",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:687f99211a7b99be9152dc87e70b44afa92979b6"
+            ]
+        }
+    ]
+}

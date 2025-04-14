@@ -1,0 +1,16 @@
+{
+    "episodios": [
+        {
+            "title": "5ª Temporada - Parte I",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fae5510c71dd215176a293d33eee2ecffbdd693d"
+            ]
+        },
+        {
+            "title": "5ª Temporada - Parte 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1db9d4c1ae940e1f456310baff36143c8187a61f"
+            ]
+        }
+    ]
+}
