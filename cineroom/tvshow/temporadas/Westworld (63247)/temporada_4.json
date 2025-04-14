@@ -1,0 +1,52 @@
+{
+    "episodios": [
+        {
+            "title": "4x01. Os Presságios",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17ed4fad8b5fe56b6e6a4772d62a64ddcb3659e8"
+            ]
+        },
+        {
+            "title": "4x02. Muito Bem Sozinho",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28fef85a8290c45baa089ade6bc08ec29b6acb4c"
+            ]
+        },
+        {
+            "title": "4x03. Anos Loucos",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a113a9feb17b643c8628d5396355e60eddb91452"
+            ]
+        },
+        {
+            "title": "4x04. Geração Perdida",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4e120c09db3a0d6d397701bd5603c66723f8446"
+            ]
+        },
+        {
+            "title": "4x05. Zhuangzi",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4c6e2c94e386538d6d85355075c9951c32252ce"
+            ]
+        },
+        {
+            "title": "4x06. Fidelidade",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7e08ee9af4192f22f5723f1b69a6b4bdd4c27e4"
+            ]
+        },
+        {
+            "title": "4x07. Metanoia",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce7f1dbefb5e1599859856ba6d8b3dfe840d060a"
+            ]
+        },
+        {
+            "title": "4x08. Que Será, Será",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d41bd37cf2b02d44baf23b69d4ab7ae6498e33ff"
+            ]
+        }
+    ]
+}
