@@ -1,25 +1,58 @@
 {
     "episodios": [
         {
-            "title": "1X1 - Quando Você Estiver Perdido na Escuridão",
+            "title": "T01 E01 - Quando Voc\u00ea Estiver Perdido na Escurid\u00e3o",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IFYCC4OSOCTYTCISQCPWVLMPM3KX4FTB"
-            ],
-            "poster": "https://image.tmdb.org/t/p/original/a1.jpg"
+            ]
         },
         {
-            "title": "1X2 - Infectados",
+            "title": "T01 E02 - Infectados",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UYVZYRIGPZRM4YCWBRQT63SQBLAWLD4L"
-            ],
-            "poster": "https://image.tmdb.org/t/p/original/a2.jpg"
+            ]
         },
         {
-            "title": "1X3 - Por Muito, Muito Tempo",
+            "title": "T01 E03 - Por Muito, Muito Tempo",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PK5QKKSDJGDQV766Z3CFHXTK6HQIN3MQ"
-            ],
-            "poster": "https://image.tmdb.org/t/p/original/a3.jpg"
+            ]
+        },
+        {
+            "title": "T01 E04 - Por Favor, Segure a Minha M\u00e3o",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AFIEQ7UWF6ASELNLDVCEQLTGO3Q4BKIN"
+            ]
+        },
+        {
+            "title": "T01 E05 - Resistir e Sobreviver",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CM26VEDGU3LG7NRND3WRUPQUERYH43C2"
+            ]
+        },
+        {
+            "title": "T01 E06 - Parentesco",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XMYS6KDPVQAZVTXEASTG7W6X52IGDPVF"
+            ]
+        },
+        {
+            "title": "T01 E07 - O Que Deixamos Para Tr\u00e1s",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:O4RGCECESNA7VTI4OI3BH2IGXXSQT5EH"
+            ]
+        },
+        {
+            "title": "T01 E08 - Quando Mais Precisamos",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IFSWUARHWSZNF6YKDPNO4775I5UR6MIN"
+            ]
+        },
+        {
+            "title": "T01 E09 - Procure a Luz",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RTOGPR35DQICP5ESJ5JNSATFKQ2T7IPD"
+            ]
         }
     ]
 }
