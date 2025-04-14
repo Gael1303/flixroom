@@ -1,0 +1,52 @@
+{
+    "episodios": [
+        {
+            "title": "1x01 e 02. Gravado ao Vivo com Plateia",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3eeaa958e2c88edc0cc1af349094693890c96bd"
+            ]
+        },
+        {
+            "title": "1x03. Agora em Cores",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98a27a772ef631c99dbfef8435daf315535e2d30"
+            ]
+        },
+        {
+            "title": "1x04. Interrompemos este Programa",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d65eea4ca11a6a1d8e484439bd9c08d80c74f6a3"
+            ]
+        },
+        {
+            "title": "1x05. Em um Episódio Muito Especial...",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb17cca38d81472e68f12687272e4e0c9dac0703"
+            ]
+        },
+        {
+            "title": "1x06. Um Halloween Assustadoramente Inédito!",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46c5d6989a67f3b93f08a859b74e5e345b2213df"
+            ]
+        },
+        {
+            "title": "1x07. Derrubando a Quarta Parede",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f120c12021dd21e0910c5114b65709a9d0d5dc2e"
+            ]
+        },
+        {
+            "title": "1x08. Nos Capítulos Anteriores",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:579e74fdfb49e9de54ececcffffbc15d07d23e6d"
+            ]
+        },
+        {
+            "title": "1x09. O Grande Final",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54e2b601f9691bd8b466cebfcb5fe133bbf127de"
+            ]
+        }
+    ]
+}
