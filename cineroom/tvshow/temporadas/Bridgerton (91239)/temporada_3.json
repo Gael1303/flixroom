@@ -1,0 +1,16 @@
+{
+    "episodios": [
+        {
+            "title": "Bridgerton: 2ª Temporada - Parte I",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dba4833115ef2dd814279d8ba473945152ed7b37"
+            ]
+        },
+        {
+            "title": "Bridgerton: 2ª Temporada - Parte II",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28f793d9b0361746b0fdc1b39bb2e0e9953776ff"
+            ]
+        }
+    ]
+}
