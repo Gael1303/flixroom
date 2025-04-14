@@ -1,0 +1,54 @@
+{
+    "episodios": [
+        {
+            "title": "01. Meia Hora do C\u00e9u",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:602a89697de71b0e242478f9b8cb4fe326cc577d"
+            ]
+        },
+        {
+            "title": "02. \u00d3tica",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:602a89697de71b0e242478f9b8cb4fe326cc577d"
+            ]
+        },
+        {
+            "title": "03. A Palma da Sua M\u00e3o",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c8850e7229675dc22be89c56fd19fbe33a7df13"
+            ]
+        },
+        {
+            "title": "04. Sic Semper Sistema",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f575789bac34b7db5234d9a0d5634667ec17997c"
+            ]
+        },
+        {
+            "title": "05. Com Juros",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7d6687b175d441d4a4ee9f165836232d26effa4"
+            ]
+        },
+        {
+            "title": "06. For\u00e7a Excessiva",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7d6687b175d441d4a4ee9f165836232d26effa4"
+            ]
+        },
+        {
+            "title": "07. Arte pela Arte",
+            "date_added": "2025-04-05",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73db73b3061adea5ea0c720e14bac4324d2fff21"
+            ]
+        },
+        {
+            "title": "08. Ilha da Alegria",
+            "date_added": "2025-04-09",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82fd515c6ae5965a84045cf11e368854956f632b"
+            ]
+        }
+    ]
+}
