@@ -1,0 +1,46 @@
+{
+    "episodios": [
+        {
+            "title": "1x01. A última chamada",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a191d721b23070f87d2032c4aa0c42ffe23759d"
+            ]
+        },
+        {
+            "title": "1x02. Três graus",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a191d721b23070f87d2032c4aa0c42ffe23759d"
+            ]
+        },
+        {
+            "title": "1x03. Bala de festim",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:828ad450b35710a399b55ac10f28d6c7df563f80"
+            ]
+        },
+        {
+            "title": "1x04. Não está respondendo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17add2bea03271e7b909b78d88c6c23d5b8ea748"
+            ]
+        },
+        {
+            "title": "1x05. Menos de uma hora",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b7c813f9e84810429a3c829f27d03620b4872b1"
+            ]
+        },
+        {
+            "title": "1x06. Conceder aos poucos",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20d0f6c85541b67cd264646a54d978a0b5bff2ac"
+            ]
+        },
+        {
+            "title": "1x07. Preparar, preparar, preparar",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dc8da3f6f8cbdc98161e779a127338f1a560dce"
+            ]
+        }
+    ]
+}

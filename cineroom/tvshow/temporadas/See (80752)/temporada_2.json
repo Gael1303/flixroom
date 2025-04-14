@@ -1,0 +1,52 @@
+{
+    "episodios": [
+        {
+            "title": "2x01. Irmãos e Irmãs",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4aa218b1cf7ea4391ca6a827467f7f3934472f1"
+            ]
+        },
+        {
+            "title": "2x02. Para sempre",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:137afa572d85190d77e771997cb2b393f189d278"
+            ]
+        },
+        {
+            "title": "2x03. A Bússola",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47c96aaee73920bfbcdd08f243c23be19008c115"
+            ]
+        },
+        {
+            "title": "2x04. O Caçador de Bruxos",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3272a2c0c8ad59fc44122006c70950cd003b86c9"
+            ]
+        },
+        {
+            "title": "2x05. O Jantar Festivo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06d3ce5f20295801e08bd27e2304d883b3054248"
+            ]
+        },
+        {
+            "title": "2x06. A Verdade Sobre os Unicórnios",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9c43b16b70faf86b5c6e8b54fffa3b71f2e3564"
+            ]
+        },
+        {
+            "title": "2x07. O Pronunciamento da Rainha",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:014d00d811963e1bf10beb6ffb6004d0ada3752c"
+            ]
+        },
+        {
+            "title": "2x08. Durma, bebê",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9bbf4536f3ac0b9e9874038d21fc0a526b1d263"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "episodios": [
+        {
+            "title": "Temporada 1",
+            "episode": 1,
+            "rating": 9.8,
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98a6f01b30cd8633bd1c11ff2c950ee3d5c2a78f"
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/8mzJg0n2ZggznEnTbA6KfjHETMI.jpg"
+        }
+    ]
+}
