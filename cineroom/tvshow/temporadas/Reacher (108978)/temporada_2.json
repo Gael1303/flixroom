@@ -1,0 +1,40 @@
+{
+    "episodios": [
+        {
+            "title": "01 ao 3",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b802b81002803ab0464ef1e612aa0f8a4fa31fbf"
+            ]
+        },
+        {
+            "title": "04 - Uma Noite na Sinfonia",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e96a166e4f520e98639537cc8a1bfbfd683b1fc"
+            ]
+        },
+        {
+            "title": "05 - Enterro",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95658eafe280ee62eb210846fe1da4afb40b86fe"
+            ]
+        },
+        {
+            "title": "06 - A Polícia de Nova York",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc9c49bf08bdf5c45365d4ec25c189aae75f34ca"
+            ]
+        },
+        {
+            "title": "07 - Cumprindo o que Prometeu",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4c0e8cd8a58a7ab5c42d12354fceb261ca51913"
+            ]
+        },
+        {
+            "title": "08 - Voador",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f5314cd3c919cc767c8094c688664a74660088d"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "episodios": [
+        {
+            "title": "1x01. Piloto",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9b6d09326f0ff76ce174765ddf9c83c67e71712"
+            ]
+        },
+        {
+            "title": "1x02. Bônus de Empatia",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9b6d09326f0ff76ce174765ddf9c83c67e71712"
+            ]
+        },
+        {
+            "title": "1x03. Desvio Háptico",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9617b270bd0443e3910607cf2dea49f2e09824d5"
+            ]
+        },
+        {
+            "title": "1x04. A Sorte Grande",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1ea35f267af84714721f8b216b1843e749b37ae"
+            ]
+        },
+        {
+            "title": "1x05. Qual é a do Bob?",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84d24da94167dd69d3fc43e71ee48c503330edbb"
+            ]
+        },
+        {
+            "title": "1x06. \"Vai se ferrar e come merda\"",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa8e87b14a7a0e295f95555c17cba0a8946b8f9e"
+            ]
+        },
+        {
+            "title": "1x07. O Treco",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8dff0ae07f2a06129e81e95891bf5d85e2842c52"
+            ]
+        },
+        {
+            "title": "1x08. A Criação de Mil Florestas",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aed3b921c74936b231948b39498d58e5c8bc3847"
+            ]
+        }
+    ]
+}
