@@ -1,0 +1,52 @@
+{
+    "episodios": [
+        {
+            "title": "1x01. Morte Acidental",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c94ec1a545c68a8b54649cc45e7e87469f1ff29f"
+            ]
+        },
+        {
+            "title": "1x02. Me Dê Algo Bom para Comer",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51a1554c3865c26e00e50d6917690f6d5d804408"
+            ]
+        },
+        {
+            "title": "1x03. Eu Gosto que Me Abracem",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5db1be19b1adb04bf4658450633313d91f233b5"
+            ]
+        },
+        {
+            "title": "1x04. É Só Soltar",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a749e1babdd1f43d953d125c38f618f58aa712e"
+            ]
+        },
+        {
+            "title": "1x05. Pequenas Mentirinhas",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02444e6bbfa66c0ba1e818fa1c79b735584bdc6c"
+            ]
+        },
+        {
+            "title": "1x06. Cape Queer",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f92ada821405a3ecb805b7a0c0af9ef946ac0e5"
+            ]
+        },
+        {
+            "title": "1x07. Dois Lutos, Duas Perdas",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83f1c3b6dd41bf12f97b41f79b32651329142953"
+            ]
+        },
+        {
+            "title": "1x08. Um Caso para Desmembrar",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c803804ee887d4dbc5faf21680a768550e789d5e"
+            ]
+        }
+    ]
+}

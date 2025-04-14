@@ -1,0 +1,40 @@
+{
+    "episodios": [
+        {
+            "title": "1x01 e 02. Embrulho no Estômago",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f3041f543f94963b20bda9f82f61e43fe23372a"
+            ]
+        },
+        {
+            "title": "1x03. Viva O Homem De Lata",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4e3826778632bed246cae574093743618eea842"
+            ]
+        },
+        {
+            "title": "1x04. Caçando Esquilos",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da6632e0279db3302ea00611733e2521518ed804"
+            ]
+        },
+        {
+            "title": "1x05. Episódio 5",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ]
+        },
+        {
+            "title": "1x06. Episódio 6",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ]
+        },
+        {
+            "title": "1x07. Episódio 7",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ]
+        }
+    ]
+}
