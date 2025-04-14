@@ -48,5 +48,31 @@
             "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Demolidor%20Renascido%20(202555)/1%C2%AA%20Temporada/episodios_1%C2%AA%20Temporada.json"
         }
     ]
+},
+    {
+    "tmdb_id": 81355,
+    "popularity": 6.8249,
+    "trending": false,
+    "title": "Olhos que Condenam",
+    "rating": 8.2,
+    "year": 2019,
+    "premiered": "31/05/2019",
+    "synopsis": "Cinco adolescentes do Harlem vivem um pesadelo depois de serem injustamente acusados de um ataque brutal no Central Park.",
+    "poster": "https://image.tmdb.org/t/p/original/nkJtmjDsRdIzRKNctsMX33W55uJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/5IIg0PhE764qVuKICgmSAE0Jotx.jpg",
+    "studio": [
+        "Netflix"
+    ],
+    "genres": [
+        "Drama"
+    ],
+    "type": "tvshow",
+    "temporadas": [
+        {
+            "title": "1ª Temporada",
+            "poster": "https://image.tmdb.org/t/p/original/cVlqRoJN5NsFD4NbbUAiyUUFjVz.jpg",
+            "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Olhos%20que%20Condenam%20(81355)/1%C2%AA%20Temporada/episodios_1%C2%AA%20Temporada.json"
+        }
+    ]
 }
 ]
