@@ -25,5 +25,28 @@
             "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/the.las.of.us/season02.json"
         }
     ]
+},
+    {
+    "tmdb_id": 202555,
+    "popularity": 128.9527,
+    "trending": true,
+    "title": "Demolidor: Renascido",
+    "rating": 8.9,
+    "classification": "18",
+    "year": 2025,
+    "premiered": "04/03/2025",
+    "synopsis": "Matt Murdock, um advogado cego com habilidades fant\u00e1sticas, luta por justi\u00e7a atrav\u00e9s de seu agitado escrit\u00f3rio de advocacia, enquanto o ex-chefe do crime Wilson Fisk busca seus pr\u00f3prios empreendimentos pol\u00edticos em Nova Iorque. Quando suas identidades passadas come\u00e7am a emergir, seus caminhos se cruzam perigosamente.",
+    "poster": "https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/qHCpG49qxs4owLgmhh0T62ErUZv.jpg",
+    "studio": ["Disney+"],
+    "genres": ["Drama"],
+    "type": "tvshow",
+    "temporadas": [
+        {
+            "title": "1ª Temporada",
+            "poster": "https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg",
+            "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/the.las.of.us/season.01.json"
+        }
+    ]
 }
 ]
