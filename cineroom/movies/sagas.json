@@ -4,7 +4,7 @@
     "popularity": 72.9388,
     "trending": true,
     "title": "The Last of Us",
-    "rating":  9.0,
+    "rating":  8.6,
     "year": 2023,
     "premiered": "15/01/2023",
     "synopsis": "Situado duas décadas após a implosão de nossa sociedade...",
@@ -18,6 +18,11 @@
             "title": "1ª Temporada",
             "poster": "https://image.tmdb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg",
             "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/the.las.of.us/season.01.json"
+        },
+        {
+            "title": "2\u00aa Temporada",
+            "poster": "https://image.tmdb.org/t/p/original/5J8173tQf88hm6oCAxe0AlTVzy4.jpg",
+            "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/the.las.of.us/season02.json"
         }
     ]
 }
