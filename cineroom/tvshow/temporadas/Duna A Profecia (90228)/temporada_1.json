@@ -1,0 +1,40 @@
+{
+    "episodios": [
+        {
+            "title": "1x01. A Mão Oculta",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd4c93363f26d7df8642522831120bf23af494b7"
+            ]
+        },
+        {
+            "title": "1x02. Duas Lobas",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98e22cdec3d950b630e454f7739a9b8d361b15e0"
+            ]
+        },
+        {
+            "title": "1x03. Irmandade Acima de Tudo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f83504bc90ac5e2331ef63684df8b7f138fd3b83"
+            ]
+        },
+        {
+            "title": "1x04. Nascido Duas Vezes",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:837ec278e53f6b74a83706c3d5e6319e176d1c4d"
+            ]
+        },
+        {
+            "title": "1x05. A Verdade no Sangue",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acdd8ab067584fe90797b7f830aee684318e8d62"
+            ]
+        },
+        {
+            "title": "1x06. Episódio 6",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:exemplo_hash_ep_1_6"
+            ]
+        }
+    ]
+}

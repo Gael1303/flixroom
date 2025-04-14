@@ -1,0 +1,64 @@
+{
+    "episodios": [
+        {
+            "title": "1x01. E no Começo...",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dafc1f2c9b5885511a05242f5887fe523455ae16"
+            ]
+        },
+        {
+            "title": "1x02. Um Garoto Numa Loja de Doces",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1615fc92aa5a4b5a1fc56b42f5426b56449e61bd"
+            ]
+        },
+        {
+            "title": "1x03. Miami Vice",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:396e6555b1dcba4616f96b7baa1d4ec0dff1e07a"
+            ]
+        },
+        {
+            "title": "1x04. Só um Arranhãozinho",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9e919f630181cf5b9bca0dd285b423a1eaaec42"
+            ]
+        },
+        {
+            "title": "1x05. F de Fodeu",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:15e3e29feb206b3460b546a7cf7e44a98af4d9d9"
+            ]
+        },
+        {
+            "title": "1x06. O Prazer de Matar",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d950019369189da9eba3d0b26b02955b6480db55"
+            ]
+        },
+        {
+            "title": "1x07. The Big Bad Body Problem",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:add789ac85b6c5b80b12fb8fb49d04bbeeefd691"
+            ]
+        },
+        {
+            "title": "1x08. Negocios e Prazer",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6f6d3263a30502b0752dd27cf124c20060892bb"
+            ]
+        },
+        {
+            "title": "1x09. Doação de Sangue",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83e2049e7434d74eacfb2075405d48450b37c669"
+            ]
+        },
+        {
+            "title": "1x10. Código Azul",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa7119976588fc28480120644c304541e083cb54"
+            ]
+        }
+    ]
+}
