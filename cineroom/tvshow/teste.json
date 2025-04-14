@@ -1,5 +1,5 @@
 [
-  {"status": "on"},
+    {"status": 'on"},
     {
         "tmdb_id": 1416,
         "popularity": 301.0897,
@@ -1096,6 +1096,35 @@
         ]
     },
     {
+        "tmdb_id": 202555,
+        "popularity": 128.9527,
+        "trending": true,
+        "title": "Demolidor: Renascido",
+        "rating": 8.9,
+        "classification": "18",
+        "year": 2025,
+        "premiered": "04/03/2025",
+        "synopsis": "Matt Murdock, um advogado cego com habilidades fantásticas, luta por justiça através de seu agitado escritório de advocacia, enquanto o ex-chefe do crime Wilson Fisk busca seus próprios empreendimentos políticos em Nova Iorque. Quando suas identidades passadas começam a emergir, seus caminhos se cruzam perigosamente.",
+        "poster": "https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/qHCpG49qxs4owLgmhh0T62ErUZv.jpg",
+        "studio": [
+            "Disney+"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 9.4,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Demolidor%20Renascido%20(202555)/temporada_1.json"
+            }
+        ]
+    },
+    {
         "tmdb_id": 60625,
         "popularity": 128.1767,
         "trending": false,
@@ -1227,7 +1256,7 @@
         "tmdb_id": 1396,
         "popularity": 123.1669,
         "trending": true,
-        "title": "Breaking Bad",
+        "title": "Breaking Bad: A Química do Mal",
         "rating": 8.917,
         "year": 2008,
         "premiered": "20/01/2008",
@@ -1245,27 +1274,27 @@
             {
                 "title": "1ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/sUbZ6TUTslNkM1f1PZclYVa60zv.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Breaking%20Bad%20A%20Química%20do%20Mal%20(1396)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Breaking%20Bad%20(1396)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/wRx8yodtfA3ikOIxoJpa9u1s3JH.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Breaking%20Bad%20A%20Química%20do%20Mal%20(1396)/temporada_2.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Breaking%20Bad%20(1396)/temporada_2.json"
             },
             {
                 "title": "3ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/zUcStgaDD6FtwLIyzjfxzhcV45t.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Breaking%20Bad%20A%20Química%20do%20Mal%20(1396)/temporada_3.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Breaking%20Bad%20(1396)/temporada_3.json"
             },
             {
                 "title": "4ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/b44ldObzYhfBr2bV0lMnr9oJHr8.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Breaking%20Bad%20A%20Química%20do%20Mal%20(1396)/temporada_4.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Breaking%20Bad%20(1396)/temporada_4.json"
             },
             {
                 "title": "5ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/igAdP4mObNTZRzGrgQfUEKPlXou.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Breaking%20Bad%20A%20Química%20do%20Mal%20(1396)/temporada_5.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Breaking%20Bad%20(1396)/temporada_5.json"
             }
         ]
     },
@@ -10410,35 +10439,6 @@
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/bfFZwA6GHW4lkDQcKxCwwGBWsEU.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Maria%20e%20o%20Cangaço%20(128331)/temporada_1.json"
-            }
-        ]
-    },
-	    {
-        "tmdb_id": 202555,
-        "popularity": 128.9527,
-        "trending": true,
-        "title": "Demolidor: Renascido",
-        "rating": 8.9,
-        "classification": "18",
-        "year": 2025,
-        "premiered": "04/03/2025",
-        "synopsis": "Matt Murdock, um advogado cego com habilidades fantásticas, luta por justiça através de seu agitado escritório de advocacia, enquanto o ex-chefe do crime Wilson Fisk busca seus próprios empreendimentos políticos em Nova Iorque. Quando suas identidades passadas começam a emergir, seus caminhos se cruzam perigosamente.",
-        "poster": "https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/qHCpG49qxs4owLgmhh0T62ErUZv.jpg",
-        "studio": [
-            "Disney+"
-        ],
-        "genres": [
-            "Drama"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "rating": 9.4,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Demolidor%20Renascido%20(202555)/temporada_1.json"
             }
         ]
     },
