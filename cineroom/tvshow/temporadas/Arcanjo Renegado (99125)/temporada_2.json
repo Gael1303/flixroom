@@ -1,0 +1,28 @@
+{
+    "episodios": [
+        {
+            "title": "Episódio 01 ao 04",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48cce5bc2b04a6c8a7e5139b51ddc6f78d64c77e"
+            ]
+        },
+        {
+            "title": "Episódio 05 e 06",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2d0448dc066431cb591d9cf788ed8ad061fabb1"
+            ]
+        },
+        {
+            "title": "Episódio 07 e 08",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:261be955b0aedd8552b056db5622e2f56024bdb7"
+            ]
+        },
+        {
+            "title": "Episódio 09 e 10",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3a1d4fa69925142fa7a6bf883a4b3d8ade2e9f8"
+            ]
+        }
+    ]
+}

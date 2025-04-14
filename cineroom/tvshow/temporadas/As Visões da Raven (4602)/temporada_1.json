@@ -1,0 +1,11 @@
+{
+    "episodios": [
+        {
+            "title": "Temporada 1",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb895f063a92e762428bc583d3aabe850dd5d234"
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/4phzW2MCUr3oFuGipNiM08jDuz5.jpg"
+        }
+    ]
+}

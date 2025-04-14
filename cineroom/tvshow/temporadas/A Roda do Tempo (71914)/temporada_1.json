@@ -1,0 +1,46 @@
+{
+    "episodios": [
+        {
+            "title": "01 e 02. A Partida",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ff7b92cb319cd8745c3c7ccd530b4eb30c787a4"
+            ]
+        },
+        {
+            "title": "03. Um Lugar Seguro",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e393591e5ab128a70795d9114789721015a7cba6"
+            ]
+        },
+        {
+            "title": "04. O Dragão Renascido",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92161ed3966b51301951b9aef158e8e214ba20f7"
+            ]
+        },
+        {
+            "title": "05. Sangue Pede Sangue",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7608cf4b5e539094f14ec3b94f855610eebb4be"
+            ]
+        },
+        {
+            "title": "06. A Chama de Tar Valon",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa6614a52edd5e755085251355ae6b874b61bc73"
+            ]
+        },
+        {
+            "title": "07. As Trevas nos Caminhos",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c689a3d5f1a2fb9d9f341a52d6874520a4b3ddd5"
+            ]
+        },
+        {
+            "title": "08. O Olho do Mundo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71b0adc041127caa9207a59822fdaca54ac21f69"
+            ]
+        }
+    ]
+}

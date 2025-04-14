@@ -1,0 +1,48 @@
+{
+    "episodios": [
+        {
+            "title": "01. Vencer a Sombra",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d272110ce9b624257cb5180e4a7ad8c563200837"
+            ]
+        },
+        {
+            "title": "02. Uma Questão Carmesim",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d272110ce9b624257cb5180e4a7ad8c563200837"
+            ]
+        },
+        {
+            "title": "03. Sementes da Sombra",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d272110ce9b624257cb5180e4a7ad8c563200837"
+            ]
+        },
+        {
+            "title": "04. O Caminho para a Lança",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ddac13f6f23523e3d6df9f7d082b8501c7fa86c6"
+            ]
+        },
+        {
+            "title": "05. Tel'aran'rhiod",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a62dbd00d2f0c4f60139e5b696528bf92c4d5a3"
+            ]
+        },
+        {
+            "title": "06. A Sombra da Noite",
+            "date_added": "2025-04-10",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d73e9bfb0b667cf3ab66c8c5987bff2b0f2da9bd"
+            ]
+        },
+        {
+            "title": "07. Olhos-Dourados",
+            "date_added": "2025-04-10",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:263422b75951af6fefb023557c5061736736f70f"
+            ]
+        }
+    ]
+}

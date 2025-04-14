@@ -1,0 +1,16 @@
+{
+    "episodios": [
+        {
+            "title": "Arremesso Final: Temporada 1",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:535a81eb4cced749ee67def6893e48cd4af71dce"
+            ]
+        },
+        {
+            "title": "Arremesso Final: Temporada 1 (Leg)",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3c068cd354bf637fc0e98fcafaa9e3c78c65fdc"
+            ]
+        }
+    ]
+}
