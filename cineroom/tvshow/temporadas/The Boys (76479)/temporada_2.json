@@ -1,0 +1,16 @@
+{
+    "episodios": [
+        {
+            "title": "The Boys: Temporada 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69a627116cb4c4721c1eaa4e547a8032de489b1b"
+            ]
+        },
+        {
+            "title": "The Boys: Temporada 2 (4K)",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcd30ed1d9fd34325b868aa35225a68ecd601a0d"
+            ]
+        }
+    ]
+}

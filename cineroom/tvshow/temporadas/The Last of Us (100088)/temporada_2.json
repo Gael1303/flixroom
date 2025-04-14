@@ -1,0 +1,16 @@
+{
+    "episodios": [
+        {
+            "title": "Episódio 1 - Episódio 1",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:exemplo_hash_ep_2_1"
+            ]
+        },
+        {
+            "title": "Episódio 2 - Episódio 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:exemplo_hash_ep_2_2"
+            ]
+        }
+    ]
+}

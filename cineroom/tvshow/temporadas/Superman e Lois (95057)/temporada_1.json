@@ -1,0 +1,34 @@
+{
+    "episodios": [
+        {
+            "title": "1x01 ao 11. Piloto",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b72ef8b0f587a0209dd09de068aeec407ebf0fd"
+            ]
+        },
+        {
+            "title": "1x012. Pelo Vale da Morte",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:456ab9f019ba20f13db81590296308c98e333261"
+            ]
+        },
+        {
+            "title": "1x013. À Prova de Falhas",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66c2d1bea302dae8368f298e7d975eb2f9ed1f9d"
+            ]
+        },
+        {
+            "title": "1x014. O Erradicador",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa67ac96832792916667d40947fa16a38c32f98b"
+            ]
+        },
+        {
+            "title": "1x015. Últimos Filhos de Krypton",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3858dcd183cd965a1b8fab6404d86e4543d8c270"
+            ]
+        }
+    ]
+}

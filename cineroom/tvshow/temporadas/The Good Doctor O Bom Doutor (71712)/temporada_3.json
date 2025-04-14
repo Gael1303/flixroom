@@ -1,0 +1,22 @@
+{
+    "episodios": [
+        {
+            "title": "Episodio 01 ao 10",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf8bbf97dfe009108a741d5871038a93d5184de9"
+            ]
+        },
+        {
+            "title": "Episodio 11 ao 18",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b18a1003f06b97721c8ce5e22fa9d59f23ddb96f"
+            ]
+        },
+        {
+            "title": "Episodio 18 ao 20",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b86054029cfab94c944ec44ad37d93df08bd4fd"
+            ]
+        }
+    ]
+}
