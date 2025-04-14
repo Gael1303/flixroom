@@ -1,0 +1,16 @@
+{
+    "episodios": [
+        {
+            "title": "The Witcher: 3ª Temporada Parte I",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:179b506731a45c497361b5404e16fd60deff1428"
+            ]
+        },
+        {
+            "title": "The Witcher: 1ª Temporada Parte II",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff09cfe8a0c8a4ac1cd69d587a33d23351f77b42"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "episodios": [
+        {
+            "title": "1x01 ao 04. A Alma Perdida",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73b546cd6d147e82e30cc2b7cd61b5e8d5da4167"
+            ]
+        },
+        {
+            "title": "1x05. Dois Amores",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58d1620013b57ce2b2c564256b7a782334936ebe"
+            ]
+        },
+        {
+            "title": "1x06. Voltando Pra Casa",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f356f5adba85cecc142927081dd1050244af7170"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "episodios": [
+        {
+            "title": "1x01.  Chegadas",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4241bd807332c0a1f4975a8b86b4514c753b78c8"
+            ]
+        },
+        {
+            "title": "1x02.  Novo Dia",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80f02f76d3c31bb278de6d4b375beaed0132b7cc"
+            ]
+        },
+        {
+            "title": "1x03.  Macacos Misteriosos",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6df3ac5d37cb00c4d93892b5fdee65efb772eaab"
+            ]
+        },
+        {
+            "title": "1x04.  Recentramento",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:559e787081d19c573b53cbe7b114e0eb98f91bd6"
+            ]
+        },
+        {
+            "title": "1x05.  Os Come-Lótus",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52e0733d56803e550c791531a01a31548209f2f1"
+            ]
+        },
+        {
+            "title": "1x06.  Partidas",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e386a60a53f2273db9a02d4ba26d86276bf61127"
+            ]
+        }
+    ]
+}
