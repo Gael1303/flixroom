@@ -7,7 +7,7 @@
     "rating": 8.59,
     "year": 2023,
     "premiered": "15/01/2023",
-    "synopsis": "Situado duas décadas após a implosão de nossa sociedade, o drama seguirá Joel, um sobrevivente difícil, que é contratado para contrabandear uma garota de 14 anos chamada Ellie para fora de uma zona de quarentena opressiva. O que começa como um pequeno trabalho logo se torna uma jornada brutal e de partir o coração, já que os dois precisam atravessar os Estados Unidos e dependem um do outro para sobreviver.",
+    "synopsis": "Situado duas décadas após a implosão de nossa sociedade...",
     "poster": "https://image.tmdb.org/t/p/original/el1KQzwdIm17I3A6cYPfsVIWhfX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/lY2DhbA7Hy44fAKddr06UrXWWaQ.jpg",
     "studio": ["HBO"],
@@ -17,17 +17,7 @@
         {
             "title": "1ª Temporada",
             "poster": "https://image.tmdb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg",
-            "episodios": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IFYCC4OSOCTYTCISQCPWVLMPM3KX4FTB (T01.EP01 - Quando Você Estiver Perdido na Escuridão)",
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UYVZYRIGPZRM4YCWBRQT63SQBLAWLD4L (T01.EP02 - Infectados)",
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PK5QKKSDJGDQV766Z3CFHXTK6HQIN3MQ (T01.EP03 - Por Muito, Muito Tempo)",
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AFIEQ7UWF6ASELNLDVCEQLTGO3Q4BKIN (T01.EP04 - Por Favor, Segure a Minha Mão)",
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CM26VEDGU3LG7NRND3WRUPQUERYH43C2 (T01.EP05 - Resistir e Sobreviver)",
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XMYS6KDPVQAZVTXEASTG7W6X52IGDPVF (T01.EP06 - Parentesco)",
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:O4RGCECESNA7VTI4OI3BH2IGXXSQT5EH (T01.EP07 - O Que Deixamos Para Trás)",
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IFSWUARHWSZNF6YKDPNO4775I5UR6MIN (T01.EP08 - Quando Mais Precisamos)",
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RTOGPR35DQICP5ESJ5JNSATFKQ2T7IPD (T01.EP09 - Procure a Luz)"
-            ]
+            "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/the.last.of.us.json"
         }
     ]
 }
