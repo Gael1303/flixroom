@@ -1,0 +1,52 @@
+{
+    "episodios": [
+        {
+            "title": "2X1 - Cuidado Com o Velho Soldado",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38038bc231184eeaddb66f3f61fef07494088af0"
+            ]
+        },
+        {
+            "title": "2X2 - Eu Amo Meu País",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1149f658dcf953456ef9ecabf3aac627f4b7033c"
+            ]
+        },
+        {
+            "title": "2X3 - A Aranha Veio Junto",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d29f6fc9eaeef5cb0ad8bfad7a739801d6d441d"
+            ]
+        },
+        {
+            "title": "2X4 - Quinhentas Crianças",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3dbc01a1f6257531608b685f844a6c930a738274"
+            ]
+        },
+        {
+            "title": "2X5 - Despedace a Lua",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45e58d2a570ec764759ed8e210be7369930ea7a9"
+            ]
+        },
+        {
+            "title": "2X6 - Episódio 6",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:480c20988cbea4062b1665c8c00f7c1439118f4e"
+            ]
+        },
+        {
+            "title": "2X7 - Episódio 7",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7fd85f31aa78a89d3e0205219c4b804223eb95d"
+            ]
+        },
+        {
+            "title": "2X8 - Episódio 8",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc58fa05fe0f03d61d1205078d79c124344618bd"
+            ]
+        }
+    ]
+}

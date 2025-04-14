@@ -1,0 +1,46 @@
+{
+    "episodios": [
+        {
+            "title": "2x. Episódio 1 e 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1206e4b9d8367b6255d3d370392dbd74b7cd1d9b"
+            ]
+        },
+        {
+            "title": "2x. Episódio 3 e 4",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8764b1193248bb4e5922efd04a5151172032490"
+            ]
+        },
+        {
+            "title": "2x. Episódio 5 e 6",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:758eaa47b88a014479c7c320d55389c13ee9e104"
+            ]
+        },
+        {
+            "title": "2x. Episódio 7 e 8",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c58c62baa394425aff921fb2530a9fa076378a1"
+            ]
+        },
+        {
+            "title": "2x. Episódio 9 e 10",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbceab7d7be17ee94d22ac29248f46ce5717f369"
+            ]
+        },
+        {
+            "title": "2x. Episódio 11 e 12",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:079a7fe62d0e63a5c69eb929f4bedfd92d9e4544"
+            ]
+        },
+        {
+            "title": "2x. Episódio 13 e 14",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ffca480e0b515157885c3d6d12228ca499f7635f"
+            ]
+        }
+    ]
+}

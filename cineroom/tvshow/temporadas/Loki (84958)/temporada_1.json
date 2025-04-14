@@ -1,0 +1,40 @@
+{
+    "episodios": [
+        {
+            "title": "1x01. Glorioso Propósito",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aff4895eb61c640230e1a613477387ee6c1f03c7"
+            ]
+        },
+        {
+            "title": "1x02. A Variante",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8be8b8f123e6410320e4694cbd817a62cc2efe63"
+            ]
+        },
+        {
+            "title": "1x03. Lamentis",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33aaa09c2d959bf1acb26106864c3eb6e85e8d04"
+            ]
+        },
+        {
+            "title": "1x04. O Evento Nexus",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08484df36526ec84d1a7739f2ac08b3bdb325be7"
+            ]
+        },
+        {
+            "title": "1x05. Jornada ao Mistério",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd5f934810085004a73bd79a93a61204c6e5b286"
+            ]
+        },
+        {
+            "title": "1x06. Por Todo Tempo. Sempre.",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:abbcabf2137b8f60a04a60f34a38c2cfd5fe2c12"
+            ]
+        }
+    ]
+}
