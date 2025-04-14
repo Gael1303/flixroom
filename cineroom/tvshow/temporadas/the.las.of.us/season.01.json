@@ -1,0 +1,25 @@
+{
+    "episodios": [
+        {
+            "title": "1X1 - Quando Você Estiver Perdido na Escuridão",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IFYCC4OSOCTYTCISQCPWVLMPM3KX4FTB"
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/a1.jpg"
+        },
+        {
+            "title": "1X2 - Infectados",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UYVZYRIGPZRM4YCWBRQT63SQBLAWLD4L"
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/a2.jpg"
+        },
+        {
+            "title": "1X3 - Por Muito, Muito Tempo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PK5QKKSDJGDQV766Z3CFHXTK6HQIN3MQ"
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/a3.jpg"
+        }
+    ]
+}
