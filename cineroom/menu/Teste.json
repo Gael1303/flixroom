@@ -14,7 +14,7 @@
         "menu_key": "Canais",
         "poster": "https://archive.org/download/em_alta/canais.png",
         "fanart": "https://exemplo.com/fanart_canais.jpg",
-        "status": "on",
+        "status": "off",
         "action": "list_canais",
         "externallink": [
             "search(Pesquisar Canal)",
