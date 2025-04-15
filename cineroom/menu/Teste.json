@@ -129,13 +129,6 @@
                 "action": "list_recently_added_series"
             },
             {
-                "categories": "Novos Episodios",
-                "poster": "https://archive.org/download/1700740365675/1700740365651.png",
-                "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
-                "description": "Episodios adicionados recentemente",
-                "action": "list_recently_added_episodes"
-            },
-            {
                 "categories": "Mais Populares",
                 "poster": "https://archive.org/download/1700740365675/1700740365651.png",
                 "backdrop": "https://exemplo.com/backdrop_series_rating.jpg",
