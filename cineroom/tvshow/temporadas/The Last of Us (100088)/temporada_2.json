@@ -2,13 +2,13 @@
     "episodios": [
         {
             "title": "T02 E01. Dias Futuros",
-			"poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/i8lsfJzt7buKLotPwCTBQyuPavN.jpg",
-			"date_added": "2025-04-14",
-			"synopsis": "Cinco anos após os eventos da primeira temporada, Joel e Ellie se veem envolvidos em um conflito em um mundo ainda mais perigoso e imprevisível do que aquele que deixaram para trás.",
-			"rating": 7.4,
+	    "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/i8lsfJzt7buKLotPwCTBQyuPavN.jpg",
+	    "date_added": "2025-04-14",
+	    "synopsis": "Cinco anos após os eventos da primeira temporada, Joel e Ellie se veem envolvidos em um conflito em um mundo ainda mais perigoso e imprevisível do que aquele que deixaram para trás.",
+	    "rating": 7.4,
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c56e9cb31c9d2bdb24ae24d73d9cfff1bb0b617e(1080P Dublado)"
-				"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49faa9f36adad73dafec5c3a693313b2a27640e6(4K Dublado)"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c56e9cb31c9d2bdb24ae24d73d9cfff1bb0b617e(1080P Dublado)",
+		"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49faa9f36adad73dafec5c3a693313b2a27640e6(4K Dublado)"
             ]
         }
     ]
