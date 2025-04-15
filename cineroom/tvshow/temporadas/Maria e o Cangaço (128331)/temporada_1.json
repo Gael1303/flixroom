@@ -6,17 +6,7 @@
             "runtime": 600,
             "url": ["plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b17cb4fc589b422a7076871235e62880c4b0b5fe"],
             "poster": "https://image.tmdb.org/t/p/original/anINoht6jIKdlnvFemxFQ9sf0yg.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/abc456.jpg",
-            "synopsis": "[B][COLOR gold]📦 TEMPORADA COMPLETA[/COLOR][/B]\n\n" +
-                       "[B]Contém:[/B] Todos os 10 episódios\n" +
-                       "[B]Duração total:[/B] ∼10 horas\n" +
-                       "[B]Qualidade:[/B] 1080p (HEVC)\n" +
-                       "[B]Áudio:[/B] Português (Dual Audio)\n" +,
-            "info": {
-                "package": true,
-                "episode_count": 10,
-                "file_extension": "mkv"
-            }
+            "synopsis": "[B][COLOR gold]📦 TEMPORADA COMPLETA[/COLOR][/B]"
         }
     ]
 }
