@@ -6,6 +6,7 @@
         "tmdb_id": 100088,
         "popularity": 415.3751,
         "trending": true,
+        "new_episode": true,
         "title": "The Last of Us",
         "rating": 8.59,
         "year": 2023,
@@ -19,6 +20,7 @@
         "genres": [
             "Drama"
         ],
+        "providers": ["Max"],
         "type": "tvshow",
         "temporadas": [
             {
