@@ -1,5 +1,7 @@
 [
-    {"status": "on":},
+    {
+        "status": "on"
+    },
     {
         "tmdb_id": 100088,
         "popularity": 415.3751,
@@ -2039,7 +2041,7 @@
         "popularity": 105.8761,
         "trending": false,
         "title": "Os Jovens Titãs em Ação!",
-        "rating": 8.0,
+        "rating": 8,
         "classification": "10",
         "year": 2013,
         "premiered": "23/04/2013",
@@ -2177,7 +2179,7 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 0.0,
+                "rating": 0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/egbPLdcEGJPteodzWGiiWjXENJU.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Morrendo%20por%20Sexo%20(241405)/temporada_1.json"
@@ -2393,7 +2395,7 @@
         "popularity": 97.7818,
         "trending": false,
         "title": "As Terríveis Aventuras de Billy e Mandy",
-        "rating": 8.0,
+        "rating": 8,
         "classification": "Kids",
         "year": 2001,
         "premiered": "24/08/2001",
@@ -2411,7 +2413,7 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 7.0,
+                "rating": 7,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/1q0uEruI5Whr6idwWRdtOZoxrHd.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Terríveis%20Aventuras%20de%20Billy%20e%20Mandy%20(897)/temporada_1.json"
@@ -2442,7 +2444,7 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 8.0,
+                "rating": 8,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/kryDvFcwSlnbEMnT3Dq89EUmFuX.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Adolescência%20(249042)/temporada_1.json"
@@ -5351,11 +5353,11 @@
         "tmdb_id": 203740,
         "popularity": 35.2423,
         "title": "O Nascer da Lua",
-        "rate": 8.25,
+        "rating": 8.25,
         "classification": "14",
         "year": 2025,
-        "aired": "10/04/2025",
-        "sinopse": "Quando a Terra é atacada por forças rebeldes, um herdeiro se torna o principal suspeito e entra em uma unidade militar especial que busca o verdadeiro responsável na Lua.",
+        "premiered": "10/04/2025",
+        "synopsis": "Quando a Terra é atacada por forças rebeldes, um herdeiro se torna o principal suspeito e entra em uma unidade militar especial que busca o verdadeiro responsável na Lua.",
         "poster": "https://image.tmdb.org/t/p/original/oq0dUN7WJCuzI111CsfzDieMkku.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/n04uGTRs8bB7PTHj48o7y3YSGKx.jpg",
         "date_added": "2025-04-15",
@@ -5363,7 +5365,7 @@
             "Netflix"
         ],
         "genres": [
-		    "Anime",
+            "Anime",
             "Animação",
             "Action & Adventure",
             "Sci-Fi & Fantasy"
@@ -5376,8 +5378,8 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rate": 8.0,
-                "sinopse": "",
+                "rating": 8,
+                "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/yehnGHVLKTYa04KEBJamK5zq8Ms.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Nascer%20da%20Lua%20(203740)/temporada_1.json"
             }
@@ -5545,11 +5547,11 @@
         "tmdb_id": 241609,
         "popularity": 33.4714,
         "title": "Seus Amigos e Vizinhos",
-        "rate": 6.2,
+        "rating": 6.2,
         "classification": "16",
         "year": 2025,
-        "aired": "10/04/2025",
-        "sinopse": "Quando o titã das finanças de repente se descobre divorciado e desempregado, ele começa a roubar de seus vizinhos ricos para manter seu padrão de vida. Roubar de seu círculo social estranhamente o estimula—mas ele gradualmente se envolve numa trama mortal.",
+        "premiered": "10/04/2025",
+        "synopsis": "Quando o titã das finanças de repente se descobre divorciado e desempregado, ele começa a roubar de seus vizinhos ricos para manter seu padrão de vida. Roubar de seu círculo social estranhamente o estimula—mas ele gradualmente se envolve numa trama mortal.",
         "poster": "https://image.tmdb.org/t/p/original/yL5w0u3dqRLK9Ghlmmx6k8a6Uv2.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/tTjjeBYWe6v6pLCegN4MYnaQsoq.jpg",
         "studio": [
@@ -5568,8 +5570,8 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rate": 4.0,
-                "sinopse": "",
+                "rating": 4,
+                "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/yL5w0u3dqRLK9Ghlmmx6k8a6Uv2.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Seus%20Amigos%20e%20Vizinhos%20(241609)/temporada_1.json"
             }
@@ -6526,7 +6528,7 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 7.0,
+                "rating": 7,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/e0hLfKakSL3BcxfzGZ5yZvzQgTB.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Du,%20Dudu%20e%20Edu%20(606)/temporada_1.json"
@@ -6988,14 +6990,14 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 0.0,
+                "rating": 0,
                 "synopsis": "",
                 "poster": "",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bananas%20de%20Pijamas%20(3103)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
-                "rating": 0.0,
+                "rating": 0,
                 "synopsis": "",
                 "poster": "",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bananas%20de%20Pijamas%20(3103)/temporada_2.json"
@@ -8836,7 +8838,7 @@
             },
             {
                 "title": "2ª Temporada",
-                "rating": 4.0,
+                "rating": 4,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/qlwwarg18MtPp0sa8Fok6cONn4D.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Espetacular%20Homem-Aranha%20(3854)/temporada_2.json"
@@ -9810,28 +9812,28 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 0.0,
+                "rating": 0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/noVz6XUUlVtIiL4aBZjyKvA3ZfI.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Irmão%20do%20Jorel%20(74606)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
-                "rating": 0.0,
+                "rating": 0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/xswzVge20s4Ib9XQPCrdQfeBFSj.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Irmão%20do%20Jorel%20(74606)/temporada_2.json"
             },
             {
                 "title": "3ª Temporada",
-                "rating": 0.0,
+                "rating": 0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/qeLEsGZMr7mQGODeUO3X1rfDlK9.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Irmão%20do%20Jorel%20(74606)/temporada_3.json"
             },
             {
                 "title": "4ª Temporada",
-                "rating": 9.0,
+                "rating": 9,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/oT58ixhiiN3Gw5dvmWNshvEhJDL.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Irmão%20do%20Jorel%20(74606)/temporada_4.json"
@@ -10386,7 +10388,7 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 10.0,
+                "rating": 10,
                 "synopsis": "Uma jovem órfã e sua nova família se unem em uma busca de vingança contra os responsáveis por suas tragédias pessoais.",
                 "poster": "https://image.tmdb.org/t/p/original/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Beleza%20Fatal%20(158596)/temporada_1.json"
@@ -11128,7 +11130,7 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 10.0,
+                "rating": 10,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/14T6cTwynqxU10e1cCnSc75AcNa.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Law%20&%20Order%20True%20Crime%20(72496)/temporada_1.json"
@@ -11496,28 +11498,28 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 0.0,
+                "rating": 0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/qucT08BrRQeS7Q0zaFhBnbsPJoq.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Divisão%20(91296)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
-                "rating": 1.0,
+                "rating": 1,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/6FcQyqpBJZEhf4W41wIzcWCYh2M.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Divisão%20(91296)/temporada_2.json"
             },
             {
                 "title": "3ª Temporada",
-                "rating": 0.0,
+                "rating": 0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/6ReYpdqfXc9XrGWQEVeZcFrPNtX.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Divisão%20(91296)/temporada_3.json"
             },
             {
                 "title": "4ª Temporada",
-                "rating": 0.0,
+                "rating": 0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/An3TOHOWXIhAUnZ5O7pDzpnZTMz.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Divisão%20(91296)/temporada_4.json"
@@ -11529,7 +11531,7 @@
         "popularity": 3.4099,
         "trending": false,
         "title": "Maria e o Cangaço",
-        "rating": 10.0,
+        "rating": 10,
         "classification": "18",
         "year": 2025,
         "premiered": "04/04/2025",
@@ -11548,7 +11550,7 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 10.0,
+                "rating": 10,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/bfFZwA6GHW4lkDQcKxCwwGBWsEU.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Maria%20e%20o%20Cangaço%20(128331)/temporada_1.json"
@@ -11782,7 +11784,7 @@
         "popularity": 0.5329,
         "trending": false,
         "title": "Bob Burnquist: A Lenda do Skate",
-        "rating": 0.0,
+        "rating": 0,
         "classification": "14",
         "year": 2024,
         "premiered": "08/13/2024",
@@ -11800,7 +11802,7 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 0.0,
+                "rating": 0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/p1oBjCTQguN0BOt8zr1LS5TLCok.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bob%20Burnquist%20A%20Lenda%20do%20Skate%20(260703)/temporada_1.json"
