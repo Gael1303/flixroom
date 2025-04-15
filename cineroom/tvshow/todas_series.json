@@ -1,5 +1,73 @@
 [
     {"status": "on"},
+
+    {
+        "tmdb_id": 241609,
+        "title": "Seus Amigos e Vizinhos",
+        "rate": 6.2,
+        "classification": "16",
+        "year": 2025,
+        "aired": "10/04/2025",
+        "sinopse": "Quando o titã das finanças de repente se descobre divorciado e desempregado, ele começa a roubar de seus vizinhos ricos para manter seu padrão de vida. Roubar de seu círculo social estranhamente o estimula—mas ele gradualmente se envolve numa trama mortal.",
+        "poster": "https://image.tmdb.org/t/p/original/yL5w0u3dqRLK9Ghlmmx6k8a6Uv2.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/tTjjeBYWe6v6pLCegN4MYnaQsoq.jpg",
+        "studio": [
+            "Apple TV+"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "providers": [
+            "Apple TV Plus Amazon Channel",
+            "Apple TV+",
+            "Canal+"
+        ],
+        "date_added": "2025-04-15",
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 4.0,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/yL5w0u3dqRLK9Ghlmmx6k8a6Uv2.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Seus%20Amigos%20e%20Vizinhos%20(241609)/temporada_1.json"
+            }
+        ]
+    },
+    {
+        "tmdb_id": 203740,
+        "title": "O Nascer da Lua",
+        "rate": 8.25,
+        "classification": "14",
+        "year": 2025,
+        "aired": "10/04/2025",
+        "sinopse": "Quando a Terra é atacada por forças rebeldes, um herdeiro se torna o principal suspeito e entra em uma unidade militar especial que busca o verdadeiro responsável na Lua.",
+        "poster": "https://image.tmdb.org/t/p/original/oq0dUN7WJCuzI111CsfzDieMkku.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/n04uGTRs8bB7PTHj48o7y3YSGKx.jpg",
+        "date_added": "2025-04-15",
+        "studio": [
+            "Netflix"
+        ],
+        "genres": [
+            "Animação",
+            "Action & Adventure",
+            "Sci-Fi & Fantasy"
+        ],
+        "providers": [
+            "Netflix",
+            "Netflix basic with Ads"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 8.0,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/yehnGHVLKTYa04KEBJamK5zq8Ms.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Nascer%20da%20Lua%20(203740)/temporada_1.json"
+            }
+        ]
+    },
     {
         "tmdb_id": 1416,
         "popularity": 301.0897,
