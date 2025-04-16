@@ -1,6 +1,6 @@
 [
     {
-        "status": "on"
+        "status": "off"
     },
     {
         "menu_title": "[COLOR gold]Buscar[/COLOR]",
@@ -14,7 +14,7 @@
         "menu_title": "Filmes",
         "poster": "https://archive.org/download/1700740365556/1700740365556.png",
         "fanart": "https://exemplo.com/fanart_filmes.jpg",
-        "status": "on",
+        "status": "off",
         "subcategorias": [
             {
                 "categories": "2025",
