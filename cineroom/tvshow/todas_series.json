@@ -6,7 +6,6 @@
         "tmdb_id": 100088,
         "popularity": 415.3751,
         "trending": true,
-        "new_episode": true,
         "title": "The Last of Us",
         "rating": 8.59,
         "year": 2023,
@@ -20,7 +19,6 @@
         "genres": [
             "Drama"
         ],
-        "providers": ["Max"],
         "type": "tvshow",
         "temporadas": [
             {
@@ -33,7 +31,13 @@
                 "poster": "https://image.tmdb.org/t/p/original/5J8173tQf88hm6oCAxe0AlTVzy4.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/The%20Last%20of%20Us%20(100088)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Claro tv+",
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/msYtgZbEo8tAOJ37T50kgqulpKf.png"
     },
     {
         "tmdb_id": 1416,
@@ -155,7 +159,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/l3LSXgON6NSUtaiDweGtft7BdHI.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Grey's%20Anatomy%20(1416)/temporada_14.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/1Ost5HEM9017LgxCYRfrJKntNMv.png"
     },
     {
         "tmdb_id": 42009,
@@ -211,7 +219,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Black%20Mirror%20(42009)/temporada_7.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/bQGVstVOI79nDmswbo3umB0lmrp.png"
     },
     {
         "tmdb_id": 456,
@@ -421,7 +434,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/rHt9PFDnKCZM7Pm2OkRgNda80m2.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Os%20Simpsons%20(456)/temporada_31.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/4ReGMfsXbbsgJHfEumuzGoob8Ol.png"
     },
     {
         "tmdb_id": 1622,
@@ -517,7 +534,13 @@
                 "poster": "https://image.tmdb.org/t/p/original/gnLBIb65cvXXkHD5beklfs8OWkw.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Sobrenatural%20(1622)/temporada_15.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max",
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/uvelSpPnZSbSZbt3suKCYOMjHwz.png"
     },
     {
         "tmdb_id": 79744,
@@ -574,7 +597,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/cofQdlJ0voWzWlpisBqfuRChTbf.jpg",
                 "episodios": []
             }
-        ]
+        ],
+        "providers": [
+            "Claro tv+"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/uXuEj4EgaE2mdeRODJoqw0k712I.png"
     },
     {
         "tmdb_id": 127532,
@@ -608,7 +635,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/451lpwzbSKClDUHmKxOcBboBf7E.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Solo%20Leveling%20(127532)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Crunchyroll",
+            "Crunchyroll Amazon Channel"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/soogvWTvbW2YVpZwUz0SgPBKiVa.png"
     },
     {
         "tmdb_id": 1399,
@@ -634,7 +666,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/wNOdNgqoySuWbQk3F0QZjPKp8X7.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Game%20of%20Thrones%20(1399)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Claro tv+",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/2IZ11HatfHTEwM5GKL88pf5Qkfo.png"
     },
     {
         "tmdb_id": 57243,
@@ -716,7 +753,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/9ExkVNeQw695kQ8xsnm2TJhTEFP.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Doctor%20Who%20(57243)/temporada_10.json"
             }
-        ]
+        ],
+        "providers": [
+            "Microsoft Store"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/tQikhOnWCPWDSYnC0lqNJ24Dd9P.png"
     },
     {
         "tmdb_id": 2691,
@@ -822,7 +863,13 @@
                 "poster": "https://image.tmdb.org/t/p/original/lKpr9n70OIxRWZgMZ7Bhs2bJ0nB.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Dois%20Homens%20e%20Meio%20(2691)/temporada_12.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max",
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/7qjIaa3cZ0SeEJaMRYdjQXF6cEk.png"
     },
     {
         "tmdb_id": 1408,
@@ -883,7 +930,16 @@
                 "poster": "https://image.tmdb.org/t/p/original/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Dr.%20House%20(1408)/temporada_8.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix",
+            "Claro tv+",
+            "Max Amazon Channel",
+            "Max",
+            "Netflix basic with Ads",
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/oJKousgdPPkb6dlblkODxGkMmNv.png"
     },
     {
         "tmdb_id": 32798,
@@ -950,7 +1006,15 @@
                 "poster": "https://image.tmdb.org/t/p/original/4fv8F7fxg82X1cYBtOjTDvLFSz4.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Havaí%20Cinco-0%20(32798)/temporada_6.json"
             }
-        ]
+        ],
+        "providers": [
+            "Paramount Plus",
+            "Paramount+ Amazon Channel",
+            "Paramount Plus Apple TV Channel ",
+            "Paramount Plus Premium",
+            "Globoplay"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/sW5psSHsrC8C8XW6Qwf7Bc4uhcK.png"
     },
     {
         "tmdb_id": 1405,
@@ -1011,7 +1075,15 @@
                 "poster": "https://image.tmdb.org/t/p/original/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Dexter%20(1405)/temporada_8.json"
             }
-        ]
+        ],
+        "providers": [
+            "Paramount Plus",
+            "Paramount Plus Apple TV Channel ",
+            "Paramount Plus Premium",
+            "Netflix",
+            "Netflix basic with Ads"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/lAfyAdGWfBLQ6m7NPT7c3OSC2zW.svg"
     },
     {
         "tmdb_id": 202555,
@@ -1040,7 +1112,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Demolidor%20Renascido%20(202555)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/bIicKWq8XjsvIqm5loJn8mD2HgD.png"
     },
     {
         "tmdb_id": 111803,
@@ -1083,7 +1159,13 @@
                 "poster": "https://image.tmdb.org/t/p/original/jNFcfgLFPhCZdhUUmwjHvq6TLxh.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/The%20White%20Lotus%20(111803)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Claro tv+",
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/2SwIOcXZ4you4EjPCAw7IucCsgX.png"
     },
     {
         "tmdb_id": 1396,
@@ -1129,7 +1211,13 @@
                 "poster": "https://image.tmdb.org/t/p/original/igAdP4mObNTZRzGrgQfUEKPlXou.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Breaking%20Bad%20(1396)/temporada_5.json"
             }
-        ]
+        ],
+        "providers": [
+            "Microsoft Store",
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/6gCsRLiJuumiZVwvYhKQiVDHPIF.png"
     },
     {
         "tmdb_id": 2288,
@@ -1175,7 +1263,13 @@
                 "poster": "https://image.tmdb.org/t/p/original/ptIwnohl6Xe6blZKqWyFttsubVx.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Prison%20Break%20Em%20Busca%20da%20Verdade%20(2288)/temporada_5.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix",
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/fpUdryawHINfrEGG3ErT59ThzVU.png"
     },
     {
         "tmdb_id": 60625,
@@ -1242,7 +1336,14 @@
                 "poster": "https://image.tmdb.org/t/p/original/oOU1aynuYPi8SnVSZeqI8t7Z2WI.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Rick%20e%20Morty%20(60625)/temporada_7.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max",
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/eZT392K8YXwQLKGGxi2V8DRptw0.png"
     },
     {
         "tmdb_id": 243881,
@@ -1271,7 +1372,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/sOhUmdY6xoniIjGzFCD0Zf56u3s.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Casa%20de%20Davi%20(243881)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/xl1mRywdFmigeUrrEHNd39ipFvx.png"
     },
     {
         "tmdb_id": 44217,
@@ -1322,7 +1427,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/3HNxFV83aT8bpoo1zR6LQaLHuu.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Vikings%20(44217)/temporada_6.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/4GKqOzFXX8UXqmF5XzEO7AQlNqY.png"
     },
     {
         "tmdb_id": 69478,
@@ -1380,7 +1490,17 @@
                 "poster": "https://image.tmdb.org/t/p/original/eGUT7j3n3rn5yGihlCgwUnD70HV.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Conto%20da%20Aia%20(69478)/temporada_6.json"
             }
-        ]
+        ],
+        "providers": [
+            "Paramount Plus",
+            "Paramount+ Amazon Channel",
+            "Paramount Plus Apple TV Channel ",
+            "Paramount Plus Premium",
+            "Claro tv+",
+            "Disney Plus",
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/y7geYqnIsYFawKQVko2JrdmsPuY.png"
     },
     {
         "tmdb_id": 95557,
@@ -1419,7 +1539,11 @@
                 "poster": "https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Invencível%20(95557)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/spWWIRf1nUJpEabqG6Hx9gPt18E.png"
     },
     {
         "tmdb_id": 37606,
@@ -1456,7 +1580,14 @@
                 "poster": "https://image.tmdb.org/t/p/original/xEkTEceQTLbHmss9rQbBG9HTuX6.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Incrível%20Mundo%20de%20Gumball%20(37606)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max",
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/tUOWmUE2bCBe3uroVyawMzdHIA5.png"
     },
     {
         "tmdb_id": 2316,
@@ -1532,7 +1663,16 @@
                 "poster": "https://image.tmdb.org/t/p/original/4P5bao1nYYAD7XTzLULKHLZJAuQ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/The%20Office%20(2316)/temporada_9.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix",
+            "Claro tv+",
+            "Max Amazon Channel",
+            "Max",
+            "Netflix basic with Ads",
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/2kbzZV3yBfN7n2srRewN6jQ6fjq.png"
     },
     {
         "tmdb_id": 73586,
@@ -1589,7 +1729,17 @@
                 "poster": "https://image.tmdb.org/t/p/original/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Yellowstone%20(73586)/temporada_5.json"
             }
-        ]
+        ],
+        "providers": [
+            "Paramount Plus",
+            "Paramount+ Amazon Channel",
+            "Paramount Plus Apple TV Channel ",
+            "Paramount Plus Premium",
+            "Netflix",
+            "Claro tv+",
+            "Netflix basic with Ads"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/afF8ciL8JGKEVOpMN0q8mgqcB9z.png"
     },
     {
         "tmdb_id": 37680,
@@ -1645,7 +1795,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/xIZEpZhxNoDyspCUjut0FeUDdGf.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Homens%20de%20Terno%20(37680)/temporada_7.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/vORphSBxXbhBrLUR3tJhtpvYLnW.png"
     },
     {
         "tmdb_id": 1668,
@@ -1671,7 +1826,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/ooFT9hsS6UsnKQbTstPlRqoRVus.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Friends%20(1668)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/a4qZkvpdqCSS60vppgL5xCBsMwi.svg"
     },
     {
         "tmdb_id": 18165,
@@ -1732,7 +1892,13 @@
                 "poster": "https://image.tmdb.org/t/p/original/oJWinrSG3R6UDLQK8MBmQSvjsLo.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Diários%20de%20um%20Vampiro%20(18165)/temporada_8.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max",
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/qHGxxIruCUuXmHnlZ4evbVwkxjI.png"
     },
     {
         "tmdb_id": 108978,
@@ -1768,7 +1934,11 @@
                 "poster": "https://image.tmdb.org/t/p/w342/uF5v0SPpKzC9dWXIspA1x2zEDKO.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Reacher%20(108978)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/wUhXD6ENFxqof72PL2etaYmpFj6.png"
     },
     {
         "tmdb_id": 229711,
@@ -1800,7 +1970,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/tXGVxrg7l8RAD1MzGcYjuKFo6Mt.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Caçador%20de%20Demônios%20(229711)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/q3L7t5yx8ujkGwWFLdpdBR5K2ml.png"
     },
     {
         "tmdb_id": 1402,
@@ -1899,7 +2073,16 @@
                 "poster": "https://image.tmdb.org/t/p/original/2ypIGPkSJSaY1F059VzgVA6f6OJ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/The%20Walking%20Dead%20(1402)/temporada_11.json"
             }
-        ]
+        ],
+        "providers": [
+            "Claro video",
+            "Microsoft Store",
+            "Netflix",
+            "Claro tv+",
+            "Netflix basic with Ads",
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/7CIJHjFz2fh4bo6kg1gfE51oENa.png"
     },
     {
         "tmdb_id": 5920,
@@ -1955,7 +2138,13 @@
                 "poster": "https://image.tmdb.org/t/p/original/tXT4Vgn8WKZdMeY7s2I6kgTEnhL.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Mentalista%20(5920)/temporada_7.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max",
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/sHF6y7btA03TqE1tVQJq3JJzQA3.svg"
     },
     {
         "tmdb_id": 31132,
@@ -2007,7 +2196,14 @@
                 "poster": "https://image.tmdb.org/t/p/original/eOWgdfzemsYL7b9Zx6xCzHWdcRZ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Apenas%20um%20Show%20(31132)/temporada_6.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max",
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/gwgl1QT9Lrx6031VyG5F98AihzR.png"
     },
     {
         "tmdb_id": 1434,
@@ -2036,7 +2232,9 @@
                 "poster": "https://image.tmdb.org/t/p/original/4fLbserVJuev3luHioEvJ85GmEM.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Uma%20Família%20da%20Pesada%20(1434)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [],
+        "clearlogo": "https://image.tmdb.org/t/p/original/4gl00NPDu3y01X9w5AaMOa5cJ4M.png"
     },
     {
         "tmdb_id": 45140,
@@ -2104,7 +2302,14 @@
                 "poster": "https://image.tmdb.org/t/p/original/mTMAxrRaDp0TFpdFVinD3grrqr9.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Os%20Jovens%20Titãs%20em%20Ação!%20(45140)/temporada_6.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max",
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/p8pRg0lEZKCM7z5fakweU0VxC6c.png"
     },
     {
         "tmdb_id": 4607,
@@ -2155,7 +2360,14 @@
                 "poster": "https://image.tmdb.org/t/p/original/bDSEVE8QGNYdXdXQtdNU6iiKv2u.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Lost%20(4607)/temporada_6.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix",
+            "Disney Plus",
+            "Oldflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/3OdGyeRpm56so0xmXjhBs8DbXv5.png"
     },
     {
         "tmdb_id": 241405,
@@ -2186,7 +2398,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/egbPLdcEGJPteodzWGiiWjXENJU.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Morrendo%20por%20Sexo%20(241405)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/uDSeqIsvjnvfMmBBlEA4mUxrUhN.png"
     },
     {
         "tmdb_id": 71712,
@@ -2257,7 +2473,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/rbfZKFtcit3AdYPlyqfQeG2OwpN.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/The%20Good%20Doctor%20O%20Bom%20Doutor%20(71712)/temporada_7.json"
             }
-        ]
+        ],
+        "providers": [
+            "Globoplay"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/zJSv0Xq9clrHzlqDunQ2L2ue2rH.png"
     },
     {
         "tmdb_id": 63174,
@@ -2308,7 +2528,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/uHpfjWUJI2gXQIIxjgAvOZWJORx.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Lucifer%20(63174)/temporada_6.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/n5b6FFH4dtPla4R1WC8PskvievF.png"
     },
     {
         "tmdb_id": 4604,
@@ -2390,7 +2615,13 @@
                 "poster": "https://image.tmdb.org/t/p/original/17VEAMuS3iM0rAge1JdRVYYs45J.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Smallville%20As%20Aventuras%20do%20Superboy%20(4604)/temporada_10.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max",
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/sOHgD8zKodsDSXaTvlcUTHTz22.png"
     },
     {
         "tmdb_id": 897,
@@ -2420,7 +2651,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/1q0uEruI5Whr6idwWRdtOZoxrHd.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Terríveis%20Aventuras%20de%20Billy%20e%20Mandy%20(897)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/f1QdZAbUkrP4r67j5qi1GoUfuUK.png"
     },
     {
         "tmdb_id": 249042,
@@ -2451,7 +2687,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/kryDvFcwSlnbEMnT3Dq89EUmFuX.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Adolescência%20(249042)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/1iFbgPzeuvK1Xop93oVuabybT9Y.png"
     },
     {
         "tmdb_id": 47,
@@ -2480,7 +2721,9 @@
                 "poster": "https://image.tmdb.org/t/p/original/mA1ZqoGwELDsyYkHMQfyEPHIccu.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Chaves%20(47)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [],
+        "clearlogo": "https://image.tmdb.org/t/p/original/1vv5lYfkBTT4Nq3YPU95zuUoIlB.png"
     },
     {
         "tmdb_id": 235930,
@@ -2512,7 +2755,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/i9ZQgNaeXsrKKBh6MaSYFxbGkDC.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Devil%20May%20Cry%20(235930)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/kRJkMby2GvsxpNtR7G6ejiiOz0C.png"
     },
     {
         "tmdb_id": 15260,
@@ -2540,7 +2788,14 @@
                 "poster": "https://image.tmdb.org/t/p/original/toCgxkrhqs1UG1j2L1G5gf4eqnp.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Hora%20de%20Aventura%20(15260)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max",
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/xvT35Utsxpydm9svjBfrrjG8Hg5.png"
     },
     {
         "tmdb_id": 34524,
@@ -2591,7 +2846,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/pmyJrkwRBZ9Zlrs7cWg08WAPe7g.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Lobo%20Adolescente%20(34524)/temporada_6.json"
             }
-        ]
+        ],
+        "providers": [
+            "MGM+ Apple TV Channel",
+            "MGM Plus Amazon Channel"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/uHBCSLe1bdUJPP1zIDOI8qCDmng.png"
     },
     {
         "tmdb_id": 1100,
@@ -2676,7 +2936,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/ynDSoB5ilvp2qnSJp1WFCZSRjbm.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mãe%20(1100)/temporada_9.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/3KcVo4es9HkcAPyXMeXqnI6Weov.png"
     },
     {
         "tmdb_id": 71728,
@@ -2741,7 +3005,15 @@
                 "poster": "https://image.tmdb.org/t/p/original/vKMc8k6O59p6xZd3w17tUkv6YIr.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Jovem%20Sheldon%20(71728)/temporada_6.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix",
+            "Max Amazon Channel",
+            "Max",
+            "Netflix basic with Ads",
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/qEDAMVdOaSSZ5A2KLpbGLHmOBMH.png"
     },
     {
         "tmdb_id": 77169,
@@ -2792,7 +3064,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/dC88tPr0RwuKe0O16hh8AevlKcO.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Cobra%20Kai%20(77169)/temporada_6.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/pkNOYbuOrm2CcyJcpqRLHN3ZW2m.png"
     },
     {
         "tmdb_id": 71914,
@@ -2835,7 +3112,11 @@
                 "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dCEIpgPohZK7f3FsXLPhG0aprGr.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Roda%20do%20Tempo%20(71914)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/jVCSbUx0YOGEA78v3QlmTXWVURZ.png"
     },
     {
         "tmdb_id": 39351,
@@ -2899,7 +3180,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/bTEbob7J3AguqsSLmojq4dn6cGC.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Grimm%20Contos%20de%20Terror%20(39351)/temporada_6.json"
             }
-        ]
+        ],
+        "providers": [
+            "Globoplay"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/nOPg4FutzDnPdwlXMDy8hVRuJAr.png"
     },
     {
         "tmdb_id": 4194,
@@ -2965,7 +3250,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/ergZwK1Lh0DnyXwtChT1wsZQ32i.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Star%20Wars%20The%20Clone%20Wars%20(4194)/temporada_7.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/k6JT0p0yssrEWkNLDAjKk2zUnaJ.png"
     },
     {
         "tmdb_id": 2190,
@@ -3149,7 +3438,15 @@
                 "poster": "https://image.tmdb.org/t/p/original/to2dtGxOcgpbkjZNSXizDZbrihn.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/South%20Park%20(2190)/temporada_23.json"
             }
-        ]
+        ],
+        "providers": [
+            "Paramount Plus",
+            "Paramount+ Amazon Channel",
+            "Paramount Plus Apple TV Channel ",
+            "Paramount Plus Premium",
+            "Pluto TV"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/w3bIQSoMUXtsSvXJxIHntFgr7rg.png"
     },
     {
         "tmdb_id": 85077,
@@ -3190,7 +3487,13 @@
                 "poster": "https://image.tmdb.org/t/p/original/osVr2KDItynDQLuuP2ljQ8hLbq7.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/The%20Chosen%20Os%20Escolhidos%20(85077)/temporada_4.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix",
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/5xeRFCX5j5oNAudvR5GhN664ejC.png"
     },
     {
         "tmdb_id": 1418,
@@ -3284,7 +3587,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/d5xdX1tpTvGKBgNN8vP6B5il1FA.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Big%20Bang%20A%20Teoria%20(1418)/temporada_12.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/gg3Kyjme4uBjasG9WIL3KQHEngv.png"
     },
     {
         "tmdb_id": 157744,
@@ -3320,7 +3628,15 @@
                 "poster": "https://image.tmdb.org/t/p/original/97YimtKZCD0bvHIG4YPgWo3OYar.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/1923%20(157744)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Paramount Plus",
+            "Paramount+ Amazon Channel",
+            "Paramount Plus Apple TV Channel ",
+            "Paramount Plus Premium",
+            "Claro tv+"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/2hlc1DvGiDx8L0tmkSepEn5tpzb.png"
     },
     {
         "tmdb_id": 93405,
@@ -3351,7 +3667,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/xRf1qFosRHrymBL34H6nQg773Rk.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Round%206%20(93405)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/d6w3wFwmmV5UP1qyjetUa4aFu56.png"
     },
     {
         "tmdb_id": 48891,
@@ -3421,7 +3742,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/8PmhuCEB9W3Cc5ZDJunnV1m68IZ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Brooklyn%20Nine-Nine%20Lei%20e%20Desordem%20(48891)/temporada_8.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/c4B02LhSKL6xLrI8vJ5IbLHL0Ue.png"
     },
     {
         "tmdb_id": 1398,
@@ -3479,7 +3805,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/b1P9PAUI18mb62N0DtHOd71L3CT.jpg",
                 "episodios": []
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/bTXo9q6J8u3Gvpk5Q3K7InhuIJW.png"
     },
     {
         "tmdb_id": 76479,
@@ -3520,7 +3851,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/nWwhdt7iOFJsWM8Lz1UtaUC6EUf.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/The%20Boys%20(76479)/temporada_4.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/xawDgfkBQaocXR9CljBMjkYpXNK.png"
     },
     {
         "tmdb_id": 60574,
@@ -3571,7 +3906,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Peaky%20Blinders%20Sangue,%20Apostas%20e%20Navalhas%20(60574)/temporada_6.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/4DlHJs3wBqNMHcjiVeFdL5hOW3e.png"
     },
     {
         "tmdb_id": 66732,
@@ -3617,7 +3957,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/2zjuc2rGo8RYBI6D4HBD0vSovIT.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Stranger%20Things%20(66732)/temporada_4.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/bKTmXkYMYXGhTK3Aiw67G14XF2M.png"
     },
     {
         "tmdb_id": 220542,
@@ -3649,7 +3994,14 @@
                 "poster": "https://image.tmdb.org/t/p/original/pDtT3clyMU4xGUy8Tkvwc3pQprJ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Diarios%20de%20uma%20Apotecária%20(220542)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Crunchyroll Amazon Channel",
+            "Netflix basic with Ads",
+            "Crunchyroll",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/3mjErHRF4zRYIcdmK1jbAHL158m.png"
     },
     {
         "tmdb_id": 95479,
@@ -3683,7 +4035,17 @@
                 "poster": "https://image.tmdb.org/t/p/original/aHnzODZsd8HzeHByYnYlePR4IyC.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Jujutsu%20Kaisen%20(95479)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Claro video",
+            "Crunchyroll",
+            "Netflix",
+            "Crunchyroll Amazon Channel",
+            "Claro tv+",
+            "Netflix basic with Ads",
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/tEmqJ1k4MdjuaKaetn8wGyZGcyC.png"
     },
     {
         "tmdb_id": 615,
@@ -3731,7 +4093,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/r5nGE66fq69uR4FKA3j7TKSL8uP.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Futurama%20(615)/temporada_5.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/srgYnMQDj84xPn5ramBXbeX4OmP.svg"
     },
     {
         "tmdb_id": 1973,
@@ -3816,7 +4182,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/yU78ch7el7Vy22YbGydvgno26ff.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/24%20Horas%20(1973)/temporada_9.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/wAz560VjSX11BjlVkPmdswwe7E9.png"
     },
     {
         "tmdb_id": 60059,
@@ -3867,7 +4237,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/rbNc44otT6VRd7QpxqlUAMyByaQ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Better%20Call%20Saul%20(60059)/temporada_6.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/hwxBWyoeTefjafeqkIONxl0mXUV.png"
     },
     {
         "tmdb_id": 46896,
@@ -3919,7 +4294,13 @@
                 "poster": "https://image.tmdb.org/t/p/original/lnxnNpv7QatBkm023mmvhYRB8HO.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Os%20Originais%20(46896)/temporada_5.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max",
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/eRoXDZocWwBHFZcLAmj8ASVZ9Eu.png"
     },
     {
         "tmdb_id": 12971,
@@ -3952,7 +4333,14 @@
                 "poster": "https://image.tmdb.org/t/p/original/kIbaHihnds8cINmKInNJO3AZDxm.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Dragon%20Ball%20Z%20(12971)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Crunchyroll",
+            "Crunchyroll Amazon Channel",
+            "Oldflix",
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/yMoktMFgvqnsQ1Pii9xwturAHx4.png"
     },
     {
         "tmdb_id": 46260,
@@ -3985,7 +4373,17 @@
                 "poster": "https://image.tmdb.org/t/p/original/1GVfX7kqIbQBp38Riiy1QLQkhJQ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Naruto%20(46260)/temporada_T.json"
             }
-        ]
+        ],
+        "providers": [
+            "Crunchyroll",
+            "Netflix",
+            "Crunchyroll Amazon Channel",
+            "Max Amazon Channel",
+            "Pluto TV",
+            "Netflix basic with Ads",
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/kaZ99sfclCKWnUgmW7AYrok03Am.png"
     },
     {
         "tmdb_id": 125988,
@@ -4016,7 +4414,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/1aSY70YeeAt9OuCkl0pXxt7WXat.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Silo%20(125988)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Apple TV Plus Amazon Channel",
+            "Apple TV+"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/czDX0kMF1O6UslAzzQg8bbYkuHV.png"
     },
     {
         "tmdb_id": 48866,
@@ -4072,7 +4475,9 @@
                 "poster": "https://image.tmdb.org/t/p/original/qUJY3HcNhFINpwA6XeHZ2LUiLDw.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Os%20100%20(48866)/temporada_7.json"
             }
-        ]
+        ],
+        "providers": [],
+        "clearlogo": "https://image.tmdb.org/t/p/original/bxvG5Faq3pVb4RzrHrzM1cvuuk9.svg"
     },
     {
         "tmdb_id": 85552,
@@ -4106,7 +4511,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/jtnfNzqZwN4E32FGGxx1YZaBWWf.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Euphoria%20(85552)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/3o1S8814htDg63MtITB231d56zi.png"
     },
     {
         "tmdb_id": 95057,
@@ -4147,7 +4557,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/hoWkpACsrLgv4QMT4XCDrzoPdWN.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Superman%20e%20Lois%20(95057)/temporada_4.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/pVOmqCcN1LezB0ZBue7JrwtvSJk.png"
     },
     {
         "tmdb_id": 94997,
@@ -4178,7 +4593,13 @@
                 "poster": "https://image.tmdb.org/t/p/original/d8um9L1fqQGCLgTw5JGPHogdNgK.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Casa%20do%20Dragão%20(94997)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Claro tv+",
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/tnG6qt5wBDNxX2TE7iPzfhChkmI.png"
     },
     {
         "tmdb_id": 60708,
@@ -4235,7 +4656,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Gotham%20(60708)/temporada_5.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/dvMiFhdViAg28Xl22CZtbRTvgJT.png"
     },
     {
         "tmdb_id": 84773,
@@ -4266,7 +4692,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/smmSPQjMYhm0P4T4UDiUDEjZZZO.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Senhor%20dos%20Anéis%20Os%20Anéis%20de%20Poder%20(84773)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/dDgJLSMUqI64CvNAN73WeApbAlJ.png"
     },
     {
         "tmdb_id": 61889,
@@ -4309,7 +4739,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/x7zUHG5cko4ZXQO2209Qc2aoyrc.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Marvel%20-%20Demolidor%20(61889)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/6NOjoUajyG0ffmU4AvWDCjhdkIW.png"
     },
     {
         "tmdb_id": 2309,
@@ -4358,7 +4792,15 @@
                 "poster": "https://image.tmdb.org/t/p/original/9Ti4ine8RG9Gp0xO47w1KSHV3sB.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Danny%20Phantom%20(2309)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Paramount Plus",
+            "Paramount+ Amazon Channel",
+            "Paramount Plus Apple TV Channel ",
+            "Paramount Plus Premium",
+            "Pluto TV"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/oLWer1D7m7dSaI3esSgQm2lDRi.svg"
     },
     {
         "tmdb_id": 63247,
@@ -4404,7 +4846,9 @@
                 "poster": "https://image.tmdb.org/t/p/original/gxjH2UjLYaTp8kyV519Jd07SVGG.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Westworld%20(63247)/temporada_4.json"
             }
-        ]
+        ],
+        "providers": [],
+        "clearlogo": "https://image.tmdb.org/t/p/original/418NJcFFqyg5lg5CdIMnQmJMjLl.png"
     },
     {
         "tmdb_id": 95396,
@@ -4435,7 +4879,12 @@
                 "poster": "https://image.tmdb.org/t/p/w342/8tK6AnbN2zVzhRQ2yeza4Wry4ji.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Ruptura%20(95396)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Apple TV Plus Amazon Channel",
+            "Apple TV+"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/l1jQCXRyQenWqtJhRBrvUgQJLar.png"
     },
     {
         "tmdb_id": 222766,
@@ -4461,7 +4910,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/9So7vXZMXg16JHTxSGfzM8NaShl.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Dia%20do%20Chacal%20(222766)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/qsW4sClr5LQWBYPY6XAHhqml5KR.png"
     },
     {
         "tmdb_id": 63333,
@@ -4518,7 +4971,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/The%20Last%20Kingdom%20(63333)/temporada_5.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/rE7f5t0naWuCP404p2D9o01CzqX.png"
     },
     {
         "tmdb_id": 61222,
@@ -4571,7 +5029,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/czEZfIhJdKjYkUX5YVbOI6gu1Nv.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/BoJack%20Horseman%20(61222)/temporada_6.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/8czXfVg26ohZB41TijcXkMcbedc.png"
     },
     {
         "tmdb_id": 52814,
@@ -4608,7 +5071,17 @@
                 "poster": "https://image.tmdb.org/t/p/original/hJAHL3lsCmBnOqgNUp3aw8DXHKi.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Halo%20(52814)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Paramount Plus",
+            "Paramount+ Amazon Channel",
+            "Paramount Plus Apple TV Channel ",
+            "Paramount Plus Premium",
+            "Netflix",
+            "Claro tv+",
+            "Netflix basic with Ads"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/g2PJeIjOkMgIvjzvQVnATTcCnIV.png"
     },
     {
         "tmdb_id": 78191,
@@ -4649,7 +5122,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/ivqi64qY0S3ZAimvjlqXLEH7D6W.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Você%20(78191)/temporada_4.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/aWtXfPUgRQBb12nCoLqBmufTOrP.png"
     },
     {
         "tmdb_id": 31910,
@@ -4682,7 +5160,16 @@
                 "poster": "https://image.tmdb.org/t/p/original/vvfwoBxO9P1MGKrs5FM7Hp3RR0W.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Naruto%20Shippuden%20(31910)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Crunchyroll",
+            "Crunchyroll Amazon Channel",
+            "Netflix",
+            "Pluto TV",
+            "Netflix basic with Ads",
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/5fHucuDcgj301sS7yicHVZNGqsT.svg"
     },
     {
         "tmdb_id": 81356,
@@ -4723,7 +5210,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/8TIEbGYzDRxBQrb7z4cL7AWkgZq.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Sex%20Education%20(81356)/temporada_4.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/tBkXRuuQlFjPaao4L55vwuIhkRH.png"
     },
     {
         "tmdb_id": 40075,
@@ -4763,7 +5255,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/1ZHc3N5f6vtcda57VVobvKwCzAG.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Gravity%20Falls%20Um%20Verão%20de%20Mistérios%20(40075)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/x4CRHbhTPHN3PvKWvAxpLqWPffu.png"
     },
     {
         "tmdb_id": 153312,
@@ -4794,7 +5290,15 @@
                 "poster": "https://image.tmdb.org/t/p/original/fGvZspAOXxpbcU5TGnJjK9KS3YZ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Tulsa%20King%20(153312)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Paramount Plus",
+            "Paramount+ Amazon Channel",
+            "Paramount Plus Apple TV Channel ",
+            "Paramount Plus Premium",
+            "Claro tv+"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/qpkA9m2yBaOPnXgXC7ySFW32rr0.png"
     },
     {
         "tmdb_id": 94605,
@@ -4829,7 +5333,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/qUPgXwB6qGFJbF6QOYmAmon2fl3.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Arcane%20(94605)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/jXLNOzeEA8AoJy92dJTUUZXTMxK.png"
     },
     {
         "tmdb_id": 1920,
@@ -4872,7 +5381,9 @@
                 "poster": "https://image.tmdb.org/t/p/original/ei7odFMfdnNV9pr5LyfrAAQOFes.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Twin%20Peaks%20(1920)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [],
+        "clearlogo": "https://image.tmdb.org/t/p/original/7FIVhfOPEjgb4Wver9Cfy9ETMTM.png"
     },
     {
         "tmdb_id": 91239,
@@ -4913,7 +5424,12 @@
                 "poster": "",
                 "episodios": []
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/hCktfeE5wbaakqp8y98Ui5ZAats.svg"
     },
     {
         "tmdb_id": 1409,
@@ -4977,7 +5493,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/zwPm16h5H2dWkK2YuTOZbqH2X90.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Filhos%20da%20Anarquia%20(1409)/temporada_7.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/efgD4oLjC9MF606gTSKcLI4q7mZ.png"
     },
     {
         "tmdb_id": 79696,
@@ -5013,7 +5533,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/dr3ufSlCmcPaikHXhPsryMOQK4N.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Manifest%20O%20Mistério%20do%20Voo%20828%20(79696)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/hNiclPig633LQyAyN22ht1C7mzv.png"
     },
     {
         "tmdb_id": 40008,
@@ -5053,7 +5578,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/rHS29GbV7Ffmn66Ewndgl791fja.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Hannibal%20(40008)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/o1YTZCrIkQBIQL9gG65fZidQ25U.png"
     },
     {
         "tmdb_id": 4602,
@@ -5097,7 +5626,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/fNVY78pQb4qU8Fx0jFVzSyMYjK2.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Visões%20da%20Raven%20(4602)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/u8PDIHdgm0s2Bfs15oJxdswBpip.png"
     },
     {
         "tmdb_id": 71446,
@@ -5149,7 +5682,9 @@
                 "poster": "https://image.tmdb.org/t/p/original/tGwMGRKcBaR8esu7RARmdQl3Nnw.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/La%20casa%20de%20papel%20(71446)/temporada_5.json"
             }
-        ]
+        ],
+        "providers": [],
+        "clearlogo": "https://image.tmdb.org/t/p/original/zIvngRPJ69v3gAMI9Cs3WV7NoZr.png"
     },
     {
         "tmdb_id": 120089,
@@ -5189,7 +5724,14 @@
                 "poster": "https://image.tmdb.org/t/p/original/apHdl5icdDu2T9uylPgT5XLSzN0.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/SPY%20x%20FAMILY%20(120089)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Crunchyroll Amazon Channel",
+            "Netflix basic with Ads",
+            "Crunchyroll",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/jRO2tHRuI1KHn1f2TouXTsuDSer.png"
     },
     {
         "tmdb_id": 207332,
@@ -5224,7 +5766,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/mS8Lb5aq8Tphb9utGhnLncsNkYd.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/SAKAMOTO%20DAYS%20(207332)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/4hOUNaSr76WDgxcsRL3ygaA39Ad.png"
     },
     {
         "tmdb_id": 1438,
@@ -5264,7 +5811,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/mWo4dHE0XXsKgZOQQCtkHl3IHrf.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Escuta%20(1438)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/cP5IrOYxU7qtFl3Gyjtj9iPufCn.png"
     },
     {
         "tmdb_id": 92685,
@@ -5312,7 +5864,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/pnWaAu5TLsJ3n9r7bVtuAncrJxL.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Casa%20Coruja%20(92685)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/zxGLjyHFYmYBED4ltULZavVH8rE.png"
     },
     {
         "tmdb_id": 80752,
@@ -5349,7 +5905,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/eKuHP97omMYK4HPCOPzVTHjoNEM.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/See%20(80752)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Apple TV Plus Amazon Channel",
+            "Apple TV+"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/e9mZOAjDppFuVmgs5JBpltD8A8w.png"
     },
     {
         "tmdb_id": 203740,
@@ -5373,8 +5934,8 @@
             "Sci-Fi & Fantasy"
         ],
         "providers": [
-            "Netflix",
-            "Netflix basic with Ads"
+            "Netflix basic with Ads",
+            "Netflix"
         ],
         "type": "tvshow",
         "temporadas": [
@@ -5385,7 +5946,8 @@
                 "poster": "https://image.tmdb.org/t/p/original/yehnGHVLKTYa04KEBJamK5zq8Ms.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Nascer%20da%20Lua%20(203740)/temporada_1.json"
             }
-        ]
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/3sWpsiQGntyo7AylSnm9DTP31sb.png"
     },
     {
         "tmdb_id": 86831,
@@ -5422,7 +5984,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/cRiDlzzZC5lL7fvImuSjs04SUIJ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Love,%20Death%20&%20Robots%20(86831)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/QRyBVJUv9WY6u14scmG4ZD8VVG.png"
     },
     {
         "tmdb_id": 113962,
@@ -5453,7 +6020,15 @@
                 "poster": "https://image.tmdb.org/t/p/original/vAWbuHR9u9mHI9CjP3JBpRxtdRZ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Lioness%20(113962)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Paramount Plus",
+            "Paramount+ Amazon Channel",
+            "Paramount Plus Apple TV Channel ",
+            "Paramount Plus Premium",
+            "Claro tv+"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/gr1jPZA47Zm4xEHjLzMok9ap9eT.png"
     },
     {
         "tmdb_id": 66788,
@@ -5503,7 +6078,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/goaAdN1VifvVvVoQwidL7zrfKOp.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/13%20Reasons%20Why%20(66788)/temporada_4.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/fvTKFoPshIWu8RtRjW4vhRonnrD.png"
     },
     {
         "tmdb_id": 63351,
@@ -5543,7 +6123,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/uFYRe0tOD1QJ0CLVaottqIF8Uru.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Narcos%20(63351)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/9ksHxU8TGvG6qWuGutXcw8GCaph.png"
     },
     {
         "tmdb_id": 241609,
@@ -5564,8 +6149,7 @@
         ],
         "providers": [
             "Apple TV Plus Amazon Channel",
-            "Apple TV+",
-            "Canal+"
+            "Apple TV+"
         ],
         "date_added": "2025-04-15",
         "type": "tvshow",
@@ -5577,7 +6161,8 @@
                 "poster": "https://image.tmdb.org/t/p/original/yL5w0u3dqRLK9Ghlmmx6k8a6Uv2.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Seus%20Amigos%20e%20Vizinhos%20(241609)/temporada_1.json"
             }
-        ]
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/yjOJJZMfmgaNoTL0cfIHF20ILRL.png"
     },
     {
         "tmdb_id": 2038,
@@ -5608,7 +6193,14 @@
                 "poster": "https://image.tmdb.org/t/p/original/vBYAGdP2Dq7QRe01cAvieVN0ylR.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Drake%20e%20Josh%20(2038)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Paramount Plus Apple TV Channel ",
+            "Paramount Plus Premium",
+            "Paramount Plus",
+            "Paramount+ Amazon Channel"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/19Ai02xeZFGCxKiYozSjAi2SHTD.png"
     },
     {
         "tmdb_id": 71912,
@@ -5648,7 +6240,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/wgmaqKgweZA6AahZ95aioSRd1M6.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/The%20Witcher%20(71912)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/x3uBgefbFC8blsE4Sbdi0m2a71d.png"
     },
     {
         "tmdb_id": 71738,
@@ -5691,7 +6288,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/zcxuNQuFNugWovXd2vrfb6dz4no.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Orville%20nave%20interestelar%20(71738)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/omZ2FMfLNKR1Ds2bMHdYF6LgDyY.png"
     },
     {
         "tmdb_id": 62560,
@@ -5742,7 +6343,9 @@
                 "poster": "https://image.tmdb.org/t/p/original/gXMZnIvHxOFRQ7UGQWtmsVfCueT.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Mr.%20Robot%20(62560)/temporada_4.json"
             }
-        ]
+        ],
+        "providers": [],
+        "clearlogo": "https://image.tmdb.org/t/p/original/l9PqAU71v8Z7X8D5vGR0ZJl9WYe.svg"
     },
     {
         "tmdb_id": 67178,
@@ -5778,7 +6381,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/mp4XnFZHSPFkqOHu7NuZfTUUmv2.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Marvel%20-%20O%20Justiceiro%20(67178)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/6JQwz9Tgz0ZlPRN2N7Wf413332A.png"
     },
     {
         "tmdb_id": 119051,
@@ -5806,7 +6413,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/ajACh2JtjPOS2jJFhuD30gI1o8a.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Wandinha%20(119051)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/kL3oLGUeQmrGdeasEZK3n5iEaqj.png"
     },
     {
         "tmdb_id": 82856,
@@ -5846,7 +6458,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/pVitdX1tcq2aUJT6tk4GZtfLAqG.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/The%20Mandalorian%20(82856)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/qKBEJIbXF9WTAy09yYmaQ8BRkmi.png"
     },
     {
         "tmdb_id": 128839,
@@ -5890,7 +6506,9 @@
                 "poster": "https://image.tmdb.org/t/p/original/q9iVISmkCamYMzb9pU5A2JWSPKr.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/La%20Brea%20A%20Terra%20Perdida%20(128839)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [],
+        "clearlogo": "https://image.tmdb.org/t/p/original/eth8LqcriBLnRhIOCofdhQ4MjOs.png"
     },
     {
         "tmdb_id": 84958,
@@ -5921,7 +6539,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/59NBe1f8t1zaR7Wbi92qZDUtIDd.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Loki%20(84958)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/6yb7XUr6l7ctCwf8OJ9NN5brQ53.png"
     },
     {
         "tmdb_id": 2405,
@@ -5954,7 +6576,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/fpkqytug1IZrjnhYQjV13YTsjb4.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Johnny%20Bravo%20(2405)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/i0lP8YK08mrz1tUZGCSzs3wdekL.png"
     },
     {
         "tmdb_id": 83867,
@@ -5982,7 +6609,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Star%20Wars%20Andor%20(83867)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/tLbDTuYfQ34N8CiTG1wWLJg3VV6.png"
     },
     {
         "tmdb_id": 209876,
@@ -6012,7 +6643,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/lQuT7R5MTeNHKm7jeyihABMS9Pe.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Ladrões%20de%20Drogas%20(209876)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Apple TV Plus Amazon Channel",
+            "Apple TV+"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/4z17Vvdh42OpNOVLREwxn7DpuFD.png"
     },
     {
         "tmdb_id": 2692,
@@ -6069,7 +6705,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/gOOabQ09rX0LEby6juNlwMEvAfO.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Eu,%20a%20Patroa%20e%20as%20Crianças%20(2692)/temporada_5.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus",
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/uzzAOsLonGUBxMqqnB4JD1oknHT.png"
     },
     {
         "tmdb_id": 1892,
@@ -6097,7 +6738,14 @@
                 "poster": "https://image.tmdb.org/t/p/original/onTkkSKPO0O8VOyB9iscBiia2c9.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Um%20Maluco%20no%20Pedaço%20(1892)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Globoplay",
+            "Max",
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/nIyxfGAeuUOuDwARWSuuDoKHrny.png"
     },
     {
         "tmdb_id": 1429,
@@ -6152,7 +6800,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/4wUnwoAnaHqV5ppzP37hBkYLBGy.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Attack%20on%20Titan%20(1429)/temporada_4.json"
             }
-        ]
+        ],
+        "providers": [
+            "Crunchyroll",
+            "Crunchyroll Amazon Channel"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/qSntvVN1vTFZJQRcUzzAPcb0KPO.png"
     },
     {
         "tmdb_id": 70523,
@@ -6188,7 +6841,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/mPxicgb5mozW8pfGQIadTA9ENCw.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Dark%20(70523)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/hZAw4fEQb4t5YVttZpcSIWv0fSQ.png"
     },
     {
         "tmdb_id": 69740,
@@ -6229,7 +6887,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/hFGvbeavLFTLyALELtY4J83oeWe.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Ozark%20(69740)/temporada_4.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/ukFTvV5fFYsRZoX1W60cWj04snF.png"
     },
     {
         "tmdb_id": 252,
@@ -6258,7 +6921,16 @@
                 "poster": "https://image.tmdb.org/t/p/original/yDZ3XJb9sNC0A9OpQtWDjlKYh6C.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Todo%20Mundo%20Odeia%20o%20Chris%20(252)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Paramount Plus",
+            "Paramount+ Amazon Channel",
+            "Paramount Plus Apple TV Channel ",
+            "Paramount Plus Premium",
+            "Globoplay",
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/zrao3FW6xKcx5QsBoNLEmO2gjVt.png"
     },
     {
         "tmdb_id": 73375,
@@ -6304,7 +6976,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/12J4SCPAgqOEJAe1CgVjvBxq6Zc.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Jack%20Ryan%20de%20Tom%20Clancy%20(73375)/temporada_4.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/genIkWvFfmioq9w4Hu69BdesLDP.png"
     },
     {
         "tmdb_id": 87108,
@@ -6330,7 +7006,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Chernobyl%20(87108)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/f7kz7QLMMfBnM9sMfri4q6FhuvE.png"
     },
     {
         "tmdb_id": 75006,
@@ -6376,7 +7057,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/95JN2rqriB5sQmp92WFZUZsvaf8.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/The%20Umbrella%20Academy%20(75006)/temporada_4.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/zApywPqx8eSoRhXvNUctCmu938z.png"
     },
     {
         "tmdb_id": 96648,
@@ -6416,7 +7102,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/w9nDN78WH3PLqCjeVmlTRcPohT0.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Sweet%20Home%20(96648)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/tPfB6aJRLc6ClGGv8TGt6M2bvTN.png"
     },
     {
         "tmdb_id": 90228,
@@ -6442,7 +7133,13 @@
                 "poster": "https://image.tmdb.org/t/p/original/iMSKTbNxtnCyPsWOhKwfK5H4RGF.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Duna%20A%20Profecia%20(90228)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Claro tv+",
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/gDkvlUKyf7gnlAxcqDSdnooeO9E.png"
     },
     {
         "tmdb_id": 126308,
@@ -6470,7 +7167,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/bufY3UCdDjRu3OzsRRAOi3nX8W9.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Xógum%20A%20Gloriosa%20Saga%20do%20Japão%20(126308)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/cRZTp3I7glL3JINNEprUsZbCyz2.png"
     },
     {
         "tmdb_id": 246,
@@ -6502,7 +7203,18 @@
                 "poster": "https://image.tmdb.org/t/p/original/msWDv3MzBC4cM5fk9B0HgbKiMQ1.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Avatar%20A%20Lenda%20de%20Aang%20(246)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Paramount Plus",
+            "Paramount+ Amazon Channel",
+            "Paramount Plus Apple TV Channel ",
+            "Paramount Plus Premium",
+            "Netflix",
+            "Claro tv+",
+            "Pluto TV",
+            "Netflix basic with Ads"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/iUNOXylWFfkZtAhHUBfH4W2iOrM.png"
     },
     {
         "tmdb_id": 606,
@@ -6535,7 +7247,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/e0hLfKakSL3BcxfzGZ5yZvzQgTB.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Du,%20Dudu%20e%20Edu%20(606)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/64OrUQAcLJ7cKaRg1SNox4VM02S.png"
     },
     {
         "tmdb_id": 88329,
@@ -6564,7 +7281,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/62qfVDg4VK3kqZFxrRztPqSbal4.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Gavião%20Arqueiro%20(88329)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/h4OBTaLQmwdjTYC0V1h8rJDbGY3.png"
     },
     {
         "tmdb_id": 99966,
@@ -6593,7 +7314,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/78Gji9ox5NhskKjeuj36r969UqU.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/All%20of%20Us%20Are%20Dead%20(99966)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/cEc7XPbGxSKXfiZU0z8czFOImI2.png"
     },
     {
         "tmdb_id": 46331,
@@ -6636,7 +7362,9 @@
                 "poster": "https://image.tmdb.org/t/p/original/mFPwnx3DRDVm7YpR4MYLdn9CQMy.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Domo%20Prisão%20Invisível%20(46331)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [],
+        "clearlogo": "https://image.tmdb.org/t/p/original/xUVQqriejRGpD6VSRLILhzicC5j.png"
     },
     {
         "tmdb_id": 110316,
@@ -6672,7 +7400,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/sMxsb1zaytOTlq33RKZANTZFCah.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Alice%20in%20Borderland%20(110316)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/epePp3mrs9zCRoYQuJHIQGcpfr9.png"
     },
     {
         "tmdb_id": 136315,
@@ -6716,7 +7449,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/oG4Zv3ioI3N3enFHCGeZDpYpRBQ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Urso%20(136315)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/kGYXRuoBAPwXHgG0TDrn5qQxoWA.png"
     },
     {
         "tmdb_id": 70785,
@@ -6747,7 +7484,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/xWdSSB1La6FcXZUuuwvcqvB6Kdf.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Anne%20com%20um%20E%20(70785)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/gtqNjjM2wXmTnbTvMP3xYAXaLrU.png"
     },
     {
         "tmdb_id": 91363,
@@ -6786,7 +7528,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/w29Z0WosgRlKdeQ8qabfzcmYuJ2.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/What%20If...%20(91363)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/j9TysR7vlqxVhSOdjhf7Msbi8Ev.png"
     },
     {
         "tmdb_id": 194764,
@@ -6812,7 +7558,13 @@
                 "poster": "https://image.tmdb.org/t/p/original/uswRhxq3j5eg2vaNhuRqnX7CSo8.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Pinguim%20(194764)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Claro tv+",
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/4hZvV6sFplcZSkYVVIEqAZ9YU3U.png"
     },
     {
         "tmdb_id": 125928,
@@ -6846,7 +7598,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/pCVtphVHcWQRSls7CCF4TEjsQcJ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Minhas%20Aventuras%20com%20o%20Superman%20(125928)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/qcPCgL6LTfwj0eG8uLO6hcaK5c8.png"
     },
     {
         "tmdb_id": 211684,
@@ -6876,7 +7633,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/t5FVNwDq0oQ1PvVd6EA9hrY3YFV.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/The%20Walking%20Dead%20Daryl%20Dixon%20(211684)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/5RRyLSY9ZvTBA3ogbrin3PqWcgc.png"
     },
     {
         "tmdb_id": 74440,
@@ -6936,7 +7697,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/9Dm1SEh8Wxt8LNNg02exHQ595zg.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Arlequina%20(74440)/temporada_5.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/hkp2IXdWCoifC0S3uqH6MHW5nuI.svg"
     },
     {
         "tmdb_id": 117376,
@@ -6965,7 +7731,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/nmaxPlQDFkS823vNe4evRfQJNIb.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Vincenzo%20(117376)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/sAUTrHRoeDosrFr5Y8h7LQH2704.png"
     },
     {
         "tmdb_id": 3103,
@@ -7004,7 +7775,11 @@
                 "poster": "",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bananas%20de%20Pijamas%20(3103)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": ""
     },
     {
         "tmdb_id": 88396,
@@ -7033,7 +7808,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/w8Hi3GI4q1oR6EImrDWrAQFn8Ha.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Falcão%20e%20o%20Soldado%20Invernal%20(88396)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/xov5AmWBxfMs0YYjPhkUWl7h9Wj.png"
     },
     {
         "tmdb_id": 90462,
@@ -7073,7 +7852,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/gBW0xkZNgFRyRt77FgB1NcGZbXz.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Chucky%20(90462)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/AgYN1OiH9DS8NMyteuQGTik0nyd.png"
     },
     {
         "tmdb_id": 245927,
@@ -7102,7 +7885,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/rkwqy7uE0ORdUxDFNeVq7vpJORN.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Paradise%20(245927)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/arhU0k5Kdt229zuZFCY1CgvzZvD.png"
     },
     {
         "tmdb_id": 96580,
@@ -7142,7 +7929,14 @@
                 "poster": "https://image.tmdb.org/t/p/original/nzsU8zEsCYanxX1aJm8TAJO4EKk.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Resident%20Alien%20(96580)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Globoplay",
+            "Netflix",
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/kny0Z0Zlaj7tQFHpfWHnsbJUcQH.svg"
     },
     {
         "tmdb_id": 240411,
@@ -7174,7 +7968,14 @@
                 "poster": "https://image.tmdb.org/t/p/original/uqwIHOmYeXEuZ8BqrKulvLAn4Io.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Dan%20Dan%20Dan%20(240411)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Crunchyroll Amazon Channel",
+            "Netflix basic with Ads",
+            "Crunchyroll",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/A9jO4m2vVmvuEhTMf6E6sK16kMp.png"
     },
     {
         "tmdb_id": 82,
@@ -7206,7 +8007,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/zACtCoiSSGBR0jf5lr5EL7XKna0.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Animaniacs%20(82)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/oOdoTwu0khWPxVH7de5HT66LNa7.png"
     },
     {
         "tmdb_id": 74577,
@@ -7242,7 +8048,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/e00rak9Xp3DSp42hm7EK3omnhQS.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/The%20End%20of%20the%20Fing%20World%20(74577)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/2T2WGxe3Amr9jKLBfqC4Y30M3cf.png"
     },
     {
         "tmdb_id": 93740,
@@ -7278,7 +8089,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/8JrCVI4x5ZuNrCzqlYDVFSJyIaH.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Fundação%20(93740)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Apple TV Plus Amazon Channel",
+            "Apple TV+"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/sfC7VLXMhH9Vd95PewV1vV0hIBl.png"
     },
     {
         "tmdb_id": 216082,
@@ -7307,7 +8123,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/zG6dUIJ7gNIyKKrDpPionW2J83J.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Dia%20Zero%20(216082)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/sXrtjcY06xvVxL6zV4KTvCx4jHA.png"
     },
     {
         "tmdb_id": 720,
@@ -7343,7 +8164,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/wjQfPEkKA0hgV5BxWGCrLS7qHlx.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/DuckTales%20Os%20Caçadores%20de%20Aventuras%20(720)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/8L5crkcNLn5X2jv8HW4LBXvlg2s.png"
     },
     {
         "tmdb_id": 67744,
@@ -7374,7 +8199,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/hOO7LBgN7AKJuV3LbLuIKrtHtnZ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Mindhunter%20(67744)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/bUeXqAHghLNOALd5PUiYdXr5PW.png"
     },
     {
         "tmdb_id": 13916,
@@ -7406,7 +8236,18 @@
                 "poster": "https://image.tmdb.org/t/p/original/aLSi3JEHHB6CpUusWa2gQ4Q8B1k.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Death%20Note%20(13916)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Microsoft Store",
+            "Crunchyroll",
+            "Netflix",
+            "Crunchyroll Amazon Channel",
+            "Max Amazon Channel",
+            "Max",
+            "Pluto TV",
+            "Netflix basic with Ads"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/mbDyY5qEDKVQNvuHk71OvxH8Cjg.png"
     },
     {
         "tmdb_id": 46786,
@@ -7449,7 +8290,9 @@
                 "poster": "https://image.tmdb.org/t/p/original/4PZSqXkJcJ7c2kN0ydsy1fkza1r.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Motel%20Bates%20(46786)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [],
+        "clearlogo": "https://image.tmdb.org/t/p/original/sMT0wIu8Oc1vx5OKLmMJelyF0R2.png"
     },
     {
         "tmdb_id": 60948,
@@ -7499,7 +8342,9 @@
                 "poster": "https://image.tmdb.org/t/p/original/ozeyktTsXDszE8bKyc3owNjownI.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Os%2012%20Macacos%20(60948)/temporada_4.json"
             }
-        ]
+        ],
+        "providers": [],
+        "clearlogo": "https://image.tmdb.org/t/p/original/2wxNAphMfMzMOJP3cudyZS71fXA.png"
     },
     {
         "tmdb_id": 79242,
@@ -7549,7 +8394,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/yUVzJv4cgSqMJdb0Kmc3wapUvJP.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Mundo%20Sombrio%20de%20Sabrina%20(79242)/temporada_4.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/tcgVawq1dFk2B6Qanq3izQSVpMA.png"
     },
     {
         "tmdb_id": 4613,
@@ -7575,7 +8425,14 @@
                 "poster": "https://image.tmdb.org/t/p/original/gQdxnSOlZp04BQV1qrlC84BlA5X.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Irmãos%20de%20Guerra%20(4613)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max",
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/f38VzDNvZ7oIFQrTPScdT1wzhL7.png"
     },
     {
         "tmdb_id": 106379,
@@ -7602,7 +8459,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/90xkPbXRHIy9SlgBLHp6A7dVt8s.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Fallout%20(106379)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/wQKyybjZoCFlYFqXVzp7jIjPxFl.png"
     },
     {
         "tmdb_id": 96677,
@@ -7646,7 +8507,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/zwhkRtsZmV53FZOxJ7lkxegfXRy.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Lupin%20(96677)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/rvVlCgeuIiXLdaszDlRzfs3ltPe.png"
     },
     {
         "tmdb_id": 82452,
@@ -7674,7 +8540,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/zCz483fU94RxRt1gdGW1rxQkcID.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Avatar%20O%20Último%20Mestre%20do%20Ar%20(82452)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/74rfi5LWsVsA7qAGzehsBF3lpn7.png"
     },
     {
         "tmdb_id": 157741,
@@ -7703,7 +8574,15 @@
                 "poster": "https://image.tmdb.org/t/p/original/xLdH51V7wvaOB18q5wQwhpEGysK.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Landman%20(157741)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Paramount Plus",
+            "Paramount+ Amazon Channel",
+            "Paramount Plus Apple TV Channel ",
+            "Paramount Plus Premium",
+            "Claro tv+"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/13lJnfO3oExZ2ECzAR6WDyShzlV.png"
     },
     {
         "tmdb_id": 107365,
@@ -7743,7 +8622,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/j8tbXWXrL15RucA6H4khq87dEXa.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bel-Air%20(107365)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/xn5dvuK97c9Go3VJwpYViAfoOQC.png"
     },
     {
         "tmdb_id": 228878,
@@ -7776,7 +8659,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/4ZC2DWtpoJadOGVefTnqTT92wWg.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Efeitos%20Colaterais%20(228878)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/A9wQFPB40UibhNaDVMFTe9x8Xhx.png"
     },
     {
         "tmdb_id": 88324,
@@ -7827,7 +8715,12 @@
                 "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jSm9HdxUy9PpsJt0mVAQ0y7gbDJ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Virgin%20River%20(88324)/temporada_6.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/kr5lA4cdwD7TMK5g5L0iy8lJgds.png"
     },
     {
         "tmdb_id": 85271,
@@ -7856,7 +8749,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/ocbudBxA2Tpn3bWNwv2Tk8LGeAy.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/WandaVision%20(85271)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/bqIhmrQcPTqDqIkNhdiK5Epvk2D.png"
     },
     {
         "tmdb_id": 219971,
@@ -7885,7 +8782,15 @@
                 "poster": "https://image.tmdb.org/t/p/original/z7uePAPFonidP57OZ6YJuyzoGzZ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Agência%20(219971)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Paramount Plus",
+            "Paramount+ Amazon Channel",
+            "Paramount Plus Apple TV Channel ",
+            "Paramount Plus Premium",
+            "Claro tv+"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/9LXMPF5zSonttCRSko9orowW6cV.png"
     },
     {
         "tmdb_id": 219937,
@@ -7911,7 +8816,15 @@
                 "poster": "https://image.tmdb.org/t/p/original/w1iM0vkMz9XVCH1ZBiU3m1288G5.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Dexter%20Pecado%20Original%20(219937)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Paramount Plus",
+            "Paramount+ Amazon Channel",
+            "Paramount Plus Apple TV Channel ",
+            "Paramount Plus Premium",
+            "Claro tv+"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/jNvopUrnZdhEHbmAb7z0EoBnScB.png"
     },
     {
         "tmdb_id": 206586,
@@ -7939,7 +8852,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/vZ57LSqaelPrW90Ujw497YhRa04.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/The%20Walking%20Dead%20The%20Ones%20Who%20Live%20(206586)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/lSFHPadrjcmt7WbEW6CStvFvnVs.png"
     },
     {
         "tmdb_id": 127529,
@@ -7967,7 +8884,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/uFNHrunRIlyzRlRS7c9InUVgFDa.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Cães%20de%20Caça%20(127529)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/waTjsO0BEhxdzvcNKiWCMw6gv0F.png"
     },
     {
         "tmdb_id": 94954,
@@ -8000,7 +8922,11 @@
                 "poster": "",
                 "episodios": []
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/uBG7QQqJzMurRe9qT6eKLR28exY.png"
     },
     {
         "tmdb_id": 80623,
@@ -8041,7 +8967,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/taarM0OCOQW1heyUaOttIwKbclu.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Baki%20-%20O%20Campeão%20(80623)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/1npFqQesGJC6W4iHiu2xmcjKKRF.png"
     },
     {
         "tmdb_id": 90802,
@@ -8068,7 +8999,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/csdsfn5XicunJ082UJ1QsV0VQD6.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Sandman%20(90802)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/gzps6OMJAL9Hz1tVlLs4oi4Q4Qt.png"
     },
     {
         "tmdb_id": 387,
@@ -8155,7 +9091,20 @@
                 "poster": "https://image.tmdb.org/t/p/original/bqlYo7FGXRFRGYVAIzzJ97jpvon.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bob%20Esponja%20Calça%20Quadrada%20(387)/temporada_9.json"
             }
-        ]
+        ],
+        "providers": [
+            "Paramount Plus",
+            "Paramount+ Amazon Channel",
+            "Paramount Plus Apple TV Channel ",
+            "Paramount Plus Premium",
+            "Netflix",
+            "Oldflix",
+            "Max Amazon Channel",
+            "Max",
+            "Pluto TV",
+            "Netflix basic with Ads"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/v7pntQWcHQSREWbrgnV8GPzkJi4.png"
     },
     {
         "tmdb_id": 221851,
@@ -8185,7 +9134,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/21UVSO3lmwyiw1iXdMkFmfQ7Qob.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Esposa%20do%20Meu%20Marido%20(221851)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/jjMJvopFVcbM2RiDufP2BaWpc4Y.png"
     },
     {
         "tmdb_id": 108545,
@@ -8215,7 +9168,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/ppVfleDCXHvhqKKiycGRpitATOL.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Problema%20dos%203%20Corpos%20(108545)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/p3NMYcWqnK7N2EyRRlfepbsUyjT.png"
     },
     {
         "tmdb_id": 202879,
@@ -8244,7 +9202,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/f05sgCPYJvYcy28xwyGX15OMyLR.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Star%20Wars%20Skeleton%20Crew%20(202879)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/6UzfWR2L1NSCAZ7ja20BVuIDsG1.png"
     },
     {
         "tmdb_id": 34967,
@@ -8301,7 +9263,9 @@
                 "poster": "https://image.tmdb.org/t/p/original/pfr7Ctltb3h5j5qhzG8Mfh7AXeQ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Falling%20Skies%20(34967)/temporada_5.json"
             }
-        ]
+        ],
+        "providers": [],
+        "clearlogo": "https://image.tmdb.org/t/p/original/jeoiuW6K1UZDF7mPln89Y6OBuq8.svg"
     },
     {
         "tmdb_id": 71411,
@@ -8344,7 +9308,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/4t9HJ5srQXK6Qf4KpDdqcToS27i.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/El%20Chapo%20(71411)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/nQG5GiP3wCuAh8iTVFLbF1QJzwb.png"
     },
     {
         "tmdb_id": 202411,
@@ -8374,7 +9343,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/3IYqVM2jEHn8j9ZVETE0VcNvGoz.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Monarch%20-%20Legado%20de%20Monstros%20(202411)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Apple TV Plus Amazon Channel",
+            "Apple TV+"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/e29dSHD751sTGGTDSwQ6NNFQGDm.png"
     },
     {
         "tmdb_id": 71024,
@@ -8428,7 +9402,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/lqS90fU1IEHSbga7X6Gej5amBvR.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Castlevania%20(71024)/temporada_4.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/rM4H1xXRLpkHiOJiMOVWXwFG1Fo.png"
     },
     {
         "tmdb_id": 124834,
@@ -8464,7 +9443,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/fBbhBvFEVgVxWrBbOJDzDjcVXM4.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Heartstopper%20(124834)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/3HZB96aFO5D00vas6QxnFtHdlP4.png"
     },
     {
         "tmdb_id": 243875,
@@ -8493,7 +9477,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/vGYJfuPkhyuV1fDLFwkNcZx2qcY.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Georgie%20e%20Mandy%20-%20Seu%20Primeiro%20Casamento%20(243875)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/eVaomS4dzFM08vt3IZezqYRuMv7.png"
     },
     {
         "tmdb_id": 218230,
@@ -8523,7 +9512,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/p8VSapwKVa2rvrkM0QMc4nZso6v.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Jogo%20da%20Morte%20(218230)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/2dAhtK4owhyO7g9fyE9rN1ggAJW.png"
     },
     {
         "tmdb_id": 129478,
@@ -8554,7 +9547,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/gVSTAUM8w00f3Ai3Q9Ea70MOJN9.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Rei%20de%20Porcelana%20(129478)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/jEaIdhUnI2CTNxqXBAlz8q3vxQ9.png"
     },
     {
         "tmdb_id": 196322,
@@ -8582,7 +9580,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/ah4LP1pH2RaEJWoOHfqakaTlohM.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Matéria%20Escura%20(196322)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Apple TV Plus Amazon Channel",
+            "Apple TV+"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/exFrz7yM1yS0ILTh5UfpPTP5yWO.png"
     },
     {
         "tmdb_id": 90937,
@@ -8621,7 +9624,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/qHQoj82iDRNliBy30dPDof8Xio2.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/BEASTARS%20-%20O%20Lobo%20Bom%20(90937)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/mCPbSzKYirz3RHBkqeNbxCpym2o.png"
     },
     {
         "tmdb_id": 113988,
@@ -8649,7 +9657,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/67ujv4O6AalmGu3UaVSNdcw8juT.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Dahmer%20Um%20Canibal%20Americano%20(113988)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/fNcXLhAm9ihFcHCJKMVzWuNifIP.png"
     },
     {
         "tmdb_id": 111110,
@@ -8679,7 +9692,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/aesLt9fsKSA6KCgGxA60VVxjtLk.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/ONE%20PIECE%20A%20Série%20(111110)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/573oxRtw673XSPgEWS61dy1llxz.png"
     },
     {
         "tmdb_id": 127235,
@@ -8715,7 +9733,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/coEDMMa1s0fy3y0fiPfuzWPnTWr.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Invasão%20(127235)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Apple TV Plus Amazon Channel",
+            "Apple TV+"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/cC5BMhUJvMgrUvDRzb6Fi6IHm89.png"
     },
     {
         "tmdb_id": 87739,
@@ -8741,7 +9764,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/ubWpLTkwcms5PfZJMFZkNXVYXqJ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Gambito%20da%20Rainha%20(87739)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/woDOsKeSzNMWGorKPsExKK9AEPV.png"
     },
     {
         "tmdb_id": 92749,
@@ -8770,7 +9798,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/tkc7AVyUoG9VEeDvukN0TVqa24C.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Cavaleiro%20da%20Lua%20(92749)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/gkHcxPAEScRb86tqYBKW9Uch1oh.png"
     },
     {
         "tmdb_id": 68421,
@@ -8806,7 +9838,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/5uUyJDmk2SnxohyxvNU9g3HPR2l.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Altered%20Carbon%20(68421)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/zUXsrEW4IAtFG0tA6dz0NpuTOpM.png"
     },
     {
         "tmdb_id": 3854,
@@ -8845,7 +9882,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/qlwwarg18MtPp0sa8Fok6cONn4D.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Espetacular%20Homem-Aranha%20(3854)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Claro video",
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/99b8JlDZRn59JpCsdACmauoL5Az.png"
     },
     {
         "tmdb_id": 236235,
@@ -8876,7 +9918,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/pg3fQDqyLO573lI36DO2BR2cvoQ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Magnatas%20do%20Crime%20(236235)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/xt17Z5QAOgF80MrzqEKyCJGmoMY.png"
     },
     {
         "tmdb_id": 90027,
@@ -8910,7 +9957,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/jyhxT10e2z9IDsKoIQDKhyxSQJt.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Carnival%20Row%20(90027)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/4aYMJIjArmC1zIOKYHpTBfjC3yc.png"
     },
     {
         "tmdb_id": 110492,
@@ -8941,7 +9992,12 @@
                 "poster": "",
                 "episodios": []
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/97umNrfIuB7OfYHGokOoY2cOTCz.png"
     },
     {
         "tmdb_id": 138501,
@@ -8967,7 +10023,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/4VuOgFerQ5DdPyQ9eJKrvgpujSF.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Agatha%20Desde%20Sempre%20(138501)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/ddT1Sgf0kl5mBzTZ0GGjxnJEaCA.png"
     },
     {
         "tmdb_id": 72844,
@@ -8993,7 +10053,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/38PkhBGRQtmVx2drvPik3F42qHO.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Maldição%20da%20Residência%20Hill%20(72844)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/qT7YTUIXkoF95CVpddYTa26q3Jz.png"
     },
     {
         "tmdb_id": 120911,
@@ -9022,7 +10087,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/zAqYuJQ0VKgLRtkdlRmMqQRvCHi.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Lista%20Terminal%20(120911)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/vXihbbmeJS1AFTQMpfffDsriRTI.png"
     },
     {
         "tmdb_id": 156933,
@@ -9050,7 +10119,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/8lSsx8w8KKLkjUm5s8J3t1vyDkJ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Acima%20de%20Qualquer%20Suspeita%20(156933)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Apple TV Plus Amazon Channel",
+            "Apple TV+"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/pNKakYDVgckl05NDuHKVDJKUsdH.png"
     },
     {
         "tmdb_id": 261579,
@@ -9078,7 +10152,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/xLF8GVY5YRYd4RzJKFAhKvsiFzx.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Nível%20Secreto%20(261579)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/oefaHbroXoHLX9adoFHkUlKw5yD.png"
     },
     {
         "tmdb_id": 197067,
@@ -9106,7 +10184,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/jy72O96OgXAN5aduymYKkM8q53W.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Uma%20Advogada%20Extraordinária%20(197067)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/6SLm5Z0E8xR1nHsi92u5ijDAiXx.svg"
     },
     {
         "tmdb_id": 76719,
@@ -9149,7 +10232,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/bBBpi5pgOEZlCOgx2q116oPdJnx.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/The%20Rain%20(76719)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/pVnC23ZrSGWDqadf86hYxU5Pxcr.png"
     },
     {
         "tmdb_id": 103768,
@@ -9189,7 +10277,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/tEdbmVTT0mddTEio7FpmnjFKT2B.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Sweet%20Tooth%20(103768)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/mJ73yKF3oSyaQsWNOgxjaED9mXe.png"
     },
     {
         "tmdb_id": 70593,
@@ -9225,7 +10318,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/nFan35eF9xGHBsro3U9YbEKsfmV.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Kingdom%20(70593)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/vTO91EtVCNXl2y0jE1UxQkkMwdv.png"
     },
     {
         "tmdb_id": 158300,
@@ -9253,7 +10351,16 @@
                 "poster": "https://image.tmdb.org/t/p/original/sK6Nr6KNUA4WlAHyNBTioz9FK87.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Knuckles%20(158300)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Paramount Plus",
+            "Paramount+ Amazon Channel",
+            "Paramount Plus Apple TV Channel ",
+            "Paramount Plus Premium",
+            "Claro tv+",
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/6iTwZhQWiEd0Y0q6w5RCLSLl6vv.png"
     },
     {
         "tmdb_id": 92830,
@@ -9282,7 +10389,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/oPkm7vwYCa1McT8jEIFWLj393s4.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Obi-Wan%20Kenobi%20(92830)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/7EsXcf5WLT2vDXIR86tHlHA3qlB.png"
     },
     {
         "tmdb_id": 138503,
@@ -9314,7 +10425,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/fEhEJowHEcWgqWknxwbdsiHyGty.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Seu%20Amigão%20da%20Vizinhança%20Homem-Aranha%20(138503)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/5o0R6QzAviAvlNtqy1TFtJP7s5I.png"
     },
     {
         "tmdb_id": 16997,
@@ -9343,7 +10458,14 @@
                 "poster": "https://image.tmdb.org/t/p/original/pZCKdFGw1kRawMVgdw5rcknSnzM.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Pacífico%20(16997)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max",
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/noxxOmAr9RKgbssfPwBZMO9DVwd.png"
     },
     {
         "tmdb_id": 205715,
@@ -9371,7 +10493,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/6AzjVMVXjkgjm07vrD8GvQ7uFFk.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Gen%20V%20(205715)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/j8hylBJTYuLIl8ruBND4dU6iwDM.png"
     },
     {
         "tmdb_id": 66276,
@@ -9400,7 +10526,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/4j355xIV2dHi3jjFmoaCI0ayNO8.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/The%20Night%20Of%20(66276)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/ikYwrM1GC0uoA8lTCjCrvJCeT7H.png"
     },
     {
         "tmdb_id": 213306,
@@ -9428,7 +10559,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/4t2BRfqHaSKUypPV09LkMjEECpQ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Detetive%20Alex%20Cross%20(213306)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/k3sSVmOYq8kpt8MlVuOHGdGEluR.png"
     },
     {
         "tmdb_id": 138502,
@@ -9458,7 +10593,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/cVlBAB0nFEQxwuyn1mTfrGjqXuw.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/X-Men%20'97%20(138502)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/i4O2d2EYfBCVFVIQaES16gchiMj.png"
     },
     {
         "tmdb_id": 67070,
@@ -9494,7 +10633,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/o7ytmKNlOIcCyWXLdtDSRXi5Ruc.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Fleabag%20(67070)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/ghbNNPkgyDAhYv6SFiTawPw4SNF.png"
     },
     {
         "tmdb_id": 105248,
@@ -9526,7 +10669,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/3YsB5Xi2QRanuGTY1tPIr8ZePC7.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Cyberpunk%20Mercenários%20(105248)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/s8xy1nl0uqF6b21fhyi4FQMa6f1.png"
     },
     {
         "tmdb_id": 72710,
@@ -9552,7 +10700,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/uRcrRc74ztb1TV5uojRtXqvNQ5y.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Continental%20Do%20Mundo%20de%20John%20Wick%20(72710)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/r857LV6rTBPlMLQPLpIUjIAiVP2.png"
     },
     {
         "tmdb_id": 97173,
@@ -9578,7 +10730,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/sfd90NIf778KoBFmpdBTow4xTm7.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Por%20Trás%20de%20Seus%20Olhos%20(97173)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/bW5SG53p3h1DJyP7vrDIwxXteJL.png"
     },
     {
         "tmdb_id": 92983,
@@ -9607,7 +10764,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/ep7GW9zvnSSY0k4Ucz4oULQiUko.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Vagabond%20(92983)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/ikaetX5hMZd1YtZ8T2mSH4E7lMS.png"
     },
     {
         "tmdb_id": 66292,
@@ -9643,7 +10805,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/oW8W0SIoBu0ivXn6j9EJtRauNgx.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Big%20Little%20Lies%20(66292)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/fj8OfihOT2MGo693rEBrYZ8Ut7B.png"
     },
     {
         "tmdb_id": 103540,
@@ -9673,7 +10840,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/fOfGPZx47Q458WPxH3jQHcItvao.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Percy%20Jackson%20e%20os%20Olimpianos%20(103540)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/3OSv7336hppqzhMKZYhFgWOpkPd.png"
     },
     {
         "tmdb_id": 79525,
@@ -9702,7 +10873,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/5VpKtJUEdZRJ4pd0HX2rVs2e2xg.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Arremesso%20Final%20(79525)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/42f3BjmZaY9ToUyJ6JdyPXfl4mz.png"
     },
     {
         "tmdb_id": 219543,
@@ -9732,7 +10908,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/cZ3VuXRare4XUE3z2DSH6zwBNp9.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Comando%20das%20Criaturas%20(219543)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/pSeMD3NRCMu8Etwdn1DSkb6F4kn.png"
     },
     {
         "tmdb_id": 82883,
@@ -9758,7 +10939,9 @@
                 "poster": "https://image.tmdb.org/t/p/original/vb1sQLC2MqfCPOFqHd8SyVsyDVB.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Ato%20(82883)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [],
+        "clearlogo": "https://image.tmdb.org/t/p/original/9BaS1njt7QHDFw7NXzbYdRrtxzb.png"
     },
     {
         "tmdb_id": 95403,
@@ -9786,7 +10969,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/8sDaiKVFPx1MSKn5Qsa4Z2J2cfJ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Periféricos%20(95403)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/nw8kaC1qppDznarlHYsuLgYpWHk.png"
     },
     {
         "tmdb_id": 74606,
@@ -9840,7 +11027,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/oT58ixhiiN3Gw5dvmWNshvEhJDL.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Irmão%20do%20Jorel%20(74606)/temporada_4.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/hjuAHrxKVaCKgDiDJLey2IArZhl.png"
     },
     {
         "tmdb_id": 241259,
@@ -9866,7 +11058,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/jNaaG6MbOqd8ma6WnCQ6ZafE09x.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bebê%20Rena%20(241259)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/aHbP9ZbxaRum2BcyFEssKc9lCUM.png"
     },
     {
         "tmdb_id": 157065,
@@ -9892,7 +11089,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/sL6YMSwRgjREwbPTDvOIQOCRzvc.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Queda%20da%20Casa%20de%20Usher%20(157065)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/d2XSqST0CFchcHYdqcpVZSKHBj.png"
     },
     {
         "tmdb_id": 60743,
@@ -9921,7 +11123,9 @@
                 "poster": "https://image.tmdb.org/t/p/original/7CNfWp4mn2SBXcbzkE5ENo3gQhA.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Constantine%20(60743)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [],
+        "clearlogo": "https://image.tmdb.org/t/p/original/q5EYqG7Y0YofdsCwb1ENghO4DYy.png"
     },
     {
         "tmdb_id": 213249,
@@ -9954,7 +11158,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/6kSblgQfbqDSo5gRIQ4vp706KTe.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Festa%20da%20Salsicha%20Comilândia%20(213249)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/7JUpxn9tlhSzRZQSoRIVWzsMALn.png"
     },
     {
         "tmdb_id": 201834,
@@ -9982,7 +11190,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/iGanbz4wM5EyDpSZ0FK3TEsInEb.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Ted%20-%20A%20Série%20(201834)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Globoplay"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/mU0FnWUoMT0AiuNqkWaf1wviwvQ.png"
     },
     {
         "tmdb_id": 84661,
@@ -10011,7 +11223,13 @@
                 "poster": "https://image.tmdb.org/t/p/original/zI4ewGoymytILTmKrMWDVQuQl82.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/The%20Outsider%20(84661)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Claro tv+",
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/tm4LIOT1WPcXq02Ko31VjyRfBQa.png"
     },
     {
         "tmdb_id": 155537,
@@ -10040,7 +11258,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/w2shojFb8JZsoh9Ddq52JsHaQoK.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Black%20Bird%20(155537)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Apple TV Plus Amazon Channel",
+            "Apple TV+"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/e2OPDAe3ic6W9Wo0d4yAUVsPJjC.png"
     },
     {
         "tmdb_id": 81355,
@@ -10066,7 +11289,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/cVlqRoJN5NsFD4NbbUAiyUUFjVz.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Olhos%20que%20Condenam%20(81355)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/tjg2Hbg7iKoSrH2boGXD0u2sSir.png"
     },
     {
         "tmdb_id": 120462,
@@ -10103,7 +11331,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/qo8fpes33rSCjaqbpo85lmFSqQj.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/ELES%20(120462)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/9sDA6qkANBXcvkrvJfzpSn0xSwv.png"
     },
     {
         "tmdb_id": 244243,
@@ -10132,7 +11364,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/dPAKujqmx2QMWpvro1EGezSJ8SC.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Que%20Falta%20Você%20Me%20Faz%20(244243)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/73Cvev4pJ3Li7LFHV7tkN6Ylaka.png"
     },
     {
         "tmdb_id": 4184,
@@ -10162,7 +11399,9 @@
                 "poster": "https://image.tmdb.org/t/p/original/5a0YqspmF7xBHlJSqX0n1Ecl57o.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Usurpadora%20(4184)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [],
+        "clearlogo": "https://image.tmdb.org/t/p/original/jwFWF1qFeZBoIWVPTl4KgbgQbbD.png"
     },
     {
         "tmdb_id": 198102,
@@ -10190,7 +11429,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/ldm31Zt5Dsqpp1nbehyWJiBIYuh.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Sequestro%20no%20Ar%20(198102)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Apple TV Plus Amazon Channel",
+            "Apple TV+"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/ozHdYfzE9PYRikbCxgrgzyXaZcg.png"
     },
     {
         "tmdb_id": 95171,
@@ -10218,7 +11462,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/iO7MX4bFkufcCYgGZNpLbnJLDU8.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Planeta%20Pré-histórico%20(95171)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Apple TV Plus Amazon Channel",
+            "Apple TV+"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/73emeiYLkRTGtNGVP4PQbrGkFc4.png"
     },
     {
         "tmdb_id": 236429,
@@ -10247,7 +11496,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/zclGqPFfnHrR3Oi0hwetm1Syibr.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Plantão%20Policial%20(236429)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/z9NdiMkPQXrLCt9vbqNd84kpXp2.png"
     },
     {
         "tmdb_id": 279283,
@@ -10276,7 +11529,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/3l1uHCE1IMHKjUOTpbkw5exUfQV.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Grande%20Descoberta%20(279283)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/7MEKh8cfnbHnzPkscKETGUGdoh.png"
     },
     {
         "tmdb_id": 109958,
@@ -10302,7 +11560,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Maldição%20da%20Mansão%20Bly%20(109958)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/RQvIOi5rfknZzh2KXbbs4mfYun.png"
     },
     {
         "tmdb_id": 125909,
@@ -10334,7 +11597,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/mwhmsvOvwjiLNFq7QUEsMXFHNfi.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Batman%20Cruzado%20Encapuzado%20(125909)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/3e8JMlK42vOVovo3kGSpTi0yeb4.png"
     },
     {
         "tmdb_id": 252372,
@@ -10362,7 +11629,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/tj4ULrwoASXyTyStNFN3Y6odnbF.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Assassino%20Zen%20(252372)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/pWjYOoDvoDqp29INU4hEuIsYqs6.png"
     },
     {
         "tmdb_id": 158596,
@@ -10395,7 +11667,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Beleza%20Fatal%20(158596)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/dGvMINv6fEWHjj47R2JYxkEiE8Z.png"
     },
     {
         "tmdb_id": 83295,
@@ -10452,7 +11729,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/1pvjx7EszyuTTTdVGF23p9dmeFj.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Impuros%20(83295)/temporada_5.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/rnJtIVKGcq7vam2fOKX7K3qGwow.png"
     },
     {
         "tmdb_id": 89844,
@@ -10481,7 +11762,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/mXOlKTnTpu9Aw66sfKB1iMke1IN.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/30%20Moedas%20(89844)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/SxpNmoHVk6t2sDI8u4elyMbJcl.png"
     },
     {
         "tmdb_id": 203744,
@@ -10509,7 +11795,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/dNrk52Rt13MxwahLneTZJezM6qD.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Sugar%20(203744)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Apple TV Plus Amazon Channel",
+            "Apple TV+"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/cGqICwwUjl86jiLuBqqA7VCNpPT.png"
     },
     {
         "tmdb_id": 81349,
@@ -10538,7 +11829,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/pQZOPdFd09WSi5OJDy2UB8lOyUr.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Devs%20(81349)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/asr4KbXrXbYvFE8smlVRcsiAAKy.png"
     },
     {
         "tmdb_id": 79788,
@@ -10564,7 +11859,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Watchmen%20(79788)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/reKhdX7JpwIoUYjeYS7QjRHEVa4.png"
     },
     {
         "tmdb_id": 133748,
@@ -10594,7 +11894,13 @@
                 "poster": "https://image.tmdb.org/t/p/original/3Zr9qJXqHQwi9IyPBDwukgg1jcZ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Twisted%20Metal%20(133748)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Claro tv+",
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/9SG7llVNjZW0Mnn36vDnF8tZj9F.png"
     },
     {
         "tmdb_id": 102621,
@@ -10622,7 +11928,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/dDBTUSl3tRsOeKC1jZugBSFHy9I.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/KAOS%20(102621)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/aMvkeiBrhgjaaYxFqcuSjpFidZe.png"
     },
     {
         "tmdb_id": 97400,
@@ -10648,7 +11959,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/iYoMZYVD775MtBYJfv6OGY1FsnL.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Missa%20da%20Meia-Noite%20(97400)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/qhUiIRrMkcZSjKxCh5lxdbAE5nV.svg"
     },
     {
         "tmdb_id": 114924,
@@ -10677,7 +11993,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/5GeQCZwtUvxBLlsccGK2qvMpFBH.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Os%20Bandidos%20do%20Tempo%20(114924)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Apple TV Plus Amazon Channel",
+            "Apple TV+"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/nfWtnpuOmoTI3O5QWl7RfPEwoFr.png"
     },
     {
         "tmdb_id": 239287,
@@ -10707,7 +12028,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/yFwKrhMWQS9XDNj2FDJkUCw8PBh.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Exterminador%20do%20Futuro%20Zero%20(239287)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/vUfULw9SU9S8UIohHiweNQcEOgX.png"
     },
     {
         "tmdb_id": 259140,
@@ -10741,7 +12067,9 @@
                 "poster": "https://image.tmdb.org/t/p/original/pKKtw9VdD8AYX0hABIImBUfUZ58.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Ranma12%20(259140)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [],
+        "clearlogo": "https://image.tmdb.org/t/p/original/wDODKGlKxdCT36J4oS1uwtmWQRB.png"
     },
     {
         "tmdb_id": 155421,
@@ -10769,7 +12097,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/y2VRb9V9hvKmkI2y9rJ2mki0DVo.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Toda%20Luz%20que%20Não%20Podemos%20Ver%20(155421)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/4paCoBCChkxYNCh0xJjNBOYnx0e.png"
     },
     {
         "tmdb_id": 208825,
@@ -10799,7 +12132,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/zfwbbab1yfHAjFbbClh1jYoV8gi.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Parasyte%20The%20Grey%20(208825)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/wnv5pVySZeNWkqQqpzdsqh5n0Ot.png"
     },
     {
         "tmdb_id": 90669,
@@ -10829,7 +12167,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/8rRBR7NwRftoOCqpxRibLjiwQNF.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/1899%20(90669)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/1ldvKnNNReDMWV0COpdn6W2VJ9C.png"
     },
     {
         "tmdb_id": 68467,
@@ -10879,7 +12222,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/bOqBR7CYLj2pF6tXwjieN5IY3O.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/3%%20(68467)/temporada_4.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/5PctsSIsJPUdLisWikrmEBQVtyg.png"
     },
     {
         "tmdb_id": 84469,
@@ -10908,7 +12256,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/qN2tLhNG9hera53nbElHB0P9NFU.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Cowboy%20Bebop%20(84469)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/hmeHFQaN809ihH02s5v2GRi2K67.png"
     },
     {
         "tmdb_id": 211039,
@@ -10934,7 +12287,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/mvVgTvpbdwRfQFdEHkQdWT16CR1.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Senna%20(211039)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/339CA6DOlUne07HZruZeaIKFdae.png"
     },
     {
         "tmdb_id": 223397,
@@ -10962,7 +12320,13 @@
                 "poster": "https://image.tmdb.org/t/p/original/bROpzy08O9nSyfDgBUlgUoMp9nw.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Cidade%20de%20Deus%20A%20Luta%20Não%20Para%20(223397)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Claro tv+",
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/q4k9hv6MRXuDAgpoZXDwSY5W4vp.png"
     },
     {
         "tmdb_id": 207334,
@@ -10990,7 +12354,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/6mSSlc87iEkEi9NP2n62hVj9uzl.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Véu%20(207334)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/yJG0Ks2NUvCVM1htZil8RJNZQR6.png"
     },
     {
         "tmdb_id": 212462,
@@ -11018,7 +12386,9 @@
                 "poster": "https://image.tmdb.org/t/p/original/l8p9tZOjg7v5zwH7ReSKcgbJcBr.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Mary%20e%20George%20(212462)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [],
+        "clearlogo": "https://image.tmdb.org/t/p/original/qFnmqS3CtxAaICDyciYlUOf3CHN.png"
     },
     {
         "tmdb_id": 251091,
@@ -11048,7 +12418,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/wE28VQWGRINUwjTtwJP4XNGdnWc.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Star%20Wars%20Histórias%20do%20Império%20(251091)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/4r4W3AdsurBLdmAMMMn6zxk2vfe.png"
     },
     {
         "tmdb_id": 120549,
@@ -11077,7 +12451,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/a4uoG1kYoMCf8rqPak0hDmcljPC.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Mulher%20no%20Lago%20(120549)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Apple TV Plus Amazon Channel",
+            "Apple TV+"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/cwm0XKd6L7GGYcYO6ml8koaj1x9.png"
     },
     {
         "tmdb_id": 83880,
@@ -11105,7 +12484,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/wRSnArnQBmeUYb5GWDU595bGsBr.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Nosso%20Planeta%20(83880)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/yoiW8HUZ4TWoARUGSlt4peZBgJk.png"
     },
     {
         "tmdb_id": 72496,
@@ -11137,7 +12521,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/14T6cTwynqxU10e1cCnSc75AcNa.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Law%20&%20Order%20True%20Crime%20(72496)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Claro tv+"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/nnIWJtHkqXou4QAv9w1JooOT2S1.png"
     },
     {
         "tmdb_id": 214032,
@@ -11166,7 +12554,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/3igcd2P7wjE3qZfI8P1uNC6ULRU.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Citadel%20Diana%20(214032)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/7mkcgriIy6VMwq28zQP06pSOjEU.png"
     },
     {
         "tmdb_id": 111177,
@@ -11198,7 +12590,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/9WdpQMGH55Fxt8mKI0NR9sdvM6F.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Godzilla%20Ponto%20Singular%20(111177)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/3DIaoiS0xhX4D0CoGAj85tks1rm.png"
     },
     {
         "tmdb_id": 241473,
@@ -11228,7 +12625,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/tGrIF9gV4uY67AijphhK4T8eoXb.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Sinal%20(241473)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/gcD7ugBjise6cih9CXM5IRhlVQS.png"
     },
     {
         "tmdb_id": 106541,
@@ -11269,7 +12671,12 @@
                 "poster": "",
                 "episodios": []
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/rRrLEchiP3Gmhdx9Hz0IcoMQ379.png"
     },
     {
         "tmdb_id": 258902,
@@ -11299,7 +12706,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/bgxRmVtdfaRhuosBYa1B2csHZ1e.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Professor%20(258902)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/mgco83l3NDgB0NGtCrHth3j9buZ.png"
     },
     {
         "tmdb_id": 78074,
@@ -11356,7 +12767,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/jXbyHoWRibTScFfKT6sfllct2vy.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Sintonia%20(78074)/temporada_5.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/hqUducgSznXGicUM2L3CP4S965t.png"
     },
     {
         "tmdb_id": 80039,
@@ -11384,7 +12800,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/x0i5uyhmVecgCLbIuas83D7sq2G.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/The%20Underground%20Railroad%20Os%20Caminhos%20para%20a%20Liberdade%20(80039)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/358q4br7xDvPKNah02YOigbLurN.png"
     },
     {
         "tmdb_id": 231394,
@@ -11416,7 +12836,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/guhvJHuiPp7K5D0UiyJ52FpLtx7.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Tartarugas%20Ninjas%20Histórias%20Mutantes%20(231394)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Paramount+ Amazon Channel"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/xmcXKOtAMkQoaBHynQwvq4We7Ze.png"
     },
     {
         "tmdb_id": 106388,
@@ -11445,7 +12869,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/1oFhTXVp1u8oNB9WacQMYd8s362.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Iluminadas%20(106388)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Apple TV Plus Amazon Channel",
+            "Apple TV+"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/alBHbDdpvAOD4sxLU6IRRQJZwP6.png"
     },
     {
         "tmdb_id": 255868,
@@ -11475,7 +12904,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/sdK2zUdIqid6DGk2jPsBfKHNmKj.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Produção%20de%20Sonhos%20(255868)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/eul3W7I30YD1Qpl1HJqSppiwoiR.png"
     },
     {
         "tmdb_id": 91296,
@@ -11526,7 +12959,9 @@
                 "poster": "https://image.tmdb.org/t/p/original/An3TOHOWXIhAUnZ5O7pDzpnZTMz.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Divisão%20(91296)/temporada_4.json"
             }
-        ]
+        ],
+        "providers": [],
+        "clearlogo": "https://image.tmdb.org/t/p/original/vZlAmDG7sCi3Y37uesgRMyoC71F.png"
     },
     {
         "tmdb_id": 128331,
@@ -11557,7 +12992,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/bfFZwA6GHW4lkDQcKxCwwGBWsEU.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Maria%20e%20o%20Cangaço%20(128331)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/gFqUNA3VMvTJ2nZxkcvshzQ6z71.png"
     },
     {
         "tmdb_id": 241485,
@@ -11586,7 +13025,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/10jWLqmzLvlGbJMVV7eKwOvNs7C.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Fight%20Night%20The%20Million%20Dollar%20Heist%20(241485)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/h9pQLYbnKW25QGWW0KMTieUusx0.png"
     },
     {
         "tmdb_id": 110529,
@@ -11622,7 +13065,12 @@
                 "poster": "https://image.tmdb.org/t/p/original/u9bQPxILScuQCZPV1clEYxqFTL8.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Cidade%20Invisível%20(110529)/temporada_2.json"
             }
-        ]
+        ],
+        "providers": [
+            "Netflix basic with Ads",
+            "Netflix"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/mQI16Z3JTWkB7CZQRvObuq6jkTn.png"
     },
     {
         "tmdb_id": 137883,
@@ -11650,7 +13098,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/5z3QpmUFQgszv2aOlLS7pekPpkI.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Cangaço%20Novo%20(137883)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/vmeM7f2S1e7wFopA7nAoYwVOHKJ.png"
     },
     {
         "tmdb_id": 99125,
@@ -11693,7 +13145,9 @@
                 "poster": "https://image.tmdb.org/t/p/original/htQ7JUhr477DjWapcDVQc9gRUQ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Arcanjo%20Renegado%20(99125)/temporada_3.json"
             }
-        ]
+        ],
+        "providers": [],
+        "clearlogo": "https://image.tmdb.org/t/p/original/lDijTALz5lmDhDuUYykbnbjH6Ir.png"
     },
     {
         "tmdb_id": 272463,
@@ -11722,7 +13176,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/za3rDKjsuBdVhWqC7HA8itjKnNH.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Volta%20Priscila%20(272463)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/yCYSNhGF88GU7oXyxAn6cHtyXiV.png"
     },
     {
         "tmdb_id": 231309,
@@ -11750,7 +13208,9 @@
                 "poster": "https://image.tmdb.org/t/p/original/hapXmfskIEVcwiskaqRDBT5YGey.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Maníaco%20do%20Parque%20A%20História%20Não%20Contada%20(231309)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [],
+        "clearlogo": "https://image.tmdb.org/t/p/original/i1d9OiaZCtnLFQ3uqHMkyS7eEUE.png"
     },
     {
         "tmdb_id": 124407,
@@ -11779,7 +13239,9 @@
                 "poster": "",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Caso%20Evandro%20(124407)/temporada_1.json"
             }
-        ]
+        ],
+        "providers": [],
+        "clearlogo": "https://image.tmdb.org/t/p/original/txo9dvKZmlP38GKSHIkNfVW44Dy.png"
     },
     {
         "tmdb_id": 260703,
@@ -11809,11 +13271,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/p1oBjCTQguN0BOt8zr1LS5TLCok.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bob%20Burnquist%20A%20Lenda%20do%20Skate%20(260703)/temporada_1.json"
             }
-        ]
-    },
-    {
-        "tmdb_id": null,
-        "popularity": 0,
-        "status": "on"
+        ],
+        "providers": [
+            "Max Amazon Channel",
+            "Max"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/oMmg2bpaeWA8Hm0OEZ4yPyy1dkr.png"
     }
 ]
