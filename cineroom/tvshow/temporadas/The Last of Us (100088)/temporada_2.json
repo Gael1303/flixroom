@@ -1,15 +1,28 @@
 {
     "episodios": [
         {
-            "title": "T02 E01. Dias Futuros",
+            "title": "01. Dias Futuros",
 	    "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/i8lsfJzt7buKLotPwCTBQyuPavN.jpg",
-	    "date_added": "2025-04-14",
+	    "premiered": "13/04/2025",
+	    "runtime": 59,	
 	    "synopsis": "Cinco anos após os eventos da primeira temporada, Joel e Ellie se veem envolvidos em um conflito em um mundo ainda mais perigoso e imprevisível do que aquele que deixaram para trás.",
 	    "rating": 7.4,
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c56e9cb31c9d2bdb24ae24d73d9cfff1bb0b617e(1080P Dublado)",
 		"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49faa9f36adad73dafec5c3a693313b2a27640e6(4K Dublado)"
             ]
-        }
+        },
+	{
+            "title": "02. Pelo Vale",
+	    "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/nJOU5Ok1VdJGSrzTYwttRxHOCkJ.jpg",
+	    "premiered": "20/04/2025",
+	    "runtime": 57,	
+	    "synopsis": "Enquanto uma tempestade se forma nas montanhas, o povo de Jackson Hole se prepara para o pior em meio ao aumento de avistamentos de infectados. Enquanto isso, Abby pondera suas opções.",
+	    "rating": 8.1,
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:660eddc6df7b257261f2ec0b2be058598018a701(1080P Dublado)",
+		"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71df6ef1485db7be88fa28232bf8b2f743daa84a(4K Dublado)"
+            ]
+        }    
     ]
 }
