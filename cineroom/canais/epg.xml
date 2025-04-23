@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="EPG de Teste" generator-info-url="https://exemplo.com">
-  <!-- Canais Brasileiros (IDs compatíveis com o seu M3U de teste) -->
-  <channel id="Globo.br">
+<tv generator-info-name="EPG para Plugin Cineroom" generator-info-url="">
+  <!-- Canais -->
+  <channel id="globo">
     <display-name>TV Globo</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/TV_Globo_logo.svg/320px-TV_Globo_logo.svg.png"/>
+    <icon src="https://i.imgur.com/globo_logo.png"/>
   </channel>
   
-  <channel id="SBT.br">
+  <channel id="sbt">
     <display-name>SBT</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SBT_logo.svg/320px-SBT_logo.svg.png"/>
+    <icon src="https://i.imgur.com/sbt_logo.png"/>
   </channel>
 
-  <!-- Programação para TV Globo -->
-  <programme start="20240609200000 -0300" stop="20240609210000 -0300" channel="Globo.br">
+  <!-- Programação Globo -->
+  <programme start="20240609200000 -0300" stop="20240609210000 -0300" channel="globo">
     <title>Jornal Nacional</title>
-    <desc>Telejornal com as principais notícias do Brasil e do mundo. Apresentação: William Bonner e Renata Vasconcellos.</desc>
+    <desc>Principais notícias do Brasil e mundo</desc>
+    <category>Jornalismo</category>
   </programme>
   
-  <programme start="20240609210000 -0300" stop="20240609220000 -0300" channel="Globo.br">
-    <title>Novela: Elas por Elas</title>
-    <desc>Capítulo emocionante da novela das 9.</desc>
+  <programme start="20240609210000 -0300" stop="20240609220000 -0300" channel="globo">
+    <title>Elas por Elas</title>
+    <desc>Novela das 21h - Capítulo diário</desc>
+    <category>Novela</category>
   </programme>
 
-  <!-- Programação para SBT -->
-  <programme start="20240609200000 -0300" stop="20240609203000 -0300" channel="SBT.br">
+  <!-- Programação SBT -->
+  <programme start="20240609200000 -0300" stop="20240609203000 -0300" channel="sbt">
     <title>Jornal do SBT</title>
-    <desc>Telejornal apresentado por Rachel Sheherazade.</desc>
+    <desc>Telejornal noturno</desc>
+    <category>Jornalismo</category>
   </programme>
   
-  <programme start="20240609203000 -0300" stop="20240609210000 -0300" channel="SBT.br">
+  <programme start="20240609203000 -0300" stop="20240609210000 -0300" channel="sbt">
     <title>Programa Silvio Santos</title>
-    <desc>Diversão e prêmios com o maior comunicador do Brasil.</desc>
+    <desc>Show de auditório</desc>
+    <category>Entretenimento</category>
   </programme>
 </tv>
