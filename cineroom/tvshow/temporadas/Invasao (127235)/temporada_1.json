@@ -1,0 +1,52 @@
+{
+    "episodios": [
+        {
+            "title": "1x01 ao 03. Último dia",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a31dbb99da2985779a66aa4dd8cd118e33d8a21"
+            ]
+        },
+        {
+            "title": "1x04. O rei está morto",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0697953b6ccc571ca78ebf1d05a7f3038561fa1f"
+            ]
+        },
+        {
+            "title": "1x05. Indo para casa",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae968c7d75f9d21c1dd4322e1d2dcbd47cbaa196"
+            ]
+        },
+        {
+            "title": "1x06. Invasão domiciliar",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9821729f1a17a4fb657a68241c739c6c4cc1c391"
+            ]
+        },
+        {
+            "title": "1x07. Esperança",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a7d27e3c31eec2a14a8b86a76b17396b2690ef5"
+            ]
+        },
+        {
+            "title": "1x08. Contato",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cec401614975a08d2e7b98357b4778c0e22bc7de"
+            ]
+        },
+        {
+            "title": "1x09. Cheio de estrelas",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72a0b625c8d4629ce80cd57432479cf725036453"
+            ]
+        },
+        {
+            "title": "1x010. Primeiro dia",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac4caf02df49798d6ac35bd9ac45338dffdb5fb0"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "episodios": [
+        {
+            "title": "1x01. Você está feliz com a sua vida?",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10b0c96b81dad703725132e92e824dc488cc4a06"
+            ]
+        },
+        {
+            "title": "1x03. A caixa",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa234cbf00a42ac9c4c501c7e260502826b672e7"
+            ]
+        },
+        {
+            "title": "1x04. O corredor",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4af81579515826812128523b14e4068a2f26f5c7"
+            ]
+        },
+        {
+            "title": "1x05. Sem mundo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab90a87edc793884faf3683a70ab8515b7227480"
+            ]
+        },
+        {
+            "title": "1x06. Superposição",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:525479b5f74d9f5119f6156a08f0e43834639cdc"
+            ]
+        },
+        {
+            "title": "1x07. No brilho das estrelas mortas",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1a896b3d5aef1bbb404b6250d5d3ceebd72033c"
+            ]
+        },
+        {
+            "title": "1x08. Júpiter",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40328b6a5b890a1aa96f2475ea065e889500b895"
+            ]
+        },
+        {
+            "title": "1x09. Emaranhamento",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85cecd887f83246bf13373dbecd549c24659f830"
+            ]
+        }
+    ]
+}
