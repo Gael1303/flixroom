@@ -1,0 +1,22 @@
+{
+    "episodios": [
+        {
+            "title": "1x01 e 02.",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b16b59aaa2b4ca8b4838edd48a79d9dc7784b2c"
+            ]
+        },
+        {
+            "title": "1x03 ao 05.",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ac16daed2f243f45589a602fda3df09f6543681"
+            ]
+        },
+        {
+            "title": "1x06 ao 08.",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bedb1b5e3df43852daf5f67214c6dedd5e8decdf"
+            ]
+        }
+    ]
+}

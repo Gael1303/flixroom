@@ -1,0 +1,58 @@
+{
+    "episodios": [
+        {
+            "title": "1x01 e 02. Anjin",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6044921ac48c7e49938acf88000754f18a97b2b5"
+            ]
+        },
+        {
+            "title": "1x03. Amanhã é Amanhã",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e773414e17896601de7bb08869a7dec156322fee"
+            ]
+        },
+        {
+            "title": "1x04. A cerca óctupla",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe79432ccad7f56c30e2077ac54476ee56d6e90b"
+            ]
+        },
+        {
+            "title": "1x05. Domado pelo Punho",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d24be09d8b86d93e8815c49d780e22fa6ccf5c2f"
+            ]
+        },
+        {
+            "title": "1x06. Damas do Mundo do Salgueiro",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56c1854f1d90d44472f6e75a694121116d5cfb3d"
+            ]
+        },
+        {
+            "title": "1x07. O Tempo de Um Incenso",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ef5af2b9d71545324fddf7fd2be4e8f9654a12f"
+            ]
+        },
+        {
+            "title": "1x08. A Profundeza da Vida",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee56783ad818532b5f80559b1aeeeb51dcb93eca"
+            ]
+        },
+        {
+            "title": "1x09. Céu Carmesim",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a8b65b7bdad4241c68711b5ad83fa48677d1c82"
+            ]
+        },
+        {
+            "title": "1x010. Um Sonho Dentro de Um Sonho",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a492b21ddd081299ce607ac42fe0306908db255"
+            ]
+        }
+    ]
+}
