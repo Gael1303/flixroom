@@ -1527,17 +1527,18 @@
             {
                 "title": "1ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Invencível%20(95557)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Invencivel%20(95557)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Invencível%20(95557)/temporada_2.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Invencivel%20(95557)/temporada_2.json"
             },
             {
                 "title": "3ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Invencível%20(95557)/temporada_3.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Invencivel%20(95557)/temporada_3.json",
+                "status": "off"
             }
         ],
         "providers": [
