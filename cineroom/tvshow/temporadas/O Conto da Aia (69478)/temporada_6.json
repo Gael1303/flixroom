@@ -1,7 +1,7 @@
 {
     "episodios": [
         {
-            "title": "EP 01. Train",
+            "title": "01. Train",
             "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/mNovxdLf79Y6KmZsO72gAKM5M9I.jpg",
             "synopsis": "A jornada de June e Serena toma um rumo inesperado. Moira toma uma decisão ousada. Nick lida com um visitante poderoso.",
             "rating": 7.3,
@@ -11,7 +11,7 @@
             ]
         },
         {
-            "title": "EP 02. Exilio",
+            "title": "02. Exilio",
             "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/wGxwFzUgrhYJefzAB89yjhElVZT.jpg",
             "synopsis": "June tenta se estabelecer em uma nova comunidade. Serena procura um refúgio. Luke e Moira correm um grande risco.",
             "rating": 6.4,
@@ -21,13 +21,23 @@
             ]
         },
         {
-            "title": "EP 03.Devoção",
+            "title": "03. Devoção",
             "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/18FZnnctzx3ncnNNCk3gkBuMyom.jpg",
             "synopsis": "June se esforça para salvar seus entes queridos. O Comandante Lawrence dá as boas-vindas aos diplomatas em New Bethlehem. Tia Lydia procura por Janine.",
             "rating": 6.6,
             "runtime": 45,
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af50cc6403badc7d132d55a231608716ca933e8c"
+            ]
+        },
+        {
+            "title": "04. Promoção",
+            "poster": "https://i0.wp.com/flixlandia.com.br/wp-content/uploads/2025/04/O-Conto-da-Aia-The-Handmaids-Tale-6-temporada-episodio-4-critica-da-serie-Paramount-Plus-2025-Flixlandia.jpg?fit=1024%2C576&ssl=1",
+            "synopsis": "June interrompe os planos dos rebeldes. O comandante Lawrence ganha poder e influência.",
+            "rating": 5.5,
+            "runtime": 43,
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf6f782f295497324816d53763aae9d025f4f4ab"
             ]
         }
     ]
