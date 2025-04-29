@@ -1,5 +1,7 @@
 [
-    {"status": "on"},
+    {
+        "status": "on"
+    },
     {
         "tmdb_id": 100088,
         "popularity": 491.6967,
@@ -246,29 +248,29 @@
             {
                 "title": "1ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/2kbenG0pFXrNSr1qielVZSpXKPX.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Você%20(78191)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Voce%20(78191)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/jv1dRCYqJahexIMkR1iaVG5JAqW.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Você%20(78191)/temporada_2.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Voce%20(78191)/temporada_2.json"
             },
             {
                 "title": "3ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/A0sMLnENpHSvXDkSfLsNNH2cN1o.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Você%20(78191)/temporada_3.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Voce%20(78191)/temporada_3.json"
             },
             {
                 "title": "4ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/ivqi64qY0S3ZAimvjlqXLEH7D6W.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Você%20(78191)/temporada_4.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Voce%20(78191)/temporada_4.json"
             },
             {
                 "title": "5ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg",
                 "rating": 6.4,
                 "synopsis": "Joe Goldberg retorna à cidade de Nova York, onde sua jornada começou, em busca de um felizes para sempre com sua nova esposa, Kate, uma CEO bilionária. No entanto, sua vida perfeita é ameaçada pelo passado de Joe e seus próprios desejos sombrios. Joe luta para ser um membro da elite, lutando para reconciliar suas ações passadas com seu desejo de uma vida boa",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Você%20(78191)/temporada_5.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Voce%20(78191)/temporada_5.json"
             }
         ],
         "providers": [
@@ -735,7 +737,7 @@
                 "title": "1ª a 12ª Temporada",
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/4fLbserVJuev3luHioEvJ85GmEM.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Uma%20Família%20da%20Pesada%20(1434)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Uma%20Familia%20da%20Pesada%20(1434)/temporada_1.json"
             }
         ],
         "providers": [],
@@ -1074,42 +1076,42 @@
                 "rating": 8.4,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/fiBEWQRQAp6N901MbE6sJyNs8LD.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Havaí%20Cinco-0%20(32798)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Havai%20Cinco-0%20(32798)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
                 "rating": 8.8,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/9VjqFsJ8yfHEnyYmexQkCxo8V0Q.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Havaí%20Cinco-0%20(32798)/temporada_2.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Havai%20Cinco-0%20(32798)/temporada_2.json"
             },
             {
                 "title": "3ª Temporada",
                 "rating": 8.2,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/mn9CBdUlu2lkabbVmEEhpCdnqMI.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Havaí%20Cinco-0%20(32798)/temporada_3.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Havai%20Cinco-0%20(32798)/temporada_3.json"
             },
             {
                 "title": "4ª Temporada",
                 "rating": 8.2,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/wm3men9DXATGMDeEo3JaaQpisSM.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Havaí%20Cinco-0%20(32798)/temporada_4.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Havai%20Cinco-0%20(32798)/temporada_4.json"
             },
             {
                 "title": "5ª Temporada",
                 "rating": 8.1,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/runoUsspYpVG0KEVdxoEkUyUKiZ.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Havaí%20Cinco-0%20(32798)/temporada_5.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Havai%20Cinco-0%20(32798)/temporada_5.json"
             },
             {
                 "title": "6ª Temporada",
                 "rating": 8.1,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/4fv8F7fxg82X1cYBtOjTDvLFSz4.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Havaí%20Cinco-0%20(32798)/temporada_6.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Havai%20Cinco-0%20(32798)/temporada_6.json"
             }
         ],
         "providers": [
@@ -1414,13 +1416,13 @@
                 "title": "1ª Temporada",
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/rT8v7A6KsE9KNP7nAlVLXAYmWHj.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Incrível%20Mundo%20de%20Gumball%20(37606)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Incrivel%20Mundo%20de%20Gumball%20(37606)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/xEkTEceQTLbHmss9rQbBG9HTuX6.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Incrível%20Mundo%20de%20Gumball%20(37606)/temporada_2.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Incrivel%20Mundo%20de%20Gumball%20(37606)/temporada_2.json"
             }
         ],
         "providers": [
@@ -1712,42 +1714,42 @@
                 "rating": 7.8,
                 "synopsis": "A folga desses super-heróis é bem animada, cheia de brincadeiras adolescentes, ansiedade e brigas.",
                 "poster": "https://image.tmdb.org/t/p/original/mZRDTRRNqKkHVoAC9EOlzxHwgIU.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Os%20Jovens%20Titãs%20em%20Ação!%20(45140)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Os%20Jovens%20Titas%20em%20Acao!%20(45140)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
                 "rating": 7.7,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/vYLiFQShCYZU8xV7KDCZukhCedu.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Os%20Jovens%20Titãs%20em%20Ação!%20(45140)/temporada_2.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Os%20Jovens%20Titas%20em%20Acao!%20(45140)/temporada_2.json"
             },
             {
                 "title": "3ª Temporada",
                 "rating": 8.5,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/gkwwXoca6yD7Q96a1sXHhMYr49c.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Os%20Jovens%20Titãs%20em%20Ação!%20(45140)/temporada_3.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Os%20Jovens%20Titas%20em%20Acao!%20(45140)/temporada_3.json"
             },
             {
                 "title": "4ª Temporada",
                 "rating": 8.1,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/c8LDvwU0vjUPXGnYHuBAmsgCXxw.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Os%20Jovens%20Titãs%20em%20Ação!%20(45140)/temporada_4.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Os%20Jovens%20Titas%20em%20Acao!%20(45140)/temporada_4.json"
             },
             {
                 "title": "5ª Temporada",
                 "rating": 7.5,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/uAzCRh9BBp8icVIWEbyIe9EYpA0.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Os%20Jovens%20Titãs%20em%20Ação!%20(45140)/temporada_5.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Os%20Jovens%20Titas%20em%20Acao!%20(45140)/temporada_5.json"
             },
             {
                 "title": "6ª Temporada",
                 "rating": 8.3,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/mTMAxrRaDp0TFpdFVinD3grrqr9.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Os%20Jovens%20Titãs%20em%20Ação!%20(45140)/temporada_6.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Os%20Jovens%20Titas%20em%20Acao!%20(45140)/temporada_6.json"
             }
         ],
         "providers": [
@@ -2387,42 +2389,42 @@
             {
                 "title": "1ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/mqHpnedXi0sk4xZJan60D3RN9aJ.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Diários%20de%20um%20Vampiro%20(18165)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Diarios%20de%20um%20Vampiro%20(18165)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/uFqZ8uJykjX2HfFJntprS84LAC5.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Diários%20de%20um%20Vampiro%20(18165)/temporada_2.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Diarios%20de%20um%20Vampiro%20(18165)/temporada_2.json"
             },
             {
                 "title": "3ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/eU9lE3WPVEq5A6M1TNsr4lzF0Bo.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Diários%20de%20um%20Vampiro%20(18165)/temporada_3.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Diarios%20de%20um%20Vampiro%20(18165)/temporada_3.json"
             },
             {
                 "title": "4ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/cKibRsvSGhRjfaV3gUN3Tc2iuFY.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Diários%20de%20um%20Vampiro%20(18165)/temporada_4.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Diarios%20de%20um%20Vampiro%20(18165)/temporada_4.json"
             },
             {
                 "title": "5ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/ooHbt4ZgXnCEd0vw08xqoQ0lzHq.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Diários%20de%20um%20Vampiro%20(18165)/temporada_5.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Diarios%20de%20um%20Vampiro%20(18165)/temporada_5.json"
             },
             {
                 "title": "6ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/2tkylQjOm03rFhBBhMSRzk6rxK6.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Diários%20de%20um%20Vampiro%20(18165)/temporada_6.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Diarios%20de%20um%20Vampiro%20(18165)/temporada_6.json"
             },
             {
                 "title": "7ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/5CcB4IrjtqimaJDVGpQEqTtXb8z.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Diários%20de%20um%20Vampiro%20(18165)/temporada_7.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Diarios%20de%20um%20Vampiro%20(18165)/temporada_7.json"
             },
             {
                 "title": "8ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/oJWinrSG3R6UDLQK8MBmQSvjsLo.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Diários%20de%20um%20Vampiro%20(18165)/temporada_8.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Diarios%20de%20um%20Vampiro%20(18165)/temporada_8.json"
             }
         ],
         "providers": [
@@ -2601,63 +2603,63 @@
                 "rating": 7.6,
                 "synopsis": "Uma história de amor ao contrário: Como Eu Conheci Sua Mãe é uma nova comédia que conta a vida amorosa de Ted (Josh Radnor). Quando o melhor amigo de Ted, Marshall (Jason Segel) decide que pedirá a sua namorada de longa data, Lily (Alyson Hannigan), em casamento, ele percebe que deve agir se realmente espera encontrar o amor verdadeiro. O ajudando em sua busca o seu amigo-de-bar \"braço direito\", Barney (Neil Patrick Harris), um solteiro convicto com muitos esquemas selvagens para pegar mulheres. Ted avista a charmosa e independente Robin (Cobie Smulders), mas o destino pode ter algo diferente em mente. Contada através de uma série de flashbacks, Ted lembra de seus dias, os altos e baixos de seus namoros e a busca pelo verdadeiro amor.",
                 "poster": "https://image.tmdb.org/t/p/original/7n8OEMRgIVkyPfswdBaftEBqQnI.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mãe%20(1100)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
                 "rating": 7.8,
                 "synopsis": "A mulher de seus sonhos está lá fora — a questão é, quem é ela? — Contada em uma série de flashbacks, Como Eu Conheci Sua Mãe é a história hilariante de como Ted, de vinte e poucos anos, encontra sua alma gêmea e se despedindo do mundo das cantadas, uma noite alta e um relacionamento \"quebrador de acordo.\" Com os amigos Marshall e o casamento de Lily se aproximando rapidamente, o escandalosamente inapropriado Barney continua sendo um solteiro convicto, enquanto o romance de Ted com Robin aquece, mas ela é realmente a única para ele? As coisas têm uma maneira engraçada de acontecer nesta comédia deliciosamente fresca e rápida.",
                 "poster": "https://image.tmdb.org/t/p/original/8OEKsU865P88LrAO6dZ157VNvHV.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mãe%20(1100)/temporada_2.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_2.json"
             },
             {
                 "title": "3ª Temporada",
                 "rating": 7.7,
                 "synopsis": "É a terceira temporada e a busca por uma alma gêmea nunca foi tão inapropriada! Ted, trinta anos, ainda está procurando a pessoa certa, mas seu caminho para a felicidade é improvável pavimentado com garotas punk rock, tatuagens, exposições de vídeo adultas e um épico Dia de São Patrício. Enquanto isso, à medida que Marshall e Lily se ajustam às peculiaridades da vida de casados, o escandalosamente incorrigível Barney comete uma grande violação ao \"Código dos Bros\". Além disso, a terceira temporada apresenta uma série de estrelas convidadas hilariantes, incluindo BRITNEY SPEARS, SARAH CHALKE (Scrubs da TV), ENRIQUE IGLESIAS, MANDY MOORE e a super modelo HEIDI KLUM.",
                 "poster": "https://image.tmdb.org/t/p/original/4QwuGNHzByZxXftS01EMbks7Cn7.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mãe%20(1100)/temporada_3.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_3.json"
             },
             {
                 "title": "4ª Temporada",
                 "rating": 7.7,
                 "synopsis": "Carregado de risadas irresistíveis e cheia de diversão ultrajante, há apenas uma palavra para a comédia de sucesso Como Eu Conheci Sua Mãe: grandiosidade!\n\nDos dilemas em namoros aos enigmas da carreira, o recentemente engajado Ted e seus amigos agitados se encontram na encruzilhada da vida jovem-adulta. Enquanto os recém-casados Marshall e Lily contemplam a paternidade, a solteira Robin explora as vantagens de ter \"amigos com benefícios\". Enquanto isso, o incorrigível e opinativo Barney continua sua perseguição hilariante de sexo mais justo. Quanto a Ted, sua alma gêmea está lá fora, mas em meio a brigas de bar e nevascas, como ele a encontrará?",
                 "poster": "https://image.tmdb.org/t/p/original/8Ly76CWFpQ6voKvUZmOKsBwF6qH.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mãe%20(1100)/temporada_4.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_4.json"
             },
             {
                 "title": "5ª Temporada",
                 "rating": 7.7,
                 "synopsis": "Com a hilariante quinta temporada de Como Eu Conheci Sua Mãe, o acertado e ultrajante indicado ao Emmy®, estrelado por Neil Patrick Harris, Jason Segel e Alyson Hannigan! A temporada mais engraçada do programa até o momento é carregada com conexões, rompimentos e o retorno da Estapeação-de-Graças — sem mencionar as estrelas convidadas mais quentes que se possa imaginar, incluindo Jennifer Lopez, Carrie Underwood, Amanda Peet e Rachel Bilson. Começando um namoro, Barney e Robin levam seu relacionamento para o próximo nível — antes de de acabar — e Ted conhece a companheira de quarto de sua futura esposa nessa história de amor moderna e barulhenta contada ao contrário.",
                 "poster": "https://image.tmdb.org/t/p/original/hNwfnZpuiTfSRCEJz77IO3Kvib6.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mãe%20(1100)/temporada_5.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_5.json"
             },
             {
                 "title": "6ª Temporada",
                 "rating": 7.7,
                 "synopsis": "Quanto mais as coisas mudam, mais as coisas ficam interessantes nesta nova temporada hilária de Como Eu Conheci Sua Mãe. A busca de Ted (Josh Radnor) pela \"A Certa\" continua enquanto Marshall e Lily (Jason Segel e Alyson Hannigan) esperam para se tornarem pais, Barney (Neil Patrick Harris) faz uma tentativa barulhenta e desajeitada de encontrar seu verdadeiro pai, e Robin (Cobie Smulders ) finalmente se sente uma verdadeira Nova-iorquina. Apresentando estrelas convidadas épicas como a Katy Perry e o Jorge Garcia como \"O Blitz.\" A sexta temporada está incrivelmente grandiosa.",
                 "poster": "https://image.tmdb.org/t/p/original/fKKZ5Zns5ISPoF4lwH0a14TgBxp.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mãe%20(1100)/temporada_6.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_6.json"
             },
             {
                 "title": "7ª Temporada",
                 "rating": 7.6,
                 "synopsis": "Com um bebê e um casamento a caminho, a mudança está no ar e a incrível abundante sétima temporada hilariante de Como Eu Conheci Sua Mãe. Quando Marshall e Lily se afastam para começar sua família, Ted continua a busca pela mulher de seus sonhos. Enquanto isso, Robin revela um atrevido chocante segredo e a estrela convidada Katie Holmes se junta à diversão no tão esperado retorno da abóbora safada! E os sinos de casamento estão finalmente tocando para um confirmado Barney Noivo, mas por que ele está usando aquela gravata ridícula e quem é a \"sortuda\"?",
                 "poster": "https://image.tmdb.org/t/p/original/8tme9C6s75sj0Nn7DQrn6PlNa1B.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mãe%20(1100)/temporada_7.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_7.json"
             },
             {
                 "title": "8ª Temporada",
                 "rating": 7.5,
                 "synopsis": "Na oitava temporada de Como Eu Conheci Sua Mãe, a chegada do bebê Marvin lembra Marshall e Lily de coisas de que eles precisam, como dormir, empregos melhores e sexo! Enquanto isso, Barney usa seu manual para conquistar Robin, mas não seu pai assustador. Marshall tenta corrigir um erro no tribunal na esperança de se tornar juiz, e o passado de Robin é julgado. Ted projeta um edifício incrível e também tem desejos pela meia-irmã de Barney! Mas ele conhece sua futura esposa? Confira todos episódios hilariantes, Legen... espera um pouquinho... DÁRIO, da Temporada 8, apresentando estrelas convidadas como Paul Shaffer, Ralph Macchio e Kyle Maclachlan!",
                 "poster": "https://image.tmdb.org/t/p/original/o6BepKycT39kubElBsnj5bWpDPU.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mãe%20(1100)/temporada_8.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_8.json"
             },
             {
                 "title": "9ª Temporada",
                 "rating": 7.3,
                 "synopsis": "Coloque o Terno e dê um último Toca-aqui para a Legen... espera um pouquinho... DÁRIA temporada final de Como Eu Conheci Sua Mãe. Respostas surpreendentes a perguntas hilárias serão reveladas durante um fim de semana épico de casamento. Marshall poderá completar uma viagem pelo país e chegar à cerimônia? Robin e Barney realmente vão se casar? Lily está escondendo um segredo chocante? Ted finalmente encontrará a mãe de seus filhos ... e ela é realmente \"A Certa\"? Tudo isso se baseia em um final de duas partes da série, levando a um dos finais mais comentados da história da TV.",
                 "poster": "https://image.tmdb.org/t/p/original/ynDSoB5ilvp2qnSJp1WFCZSRjbm.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mãe%20(1100)/temporada_9.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_9.json"
             }
         ],
         "providers": [
@@ -2966,17 +2968,17 @@
             {
                 "title": "1ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Invencível%20(95557)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Invencivel%20(95557)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Invencível%20(95557)/temporada_2.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Invencivel%20(95557)/temporada_2.json"
             },
             {
                 "title": "3ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Invencível%20(95557)/temporada_3.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Invencivel%20(95557)/temporada_3.json"
             }
         ],
         "providers": [
@@ -3134,7 +3136,7 @@
                 "rating": 7.7,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/pDtT3clyMU4xGUy8Tkvwc3pQprJ.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Diarios%20de%20uma%20Apotecária%20(220542)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Diarios%20de%20uma%20Apotecaria%20(220542)/temporada_1.json"
             }
         ],
         "providers": [
@@ -3469,7 +3471,7 @@
                 "rating": 7.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/1q0uEruI5Whr6idwWRdtOZoxrHd.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Terríveis%20Aventuras%20de%20Billy%20e%20Mandy%20(897)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Terriveis%20Aventuras%20de%20Billy%20e%20Mandy%20(897)/temporada_1.json"
             }
         ],
         "providers": [
@@ -3782,31 +3784,31 @@
                 "title": "1ª Temporada",
                 "synopsis": "O chefe da máfia, Tony Soprano, sente que o controle sobre sua família e seus negócios está desaparecendo e sofre uma série de ataques de ansiedade que o levam ao consultório de um psiquiatra. Tony se abre com sua psiquiatra, contando-lhe os detalhes de sua vida como \"consultor de gestão de resíduos\" e tentando lidar com o estresse profissional e pessoal que o levou à beira do colapso.",
                 "poster": "https://image.tmdb.org/t/p/original/3NsJzafk0Sp7yE9yShzQsybHw4x.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Família%20Soprano%20(1398)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Familia%20Soprano%20(1398)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
                 "synopsis": "Seu tio está na prisão. Sua mãe está no hospital. Seu melhor amigo ainda está desaparecido. Sua irmã está se mudando de casa. Seus ataques de pânico estão de volta. E seu psiquiatra se recusa a atendê-lo. Tony Soprano tornou-se um chefe da máfia após ser preso e, no início da segunda temporada, Tony está mais estressado do que nunca ao enfrentar as exigências de sua nova posição. Para piorar a situação, sua irmã Janice veio cuidar da mãe doente.",
                 "poster": "https://image.tmdb.org/t/p/original/wvCOKWM1abB5CfuWKqDYeMRV3lN.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Família%20Soprano%20(1398)/temporada_2.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Familia%20Soprano%20(1398)/temporada_2.json"
             },
             {
                 "title": "3ª Temporada",
                 "synopsis": "Começa a vigilância governamental e Meadow vai para a faculdade. Tony deve enfrentar os desafios de alguns recém-chegados teimosos, como o cabeça quente Ralph Cifaretto, o chefe do crime de Nova York Johnny Sack e uma vendedora sexy de carros.",
                 "poster": "https://image.tmdb.org/t/p/original/zFuz2PgkHDr9Lx5YAEmiWbXKCio.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Família%20Soprano%20(1398)/temporada_3.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Familia%20Soprano%20(1398)/temporada_3.json"
             },
             {
                 "title": "4ª Temporada",
                 "synopsis": "Como Paulie está na prisão, Christopher assume o papel de capo na quarta temporada. Junior enfrenta um julgamento RICO enquanto Tony descobre que a recessão está afetando seus negócios. Enquanto isso, Furio chama a atenção de Carmela e Janice volta sua atenção para Bobby.",
                 "poster": "https://image.tmdb.org/t/p/original/q01fVFY7rQEMMnexa9Urv7NOdKO.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Família%20Soprano%20(1398)/temporada_4.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Familia%20Soprano%20(1398)/temporada_4.json"
             },
             {
                 "title": "5ª Temporada",
                 "synopsis": "Tony e Carmela, que se separaram, negociam problemas familiares e financeiros. Enquanto isso, o reencontro de Tony com seu primo em liberdade condicional, Tony Blundetto, pode comprometer sua aliança com Johnny Sack, e Adriana se vê lidando com o FBI.",
                 "poster": "https://image.tmdb.org/t/p/original/p651eYM0Vd0CWDvndbMyaS0lDeD.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Família%20Soprano%20(1398)/temporada_5.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Familia%20Soprano%20(1398)/temporada_5.json"
             },
             {
                 "title": "6ª Temporada (Indisponivel)",
@@ -4254,12 +4256,12 @@
             {
                 "title": "1ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/zHiWupUfXu6tzegibhxfqvhF5F0.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Senhor%20dos%20Anéis%20Os%20Anéis%20de%20Poder%20(84773)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Senhor%20dos%20Aneis%20Os%20Aneis%20de%20Poder%20(84773)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/smmSPQjMYhm0P4T4UDiUDEjZZZO.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Senhor%20dos%20Anéis%20Os%20Anéis%20de%20Poder%20(84773)/temporada_2.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Senhor%20dos%20Aneis%20Os%20Aneis%20de%20Poder%20(84773)/temporada_2.json"
             }
         ],
         "providers": [
@@ -4575,12 +4577,12 @@
             {
                 "title": "1ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/yXo83cODROFRYXS40ipHsSICfTY.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Casa%20do%20Dragão%20(94997)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Casa%20do%20Dragao%20(94997)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/d8um9L1fqQGCLgTw5JGPHogdNgK.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Casa%20do%20Dragão%20(94997)/temporada_2.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Casa%20do%20Dragao%20(94997)/temporada_2.json"
             }
         ],
         "providers": [
@@ -4769,7 +4771,7 @@
                 "rating": 4.5,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/tXGVxrg7l8RAD1MzGcYjuKFo6Mt.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Caçador%20de%20Demônios%20(229711)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Cacador%20de%20Demonios%20(229711)/temporada_1.json"
             }
         ],
         "providers": [
@@ -5060,14 +5062,14 @@
                 "rating": 7.8,
                 "synopsis": "Esta comédia animada conta a história de gêmeos que vão passar o verão com o tio-avô em uma pequena e maravilhosa cidade.",
                 "poster": "https://image.tmdb.org/t/p/original/21WVSbe9BB3GYnlxr4UF9H4DmO6.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Gravity%20Falls%20Um%20Verão%20de%20Mistérios%20(40075)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Gravity%20Falls%20Um%20Verao%20de%20Misterios%20(40075)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
                 "rating": 8.3,
                 "synopsis": "Dipper e sua turma continuam em busca do autor dos diários, Stan investiga o portal sob a Cabana do Mistério, e um novo inimigo aparece.",
                 "poster": "https://image.tmdb.org/t/p/original/1ZHc3N5f6vtcda57VVobvKwCzAG.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Gravity%20Falls%20Um%20Verão%20de%20Mistérios%20(40075)/temporada_2.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Gravity%20Falls%20Um%20Verao%20de%20Misterios%20(40075)/temporada_2.json"
             }
         ],
         "providers": [
@@ -5192,7 +5194,7 @@
                 "rating": 8.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/kryDvFcwSlnbEMnT3Dq89EUmFuX.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Adolescência%20(249042)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Adolescencia%20(249042)/temporada_1.json"
             }
         ],
         "providers": [
@@ -5227,7 +5229,7 @@
                 "rating": 6.5,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/lQuT7R5MTeNHKm7jeyihABMS9Pe.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Ladrões%20de%20Drogas%20(209876)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Ladroes%20de%20Drogas%20(209876)/temporada_1.json"
             }
         ],
         "providers": [
@@ -5664,35 +5666,35 @@
                 "rating": 7.4,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/2uDKij8d6b6OSmRuWxt76MM1XWm.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Eu,%20a%20Patroa%20e%20as%20Crianças%20(2692)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Eu,%20a%20Patroa%20e%20as%20Criancas%20(2692)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
                 "rating": 7.3,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/3LAwwIU6qINrNtmKC6wV8r30qQt.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Eu,%20a%20Patroa%20e%20as%20Crianças%20(2692)/temporada_2.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Eu,%20a%20Patroa%20e%20as%20Criancas%20(2692)/temporada_2.json"
             },
             {
                 "title": "3ª Temporada",
                 "rating": 7.9,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/z2mv5AayPBGZSlP3QfLe5hCJPoS.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Eu,%20a%20Patroa%20e%20as%20Crianças%20(2692)/temporada_3.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Eu,%20a%20Patroa%20e%20as%20Criancas%20(2692)/temporada_3.json"
             },
             {
                 "title": "4ª Temporada",
                 "rating": 7.5,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/huMehRjXBkFkO9BWPly1635y0J0.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Eu,%20a%20Patroa%20e%20as%20Crianças%20(2692)/temporada_4.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Eu,%20a%20Patroa%20e%20as%20Criancas%20(2692)/temporada_4.json"
             },
             {
                 "title": "5ª Temporada",
                 "rating": 7.6,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/gOOabQ09rX0LEby6juNlwMEvAfO.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Eu,%20a%20Patroa%20e%20as%20Crianças%20(2692)/temporada_5.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Eu,%20a%20Patroa%20e%20as%20Criancas%20(2692)/temporada_5.json"
             }
         ],
         "providers": [
@@ -6169,21 +6171,21 @@
                 "rating": 6.8,
                 "synopsis": "Under the Dome se passa numa cidade que inexplicavelmente se vê presa  sob uma redoma enorme e transparente. Não é difícil prever que logo o  caos toma conta de todas as ruas. Enquanto lutam pela sobrevivência nesse cenário pós-apocalíptico, os  moradores da cidade procuram por respostas sobre o que é esta barreira,  de onde ela veio e se, um dia, ela irá embora.",
                 "poster": "https://image.tmdb.org/t/p/original/w6RZlI0wA9SOSuuQBaBj8fn1kZj.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Domo%20Prisão%20Invisível%20(46331)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Domo%20Prisao%20Invisivel%20(46331)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
                 "rating": 6.7,
                 "synopsis": "Under the Dome se passa numa cidade que inexplicavelmente se vê presa  sob uma redoma enorme e transparente. Não é difícil prever que logo o  caos toma conta de todas as ruas. Enquanto lutam pela sobrevivência nesse cenário pós-apocalíptico, os  moradores da cidade procuram por respostas sobre o que é esta barreira,  de onde ela veio e se, um dia, ela irá embora.",
                 "poster": "https://image.tmdb.org/t/p/original/pFVo0ksIynNt23kWhf0LHFhJSJB.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Domo%20Prisão%20Invisível%20(46331)/temporada_2.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Domo%20Prisao%20Invisivel%20(46331)/temporada_2.json"
             },
             {
                 "title": "3ª Temporada",
                 "rating": 6.2,
                 "synopsis": "Under the Dome se passa numa cidade que inexplicavelmente se vê presa  sob uma redoma enorme e transparente. Não é difícil prever que logo o  caos toma conta de todas as ruas. Enquanto lutam pela sobrevivência nesse cenário pós-apocalíptico, os  moradores da cidade procuram por respostas sobre o que é esta barreira,  de onde ela veio e se, um dia, ela irá embora.",
                 "poster": "https://image.tmdb.org/t/p/original/mFPwnx3DRDVm7YpR4MYLdn9CQMy.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Domo%20Prisão%20Invisível%20(46331)/temporada_3.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Domo%20Prisao%20Invisivel%20(46331)/temporada_3.json"
             }
         ],
         "providers": [],
@@ -6383,14 +6385,14 @@
                 "rating": 7.5,
                 "synopsis": "Um avião aterrissa misteriosamente cinco anos depois da decolagem, levando os passageiros a viverem a estranheza de retornar a um mundo que seguiu a vida sem eles.",
                 "poster": "https://image.tmdb.org/t/p/original/3031qjvNsNzzlbKnSg6j2p2DnLe.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Manifest%20O%20Mistério%20do%20Voo%20828%20(79696)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Manifest%20O%20Misterio%20do%20Voo%20828%20(79696)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
                 "rating": 7.3,
                 "synopsis": "Assombrada por visões perturbadoras, a família Stone busca outros passageiros do voo 828 e tenta mudar seu destino.",
                 "poster": "https://image.tmdb.org/t/p/original/dr3ufSlCmcPaikHXhPsryMOQK4N.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Manifest%20O%20Mistério%20do%20Voo%20828%20(79696)/temporada_2.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Manifest%20O%20Misterio%20do%20Voo%20828%20(79696)/temporada_2.json"
             }
         ],
         "providers": [
@@ -6637,7 +6639,7 @@
                 "title": "1ª Temporada",
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/onTkkSKPO0O8VOyB9iscBiia2c9.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Um%20Maluco%20no%20Pedaço%20(1892)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Um%20Maluco%20no%20Pedaco%20(1892)/temporada_1.json"
             }
         ],
         "providers": [
@@ -6733,14 +6735,14 @@
                 "rating": 7,
                 "synopsis": "A Humanidade fundou um Império Galático que, por 12 mil anos, expandiu suas fronteiras chegando a mais de 25 milhões de planetas. Hari Seldon, famoso matemático, desenvolve um novo ramo da Matemática chamado Psicohistória. Com ela, consegue prever o futuro e descobre que o Império tem apenas mais 500 anos de vida. Todo o conhecimento da Humanidade será perdido.",
                 "poster": "https://image.tmdb.org/t/p/original/lFgwBRCzlsFTs9B6PXK3sCyZcQ0.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Fundação%20(93740)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Fundacao%20(93740)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
                 "rating": 7.5,
                 "synopsis": "Mais de um século após os eventos do final da primeira temporada, a tensão aumenta por toda a galáxia. À medida que a dinastia governante começa a desmoronar, uma jovem rainha planeja sua vingança. Enquanto isso, uma colônia de pessoas com habilidades especiais representa uma nova ameaça. Tudo leva a uma rota de colisão para a guerra.",
                 "poster": "https://image.tmdb.org/t/p/original/8JrCVI4x5ZuNrCzqlYDVFSJyIaH.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Fundação%20(93740)/temporada_2.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Fundacao%20(93740)/temporada_2.json"
             }
         ],
         "providers": [
@@ -7515,14 +7517,14 @@
                 "rating": 6.4,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/2faxNZj5iHQOiDdPzCHCDvjTEnW.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Invasão%20(127235)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Invasao%20(127235)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
                 "rating": 6.7,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/coEDMMa1s0fy3y0fiPfuzWPnTWr.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Invasão%20(127235)/temporada_2.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Invasao%20(127235)/temporada_2.json"
             }
         ],
         "providers": [
@@ -7563,7 +7565,7 @@
                 "rating": 6.1,
                 "synopsis": "A série narra as aventuras do Tio Patinhas, personagem das histórias em quadrinhos da Disney criado por Carl Barks, junto com seus sobrinhos-netos Huguinho, Zezinho e Luisinho, além de vários outros personagens criados exclusivamente para a série. Apesar dos três sobrinhos originalmente surgirem nos curtas animados na década de 1930 do Pato Donald, a sua caracterização em DuckTales está mais aproximada a dos quadrinhos de Barks.",
                 "poster": "https://image.tmdb.org/t/p/original/wjQfPEkKA0hgV5BxWGCrLS7qHlx.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/DuckTales%20Os%20Caçadores%20de%20Aventuras%20(720)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/DuckTales%20Os%20Cacadores%20de%20Aventuras%20(720)/temporada_1.json"
             }
         ],
         "providers": [
@@ -7715,7 +7717,7 @@
                 "title": "1ª Temporada",
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/bufY3UCdDjRu3OzsRRAOi3nX8W9.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Xógum%20A%20Gloriosa%20Saga%20do%20Japão%20(126308)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Xogum%20A%20Gloriosa%20Saga%20do%20Japao%20(126308)/temporada_1.json"
             }
         ],
         "providers": [
@@ -7749,21 +7751,21 @@
                 "rating": 6.3,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/su0OdwKQzpQ2w2DygO3yKvrDUAk.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Visões%20da%20Raven%20(4602)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Visoes%20da%20Raven%20(4602)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
                 "rating": 5.3,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/vUgOpnj3DK5PkDxqtqVZQczxc5z.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Visões%20da%20Raven%20(4602)/temporada_2.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Visoes%20da%20Raven%20(4602)/temporada_2.json"
             },
             {
                 "title": "3ª Temporada",
                 "rating": 5.5,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/fNVY78pQb4qU8Fx0jFVzSyMYjK2.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Visões%20da%20Raven%20(4602)/temporada_3.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Visoes%20da%20Raven%20(4602)/temporada_3.json"
             }
         ],
         "providers": [
@@ -7935,7 +7937,7 @@
             {
                 "title": "1ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/xLF8GVY5YRYd4RzJKFAhKvsiFzx.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Nível%20Secreto%20(261579)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Nivel%20Secreto%20(261579)/temporada_1.json"
             }
         ],
         "providers": [
@@ -8019,7 +8021,7 @@
                 "title": "1ª Temporada",
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/ah4LP1pH2RaEJWoOHfqakaTlohM.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Matéria%20Escura%20(196322)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Materia%20Escura%20(196322)/temporada_1.json"
             }
         ],
         "providers": [
@@ -8112,7 +8114,7 @@
                 "rating": 7.4,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/62qfVDg4VK3kqZFxrRztPqSbal4.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Gavião%20Arqueiro%20(88329)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Gaviao%20Arqueiro%20(88329)/temporada_1.json"
             }
         ],
         "providers": [
@@ -8187,7 +8189,7 @@
             {
                 "title": "1ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/gQdxnSOlZp04BQV1qrlC84BlA5X.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Irmãos%20de%20Guerra%20(4613)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Irmaos%20de%20Guerra%20(4613)/temporada_1.json"
             }
         ],
         "providers": [
@@ -8903,7 +8905,7 @@
                 "rating": 7.2,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/z7uePAPFonidP57OZ6YJuyzoGzZ.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Agência%20(219971)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Agencia%20(219971)/temporada_1.json"
             }
         ],
         "providers": [
@@ -9008,7 +9010,7 @@
                 "title": "1ª Temporada",
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/zCz483fU94RxRt1gdGW1rxQkcID.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Avatar%20O%20Último%20Mestre%20do%20Ar%20(82452)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Avatar%20O%20Ultimo%20Mestre%20do%20Ar%20(82452)/temporada_1.json"
             }
         ],
         "providers": [
@@ -9046,28 +9048,28 @@
                 "rating": 0.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/noVz6XUUlVtIiL4aBZjyKvA3ZfI.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Irmão%20do%20Jorel%20(74606)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Irmao%20do%20Jorel%20(74606)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
                 "rating": 0.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/xswzVge20s4Ib9XQPCrdQfeBFSj.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Irmão%20do%20Jorel%20(74606)/temporada_2.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Irmao%20do%20Jorel%20(74606)/temporada_2.json"
             },
             {
                 "title": "3ª Temporada",
                 "rating": 0.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/qeLEsGZMr7mQGODeUO3X1rfDlK9.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Irmão%20do%20Jorel%20(74606)/temporada_3.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Irmao%20do%20Jorel%20(74606)/temporada_3.json"
             },
             {
                 "title": "4ª Temporada",
                 "rating": 9.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/oT58ixhiiN3Gw5dvmWNshvEhJDL.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Irmão%20do%20Jorel%20(74606)/temporada_4.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Irmao%20do%20Jorel%20(74606)/temporada_4.json"
             }
         ],
         "providers": [
@@ -9596,63 +9598,63 @@
                 "rating": 8.9,
                 "synopsis": "Bob Esponja mora em uma casa-abacaxi submarina e se mete em inúmeras desventuras com seus amigos esquisitos e seu caracol de estimação.",
                 "poster": "https://image.tmdb.org/t/p/original/pElWsICtf0qIAbzkmbx3TSaz9wI.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bob%20Esponja%20Calça%20Quadrada%20(387)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bob%20Esponja%20Calca%20Quadrada%20(387)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
                 "rating": 8.9,
                 "synopsis": "Nesta temporada, Lula Molusco decide sair da Fenda do Biquíni, Bob Esponja adquire um mau hálito horrível e Plankton bola um plano para roubar o Krabby Patty.",
                 "poster": "https://image.tmdb.org/t/p/original/eTTsOyXm49jixiQJ93L97CCvVBk.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bob%20Esponja%20Calça%20Quadrada%20(387)/temporada_2.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bob%20Esponja%20Calca%20Quadrada%20(387)/temporada_2.json"
             },
             {
                 "title": "3ª Temporada",
                 "rating": 9.3,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/lbZWWKDMj7iZMuwk8Eqeu7dl4EV.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bob%20Esponja%20Calça%20Quadrada%20(387)/temporada_3.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bob%20Esponja%20Calca%20Quadrada%20(387)/temporada_3.json"
             },
             {
                 "title": "4ª Temporada",
                 "rating": 9.4,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/kA2JGsM9i8hAz7CYx2JoCefF7MM.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bob%20Esponja%20Calça%20Quadrada%20(387)/temporada_4.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bob%20Esponja%20Calca%20Quadrada%20(387)/temporada_4.json"
             },
             {
                 "title": "5ª Temporada",
                 "rating": 9.3,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/9jVJY3tD4t5udjYDL9F3qe4mjh5.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bob%20Esponja%20Calça%20Quadrada%20(387)/temporada_5.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bob%20Esponja%20Calca%20Quadrada%20(387)/temporada_5.json"
             },
             {
                 "title": "6ª Temporada",
                 "rating": 9.3,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/fQRSwgsVlIHKSicAK3wR3skyBez.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bob%20Esponja%20Calça%20Quadrada%20(387)/temporada_6.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bob%20Esponja%20Calca%20Quadrada%20(387)/temporada_6.json"
             },
             {
                 "title": "7ª Temporada (Link Direto)",
                 "rating": 8.8,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/8NdcVqaeHzjICm3nUJLQlzVP8ps.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bob%20Esponja%20Calça%20Quadrada%20(387)/temporada_7.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bob%20Esponja%20Calca%20Quadrada%20(387)/temporada_7.json"
             },
             {
                 "title": "8ª Temporada (Link Direto)",
                 "rating": 7,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/rzIe4jTyzKRCtksfDTNlmAhBRBc.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bob%20Esponja%20Calça%20Quadrada%20(387)/temporada_8.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bob%20Esponja%20Calca%20Quadrada%20(387)/temporada_8.json"
             },
             {
                 "title": "9ª Temporada (Link Direto)",
                 "rating": 8.6,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/bqlYo7FGXRFRGYVAIzzJ97jpvon.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bob%20Esponja%20Calça%20Quadrada%20(387)/temporada_9.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bob%20Esponja%20Calca%20Quadrada%20(387)/temporada_9.json"
             }
         ],
         "providers": [
@@ -9770,14 +9772,14 @@
                 "rating": 9.3,
                 "synopsis": "Condenado à prisão, o caçador de recompensas Biscuit Oliver é enviado a Tóquio para deter presos fugitivos e evitar que os criminosos continuem espalhando o caos.",
                 "poster": "https://image.tmdb.org/t/p/original/rXbmuaZXH6oR5ni6m7AN6LnGFgg.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Baki%20-%20O%20Campeão%20(80623)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Baki%20-%20O%20Campeao%20(80623)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
                 "rating": 9.2,
                 "synopsis": "Com entrada especial concedida no Grande Torneio Raitai, um Baki envenenado agora enfrenta lutadores na China, onde o próximo verdadeiro Imperador do Mar será escolhido.",
                 "poster": "https://image.tmdb.org/t/p/original/taarM0OCOQW1heyUaOttIwKbclu.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Baki%20-%20O%20Campeão%20(80623)/temporada_2.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Baki%20-%20O%20Campeao%20(80623)/temporada_2.json"
             }
         ],
         "providers": [
@@ -9811,7 +9813,7 @@
                 "rating": 7.3,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/w8Hi3GI4q1oR6EImrDWrAQFn8Ha.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Falcão%20e%20o%20Soldado%20Invernal%20(88396)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Falcao%20e%20o%20Soldado%20Invernal%20(88396)/temporada_1.json"
             }
         ],
         "providers": [
@@ -9843,7 +9845,7 @@
                 "title": "1ª Temporada",
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/uFNHrunRIlyzRlRS7c9InUVgFDa.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Cães%20de%20Caça%20(127529)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Caes%20de%20Caca%20(127529)/temporada_1.json"
             }
         ],
         "providers": [
@@ -9876,7 +9878,7 @@
                 "title": "1ª Temporada",
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/iO7MX4bFkufcCYgGZNpLbnJLDU8.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Planeta%20Pré-histórico%20(95171)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Planeta%20Pre-historico%20(95171)/temporada_1.json"
             }
         ],
         "providers": [
@@ -10027,7 +10029,7 @@
                 "rating": 0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/zclGqPFfnHrR3Oi0hwetm1Syibr.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Plantão%20Policial%20(236429)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Plantao%20Policial%20(236429)/temporada_1.json"
             }
         ],
         "providers": [
@@ -10167,7 +10169,7 @@
             {
                 "title": "1ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/38PkhBGRQtmVx2drvPik3F42qHO.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Maldição%20da%20Residência%20Hill%20(72844)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Maldicao%20da%20Residencia%20Hill%20(72844)/temporada_1.json"
             }
         ],
         "providers": [
@@ -10323,7 +10325,7 @@
                 "rating": 8.3,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/3YsB5Xi2QRanuGTY1tPIr8ZePC7.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Cyberpunk%20Mercenários%20(105248)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Cyberpunk%20Mercenarios%20(105248)/temporada_1.json"
             }
         ],
         "providers": [
@@ -10440,7 +10442,7 @@
                 "rating": 8.3,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/aesLt9fsKSA6KCgGxA60VVxjtLk.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/ONE%20PIECE%20A%20Série%20(111110)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/ONE%20PIECE%20A%20Serie%20(111110)/temporada_1.json"
             }
         ],
         "providers": [
@@ -10506,7 +10508,7 @@
                 "rating": 7.6,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/pZCKdFGw1kRawMVgdw5rcknSnzM.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Pacífico%20(16997)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Pacifico%20(16997)/temporada_1.json"
             }
         ],
         "providers": [
@@ -10575,7 +10577,7 @@
             {
                 "title": "1ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Maldição%20da%20Mansão%20Bly%20(109958)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Maldicao%20da%20Mansao%20Bly%20(109958)/temporada_1.json"
             }
         ],
         "providers": [
@@ -10684,7 +10686,7 @@
                 "rating": 7.6,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/fEhEJowHEcWgqWknxwbdsiHyGty.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Seu%20Amigão%20da%20Vizinhança%20Homem-Aranha%20(138503)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Seu%20Amigao%20da%20Vizinhanca%20Homem-Aranha%20(138503)/temporada_1.json"
             }
         ],
         "providers": [
@@ -10716,7 +10718,7 @@
                 "title": "1ª Temporada",
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/jy72O96OgXAN5aduymYKkM8q53W.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Uma%20Advogada%20Extraordinária%20(197067)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Uma%20Advogada%20Extraordinaria%20(197067)/temporada_1.json"
             }
         ],
         "providers": [
@@ -10791,7 +10793,7 @@
                 "rating": 6,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/6kSblgQfbqDSo5gRIQ4vp706KTe.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Festa%20da%20Salsicha%20Comilândia%20(213249)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Festa%20da%20Salsicha%20Comilandia%20(213249)/temporada_1.json"
             }
         ],
         "providers": [
@@ -10891,7 +10893,7 @@
                 "title": "1ª Temporada",
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/8sDaiKVFPx1MSKn5Qsa4Z2J2cfJ.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Periféricos%20(95403)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Perifericos%20(95403)/temporada_1.json"
             }
         ],
         "providers": [
@@ -10951,7 +10953,7 @@
             {
                 "title": "1ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/sfd90NIf778KoBFmpdBTow4xTm7.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Por%20Trás%20de%20Seus%20Olhos%20(97173)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Por%20Tras%20de%20Seus%20Olhos%20(97173)/temporada_1.json"
             }
         ],
         "providers": [
@@ -11119,7 +11121,7 @@
                 "title": "1ª Temporada",
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/iGanbz4wM5EyDpSZ0FK3TEsInEb.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Ted%20-%20A%20Série%20(201834)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Ted%20-%20A%20Serie%20(201834)/temporada_1.json"
             }
         ],
         "providers": [
@@ -11228,7 +11230,7 @@
                 "rating": 0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/dPAKujqmx2QMWpvro1EGezSJ8SC.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Que%20Falta%20Você%20Me%20Faz%20(244243)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Que%20Falta%20Voce%20Me%20Faz%20(244243)/temporada_1.json"
             }
         ],
         "providers": [
@@ -11259,7 +11261,7 @@
             {
                 "title": "1ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/jNaaG6MbOqd8ma6WnCQ6ZafE09x.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bebê%20Rena%20(241259)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bebe%20Rena%20(241259)/temporada_1.json"
             }
         ],
         "providers": [
@@ -11758,7 +11760,7 @@
                 "title": "1ª Temporada",
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/wE28VQWGRINUwjTtwJP4XNGdnWc.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Star%20Wars%20Histórias%20do%20Império%20(251091)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Star%20Wars%20Historias%20do%20Imperio%20(251091)/temporada_1.json"
             }
         ],
         "providers": [
@@ -12194,7 +12196,7 @@
                 "title": "1ª Temporada",
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/6mSSlc87iEkEi9NP2n62hVj9uzl.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Véu%20(207334)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Veu%20(207334)/temporada_1.json"
             }
         ],
         "providers": [
@@ -12331,7 +12333,7 @@
                 "title": "1ª Temporada",
                 "synopsis": "Mais de 20 anos depois, Buscapé segue na sua missão de retratar a realidade da comunidade onde cresceu, enquanto também relembra os conflitos entre policiais, traficantes e milicianos ao longo destes anos e como isso impactou a vida dos moradores da Cidade de Deus.",
                 "poster": "https://image.tmdb.org/t/p/original/bROpzy08O9nSyfDgBUlgUoMp9nw.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Cidade%20de%20Deus%20A%20Luta%20Não%20Para%20(223397)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Cidade%20de%20Deus%20A%20Luta%20Nao%20Para%20(223397)/temporada_1.json"
             }
         ],
         "providers": [
@@ -12562,7 +12564,7 @@
                 "title": "1ª Temporada",
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/y2VRb9V9hvKmkI2y9rJ2mki0DVo.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Toda%20Luz%20que%20Não%20Podemos%20Ver%20(155421)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Toda%20Luz%20que%20Nao%20Podemos%20Ver%20(155421)/temporada_1.json"
             }
         ],
         "providers": [
@@ -12743,7 +12745,7 @@
                 "title": "1ª Temporada",
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/guhvJHuiPp7K5D0UiyJ52FpLtx7.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Tartarugas%20Ninjas%20Histórias%20Mutantes%20(231394)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Tartarugas%20Ninjas%20Historias%20Mutantes%20(231394)/temporada_1.json"
             }
         ],
         "providers": [
@@ -12892,28 +12894,28 @@
                 "rating": 0.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/qucT08BrRQeS7Q0zaFhBnbsPJoq.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Divisão%20(91296)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Divisao%20(91296)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
                 "rating": 1.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/6FcQyqpBJZEhf4W41wIzcWCYh2M.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Divisão%20(91296)/temporada_2.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Divisao%20(91296)/temporada_2.json"
             },
             {
                 "title": "3ª Temporada",
                 "rating": 0.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/6ReYpdqfXc9XrGWQEVeZcFrPNtX.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Divisão%20(91296)/temporada_3.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Divisao%20(91296)/temporada_3.json"
             },
             {
                 "title": "4ª Temporada",
                 "rating": 0.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/An3TOHOWXIhAUnZ5O7pDzpnZTMz.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Divisão%20(91296)/temporada_4.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Divisao%20(91296)/temporada_4.json"
             }
         ],
         "providers": [],
@@ -13046,7 +13048,7 @@
                 "title": "1ª Temporada",
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/sdK2zUdIqid6DGk2jPsBfKHNmKj.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Produção%20de%20Sonhos%20(255868)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Producao%20de%20Sonhos%20(255868)/temporada_1.json"
             }
         ],
         "providers": [
@@ -13078,7 +13080,7 @@
                 "title": "1ª Temporada",
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/5z3QpmUFQgszv2aOlLS7pekPpkI.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Cangaço%20Novo%20(137883)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Cangaco%20Novo%20(137883)/temporada_1.json"
             }
         ],
         "providers": [
@@ -13111,14 +13113,14 @@
                 "rating": 7.4,
                 "synopsis": "Eric passou a viver entre realidade e um mundo invisível habitado por seres fantásticos depois que sua esposa morreu - e percebeu que nem tudo é como parece. A série faz um mergulho nas histórias do folclore brasileiro de forma atual e fala sobre o poder das relações humanas.",
                 "poster": "https://image.tmdb.org/t/p/original/oTyWL9rdA8oPAzsWtxW0Vjz9KYV.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Cidade%20Invisível%20(110529)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Cidade%20Invisivel%20(110529)/temporada_1.json"
             },
             {
                 "title": "2ª Temporada",
                 "rating": 6.7,
                 "synopsis": "Após dois anos ausente, Eric aparece em um santuário natural, protegido por indígenas e procurado por garimpeiros ilegais, perto de Belém do Pará. Ele descobre que Luna e a Cuca estavam morando nas proximidades com o objetivo de trazê-lo de volta à vida. Embora queira retornar imediatamente para o Rio de Janeiro com Luna, suas habilidades sobrenaturais recém-adquiridas o tornam necessário para proteger Luna e o santuário, que descobre serem intimamente ligados.",
                 "poster": "https://image.tmdb.org/t/p/original/u9bQPxILScuQCZPV1clEYxqFTL8.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Cidade%20Invisível%20(110529)/temporada_2.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Cidade%20Invisivel%20(110529)/temporada_2.json"
             }
         ],
         "providers": [
@@ -13154,7 +13156,7 @@
                 "rating": 10.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/bfFZwA6GHW4lkDQcKxCwwGBWsEU.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Maria%20e%20o%20Cangaço%20(128331)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Maria%20e%20o%20Cangaco%20(128331)/temporada_1.json"
             }
         ],
         "providers": [
@@ -13186,7 +13188,7 @@
                 "title": "1ª Temporada",
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/hapXmfskIEVcwiskaqRDBT5YGey.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Maníaco%20do%20Parque%20A%20História%20Não%20Contada%20(231309)/temporada_1.json"
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Maniaco%20do%20Parque%20A%20Historia%20Nao%20Contada%20(231309)/temporada_1.json"
             }
         ],
         "providers": [],
