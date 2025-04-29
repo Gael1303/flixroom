@@ -1,75 +1,19 @@
 {
     "episodios": [
         {
-            "title": "1x01. Estou acostumado",
+            "title": "T01. EPS 01 ao 12",
+            "runtime": 288,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/rm8q4ZHkVwbwUjjdbOIV9v5RW99.jpg",
             "url": [
-                "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=pY1ALzZQLKjq%2BxmGNv4alPVUggDGq%2BDu8yW29tscOtmTzKzZnqAp8x%2FfEREvWW6X&expiry=dPgJeuBYif8H1QV5zBIVog%3D%3D&mac=4eef7f6896a68a5ab3c3be1e24896f359ae85b2d7c30e5120d5463e60caa0efc"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25e935ecd06d20820e8d5e27c35bd8f9eef29c3b"
             ]
         },
         {
-            "title": "1x02. Se eu tivesse mais uma chance",
+            "title": "T01. EPS 12 ao 25",
+            "runtime": 288,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/6kjROrp76VDJyfImdqUzmL7zdJM.jpg",
             "url": [
-                "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=4t1ahxJBikjxKBl1f9UnGZx2D6KyYBai6OKUMR%2FBQeNHIfYeW%2FmG7dsktUE1N0HI&expiry=dPgJeuBYif8H1QV5zBIVog%3D%3D&mac=da27ac5f99a7b0a07b7ead16c1f76d674f18cf26636f694c7c25d604d376f369"
-            ]
-        },
-        {
-            "title": "1x03. É como um jogo",
-            "url": [
-                "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=8ZqHyX0Wcyu%2FecSQspRxq90WvFB%2FCGg%2Fh%2BqjdxYDs%2F4dcsQ3hZ51qgrN%2F7PI7jDf&expiry=dPgJeuBYif8H1QV5zBIVog%3D%3D&mac=e0bdf9f621bb790ea1c529d7ed957671e62cb7eea18e0e7a2583c64e7c5064e6"
-            ]
-        },
-        {
-            "title": "1x04. Eu preciso ficar mais forte",
-            "url": [
-                "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=46sqL3O2BDMppS4JT6XpzGaBH9hbXgN3HlU4ExuDUq5QHk4epteJQBsZGjhBpx03&expiry=dPgJeuBYif8H1QV5zBIVog%3D%3D&mac=14b1b20049c95d72c506913e356c2f4533f447c82ef2129b0eaff4eae8f87292"
-            ]
-        },
-        {
-            "title": "1x05. Um bom negócio",
-            "url": [
-                "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=lces90vObsNktxEz0B0oX3gZ%2Fiy8zB59lk54k1wOLzM2TeRFBChreh9rGTyhgHxW&expiry=dPgJeuBYif8H1QV5zBIVog%3D%3D&mac=a06df77e8be588313e11555f7e6f157000f03e6a9be23a38062b7f3f10450edd"
-            ]
-        },
-        {
-            "title": "1x06. A verdadeira caçada tem início",
-            "url": [
-                "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=yolS4DAuvubKw5xDo6cbT0PyCuz%2FL%2BezrOYnGgD5KzZO57G6iz0e0aAFEYl6lLRx&expiry=dPgJeuBYif8H1QV5zBIVog%3D%3D&mac=cbb7c0b55216a0009fb240b95b2697dee03a0788fb9219de58c1e90102f63ddd"
-            ]
-        },
-        {
-            "title": "1x07. Vamos ver até onde consigo ir",
-            "url": [
-                "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=YB2LywFHYIgVNXf7j6MApUedsnZlUPGjxt%2FM7FrU6R%2FduDzY6t43teGZtoYy3tWX&expiry=dPgJeuBYif8H1QV5zBIVog%3D%3D&mac=eec0feade99019a1dbab8154f5a74a76e6e755b403b3350f19932849c5bc9f87"
-            ]
-        },
-        {
-            "title": "1x08. Que frustrante",
-            "url": [
-                "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=OXnPCo51nBGA8DtwsHg138x%2B2eKmUO9vXXSdxwa7x8Cp1h8W13XflVbvfjGr%2FSZR&expiry=dPgJeuBYif8H1QV5zBIVog%3D%3D&mac=b44e2baece4a14960d6e8ead119df608376d4ed0adbaa0b58e8feed8729d5803"
-            ]
-        },
-        {
-            "title": "1x09. Você vem escondendo suas habilidades",
-            "url": [
-                "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=hnpHk4ZGOzvib4HPMHsGzVHm4N5wTMT4dsu%2F56jeIlGxLWYG%2FapPw6XD7qZIIRzA&expiry=dPgJeuBYif8H1QV5zBIVog%3D%3D&mac=1aeebfc193b05fc78483e3f590f6c8666c67abec842d5618d178baa7d5abfeb8"
-            ]
-        },
-        {
-            "title": "1x010. O que é isso, um piquenique?",
-            "url": [
-                "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=X%2BqnnSVqkMbUdcdBo1pP%2FJRn17KA%2BxG%2FTCIH%2BLFPKfhstju7l64ZhLc%2F5lnCqWJc&expiry=dPgJeuBYif8H1QV5zBIVog%3D%3D&mac=e5df3db6f4f492f1f56605225d54b04a76581201b282c394a01edcbafd836226"
-            ]
-        },
-        {
-            "title": "1x011. Um cavaleiro que defende um trono vazio",
-            "url": [
-                "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=Jvbn4QOTPMDWrmL1hJeF6xRMI5WyP34edA3owSaRSvyUdpx2mWub8yL%2F5akmKM1k&expiry=dPgJeuBYif8H1QV5zBIVog%3D%3D&mac=0e1c34632b257509328402525721f3956167fde79371ab272ad18e82b60dc8ca"
-            ]
-        },
-        {
-            "title": "1x012. Erga-se",
-            "url": [
-                "https://animezey16082023.animezey16082023.workers.dev/download.aspx?file=v%2FZI3dana0%2FMgFyoxtrHq2YK%2F0GuMeAuBfhaYlGzLgb%2FIcKAWWLQWQdWJGfmmwlP&expiry=dPgJeuBYif8H1QV5zBIVog%3D%3D&mac=77e03b1fe1181a21c7c551080ff5d1720c0fd734da9586a9493fec2621d21988"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d85d6be74a8c052ab9b07b87813b267f9cbd78bb"
             ]
         }
     ]
