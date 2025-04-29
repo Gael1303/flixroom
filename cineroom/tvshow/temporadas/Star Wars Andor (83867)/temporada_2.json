@@ -1,0 +1,35 @@
+
+{
+    "episodios": [
+        {
+            "title": "01. Um ano depois",
+            "rating": 8.3,
+            "runtime": 54,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/rERVoCPadnt0j9qrmOR8SvTL6gj.jpg",
+            "synopsis": "Uma missão secreta. Um santuário ameaçado. Um casamento em Chandrila. Um plano imperial assustador.",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:196616f6001d72369c56a7599e882190debdd903"
+            ]
+        },
+        {
+            "title": "02. Sagrona Teema",
+            "rating": 7.8,
+            "runtime": 47,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/pAtoS45a2QNFwkDzZw5FNyJxWMy.jpg",
+            "synopsis": "Cassian se vê envolvido em uma guerra de território rebelde. Os problemas de Mon com o casamento aumentam. Os sobreviventes de Ferrix enfrentam uma inspeção.",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:196616f6001d72369c56a7599e882190debdd903"
+            ]
+        },
+        {
+            "title": "03. Colheita",
+            "rating": 8.7,
+            "runtime": 56,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/lGHuJ2VlJ2TOWUMuzkEyU5pplEm.jpg",
+            "synopsis": "O tempo está se esgotando para todos.",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:196616f6001d72369c56a7599e882190debdd903"
+            ]
+        },
+    ]
+}
