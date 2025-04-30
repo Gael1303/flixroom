@@ -224,13 +224,10 @@
         "menu_key": "Canais",
         "poster": "https://archive.org/download/em_alta/canais.png",
         "fanart": "https://exemplo.com/fanart_canais.jpg",
-        "status": "on",
+        "status": "off",
         "action": "list_canais",
         "externallink": [
             "search(Pesquisar Canal)",
-            "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista1(Servidor 1)",
-            "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista2.m3u8(Servidor 2)",
-            "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista3.m3u8(Servidor 3)",
             "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista4.m3u8(Servidor 4)"
         ]
     },
