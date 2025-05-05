@@ -2,39 +2,50 @@
     "episodios": [
         {
             "title": "01. Dias Futuros",
-	    "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/i8lsfJzt7buKLotPwCTBQyuPavN.jpg",
-	    "premiered": "13/04/2025",
-	    "runtime": 59,	
-	    "synopsis": "Cinco anos após os eventos da primeira temporada, Joel e Ellie se veem envolvidos em um conflito em um mundo ainda mais perigoso e imprevisível do que aquele que deixaram para trás.",
-	    "rating": 7.4,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/i8lsfJzt7buKLotPwCTBQyuPavN.jpg",
+            "premiered": "13/04/2025",
+            "runtime": 59,
+            "synopsis": "Cinco anos após os eventos da primeira temporada, Joel e Ellie se veem envolvidos em um conflito em um mundo ainda mais perigoso e imprevisível do que aquele que deixaram para trás.",
+            "rating": 7.4,
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c56e9cb31c9d2bdb24ae24d73d9cfff1bb0b617e(1080P DUBLADO)",
-		"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49faa9f36adad73dafec5c3a693313b2a27640e6(4K DUBLADO)"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49faa9f36adad73dafec5c3a693313b2a27640e6(4K DUBLADO)"
             ]
         },
-	{
+        {
             "title": "02. Pelo Vale",
-	    "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/nJOU5Ok1VdJGSrzTYwttRxHOCkJ.jpg",
-	    "premiered": "20/04/2025",
-	    "runtime": 57,	
-	    "synopsis": "Enquanto uma tempestade se forma nas montanhas, o povo de Jackson Hole se prepara para o pior em meio ao aumento de avistamentos de infectados. Enquanto isso, Abby pondera suas opções.",
-	    "rating": 8.1,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/nJOU5Ok1VdJGSrzTYwttRxHOCkJ.jpg",
+            "premiered": "20/04/2025",
+            "runtime": 57,
+            "synopsis": "Enquanto uma tempestade se forma nas montanhas, o povo de Jackson Hole se prepara para o pior em meio ao aumento de avistamentos de infectados. Enquanto isso, Abby pondera suas opções.",
+            "rating": 8.1,
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:660eddc6df7b257261f2ec0b2be058598018a701(1080P DUBLADO)",
-		"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71df6ef1485db7be88fa28232bf8b2f743daa84a(4K DUBLADO)"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71df6ef1485db7be88fa28232bf8b2f743daa84a(4K DUBLADO)"
             ]
-        },  
-	{
+        },
+        {
             "title": "03. O Caminho",
-	    "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/yYxtVmduEAJWPyckZv4rqqinvoe.jpg",
-	    "premiered": "27/04/2025",
-	    "runtime": 57,	
-	    "synopsis": "Após receber informações de Dinah, Ellie prepara uma petição ao conselho da cidade. Perto de Seattle, um grupo religioso foge de uma guerra.",
-	    "rating": 7.5,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/yYxtVmduEAJWPyckZv4rqqinvoe.jpg",
+            "premiered": "27/04/2025",
+            "runtime": 57,
+            "synopsis": "Após receber informações de Dinah, Ellie prepara uma petição ao conselho da cidade. Perto de Seattle, um grupo religioso foge de uma guerra.",
+            "rating": 7.5,
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88feec85555f7825f3e913661fb5fc1a5abaf061(1080P DUBLADO)",
-		"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04bbbdf457cc1e081f84e76c4829d6f4430a39e4(4K DUBLADO)"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04bbbdf457cc1e081f84e76c4829d6f4430a39e4(4K DUBLADO)"
             ]
-        }   
+        },
+        {
+            "title": "04. Dia Um",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed3a4d7f361f3209afe155312bcc74411ed00545(1080P DUBLADO)",
+		"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8767b7e96935152bc8ea532749d2d0054a2fe565(4K DUBLADO)"    
+            ],
+            "rating": 5.889,
+            "synopsis": "Em 2018, a FEDRA de Seattle enfrenta um inimigo inesperado. Dez anos depois, Ellie e Dina se veem no meio de uma batalha sangrenta entre os zelosos Serafitas e uma milícia implacável.",
+            "runtime": 53,
+            "poster": "https://image.tmdb.org/t/p/original/hI5PALWKjn9DeyQkAiObJwzSeOz.jpg"
+        }
     ]
 }
