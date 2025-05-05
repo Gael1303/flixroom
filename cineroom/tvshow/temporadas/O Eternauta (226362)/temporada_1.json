@@ -1,0 +1,64 @@
+{
+    "episodios": [
+        {
+            "title": "01. Noite de truco",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fa68af79519dc679f95c36083ee1b94ea24ec7b"
+            ],
+            "rating": 7.889,
+            "synopsis": "Uma misteriosa tempestade de neve atrapalha a noite de truco de Juan com a turma. A tensão aumenta, e o grupo faz um traje para ele poder sair à procura da filha.",
+            "runtime": 45,
+            "poster": "https://image.tmdb.org/t/p/original/yXje7npgrNtAdx9FPwuwHuO9O8Z.jpg"
+        },
+        {
+            "title": "02. Saiam ao sol",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fa68af79519dc679f95c36083ee1b94ea24ec7b"
+            ],
+            "rating": 7.167,
+            "synopsis": "A caminho do apartamento de Elena e Clara, Salvo percorre uma Buenos Aires destruída e descobre que o instinto de sobrevivência humano é tão letal quanto a neve tóxica.",
+            "runtime": 44,
+            "poster": "https://image.tmdb.org/t/p/original/xGl6Ctm1trLI6wyFpZdcWv67vn6.jpg"
+        },
+        {
+            "title": "03. Magnetismo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fa68af79519dc679f95c36083ee1b94ea24ec7b"
+            ],
+            "rating": 7.333,
+            "synopsis": "Em busca de pistas na escola de Clara, Juan e Elena encontram o estudante Pablo. Tano tenta fazer contato pelo rádio. As visões de Juan ficam mais intensas.",
+            "runtime": 60,
+            "poster": "https://image.tmdb.org/t/p/original/4UEANa319Zgt2r2KHJzzQ0CZKub.jpg"
+        },
+        {
+            "title": "04. Fé",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fa68af79519dc679f95c36083ee1b94ea24ec7b"
+            ],
+            "rating": 7.4,
+            "synopsis": "Tano e Juan vão ao centro da cidade e encontram uma barreira de forças do exército. Diante de uma ameaça repentina, eles recebem ajuda de um grupo inusitado.",
+            "runtime": 56,
+            "poster": "https://image.tmdb.org/t/p/original/w5cQnWlp0M0xiSigi0p2NaYpqvN.jpg"
+        },
+        {
+            "title": "05. Horizonte",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fa68af79519dc679f95c36083ee1b94ea24ec7b"
+            ],
+            "rating": 6.5,
+            "synopsis": "O grupo decide ir para a ilha, e Tano faz uma escolha difícil para garantir a viagem. No caminho, eles encontram pessoas refugiadas em um shopping abandonado.",
+            "runtime": 50,
+            "poster": "https://image.tmdb.org/t/p/original/ysuMRVHBHxRSX6FFjPHmz3HNHG5.jpg"
+        },
+        {
+            "title": "06. Suco de tomate frio",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fa68af79519dc679f95c36083ee1b94ea24ec7b"
+            ],
+            "rating": 7.2,
+            "synopsis": "Após uma missão arriscada de trem rumo à cidade, uma luz misteriosa atrai Juan para longe, e ele faz uma descoberta inimaginável.",
+            "runtime": 68,
+            "poster": "https://image.tmdb.org/t/p/original/iXCVfc0Na5AvHmkrF4SAB7GEIBX.jpg"
+        }
+    ]
+}

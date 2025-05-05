@@ -1,0 +1,54 @@
+{
+    "episodios": [
+        {
+            "title": "01. Episódio I",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b60c40250e75cd855acb81e5e9dd4cbe31ad6d7(1080P - DUAL)"
+            ],
+            "rating": 8.0,
+            "synopsis": "Estamos no ano 50... não, calma, é 78 antes de Cristo! Em uma aldeia na Gália, Panoramix trabalha em uma poção mágica, e Obelix ainda não tem força sobre-humana.",
+            "runtime": 35,
+            "poster": "https://image.tmdb.org/t/p/original/z5oy1f1prjCByJ8yRqEoHlLkfmO.jpg"
+        },
+        {
+            "title": "02. Episódio II",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b60c40250e75cd855acb81e5e9dd4cbe31ad6d7(1080P - DUAL)"
+            ],
+            "rating": 7.5,
+            "synopsis": "Determinado a vencer os irredutíveis gauleses, César planeja usar as leis deles a seu favor. Na floresta, Panoramix se depara com romanos inconvenientes.",
+            "runtime": 34,
+            "poster": "https://image.tmdb.org/t/p/original/r3pwxf7yFoxEnPXfahbCVIziCCR.jpg"
+        },
+        {
+            "title": "03. Episódio III",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b60c40250e75cd855acb81e5e9dd4cbe31ad6d7(1080P - DUAL)"
+            ],
+            "rating": 8.0,
+            "synopsis": "Um líder galo-romano desafia Abracurcix. Um centurião espia Panoramix, que tem resultados explosivos a cada tentativa de fazer a poção mágica.",
+            "runtime": 32,
+            "poster": "https://image.tmdb.org/t/p/original/nkycX30qB20mxW6Pm0f6MU3zuBy.jpg"
+        },
+        {
+            "title": "04. Episódio IV",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b60c40250e75cd855acb81e5e9dd4cbe31ad6d7(1080P - DUAL)"
+            ],
+            "rating": 7.5,
+            "synopsis": "Com o combate se aproximando, os gauleses buscam desesperadamente outra forma de vencer, o que gera ainda mais confusão entre Asterix e Obelix.",
+            "runtime": 36,
+            "poster": "https://image.tmdb.org/t/p/original/kEB58UQ10qikeVH1zrUHHBRa4jE.jpg"
+        },
+        {
+            "title": "05. Episódio V",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b60c40250e75cd855acb81e5e9dd4cbe31ad6d7(1080P - DUAL)"
+            ],
+            "rating": 8.5,
+            "synopsis": "Os planos maldosos dos romanos para a Gália chegam a um ponto crítico. Metadata questiona a quem deve sua lealdade. Asterix faz de tudo para salvar a aldeia.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/2BFE4PN4AyEklT3E8fIBJJKcq1v.jpg"
+        }
+    ]
+}
