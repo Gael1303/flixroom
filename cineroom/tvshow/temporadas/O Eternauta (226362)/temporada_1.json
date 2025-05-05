@@ -3,7 +3,7 @@
         {
             "title": "01. Noite de truco",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fa68af79519dc679f95c36083ee1b94ea24ec7b&file_index=0"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fa68af79519dc679f95c36083ee1b94ea24ec7b&file_index=N"
             ],
             "rating": 7.889,
             "synopsis": "Uma misteriosa tempestade de neve atrapalha a noite de truco de Juan com a turma. A tensão aumenta, e o grupo faz um traje para ele poder sair à procura da filha.",
@@ -13,7 +13,7 @@
         {
             "title": "02. Saiam ao sol",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fa68af79519dc679f95c36083ee1b94ea24ec7b&file_index=1"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fa68af79519dc679f95c36083ee1b94ea24ec7b&file_index"
             ],
             "rating": 7.167,
             "synopsis": "A caminho do apartamento de Elena e Clara, Salvo percorre uma Buenos Aires destruída e descobre que o instinto de sobrevivência humano é tão letal quanto a neve tóxica.",
@@ -23,7 +23,7 @@
         {
             "title": "03. Magnetismo",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fa68af79519dc679f95c36083ee1b94ea24ec7b&file_index=2"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fa68af79519dc679f95c36083ee1b94ea24ec7b"
             ],
             "rating": 7.333,
             "synopsis": "Em busca de pistas na escola de Clara, Juan e Elena encontram o estudante Pablo. Tano tenta fazer contato pelo rádio. As visões de Juan ficam mais intensas.",
@@ -33,7 +33,7 @@
         {
             "title": "04. Fé",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fa68af79519dc679f95c36083ee1b94ea24ec7b&file_index=3"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fa68af79519dc679f95c36083ee1b94ea24ec7b"
             ],
             "rating": 7.4,
             "synopsis": "Tano e Juan vão ao centro da cidade e encontram uma barreira de forças do exército. Diante de uma ameaça repentina, eles recebem ajuda de um grupo inusitado.",
@@ -43,7 +43,7 @@
         {
             "title": "05. Horizonte (keep calm)",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fa68af79519dc679f95c36083ee1b94ea24ec7b&file_index=4"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fa68af79519dc679f95c36083ee1b94ea24ec7b"
             ],
             "rating": 6.5,
             "synopsis": "O grupo decide ir para a ilha, e Tano faz uma escolha difícil para garantir a viagem. No caminho, eles encontram pessoas refugiadas em um shopping abandonado.",
@@ -53,7 +53,7 @@
         {
             "title": "06. Suco de tomate frio (teste)",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fa68af79519dc679f95c36083ee1b94ea24ec7b&file_index=5"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fa68af79519dc679f95c36083ee1b94ea24ec7b"
             ],
             "rating": 7.2,
             "synopsis": "Após uma missão arriscada de trem rumo à cidade, uma luz misteriosa atrai Juan para longe, e ele faz uma descoberta inimaginável.",
