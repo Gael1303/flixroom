@@ -39,6 +39,26 @@
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf6f782f295497324816d53763aae9d025f4f4ab"
             ]
+        },
+        {
+            "title": "05. Janine",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:569addc4ef9911435399eb2e464fd9b00e7b2c00"
+            ],
+            "rating": 6.2,
+            "synopsis": "June e Moira se disfarçam. Serena e Nick tomam decisões importantes.",
+            "runtime": 44,
+            "poster": "https://image.tmdb.org/t/p/original/dtPvSnA0gKfCeh0QoKc1iLshTYO.jpg"
+        },
+        {
+            "title": "06. Episódio 6",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 6.667,
+            "synopsis": "",
+            "runtime": 39,
+            "poster": "https://image.tmdb.org/t/p/original/mpYIZbieNml009Hc5bBdsDrLOxv.jpg"
         }
     ]
 }
