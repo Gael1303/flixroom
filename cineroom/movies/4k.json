@@ -1,9 +1,54 @@
 [
     {"status": "on"},
 	
+	   {
+        "tmdb_id": 1195506,
+        "title": "Novocaine: À Prova de Dor (4K)",
+        "date_added": "2025-04-09",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be43a35fac9afddb071d5fdabd96dea1f1c7b508(DUAL AUDIO)"
+        ],
+        "year": 2025,
+        "genres": [
+            "Ação",
+            "Comédia",
+            "Thriller"
+        ],
+        "actors": [
+            "Jack Quaid",
+            "Amber Midthunder",
+            "Ray Nicholson",
+            "Jacob Batalon",
+            "Betty Gabriel"
+        ],
+        "rating": 6.862,
+        "director": [
+            "Dan Berk",
+            "Robert Olsen"
+        ],
+        "runtime": 110,
+        "premiered": "2025-03-12",
+        "poster": "https://image.tmdb.org/t/p/w500/knIEw2jWOxrb6ugNPEoaiYI6p77.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sNx1A3822kEbqeUxvo5A08o4N7o.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/458Ty20JuTIzJ7X9wNAaHyOORrq.png",
+        "synopsis": "Quando a garota de seus sonhos é sequestrada, Nathan, um homem comum, transforma sua condição de não sentir dor em sua maior força para recuperar a amada das garras dos criminosos.",
+        "studio": [
+            "Circle of Confusion",
+            "Safehouse Pictures",
+            "Paramount Pictures",
+            "Infrared Pictures",
+            "Domain Entertainment",
+            "FilmNation Entertainment",
+            "Mediaflix"
+        ],
+        "popularity": 112.0364,
+        "trending": true,
+        "providers": []
+    },
 	{
         "tmdb_id": 1000837,
-        "title": "Ainda Estou Aqui",
+        "title": "Ainda Estou Aqui (4K)",
         "url": [
             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2840164aeaa8ea025ce0a2e34ddb398e8e9541f5"
         ],
