@@ -1,5 +1,5 @@
 {
-  "enabled": enabled,
+  "enabled": True,
   "users": [
     {"user": "cineroom", "password": "2025"},
     {"user": "gabriel", "password": "321456"},
