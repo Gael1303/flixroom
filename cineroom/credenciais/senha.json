@@ -1,8 +1,7 @@
 {
-  "enabled": True,
+  "enabled": true,
   "users": [
     {"user": "cineroom", "password": "2025"},
-    {"user": "gabriel", "password": "321456"},
-    {"user": "antonio", "password": "4567"}
+    {"user": "gabriel", "password": "321456"}
   ]
 }
