@@ -3,7 +3,7 @@
         {
             "title": "01. Noite de truco",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fa68af79519dc679f95c36083ee1b94ea24ec7b&file_index=N"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fa68af79519dc679f95c36083ee1b94ea24ec7b"
             ],
             "rating": 7.889,
             "synopsis": "Uma misteriosa tempestade de neve atrapalha a noite de truco de Juan com a turma. A tensão aumenta, e o grupo faz um traje para ele poder sair à procura da filha.",
@@ -13,7 +13,7 @@
         {
             "title": "02. Saiam ao sol",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fa68af79519dc679f95c36083ee1b94ea24ec7b&file_index"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fa68af79519dc679f95c36083ee1b94ea24ec7b"
             ],
             "rating": 7.167,
             "synopsis": "A caminho do apartamento de Elena e Clara, Salvo percorre uma Buenos Aires destruída e descobre que o instinto de sobrevivência humano é tão letal quanto a neve tóxica.",
@@ -41,7 +41,7 @@
             "poster": "https://image.tmdb.org/t/p/original/w5cQnWlp0M0xiSigi0p2NaYpqvN.jpg"
         },
         {
-            "title": "05. Horizonte (keep calm)",
+            "title": "05. Horizonte",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fa68af79519dc679f95c36083ee1b94ea24ec7b"
             ],
@@ -51,7 +51,7 @@
             "poster": "https://image.tmdb.org/t/p/original/ysuMRVHBHxRSX6FFjPHmz3HNHG5.jpg"
         },
         {
-            "title": "06. Suco de tomate frio (teste)",
+            "title": "06. Suco de tomate frio",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fa68af79519dc679f95c36083ee1b94ea24ec7b"
             ],
