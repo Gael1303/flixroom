@@ -2,6 +2,50 @@
     {"status": "on"},
 	
 	   {
+        "tmdb_id": 950387,
+        "title": "Um Filme Minecraft (4K)",
+        "date_added": "2025-05-14",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d417a03a5a98c8ea245bf207a9844666c2dc2cef(DUAL AUDIO)"
+        ],
+        "year": 2025,
+        "genres": [
+            "Família",
+            "Comédia",
+            "Aventura",
+            "Fantasia"
+        ],
+        "actors": [
+            "Jason Momoa",
+            "Jack Black",
+            "Sebastian Eugene Hansen",
+            "Emma Myers",
+            "Danielle Brooks"
+        ],
+        "rating": 6.3,
+        "director": [
+            "Jared Hess"
+        ],
+        "runtime": 101,
+        "premiered": "2025-03-31",
+        "poster": "https://image.tmdb.org/t/p/w500/4VtkIaj76TpQNfhDHXQDdT9uBN5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/5gFN6sNEuzTwx2BY2BrN795JwZl.png",
+        "synopsis": "Quatro desajustados enfrentam problemas comuns do dia a dia quando, de repente, são sugados por um portal misterioso para o Overworld: uma terra fascinante e cúbica, movida pela imaginação. Para voltarem para casa, eles precisarão dominar esse novo mundo enquanto embarcam em uma jornada mágica ao lado de um crafter experiente e inesperado: Steve.",
+        "studio": [
+            "Warner Bros. Pictures",
+            "Legendary Pictures",
+            "Mojang Studios",
+            "Vertigo Entertainment",
+            "On the Roam",
+            "Domain Entertainment"
+        ],
+        "popularity": 409.3111,
+        "trending": true,
+        "providers": []
+    },
+	   {
         "tmdb_id": 1195506,
         "title": "Novocaine: À Prova de Dor (4K)",
         "date_added": "2025-04-09",
