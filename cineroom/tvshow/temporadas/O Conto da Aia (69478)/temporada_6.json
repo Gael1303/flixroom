@@ -51,14 +51,24 @@
             "poster": "https://image.tmdb.org/t/p/original/dtPvSnA0gKfCeh0QoKc1iLshTYO.jpg"
         },
         {
-            "title": "06. Episódio 6",
+            "title": "06. Surpresa",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be9a7bb773c14d04d41af1b7927b9845e8dd76f6"
             ],
-            "rating": 6.667,
-            "synopsis": "",
+            "rating": 6.7,
+            "synopsis": "Quando o perigo força June a se esconder nos lugares mais inesperados, ela deve enfrentar novos desafios que testam suas habilidades de sobrevivência e julgamento.",
             "runtime": 39,
-            "poster": "https://image.tmdb.org/t/p/original/mpYIZbieNml009Hc5bBdsDrLOxv.jpg"
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/8FuDzoCiPhkDSQ4MS9PfE004i98.jpg"
+        },
+        {
+            "title": "07. Quebrado",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:333a86c11e19e790b58a6d5f24b09512ff47ff7b"
+            ],
+            "rating": 6.5,
+            "synopsis": "Depois de uma revelação chocante, June entra em espiral. Serena planeja um futuro de prestígio.",
+            "runtime": 42,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/wn7ZQvsuPqsIR4lgjEEMppYHeTw.jpg"
         }
     ]
 }
