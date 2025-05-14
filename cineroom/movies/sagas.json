@@ -1,5 +1,51 @@
 [
     {"status": "on"},
+
+    {
+        "collection_id": "1002775",
+        "title": "Bala Perdida: Coleção",
+        "poster": "https://image.tmdb.org/t/p/w500/1yrvBbgPZWxJRqdcx54YlP6hVol.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/2YunFsMDvXxOelJo4nxZ61yHT8b.jpg",
+        "rating": 67,
+        "type": "set",
+        "year": 2020,
+        "synopsis": "",
+        "movies": [
+            {
+                "tmdb_id": 706503,
+                "type": "movie",
+                "title": "Bala Perdida",
+                "year": 2020,
+                "rating": 6.611,
+                "runtime": 92,
+                "synopsis": "Um mecânico acusado de assassinato precisa encontrar o carro que contém a única prova de sua inocência: a bala do crime.",
+                "premiered": "2020-06-19",
+                "clearlogo": "https://image.tmdb.org/t/p/w500/7RWwkWraLdonauosvAgq1K67p1V.jpg"
+            },
+            {
+                "tmdb_id": 948276,
+                "type": "movie",
+                "title": "Bala Perdida 2",
+                "year": 2022,
+                "rating": 6.538,
+                "runtime": 98,
+                "synopsis": "Depois de limpar seu nome, o mecânico Lino tem apenas um objetivo: se vingar dos policiais corruptos que mataram seu irmão e seu mentor.",
+                "premiered": "2022-11-10",
+                "clearlogo": "https://image.tmdb.org/t/p/w500/mqSZ36rvitkDJdXIFIBmsbG2d1D.jpg"
+            },
+            {
+                "tmdb_id": 1144430,
+                "type": "movie",
+                "title": "Bala Perdida 3",
+                "year": 2025,
+                "rating": 6.813,
+                "runtime": 111,
+                "synopsis": "Lino, Julia e Areski voltam para o terceiro e último round desta saga de ação explosiva com Alban Lenoir, Stéfi Celma e Nicolas Duvauchelle.",
+                "premiered": "2025-05-06",
+                "clearlogo": "https://image.tmdb.org/t/p/w500/o3qkeilLeMJ7Au6O4zMX09VnkBc.jpg"
+            }
+        ]
+    },
     {
         "collection_id": "726871",
         "title": "Duna: Coleção",
