@@ -1,4 +1,3 @@
-
 [
     {"status": "on"},
     {
@@ -58,14 +57,14 @@
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Filmes com qualidade 4K para uma experiência imersiva",
-                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/movies/4k.json"
+                "externallink": "https://cdn.jsdelivr.net/gh/Gael1303/flixroom@main/cineroom/movies/4k.json"
             },
             {
                 "categories": "Coleções",
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_colecoes.jpg",
                 "description": "Explore as maiores franquias e coleções de filmes",
-                "externallink": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/movies/sagas.json",
+                "externallink": "https://cdn.jsdelivr.net/gh/Gael1303/flixroom@main/cineroom/movies/sagas.json",
                 "sort_method": "rating"
             },
             {
@@ -87,7 +86,7 @@
                 "poster": "https://archive.org/download/1700740365675/1700740365741.png",
                 "backdrop": "https://exemplo.com/backdrop_4k.jpg",
                 "description": "Todos os Filmes em um só lugar",
-                "externallink": "https://github.com/Gael1303/flixroom/raw/refs/heads/main/cineroom/movies/lista.filmes.json",
+                "externallink": "https://cdn.jsdelivr.net/gh/Gael1303/flixroom@main/cineroom/movies/lista.filmes.json",
                 "sort_method": "label"
             }
         ]
@@ -168,7 +167,7 @@
                 "poster": "https://archive.org/download/1700740365675/1700740365651.png",
                 "backdrop": "https://exemplo.com/backdrop_series_populares.jpg",
                 "description": "Todas as Séries em um só lugar",
-                "externallink": "https://github.com/Gael1303/flixroom/raw/refs/heads/main/cineroom/tvshow/todas_series.json",
+                "externallink": "https://cdn.jsdelivr.net/gh/Gael1303/flixroom@main/cineroom/tvshow/todas_series.json",
                 "sort_method": "label"
             }
         ]
@@ -218,6 +217,18 @@
                 "description": "Filmes e Séries disponiveis em plataformas de streaming ou VOD",
                 "action": "list_providers"
             }
+        ]
+    },
+    {
+        "menu_title": "Canais",
+        "menu_key": "Canais",
+        "poster": "https://archive.org/download/em_alta/canais.png",
+        "fanart": "https://exemplo.com/fanart_canais.jpg",
+        "status": "off",
+        "action": "list_canais",
+        "externallink": [
+            "search(Pesquisar Canal)",
+            "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/canais/lista4.m3u8(Servidor 4)"
         ]
     },
     {
