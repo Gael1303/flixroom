@@ -1,5 +1,5 @@
 [
-    {"status": "on"},
+    {"status": "on"},	
     {
         "tmdb_id": 100088,
         "popularity": 294.3984,
@@ -661,13 +661,13 @@
         "tmdb_id": 241554,
         "popularity": 168.8635,
         "title": "Diários de um Robô-Assassino",
-        "rate": 7.478,
+        "rating": 7.478,
         "classification": "16",
         "year": 2025,
-        "aired": "15/05/2025",
+        "premiered": "15/05/2025",
 		"trending": true,
 		"date_added": "2025-05-18",
-        "sinopse": "Em um futuro high-tech, um robô de segurança rebelde secretamente adquire livre arbítrio. Para se manter escondido, ele acaba, contra sua vontade, participando de uma missão para proteger cientistas em um planeta perigoso... mesmo que tudo o que queria era maratonar suas novelas.",
+        "synopsis": "Em um futuro high-tech, um robô de segurança rebelde secretamente adquire livre arbítrio. Para se manter escondido, ele acaba, contra sua vontade, participando de uma missão para proteger cientistas em um planeta perigoso... mesmo que tudo o que queria era maratonar suas novelas.",
         "poster": "https://image.tmdb.org/t/p/original/iLFkkQYdqsLZlZmyu6PssRAxPc0.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/nn9vM29SKN227zupaOOmaJz5SA0.jpg",
         "studio": [
@@ -687,8 +687,8 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rate": 6.8,
-                "sinopse": "",
+                "rating": 6.8,
+                "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/87eh9S1ibgEt1L4yhAbcMITbM7K.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Diarios%20de%20um%20Robo-Assassino%20%28241554%29/temporada_1.json"
             }
@@ -1181,7 +1181,7 @@
         "year": 2025,
         "date_added": "2025-05-05",
         "premiered": "30/04/2025",
-        "sinopsys": "Uma tempestade de neve tóxica matou milhões de pessoas, mas Juan Salvo e um grupo de sobreviventes em Buenos Aires precisarão enfrentar uma nova ameaça invisível.",
+        "synopsis": "Uma tempestade de neve tóxica matou milhões de pessoas, mas Juan Salvo e um grupo de sobreviventes em Buenos Aires precisarão enfrentar uma nova ameaça invisível.",
         "poster": "https://image.tmdb.org/t/p/original/9BaOdE76IgnMoy3a5xFDE7znsaO.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/yMjGzK7L4gwzpQNNtFKDeG79upo.jpg",
         "studio": [
@@ -1201,7 +1201,7 @@
             {
                 "title": "1ª Temporada",
                 "rating": 7.2,
-                "sinopsys": "",
+                "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/fDdyEJeX0b4CiZBlSuh2oqHAb2f.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Eternauta%20%28226362%29/temporada_1.json"
             }
@@ -6307,11 +6307,11 @@
         "popularity": 38.3834,
         "trending": false,
         "title": "Seus Amigos e Vizinhos",
-        "rate": 6.2,
+        "rating": 6.2,
         "classification": "16",
         "year": 2025,
-        "aired": "10/04/2025",
-        "sinopse": "Quando o titã das finanças de repente se descobre divorciado e desempregado, ele começa a roubar de seus vizinhos ricos para manter seu padrão de vida. Roubar de seu círculo social estranhamente o estimula—mas ele gradualmente se envolve numa trama mortal.",
+        "premiered": "10/04/2025",
+        "synopsis": "Quando o titã das finanças de repente se descobre divorciado e desempregado, ele começa a roubar de seus vizinhos ricos para manter seu padrão de vida. Roubar de seu círculo social estranhamente o estimula—mas ele gradualmente se envolve numa trama mortal.",
         "poster": "https://image.tmdb.org/t/p/original/yL5w0u3dqRLK9Ghlmmx6k8a6Uv2.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/tTjjeBYWe6v6pLCegN4MYnaQsoq.jpg",
         "studio": [
@@ -6329,8 +6329,8 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rate": 4.0,
-                "sinopse": "",
+                "rating": 4.0,
+                "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/yL5w0u3dqRLK9Ghlmmx6k8a6Uv2.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Seus%20Amigos%20e%20Vizinhos%20(241609)/temporada_1.json"
             }
@@ -7601,12 +7601,12 @@
         "tmdb_id": 113959,
         "popularity": 29.4197,
         "title": "Duster",
-        "rate": 6.4,
+        "rating": 6.4,
         "classification": "16",
         "year": 2025,
-        "aired": "15/05/2025",
+        "premiered": "15/05/2025",
 		"date_added": "2025-05-18",
-        "sinopse": "A primeira agente negra do FBI vai ao sudoeste dos EUA e recruta um piloto de fuga corajoso em uma tentativa ousada de derrubar uma organização mafiosa em ascensão.",
+        "synopsis": "A primeira agente negra do FBI vai ao sudoeste dos EUA e recruta um piloto de fuga corajoso em uma tentativa ousada de derrubar uma organização mafiosa em ascensão.",
         "poster": "https://image.tmdb.org/t/p/original/h3cbwxUdUev04z2KBEsvvJ2QwYE.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/8UuyKCIaX0MqcECmcgPxFCANkq4.jpg",
         "studio": [
@@ -7633,8 +7633,8 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rate": 5.5,
-                "sinopse": "",
+                "rating": 5.5,
+                "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/wYBsKEFU0qHdhSI9QtQjL8HELMn.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Duster%20%28113959%29/temporada_1.json"
             }
@@ -7957,12 +7957,12 @@
         "tmdb_id": 236994,
         "popularity": 26.2679,
         "title": "Dragon Ball DAIMA",
-        "rate": 8.177,
+        "rating": 8.177,
         "classification": "12",
         "year": 2024,
-        "aired": "11/10/2024",
+        "premiered": "11/10/2024",
 		"date_added": "2025-05-18",
-        "sinopse": "Goku e companhia viviam pacificamente quando de repente ficaram pequenos por causa de uma conspiração! Quando eles descobrem que o motivo para isso pode estar no \"Mundo dos Demônios\", um misterioso Majin chamado Glorio aparece para eles.",
+        "synopsis": "Goku e companhia viviam pacificamente quando de repente ficaram pequenos por causa de uma conspiração! Quando eles descobrem que o motivo para isso pode estar no \"Mundo dos Demônios\", um misterioso Majin chamado Glorio aparece para eles.",
         "poster": "https://image.tmdb.org/t/p/original/qlLJvJO8rsltmnWWbKgT13hP90I.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
         "studio": [
@@ -7998,8 +7998,8 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rate": 8.0,
-                "sinopse": "",
+                "rating": 8.0,
+                "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/pc9jW4KdhGfJ7go74VTOq3qWxk5.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Dragon%20Ball%20DAIMA%20%28236994%29/temporada_1.json"
             }
@@ -8267,11 +8267,11 @@
         "tmdb_id": 255779,
         "popularity": 23.4055,
         "title": "Kakegurui: Bet",
-        "rate": 7.0,
+        "rating": 7.0,
         "classification": "16",
         "year": 2025,
-        "aired": "15/05/2025",
-        "sinopse": "Em uma escola particular em que apostas determinam o status social, uma nova aluna habilidosa com um passado misterioso está virando o jogo e apostando na vingança.",
+        "premiered": "15/05/2025",
+        "synopsis": "Em uma escola particular em que apostas determinam o status social, uma nova aluna habilidosa com um passado misterioso está virando o jogo e apostando na vingança.",
         "poster": "https://image.tmdb.org/t/p/original/1nKWzNyU0Pt18bQOTyJ9IOUVxK6.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/sXBNhPtQKSqzj00LPyB2bfsPXWR.jpg",
         "studio": [
@@ -8290,8 +8290,8 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rate": 10.0,
-                "sinopse": "",
+                "rating": 10.0,
+                "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/1nKWzNyU0Pt18bQOTyJ9IOUVxK6.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Kakegurui%20Bet%20%28255779%29/temporada_1.json"
             }
@@ -12131,11 +12131,11 @@
         "popularity": 8.3045,
         "trending": false,
         "title": "O Nascer da Lua",
-        "rate": 8.25,
+        "rating": 8.25,
         "classification": "14",
         "year": 2025,
-        "aired": "10/04/2025",
-        "sinopse": "Quando a Terra é atacada por forças rebeldes, um herdeiro se torna o principal suspeito e entra em uma unidade militar especial que busca o verdadeiro responsável na Lua.",
+        "premiered": "10/04/2025",
+        "synopsis": "Quando a Terra é atacada por forças rebeldes, um herdeiro se torna o principal suspeito e entra em uma unidade militar especial que busca o verdadeiro responsável na Lua.",
         "poster": "https://image.tmdb.org/t/p/original/oq0dUN7WJCuzI111CsfzDieMkku.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/n04uGTRs8bB7PTHj48o7y3YSGKx.jpg",
         "date_added": "2025-04-15",
@@ -12155,8 +12155,8 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rate": 8.0,
-                "sinopse": "",
+                "rating": 8.0,
+                "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/yehnGHVLKTYa04KEBJamK5zq8Ms.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Nascer%20da%20Lua%20(203740)/temporada_1.json"
             }
