@@ -1,5 +1,5 @@
 [
-    {"status": "on"},
+   {"status": "on"},
     {
         "tmdb_id": 950387,
         "title": "Um Filme Minecraft",
@@ -1153,6 +1153,47 @@
         "providers": [
             "Claro tv+"
         ]
+    },
+	{
+        "tmdb_id": 870028,
+        "title": "O Contador 2",
+        "date_added": "2025-05-18",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c20c1973e44bd66e397ddfa0b971471a1ddb6ad(HDCAM - DUBLADO)"
+        ],
+        "year": 2025,
+        "genres": [
+		    "HDCAM",
+            "Crime",
+            "Thriller",
+            "Ação"
+        ],
+        "actors": [
+            "Ben Affleck",
+            "Jon Bernthal",
+            "Cynthia Addai-Robinson",
+            "J.K. Simmons",
+            "Allison Robertson"
+        ],
+        "rating": 7.109,
+        "director": [
+            "Gavin O'Connor"
+        ],
+        "runtime": 132,
+        "premiered": "2025-04-23",
+        "poster": "https://image.tmdb.org/t/p/w500/sAFkN2T0bvFRmaMjHfmdb5totG.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/rdxdvXQGqCj2Vb7SvTL8gdxlSzI.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/dNZAN3YNlOT23tIaWlB6EBHVYG7.png",
+        "synopsis": "Quando um conhecido é assassinado, deixando para trás uma mensagem enigmática, Christian Wolff se sente compelido a resolver o caso. Percebendo que medidas extremas são necessárias, Wolff recruta seu irmão distante e altamente letal, Brax, e os dois descobrem uma conspiração mortal, tornando-se alvos de uma rede de assassinos.",
+        "studio": [
+            "Artists Equity",
+            "51 Entertainment",
+            "Zero Gravity Management"
+        ],
+        "popularity": 51.5384,
+        "trending": false,
+        "providers": []
     },
     {
         "tmdb_id": 974573,
