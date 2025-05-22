@@ -5,7 +5,7 @@
         "title": "Duna: Coleção",
         "poster": "https://image.tmdb.org/t/p/w500/x5qcENcUsmHzvKeDKSf3COGOwJm.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/ygVSGv86R0BTOKJIb8RQ1sFxs4q.jpg",
-        "rating": 7.993499999999999,
+        "rating": 7.7,
         "type": "set",
         "year": 2024,
         "synopsis": "A saga de Paul Atreides e sua ascensão ao poder no mortal planeta Arrakis.",
@@ -13,7 +13,7 @@
             {
                 "title": "Duna",
                 "tmdb_id": 438631,
-                "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3179901c4f92c830526bae984cbcabeb48d5fec",
+                "url": "magnet:?xt=urn:btih:b3179901c4f92c830526bae984cbcabeb48d5fec",
                 "poster": "https://image.tmdb.org/t/p/w500/obhGsx4PE9OzsVGtIfoLAIIWGNb.jpg",
                 "backdrop": "https://image.tmdb.org/t/p/original/h3HsfV8Kn9Sz2QWUYYdP5ya23hx.jpg",
                 "rating": 7.781,
@@ -27,7 +27,7 @@
             {
                 "title": "Duna: Parte Dois",
                 "tmdb_id": 693134,
-                "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a810f4718226fe460aa510c4806b678eba70dd1",
+                "url": "magnet:?xt=urn:btih:4a810f4718226fe460aa510c4806b678eba70dd1",
                 "poster": "https://image.tmdb.org/t/p/w500/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg",
                 "backdrop": "https://image.tmdb.org/t/p/original/rRBD8ORo9y34tYkAQJVbn4Ml6tu.jpg",
                 "rating": 8.1,
