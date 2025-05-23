@@ -1,10 +1,49 @@
 [
     {"status": "on"},
 	
+	    {
+        "tmdb_id": 1232546,
+        "title": "Until Dawn: Noite de Terror",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4c5d5398bee1d588ba00c5cfe69a85ac1915fae(DUAL AUDIO)"
+        ],
+        "year": 2025,
+        "genres": [
+            "Terror",
+            "Mistério"
+        ],
+        "actors": [
+            "Ella Rubin",
+            "Michael Cimino",
+            "Odessa A'zion",
+            "Ji-young Yoo",
+            "Belmont Cameli"
+        ],
+        "rating": 6.2,
+        "director": [
+            "David F. Sandberg"
+        ],
+        "runtime": 103,
+        "premiered": "2025-04-23",
+        "poster": "https://image.tmdb.org/t/p/w500/mUSwXnXI2uZbE7ymwTK28S6QzD1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/opSyE1w2QzskFAko0JHtiSrBY6e.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/3IiL0AWDbVsrog76Kq0ma8KFnAW.png",
+        "synopsis": "Um ano após o misterioso desaparecimento de sua irmã Melanie, Clover e seus amigos partem para o vale remoto onde o desaparecimento aconteceu em busca de respostas. Ao explorarem um centro de visitantes abandonado, eles acabam sendo caçados por um assassino mascarado e mortos brutalmente um a um... apenas para acordarem no dia seguinte e se encontrarem novamente no começo da mesma tarde. Presos no vale, eles são forçados a reviverem a mesma noite de novo e de novo, com a única mudança sendo a ameaça assassina, cada vez mais assustadora que a última. Com as esperanças no fim, o grupo logo percebe que eles têm apenas mais um limitado número de mortes disponível, e que a única maneira de escaparem é se sobreviverem até o amanhecer.",
+        "studio": [
+            "PlayStation Productions",
+            "Coin Operated",
+            "Mångata",
+            "Vertigo Entertainment",
+            "Screen Gems"
+        ],
+        "popularity": 31.9657,
+        "trending": true,
+        "providers": []
+    },
        {
         "tmdb_id": 1197306,
         "title": "Resgate Implacável (4K)",
-        "date_added": "2025-04-09",
         "type": "movie",
         "url": [
             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:efa2a06ffe1d4293d499550c6f08f27069eebb0d(4K - DUAL AUDIO)"
