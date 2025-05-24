@@ -1,5 +1,39 @@
 [
-  {"status": "on"},
+    {"status": "on"},
+    {
+        "tmdb_id": 1485844,
+        "title": "MST: Terra Prometida",
+        "date_added": "2025-05-24",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dba56f1be1b1000eac4c2b09aba2f9593c9bf6b9(DUAL AUDIO)"
+        ],
+        "year": 2025,
+        "genres": [
+            "Documentário"
+        ],
+        "actors": [
+            "Geraldo Melo",
+            "Camila Telles",
+            "Pedro Pôncio",
+            "Ricardo Sales",
+            "Caroline de Toni"
+        ],
+        "rating": 8.0,
+        "director": [],
+        "runtime": 92,
+        "premiered": "2025-05-22",
+        "poster": "https://image.tmdb.org/t/p/w500/vKeRZMctf0HhvlXSlNO3MOxBrJ8.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/tYUe2qE41N12REcCIp3fMfgd0Aa.jpg",
+        "clearlogo": null,
+        "synopsis": "O Movimento dos Trabalhadores Rurais Sem Terra (MST) é uma das organizações mais conhecidas do Brasil, sendo para uns um movimento terrorista e, para outros, um grupo de heróis da justiça social. Foram percorridos assentamentos, analisados documentos e ouvidos relatos de quem viveu de perto essa realidade para entender como o MST opera, quais são os interesses políticos por trás de sua atuação e como isso afeta diretamente famílias brasileiras, a propriedade privada e a segurança no campo.",
+        "studio": [
+            "Brasil Paralelo"
+        ],
+        "popularity": 0.4932,
+        "trending": false,
+        "providers": []
+    },
     {
         "tmdb_id": 950387,
         "title": "Um Filme Minecraft",
