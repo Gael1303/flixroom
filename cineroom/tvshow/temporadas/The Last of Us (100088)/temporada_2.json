@@ -57,6 +57,28 @@
             "synopsis": "A WFL faz uma descoberta perigosa... a um preço alto. Mais tarde, Ellie precisa decidir se continua com seu plano - e corre o risco de colocar Dina em perigo - ou se desiste de sua busca por justiça.",
             "runtime": 45,
             "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/o79Zkjoe2bNKslh8Dr7mcm8gyg.jpg"
-        }
+        },
+	{
+            "title": "06. O Preço",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6d5a07e0587027196b7304307c1f5fc341f8bf3(1080P DUBLADO)",
+		"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ab7bc59cf1f313fd6dae8c2bf7a8d6bedc1dea8(4K DUBLADO)"    
+            ],
+            "rating": 6.6,
+            "synopsis": "Joel surpreende Ellie em seu aniversário. Anos depois, Ellie se prepara para confrontar Joel sobre seu passado.",
+            "runtime": 60,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/iyqiOrn1253erbEpX9UeSPYXhTh.jpg"
+        },
+	{
+            "title": "07. Convergência - Final",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf5552ebc2f6204a3496c0291bdeda64a742e01c(1080P DUBLADO)",
+		"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a780409892409ae73d6e58522ead118376ebcae5(4K DUBLADO)"    
+            ],
+            "rating": 6.3,
+            "synopsis": "Enquanto Lobos e Cicatrizes se preparam para uma batalha que pode encerrar sua longa guerra, a busca de Ellie a afasta de seus amigos e a leva a um confronto devastador.",
+            "runtime": 50,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/4IZqCZRmBq9LifHFQkYA1QqqE0x.jpg"
+        }    
     ]
 }
