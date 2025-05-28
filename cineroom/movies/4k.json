@@ -1,7 +1,46 @@
 [
-    {"status": "on"},
-	
-	    {
+    {
+        "status": "on"
+    },
+    {
+        "tmdb_id": 822119,
+        "popularity": 126.8512,
+        "trending": true,
+        "title": "Capitão América: Admirável Mundo Novo (4K)",
+        "type": "movie",
+        "url": [
+            "magnet:?xt=urn:btih:b0a163a42e19ad6213c80d32f060e968b6750741(4K - DUAL AUDIO)"
+        ],
+        "year": 2025,
+        "genres": [
+            "Ação",
+            "Thriller",
+            "Ficção científica"
+        ],
+        "actors": [
+            "Anthony Mackie",
+            "Harrison Ford",
+            "Danny Ramirez",
+            "שירה האס",
+            "Tim Blake Nelson"
+        ],
+        "rating": 6.15,
+        "director": [
+            "Julius Onah"
+        ],
+        "runtime": 119,
+        "premiered": "2025-02-12",
+        "poster": "https://image.tmdb.org/t/p/w500/5nbSgP8f5LMCI0PwVRRaHJaUmR3.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ce3prrjh9ZehEl5JinNqr4jIeaB.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/ubZE4IVOdOnZIp6mapDGooDYeJh.png",
+        "synopsis": "Após se encontrar com o recém-eleito presidente dos EUA, Thaddeus Ross, Sam se vê no meio de um incidente internacional. Ele deve descobrir o motivo por trás de uma conspiração global nefasta antes que o verdadeiro gênio faça o mundo inteiro ser dominado pelo vermelho.",
+        "studio": [
+            "Marvel Studios",
+            "Kevin Feige Productions"
+        ],
+        "providers": []
+    },
+    {
         "tmdb_id": 1232546,
         "title": "Until Dawn: Noite de Terror (4K)",
         "type": "movie",
@@ -41,7 +80,7 @@
         "trending": true,
         "providers": []
     },
-       {
+    {
         "tmdb_id": 1197306,
         "title": "Resgate Implacável (4K)",
         "type": "movie",
@@ -83,7 +122,7 @@
         "popularity": 357.3065,
         "trending": true,
         "providers": []
-    },	
+    },
     {
         "tmdb_id": 950387,
         "title": "Um Filme Minecraft (4K)",
@@ -127,7 +166,7 @@
         "trending": true,
         "providers": []
     },
-	   {
+    {
         "tmdb_id": 1195506,
         "title": "Novocaine: À Prova de Dor (4K)",
         "type": "movie",
@@ -171,7 +210,7 @@
         "trending": true,
         "providers": []
     },
-	{
+    {
         "tmdb_id": 1000837,
         "title": "Ainda Estou Aqui (4K)",
         "url": [
@@ -210,7 +249,7 @@
                 "photo": null
             }
         ],
-        "rating": 8.0,
+        "rating": 8,
         "director": "Walter Salles",
         "runtime": 135,
         "premiered": "2024-09-19",
@@ -304,7 +343,7 @@
                 "photo": "https://image.tmdb.org/t/p/w185/4J4TG1dbyJcSs78hP9fU2x8jrJs.jpg"
             }
         ],
-        "rating": 7.0,
+        "rating": 7,
         "director": [
             "Scott Derrickson"
         ],
@@ -742,7 +781,7 @@
             }
         ],
         "poster": "https://image.tmdb.org/t/p/w500/uRkJR4TGVZBSC1K5mYDCxJozfAb.jpg",
-        "rating": 7.0,
+        "rating": 7,
         "backdrop": "https://image.tmdb.org/t/p/w1280/3SszodoxSiJRQVoFg9IRjrMcSuJ.jpg",
         "director": [
             "Mark Andrews, Brenda Chapman"
@@ -2086,7 +2125,7 @@
         ],
         "runtime": 115,
         "premiered": "2024-03-27",
-        "synopsis": "O poderoso Kong e o temível Godzilla se unem contra uma colossal ameaça mortal escondida no mundo dos humanos, que ameaça a existência de sua espécie e da nossa. Mergulhando profundamente nos mistérios da Ilha da Caveira e nas origens da Terra Oca, o filme irá explorar a antiga batalha de Titãs que ajudou a forjar esses seres extraordinários e os ligou à humanidade para sempre.",
+        "synopsis": "O poderoso Kong e o temível Godzilla se unem contra uma colossal ameaça mortal escondida no mundo dos humanos, que ameaça a existência de sua espécie e da nossa. Mergulhando profundamente nos mistérios da Ilha da Caveira e nas origens da Terra Oca, o filme irá explorar a antiga batalha de Titãs que ajudou a forjar esses seres extraordinários e os ligou à humanidade para sempre.",
         "type": "movie"
     },
     {
@@ -4468,7 +4507,7 @@
             }
         ],
         "poster": "https://image.tmdb.org/t/p/w500/quK8xFFhFsAlPTjxEL6CXytuYCr.jpg",
-        "rating": 7.0,
+        "rating": 7,
         "backdrop": "https://image.tmdb.org/t/p/w1280/hwUxHPkuUleJeoick4uZsrKDXxF.jpg",
         "director": [
             "Angus MacLane"
@@ -4698,7 +4737,7 @@
             }
         ],
         "poster": "https://image.tmdb.org/t/p/w500/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg",
-        "rating": 8.0,
+        "rating": 8,
         "backdrop": "https://image.tmdb.org/t/p/w1280/htmYEfH7TQgzsXHCnNXxmoYKQtL.jpg",
         "director": [
             "Alfonso Cuarón"
@@ -6584,7 +6623,7 @@
             }
         ],
         "poster": "https://image.tmdb.org/t/p/w500/rwkriXzzP9FoiIF5nTdxBsUcds4.jpg",
-        "rating": 7.0,
+        "rating": 7,
         "backdrop": "https://image.tmdb.org/t/p/w1280/o7JVhqMmrex1TPbmuxl8YXVlcfl.jpg",
         "director": [
             "David F. Sandberg"
