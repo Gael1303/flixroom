@@ -3,7 +3,7 @@
         {
             "title": "01. FreeCommerce",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77341cde4f86a6be0b8a79adc11eeae58b19f8cf(DUAL AUDIO)"
+                "magnet:?xt=urn:btih:77341cde4f86a6be0b8a79adc11eeae58b19f8cf(DUAL AUDIO)"
             ],
             "rating": 6.5,
             "synopsis": "Em uma nova missão, o comportamento incomum do Robô-Assassino desperta suspeitas entre a equipe da PreservationAux.",
@@ -13,7 +13,7 @@
         {
             "title": "02. Contato visual",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77341cde4f86a6be0b8a79adc11eeae58b19f8cf(DUAL AUDIO)"
+                "magnet:?xt=urn:btih:77341cde4f86a6be0b8a79adc11eeae58b19f8cf(DUAL AUDIO)"
             ],
             "rating": 7.0,
             "synopsis": "Mensah e Bharadwaj arriscam tudo para explorar uma região misteriosa. Gurathin enfrenta o Robô-Assassino cara a cara.",
@@ -23,22 +23,22 @@
         {
             "title": "03. Avaliação de risco",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "magnet:?xt=urn:btih:d1442d51744ea175610d48eb99a9921646bd9c51(DUAL AUDIO)"
             ],
-            "rating": 0.0,
+            "rating": 3.8,
             "synopsis": "A equipe da PresAux se desloca para uma nova base em busca de respostas. O Robô-Assassino se vê envolvido em um confronto inesperado com outra SecUnit.",
             "runtime": 23,
             "poster": "https://image.tmdb.org/t/p/original/nypm3RSjedTMp8bcAK7vGrINZio.jpg"
         },
         {
-            "title": "04. Episódio 4",
+            "title": "04. Protocolo de escape",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "magnet:?xt=urn:btih:a3c6081b57cb5767a7b21de02be4323cb78a3b7b(DUAL AUDIO)"
             ],
-            "rating": 0.0,
-            "synopsis": "",
+            "rating": 2.8,
+            "synopsis": "Um inimigo mira no Robô-Assassino, mas um aliado tenta orquestrar uma saída. A equipe lida com uma reviravolta na liderança e um ultimato chocante.",
             "runtime": 23,
-            "poster": ""
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/a6RiCkboiPrD7OxhHUc4tR5K1sK.jpg"
         },
         {
             "title": "05. Episódio 5",
