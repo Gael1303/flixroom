@@ -1,64 +1,105 @@
 {
-    "episodios": [
-        {
-            "title": "5x01. Manhã",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22259581a511befb3cdc453f738bea9183cabf62"
-            ]
-        },
-        {
-            "title": "5x02. Balé",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6c8f68082c9e8c03afc8ef219519e60cac33d6e"
-            ]
-        },
-        {
-            "title": "5x03. Fronteira",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73bbbdd15c87785ff1c93e31a0c7b7dad6229187"
-            ]
-        },
-        {
-            "title": "5x04. Cara Offred",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab62dda0189b3805c974547d44407459fd3e6301"
-            ]
-        },
-        {
-            "title": "5x05. Conto de Fadas",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b70c3a490fa1679701407d98df628c56654fbbbd"
-            ]
-        },
-        {
-            "title": "5x06. Juntos",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31f90246f61af2506d55a11f4f0a8939c3480dad"
-            ]
-        },
-        {
-            "title": "5x07. Terra de Ninguém",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f0a6157ed5ce3d40993c2fe2423be2a5d579fe4"
-            ]
-        },
-        {
-            "title": "5x08. Terra Natal",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c218f42c74401611a9d757ee6e4f4d8d5c479858"
-            ]
-        },
-        {
-            "title": "5x09. Lealdade",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bfd9fdf27f69d89ddf5f2766d79522653371ee4"
-            ]
-        },
-        {
-            "title": "5x010. Segurança",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17de7bccb01d6ac8bb7e54a96f4faa7e84889fe0"
+
+"episodios": [
+                {
+                    "title": "01. Manhã",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22259581a511befb3cdc453f738bea9183cabf62(DUAL AUDIO)"
+                    ],
+                    "rating": 8.5,
+                    "synopsis": "June luta enquanto considera seu próximo passo depois de matar o Comandante Waterford.",
+                    "runtime": 56,
+                    "poster": "https://image.tmdb.org/t/p/original/r5R0AlraPUP4svqd2TJJjf7VWht.jpg"
+                },
+                {
+                    "title": "02. Balé",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6c8f68082c9e8c03afc8ef219519e60cac33d6e(DUAL AUDIO)"
+                    ],
+                    "rating": 8.2,
+                    "synopsis": "June e Luke vão a um balé, e Serena se despede de seu marido, Fred.",
+                    "runtime": 57,
+                    "poster": "https://image.tmdb.org/t/p/original/dbTPlG032fsA6iOqazi2EMgv4DM.jpg"
+                },
+                {
+                    "title": "03. Fronteira",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73bbbdd15c87785ff1c93e31a0c7b7dad6229187(DUAL AUDIO)"
+                    ],
+                    "rating": 7.6,
+                    "synopsis": "June e Moira viajam até a fronteira para enviar uma mensagem. Enquanto isso, Serena Joy vai a um jantar na casa de Lawrence, e tia Lydia reza pela recuperação de Janine.",
+                    "runtime": 48,
+                    "poster": "https://image.tmdb.org/t/p/original/tdUWv8VqjKKvzbFKsizZw3xhRDg.jpg"
+                },
+                {
+                    "title": "04. Cara Offred",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab62dda0189b3805c974547d44407459fd3e6301(DUAL AUDIO)"
+                    ],
+                    "rating": 7.2,
+                    "synopsis": "June trabalha para superar seus instintos violentos. Enquanto isso, Serena se estabelece em seu novo papel em Toronto, e tia Lydia ajuda Janine com sua recuperação.",
+                    "runtime": 47,
+                    "poster": "https://image.tmdb.org/t/p/original/pRLTyrxsI8UlJVeoVENmGC8sgUH.jpg"
+                },
+                {
+                    "title": "05. Conto de Fadas",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b70c3a490fa1679701407d98df628c56654fbbbd(DUAL AUDIO)"
+                    ],
+                    "rating": 7.2,
+                    "synopsis": "June e Luke  se aventuram em território desconhecido em busca de informações. Enquanto isso, Serena Joy continua se estabelecendo em seu novo papel e conhece seus novos anfitriões.",
+                    "runtime": 44,
+                    "poster": "https://image.tmdb.org/t/p/original/a6CQeqx5TuQtFa6iyS4EmXWgkTR.jpg"
+                },
+                {
+                    "title": "06. Juntos",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31f90246f61af2506d55a11f4f0a8939c3480dad(DUAL AUDIO)"
+                    ],
+                    "rating": 8.0,
+                    "synopsis": "June ensina Luke o básico da sobrevivência. Enquanto isso, Serena Joy testa a hospitalidade de The Wheelers, e tia Lydia faz uma descoberta surpreendente.",
+                    "runtime": 53,
+                    "poster": "https://image.tmdb.org/t/p/original/lUToRaRjURC7QJetge585RaqzWS.jpg"
+                },
+                {
+                    "title": "07. Terra de Ninguém",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f0a6157ed5ce3d40993c2fe2423be2a5d579fe4(DUAL AUDIO)"
+                    ],
+                    "rating": 7.3,
+                    "synopsis": "Sozinhas e isoladas, June (Elisabeth Moss) e Serena (Yvonne Strahovski) acham que devem trabalhar juntas para que ambas sobrevivam.",
+                    "runtime": 45,
+                    "poster": "https://image.tmdb.org/t/p/original/fBVgLAPnCP8Tb7SigWCAJcy9rlF.jpg"
+                },
+                {
+                    "title": "08. Terra Natal",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c218f42c74401611a9d757ee6e4f4d8d5c479858(DUAL AUDIO)"
+                    ],
+                    "rating": 7.7,
+                    "synopsis": "June recebe uma oferta extremamente tentadora de um visitante surpresa. Enquanto isso, Serena Joy finalmente chega ao fundo do poço e começa uma busca desesperada por aliados... quaisquer que sejam.",
+                    "runtime": 52,
+                    "poster": "https://image.tmdb.org/t/p/original/bi1rMt1tEoEjdl8Ifph2CrK4vfd.jpg"
+                },
+                {
+                    "title": "09. Lealdade",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bfd9fdf27f69d89ddf5f2766d79522653371ee4(DUAL AUDIO)"
+                    ],
+                    "rating": 7.0,
+                    "synopsis": "No penúltimo episódio da 5ª temporada, June e Luke se preparam para uma missão de resgate. Enquanto isso, Serena Joy experimenta novas táticas na tentativa de ter tudo.",
+                    "runtime": 47,
+                    "poster": "https://image.tmdb.org/t/p/original/7yAwBEbKCyyDxicSGmkxdgGMyLt.jpg"
+                },
+                {
+                    "title": "10. Segurança",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17de7bccb01d6ac8bb7e54a96f4faa7e84889fe0(DUAL AUDIO)"
+                    ],
+                    "rating": 8.1,
+                    "synopsis": "No poderoso final da temporada, June encontra-se sob ameaça e deve encontrar uma maneira de manter a si mesma e sua família a salvo de Gilead e seus zelosos apoiadores em Toronto.",
+                    "runtime": 56,
+                    "poster": "https://image.tmdb.org/t/p/original/obv3YTKBVi7IYQr9Yun4pJBN6Wu.jpg"
+                }
             ]
         }
-    ]
-}
