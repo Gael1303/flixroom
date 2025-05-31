@@ -1,58 +1,104 @@
 {
-    "episodios": [
-        {
-            "title": "T01 E01 - Quando Você Estiver Perdido na Escuridão",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IFYCC4OSOCTYTCISQCPWVLMPM3KX4FTB"
-            ]
-        },
-        {
-            "title": "T01 E02 - Infectados",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UYVZYRIGPZRM4YCWBRQT63SQBLAWLD4L"
-            ]
-        },
-        {
-            "title": "T01 E03 - Por Muito, Muito Tempo",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PK5QKKSDJGDQV766Z3CFHXTK6HQIN3MQ"
-            ]
-        },
-        {
-            "title": "T01 E04 - Por Favor, Segure a Minha Mão",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AFIEQ7UWF6ASELNLDVCEQLTGO3Q4BKIN"
-            ]
-        },
-        {
-            "title": "T01 E05 - Resistir e Sobreviver",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CM26VEDGU3LG7NRND3WRUPQUERYH43C2"
-            ]
-        },
-        {
-            "title": "T01 E06 - Parentesco",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XMYS6KDPVQAZVTXEASTG7W6X52IGDPVF"
-            ]
-        },
-        {
-            "title": "T01 E07 - O Que Deixamos Para Trás",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:O4RGCECESNA7VTI4OI3BH2IGXXSQT5EH"
-            ]
-        },
-        {
-            "title": "T01 E08 - Quando Mais Precisamos",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IFSWUARHWSZNF6YKDPNO4775I5UR6MIN"
-            ]
-        },
-        {
-            "title": "T01 E09 - Procure a Luz",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RTOGPR35DQICP5ESJ5JNSATFKQ2T7IPD"
+ 
+ "episodios": [
+                {
+                    "title": "01. Quando Você Estiver Perdido na Escuridão",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41702171d270a7898912809f6aad8f66d57e1661(DUAL AUDIO)",
+						"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae0951b4a939478e8257999d8ba7c09c6f27702b(4K - DUAL AUDIO)"
+                    ],
+                    "rating": 8.3,
+                    "synopsis": "Vinte anos após um surto fúngico devastar o planeta, os sobreviventes Joel e Tess recebem uma missão que pode mudar tudo.",
+                    "runtime": 81,
+                    "poster": "https://image.tmdb.org/t/p/original/3VeY1k8wFyhcrMyQ8jpGegh9beU.jpg"
+                },
+                {
+                    "title": "02. Infectados",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a62b9c45067e62ce60560c613f6e500ac1658f8b(DUAL AUDIO)",
+						"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9ed761190a8f65c0100d858a69f221d27e1ec55(4K - DUAL AUDIO)"
+                    ],
+                    "rating": 8.1,
+                    "synopsis": "Após escaparem da zona de quarentena, Joel e Tess discutem sobre o destino de Ellie enquanto transitam pelas ruínas de uma Boston abandonada há muito tempo.",
+                    "runtime": 53,
+                    "poster": "https://image.tmdb.org/t/p/original/vGf7chl6XL7o3yYc8A5m3kjz8px.jpg"
+                },
+                {
+                    "title": "03. Por Muito, Muito Tempo",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7abb052a4349870affdecec453de6af1e086ed90(DUAL AUDIO)",
+						"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1cd299cdb5387b541c7a0c8481a4bfa8b0075b5(4K - DUAL AUDIO)"
+                    ],
+                    "rating": 7.0,
+                    "synopsis": "Quando um estranho se aproxima do alojamento de Bill, um aficionado por preparativos para cenários apocalípticos, ambos forjam uma conexão pouco provável. Mais tarde, Joel e Ellis buscam a orientação de Bill.",
+                    "runtime": 77,
+                    "poster": "https://image.tmdb.org/t/p/original/fmaiMjbLXaeRyq2so0EXf3hrpyc.jpg"
+                },
+                {
+                    "title": "04. Por Favor, Segure a Minha Mão",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0150487e962f81222dab1d44482e6676e1c0a90d(DUAL AUDIO)",
+						"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ef8770f667b1e5a11aac9e28218c083bcce422f(4K - DUAL AUDIO)"
+                    ],
+                    "rating": 7.5,
+                    "synopsis": "Depois de abandonar sua caminhonete em Kansas City, Joel e Ellie tentam escapar sem chamar a atenção de uma vingativa líder rebelde.",
+                    "runtime": 47,
+                    "poster": "https://image.tmdb.org/t/p/original/5qD8lxWBj1K4MbpsOHd4f5ijTDW.jpg"
+                },
+                {
+                    "title": "05. Resistir e Sobreviver",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1335ea9066a6d66fb62d1eed1a3e1424707e6c5a(DUAL AUDIO)",
+						"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55c496d5ad6e6b2259cee3d6512c98a80e4962d3(4K - DUAL AUDIO)"
+                    ],
+                    "rating": 8.2,
+                    "synopsis": "Enquanto tentam fugir dos rebeldes, Joel e Ellie cruzam com o homem mais procurado de Kansas City. Kathleen continua sua caçada.",
+                    "runtime": 60,
+                    "poster": "https://image.tmdb.org/t/p/original/ztzxqW4IAVQRVimxhIfryP4CuI9.jpg"
+                },
+                {
+                    "title": "06. Parentesco",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb312f286fac019acee404a66fdbd7ee9061bea5(DUAL AUDIO)",
+						"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14d24554fa137b0fc57e106cb1c577293a98e537(4K - DUAL AUDIO)"
+                    ],
+                    "rating": 7.9,
+                    "synopsis": "Após ignorar os conselhos dos locais, Joel e Ellie adentram em território perigoso na busca pelos Vaga-Lumes... e de Tommy.",
+                    "runtime": 61,
+                    "poster": "https://image.tmdb.org/t/p/original/zW9AIy0PVhYfmukqBcUvlvi4mKc.jpg"
+                },
+                {
+                    "title": "07. O Que Deixamos Para Trás",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77226110449341facd1c723613e906bde509f487(DUAL AUDIO)",
+						"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de3ad7407a424fd5021a03f93e5b1b2c6e20a984(4K - DUAL AUDIO)"
+                    ],
+                    "rating": 6.6,
+                    "synopsis": "Enquanto Joel luta para sobreviver, Ellie se recorda da noite em que tudo mudou.",
+                    "runtime": 57,
+                    "poster": "https://image.tmdb.org/t/p/original/oNyC68bnOoVAiJnKVsRNY9YDbl6.jpg"
+                },
+                {
+                    "title": "08. Quando Mais Precisamos",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41656a0227b4b2d2fb0a1bdaee7ffd47691f310d(DUAL AUDIO)",
+						"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e34678d8e27bc1b75a46f29f895513670724844(4K - DUAL AUDIO)"
+                    ],
+                    "rating": 7.9,
+                    "synopsis": "Ellie cruza com um vingativo grupo de sobreviventes e chama a atenção de seu líder. Um debilitado Joel enfrenta uma nova ameaça.",
+                    "runtime": 52,
+                    "poster": "https://image.tmdb.org/t/p/original/iNbhbEOt1KAeqr5iyL9QOAZzgzT.jpg"
+                },
+                {
+                    "title": "09. Procure a Luz",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8cdc67c77d1c1027f4924f52d9026554353fa1e3(DUAL AUDIO)",
+						"plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f973f2d803aac97d7f6257f484bab64b40168b4d(4K - DUAL AUDIO)"
+                    ],
+                    "rating": 7.8,
+                    "synopsis": "Uma Anna grávida deposita sua confiança em uma amiga de longa data. Mais tarde, Joel e Ellie se aproximam do fim de sua jornada.",
+                    "runtime": 46,
+                    "poster": "https://image.tmdb.org/t/p/original/4WZ9E8IGl9tkka9JPh325Lc1kfh.jpg"
+                }
             ]
         }
-    ]
-}
