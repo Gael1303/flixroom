@@ -1,94 +1,14 @@
 {
     "episodios": [
         {
-            "title": "01. É isso que acontece",
+            "title": "Seus Amigos e Vizinhos: Temporada 1",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8c7c9929a53be39da88beb8861a35081e39fb43(1080P Legendado)"
+                "magnet:?xt=urn:btih:9dff001a62400b791d6090550675ebdff9531dc2(1080P - DUAL AUDIO)"
             ],
             "rating": 4.0,
             "synopsis": "Depois de perder seu emprego de poder, Coop vai a um churrasco dos vizinhos, onde enfrenta sua ex-mulher, Mel, e faz uma escolha surpreendente.",
             "runtime": 57,
             "poster": "https://image.tmdb.org/t/p/original/wKEwttJlAjKhTMIXVSNPS4SezY.jpg"
-        },
-        {
-            "title": "02. Empate",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab798f3806860177529d606bc52be81559bfe873(1080P Legendado)"
-            ],
-            "rating": 4.0,
-            "synopsis": "Após uma entrevista de emprego perdida, Coop vende um relógio roubado.",
-            "runtime": 48,
-            "poster": "https://image.tmdb.org/t/p/original/ybLXIrqYd860lYNLMb3sIP55LDF.jpg"
-        },
-        {
-            "title": "03. Herpes teórica",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-            ],
-            "rating": 0.0,
-            "synopsis": "Nick faz uma festa pros homens do bairro, causando tensão entre Coop e Paul. As mulheres fazem aula de defesa pessoal.",
-            "runtime": 50,
-            "poster": "https://image.tmdb.org/t/p/original/9doVVS9QqkjjxC5a8mKKqAs6KHR.jpg"
-        },
-        {
-            "title": "04. Episódio 4",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-            ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 57,
-            "poster": "https://image.tmdb.org/t/p/original/zzxEDYJZMVnWbpAL0ciW985L5H9.jpg"
-        },
-        {
-            "title": "05. Episódio 5",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-            ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 51,
-            "poster": ""
-        },
-        {
-            "title": "06. Episódio 6",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-            ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 49,
-            "poster": ""
-        },
-        {
-            "title": "07. Episódio 7",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-            ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 51,
-            "poster": ""
-        },
-        {
-            "title": "08. Episódio 8",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-            ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
-        },
-        {
-            "title": "09. Episódio 9",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-            ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": "https://image.tmdb.org/t/p/original/cA5jJifibMVW48uZWpDV6BFy4Ag.jpg"
         }
     ]
 }
