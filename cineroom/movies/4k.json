@@ -3,6 +3,31 @@
         "status": "on"
     },
     {
+        "tmdb_id": 1233413,
+        "title": "Pecadores",
+        "type": "movie",
+        "url": [
+            "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:905a201c36e6f44647525126fce888af9dfb9b70(4K - DUAL AUDIO)"
+        ],
+        "year": 2025,
+        "genres": [
+            "Terror",
+            "Thriller"
+        ],
+        "rating": 7.5,
+        "director": [
+            "Ryan Coogler"
+        ],
+        "runtime": 138,
+        "premiered": "2025-04-16",
+        "poster": "https://image.tmdb.org/t/p/w500/a9kYEboW1TQaeilGYUAx1MO0DUp.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/kPUKvxsGgQBZMThi8VbMrTeznX0.png",
+        "synopsis": "Dispostos a deixar suas vidas conturbadas para trás, irmãos gêmeos retornam à sua cidade natal para recomeçar suas vidas do zero, quando descobrem que um mal ainda maior está à espera deles para recebê-los de volta.",
+        "popularity": 238.7202,
+        "providers": []
+    },
+    {
         "tmdb_id": 822119,
         "popularity": 126.8512,
         "title": "Capitão América: Admirável Mundo Novo (4K)",
