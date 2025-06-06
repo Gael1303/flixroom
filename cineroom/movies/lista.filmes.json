@@ -144,6 +144,7 @@
             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b12888bcb645a5fdc540b83b6fb0387d448f7ff(FHD - DUAL AUDIO)",
             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be1105391d2132a786ecf54ca354fbfba0e2fbc3(4K - DUAL AUDIO)"
         ],
+		"4K": true,
         "year": 2025,
         "genres": [
             "Crime",
@@ -1237,6 +1238,7 @@
             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34d9dd928417521a99a705cb83228f3960ce1951(DUAL AUDIO)",
             "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:690ba0c2606a93047601b662eadf8bdcfd4f3cc6(4K - DUAL AUDIO)"
         ],
+		"4K": true,
         "year": 2025,
         "genres": [
             "Ação",
