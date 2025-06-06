@@ -1,0 +1,124 @@
+{
+    "episodios": [
+        {
+            "title": "01. Arman",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 8.2,
+            "synopsis": "Quando Arman some misteriosamente, Thony e Nadia se unem para procurá-lo.",
+            "runtime": 42,
+            "poster": "https://image.tmdb.org/t/p/original/7RqMkNSRx0kW5Tg0GBYuwMQWXzP.jpg"
+        },
+        {
+            "title": "02. Pelo Meu Filho",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 7.7,
+            "synopsis": "Thony pede ajuda a Ramona para levar Fiona de volta aos Estados Unidos, mas acaba ficando endividada.",
+            "runtime": 42,
+            "poster": "https://image.tmdb.org/t/p/original/vFDgLhIM2ntSWUawkMDWU7MAGj.jpg"
+        },
+        {
+            "title": "03. El Camino del Diablo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 8.3,
+            "synopsis": "Quando Thony é encarregada de limpar carros para Ramona, ela se depara com uma mulher aflita precisando de cuidados médicos.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/sYoHZr25nSMEWNRP3dgek6XP3VT.jpg"
+        },
+        {
+            "title": "04. Episódio 4",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 8.3,
+            "synopsis": "Conforme a entrevista de Luca com o Conselho Tutelar se aproxima, Thony se concentra em trazer Fiona de volta para casa com a ajuda de Jorge. Enquanto isso, Nadia continua a investigar o desaparecimento de Arman e se vê cara a cara com Ramona.",
+            "runtime": 42,
+            "poster": "https://image.tmdb.org/t/p/original/fbzb04ftz18As5wsKdJPEkzVtRK.jpg"
+        },
+        {
+            "title": "05. Tudo de Mim",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 8.3,
+            "synopsis": "Quando Thony e Fiona se deparam com uma situação terrível, eles decidem resolver as coisas antes que seja tarde demais. Enquanto isso, Jorge atrapalha os planos de Ramona para encontrar Arman, e Ramona começa a questionar a lealdade dele.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/350G3QHIV7y6qAeLC7Khpft1wrF.jpg"
+        },
+        {
+            "title": "06. El Reloj",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 8.3,
+            "synopsis": "Thony recebe uma nova pista sobre o paradeiro de Arman. Enquanto isso, Ramona tenta fazer um acordo com Nadia, e Luca tem seu primeiro dia de aula.",
+            "runtime": 42,
+            "poster": "https://image.tmdb.org/t/p/original/tHHjnFxu3ET5iScXtmFM6Utamus.jpg"
+        },
+        {
+            "title": "07. Velório",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 8.3,
+            "synopsis": "Ramona fica cada vez mais apreensiva com o envolvimento de Thony na vida de Arman e suspeita que Thony e Nadia estejam colocando seus planos com Jorge em risco. Enquanto isso, Jeremy se voluntaria para instalar equipamentos de segurança na casa de Fiona.",
+            "runtime": 42,
+            "poster": "https://image.tmdb.org/t/p/original/phvojcpQabUKGyYh6kju1YKH7XE.jpg"
+        },
+        {
+            "title": "08. Conheça o Inimigo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 8.2,
+            "synopsis": "Quando Thony começa a entrar em espiral, Fiona se cansa de suas peripécias e pede ajuda de Russo. Enquanto isso, Ramona e Jorge se concentram em consertar a mancada de Arman, garantindo que nada possa ser associado a eles.",
+            "runtime": 42,
+            "poster": "https://image.tmdb.org/t/p/original/8BDS1cxoB3jDcKWPXkyAu8xaywg.jpg"
+        },
+        {
+            "title": "09. Das Cinzas",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 8.0,
+            "synopsis": "Ramona considera uma oferta de Thony que causa uma mudança na dinâmica delas. Jorge se junta a Nadia para poder usar suas conexões, e a equipe de Russo chega mais perto de solucionar o caso.",
+            "runtime": 42,
+            "poster": "https://image.tmdb.org/t/p/original/3EwW2g0gVmhZ4sKe9Q7pNRieHnL.jpg"
+        },
+        {
+            "title": "10. Jogo de Espelhos",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 8.3,
+            "synopsis": "Depois de encontrar câmeras escondidas em sua casa, Thony procura fazer a vida de sua família voltar ao normal recusando uma forte oferta de Ramona. Enquanto isso, Jorge propõe uma nova empreitada de lavagem de dinheiro para Nadia.",
+            "runtime": 42,
+            "poster": "https://image.tmdb.org/t/p/original/c2kkih6QLgm2OdKp0egT55bIgHO.jpg"
+        },
+        {
+            "title": "11. Enfrentar ou Fugir",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 7.7,
+            "synopsis": "Conforme Ramona continua suas tentativas de recrutar Thony para o seu negócio, Thony e Fiona trabalham com o FBI para ajudar Nadia. Enquanto isso, o FBI começa a organizar um plano para derrubar Ramona em seu próprio evento.",
+            "runtime": 42,
+            "poster": "https://image.tmdb.org/t/p/original/sqYrph0ZliVs33Xqx4jW8IBCxFw.jpg"
+        },
+        {
+            "title": "12. Castelo de Cartas",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 7.5,
+            "synopsis": "Conforme Ramona continua suas tentativas de recrutar Thony para o seu negócio, Thony e Fiona trabalham com o FBI para ajudar Nadia. Enquanto isso, o FBI começa a organizar um plano para derrubar Ramona em seu próprio evento.",
+            "runtime": 42,
+            "poster": "https://image.tmdb.org/t/p/original/vdl9ROLAV6q40VIopdwHJzbWrzX.jpg"
+        }
+    ]
+}

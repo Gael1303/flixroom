@@ -1,0 +1,84 @@
+{
+    "episodios": [
+        {
+            "title": "01. Essas Meninas",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e4fa11a59e13a0b23336171331e025274470d87(EP 01. DUAL)"
+            ],
+            "rating": 7.5,
+            "synopsis": "Mickey Fitzpatrick, policial da Filadélfia, investiga uma série de overdoses entre profissionais do sexo que podem ser homicídios.",
+            "runtime": 53,
+            "poster": "https://image.tmdb.org/t/p/original/cUVaD97cWXSGVnvGECOfnkxEisa.jpg"
+        },
+        {
+            "title": "02. Deixe-Me Entrar",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e4fa11a59e13a0b23336171331e025274470d87(EP 02. DUAL)"
+            ],
+            "rating": 10.0,
+            "synopsis": "À medida que as dúvidas sobre os assassinatos aumentam, Mickey lida com o desaparecimento de sua irmã e toma medidas para proteger seu filho.",
+            "runtime": 51,
+            "poster": "https://image.tmdb.org/t/p/original/oIcYxYu0BCyNgMfI1KZb514YnHW.jpg"
+        },
+        {
+            "title": "03. Mãe Loba",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e4fa11a59e13a0b23336171331e025274470d87(EP 03. DUAL)"
+            ],
+            "rating": 10.0,
+            "synopsis": "Mickey arrisca tudo para seguir uma pista sobre o cafetão Dock. Então, novas evidências a levam a questionar tudo o que ela pensava.",
+            "runtime": 54,
+            "poster": "https://image.tmdb.org/t/p/original/7weBE7v4goXbXBkqgbEpFRHmnX9.jpg"
+        },
+        {
+            "title": "04. Ponto Cego",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e4fa11a59e13a0b23336171331e025274470d87(EP 04. DUAL)"
+            ],
+            "rating": 9.5,
+            "synopsis": "A festa de aniversário de Thomas desperta lembranças dolorosas da infância de Mickey. Mais tarde, Mickey e Truman seguem uma nova pista.",
+            "runtime": 52,
+            "poster": "https://image.tmdb.org/t/p/original/e8W5ruJ1HIbAJlbQ9Sc8KcIE16V.jpg"
+        },
+        {
+            "title": "05. Aonde Você Vai?",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e4fa11a59e13a0b23336171331e025274470d87(EP 05. DUAL)"
+            ],
+            "rating": 10.0,
+            "synopsis": "Enquanto Mickey e Truman se aproximam, uma nova vítima complica o caso das mulheres assassinadas e a busca por Kacey.",
+            "runtime": 52,
+            "poster": "https://image.tmdb.org/t/p/original/qeV4rV9LjxK21Ow4tGEy2WKHAf4.jpg"
+        },
+        {
+            "title": "06. Hereditário",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e4fa11a59e13a0b23336171331e025274470d87(EP 06. DUAL)"
+            ],
+            "rating": 10.0,
+            "synopsis": "Uma emboscada inesperada desequilibra Mickey e ela deixa de procurar Kacey, mas uma revelação de Natal a aproxima da verdade.",
+            "runtime": 54,
+            "poster": "https://image.tmdb.org/t/p/original/367kJF64ikHmZhoyKF303pfN2ac.jpg"
+        },
+        {
+            "title": "07. Acordo Errado com o Diabo Errado",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e4fa11a59e13a0b23336171331e025274470d87(EP 07. DUAL)"
+            ],
+            "rating": 10.0,
+            "synopsis": "Mickey enfrenta as consequências de acusar sua colega. Um novo desaparecimento leva a investigação a lugares surpreendentes.",
+            "runtime": 56,
+            "poster": "https://image.tmdb.org/t/p/original/p89jVrmKQ95zQ38HNBAy3dbjFJL.jpg"
+        },
+        {
+            "title": "08. Reconciliação",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e4fa11a59e13a0b23336171331e025274470d87(EP 08. DUAL)"
+            ],
+            "rating": 10.0,
+            "synopsis": "Mickey comete um grave erro ao ir atrás do assassino. A verdade finalmente vem à tona, mas não sem sacrifício.",
+            "runtime": 60,
+            "poster": "https://image.tmdb.org/t/p/original/pNAENeJGpLPCL7vMczcrADsLMLH.jpg"
+        }
+    ]
+}

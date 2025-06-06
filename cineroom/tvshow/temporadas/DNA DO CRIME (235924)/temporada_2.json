@@ -1,0 +1,84 @@
+{
+    "episodios": [
+        {
+            "title": "01. Dia de jogo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a242451ec09bd05324cc3585ef64fd28d1d55120(EP 01. NACIONAL)"
+            ],
+            "rating": 9.0,
+            "synopsis": "Os planos para um assalto a banco fazem a equipe de Suellen e a Quadrilha Fantasma baterem de frente numa batalha explosiva.",
+            "runtime": 53,
+            "poster": "https://image.tmdb.org/t/p/original/ljguMMJG4A2C7uJopcHjmHssHN6.jpg"
+        },
+        {
+            "title": "02. A caça e o caçador",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a242451ec09bd05324cc3585ef64fd28d1d55120(EP 02. NACIONAL)"
+            ],
+            "rating": 9.0,
+            "synopsis": "Uma tragédia na equipe deixa Suellen com sede de vingança. Sem Alma tenta passar despercebido na prisão após descobrir que seus entes queridos estão em perigo.",
+            "runtime": 54,
+            "poster": "https://image.tmdb.org/t/p/original/4LQr3Zk98U2nuXr8zDn6rkynsa2.jpg"
+        },
+        {
+            "title": "03. Shangri-lá",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a242451ec09bd05324cc3585ef64fd28d1d55120(EP 03. NACIONAL)"
+            ],
+            "rating": 9.0,
+            "synopsis": "A Quadrilha Fantasma está de olho em um leilão de joias, e Suellen e Benício precisam correr contra o tempo. Um confronto em um bordel culmina em um banho de sangue.",
+            "runtime": 51,
+            "poster": "https://image.tmdb.org/t/p/original/uBqNQP25w2iEGDaMOxCyLlrx10Q.jpg"
+        },
+        {
+            "title": "04. Reféns",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a242451ec09bd05324cc3585ef64fd28d1d55120(EP 04. NACIONAL)"
+            ],
+            "rating": 9.0,
+            "synopsis": "Os criminosos se preparam para roubar dois bancos, mas Suellen e Benício planejam um contra-ataque que pode abalar a operação da Quadrilha Fantasma.",
+            "runtime": 51,
+            "poster": "https://image.tmdb.org/t/p/original/ezcuDpktX7KDp4N823RdeI5TPaf.jpg"
+        },
+        {
+            "title": "05. Assunto de família",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a242451ec09bd05324cc3585ef64fd28d1d55120(EP 05. NACIONAL)"
+            ],
+            "rating": 9.0,
+            "synopsis": "Suellen e Benício analisam as tatuagens de Gabriel em busca de pistas, mas Suellen acaba se tornando alvo de Isaac e seus capangas.",
+            "runtime": 52,
+            "poster": "https://image.tmdb.org/t/p/original/eiCVqufUWZY6p6R8cBf3HtdpyNw.jpg"
+        },
+        {
+            "title": "06. Dupla improvável",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a242451ec09bd05324cc3585ef64fd28d1d55120(EP 06. NACIONAL)"
+            ],
+            "rating": 9.0,
+            "synopsis": "Suellen precisa encarar problemas de família após um evento traumático. No Paraguai, Isaac é implacável com o Embaixador.",
+            "runtime": 53,
+            "poster": "https://image.tmdb.org/t/p/original/1dPY4e4HOJ1Ud45PvQ9pqv4Npck.jpg"
+        },
+        {
+            "title": "07. A carga fantasma",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a242451ec09bd05324cc3585ef64fd28d1d55120(EP 07. NACIONAL)"
+            ],
+            "rating": 9.0,
+            "synopsis": "Após capturar uma pessoa da Quadrilha Fantasma durante um tiroteio, Suellen usa todas as artimanhas para conseguir informações.",
+            "runtime": 51,
+            "poster": "https://image.tmdb.org/t/p/original/xhlV4p5tzvFqdpKZJwXfudYZqvN.jpg"
+        },
+        {
+            "title": "08. Fronteira dominada",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a242451ec09bd05324cc3585ef64fd28d1d55120(EP 08. NACIONAL)"
+            ],
+            "rating": 9.0,
+            "synopsis": "Os agentes federais dão prejuízo para a Quadrilha Fantasma. No porto de Santos, a situação chega ao limite para Benício, Suellen e Sem Alma.",
+            "runtime": 47,
+            "poster": "https://image.tmdb.org/t/p/original/6VVJRzvILc4Zcug7BYo4zKf0OgF.jpg"
+        }
+    ]
+}

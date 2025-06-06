@@ -1,0 +1,104 @@
+{
+    "episodios": [
+        {
+            "title": "01. A promoção",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29b2536887a0afa00813e65aa7e621669b2994ac(EP 01. DUAL)"
+            ],
+            "rating": 8.1,
+            "synopsis": "Matt Remick é nomeado o novo diretor da Continental Estúdios e logo é colocado à frente de um projeto potencialmente humilhante.",
+            "runtime": 45,
+            "poster": "https://image.tmdb.org/t/p/original/eq9BVsnH8FFNEUaqAeyXze6wjlh.jpg"
+        },
+        {
+            "title": "02. Plano-sequência",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29b2536887a0afa00813e65aa7e621669b2994ac(EP 02. DUAL)"
+            ],
+            "rating": 8.2,
+            "synopsis": "A filmagem de uma cena complexa ao pôr do sol fica ainda mais difícil com a visita de Matt ao set.",
+            "runtime": 26,
+            "poster": "https://image.tmdb.org/t/p/original/ooGsHK3Fg5FWQeQgPX3ujg6LFBe.jpg"
+        },
+        {
+            "title": "03. A observação",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29b2536887a0afa00813e65aa7e621669b2994ac(EP 03. DUAL)"
+            ],
+            "rating": 7.8,
+            "synopsis": "Matt fica tenso ao ter que fazer uma crítica difícil ao lendário diretor Ron Howard.",
+            "runtime": 36,
+            "poster": "https://image.tmdb.org/t/p/original/Gy75JkMYp7DESqUdnlc1y6yMoY.jpg"
+        },
+        {
+            "title": "04. O rolo desaparecido",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29b2536887a0afa00813e65aa7e621669b2994ac(EP 04. DUAL)"
+            ],
+            "rating": 6.8,
+            "synopsis": "Um rolo de filme desaparece, fazendo com que Matt e Sal corram contra o tempo para encontrá-lo.",
+            "runtime": 30,
+            "poster": "https://image.tmdb.org/t/p/original/1mMc3EPUCOogcGboCtEzQW24At7.jpg"
+        },
+        {
+            "title": "05. A guerra",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29b2536887a0afa00813e65aa7e621669b2994ac(EP 05. DUAL)"
+            ],
+            "rating": 6.4,
+            "synopsis": "Frustrada com sua nova posição na hierarquia do escritório, Quinn trava uma guerra com Sal.",
+            "runtime": 31,
+            "poster": "https://image.tmdb.org/t/p/original/3Aa2iO9O96u2mlRQMAMR7jYBDBr.jpg"
+        },
+        {
+            "title": "06. A oncologista pediatra",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29b2536887a0afa00813e65aa7e621669b2994ac(EP 06. DUAL)"
+            ],
+            "rating": 6.8,
+            "synopsis": "O ego de Matt é posto à prova quando sua nova namorada médica o leva para um evento de caridade.",
+            "runtime": 28,
+            "poster": "https://image.tmdb.org/t/p/original/AYEtoda25HjNpKrXnKKjhfyDxx.jpg"
+        },
+        {
+            "title": "07. Elenco",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29b2536887a0afa00813e65aa7e621669b2994ac(EP 07. DUAL)"
+            ],
+            "rating": 8.8,
+            "synopsis": "A equipe da Continental se apressa para escalar o elenco de um filme que não cause polêmicas.",
+            "runtime": 25,
+            "poster": "https://image.tmdb.org/t/p/original/xc6IR18mgMQayrxLNPV2oe1HexQ.jpg"
+        },
+        {
+            "title": "08. O Globo de Ouro",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29b2536887a0afa00813e65aa7e621669b2994ac(EP 08. DUAL)"
+            ],
+            "rating": 7.0,
+            "synopsis": "Matt tenta fazer Zoë Kravitz mencioná-lo em seu discurso de agradecimento.",
+            "runtime": 32,
+            "poster": "https://image.tmdb.org/t/p/original/Ak8ecQWq227ToWxGCUmzrYIFOPK.jpg"
+        },
+        {
+            "title": "09. CinemaCon",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29b2536887a0afa00813e65aa7e621669b2994ac(EP 09. DUAL)"
+            ],
+            "rating": 9.0,
+            "synopsis": "Quando Matt decide organizar a festa mais incrível no CinemaCon, tudo sai errado de uma forma psicodélica.",
+            "runtime": 36,
+            "poster": "https://image.tmdb.org/t/p/original/x7JyRMWm6cFh8sGSfCNRh3sxYOP.jpg"
+        },
+        {
+            "title": "10. A apresentação",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29b2536887a0afa00813e65aa7e621669b2994ac(EP 10. DUAL)"
+            ],
+            "rating": 8.667,
+            "synopsis": "Se a equipe de Matt não fizer uma apresentação incrível no CinemaCon, o estúdio será vendido... para uma empresa de tecnologia.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/7htiLT04c2pZ6ncXh51vGuVmK6z.jpg"
+        }
+    ]
+}

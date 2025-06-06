@@ -1,0 +1,104 @@
+{
+    "episodios": [
+        {
+            "title": "01. Stick or Twist",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d5fc22a90471ef929bde794d565e92f528e636a(EP 01. DUAL AUDIO)"
+            ],
+            "rating": 9.2,
+            "synopsis": "Harry da Souza é chamado para resolver um problema depois que a noite acaba mal para os filhos de duas famílias do crimes em guerra. Enquanto Richie Stevenson busca o culpado, o patriarca Conrad Harrigan reúne seu clã com um plano.",
+            "runtime": 60,
+            "poster": "https://image.tmdb.org/t/p/original/5IBWjTRedZgLgUEx5MYAq76FBZf.jpg"
+        },
+        {
+            "title": "02. Jigsaw Puzzle",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d5fc22a90471ef929bde794d565e92f528e636a(EP 02. DUAL AUDIO)"
+            ],
+            "rating": 8.8,
+            "synopsis": "Harry lida com as consequências da reunião da família Harrigan e Jan se pergunta qual é a gota d'água. Kevin tira Eddie de Londres após uma ameaça de Richie. Maeve mostra as cartas para Conrad. Atrás de uma pista, Harry faz uma descoberta incrível.",
+            "runtime": 52,
+            "poster": "https://image.tmdb.org/t/p/original/22kcWCxB4bf4ZlKx1UiE1zArFr2.jpg"
+        },
+        {
+            "title": "03. Plan B",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d5fc22a90471ef929bde794d565e92f528e636a(EP 03. DUAL AUDIO)"
+            ],
+            "rating": 7.8,
+            "synopsis": "Richie faz sua jogada, colocando os Harrigan em alerta. Conrad e Maeve divergem por causa do Eddie, mas concordam com um plano B. Enquanto Kevin se prepara pra guerra, Harry mata dois coelhos com uma cajadada, e uma dica leva Fisk ao cemitério.",
+            "runtime": 48,
+            "poster": "https://image.tmdb.org/t/p/original/jKXqCG2lyCgWHSRyukpriRzoI14.jpg"
+        },
+        {
+            "title": "04. Ratoeira",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c34f7d647e714617ed95846f2f70280e69cf66e2(EP 04. DUAL AUDIO)"
+            ],
+            "rating": 8.222,
+            "synopsis": "Harry faz uma visita a Antoine a pedido de Bella; Fisk e Mukasa trocam teorias.",
+            "runtime": 42,
+            "poster": "https://image.tmdb.org/t/p/original/vZFTF8722Rb2ERHLzy59kZLCNcO.jpg"
+        },
+        {
+            "title": "05. Funeral para um Amigo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c34f7d647e714617ed95846f2f70280e69cf66e2(EP 05. DUAL AUDIO)"
+            ],
+            "rating": 8.455,
+            "synopsis": "Kevin e Harry avaliam cenários em busca de segurança e uma estratégia de saída.",
+            "runtime": 42,
+            "poster": "https://image.tmdb.org/t/p/original/5qmnYYdQeeDpfo0Y5OxydemNdJl.jpg"
+        },
+        {
+            "title": "06. Episódio 6",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 8.6,
+            "synopsis": "",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/oOt4vYbcx4agDz6z0469mpsKtFG.jpg"
+        },
+        {
+            "title": "07. Episódio 7",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 8.714,
+            "synopsis": "",
+            "runtime": 41,
+            "poster": "https://image.tmdb.org/t/p/original/6DDC6p6X3t2PczrhGrGpeTIHM2D.jpg"
+        },
+        {
+            "title": "08. Episódio 8",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 9.444,
+            "synopsis": "",
+            "runtime": 45,
+            "poster": ""
+        },
+        {
+            "title": "09. Episódio 9",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 8.7,
+            "synopsis": "",
+            "runtime": 48,
+            "poster": "https://image.tmdb.org/t/p/original/5MES9byNUXMEmLYVZNkoSoi6P8e.jpg"
+        },
+        {
+            "title": "10. Episódio 10",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 9.0,
+            "synopsis": "",
+            "runtime": 55,
+            "poster": ""
+        }
+    ]
+}
