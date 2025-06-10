@@ -1,0 +1,84 @@
+{
+    "episodios": [
+        {
+            "title": "01. Poder é igual a poder",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b698256750fbae2d3ab86a1f85ee038761b33050"
+            ],
+            "rating": 5.5,
+            "synopsis": "Na guerra pelo controle de Manhattan, Maggie e Negan se veem presos em lados opostos.",
+            "runtime": 53,
+            "poster": "https://image.tmdb.org/t/p/original/vAUAlMtVBK71LcGu8bKWBH6ufgB.jpg"
+        },
+        {
+            "title": "02. Outra Lição de Merda",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44556deeb5ab2a66f320b1cc6016a9877f46ce45"
+            ],
+            "rating": 5.5,
+            "synopsis": "Maggie inicia uma jornada perigosa de volta à ilha; Negan se junta à luta, relutantemente.",
+            "runtime": 45,
+            "poster": "https://image.tmdb.org/t/p/original/25ta40LXgx7jmcGvElXuFlNY96l.jpg"
+        },
+        {
+            "title": "03. Por que os habitantes do continente cruzaram o rio?",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42597f356dbe78bdba5de325762e5661098fe6f0"
+            ],
+            "rating": 7.0,
+            "synopsis": "Negan tenta algo novo com o Croata; Maggie viaja para um lugar perigoso e surpreendente.",
+            "runtime": 51,
+            "poster": "https://image.tmdb.org/t/p/original/j3TqmxGsA3Jz8pOw3Nx40vxmblu.jpg"
+        },
+        {
+            "title": "04. Amigável e Implacável",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7b73dd00cb1c9fc0b14b14b8c3d78a4d0e51a85"
+            ],
+            "rating": 8.0,
+            "synopsis": "Maggie descobre informações surpreendentes; Negan tenta enganar um inimigo traiçoeiro.",
+            "runtime": 49,
+            "poster": "https://image.tmdb.org/t/p/original/8vMAHn5okrz1N84MEPyIgmUwlqq.jpg"
+        },
+        {
+            "title": "05. O Pássaro Sempre Sabe",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8fddaee1ecff9a8f0f6f0f873b5cc8b14d00499"
+            ],
+            "rating": 8.0,
+            "synopsis": "Negan faz grandes jogadas, enquanto Maggie resolve o problema com as próprias mãos.",
+            "runtime": 50,
+            "poster": "https://image.tmdb.org/t/p/original/AeQlIAbQsPiNAxWDvZ5NSymm81o.jpg"
+        },
+        {
+            "title": "06. Parceiros de ponte são difíceis de encontrar hoje em dia",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8734e7bc8e0d766e8d8fd50b0764286fb9921dd"
+            ],
+            "rating": 0.0,
+            "synopsis": "Maggie considera fazer uma aliança quando as consequências das ações de Negan chegam ao ápice.",
+            "runtime": 51,
+            "poster": "https://image.tmdb.org/t/p/original/bOdN1xtiyIj3dik2jPVW4qbfcn6.jpg"
+        },
+        {
+            "title": "07. Episódio 7",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": "https://image.tmdb.org/t/p/original/lT9LLpugclRs33r0Jpsv7XFLWFZ.jpg"
+        },
+        {
+            "title": "08. Episódio 8",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        }
+    ]
+}
