@@ -91,14 +91,14 @@
             "poster": "https://image.tmdb.org/t/p/original/5MES9byNUXMEmLYVZNkoSoi6P8e.jpg"
         },
         {
-            "title": "10. Episódio 10",
+            "title": "10. The Beast in Me",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:203293d55f3d437c984c0ba005dffb64ba59ff0a(EP 10. DUAL AUDIO)"
             ],
-            "rating": 9.0,
-            "synopsis": "",
+            "rating": 9.2,
+            "synopsis": "Kevin takes care of a problem. Maeve spills the tea.",
             "runtime": 55,
-            "poster": ""
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/4jM8RZfCsdsqiCCQe0W3WNVMcVv.jpg"
         }
     ]
 }
