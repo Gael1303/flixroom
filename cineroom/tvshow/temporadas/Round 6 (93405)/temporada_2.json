@@ -1,10 +1,74 @@
 {
     "episodios": [
-        {
-            "title": "Round 6: 2ª Temporada",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8e69b75d2baae8d5b2db89b5893361ba6015e96"
+                {
+                    "title": "01. Pão e loteria",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8e69b75d2baae8d5b2db89b5893361ba6015e96(EP 01. DUAL)"
+                    ],
+                    "rating": 8.4,
+                    "synopsis": "Gi-hun sai do aeroporto em busca de vingança. Mais tarde, em seu esconderijo, ele intensifica a busca pelo recrutador.",
+                    "runtime": 66,
+                    "poster": "https://image.tmdb.org/t/p/original/tWwP30pufZhWDSxN4qxER7gMbLR.jpg"
+                },
+                {
+                    "title": "02. Festa de Halloween",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8e69b75d2baae8d5b2db89b5893361ba6015e96(EP 02. DUAL)"
+                    ],
+                    "rating": 8.1,
+                    "synopsis": "Gi-hun finalmente consegue um convite, e a data mostra que é para o Halloween. Em um momento tenso enfrentando Jun-ho, ambos revelam a verdade um para o outro.",
+                    "runtime": 52,
+                    "poster": "https://image.tmdb.org/t/p/original/6D0kAkjdYCNz3wOigChITrezNig.jpg"
+                },
+                {
+                    "title": "03. 001",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8e69b75d2baae8d5b2db89b5893361ba6015e96(EP 03. DUAL)"
+                    ],
+                    "rating": 8.4,
+                    "synopsis": "Novos jogadores se reúnem para tentar ganhar 45,6 bilhões de wons. Depois de uma primeira rodada intensa, os destinos dos sobreviventes estão por um fio (e por um voto).",
+                    "runtime": 62,
+                    "poster": "https://image.tmdb.org/t/p/original/g1uO2xMXpAbtYRs9XaVo9fnuw8T.jpg"
+                },
+                {
+                    "title": "04. Seis pernas",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8e69b75d2baae8d5b2db89b5893361ba6015e96(EP 04. DUAL)"
+                    ],
+                    "rating": 8.5,
+                    "synopsis": "Os jogadores se preparam para o próximo jogo: um pentatlo em seis pernas, em que cada membro da equipe precisa vencer um minijogo (ou enfrentar a eliminação coletiva).",
+                    "runtime": 63,
+                    "poster": "https://image.tmdb.org/t/p/original/hU4SUCvTWVhqMyk81t4zmvQg79u.jpg"
+                },
+                {
+                    "title": "05. Mais um jogo",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8e69b75d2baae8d5b2db89b5893361ba6015e96(EP 05. DUAL)"
+                    ],
+                    "rating": 8.5,
+                    "synopsis": "Kang No-eul ganha inimigos por conta de suas ações rebeldes. Com os nervos à flor da pele, os últimos jogadores votam e tentam decidir se seguem para a próxima rodada.",
+                    "runtime": 77,
+                    "poster": "https://image.tmdb.org/t/p/original/575R0zTaCUtmLjLSsBp3hLl1DQn.jpg"
+                },
+                {
+                    "title": "06. O ﻿ X",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8e69b75d2baae8d5b2db89b5893361ba6015e96(EP 06. DUAL)"
+                    ],
+                    "rating": 8.4,
+                    "synopsis": "Jun-ho e sua equipe têm a missão de se infiltrar em uma ilha suspeita. Com o prêmio e as tensões aumentando, os jogadores se dividem em duas facções rivais.",
+                    "runtime": 53,
+                    "poster": "https://image.tmdb.org/t/p/original/gxMiBlCPmOp5qekica0OtDeLTp7.jpg"
+                },
+                {
+                    "title": "07. Amigos ou inimigos?",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8e69b75d2baae8d5b2db89b5893361ba6015e96(EP 07. DUAL)"
+                    ],
+                    "rating": 8.1,
+                    "synopsis": "Os jogadores restantes bolam uma estratégia para sobreviver à noite. Gi-hun propõe um plano arriscado, mas vai precisar de aliados confiáveis para colocá-lo em prática.",
+                    "runtime": 61,
+                    "poster": "https://image.tmdb.org/t/p/original/qZH5NZPA2N9ykpDd0dOQTmVJiVR.jpg"
+                }
             ]
         }
-    ]
-}
