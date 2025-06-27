@@ -1,10 +1,95 @@
 {
     "episodios": [
-        {
-            "title": "Round 6: 1ª Temporada",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d405d20013d04d50826cd6e5cebbcf34dbe735a9"
+                {
+                    "title": "01. Batatinha frita 1, 2, 3",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d405d20013d04d50826cd6e5cebbcf34dbe735a9(EP 01. DUAL)"
+                    ],
+                    "rating": 8.3,
+                    "synopsis": "Endividado, Gi-hun participa de um jogo misterioso na esperança de ganhar dinheiro fácil. Mas já na primeira rodada, uma verdadeira cena de horror acontece.",
+                    "runtime": 61,
+                    "poster": "https://image.tmdb.org/t/p/original/vMFJS9LIUUAmQ1thq4vJ7iHKwRz.jpg"
+                },
+                {
+                    "title": "02. Inferno",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d405d20013d04d50826cd6e5cebbcf34dbe735a9(EP 02. DUAL"
+                    ],
+                    "rating": 8.2,
+                    "synopsis": "Dividido entre continuar ou desistir, o grupo faz uma votação. Mas a realidade que enfrentam no mundo exterior pode ser tão impiedosa quanto o jogo.",
+                    "runtime": 63,
+                    "poster": "https://image.tmdb.org/t/p/original/uacNwki3PqXEFk9Pal9Ng5NwwAI.jpg"
+                },
+                {
+                    "title": "03. O homem do guarda-chuva",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d405d20013d04d50826cd6e5cebbcf34dbe735a9(EP 03. DUAL"
+                    ],
+                    "rating": 8.4,
+                    "synopsis": "Alguns jogadores entram na próxima rodada, que promete altos e baixos, além de vantagens ocultas. Jun-ho chega sorrateiramente.",
+                    "runtime": 55,
+                    "poster": "https://image.tmdb.org/t/p/original/xNtgrNEsMXvmRQQtcFuJdbXOjmP.jpg"
+                },
+                {
+                    "title": "04. Fiquem juntos",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d405d20013d04d50826cd6e5cebbcf34dbe735a9(EP 04. DUAL"
+                    ],
+                    "rating": 8.5,
+                    "synopsis": "Com alianças se formando entre os jogadores, ninguém está a salvo quando as luzes se apagam. O terceiro jogo desafia a equipe de Gi-hun a pensar estrategicamente.",
+                    "runtime": 55,
+                    "poster": "https://image.tmdb.org/t/p/original/9cUGOdLN4gmnf3b9ILArnJsJI8Q.jpg"
+                },
+                {
+                    "title": "05. Um mundo justo",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d405d20013d04d50826cd6e5cebbcf34dbe735a9(EP 05. DUAL"
+                    ],
+                    "rating": 8.1,
+                    "synopsis": "Gi-hun e a equipe se revezam para vigiar durante a noite. Os homens mascarados enfrentam problemas inesperados.",
+                    "runtime": 52,
+                    "poster": "https://image.tmdb.org/t/p/original/2pE9f6drlF7y9rwUw6dh1w6jF5M.jpg"
+                },
+                {
+                    "title": "06. Gganbu",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d405d20013d04d50826cd6e5cebbcf34dbe735a9(EP 06. DUAL"
+                    ],
+                    "rating": 8.8,
+                    "synopsis": "Os jogadores formam duplas para o quarto jogo. Gi-hun enfrenta um dilema moral, Sang-woo escolhe se proteger e Sae-byeok conta sua história.",
+                    "runtime": 62,
+                    "poster": "https://image.tmdb.org/t/p/original/cohCCQzTe2ncdQczJDUsO0vzxPR.jpg"
+                },
+                {
+                    "title": "07. VIPs",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d405d20013d04d50826cd6e5cebbcf34dbe735a9(EP 07. DUAL"
+                    ],
+                    "rating": 8.2,
+                    "synopsis": "O líder mascarado dá as boas-vindas aos convidados VIP que vão assistir ao show na primeira fileira. No quinto jogo, alguns jogadores cedem à pressão.",
+                    "runtime": 58,
+                    "poster": "https://image.tmdb.org/t/p/original/4pVfv4HaM5QpFJTHm19p2UI0StN.jpg"
+                },
+                {
+                    "title": "08. O líder",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d405d20013d04d50826cd6e5cebbcf34dbe735a9(EP 08. DUAL"
+                    ],
+                    "rating": 8.186,
+                    "synopsis": "Antes da última rodada, a desconfiança e a aversão dominam os finalistas. Jun-ho foge, determinado a expor os segredos sujos do jogo.",
+                    "runtime": 33,
+                    "poster": "https://image.tmdb.org/t/p/original/lOgFVmykN9qlpAoiBSIV2lu7XCS.jpg"
+                },
+                {
+                    "title": "09. Um dia de sorte",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d405d20013d04d50826cd6e5cebbcf34dbe735a9(EP 09. DUAL"
+                    ],
+                    "rating": 7.839,
+                    "synopsis": "A rodada final envolve mais um teste cruel. Mas, desta vez, o resultado depende de apenas um jogador. O criador do jogo se revela.",
+                    "runtime": 56,
+                    "poster": "https://image.tmdb.org/t/p/original/sKeQbHeEUQLyoSdopa0QXm604cz.jpg"
+                }
             ]
         }
-    ]
-}
+   
