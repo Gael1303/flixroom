@@ -1,0 +1,64 @@
+{
+    "episodios": [
+        {
+            "title": "01. Me Leve Para Casa",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18ba9d835027ad3db68a04290296939aa1144b9b(EP 01. DUAL)"
+            ],
+            "rating": 4.5,
+            "synopsis": "Determinada a completar seu mais novo traje blindado, Riri Williams se junta a Parker Robbins.",
+            "runtime": 44,
+            "poster": "https://image.tmdb.org/t/p/original/aRamHYwekA5oOUsf97hZdhQokK3.jpg"
+        },
+        {
+            "title": "02. A Verdadeira Natalie Pode Se Levantar, Por Favor?",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18ba9d835027ad3db68a04290296939aa1144b9b(EP 02. DUAL)"
+            ],
+            "rating": 4.5,
+            "synopsis": "A nova I.A. de Riri, uma incrível manifestação de sua melhor amiga morta, Natalie, traz à tona memórias dolorosas que ela ignora para se concentrar em seu traje, necessário para seu primeiro assalto com Parker e sua equipe.",
+            "runtime": 50,
+            "poster": "https://image.tmdb.org/t/p/original/78IPSgGtG9ynioF1f69oQqYRBlE.jpg"
+        },
+        {
+            "title": "03. Estamos em Perigo, Garota",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18ba9d835027ad3db68a04290296939aa1144b9b(EP 03. DUAL)"
+            ],
+            "rating": 4.778,
+            "synopsis": "Riri está desconfortável na equipe de Parker. Mais dois trabalhos e ela está fora, ela promete.",
+            "runtime": 56,
+            "poster": "https://image.tmdb.org/t/p/original/y7okgno9wTmDBA6Ko4cku67n7pG.jpg"
+        },
+        {
+            "title": "04. Episódio 4",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 3.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "05. Episódio 5",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 3.2,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "06. Episódio 6",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 3.4,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        }
+    ]
+}

@@ -1,0 +1,524 @@
+{
+    "episodios": [
+        {
+            "title": "01. Episódio 1",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=%2FE%2B2tq1U7ECxNyB1x0H0ogDSCVQAbhD7u9NHhcZaAoOubOjJGJLE%2FH%2Bjckt2CcSL&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=31e063c8cbd1d66dcc642a95378fb2f286b9e60e126b2ce6cceb1d8702d53ebe"
+            ],
+            "rating": 10.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/k28ZbjpR0zcsZO1RzXRewQeEoN4.jpg"
+        },
+        {
+            "title": "02. Episódio 2",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=lknS6Ts5812NIaDVesV6qFXEMSt6fcGw0j0qbqV0O1v4fNP0dQM01aD8Sfswia3e&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=e18ff07aa2aea4d77469a6b7e8dbd377dc1e89aea0943178c3d3202408cf4faf"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/8LshjOprRlRwZckhWU0HqwJ5qgf.jpg"
+        },
+        {
+            "title": "03. Episódio 3",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=IRCvVdBh2w4fu%2Fz%2Fl%2BnJS3kjYpcneDId9y1LxkRkw%2BotyMA3eEM1Edv%2Bm6erqkhl&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=97ddefb9e3fc1688a8244ade0997d0d74fd00549678891490ce25392ddc10870"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/xmwfVOeTowjQLxkjg7QsS24ELu8.jpg"
+        },
+        {
+            "title": "04. Episódio 4",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=4%2B1teqRO53xRQSv7a4F7f3iRi7oMd4lpkIcwB6Wt2g6ODOTKyc8i%2BvAmubW%2FvTvF&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=7961a5f8cecbd21bfb0abe979b21292bef590d1484e36136130ed6018c2c0476"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/3Dntp5efU8vh5a4dJEYCahIujOF.jpg"
+        },
+        {
+            "title": "05. Episódio 5",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=mGDdKwXU5d4B5U1OGbJRLBOcz7UIYwla3M1TMvmlNdapEhNqN4AKPIz6WfgD5w4f&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=9295d9180399373a02c4fc23e71013d6c32635300cdd3c72428dea0f428dfc7f"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/49btfOLLU2rufuZLddHhVeZne9z.jpg"
+        },
+        {
+            "title": "06. Episódio 6",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=kSIVzUKNjQxCfhwrthano2fCe53ycE1cSw7sZtMqdzZwpRx%2ByRbnfJEt7UQPBWR3&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=81115a861e0f2584b49032296e7823c8bf981938d2af487b43136c544bebcb31"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/svnV5YUcm9WPsovP2nYBjblr87G.jpg"
+        },
+        {
+            "title": "07. Episódio 7",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=nCPlxC13FKVS6sMwi4mYvRAWM90l0inlUGiZmww%2F%2BPiJxGpXu2jkD0qdPt8qskFT&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=e18edef97129f51eae84912a9d71d2eb64667d4450b8f81e8af1d29cfd9c7ec5"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/dPtyQMzndobJIbwjPor2XDD1Zh2.jpg"
+        },
+        {
+            "title": "08. Episódio 8",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=%2FMg2DlrTjE61vDhVpsZQQbpfLHHOIqBpvLy5fMNjq6TnPL9i9vgmpraOA00koUB0&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=23bfb241be1ef3e724053fab8441e84596ed53a2cc6f13bfa22b5936dbfdfedc"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/71tapEcdbGyzY54eUyEW7RMs0SG.jpg"
+        },
+        {
+            "title": "09. Episódio 9",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=VPRTDcNDfVCttf1lKs0thDfrPVEYlwnQ%2FDVvArSRnderhxSDPaftIgQ%2Fp5LMX3LG&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=54e9035e961b5dc80a8d4b5e2e36633beb87bea0fc4501e2b68306950f15578e"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/4qHi6OUPKOdXrPbIgqzRBPjbIlb.jpg"
+        },
+        {
+            "title": "10. Episódio 10",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=%2B7q1x5yNHohFCd3z6TvaOW4bAld2c711Klt8EAuHQu9qdNkuxv5ehPgCd8gL9tCY&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=ddc5c1537b2db70cdbf995324b2c530593e40dba6f7f25d66ae57b8d1bbf5dc5"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/7AzxPvCFOXuwm4I2cAJIDStM8JA.jpg"
+        },
+        {
+            "title": "11. Episódio 11",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=DquajFEniLdjPxE5lGnFyWuM7%2BkuX3%2Fz91vfmw%2BG4Zvl4jyE8LqZryMDbzh2XMYt&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=bcf87b0e3e50c1a310333e273e3e8e3147a01a9cce3922dd8023ab4bc78b38f5"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/nCQAKpfZGUEexSFtDAibK9hYuyp.jpg"
+        },
+        {
+            "title": "12. Episódio 12",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=%2BF8WGsMw6c%2B51zl3eJg7Lezw9L0taMdo6Tjyge77MOPjLTIvaykNv6h3Bf8bapWE&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=6ab89cc76997d9bcd84da3b98de637f174103286ed971bbcc7cf345963cfb7c1"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/iViWRwVH3RWPXWNEy8Wom3GpY1q.jpg"
+        },
+        {
+            "title": "13. Episódio 13",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=oLGlITfRLAUFuvg%2B0X3CZvImYikAvro4ojVu%2FbyOTTJ83d8aIUBxmpM1emXrmPXz&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=b15c2340a612a44b2faf579a65383f83445feeec2ab68fef63dba0c48540cc51"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/6VaBn1qWVBd0aAp7OTwyH0rsAaO.jpg"
+        },
+        {
+            "title": "14. Episódio 14",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=ZjVkOwtuSB5z7ko8Cywx1GA0HRRJp2wpYU4qEFzSmAfZJl1gXRzPAGp0v29XvILJ&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=2393fd63a72a270aa8e9431a666c1dcf41f6994a7fbed0612f779650dcf71147"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/eyaVaaYTfF3cKQ5UgIO4i6F9miA.jpg"
+        },
+        {
+            "title": "15. Episódio 15",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=%2BC28mVyJfUXu55GM28rSvicF4DWa4fr6jsi4of%2F%2FDzBJUuyBz1IS9JC3mv40lp7F&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=3816d7bd5cd56df87b51d05e99d76115b866e99d8d5e6d6dcdf0953e83a4d66b"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/jNXFecAOnyU8DRqaH7wIFx5903Z.jpg"
+        },
+        {
+            "title": "16. Episódio 16",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=z7%2FzU9yuu%2FiOC5N8Fu38KarVudrrn1ObO4txmJpB1l4EED9MmRfbg6GbpA9rE8fd&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=d6155e8c84584a2f4d15962144aa96806d9eb2a4267ba2988ea7a28806ce7424"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/raUblFsPhCHpAGZ1YnrbAsbb5Fv.jpg"
+        },
+        {
+            "title": "17. Episódio 17",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=B0HMAYsjQov2pZB2zFKNSqAWxEqXcLgxWoB%2FcuWbg9WuLIcTliLYwZdioaULahr6&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=5d6e83b0bf12fa2de13f04e83fc9bf31912362570136deda0eed6f7325e31d14"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/qtsOafYtGHAXyKduweSWLgy1yk5.jpg"
+        },
+        {
+            "title": "18. Episódio 18",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=TqwWEY3ijG%2BOOaihZSXKcQW%2BqVtqGXKf%2BAZq9T4YQl1jWYtYIQHKNOv%2F%2BdKKTcd0&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=db8bdb74882b7cbd3ea1e323ace2c8a881c87867d080949a4d69831f1b6b23b7"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/fLlL2CrMtClmQXMi0oCRydSMdI5.jpg"
+        },
+        {
+            "title": "19. Episódio 19",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=eCWtRTK9%2FAHSmgTSnCOdgefwT2j1WzN9DMOh%2F1e2IAabPZoMDQnhdUICnIYxIgBc&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=ff85acedfb60ddf14b4167646fb73c2f4d6ac2e01d00d190dc169a2ef461332e"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/aiqb1SMNHJLxChKT4ajIrtsktw3.jpg"
+        },
+        {
+            "title": "20. Episódio 20",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=MvJ1WMllVkfeDxEGpZOOLiPjurXclk%2FNVa47xRkpdEZpJp3Yk2uicBtUPNiCWdfJ&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=e8bafaf6e0ab1bf4c99bd54fc497f2779dc3945b685b29687c1a84e2de416218"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/tYUqWzMtiUgKjgKn3moUoQj1cTL.jpg"
+        },
+        {
+            "title": "21. Episódio 21",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=njEfnK7apAHMcGo4jS3cfqhYbt8fE%2FPP1KCY8aCp6FUQoinXaQPmghc%2FHMoZCtKv&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=58f2d36abdbabbdda8378f04ca0d6e6ec6cb08be68c3c51dd23e9fde0ecf26e8"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/qS09QZHU4qL5rhRLvrlClWLZCtX.jpg"
+        },
+        {
+            "title": "22. Episódio 22",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=H0Mpw30FHiAMP0FtrsOPki4Nx60E6qnLFja%2Bql20jvN90TTt4JJHf7OCnY6P81fD&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=e46920d4821b92692ef19373df834d7e0fc6112d0abd0b036e90e6b3ea548938"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/fviSnJLpKyFygoSd0JSUGIe6u8Y.jpg"
+        },
+        {
+            "title": "23. Episódio 23",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=GI%2BsYrA8b6JQvDrl%2BJDDJ8tCXYKNC4TRV54Ydj8bYkeT1uSPtKewe3Ar6zWjRSyl&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=7d5f667e2183b36d760ffe6af29eb67caa160e80661c7c86cb4762d770e0c1c9"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/nqy9SE4WEpy5CAJOE2sUCnnKRjh.jpg"
+        },
+        {
+            "title": "24. Episódio 24",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=zw6PlX9oK3emzODzDAH5f4siOXGn9rkqlFyoJBPqUXwkW14fE1%2FzgQhFEuk3RsJt&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=be0905501cf5837dff0282950b9bba1bad886dcde210d9a939895e5ddc88a494"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/90VNj1gNwUhOx1eVAEiMFpv4eXJ.jpg"
+        },
+        {
+            "title": "25. Episódio 25",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=oktWao5LNxm8Wc%2BBDgbJCvyx0%2BidFclTH1K%2B2og4WAPwhutrDnM5xYHtAIyiD5di&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=41a1c75682b11507838b7f502c96445b8297a665fa2fc64dcd616cd966934258"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/kojBAT6ifhAYPomSWyNacxUGipK.jpg"
+        },
+        {
+            "title": "26. Episódio 26",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=OYxZinJW%2FubVjKJ781Lsgm3gkJhGO4DJzR8wetqdHa89%2B0PURTDfAH7rpAbEZwKo&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=bd9a9388e31a7e1471d4a6df1668c63061b3772f8f0c94b94e1a799db82e89c5"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/wNPQYVowfWhkwsNyDT2Pahx4H2C.jpg"
+        },
+        {
+            "title": "27. Episódio 27",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=yBVqppu5xOJPHSzqosYcW8O0Lpol%2FrBE8r5%2FOsUXs%2FwOfmBp9F2ZTkV0b5ur9OtN&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=6510cac43f96e9ba1954549f484da8e0e0bd4372a6dbdd8cbd5a738a67d6818e"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/yDypMUwIzMqWj0K6sNt90HeZn3c.jpg"
+        },
+        {
+            "title": "28. Episódio 28",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=cm2UIhXxX6tiiGGTee6U11YQZHXrFc3MyXy8eGU4Y2Ggm%2Bz1GkD4kAJHjvEXTf8T&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=cc2e19d4c333148e4063ea5e3d06096f023684aa1f6d3087e0e305e4a9256d59"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/bFaJzliVjflzjewdJm4ku2fPHjw.jpg"
+        },
+        {
+            "title": "29. Episódio 29",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=%2FXKLvBD5B2%2FC%2B6vEj%2FHbu4CYaU0vep6mASO9sGrEWXr43jbylgAp1R73lhc3qepI&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=b914a1b06ba49e541b937332bce70568c44477fc70419bf9781e6531d0bd0bed"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/yH8nD2OOpmBjWm9QIZ1IYfcOeRC.jpg"
+        },
+        {
+            "title": "30. Episódio 30",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=HnQISbMjbsWcBihI8CvgeA%2BxdYmrtye7CG4ExuaUGKK7xm2Elh8NeQnPvBOg0KrK&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=ae19f81b34974c52f2a31295ce98dcedf116751693790d93be39199a8c4d7d72"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/fPEoaaeJcNwNyfazl5gPiLsuBPq.jpg"
+        },
+        {
+            "title": "31. Episódio 31",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=LSVD8nScwxPJhnQ2%2Bmr1ka%2F0WywJawHRayaROr6dra6qD%2BYk9a2oovhMwlPeoasE&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=e4de9ffef0312aacfcb2912bcb9f0483155da600851e11e723373f31c983de6a"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/xeA98idAqPfSCxir1N0msjpOeDL.jpg"
+        },
+        {
+            "title": "32. Episódio 32",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=FjOg21v2vok3XSLGpSBXrMD4y6kJrqBSrNfs1SMC2ceVWJamu29pK9atBmzaAvSJ&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=23547f1a3215f8e2215d8c36b14abed1da8b856adbfd560a093ed18407e9bc1f"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/4Rh477enVtVQiyiyob0EvMecJN2.jpg"
+        },
+        {
+            "title": "33. Episódio 33",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=Cc1XVrm2SGrBuFL%2F5wKZazK66qNIbh%2B%2FFHh5hNfpMBb0W1fYnkLC3ddLOABTK3s2&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=44183f5fe48cbf8f9f539ecfbbdcbe82f58fd81071186c2a99c225c9f0c1b5d7"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/A9djLnAHomdUcaUAZLRLcIoE2Fk.jpg"
+        },
+        {
+            "title": "34. Episódio 34",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=Y9Nm6HBoThOt33qqPEuNhnIrvksB5kvbiD0p8Efk4hdPrvNmXj2bvhdhVEmRdXwW&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=4f30fe82f625082d8c4cb13fe9cb66717c5fee649c1656cc0849c5c47488789b"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/cZcAWZViQglSwaOBDn7kA7QMh48.jpg"
+        },
+        {
+            "title": "35. Episódio 35",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=ljB%2Bett8Xpp%2Fsg%2F4GSZxzIZHSC9uEDzN4rtLzqeszPT1aq4uIMYITffwgKaV8XIV&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=ea6cce0cd9c573a6c794fcb4b9939c0dc6ff67dda674f7dcaa5583e5ca23cf6f"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/uisPcrZqI8GsvEUB0O480YxjPik.jpg"
+        },
+        {
+            "title": "36. Episódio 36",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=TQ8CB9pjOvOeDYvpkRYg4PCjVE2obRPjMjQ1Pin1wtlHNOGULJhp1QOSxyV2MnZ1&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=3cf3adadd6921edb0caff917518396f654a2203cbba8bd8ac7f781cb526148d2"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/yjA8NLX0UESNYkCprs4eCP5yJR7.jpg"
+        },
+        {
+            "title": "37. Episódio 37",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=FLajDmkdtsz%2Bl%2BFVz%2BFjD7tQzY2SiGNZtkq1Ili5WgwE%2FEo3pFt7CSzVG8o0dOZa&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=d9f463519b67ea1005c038d4323affd5ba5250e5c68cacaec1bbc2f0977020b4"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/v1yzyyx1GlNwdCCay6FHRcK18rp.jpg"
+        },
+        {
+            "title": "38. Episódio 38",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=qDnMkXXWoAOz0fABBf82tTjgojPHjGJvRxirZIIWXq0%2B7SBCdGuo5uPo3yhdYMF0&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=7acc8e02d970155bb8d8a56b56204cb0a4982f6194d8f14949624a786aa1b1b8"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/1gLmfTF9WEFhe6gopHm7YqRegpA.jpg"
+        },
+        {
+            "title": "39. Episódio 39",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=ZoHAushiLscyUbG7aWFvZoCTXy93RF4BWtDjv3VeSBbyaP4pkM7EbuKJP8x6RMR3&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=2b148ef2f987210d7fdbcf6123cf25ddf9db101ae68bf4880917a306f852997e"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/ojRxCby1m5FAmr8X0C6C0YcHBV7.jpg"
+        },
+        {
+            "title": "40. Episódio 40",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=BU%2BW8Z%2F39SogBo9oTP6eTaChj7VHO8sctLIOuqU8kN%2B6rCdvWPIhnSAW8w4cra9U&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=4cee5aeeb0c1817d77bdd8e88280a9271b9bdf7489d803794336128cfef4ac8b"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/AetJBRk2dUZ5H9wJiYZVcPZgOOT.jpg"
+        },
+        {
+            "title": "41. Episódio 41",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=OBb9pqLz0PvnRw9rIMygWkvMhuzXqJG1U7M2KnLD22i%2FtaWYYTmnO6%2BzTqlbXEy4&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=1bb1328259f1ca430e3d7708c670b7fc5487f09251559e5342e15aac6b42bb72"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/1Tuc3RcOddjifE1SLZ5dGgQGxAP.jpg"
+        },
+        {
+            "title": "42. Episódio 42",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=FMd3YNhk8bsO7BVTFz6mmni4Nk0E8WpDUDmQfxivXFnth5qc%2BB86xjjJj41UDs1L&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=5962ead4add1204e02df1973dd3097b5503837520fe0f0d9ff9b2a7157880a23"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/pAA7re6RzmdMb3Nj1oY9fxs2rSH.jpg"
+        },
+        {
+            "title": "43. Episódio 43",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=eChh1dYEed%2BRHebO2Y1%2BtNpg5IEl4QdYXeAlZ07irc8wp7iFmnsTqh9i6WImzEh3&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=9d7cbb43c5f91790745eeae43b1a8035302d3080c7da7a79e51c694a8697eacc"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/rH92Qastkg2dfCHKWSlNE5wSfUr.jpg"
+        },
+        {
+            "title": "44. Episódio 44",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=uLXBjknm7wKVeagONMq8NtpL4zWlkNw2EZZ5GKQ%2BQIWDiJPWh1PSQm66qMWBE%2FoE&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=48ff3325b39f734a8565c5704dd266fd65634196694206b988edd178618a1973"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/h0N3ay6joIbzQZxhO1dFm8uMaqi.jpg"
+        },
+        {
+            "title": "45. Episódio 45",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=pMKYdMCIAooAq0NueLIFg2xp9AOHaRTonUfEraCoeg4RSLHUtqvO0CauuoMegIsF&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=4fbf69467ce2eb203d81834681b7ef37b805471b0cc7e971bba2982f3489ee47"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/q4p0CEsx8GQzI1MPWnezusPdWxX.jpg"
+        },
+        {
+            "title": "46. Episódio 46",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=2%2FMOwlLgcIgP9J%2BtkX1ITS%2FAIN8%2FHBslkDg3AkvhWMYFTlzumQXT8GL5dtdReXXH&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=cb1f571be512f4f0c8daca620a8eb10a6f333d71af3e13232aeca01ce67e094b"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/uZjwPSVvBn40UiBQ1G95Zx8DRS9.jpg"
+        },
+        {
+            "title": "47. Episódio 47",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=32r%2F6fpzyQp7QHy%2BTdKZkORyR0XhAWu915N7DcYt92FGvqQe2IX0KCBTSKopis3s&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=d839c1eb5508ea9fa487260da50e83e4be11561adc4e2a9327934fc355b843c2"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/plPU05eiArtSuybqS0KYvTdtF4B.jpg"
+        },
+        {
+            "title": "48. Episódio 48",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=tTAkViQuzY97I0btlLgRW1kHOYpTDWnyf7csM8lc79UjgqEDzsKHowa5rbq7WC6Q&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=2de2e184ecd0533a15a60d13973ac5e05314d588ed49433b2713292d74ba0c82"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/m6sir8YVeSpiuKmMvOasXjp5Eb8.jpg"
+        },
+        {
+            "title": "49. Episódio 49",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=Luidzw1msc%2FyIXQBsuvNoZcXrZh5Srb9g9RxDkS0OhYXfgt7H43qpAQsDygpjgrq&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=f3fe129140b189875c42b6680cef174ba644c37723f2fe123c4b190dd60bcb0b"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/tNwodsWlgvcfUNAXauwz1jJocJv.jpg"
+        },
+        {
+            "title": "50. Episódio 50",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=Lw9zd8wo7pSfXLZsdlKeru1%2BRdIs37KaBfAhmJK3UY9xkanmtKxSeFXdQcaWUwpk&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=1eb80c76b4d1e36be51d23bc755bbc7eeb86e0a042ecbe0c24cf1a9c90f961bd"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/pJfTk1rPdLBmopI4hV1yuntnR1I.jpg"
+        },
+        {
+            "title": "51. Episódio 51",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=yzNnKZFVj7Rv%2BZ1%2BdYGeI%2FELdxWbL1I6NKLclf6A0cK3UUHMmXOSMAMvG7kAieHz&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=0f28da95339c56b69c89220563b1dfff7c379bf4214b53230900abcade60fe3b"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/nCGDxyo8GqApP3aX7m4X6FG4NpF.jpg"
+        },
+        {
+            "title": "52. Episódio 52",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=0gmjRMmy8SI9NPO7iRhxhXgJukmcG1bVa1C30CA7eUQJpa14OrWej0Guy%2FH8XbIB&expiry=0KAeTZSlZ%2FifAdOV3846bg%3D%3D&mac=8a9f6732ea9cec80c3a81df4a66347e6b8fd4547959ef591fe06de5a93697d3b"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 10,
+            "poster": "https://image.tmdb.org/t/p/original/lOPB2oevlsp5XaH6bPkPhIh3r6p.jpg"
+        }
+    ]
+}

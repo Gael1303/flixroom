@@ -1,0 +1,94 @@
+{
+    "episodios": [
+        {
+            "title": "01. Episódio 1",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f173bf9f407addc29c1fa9346677462530acd856(EP 01. DUAL)"
+            ],
+            "rating": 1.0,
+            "synopsis": "",
+            "runtime": 66,
+            "poster": "https://image.tmdb.org/t/p/original/fODNqTb3d8Yb6fWirl1m81InFQm.jpg"
+        },
+        {
+            "title": "02. Episódio 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f173bf9f407addc29c1fa9346677462530acd856(EP 01. DUAL"
+            ],
+            "rating": 1.0,
+            "synopsis": "",
+            "runtime": 56,
+            "poster": "https://image.tmdb.org/t/p/original/gul6AInOVGMbmLibxULU8Lal6Y.jpg"
+        },
+        {
+            "title": "03. Episódio 3",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 42,
+            "poster": "https://image.tmdb.org/t/p/original/bcbCrcrvI26VHv1SMYthwYX7yVZ.jpg"
+        },
+        {
+            "title": "04. Episódio 4",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 41,
+            "poster": ""
+        },
+        {
+            "title": "05. Episódio 5",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 53,
+            "poster": ""
+        },
+        {
+            "title": "06. Episódio 6",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 56,
+            "poster": ""
+        },
+        {
+            "title": "07. Episódio 7",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 56,
+            "poster": ""
+        },
+        {
+            "title": "08. Episódio 8",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "09. Episódio 9",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        }
+    ]
+}
