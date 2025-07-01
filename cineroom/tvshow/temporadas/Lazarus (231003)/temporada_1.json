@@ -1,0 +1,134 @@
+{
+    "episodios": [
+        {
+            "title": "01. Adeus, Mundo Cruel",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26b483de801be5a1f801396f5cafa6c9155be32b(EP 01. DUAL)"
+            ],
+            "rating": 8.5,
+            "synopsis": "Uma droga milagrosa chamada Hapna ameaça acabar com a humanidade.",
+            "runtime": 25,
+            "poster": "https://image.tmdb.org/t/p/original/msD8CqPajMRo3VtRGuh85ZNIPfc.jpg"
+        },
+        {
+            "title": "02. A Vida na Via Rápida",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26b483de801be5a1f801396f5cafa6c9155be32b(EP 02. DUAL)"
+            ],
+            "rating": 7.8,
+            "synopsis": "A hacker genial Eleina encontra uma possível pista para achar Skinner.",
+            "runtime": 25,
+            "poster": "https://image.tmdb.org/t/p/original/qMoLjUbiHtE2NeGBabOo25kbrbP.jpg"
+        },
+        {
+            "title": "03. Bem Longe de Casa",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26b483de801be5a1f801396f5cafa6c9155be32b(EP 03. DUAL)"
+            ],
+            "rating": 8.8,
+            "synopsis": "Uma busca na casa de Skinner e uma entrevista com seu antigo colega revelam uma nova pista.",
+            "runtime": 25,
+            "poster": "https://image.tmdb.org/t/p/original/7totlChbNX9oYF8WaOFrmv7frC7.jpg"
+        },
+        {
+            "title": "04. Não Pare a Dança",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26b483de801be5a1f801396f5cafa6c9155be32b(EP 04. DUAL)"
+            ],
+            "rating": 9.0,
+            "synopsis": "A equipe investiga um clube de propriedade de um corretor da bolsa que enriqueceu com a Hapna.",
+            "runtime": 25,
+            "poster": "https://image.tmdb.org/t/p/original/bCnBswvlLcDxun2PUUwvhWw2wmz.jpg"
+        },
+        {
+            "title": "05. Belos Desocupados",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26b483de801be5a1f801396f5cafa6c9155be32b(EP 05. DUAL)"
+            ],
+            "rating": 8.2,
+            "synopsis": "A equipe tenta fazer com que Skinner saia do esconderijo com uma cura falsa encenada pelo presidente da Delta Medicinal, mas um hacker se intromete.",
+            "runtime": 25,
+            "poster": "https://image.tmdb.org/t/p/original/cPUUaww66P1UTrFAOJZ13V1L1RD.jpg"
+        },
+        {
+            "title": "06. O Paraíso Fica na Terra",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26b483de801be5a1f801396f5cafa6c9155be32b(EP 06. DUAL)"
+            ],
+            "rating": 8.3,
+            "synopsis": "Uma comunidade isolada onde Eleina viveu é identificada como um possível esconderijo de Skinner.",
+            "runtime": 25,
+            "poster": "https://image.tmdb.org/t/p/original/y3D43IgXfWHgW3TWl5X6GvIbhuq.jpg"
+        },
+        {
+            "title": "07. Quase Triste",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26b483de801be5a1f801396f5cafa6c9155be32b(EP 07. DUAL)"
+            ],
+            "rating": 9.0,
+            "synopsis": "As coordenadas de uma IA levam a umas ilhas que Skinner comprou pouco antes de elas afundarem com o aumento do nível do mar.",
+            "runtime": 25,
+            "poster": "https://image.tmdb.org/t/p/original/5gcGM3bb3eQlsiCb7HzfFvanxDA.jpg"
+        },
+        {
+            "title": "08. Fogo Inesquecível",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26b483de801be5a1f801396f5cafa6c9155be32b(EP 08. DUAL)"
+            ],
+            "rating": 9.0,
+            "synopsis": "Chris é mantida em cativeiro em uma plataforma de petróleo no Ártico por agentes russos.",
+            "runtime": 25,
+            "poster": "https://image.tmdb.org/t/p/original/qi1xAmCotNXiIVyr0TUIzgQoJG5.jpg"
+        },
+        {
+            "title": "09. Morte Sobre Duas Pernas",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26b483de801be5a1f801396f5cafa6c9155be32b(EP 09. DUAL)"
+            ],
+            "rating": 8.0,
+            "synopsis": "Durante uma investigação para determinar o futuro de Lazarus surgem informações que levam Schneider do INSCOM a contratar um assassino.",
+            "runtime": 25,
+            "poster": "https://image.tmdb.org/t/p/original/fzpjOd7bYmwv5M6meehCoLo8sXG.jpg"
+        },
+        {
+            "title": "10. Não Posso Contar o Porquê",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26b483de801be5a1f801396f5cafa6c9155be32b(EP 10. DUAL)"
+            ],
+            "rating": 8.0,
+            "synopsis": "O histórico médico de Skinner fornece uma pista, mas exige que entrem em uma clínica particular.",
+            "runtime": 25,
+            "poster": "https://image.tmdb.org/t/p/original/hnSg0GBBGjAmGXN4BdDFtRji0kb.jpg"
+        },
+        {
+            "title": "11. Correndo com o Demônio",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26b483de801be5a1f801396f5cafa6c9155be32b(EP 11. DUAL)"
+            ],
+            "rating": 9.0,
+            "synopsis": "Doug e Eleina vão para Islamabad em busca do hacker esquivo, mas são perseguidos pelo INSCOM.",
+            "runtime": 25,
+            "poster": "https://image.tmdb.org/t/p/original/fdNRDRnP90rkLeDJdxpyzRDCFqn.jpg"
+        },
+        {
+            "title": "12. Perto do Limite",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26b483de801be5a1f801396f5cafa6c9155be32b(EP 12. DUAL)"
+            ],
+            "rating": 9.0,
+            "synopsis": "Eleina consegue uma pista do Popcorn Wizard para Skinner, mas com Hersch, Axel e Doug fora de combate, cabe a Chris e Leland resolver o caso.",
+            "runtime": 25,
+            "poster": "https://image.tmdb.org/t/p/original/3OWmm55wacrI8WCgWt4Qtu2zpp7.jpg"
+        },
+        {
+            "title": "13. O Mundo é Seu",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26b483de801be5a1f801396f5cafa6c9155be32b(EP 13. DUAL)"
+            ],
+            "rating": 9.0,
+            "synopsis": "Abel conduz um ataque para libertar Hersch, enquanto Axel se esgueira para enfrentar seu nêmesis.",
+            "runtime": 25,
+            "poster": "https://image.tmdb.org/t/p/original/6vWeBjVK2MEQYHNkgjiRyQ98UwQ.jpg"
+        }
+    ]
+}
