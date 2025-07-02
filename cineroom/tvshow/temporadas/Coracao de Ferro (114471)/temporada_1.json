@@ -31,34 +31,34 @@
             "poster": "https://image.tmdb.org/t/p/original/y7okgno9wTmDBA6Ko4cku67n7pG.jpg"
         },
         {
-            "title": "04. Episódio 4",
+            "title": "04. Magia Ruim",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9a2ca2f242fa1f38d017d1fad397f56617cc517(EP 04. DUAL)"
             ],
-            "rating": 3.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 4.6,
+            "synopsis": "Quando Parker suspeita que Riri fez algo errado, ela precisa que descobrir a fonte de seus poderes.",
+            "runtime": 53,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/iPx66Tvs6sspPd0R8NA0cSfYKUz.jpg"
         },
         {
-            "title": "05. Episódio 5",
+            "title": "05. Karma é Uma Falha",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9a2ca2f242fa1f38d017d1fad397f56617cc517(EP 05. DUAL)"
             ],
-            "rating": 3.2,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 4.8,
+            "synopsis": "Riri decide criar um traje diferente de tudo que já tentou, mas a que custo?",
+            "runtime": 60,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/n3sbxzdUeqcjpAqz8T2p5rFgHBz.jpg"
         },
         {
-            "title": "06. Episódio 6",
+            "title": "06. O Passado é o Passado",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9a2ca2f242fa1f38d017d1fad397f56617cc517(EP 06. DUAL)"
             ],
-            "rating": 3.4,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 4.8,
+            "synopsis": "Riri constrói seu traje mais poderoso, sem a certeza de que bastará para derrotar Parker e o Capuz.",
+            "runtime": 42,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/hZELKSZqF2jI3aius8PZBWCJZnL.jpg"
         }
     ]
 }
