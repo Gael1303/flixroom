@@ -1,0 +1,24 @@
+{
+    "episodios": [
+        {
+            "title": "01. Episódio 1",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7aa60ab5a14aa4623c50d110e2848a965ef55429(EP 01. DUAL)"
+            ],
+            "rating": 7.1,
+            "synopsis": "Sete crianças marginalizadas se unem para destruir um palhaço metamorfo que mata crianças em sua cidade.",
+            "runtime": 96,
+            "poster": "https://image.tmdb.org/t/p/original/nkSaoWhG5mQshae86Qb32R4azyU.jpg"
+        },
+        {
+            "title": "02. Episódio 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7aa60ab5a14aa4623c50d110e2848a965ef55429(EP 02. DUAL)"
+            ],
+            "rating": 6.4,
+            "synopsis": "Trinta anos depois, o clube dos perdedores deve retornar a Derry quando Pennywise retornar, enfrentando-o pela última vez.",
+            "runtime": 96,
+            "poster": "https://image.tmdb.org/t/p/original/lGTKEQ6QXo1FVHxD7d7p9GfkZ6.jpg"
+        }
+    ]
+}
