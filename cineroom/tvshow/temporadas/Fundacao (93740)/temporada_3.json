@@ -1,0 +1,14 @@
+{
+    "episodios": [
+        {
+            "title": "E01. Uma Canção para o Fim de Todas as Coisas",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3f236512b59ca805a5b1e3b3ff6965fde883138(EP 01. DUAL)"
+            ],
+            "rating": 3.8,
+            "synopsis": "Um novo pirata misterioso com habilidades aterrorizantes conhecido como o Mulo chama a atenção da Fundação e do Império.",
+            "runtime": 52,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/9YXWjKj6SDCaE3SaWbyfjjrPJIt.jpg"
+        }
+    ]
+}
