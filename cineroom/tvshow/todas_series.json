@@ -3640,6 +3640,44 @@
         "clearlogo": "https://image.tmdb.org/t/p/original/sOHgD8zKodsDSXaTvlcUTHTz22.png"
     },
     {
+        "tmdb_id": 14853,
+        "popularity": 108.2162,
+        "title": "O Clone",
+        "rating": 8.027,
+        "classification": "12",
+        "year": 2001,
+        "premiered": "01/10/2001",
+        "date_added": "2025-07-12",
+        "synopsis": "Lucas e Jade se apaixonam no Marrocos. Lucas é irmão gêmeo de Diogo, que morre em um acidente. Albieri tentar fazer a primeira clonagem humana para trazer Diogo de volta.",
+        "poster": "https://image.tmdb.org/t/p/original/7lurHhkwgz4xrFvplmHrMqqjwkV.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/jdzd5rTeUi1njP4SPJf43SpDSUf.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/2STAJyqqTeSlY3PNztJcF1Eh7Y8.png",
+        "studio": [
+            "TV Globo"
+        ],
+        "genres": [
+            "Novela",
+            "Drama",
+            "Sci-Fi & Fantasy"
+        ],
+        "providers": [
+            "VIX ",
+            "Okko",
+            "Globoplay",
+            "ViX Premium Amazon Channel"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 10.0,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/4UiovpqPnttTdVrUzbjFIKlXjnc.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Clone%20%2814853%29/temporada_1.json"
+            }
+        ]
+    },
+    {
         "tmdb_id": 71728,
         "popularity": 107.69,
         "trending": true,
@@ -5222,6 +5260,51 @@
         "clearlogo": "https://image.tmdb.org/t/p/original/fvTKFoPshIWu8RtRjW4vhRonnrD.png"
     },
     {
+        "tmdb_id": 6673,
+        "popularity": 83.9707,
+        "title": "As Trapalhadas de Flapjack",
+        "rating": 8.048,
+        "classification": "L",
+        "year": 2008,
+        "premiered": "05/06/2008",
+        "date_added": "2025-07-12",
+        "synopsis": "A série gira em torno de Flapjack e Capitão Falange. Flapjack é um garoto muito meigo e fofo que foi criado por uma baleia falante chamada Bolha, e sua vida é muito pacifica, até que ele conhece Capitão Falange, que se diz ser um aventureiro mas não passa de um cara preguiçoso. Juntos, Flapjack e Falange pretendem encontrar a ilha açúcar, para pegar todos os doces dessa ilha misteriosa e açucarada.",
+        "poster": "https://image.tmdb.org/t/p/original/iXM1bnRBwxOm49PHQRd9q9eMNAc.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/80KgNNF0bpoDvU5iNXT07Lgb2wL.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/6IWsiTP0D2iSBVzWpfFxqz5M7dL.png",
+        "studio": [
+            "Cartoon Network"
+        ],
+        "genres": [
+            "Sci-Fi & Fantasy",
+            "Comédia",
+            "Animação"
+        ],
+        "providers": [
+            "TELETOON+ Amazon Channel",
+            "HBO Max Amazon Channel",
+            "HBO Max",
+            "Hulu"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 8.0,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/xXeErymgo7qjH96dM0Wi4Ida22v.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Trapalhadas%20de%20Flapjack%20%286673%29/temporada_1.json"
+            },
+            {
+                "title": "2ª Temporada",
+                "rating": 0.0,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/fDztdiUatGN4zZO7372QivY0Pan.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Trapalhadas%20de%20Flapjack%20%286673%29/temporada_2.json"
+            }
+        ]
+    },
+    {
         "tmdb_id": 61222,
         "popularity": 83.9395,
         "trending": true,
@@ -6439,6 +6522,42 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/jXLNOzeEA8AoJy92dJTUUZXTMxK.png"
+    },
+    {
+        "tmdb_id": 58566,
+        "popularity": 67.512,
+        "title": "Chiquititas",
+        "rating": 8.45,
+        "classification": "Desconhecido",
+        "year": 2013,
+        "premiered": "15/07/2013",
+        "date_added": "2025-07-12",
+        "synopsis": "Fundado por um empresário com motivos misteriosos, o orfanato Raio de Luz é a casa de Mili e várias outras crianças que enfrentam juntas os desafios da vida.",
+        "poster": "https://image.tmdb.org/t/p/original/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/taVpgDdtwqgPbgwIFEBSU4I5vuV.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/lgmCPHJpJfvDxImicmpt6SKxOqB.png",
+        "studio": [
+            "SBT"
+        ],
+        "genres": [
+            "Kids",
+            "Família",
+            "Novela"
+        ],
+        "providers": [
+            "Netflix",
+            "Netflix Standard with Ads"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 5.5,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/xQnhvUASsTaMoEswShUeVQcyVeX.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Chiquititas%20%2858566%29/temporada_1.json"
+            }
+        ]
     },
     {
         "tmdb_id": 1424,
@@ -9364,6 +9483,64 @@
             "Paramount Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/zrao3FW6xKcx5QsBoNLEmO2gjVt.png"
+    },
+    {
+        "tmdb_id": 2085,
+        "popularity": 44.1889,
+        "title": "Coragem, o Cão Covarde",
+        "rating": 8.176,
+        "classification": "L",
+        "year": 1999,
+        "premiered": "12/11/1999",
+        "date_added": "2025-07-12",
+        "synopsis": "Coragem é um cão incrivelmente tímido e muito fácil de assustar que precisa defender um velho casal de aposentados de acontecimentos paranormais que ameaçam a segurança e a estabilidade da sua casa.",
+        "poster": "https://image.tmdb.org/t/p/original/yLn8nI9Ec3LZ1WflYxo9MjF4BBg.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/cFuk3BU0sid8dby05eyyBPtK4dD.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/aDH0El9joHNWWxaAtq7HdVrsGWd.png",
+        "studio": [
+            "Cartoon Network"
+        ],
+        "genres": [
+            "Animação",
+            "Família",
+            "Sci-Fi & Fantasy",
+            "Comédia",
+            "Kids"
+        ],
+        "providers": [
+            "HBO Max"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 7.1,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/xBJji2a1lJwXA8hEED7HMoRCRgp.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Coragem%2C%20o%20Cao%20Covarde%20%282085%29/temporada_1.json"
+            },
+            {
+                "title": "2ª Temporada",
+                "rating": 6.9,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/yTFCLjCKaWx3vhl2kLywQH01j1r.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Coragem%2C%20o%20Cao%20Covarde%20%282085%29/temporada_2.json"
+            },
+            {
+                "title": "3ª Temporada",
+                "rating": 7.0,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/5cwQ91I48l4YTvwLbsbhatMuO.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Coragem%2C%20o%20Cao%20Covarde%20%282085%29/temporada_3.json"
+            },
+            {
+                "title": "4ª Temporada",
+                "rating": 7.0,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/yatgFOhMjK6nqvR72jS5X47QGgZ.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Coragem%2C%20o%20Cao%20Covarde%20%282085%29/temporada_4.json"
+            }
+        ]
     },
     {
         "tmdb_id": 125282,
@@ -15846,6 +16023,44 @@
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/rT6JGXZ8a8a9ZDaY3OyidrqNvFd.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Aaahh%21%21%21%20Monstros%20%282429%29/temporada_3.json"
+            }
+        ]
+    },
+    {
+        "tmdb_id": 45815,
+        "popularity": 11.02,
+        "title": "Avenida Brasil",
+        "rating": 8.113,
+        "classification": "12",
+        "year": 2012,
+        "premiered": "26/03/2012",
+        "date_added": "2025-07-12",
+        "synopsis": "Rita é abandonada no lixão pela madrasta após seu pai morrer. Anos depois e sob nova identidade, a menina se infiltra na mansão da nova família de Carminha para se vingar dela.",
+        "poster": "https://image.tmdb.org/t/p/original/fLtwgSeFKtyVDCJ9SefLrIt6ZWn.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/5ssgDp28z1Nif6hR8OFrNQUspd4.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/oMawKBZNT4aRq0DUnEpr1iUzuqD.png",
+        "studio": [
+            "TV Globo"
+        ],
+        "genres": [
+            "Novela",
+            "Drama",
+            "Mistério",
+            "Crime"
+        ],
+        "providers": [
+            "Amazon Prime Video with Ads",
+            "Amazon Prime Video",
+            "Globoplay"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 7.5,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/fLtwgSeFKtyVDCJ9SefLrIt6ZWn.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Avenida%20Brasil%20%2845815%29/temporada_1.json"
             }
         ]
     },
