@@ -1,7 +1,7 @@
 {
     "episodios": [
         {
-            "title": "01. Episódio 1",
+            "title": "E01. Piloto",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f173bf9f407addc29c1fa9346677462530acd856(EP 01. DUAL)"
             ],
@@ -11,7 +11,7 @@
             "poster": "https://image.tmdb.org/t/p/original/fODNqTb3d8Yb6fWirl1m81InFQm.jpg"
         },
         {
-            "title": "02. Episódio 2",
+            "title": "E02. Sua felicidade me deixa triste",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f173bf9f407addc29c1fa9346677462530acd856(EP 01. DUAL"
             ],
@@ -21,7 +21,7 @@
             "poster": "https://image.tmdb.org/t/p/original/gul6AInOVGMbmLibxULU8Lal6Y.jpg"
         },
         {
-            "title": "03. Episódio 3",
+            "title": "E03. Leite estranho",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
             ],
@@ -31,17 +31,17 @@
             "poster": "https://image.tmdb.org/t/p/original/bcbCrcrvI26VHv1SMYthwYX7yVZ.jpg"
         },
         {
-            "title": "04. Episódio 4",
+            "title": "E04. Morango",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e98ecef35254794b48a2e35626b920f7326ead0e"
             ],
-            "rating": 0.0,
-            "synopsis": "",
+            "rating": 1.0,
+            "synopsis": "Gudsen revela partes sombrias de seu passado. Calderone vai ainda mais fundo. Freddy começa a perder o controle.",
             "runtime": 41,
-            "poster": ""
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/rXPlMSnFpL0KHsPmFfMXBHiaaPF.jpg"
         },
         {
-            "title": "05. Episódio 5",
+            "title": "E05. Tamanho importa",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
             ],
@@ -51,7 +51,7 @@
             "poster": ""
         },
         {
-            "title": "06. Episódio 6",
+            "title": "E06. Episódio 6",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
             ],
@@ -61,7 +61,7 @@
             "poster": ""
         },
         {
-            "title": "07. Episódio 7",
+            "title": "E07. Episódio 7",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
             ],
@@ -71,7 +71,7 @@
             "poster": ""
         },
         {
-            "title": "08. Episódio 8",
+            "title": "E08. Episódio 8",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
             ],
@@ -81,7 +81,7 @@
             "poster": ""
         },
         {
-            "title": "09. Episódio 9",
+            "title": "E09. Episódio 9",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
             ],
