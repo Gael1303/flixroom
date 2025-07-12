@@ -1,10 +1,84 @@
 {
     "episodios": [
         {
-            "title": "Dark: Temporada 2",
+            "title": "01. Começos e fins",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3541f9b285261f92d201b83e56181d465127ef72"
-            ]
+                "https://1.animezeydl.workers.dev/download.aspx?file=doT11tnH746GIYtukjrk0yRKG5ojN6vgVNU0lMbR%2B22khouIs1x3Nri%2BbYjYH4vv&expiry=PCWs9ITEncmeob3fTQBvtw%3D%3D&mac=b291bfd55011849b8bed32e1d2552c743093d4d20cf7a73bed28c44e09891bb7"
+            ],
+            "rating": 7.982,
+            "synopsis": "Seis meses após os desaparecimentos, a polícia cria uma força-tarefa. Em 2052, Jonas descobre que Winden sucumbiu a uma tragédia apocalíptica.",
+            "runtime": 54,
+            "poster": "https://image.tmdb.org/t/p/original/vMNgEJ1jAZHKRa5BFMOMEf2chCD.jpg"
+        },
+        {
+            "title": "02. Matéria escura",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=hD1%2F7Jv0XMCfllvsM2rAQ8TdiRMiWaX4eVvjzbbHqMOEyvVu%2FyDfV8AS6cUW0rce&expiry=PCWs9ITEncmeob3fTQBvtw%3D%3D&mac=9da262f1804944d596012c51569ec98b92b7ea0383320077fb026751a18810f1"
+            ],
+            "rating": 8.385,
+            "synopsis": "Clausen e Charlotte interrogam Regina. O Estranho leva Hannah a 1987, quando Claudia tem um encontro tenso, e Egon visita um velho inimigo.",
+            "runtime": 55,
+            "poster": "https://image.tmdb.org/t/p/original/cCEfceBlCuqIshrvRJMED9Wr77c.jpg"
+        },
+        {
+            "title": "03. Fantasmas",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=cgR8VOJKIhmocLdfNcdPZlTPeZKaCn%2F9Uoabbsg9H46kCJi9GGF3HyRPsU1kn8ZC&expiry=PCWs9ITEncmeob3fTQBvtw%3D%3D&mac=8b1c51216589b0a6f129e73f8f4b2f6e85718900bdd5a4d9930d06656f272d16"
+            ],
+            "rating": 8.415,
+            "synopsis": "Em 1954, Helge reaparece, mas só aceita falar com Noah. Em 1987, Claudia leva a máquina do tempo a Tannhaus, e Egon volta a questionar Ulrich.",
+            "runtime": 56,
+            "poster": "https://image.tmdb.org/t/p/original/t4NoLNFHJgeJiPzNDHD3cYbfht.jpg"
+        },
+        {
+            "title": "04. Os viajantes",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=T81s2aZ855v%2Bgmn90cxtg5pXnpLCWxMYbggfusLs402faRuZVZB15UPQX4CvGABA&expiry=PCWs9ITEncmeob3fTQBvtw%3D%3D&mac=84f0de1eb42a4c2d1028a60b5c619182f920f0307d3f6e0f200b3e5674e275f1"
+            ],
+            "rating": 8.887,
+            "synopsis": "Jonas encontra uma figura ameaçadora. Enquanto os jovens buscam respostas na caverna, os adultos no bunker compartilham informações sobre os viajantes.",
+            "runtime": 61,
+            "poster": "https://image.tmdb.org/t/p/original/uzgMU4WOp8ETxP0ZOqdy6ibf3aJ.jpg"
+        },
+        {
+            "title": "05. Achados e perdidos",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=KJ3Qc1al%2BH4YmDpFBkIcJ3HNJOitOyAqMM8MYKxs8Ky5e1kwfKVNMuSxu7lqAW8C&expiry=PCWs9ITEncmeob3fTQBvtw%3D%3D&mac=1a83610d7ef257277ed5a83ebca0dcdc5a68514cddf344edc4f74ab36c96f3eb"
+            ],
+            "rating": 8.7,
+            "synopsis": "Em 1987, Ulrich aproveita uma oportunidade. Os jovens voltam à caverna com a máquina do tempo, e Jonas descobre uma brecha que pode mudar o futuro.",
+            "runtime": 56,
+            "poster": "https://image.tmdb.org/t/p/original/5YfrW5ef19tQlf8TF6xbsAxFGRL.jpg"
+        },
+        {
+            "title": "06. Ciclo sem fim",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=Y0iEjoI6yRSdNvomnVJ97%2BCkGjz7XUW7blbEJzt3CjE9WcCBkCkYpXdNkQNSiFZB&expiry=PCWs9ITEncmeob3fTQBvtw%3D%3D&mac=ccfed3ee31f12f8e8bf4eb825e896d12e57af11fde7843833688fe43cd438bf2"
+            ],
+            "rating": 8.796,
+            "synopsis": "Munido de um plano para impedir o apocalipse, Jonas viaja a 2019. Ulrich dá uma escapada com Hannah durante sua festa de aniversário de casamento.",
+            "runtime": 55,
+            "poster": "https://image.tmdb.org/t/p/original/riyVU5JGXrHXAuH8JaXjxAVYKQG.jpg"
+        },
+        {
+            "title": "07. Diabo branco",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=eb9b6e%2FUs%2FeEikSuoEGb22tVvdZXKpHJJGkdNkXZQKSlLjk0qSSW21SzKoFhpg70&expiry=PCWs9ITEncmeob3fTQBvtw%3D%3D&mac=63b4f48ffd144823ca586263775329bf378af557a5980d42a7abc3226007be8b"
+            ],
+            "rating": 8.694,
+            "synopsis": "Martha descobre a identidade do Estranho. Claudia tenta evitar a morte de Egon em 1987. Hannah viaja a 1954 para ver Ulrich.",
+            "runtime": 58,
+            "poster": "https://image.tmdb.org/t/p/original/A6VRrObcdoDk7ne9pCNIP4GLXX8.jpg"
+        },
+        {
+            "title": "08. Fins e começos",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=k%2B%2FgxMdUTgefph%2BCeD6RIXGVK0%2FyY0Y5BpgA6DNk1z8PxyTcP%2BapHXP%2B3fyqFppf&expiry=PCWs9ITEncmeob3fTQBvtw%3D%3D&mac=76c752c6b7f7ce637827f8a78049c06253c8874d3ff3969c2cd291f715eb71f6"
+            ],
+            "rating": 8.943,
+            "synopsis": "No dia do apocalipse, Clausen vai à usina com um mandado de busca. Jonas e Claudia usam a máquina do tempo para ligar passado e futuro.",
+            "runtime": 58,
+            "poster": "https://image.tmdb.org/t/p/original/4wunmwE7gtw6wp2SbA8DJk8Rgau.jpg"
         }
     ]
 }

@@ -1,10 +1,114 @@
 {
     "episodios": [
         {
-            "title": "Dark: Temporada 1",
+            "title": "E01. Segredos",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b9c90c97d4781b07767c331a687196a1cd1a17b"
-            ]
+			    "https://1.animezeydl.workers.dev/download.aspx?file=Ws%2FDRi7ny7E6I8ZadX6%2Buz8emFwnuRRkeB1bgLqNnW%2Fg6lHJ8QqzW7cWrAYvSyKf&expiry=gBPHLr5uefqNZl%2B5qYcpaw%3D%3D&mac=38d257ddd02d056f2a3a462347837da3787dfe3abe350828059b6ef0da39a1a0(4K - DUAL AUDIO)",
+                "https://1.animezeydl.workers.dev/download.aspx?file=2mRG0AjC4fnkziPBBq4GupxaTKI8eoyn0J9GU54SXDIi3MuS1ocFufjUnitE2Ndf&expiry=rKpCxBt3B%2Fb%2FkpqC3rvyXQ%3D%3D&mac=b67b1a03c7a0e4d41518038e53f475a621565b1db5a90704163598a7b16e4f86"
+            ],
+            "rating": 8.017,
+            "synopsis": "Em 2019, o desaparecimento de um menino gera medo entre os moradores de Winden, uma pequena cidade alemã com uma história estranha e trágica.",
+            "runtime": 52,
+            "poster": "https://image.tmdb.org/t/p/original/ljQC5U5Ag86vRylCR5gmf78fVaS.jpg"
+        },
+        {
+            "title": "E02. Mentiras",
+            "url": [
+			    "https://1.animezeydl.workers.dev/download.aspx?file=L%2F4xNc8RX%2BOUV%2FvyqM9YbE%2F3auSJpvkBUJRxN%2FpsAt8Kpb1jmRV4dgYF316AHwa6&expiry=gBPHLr5uefqNZl%2B5qYcpaw%3D%3D&mac=3cfe3bee00f9103134d960816e3ed8f32a9a2b4ef18aaddfebd257ed03ffe637(4K - DUAL AUDIO)",
+                "https://1.animezeydl.workers.dev/download.aspx?file=6GZnA30NKtZ20CnwkwSC2OvZF6hV71XQFwgOC5RU70cZ%2FzFuc%2BBD1MlG0Ale4Q6b&expiry=rKpCxBt3B%2Fb%2FkpqC3rvyXQ%3D%3D&mac=05c17e92c27b916a710f2c0e16cc9a70c7aae9013b7cf53fc62e42b5fbafaa52"
+            ],
+            "rating": 7.809,
+            "synopsis": "Uma descoberta deixa a polícia desconcertada e faz Ulrich pedir um mandado de busca para a usina nuclear. Um homem misterioso chega ao hotel.",
+            "runtime": 45,
+            "poster": "https://image.tmdb.org/t/p/original/oFTNaNwF1g0GCQPTXgHviixMCDM.jpg"
+        },
+        {
+            "title": "E03. Passado e presente",
+            "url": [
+			    "https://1.animezeydl.workers.dev/download.aspx?file=oZZ5Ii5ZVp3CWils9PT5lpQXr626H9k%2FthQZ38%2FDyKECjkcZXCEOOf%2B3M4p4JePv&expiry=gBPHLr5uefqNZl%2B5qYcpaw%3D%3D&mac=8444a82b27e4f6f4015f99bcca93eab6da876e001bc21450d5c5d651d1369ae4(4K - DUAL AUDIO)",
+                "https://1.animezeydl.workers.dev/download.aspx?file=cRVdsGkOAZ0DXOteFiUADtREdDffMFaiuY1VFtupq7zr6pYyL7B%2FxRSFaeg8t5%2FM&expiry=rKpCxBt3B%2Fb%2FkpqC3rvyXQ%3D%3D&mac=7eb86dc867dfaf6b7dcf210e79ad13975ac394ee32f24bfa2ba996eb5f61a8dc"
+            ],
+            "rating": 8.2,
+            "synopsis": "O ano é 1986, e o irmão de Ulrich, Mads, está desaparecido há um mês. Tudo fica confuso com o entrelaçamento de passado e presente.",
+            "runtime": 46,
+            "poster": "https://image.tmdb.org/t/p/original/63pMJ4CLC7MDzjgWWlGZ2NKOG6o.jpg"
+        },
+        {
+            "title": "E04. Vidas duplas",
+            "url": [
+			    "https://1.animezeydl.workers.dev/download.aspx?file=c58KyOptBgUNVNfdCbP6KXxwqNFG5K474RFBMgWmppu1C5WiZpZ7KQcvxGKEtdWR&expiry=gBPHLr5uefqNZl%2B5qYcpaw%3D%3D&mac=98b479c7d23d2f1bd3c1adadd465f7ec2c91bb6e03396a6c69920242b5982007(4K - DUAL AUDIO)",
+                "https://1.animezeydl.workers.dev/download.aspx?file=TqhLWzUrrniPa94hfUiaqc1up35LnbIm9Khh4MRFpGQlhihXHiz8OuRcm4ZcXgvN&expiry=rKpCxBt3B%2Fb%2FkpqC3rvyXQ%3D%3D&mac=49ff28d59ef44e997adb5f7b9ad75a29249bf8f5465261de4417cce6edc79ce9"
+            ],
+            "rating": 7.868,
+            "synopsis": "Acontecimentos bizarros dão a Charlotte uma sensação de déjà-vu, e ela suspeita de que Peter esteja escondendo algo. Franziska retruca quando Magnus a confronta.",
+            "runtime": 48,
+            "poster": "https://image.tmdb.org/t/p/original/eH3NmNsMv5uNygAn57uOBS3wHqB.jpg"
+        },
+        {
+            "title": "E05. Verdades",
+            "url": [
+			    "https://1.animezeydl.workers.dev/download.aspx?file=1D1kH7swM9Cj%2BHD3XN98DtqRTbvY13XFZEiSAveWFgrQU3t6838M7t3IK%2FJZPAvv&expiry=gBPHLr5uefqNZl%2B5qYcpaw%3D%3D&mac=a1b5db8d8d9eeefbeadf67f1ffeb12eeac57252e99ebaccf1a8664ff22a39268(4K - DUAL AUDIO)",
+                "https://1.animezeydl.workers.dev/download.aspx?file=n3RhgvY0x1c04KwXHOTSdZYLCj%2Fi1lHaZhIpfPk7s3yRg3zZgo%2BHZqDzUby2dMy6&expiry=rKpCxBt3B%2Fb%2FkpqC3rvyXQ%3D%3D&mac=79d37c2759bd4ea13de1e768ab9a39cd5572a0b945481e1a6691157e75d6d710"
+            ],
+            "rating": 8.56,
+            "synopsis": "Hannah leva sua obsessão com Ulrich longe demais. O Estranho pede que Regina entregue um pacote importante. Martha está dividida entre Jonas e Bartosz.",
+            "runtime": 46,
+            "poster": "https://image.tmdb.org/t/p/original/piwRYraJ1jUE8pcuQJfWPgs6hdy.jpg"
+        },
+        {
+            "title": "E06. Assim foi criado o mundo",
+            "url": [
+			    "https://1.animezeydl.workers.dev/download.aspx?file=OI47DXxgdpHHdWgqZ%2FgXEtAIZdRLqTfb%2FwYH6sckP0rp8I%2BUQ1dE7PmjtvH8dfp%2B&expiry=gBPHLr5uefqNZl%2B5qYcpaw%3D%3D&mac=ff1d9f34f33c8dfb3171a7cede83a5381bc401399c51cc439e4cdf4e63063994(4K - DUAL AUDIO)",
+                "https://1.animezeydl.workers.dev/download.aspx?file=9fuhRUtmnC%2BFJ0N80uUuJe%2FXWQ7KSin9C%2Ff8sqgs0NU%2F08p6nSC6HUmWbT7%2Bq57q&expiry=rKpCxBt3B%2Fb%2FkpqC3rvyXQ%3D%3D&mac=33e2a8388fae722e5d7ae3691d86f6b0c47d097e91ecca5396764b0867e1223f"
+            ],
+            "rating": 8.507,
+            "synopsis": "Ulrich procura respostas no passado e desenterra perturbadores segredos de família. Equipado com novas ferramentas, Jonas sonda as profundezas escuras da caverna.",
+            "runtime": 51,
+            "poster": "https://image.tmdb.org/t/p/original/b29shl2dzHgCclnKgk7xXQQ2qC.jpg"
+        },
+        {
+            "title": "E07. Ponto crítico",
+            "url": [
+			    "https://1.animezeydl.workers.dev/download.aspx?file=%2BHQIe91FEGaMbo9nWIHbCZuq2AHJRrxMTwzBP9tbSd6Hix8lfULUCSicNaTc%2F4zE&expiry=gBPHLr5uefqNZl%2B5qYcpaw%3D%3D&mac=4e71c8dfb7d43c258925f77f2ac26c78841af51426f3de8f62527142e020b4a8(4K - DUAL AUDIO)",
+                "https://1.animezeydl.workers.dev/download.aspx?file=dMLgFxQHUuk2XT5j5P%2Fv9KKCW0uxLzU9YeTFOK6eNj6Hi7hJ1AyFJSN%2Bqxnhxi6N&expiry=rKpCxBt3B%2Fb%2FkpqC3rvyXQ%3D%3D&mac=fc33f07254e3e7416a51d5c2e0c0cb5c943c39968cfab1adc7f8ed962d733d16"
+            ],
+            "rating": 8.338,
+            "synopsis": "Ulrich confronta Helge no asilo. Jonas procura Mikkel, mas o Estranho o alerta sobre os perigos de remexer o passado.",
+            "runtime": 52,
+            "poster": "https://image.tmdb.org/t/p/original/5Is0BxZrsvmC7KCNp4v9WVWl5Hj.jpg"
+        },
+        {
+            "title": "E08. Você colhe o que planta",
+            "url": [
+			    "https://1.animezeydl.workers.dev/download.aspx?file=Z9%2BijV1%2Fayzks94%2FkiuVaMHqQjFz1J7nsvK4qhU4KsIZy9N5mnLFTY2JlxZ02Tuq&expiry=gBPHLr5uefqNZl%2B5qYcpaw%3D%3D&mac=3f8cf52f87b3832c0eb4f5d42d39b740356cfe8b01007bd6cc4ca9ab3827e297(4K - DUAL AUDIO)",
+                "https://1.animezeydl.workers.dev/download.aspx?file=xsdI3FY%2BeoKnxF5qxpEKmZNXsGaldjYNiJdiE2vmMVhnGLBrgTIz%2F2z75fLydOIl&expiry=rKpCxBt3B%2Fb%2FkpqC3rvyXQ%3D%3D&mac=0528c35bee55a27702f06aa427b42de33ebe506aeb52b6a4f553862a5a4f6a66"
+            ],
+            "rating": 8.542,
+            "synopsis": "Em 1953, os corpos desfigurados de dois meninos são encontrados nas obras da futura usina nuclear de Winden.",
+            "runtime": 50,
+            "poster": "https://image.tmdb.org/t/p/original/eSysDFZpO7RZdW6gngkmTVXyswP.jpg"
+        },
+        {
+            "title": "E09. Tudo acontece agora",
+            "url": [
+			    "https://1.animezeydl.workers.dev/download.aspx?file=1Zia0ZBY%2FvkAkbtKJyXcP0ucpgM%2B3c9D2%2FMRGbhf7X%2B8C6VR9g0L1ALkVbBZwtjE&expiry=gBPHLr5uefqNZl%2B5qYcpaw%3D%3D&mac=f5b0aa9a3be13cc8dd10205aee760773b02ee7e5aed12b5166a97f8124c7f624(4K - DUAL AUDIO)",
+                "https://1.animezeydl.workers.dev/download.aspx?file=mFRrUHF51bYmGPijzZyK34KLAhoqbFgesLnkinJOYBATeEzk4iosgNpdyZsxZp58&expiry=rKpCxBt3B%2Fb%2FkpqC3rvyXQ%3D%3D&mac=9e02461366613e098bc9c4172f3909a97e7eafe8a119276747b8d986fa03212c"
+            ],
+            "rating": 8.174,
+            "synopsis": "Ulrich foge da lei, Helge tenta se esquivar de Egon Tiedemann, Claudia controla os poderes da caverna, e Katharina ataca Hannah.",
+            "runtime": 56,
+            "poster": "https://image.tmdb.org/t/p/original/8eeWLkL8WlWdOYCWtDRFlN3SKsz.jpg"
+        },
+        {
+            "title": "E10. Alfa e ômega",
+            "url": [
+			    "https://1.animezeydl.workers.dev/download.aspx?file=94ZLzDItozmfv3vnZmauIugJ6e0NwH9HWnSqQZLdyKIn41cg4gczWM%2BJ5NRoFxb1&expiry=gBPHLr5uefqNZl%2B5qYcpaw%3D%3D&mac=c42d4b9dd45628f9a81a30f98d83093e2283b9e762ac58e9b28798f8c18ccc98(4K - DUAL AUDIO)",
+                "https://1.animezeydl.workers.dev/download.aspx?file=SmTUcp%2FgwcpsOdVGsPDFBfmn2zvNG3xT765ydVJA4w59H4xJfUA%2BSpQzPnJLGnJX&expiry=rKpCxBt3B%2Fb%2FkpqC3rvyXQ%3D%3D&mac=362456155afca5bf13520ae1ad62d2a0ca6c842c5acf91aa8015a89feac09015"
+            ],
+            "rating": 8.465,
+            "synopsis": "Peter leva um choque. Jonas descobre a verdade sobre sua família, mas há mais surpresas por vir. Helge faz um sacrifício.",
+            "runtime": 57,
+            "poster": "https://image.tmdb.org/t/p/original/qhvjEJjeyCzTRNWw9RDZuuQMJKO.jpg"
         }
     ]
 }
