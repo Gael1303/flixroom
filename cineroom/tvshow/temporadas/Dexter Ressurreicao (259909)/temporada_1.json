@@ -1,32 +1,32 @@
 {
     "episodios": [
         {
-            "title": "01. Episódio 1",
+            "title": "01. Um Coração Batendo",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dae7843f17efb296f76853ecee9c0fe1e6e728d6(E01. DUAL)"
             ],
-            "rating": 0.0,
+            "rating": 8.3,
             "synopsis": "",
             "runtime": 52,
             "poster": "https://image.tmdb.org/t/p/original/cdxZjP0S2K1FGO3NiXbQAM6TqwS.jpg"
         },
         {
-            "title": "02. Episódio 2",
+            "title": "02. Anticâmera",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dae7843f17efb296f76853ecee9c0fe1e6e728d6(E02. DUAL)"
             ],
-            "rating": 0.0,
+            "rating": 8.4,
             "synopsis": "",
             "runtime": 48,
             "poster": "https://image.tmdb.org/t/p/original/gxTEgknl8AequxdxtkLHOMFN5T3.jpg"
         },
         {
-            "title": "03. Episódio 3",
+            "title": "03. Copiloto Palpiteiro",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5c94f885862eed6d88eb3612a2e082653ecef7b"
             ],
             "rating": 0.0,
-            "synopsis": "",
+            "synopsis": "Dexter precisa conciliar as tentativas de ajudá-lo a se adaptar.",
             "runtime": 0,
             "poster": "https://image.tmdb.org/t/p/original/5iLgsIH9fWeXRRQlTSVm9XtPVzp.jpg"
         },
