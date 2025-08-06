@@ -41,14 +41,14 @@
             "poster": "https://image.tmdb.org/t/p/original/cdapeWhZCXBfYH4Bi6L3qAp12r7.jpg"
         },
         {
-            "title": "E05. Episódio 5",
+            "title": "E05. A Parte de Trás",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d24f47df18f5a6a6892c3773edeecc417b423cf"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 7.8,
+            "synopsis": "Neste episódio eletrizante, o propósito sombrio do Instituto vem à tona quando Luke Ellis tenta uma fuga desesperada. Após descobrir a terrível verdade e presenciar os horrores da misteriosa "Noite das Faíscas", ele coloca em prática um ousado plano de fuga com a ajuda do jovem Avery e de uma funcionária disposta a ajudar.",
+            "runtime": 59,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/dUWynyy3YU7zBaxuNEAfC54iE4t.jpg"
         },
         {
             "title": "E06. Episódio 6",
@@ -82,3 +82,4 @@
         }
     ]
 }
+
