@@ -1,0 +1,84 @@
+{
+    "episodios": [
+        {
+            "title": "01. Mais desgosto",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c17fc34f3a1ca7b0bd210564ad3cd0717d2dacae(EP 01)"
+            ],
+            "rating": 5.75,
+            "synopsis": "",
+            "runtime": 60,
+            "poster": "https://image.tmdb.org/t/p/original/4CPpMofyvBkFaaiyLWAsci3zwJH.jpg"
+        },
+        {
+            "title": "02. Confronto",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c17fc34f3a1ca7b0bd210564ad3cd0717d2dacae(EP 02)"
+            ],
+            "rating": 0,
+            "synopsis": "",
+            "runtime": 61,
+            "poster": "https://image.tmdb.org/t/p/original/lq1w0on24xhqC4l6OZkxzJm8eQY.jpg"
+        },
+        {
+            "title": "03. Chamado da Natureza",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c17fc34f3a1ca7b0bd210564ad3cd0717d2dacae(EP 03)"
+            ],
+            "rating": 0,
+            "synopsis": "",
+            "runtime": 59,
+            "poster": "https://image.tmdb.org/t/p/original/5GdqWb4mOGahnGqQbESdXKTWVXm.jpg"
+        },
+        {
+            "title": "04. Se estas paredes falassem",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c17fc34f3a1ca7b0bd210564ad3cd0717d2dacae(EP 04)"
+            ],
+            "rating": 0,
+            "synopsis": "",
+            "runtime": 60,
+            "poster": "https://image.tmdb.org/t/p/original/29TxIwTdeWjWn7MTZCSmhiJWQn7.jpg"
+        },
+        {
+            "title": "05. Episódio 5",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "06. Episódio 6",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "07. Episódio 7",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "08. Episódio 8",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        }
+    ]
+}
