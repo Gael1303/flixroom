@@ -1,7 +1,7 @@
 {
     "episodios": [
         {
-            "title": "01. Episódio 1",
+            "title": "01. O chefe de guerra",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:196cb091fea6cce1bce599736e3a9ec3955a6598(EP 01)"
             ],
@@ -11,7 +11,7 @@
             "poster": "https://image.tmdb.org/t/p/original/1vX1w0tlQGtY94Vto4QLy2cUrZf.jpg"
         },
         {
-            "title": "02. Episódio 2",
+            "title": "02. Mudanças nas Marés",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:196cb091fea6cce1bce599736e3a9ec3955a6598(EP 02)"
             ],
@@ -21,12 +21,12 @@
             "poster": "https://image.tmdb.org/t/p/original/z5drUFnAdlaedHoflo0uD5ogunf.jpg"
         },
         {
-            "title": "03. Episódio 3",
+            "title": "03. Cidade das Flores",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa5a8d21c329673c79ce0715b16b97aa6146ad7a"
             ],
-            "rating": 0.0,
-            "synopsis": "",
+            "rating": 5.7,
+            "synopsis": "Kaʻiana chega a uma terra estranha. Kaʻahumanu toma seu lugar ao lado de Kamehameha.",
             "runtime": 48,
             "poster": "https://image.tmdb.org/t/p/original/1B1dQCzFs3ouuKO8F6RvvMLqXQ2.jpg"
         },
@@ -91,4 +91,5 @@
             "poster": ""
         }
     ]
+
 }
