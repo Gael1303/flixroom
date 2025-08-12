@@ -31,33 +31,33 @@
             "poster": "https://image.tmdb.org/t/p/original/5iLgsIH9fWeXRRQlTSVm9XtPVzp.jpg"
         },
         {
-            "title": "04. Episódio 4",
+            "title": "04. Me Chame de Red",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b78cff938d4d0bb9716d85eddad7f7e34283623b"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
+            "rating": 9.2,
+            "synopsis": "Dexter vai a uma reunião misteriosa enquanto Harrison sofre no trabalho.",
+            "runtime": 67,
             "poster": "https://image.tmdb.org/t/p/original/h4DSQE4Sikh9neVlHPGrvhnFMnl.jpg"
         },
         {
-            "title": "05. Episódio 5",
+            "title": "05. Tesão Pra Matar",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:813c9c79195e8b653a999306f7aa09093c86b21f"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
+            "rating": 8.2,
+            "synopsis": "O medo de Harrison aumenta e Dexter almeja uma conexão perigosa.",
+            "runtime": 50,
             "poster": "https://image.tmdb.org/t/p/original/6MB4cp84YVWMJmjhPzBxXT9nx0I.jpg"
         },
         {
-            "title": "06. Episódio 6",
+            "title": "06. Gato & Rato",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:763bda1479a9246357b936b9be5dd0082d538116"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
+            "rating": 10.0,
+            "synopsis": "Conforme Dexter se aproxima de um assassino, Harisson encara uma crise.",
+            "runtime": 57,
             "poster": "https://image.tmdb.org/t/p/original/vES2S0OpRHsYrl8oqwExVdRClbm.jpg"
         },
         {
