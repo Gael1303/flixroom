@@ -1,0 +1,34 @@
+{
+    "episodios": [
+        {
+            "title": ".E01. Terra do Nunca",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be53e50cbcbe5adb976857f384390f2abc28ccd2(EP 01)"
+            ],
+            "rating": 7.5,
+            "synopsis": "Nave cai na Terra, e uma irmã sai em busca do irmão desaparecido.",
+            "runtime": 65,
+            "poster": "https://image.tmdb.org/t/p/original/d4cydmliyqDZyBWkxkliiED4B0G.jpg"
+        },
+        {
+            "title": ".E02. Mr. October",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be53e50cbcbe5adb976857f384390f2abc28ccd2(EP 02)"
+            ],
+            "rating": 8.2,
+            "synopsis": "Corporações em conflito, um reencontro emocionante e uma revelação bombástica.",
+            "runtime": 56,
+            "poster": "https://image.tmdb.org/t/p/original/hZclNGZx4pjOx6MNdJfTZid113f.jpg"
+        },
+		{
+            "title": "03. Metamorphosis (19/08)",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "A equipe volta para casa com uma carga inesperada. Um experimento perturbador ocorre e um novo talento é descoberto.",
+            "runtime": 54,
+            "poster": ""
+        }
+    ]
+}

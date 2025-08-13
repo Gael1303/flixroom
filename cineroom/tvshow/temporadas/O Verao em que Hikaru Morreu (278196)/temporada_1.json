@@ -1,0 +1,124 @@
+{
+    "episodios": [
+        {
+            "title": "01. Substituto",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1062eb91707b513fbc08d63efaa6dc530c7070e"
+            ],
+            "rating": 8.3,
+            "synopsis": "Desconfiado, Yoshiki confronta Hikaru e descobre a terrível verdade. Eles tentam levar a vida normalmente, mas acidentes estranhos começam a acontecer.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/sUD9R3BIuD2BoZPF5l6RaCCq6lH.jpg"
+        },
+        {
+            "title": "02. Suspeita",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f4ac457493380a8f345e11aa3cc1ef0f1b67e66"
+            ],
+            "rating": 7.5,
+            "synopsis": "Yoshiki e Hikaru acompanham colegas de escola em uma trilha assustadora. Um homem misterioso chega ao vilarejo Kubitachi e começa a investigar.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/hP3SbXKsEmKcK3tg2sCr8ostEr5.jpg"
+        },
+        {
+            "title": "03. Negação",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad34cddb8e000f39a8a8fb986a0e514dab0ddde0"
+            ],
+            "rating": 7.0,
+            "synopsis": "Relembrando as memórias de infância com Hikaru, Yoshiki continua lutando com suas emoções complexas. Desesperado, ele pede ajuda de Kurebayashi.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/hzEgiHa53VvavI5Ye2xCjH0YAp8.jpg"
+        },
+        {
+            "title": "04. Festival de verão",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9acb7b62a42b15976d2cc8bbaf8a754f705ca0b9"
+            ],
+            "rating": 7.0,
+            "synopsis": "Yoshiki vai ao festival de verão com Hikaru. Os idosos do vilarejo se preocupam com uma morte recente. Tanaka acaba encontrando mais perguntas do que respostas.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/5K1WfUHgH4oI0PxBV3LZuHr355A.jpg"
+        },
+        {
+            "title": "05. O fantasma da peruca",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:843f6fc85a5b0f158e0f75d40f7a49cdd0a9840d"
+            ],
+            "rating": 5.0,
+            "synopsis": "A irmã de Yoshiki encontra um tufo de cabelo esquisito no banheiro, e Hikaru vai à casa da família Tsujinaka para investigar. Mas a situação fica muito perigosa.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/zhD2Lolzu8QV23JSj9td5RKpGYM.jpg"
+        },
+        {
+            "title": "06. Asako",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b37316d98e4abad623cdb61c5c0f06a476cf3c0"
+            ],
+            "rating": 5.0,
+            "synopsis": "Yoshiki e seus colegas de turma falam da tarefa que precisam fazer. Depois, em uma festa do pijama, a percepção afiada deixa Asako em grande perigo.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/bgEajeKWJlcAo9pJ4BD7K9MUrzk.jpg"
+        },
+        {
+            "title": "07. Episódio 7",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "08. Episódio 8",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "09. Episódio 9",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "10. Episódio 10",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "11. Episódio 11",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "12. Episódio 12",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        }
+    ]
+}

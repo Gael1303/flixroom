@@ -1,0 +1,104 @@
+{
+    "episodios": [
+        {
+            "title": ".E01. Providência",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b92d648f60cebc8377cfe7adeecc7f9243ae1d69(EP 01)"
+            ],
+            "rating": 7.5,
+            "synopsis": "No Gathering, Brian Fraser e Ellen MacKenzie se encontram pela primeira vez e ficam impressionados com sua forte conexão.",
+            "runtime": 81,
+            "poster": "https://image.tmdb.org/t/p/original/aibxt1AVuhP9ggIototeHltdTLc.jpg"
+        },
+        {
+            "title": ".E02. SWAK (Selado com um Beijo)",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b92d648f60cebc8377cfe7adeecc7f9243ae1d69(EP 02)"
+            ],
+            "rating": 9.5,
+            "synopsis": "Enquanto Henry luta na Primeira Guerra Mundial e Julia trabalha no escritório de censura em Londres, a história de amor deles se desenrola através das cartas que eles escrevem um para o outro.",
+            "runtime": 60,
+            "poster": "https://image.tmdb.org/t/p/original/aqGCiO5x41nLym24FLX7MTLWjxh.jpg"
+        },
+        {
+            "title": "03. Escola da Lua (15/08)",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "À medida que a cerimônia de juramento para determinar quem será o Laid do Clã MacKenzie se aproxima, Ellen elabora um novo plano para proteger a si mesma e sua família; Julia é forçada a fazer uma escolha impossível.",
+            "runtime": 0,
+            "poster": "https://image.tmdb.org/t/p/original/mAXafJuBhv0irFMZTZiaH1kUPtK.jpg"
+        },
+        {
+            "title": "04. O Coração de um Soldado (22/08)",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "Henry encara uma tarefa desafiadora à sua maneira. Ellen descobre informações preocupantes sobre a família com a qual deverá se casar.",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "05. Precisa de Fogo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "Ellen e Brian comparecem ao Beltane, um festival para celebrar a chegada do verão, onde os pecados são queimados pelo fogo da necessidade. Henry luta para manter a esperança e Julia perde aliados quando segredos são revelados.",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "06. Direito de Primogenitura",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 2.0,
+            "synopsis": "A guerra é iminente, e Ellen teme que Brian possa estar do lado inimigo.",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "07. Escola Secundária Non Uro",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "Henry perde a esperança de reencontrar Julia e pensa em retornar a 1923.",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "08. Uma Mulher Virtuosa",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "Ellen fez um pacto com Colum que salvou a vida de Brian, mas tornou o amor deles impossível.",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "09. A Caçada",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "Inconsolável após o término com Ellen, Brian participa de uma caçada fatídica.",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "10. Árvore de Tara",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "Henry e Julia querem voltar para 1923. Ellen e Brian também planejam sua fuga.",
+            "runtime": 0,
+            "poster": ""
+        }
+    ]
+}
