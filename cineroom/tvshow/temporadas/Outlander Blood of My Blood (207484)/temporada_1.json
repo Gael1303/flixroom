@@ -21,9 +21,9 @@
             "poster": "https://image.tmdb.org/t/p/original/aqGCiO5x41nLym24FLX7MTLWjxh.jpg"
         },
         {
-            "title": "03. Escola da Lua (15/08)",
+            "title": "03. Escola da Lua",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd6c63a6699086890867ee7a0e32e17f67801b2b"
             ],
             "rating": 0.0,
             "synopsis": "À medida que a cerimônia de juramento para determinar quem será o Laid do Clã MacKenzie se aproxima, Ellen elabora um novo plano para proteger a si mesma e sua família; Julia é forçada a fazer uma escolha impossível.",
@@ -101,4 +101,5 @@
             "poster": ""
         }
     ]
+
 }
