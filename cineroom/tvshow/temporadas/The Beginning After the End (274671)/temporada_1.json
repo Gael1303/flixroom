@@ -1,0 +1,124 @@
+{
+    "episodios": [
+        {
+            "title": "01. O Renascimento do Rei",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e262ba438e466996cfcb03ddf9fbb762e483a45d"
+            ],
+            "rating": 8.0,
+            "synopsis": "Um poderoso rei renasce com as lembranças de sua vida passada, e tem a chance de recomeçar.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/hc6mJvyEG4KVsko8A8Fc5Ua7zmV.jpg"
+        },
+        {
+            "title": "02. O Rei Sob Ataque",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:520f217acf44de95190fc03466a259cf5d54df87"
+            ],
+            "rating": 8.0,
+            "synopsis": "Os pais de Arthur querem que ele aprimore seus talentos, e partem numa viagem que mudará a vida de todos.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/rgNAvsE5jcklJOBrGZD4psoEFFC.jpg"
+        },
+        {
+            "title": "03. Encontrando o Rei",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e62f668d84274f68798de624204a973ad2402de3"
+            ],
+            "rating": 6.0,
+            "synopsis": "Arthur sobreviveu e fica sob os cuidados da misteriosa Sylvia. Mas esses dias logos chegarão ao fim.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/A3c7ILkGZV03hw9k65zutfPK1md.jpg"
+        },
+        {
+            "title": "04. Salva pelo Rei",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2eb80de0bc26a9eeb4b4203072b9859082c579ef"
+            ],
+            "rating": 7.0,
+            "synopsis": "Diante do sequestro de uma criança elfa, Arthur decide interferir, embora atrase o reencontro com sua família.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/h2CTGxcyDjwwOuH7Ib4DXJaRLDW.jpg"
+        },
+        {
+            "title": "05. O Teste do Rei",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40298ad89297bf10ca08c7720edfa07dbbdb8ec7"
+            ],
+            "rating": 8.0,
+            "synopsis": "Apesar de trazer Tessia de volta, Arthur tem uma recepção pouco amigável no reino dos elfos.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/erjDEghvtOEUKD0YBAnQW5etawC.jpg"
+        },
+        {
+            "title": "06. O Treinamento do Rei",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e1b9a0f2d20d062172e3a0a2b10c1e8644189f3"
+            ],
+            "rating": 8.0,
+            "synopsis": "Arthur não é bem aceito entre os elfos, mas a decisão de Virion para ajudar o menino já foi tomada.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/eUvln3ituko7QJRkIEIdSdKFJkC.jpg"
+        },
+        {
+            "title": "07. A Despedida do Rei",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1cc31497979578ab491d7c746d6672fc0a0aef89"
+            ],
+            "rating": 8.0,
+            "synopsis": "Arthur aproveita seu tempo treinando no reino dos elfos, mas algo inesperado o força a fazer novos planos.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/iOhJTxih0iT58aSXf90R42oncf3.jpg"
+        },
+        {
+            "title": "08. Reencontro com o Rei",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:adf8aac20c2d82ba7bbfe7e729a8f8cebc13df65"
+            ],
+            "rating": 8.0,
+            "synopsis": "O reencontro com a família se torna um dia agitado, mas de muita alegria. É hora de relaxar um pouco.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/o7Lh7zVpESEtiT0OxIwDZ5klAO5.jpg"
+        },
+        {
+            "title": "09. O Rei Ensina",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec5c902340c77f6b0184bab18145ab6291d859a5"
+            ],
+            "rating": 7.0,
+            "synopsis": "Lilia sofre por não conseguir usar magia, e com a chegada de Arthur, a pressão é ainda maior.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/qQ9iTvJbMtMgUbRR9MfW8wbcbqd.jpg"
+        },
+        {
+            "title": "10. O Rei Desafia",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ed78e70ef2bcde52dc5f0c21b5713437d5fbf06"
+            ],
+            "rating": 0.0,
+            "synopsis": "Durante a visita de Arthur à casa de leilões, um incidente acaba envolvendo o garoto e a família real.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/jekqMKbli7C2hRHegh41jkiBhDu.jpg"
+        },
+        {
+            "title": "11. O Rei Decide",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e4073b9be6f20b8428321d4b2bb02f9fe86393a"
+            ],
+            "rating": 8.0,
+            "synopsis": "Arthur aceita a ideia de entrar na academia, mas isso fica para depois que certos planos sejam cumpridos.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/2uZZtp5WIcfJGb9m6B1SJKhFRv7.jpg"
+        },
+        {
+            "title": "12. O Rei Parte",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b07589b767f66e9c44aa6484bb832f931dd304a5"
+            ],
+            "rating": 8.0,
+            "synopsis": "Para conhecer melhor a si mesmo e ao novo mundo, Arthur se torna um aventureiro ao lado de Jasmine.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/sS60rAjNvprLpBStVA2Yg3Xkqzl.jpg"
+        }
+    ]
+}

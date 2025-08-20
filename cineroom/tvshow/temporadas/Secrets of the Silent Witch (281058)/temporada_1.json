@@ -1,0 +1,134 @@
+{
+    "episodios": [
+        {
+            "title": "01. Colega que veio e me falou um absurdo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c7d64cd97cfbfaec0e4b3dac9c4fd116d44154b"
+            ],
+            "rating": 8.0,
+            "synopsis": "Monica Everett recebe um trabalho inesperado de seu colega Louis, mas não se sente pronta para o desafio.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/jDKyMO3dnVF5WiJqiEqMm8KHJoK.jpg"
+        },
+        {
+            "title": "02. Dar o primeiro passo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9653390bf089795afa2fcdc023ff034a0442b55"
+            ],
+            "rating": 7.5,
+            "synopsis": "Monica começa a missão em Serendia, mas sua timidez complica sua vida em vários aspectos.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/l0L8OCNzgK14hsKIvHfFYb5S6lT.jpg"
+        },
+        {
+            "title": "03. O conselho estudantil de Serendia",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4147f341a8958bc96d7e88002a7b778b02bd6d7"
+            ],
+            "rating": 7.5,
+            "synopsis": "Monica começa a investigar o caso do vaso de flor, mas encontra dificuldades.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/7umTlnhgNMAYg6Ph9uABbP8mxDz.jpg"
+        },
+        {
+            "title": "04. Ritual perfeito",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6316b5145f7b73016c9748648cb9403ee4b051f0"
+            ],
+            "rating": 6.5,
+            "synopsis": "Enquanto Monica recebe uma mensagem de Louis, ela e Ryn avistam um menino fora do dormitório.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/qHOkRF4syEX8Wpn1MYZyeUGTt02.jpg"
+        },
+        {
+            "title": "05. A aventura da Bruxa do Silêncio",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab117b7f9e8abc4091cbc06f5be190c682ad7820"
+            ],
+            "rating": 7.0,
+            "synopsis": "Em um passeio na cidade com o Nero, Monica e seu gato acabam se deparando com um dragão.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/1D0tJyGOs78bLEFQkYDvbTzRME3.jpg"
+        },
+        {
+            "title": "06. Uma xícara fora do lugar",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e40df08ac07d0788611caa35d3b233eb6a65d88d"
+            ],
+            "rating": 8.0,
+            "synopsis": "Monica tem dificuldades na matéria de dança social, mas não quer desistir e persiste no treino.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/hQTnrPoYTcW2YOBAoVIBVfTdpsi.jpg"
+        },
+        {
+            "title": "07. Papel de vilã",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fbb1af104c9c29b433c447e29c36ab4d896a6bff"
+            ],
+            "rating": 8.0,
+            "synopsis": "Monica recebe um convite inesperado para uma festa do chá que não acaba muito bem.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/7kARXmxoVRIG4GGrS8dMW8NihLt.jpg"
+        },
+        {
+            "title": "08. Episódio 8",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "09. Episódio 9",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "10. Episódio 10",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "11. Episódio 11",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "12. Episódio 12",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "13. Episódio 13",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        }
+    ]
+}
