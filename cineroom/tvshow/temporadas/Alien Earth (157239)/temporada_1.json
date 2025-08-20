@@ -1,7 +1,7 @@
 {
     "episodios": [
         {
-            "title": ".E01. Terra do Nunca",
+            "title": "E01. Terra do Nunca",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be53e50cbcbe5adb976857f384390f2abc28ccd2(EP 01)"
             ],
@@ -11,7 +11,7 @@
             "poster": "https://image.tmdb.org/t/p/original/d4cydmliyqDZyBWkxkliiED4B0G.jpg"
         },
         {
-            "title": ".E02. Mr. October",
+            "title": "E02. Mr. October",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be53e50cbcbe5adb976857f384390f2abc28ccd2(EP 02)"
             ],
@@ -21,14 +21,15 @@
             "poster": "https://image.tmdb.org/t/p/original/hZclNGZx4pjOx6MNdJfTZid113f.jpg"
         },
 		{
-            "title": "03. Metamorphosis (19/08)",
+            "title": "E03. Metamorphosis",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d68ece9472bd1bbb8192ad72532ee9e648f3f200"
             ],
-            "rating": 0.0,
+            "rating": 8.1,
             "synopsis": "A equipe volta para casa com uma carga inesperada. Um experimento perturbador ocorre e um novo talento é descoberto.",
             "runtime": 54,
-            "poster": ""
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/4pLJcZUh73j8wSQfB5vAX3jtORj.jpg"
         }
     ]
+
 }
