@@ -1,10 +1,124 @@
 {
-    "episodios": [
-        {
-            "title": "Dan Dan Dan: 1ª Temporada",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f345aceabe322c9fea6435793b1d9b6001509e8"
+            "episodios": [
+                {
+                    "title": "01. É assim que o amor começa, tá ligado?",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:255d4d46164d4fd0e52af566c3a4e301103e4b00"
+                    ],
+                    "rating": 8.667,
+                    "synopsis": "Momo Ayase acha ridículo quem acredita em alienígenas, mas talvez mude de ideia depois de conhecer um menino de sua escola...",
+                    "runtime": 24,
+                    "poster": "https://image.tmdb.org/t/p/original/bmVsa3oLgAd26YNJOPjJ4QgWY08.jpg"
+                },
+                {
+                    "title": "02. Isso aí é um alienígena, não é?!",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21ae400d67464a1ee09574655db74e064f359746"
+                    ],
+                    "rating": 8.583,
+                    "synopsis": "Depois de seu primeiro encontro com o mundo oculto, Ayase e Okarun finalmente vão para casa, buscando um descanso tranquilo...",
+                    "runtime": 24,
+                    "poster": "https://image.tmdb.org/t/p/original/aIgNMI3bAR1yauVFlozRzsRdmxj.jpg"
+                },
+                {
+                    "title": "03. Tem duas vovós saindo na mão!",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:603d0fef859982f129c4b1b1f91929d8041f4a50"
+                    ],
+                    "rating": 8.381,
+                    "synopsis": "Depois de muito ouvir falar a respeito dela, Okarun está prestes a conhecer a avó de Momo...",
+                    "runtime": 24,
+                    "poster": "https://image.tmdb.org/t/p/original/mM7WAhNZyXO0axLZ0FGhNIwY5Xv.jpg"
+                },
+                {
+                    "title": "04. Vamos descer a lenha na Vovó Turbo",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad44ee8255f3616c22b8421eddbdaf21978e9ebb"
+                    ],
+                    "rating": 8.85,
+                    "synopsis": "Momo e Okarun estão prontos para executarem o plano e se livrarem de uma vez por todas da Vovó Turbo.",
+                    "runtime": 24,
+                    "poster": "https://image.tmdb.org/t/p/original/eTbwdeKsf7MV3Lj73F1VRQHfx80.jpg"
+                },
+                {
+                    "title": "05. Cadê as suas bolas, mano?",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:476d9c89ec899cbabab04f6c517421e8b397c39d"
+                    ],
+                    "rating": 8.762,
+                    "synopsis": "A batalha contra a Vovó Turbo foi um sucesso, mas ainda há algo de errado com Okarun.",
+                    "runtime": 24,
+                    "poster": "https://image.tmdb.org/t/p/original/s5JwTxygUTK9n3DuUyLqMaiJ2YZ.jpg"
+                },
+                {
+                    "title": "06. Chegou uma mulher que é treta",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8dfe709a25f1a3ffdffdbb2a9723ddfc7205805d"
+                    ],
+                    "rating": 8.579,
+                    "synopsis": "Começa a grande busca pelas bolas perdidas de Okarun, e a primeira oponente vem de dentro da escola!",
+                    "runtime": 24,
+                    "poster": "https://image.tmdb.org/t/p/original/lcv6jNytD27nnf7xlJYvYbG8gTo.jpg"
+                },
+                {
+                    "title": "07. Rumo a um mundo mais gentil",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b25eb17b366bbbe9a33dfc3a231910ea691bb24"
+                    ],
+                    "rating": 8.952,
+                    "synopsis": "Momo e Okarun continuam com dificuldades para enfrentar a Acrobática Sedosa, enquanto Aira corre risco de vida.",
+                    "runtime": 24,
+                    "poster": "https://image.tmdb.org/t/p/original/cgjVqy43CAnHyOQSdNMoICiRGFk.jpg"
+                },
+                {
+                    "title": "08. Tô com uma sensação meio esquisita",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88ef84d8187fc089461556d71023ec0313f33178"
+                    ],
+                    "rating": 8.474,
+                    "synopsis": "Aira agora faz parte da vida e das aventuras de Okarun e Momo, e isso traz uma leva de novos problemas.",
+                    "runtime": 24,
+                    "poster": "https://image.tmdb.org/t/p/original/27ljA0RrrnK5OQ3AvnorwslMPAg.jpg"
+                },
+                {
+                    "title": "09. Fusão! Serpo Dover Demon Nessie!",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb77e4f6837d017f8136f65e44b4040e1fbb8cfc"
+                    ],
+                    "rating": 8.895,
+                    "synopsis": "Okarun, Momo e Aira precisam aprender a lutar em harmonia para vencer a gangue de alienígenas que invadiu sua escola.",
+                    "runtime": 24,
+                    "poster": "https://image.tmdb.org/t/p/original/cs4OHpnp1ImA5kYFQGUyZk0nPWC.jpg"
+                },
+                {
+                    "title": "10. Você já viu uma mutilação de gado?",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91fc5ec4b3f74dda5239b34f3c2e87c7152afb26"
+                    ],
+                    "rating": 8.167,
+                    "synopsis": "Momo, Okarun e Aira precisam lidar com as consequências de terem sido vistos pelados no meio da escola.",
+                    "runtime": 24,
+                    "poster": "https://image.tmdb.org/t/p/original/eC5j96o7lULnR3Ea4NtYUcNnz3J.jpg"
+                },
+                {
+                    "title": "11. O primeiro amor",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37e06f0e613466f1797ffb523247f6afd2ee585f"
+                    ],
+                    "rating": 8.75,
+                    "synopsis": "Jiji, o amigo de infância e primeiro amor de Momo, chega para morar com ela e Seiko, deixando Okarun preocupado com o futuro.",
+                    "runtime": 24,
+                    "poster": "https://image.tmdb.org/t/p/original/ukLCwrihDj0hYDMolv5KsNanIed.jpg"
+                },
+                {
+                    "title": "12. Partiu casa amaldiçoada",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66ab8a7a67f9256b02670937666f363e50c33423"
+                    ],
+                    "rating": 8.8,
+                    "synopsis": "A casa mal amaldiçoada espera para ser investigada, enquanto Okarun precisa lidar com os ciúmes de Jiji...",
+                    "runtime": 24,
+                    "poster": "https://image.tmdb.org/t/p/original/kgfnqFois5hvCOh7ba8PnUEFaYq.jpg"
+                }
             ]
-        }
-    ]
-}
+      }
