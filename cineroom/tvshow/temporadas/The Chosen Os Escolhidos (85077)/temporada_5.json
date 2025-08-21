@@ -1,0 +1,84 @@
+{
+            "episodios": [
+                {
+                    "title": "01. Entrada",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2c4b31eb53428240a9aab8c6fc9ab83901cb0e0(EP 01)"
+                    ],
+                    "rating": 9.4,
+                    "synopsis": "Jesus entra na cidade santa como rei, mas descobre que os governantes transformaram a casa de Seu Pai de um lugar de oração em um mercado corrupto.",
+                    "runtime": 62,
+                    "poster": "https://image.tmdb.org/t/p/original/pNA0JpayFCJD0ErmUvPTwu0oMqH.jpg"
+                },
+                {
+                    "title": "02. Castelo de Cartas",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2c4b31eb53428240a9aab8c6fc9ab83901cb0e0(EP 02)"
+                    ],
+                    "rating": 10.0,
+                    "synopsis": "Por que matar Jesus quando Roma pode fazer isso por você? Enquanto o Sumo Sacerdote judeu maquina para derrubá-Lo, Jesus ataca primeiro: virando as mesas.",
+                    "runtime": 52,
+                    "poster": "https://image.tmdb.org/t/p/original/hmMZe6BQK6NSqC0l9hcCMrpw8As.jpg"
+                },
+                {
+                    "title": "03. Aflições",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8cff37d5e886d23f9562a37d0509a174a4ae797(EP 03)"
+                    ],
+                    "rating": 9.4,
+                    "synopsis": "Jesus prega uma última vez para a enorme multidão da Páscoa, e os líderes religiosos tentam armar uma cilada com Suas palavras.",
+                    "runtime": 59,
+                    "poster": "https://image.tmdb.org/t/p/original/qE1nvR8iZ4gV9hbvXdbDwJ52rM0.jpg"
+                },
+                {
+                    "title": "04. A Mesma Moeda",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8cff37d5e886d23f9562a37d0509a174a4ae797(EP 04)"
+                    ],
+                    "rating": 10.0,
+                    "synopsis": "Temendo a comoção pública, e mais constrangimento, Caifás decide prender Jesus silenciosamente à noite. Apenas um problema: ninguém sabe como encontrá-Lo.",
+                    "runtime": 55,
+                    "poster": "https://image.tmdb.org/t/p/original/svlixBgJjfCRZH1LsGimkyqU5vE.jpg"
+                },
+                {
+                    "title": "05. Por Minha Causa",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8cff37d5e886d23f9562a37d0509a174a4ae797(EP 05)"
+                    ],
+                    "rating": 9.8,
+                    "synopsis": "A decisão de prender Jesus leva a um debate acalorado. Soldados romanos rastreiam uma multidão causadora de problemas. Shmuel encontra ajuda de uma fonte inesperada.",
+                    "runtime": 47,
+                    "poster": "https://image.tmdb.org/t/p/original/qtF0JRqbwp2BckK0QLD4mn6OBkA.jpg"
+                },
+                {
+                    "title": "06. Reuniões",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2c4b31eb53428240a9aab8c6fc9ab83901cb0e0(EP 06)"
+                    ],
+                    "rating": 10.0,
+                    "synopsis": "Enquanto os seguidores de Jesus se reúnem para a refeição da Páscoa, Seus inimigos se juntam para uma caçada humana. Judas realiza uma reunião secreta.",
+                    "runtime": 60,
+                    "poster": "https://image.tmdb.org/t/p/original/pkPQN73QggcKyA8nGlr4DHmjjs7.jpg"
+                },
+                {
+                    "title": "07. O Cenáculo Parte I",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2c4b31eb53428240a9aab8c6fc9ab83901cb0e0(EP 07)"
+                    ],
+                    "rating": 10.0,
+                    "synopsis": "Jesus chega para a Última Ceia. Os discípulos temem por sua segurança enquanto os inimigos de Jesus os cercam.",
+                    "runtime": 62,
+                    "poster": "https://image.tmdb.org/t/p/original/z6mnUJL8vjMgQe3GgtcuWlLEvx4.jpg"
+                },
+                {
+                    "title": "08. O Cenáculo Parte II",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2c4b31eb53428240a9aab8c6fc9ab83901cb0e0(EP 08)"
+                    ],
+                    "rating": 10.0,
+                    "synopsis": "Pilatos convoca Ático para lhe dar uma bronca. O Sinédrio ferve. A Última Ceia termina.",
+                    "runtime": 66,
+                    "poster": "https://image.tmdb.org/t/p/original/lafv8JbwffijVKk9twFcp4tI5Wb.jpg"
+                }
+            ]
+        }
