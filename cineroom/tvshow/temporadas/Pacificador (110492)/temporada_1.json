@@ -1,40 +1,84 @@
 {
     "episodios": [
         {
-            "title": "Episódio 1 ao 3",
+            "title": "01. Um Novo Turbilhão",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb9d71f4a0626c38aa680d958725a99dcd063c97"
-            ]
+                "https://1.animezeydl.workers.dev/download.aspx?file=OGmkn6TNkrTmTZVxfMVBAxx3lXLEiRHV9HyVVwG%2BYK1eOSOPDZ%2FXmFNY6cDMRF69&expiry=66%2FScg1UTRS%2FPuE5IAHRJA%3D%3D&mac=7f2f9a087b2332642b4be7455622afcb9d7c47c2bb594e8ea1e5343fcf267e57"
+            ],
+            "rating": 7.2,
+            "synopsis": "Após uma recuperação milagrosa, Pacificador volta para casa — apenas para descobrir que sua liberdade tem um preço.",
+            "runtime": 47,
+            "poster": "https://image.tmdb.org/t/p/original/538eLa2f3FoSwNNzHpHi0J1ZXl6.jpg"
         },
         {
-            "title": "Episódio 4 - A Estrada Mais Paucorrida",
+            "title": "02. Piores Amigos Para Sempre",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:024c69d529fe5bcf02d6ca7058cae7a8bf79c6c2"
-            ]
+                "https://1.animezeydl.workers.dev/download.aspx?file=qNc2pSo06QBvMWA43d3tSxeihTjI9p1wcGLNjYLZ8xspQv47ke6sXK%2Bpp%2Fg5p7b%2F&expiry=66%2FScg1UTRS%2FPuE5IAHRJA%3D%3D&mac=0dd8d3cdd9e3d7a520a5664ba97ea4180e63d0357a2f1c9f4f97a4918bdf5663"
+            ],
+            "rating": 6.9,
+            "synopsis": "Após a fuga perigosa do Pacificador, a tensão e a desconfiança aumentam dentro da equipe. Mais tarde, enquanto Pacificador lida com sua nova missão, ele recebe uma visita surpresa.",
+            "runtime": 41,
+            "poster": "https://image.tmdb.org/t/p/original/dUAS7fZqjdPcfYnLnxCm40U0LUa.jpg"
         },
         {
-            "title": "Episódio 5 - Suave Na Nave",
+            "title": "03. Melhor Morto",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b495efeebdd681f70ffa4ecd4aaf64772e9a15ac"
-            ]
+                "https://1.animezeydl.workers.dev/download.aspx?file=MfqwoMXA%2B67pTRZiINnltComoDalJHtTPgGG5dyqMUAWFN7%2BYsRMVsM0uwuki%2BF0&expiry=66%2FScg1UTRS%2FPuE5IAHRJA%3D%3D&mac=37ef0b7be5c9deb60b597b3c7b45fe341ec8b8145fe728ab1b0e812f0627861a"
+            ],
+            "rating": 7.6,
+            "synopsis": "Em sua primeira missão oficial para assassinar \"borboletas\" suspeitas, Economos e Murn se unem, e Pacificador e Harcourt chegam a um entendimento. Mas a tarefa desanda com a chegada do Mestre Judoca.",
+            "runtime": 40,
+            "poster": "https://image.tmdb.org/t/p/original/wyZXot4qqZEOCOOB3Vrv5F4KXRR.jpg"
         },
         {
-            "title": "Episódio 6 - Queimurn Depois de Ler",
+            "title": "04. A Estrada Mais Paucorrida",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4155216c3136eb931641476729032165d3cbcc12"
-            ]
+                "https://1.animezeydl.workers.dev/download.aspx?file=bd3tZt2TeHlEp1z7B0c5vWH5ROGBtQf2GG%2Fpyb%2B053FQ2Dyhf9tVANcJ6EWMCQDD&expiry=66%2FScg1UTRS%2FPuE5IAHRJA%3D%3D&mac=e54e9ef9e792bf5a71ee76b452335d1c4242995b6016ef96061e8c3dc3297f93"
+            ],
+            "rating": 7.4,
+            "synopsis": "Após uma missão mais ou menos bem-sucedida, Murn recruta Vigilante. Enquanto isso, depois de saber que a equipe ajudou a colocar seu pai na prisão, Pacificador confronta seu passado complicado.",
+            "runtime": 47,
+            "poster": "https://image.tmdb.org/t/p/original/b0jdRtuGm7blKJZamhU30Z1XlP5.jpg"
         },
         {
-            "title": "Episódio 7 - O Que os Olhos Não Veem o Dragão Não Sente",
+            "title": "05. Suave Na Nave",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bfab167487631c458e3e928dcd12544096e29e64"
-            ]
+                "https://1.animezeydl.workers.dev/download.aspx?file=ww7ynTAO6ob27jWXyoeH%2BOYyPjo1E24931hW4bZY5P9oSMcz0yhCMgpr5u3n%2Fmx7&expiry=66%2FScg1UTRS%2FPuE5IAHRJA%3D%3D&mac=509c1444be30c89c36211e5192f43381ac92384ca7fafe2646d55c3fd23a33c1"
+            ],
+            "rating": 7.6,
+            "synopsis": "A equipe investiga um suposto centro de distribuição de alimentos dos alienígenas e fica cara a cara com uma invasão real. Enquanto isso, a tentativa de Auggie de vender seu filho à polícia é dificultada pelo misterioso contato de Murn.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/hUAnjCnWPn7SulqtNTe7xJhv38A.jpg"
         },
         {
-            "title": "Episódio 8 - Chutando o Pau da Bavaca",
+            "title": "06. Queimurn Depois de Ler",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd1dc3bb1edfc389d482947117bad3252783069c"
-            ]
+                "https://1.animezeydl.workers.dev/download.aspx?file=0hM7jZTjwH7L0wNMyoApIAe8JIEW60HH1ZPhWyOQOZfColMxZ1EUf44XpwVtWkRF&expiry=66%2FScg1UTRS%2FPuE5IAHRJA%3D%3D&mac=68dcbbcd8b42230f5182250c720b0aa1ea125d5bece338bc179236856763a01d"
+            ],
+            "rating": 7.8,
+            "synopsis": "Murn revela seu maior segredo, Auggie é libertado e a prisão desastrada do Pacificador envia o alienígena Goff para um novo hospedeiro inesperado.",
+            "runtime": 47,
+            "poster": "https://image.tmdb.org/t/p/original/4IIMkGmzSsC02fjfqiFRQp7ySAM.jpg"
+        },
+        {
+            "title": "07. O Que os Olhos Não Veem o Dragão Não Sente",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=bYIkq3yv6RKwMIo8HcVf2RCvCFFvDD7jcQXqUp%2B9LLKsPa45gqjqj8jAaEcFn8qH&expiry=66%2FScg1UTRS%2FPuE5IAHRJA%3D%3D&mac=ba98039c4de0e9f24b01ff65faa68f7bab43d4663332dda7f5e565aae9728f8b"
+            ],
+            "rating": 7.7,
+            "synopsis": "Enquanto Harcourt, Murn e Adebayo descobrem que estão cercados de forças alienígenas, o Pacificador enfrenta seu pai com a ajuda de Vigilante e Economos.",
+            "runtime": 39,
+            "poster": "https://image.tmdb.org/t/p/original/bzdhWTRUb9CFF3tDT4SyBn0QGd.jpg"
+        },
+        {
+            "title": "08. Chutando o Pau da Bavaca",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=KsT0u3sKT6HiRKkmaOKK9iioo8AkQoQtDWcuTY40TGgJf7JUYbs2E3WoRREk334S&expiry=66%2FScg1UTRS%2FPuE5IAHRJA%3D%3D&mac=225a9c02aaa3a284cf8a76d1b08fbd31a981aa7c6ebd81126665f94efa0c24a2"
+            ],
+            "rating": 8.0,
+            "synopsis": "Com o Pacificador e Adebayo cara a cara, será que a equipe conseguirá matar a vaca de uma vez por todas? Ou o conflito entre eles dará aos aliens a oportunidade de completar o processo de teleporte?",
+            "runtime": 45,
+            "poster": "https://image.tmdb.org/t/p/original/9oi9FPSEYlDmMvHSQaCmhsDO6PU.jpg"
         }
     ]
 }
