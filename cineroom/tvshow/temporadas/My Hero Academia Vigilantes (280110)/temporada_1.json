@@ -1,0 +1,134 @@
+{
+    "episodios": [
+        {
+            "title": "01. Eu estou aqui",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:306dffae5c2b30d0ead526f9789c6599e6d61444"
+            ],
+            "rating": 7.0,
+            "synopsis": "Koichi, com seu impulso de ajudar as pessoas, acaba se envolvendo com algumas pessoas perigosas.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/by6mOFlmTK6jKYKgk2YFaMvjlSx.jpg"
+        },
+        {
+            "title": "02. Take off",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63b287377a0f22bf907e54a785154002e77d01b3"
+            ],
+            "rating": 7.0,
+            "synopsis": "Koichi e Knuckle começam suas atividades, mas acabam encontrando o Prof. Aizawa do U.A.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/kveOWw2d13KkPsjMOiYJrgOTrQi.jpg"
+        },
+        {
+            "title": "03. Abelhas",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:765e0e4409d9150cf1cfa195a7f653470f1c3b59"
+            ],
+            "rating": 7.0,
+            "synopsis": "Outro caso de Trigger faz Pop de alvo e surge uma vilã com suas abelhas.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/cxXa80ExiSAvcClJRWYyxRlVwCt.jpg"
+        },
+        {
+            "title": "04. Top Runner",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f66ab49dbbba2c994c2836bbe2298069fcaacdf"
+            ],
+            "rating": 7.0,
+            "synopsis": "Enquanto continua com suas atividades, Koichi conhece um super-herói correndo na rua.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/13pP2kr6NZ4wSjybind8xQV3ecr.jpg"
+        },
+        {
+            "title": "05. Julgamento",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f2bfdf6bf173de9fc9c8f083c43ec6d87e7ebfd"
+            ],
+            "rating": 8.0,
+            "synopsis": "Koichi revela a Kazuho uma memória do passado, mas ela reage de forma estranha.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/cUQgsTLEeUsnF8qRuUfdoBcnR8p.jpg"
+        },
+        {
+            "title": "06. Uma linha",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:febd5cd69786f159544299c3ae64ed4a9d0e27ac"
+            ],
+            "rating": 8.0,
+            "synopsis": "Enquanto Soga vê seus amigos recuperados, um caçador de vilões assola a cidade.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/479OWCA1cywP8VVOxLmUoWfOeBi.jpg"
+        },
+        {
+            "title": "07. Verdade",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee1241bc44a0da561ccc60067e83083805617441"
+            ],
+            "rating": 8.0,
+            "synopsis": "Makoto se oferece para ajudar Koichi na faculdade em troca de ajuda com sua pesquisa.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/8ORpzIvSQ6Rhbc8SXXj40uDpK2b.jpg"
+        },
+        {
+            "title": "08. Major",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89bb70f919688f138efd927e2a8b99f9a32362cb"
+            ],
+            "rating": 8.0,
+            "synopsis": "Um super-herói dos EUA escolhe o Japão para fazer um recomeço.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/uc5Ge2jDVI6Ztk3OCqLWVRXExnF.jpg"
+        },
+        {
+            "title": "09. A vinda de Mom!",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc04a1573275917dad5316e7d4c018bd5bc040ed"
+            ],
+            "rating": 0.0,
+            "synopsis": "Enquanto Koichi encena sua vida para sua mãe, um incidente com ônibus coloca sua identidade em risco.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/rFTbLJivonUMs7p4QVF3vr4epw.jpg"
+        },
+        {
+            "title": "10. Anúncio de Evento",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1159654a70ba3e79dcc37f0bc2c2cf9e812fa3b"
+            ],
+            "rating": 0.0,
+            "synopsis": "Pop é convidada para participar de um evento, mas vai precisar de ajuda.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/u8X1atvFUs5wgkgVgvhp5RbLsTq.jpg"
+        },
+        {
+            "title": "11. Chega o dia do evento",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f90be3310a3e72d0f3cd8ec2f30f91ffd27cd98"
+            ],
+            "rating": 0.0,
+            "synopsis": "Makoto organiza o evento, mas Pop está insegura. Em meio a isso, Hachisuka continua seu plano.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/dqYJ1Nuap3Z73JvdebWhIJM38rz.jpg"
+        },
+        {
+            "title": "12. Adeus, papai",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5491e453190cb6cff1504a616f6ca51541084202"
+            ],
+            "rating": 0.0,
+            "synopsis": "A falta de luz pode cancelar o show. Knuckle vai atrás de Hachisuka.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/qRBJuraXeqnuBAUpRWnxT1bTliw.jpg"
+        },
+        {
+            "title": "13. O que um homem leva consigo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba9de1b06f8cae070fd3dc80a30e8d8f637e0728"
+            ],
+            "rating": 0.0,
+            "synopsis": "Enquanto Koichi continua suas atividades, seu mestre parece ausente.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/cr24iejjmWRjcunpV3AYKceLOaS.jpg"
+        }
+    ]
+}
