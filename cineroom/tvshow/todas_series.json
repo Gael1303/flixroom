@@ -858,37 +858,6 @@
         "clearlogo": "https://image.tmdb.org/t/p/original/4ReGMfsXbbsgJHfEumuzGoob8Ol.png"
     },
     {
-        "tmdb_id": 1434,
-        "popularity": 102.9945,
-        "trending": true,
-        "title": "Uma Família da Pesada",
-        "rating": 8.1,
-        "classification": "16",
-        "year": 1999,
-        "premiered": "31/01/1999",
-        "synopsis": "A série animada apresenta as aventuras da família Griffin. O ignorante Peter e sua esposa Lois residem em Quahog, em Rhode Island e têm três filhos. Meg, a filha mais velha, é uma pária social, e o adolescente Chris é estranho e sem noção quando se trata do sexo oposto. O mais novo, Stewie, é um bebê gênio decidido a matar sua mãe e destruir o mundo. O cachorro falante, Brian, mantém Stewie sob controle enquanto toma martinis e resolve seus próprios problemas de vida.",
-        "poster": "https://image.tmdb.org/t/p/original/j28XGzAhvJNGWEHbYrzvREw7kKd.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
-        "studio": [
-            "FOX"
-        ],
-        "genres": [
-            "Animação",
-            "Comédia"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª a 12ª Temporada",
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/4fLbserVJuev3luHioEvJ85GmEM.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Uma%20Familia%20da%20Pesada%20(1434)/temporada_1.json"
-            }
-        ],
-        "providers": [],
-        "clearlogo": "https://image.tmdb.org/t/p/original/4gl00NPDu3y01X9w5AaMOa5cJ4M.png"
-    },
-    {
         "tmdb_id": 196890,
         "popularity": 101.8007,
         "trending": true,
@@ -921,6 +890,37 @@
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Chefe%20de%20Guerra%20%28196890%29/temporada_1.json"
             }
         ]
+    },
+    {
+        "tmdb_id": 1434,
+        "popularity": 99.1276,
+        "trending": true,
+        "title": "Uma Família da Pesada",
+        "rating": 8.1,
+        "classification": "16",
+        "year": 1999,
+        "premiered": "31/01/1999",
+        "synopsis": "A série animada apresenta as aventuras da família Griffin. O ignorante Peter e sua esposa Lois residem em Quahog, em Rhode Island e têm três filhos. Meg, a filha mais velha, é uma pária social, e o adolescente Chris é estranho e sem noção quando se trata do sexo oposto. O mais novo, Stewie, é um bebê gênio decidido a matar sua mãe e destruir o mundo. O cachorro falante, Brian, mantém Stewie sob controle enquanto toma martinis e resolve seus próprios problemas de vida.",
+        "poster": "https://image.tmdb.org/t/p/original/j28XGzAhvJNGWEHbYrzvREw7kKd.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
+        "studio": [
+            "FOX"
+        ],
+        "genres": [
+            "Animação",
+            "Comédia"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª a 12ª Temporada",
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/4fLbserVJuev3luHioEvJ85GmEM.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Uma%20Familia%20da%20Pesada%20(1434)/temporada_1.json"
+            }
+        ],
+        "providers": [],
+        "clearlogo": "https://image.tmdb.org/t/p/original/4gl00NPDu3y01X9w5AaMOa5cJ4M.png"
     },
     {
         "tmdb_id": 65334,
@@ -2452,55 +2452,6 @@
         "clearlogo": "https://image.tmdb.org/t/p/original/sOHgD8zKodsDSXaTvlcUTHTz22.png"
     },
     {
-        "tmdb_id": 44006,
-        "popularity": 61.1233,
-        "trending": true,
-        "title": "Chicago Fire: Heróis Contra o Fogo",
-        "rating": 8.411,
-        "classification": "14",
-        "year": 2012,
-        "premiered": "10/10/2012",
-        "date_added": "2025-07-03",
-        "synopsis": "Acompanhe o dia-a-dia intenso e os dramas dos oficiais do Departamento de Bombeiros de Chicago e paramédicos do Quartel 51. A equipe composta por bombeiros, equipe de resgate e paramédicos, irá passar por situações tensas e delicadas, arriscando suas próprias vidas para salvar pessoas em perigo, além de ter que lidar com os conflitos pessoais e os desafios que surgem por conta das diferenças entre os companheiros de equipe.",
-        "poster": "https://image.tmdb.org/t/p/original/iD8lx0VgmpCZMhycI0Xw72wCuRS.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/rLSe8Qps7A0bwUg6h5CttlHpcKp.jpg",
-        "clearlogo": "https://image.tmdb.org/t/p/original/6bSsmPaRqYnEXFxN7rycVX9zDkU.svg",
-        "studio": [
-            "NBC"
-        ],
-        "genres": [
-            "Drama"
-        ],
-        "providers": [
-            "Amazon Prime Video",
-            "Claro tv+"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "rating": 7.7,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/fTVZTV41lI9EFPTEjwRBmierHUE.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Chicago%20Fire%20Herois%20Contra%20o%20Fogo%20%2844006%29/temporada_1.json"
-            },
-            {
-                "title": "2ª Temporada",
-                "rating": 8.1,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/wqsi6oKOc8hGA8153pJEM5Pc9jQ.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Chicago%20Fire%20Herois%20Contra%20o%20Fogo%20%2844006%29/temporada_2.json"
-            },
-            {
-                "title": "3ª Temporada",
-                "rating": 8,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/28WoFa8Fqc2g8kAWGTCoe7xhfEI.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Chicago%20Fire%20Herois%20Contra%20o%20Fogo%20%2844006%29/temporada_3.json"
-            }
-        ]
-    },
-    {
         "tmdb_id": 207484,
         "popularity": 60.8638,
         "title": "Outlander: Blood of My Blood",
@@ -2618,6 +2569,55 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/2kbzZV3yBfN7n2srRewN6jQ6fjq.png"
+    },
+    {
+        "tmdb_id": 44006,
+        "popularity": 59.306,
+        "trending": true,
+        "title": "Chicago Fire: Heróis Contra o Fogo",
+        "rating": 8.411,
+        "classification": "14",
+        "year": 2012,
+        "premiered": "10/10/2012",
+        "date_added": "2025-07-03",
+        "synopsis": "Acompanhe o dia-a-dia intenso e os dramas dos oficiais do Departamento de Bombeiros de Chicago e paramédicos do Quartel 51. A equipe composta por bombeiros, equipe de resgate e paramédicos, irá passar por situações tensas e delicadas, arriscando suas próprias vidas para salvar pessoas em perigo, além de ter que lidar com os conflitos pessoais e os desafios que surgem por conta das diferenças entre os companheiros de equipe.",
+        "poster": "https://image.tmdb.org/t/p/original/iD8lx0VgmpCZMhycI0Xw72wCuRS.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/rLSe8Qps7A0bwUg6h5CttlHpcKp.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/6bSsmPaRqYnEXFxN7rycVX9zDkU.svg",
+        "studio": [
+            "NBC"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "providers": [
+            "Amazon Prime Video",
+            "Claro tv+"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 7.7,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/fTVZTV41lI9EFPTEjwRBmierHUE.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Chicago%20Fire%20Herois%20Contra%20o%20Fogo%20%2844006%29/temporada_1.json"
+            },
+            {
+                "title": "2ª Temporada",
+                "rating": 8.1,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/wqsi6oKOc8hGA8153pJEM5Pc9jQ.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Chicago%20Fire%20Herois%20Contra%20o%20Fogo%20%2844006%29/temporada_2.json"
+            },
+            {
+                "title": "3ª Temporada",
+                "rating": 8,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/28WoFa8Fqc2g8kAWGTCoe7xhfEI.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Chicago%20Fire%20Herois%20Contra%20o%20Fogo%20%2844006%29/temporada_3.json"
+            }
+        ]
     },
     {
         "tmdb_id": 256721,
@@ -3048,95 +3048,6 @@
         "clearlogo": "https://image.tmdb.org/t/p/original/3OdGyeRpm56so0xmXjhBs8DbXv5.png"
     },
     {
-        "tmdb_id": 1100,
-        "popularity": 54.2411,
-        "trending": true,
-        "title": "Como Eu Conheci Sua Mãe",
-        "rating": 8.2,
-        "classification": "12",
-        "year": 2005,
-        "premiered": "19/09/2005",
-        "synopsis": "No ano de 2030, Ted Mosby, um arquiteto, decide explicar a seus filhos a história de como ele conheceu a mãe deles. Tudo começou em 2005, quando um de seus amigos decidiu se casar e Ted precisou correr atrás de um amor.",
-        "poster": "https://image.tmdb.org/t/p/original/578tlvbrpFwc959bQTT93W2RYA.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9YteO4VWteiPmEbWYJRAeBTQZPD.jpg",
-        "studio": [
-            "Disney+"
-        ],
-        "genres": [
-            "Comédia"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "rating": 7.6,
-                "synopsis": "Uma história de amor ao contrário: Como Eu Conheci Sua Mãe é uma nova comédia que conta a vida amorosa de Ted (Josh Radnor). Quando o melhor amigo de Ted, Marshall (Jason Segel) decide que pedirá a sua namorada de longa data, Lily (Alyson Hannigan), em casamento, ele percebe que deve agir se realmente espera encontrar o amor verdadeiro. O ajudando em sua busca o seu amigo-de-bar \"braço direito\", Barney (Neil Patrick Harris), um solteiro convicto com muitos esquemas selvagens para pegar mulheres. Ted avista a charmosa e independente Robin (Cobie Smulders), mas o destino pode ter algo diferente em mente. Contada através de uma série de flashbacks, Ted lembra de seus dias, os altos e baixos de seus namoros e a busca pelo verdadeiro amor.",
-                "poster": "https://image.tmdb.org/t/p/original/7n8OEMRgIVkyPfswdBaftEBqQnI.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_1.json"
-            },
-            {
-                "title": "2ª Temporada",
-                "rating": 7.8,
-                "synopsis": "A mulher de seus sonhos está lá fora — a questão é, quem é ela? — Contada em uma série de flashbacks, Como Eu Conheci Sua Mãe é a história hilariante de como Ted, de vinte e poucos anos, encontra sua alma gêmea e se despedindo do mundo das cantadas, uma noite alta e um relacionamento \"quebrador de acordo.\" Com os amigos Marshall e o casamento de Lily se aproximando rapidamente, o escandalosamente inapropriado Barney continua sendo um solteiro convicto, enquanto o romance de Ted com Robin aquece, mas ela é realmente a única para ele? As coisas têm uma maneira engraçada de acontecer nesta comédia deliciosamente fresca e rápida.",
-                "poster": "https://image.tmdb.org/t/p/original/8OEKsU865P88LrAO6dZ157VNvHV.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_2.json"
-            },
-            {
-                "title": "3ª Temporada",
-                "rating": 7.7,
-                "synopsis": "É a terceira temporada e a busca por uma alma gêmea nunca foi tão inapropriada! Ted, trinta anos, ainda está procurando a pessoa certa, mas seu caminho para a felicidade é improvável pavimentado com garotas punk rock, tatuagens, exposições de vídeo adultas e um épico Dia de São Patrício. Enquanto isso, à medida que Marshall e Lily se ajustam às peculiaridades da vida de casados, o escandalosamente incorrigível Barney comete uma grande violação ao \"Código dos Bros\". Além disso, a terceira temporada apresenta uma série de estrelas convidadas hilariantes, incluindo BRITNEY SPEARS, SARAH CHALKE (Scrubs da TV), ENRIQUE IGLESIAS, MANDY MOORE e a super modelo HEIDI KLUM.",
-                "poster": "https://image.tmdb.org/t/p/original/4QwuGNHzByZxXftS01EMbks7Cn7.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_3.json"
-            },
-            {
-                "title": "4ª Temporada",
-                "rating": 7.7,
-                "synopsis": "Carregado de risadas irresistíveis e cheia de diversão ultrajante, há apenas uma palavra para a comédia de sucesso Como Eu Conheci Sua Mãe: grandiosidade!\n\nDos dilemas em namoros aos enigmas da carreira, o recentemente engajado Ted e seus amigos agitados se encontram na encruzilhada da vida jovem-adulta. Enquanto os recém-casados Marshall e Lily contemplam a paternidade, a solteira Robin explora as vantagens de ter \"amigos com benefícios\". Enquanto isso, o incorrigível e opinativo Barney continua sua perseguição hilariante de sexo mais justo. Quanto a Ted, sua alma gêmea está lá fora, mas em meio a brigas de bar e nevascas, como ele a encontrará?",
-                "poster": "https://image.tmdb.org/t/p/original/8Ly76CWFpQ6voKvUZmOKsBwF6qH.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_4.json"
-            },
-            {
-                "title": "5ª Temporada",
-                "rating": 7.7,
-                "synopsis": "Com a hilariante quinta temporada de Como Eu Conheci Sua Mãe, o acertado e ultrajante indicado ao Emmy®, estrelado por Neil Patrick Harris, Jason Segel e Alyson Hannigan! A temporada mais engraçada do programa até o momento é carregada com conexões, rompimentos e o retorno da Estapeação-de-Graças — sem mencionar as estrelas convidadas mais quentes que se possa imaginar, incluindo Jennifer Lopez, Carrie Underwood, Amanda Peet e Rachel Bilson. Começando um namoro, Barney e Robin levam seu relacionamento para o próximo nível — antes de de acabar — e Ted conhece a companheira de quarto de sua futura esposa nessa história de amor moderna e barulhenta contada ao contrário.",
-                "poster": "https://image.tmdb.org/t/p/original/hNwfnZpuiTfSRCEJz77IO3Kvib6.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_5.json"
-            },
-            {
-                "title": "6ª Temporada",
-                "rating": 7.7,
-                "synopsis": "Quanto mais as coisas mudam, mais as coisas ficam interessantes nesta nova temporada hilária de Como Eu Conheci Sua Mãe. A busca de Ted (Josh Radnor) pela \"A Certa\" continua enquanto Marshall e Lily (Jason Segel e Alyson Hannigan) esperam para se tornarem pais, Barney (Neil Patrick Harris) faz uma tentativa barulhenta e desajeitada de encontrar seu verdadeiro pai, e Robin (Cobie Smulders ) finalmente se sente uma verdadeira Nova-iorquina. Apresentando estrelas convidadas épicas como a Katy Perry e o Jorge Garcia como \"O Blitz.\" A sexta temporada está incrivelmente grandiosa.",
-                "poster": "https://image.tmdb.org/t/p/original/fKKZ5Zns5ISPoF4lwH0a14TgBxp.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_6.json"
-            },
-            {
-                "title": "7ª Temporada",
-                "rating": 7.6,
-                "synopsis": "Com um bebê e um casamento a caminho, a mudança está no ar e a incrível abundante sétima temporada hilariante de Como Eu Conheci Sua Mãe. Quando Marshall e Lily se afastam para começar sua família, Ted continua a busca pela mulher de seus sonhos. Enquanto isso, Robin revela um atrevido chocante segredo e a estrela convidada Katie Holmes se junta à diversão no tão esperado retorno da abóbora safada! E os sinos de casamento estão finalmente tocando para um confirmado Barney Noivo, mas por que ele está usando aquela gravata ridícula e quem é a \"sortuda\"?",
-                "poster": "https://image.tmdb.org/t/p/original/8tme9C6s75sj0Nn7DQrn6PlNa1B.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_7.json"
-            },
-            {
-                "title": "8ª Temporada",
-                "rating": 7.5,
-                "synopsis": "Na oitava temporada de Como Eu Conheci Sua Mãe, a chegada do bebê Marvin lembra Marshall e Lily de coisas de que eles precisam, como dormir, empregos melhores e sexo! Enquanto isso, Barney usa seu manual para conquistar Robin, mas não seu pai assustador. Marshall tenta corrigir um erro no tribunal na esperança de se tornar juiz, e o passado de Robin é julgado. Ted projeta um edifício incrível e também tem desejos pela meia-irmã de Barney! Mas ele conhece sua futura esposa? Confira todos episódios hilariantes, Legen... espera um pouquinho... DÁRIO, da Temporada 8, apresentando estrelas convidadas como Paul Shaffer, Ralph Macchio e Kyle Maclachlan!",
-                "poster": "https://image.tmdb.org/t/p/original/o6BepKycT39kubElBsnj5bWpDPU.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_8.json"
-            },
-            {
-                "title": "9ª Temporada",
-                "rating": 7.3,
-                "synopsis": "Coloque o Terno e dê um último Toca-aqui para a Legen... espera um pouquinho... DÁRIA temporada final de Como Eu Conheci Sua Mãe. Respostas surpreendentes a perguntas hilárias serão reveladas durante um fim de semana épico de casamento. Marshall poderá completar uma viagem pelo país e chegar à cerimônia? Robin e Barney realmente vão se casar? Lily está escondendo um segredo chocante? Ted finalmente encontrará a mãe de seus filhos ... e ela é realmente \"A Certa\"? Tudo isso se baseia em um final de duas partes da série, levando a um dos finais mais comentados da história da TV.",
-                "poster": "https://image.tmdb.org/t/p/original/ynDSoB5ilvp2qnSJp1WFCZSRjbm.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_9.json"
-            }
-        ],
-        "providers": [
-            "Disney Plus"
-        ],
-        "clearlogo": "https://image.tmdb.org/t/p/original/3KcVo4es9HkcAPyXMeXqnI6Weov.png"
-    },
-    {
         "tmdb_id": 247718,
         "popularity": 54.0306,
         "trending": true,
@@ -3377,6 +3288,95 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/qEDAMVdOaSSZ5A2KLpbGLHmOBMH.png"
+    },
+    {
+        "tmdb_id": 1100,
+        "popularity": 52.0797,
+        "trending": true,
+        "title": "Como Eu Conheci Sua Mãe",
+        "rating": 8.2,
+        "classification": "12",
+        "year": 2005,
+        "premiered": "19/09/2005",
+        "synopsis": "No ano de 2030, Ted Mosby, um arquiteto, decide explicar a seus filhos a história de como ele conheceu a mãe deles. Tudo começou em 2005, quando um de seus amigos decidiu se casar e Ted precisou correr atrás de um amor.",
+        "poster": "https://image.tmdb.org/t/p/original/578tlvbrpFwc959bQTT93W2RYA.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9YteO4VWteiPmEbWYJRAeBTQZPD.jpg",
+        "studio": [
+            "Disney+"
+        ],
+        "genres": [
+            "Comédia"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 7.6,
+                "synopsis": "Uma história de amor ao contrário: Como Eu Conheci Sua Mãe é uma nova comédia que conta a vida amorosa de Ted (Josh Radnor). Quando o melhor amigo de Ted, Marshall (Jason Segel) decide que pedirá a sua namorada de longa data, Lily (Alyson Hannigan), em casamento, ele percebe que deve agir se realmente espera encontrar o amor verdadeiro. O ajudando em sua busca o seu amigo-de-bar \"braço direito\", Barney (Neil Patrick Harris), um solteiro convicto com muitos esquemas selvagens para pegar mulheres. Ted avista a charmosa e independente Robin (Cobie Smulders), mas o destino pode ter algo diferente em mente. Contada através de uma série de flashbacks, Ted lembra de seus dias, os altos e baixos de seus namoros e a busca pelo verdadeiro amor.",
+                "poster": "https://image.tmdb.org/t/p/original/7n8OEMRgIVkyPfswdBaftEBqQnI.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_1.json"
+            },
+            {
+                "title": "2ª Temporada",
+                "rating": 7.8,
+                "synopsis": "A mulher de seus sonhos está lá fora — a questão é, quem é ela? — Contada em uma série de flashbacks, Como Eu Conheci Sua Mãe é a história hilariante de como Ted, de vinte e poucos anos, encontra sua alma gêmea e se despedindo do mundo das cantadas, uma noite alta e um relacionamento \"quebrador de acordo.\" Com os amigos Marshall e o casamento de Lily se aproximando rapidamente, o escandalosamente inapropriado Barney continua sendo um solteiro convicto, enquanto o romance de Ted com Robin aquece, mas ela é realmente a única para ele? As coisas têm uma maneira engraçada de acontecer nesta comédia deliciosamente fresca e rápida.",
+                "poster": "https://image.tmdb.org/t/p/original/8OEKsU865P88LrAO6dZ157VNvHV.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_2.json"
+            },
+            {
+                "title": "3ª Temporada",
+                "rating": 7.7,
+                "synopsis": "É a terceira temporada e a busca por uma alma gêmea nunca foi tão inapropriada! Ted, trinta anos, ainda está procurando a pessoa certa, mas seu caminho para a felicidade é improvável pavimentado com garotas punk rock, tatuagens, exposições de vídeo adultas e um épico Dia de São Patrício. Enquanto isso, à medida que Marshall e Lily se ajustam às peculiaridades da vida de casados, o escandalosamente incorrigível Barney comete uma grande violação ao \"Código dos Bros\". Além disso, a terceira temporada apresenta uma série de estrelas convidadas hilariantes, incluindo BRITNEY SPEARS, SARAH CHALKE (Scrubs da TV), ENRIQUE IGLESIAS, MANDY MOORE e a super modelo HEIDI KLUM.",
+                "poster": "https://image.tmdb.org/t/p/original/4QwuGNHzByZxXftS01EMbks7Cn7.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_3.json"
+            },
+            {
+                "title": "4ª Temporada",
+                "rating": 7.7,
+                "synopsis": "Carregado de risadas irresistíveis e cheia de diversão ultrajante, há apenas uma palavra para a comédia de sucesso Como Eu Conheci Sua Mãe: grandiosidade!\n\nDos dilemas em namoros aos enigmas da carreira, o recentemente engajado Ted e seus amigos agitados se encontram na encruzilhada da vida jovem-adulta. Enquanto os recém-casados Marshall e Lily contemplam a paternidade, a solteira Robin explora as vantagens de ter \"amigos com benefícios\". Enquanto isso, o incorrigível e opinativo Barney continua sua perseguição hilariante de sexo mais justo. Quanto a Ted, sua alma gêmea está lá fora, mas em meio a brigas de bar e nevascas, como ele a encontrará?",
+                "poster": "https://image.tmdb.org/t/p/original/8Ly76CWFpQ6voKvUZmOKsBwF6qH.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_4.json"
+            },
+            {
+                "title": "5ª Temporada",
+                "rating": 7.7,
+                "synopsis": "Com a hilariante quinta temporada de Como Eu Conheci Sua Mãe, o acertado e ultrajante indicado ao Emmy®, estrelado por Neil Patrick Harris, Jason Segel e Alyson Hannigan! A temporada mais engraçada do programa até o momento é carregada com conexões, rompimentos e o retorno da Estapeação-de-Graças — sem mencionar as estrelas convidadas mais quentes que se possa imaginar, incluindo Jennifer Lopez, Carrie Underwood, Amanda Peet e Rachel Bilson. Começando um namoro, Barney e Robin levam seu relacionamento para o próximo nível — antes de de acabar — e Ted conhece a companheira de quarto de sua futura esposa nessa história de amor moderna e barulhenta contada ao contrário.",
+                "poster": "https://image.tmdb.org/t/p/original/hNwfnZpuiTfSRCEJz77IO3Kvib6.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_5.json"
+            },
+            {
+                "title": "6ª Temporada",
+                "rating": 7.7,
+                "synopsis": "Quanto mais as coisas mudam, mais as coisas ficam interessantes nesta nova temporada hilária de Como Eu Conheci Sua Mãe. A busca de Ted (Josh Radnor) pela \"A Certa\" continua enquanto Marshall e Lily (Jason Segel e Alyson Hannigan) esperam para se tornarem pais, Barney (Neil Patrick Harris) faz uma tentativa barulhenta e desajeitada de encontrar seu verdadeiro pai, e Robin (Cobie Smulders ) finalmente se sente uma verdadeira Nova-iorquina. Apresentando estrelas convidadas épicas como a Katy Perry e o Jorge Garcia como \"O Blitz.\" A sexta temporada está incrivelmente grandiosa.",
+                "poster": "https://image.tmdb.org/t/p/original/fKKZ5Zns5ISPoF4lwH0a14TgBxp.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_6.json"
+            },
+            {
+                "title": "7ª Temporada",
+                "rating": 7.6,
+                "synopsis": "Com um bebê e um casamento a caminho, a mudança está no ar e a incrível abundante sétima temporada hilariante de Como Eu Conheci Sua Mãe. Quando Marshall e Lily se afastam para começar sua família, Ted continua a busca pela mulher de seus sonhos. Enquanto isso, Robin revela um atrevido chocante segredo e a estrela convidada Katie Holmes se junta à diversão no tão esperado retorno da abóbora safada! E os sinos de casamento estão finalmente tocando para um confirmado Barney Noivo, mas por que ele está usando aquela gravata ridícula e quem é a \"sortuda\"?",
+                "poster": "https://image.tmdb.org/t/p/original/8tme9C6s75sj0Nn7DQrn6PlNa1B.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_7.json"
+            },
+            {
+                "title": "8ª Temporada",
+                "rating": 7.5,
+                "synopsis": "Na oitava temporada de Como Eu Conheci Sua Mãe, a chegada do bebê Marvin lembra Marshall e Lily de coisas de que eles precisam, como dormir, empregos melhores e sexo! Enquanto isso, Barney usa seu manual para conquistar Robin, mas não seu pai assustador. Marshall tenta corrigir um erro no tribunal na esperança de se tornar juiz, e o passado de Robin é julgado. Ted projeta um edifício incrível e também tem desejos pela meia-irmã de Barney! Mas ele conhece sua futura esposa? Confira todos episódios hilariantes, Legen... espera um pouquinho... DÁRIO, da Temporada 8, apresentando estrelas convidadas como Paul Shaffer, Ralph Macchio e Kyle Maclachlan!",
+                "poster": "https://image.tmdb.org/t/p/original/o6BepKycT39kubElBsnj5bWpDPU.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_8.json"
+            },
+            {
+                "title": "9ª Temporada",
+                "rating": 7.3,
+                "synopsis": "Coloque o Terno e dê um último Toca-aqui para a Legen... espera um pouquinho... DÁRIA temporada final de Como Eu Conheci Sua Mãe. Respostas surpreendentes a perguntas hilárias serão reveladas durante um fim de semana épico de casamento. Marshall poderá completar uma viagem pelo país e chegar à cerimônia? Robin e Barney realmente vão se casar? Lily está escondendo um segredo chocante? Ted finalmente encontrará a mãe de seus filhos ... e ela é realmente \"A Certa\"? Tudo isso se baseia em um final de duas partes da série, levando a um dos finais mais comentados da história da TV.",
+                "poster": "https://image.tmdb.org/t/p/original/ynDSoB5ilvp2qnSJp1WFCZSRjbm.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20Eu%20Conheci%20Sua%20Mae%20(1100)/temporada_9.json"
+            }
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/3KcVo4es9HkcAPyXMeXqnI6Weov.png"
     },
     {
         "tmdb_id": 78191,
@@ -4607,74 +4607,6 @@
         "clearlogo": "https://image.tmdb.org/t/p/original/gwgl1QT9Lrx6031VyG5F98AihzR.png"
     },
     {
-        "tmdb_id": 1409,
-        "popularity": 39.0166,
-        "trending": true,
-        "title": "Filhos da Anarquia",
-        "rating": 8.425,
-        "classification": "16",
-        "year": "2008",
-        "premiered": "09/03/2008",
-        "synopsis": "Uma gangue de motoqueiros segue suas próprias leis e comanda, por debaixo dos panos, o tráfico de armas na região da aparentemente pacata da cidade de Charming, protegendo-a contra forasteiros hostis.",
-        "poster": "https://image.tmdb.org/t/p/original/sa9VPlQneBi5xDz69kp7EJReUC1.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/mcgZDwhMlrFsfpbvCeg5RY5mhiu.jpg",
-        "studio": [
-            "Disney+"
-        ],
-        "genres": [
-            "Crime"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/fr2l2HoeABsh1YX4LQ9grl8qV7c.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Filhos%20da%20Anarquia%20(1409)/temporada_1.json"
-            },
-            {
-                "title": "2ª Temporada",
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/AiBKKlTCLsq0TzKUqW7LApbKX34.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Filhos%20da%20Anarquia%20(1409)/temporada_2.json"
-            },
-            {
-                "title": "3ª Temporada",
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/3hxpUqhNazaRDseDhUJxFXvQ74Q.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Filhos%20da%20Anarquia%20(1409)/temporada_3.json"
-            },
-            {
-                "title": "4ª Temporada",
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/yvwfTpHm883l0yZITGH5EAiORFj.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Filhos%20da%20Anarquia%20(1409)/temporada_4.json"
-            },
-            {
-                "title": "5ª Temporada",
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/gnksoNOsYdmYnZw44h4s03GmqHF.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Filhos%20da%20Anarquia%20(1409)/temporada_5.json"
-            },
-            {
-                "title": "6ª Temporada",
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/lGvaRuTRMV8cJmwPA7p8uGeOddZ.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Filhos%20da%20Anarquia%20(1409)/temporada_6.json"
-            },
-            {
-                "title": "7ª Temporada",
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/zwPm16h5H2dWkK2YuTOZbqH2X90.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Filhos%20da%20Anarquia%20(1409)/temporada_7.json"
-            }
-        ],
-        "providers": [
-            "Disney Plus"
-        ],
-        "clearlogo": "https://image.tmdb.org/t/p/original/efgD4oLjC9MF606gTSKcLI4q7mZ.png"
-    },
-    {
         "tmdb_id": 84773,
         "popularity": 38.2799,
         "trending": true,
@@ -4825,6 +4757,74 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/2SwIOcXZ4you4EjPCAw7IucCsgX.png"
+    },
+    {
+        "tmdb_id": 1409,
+        "popularity": 37.6457,
+        "trending": true,
+        "title": "Filhos da Anarquia",
+        "rating": 8.425,
+        "classification": "16",
+        "year": "2008",
+        "premiered": "09/03/2008",
+        "synopsis": "Uma gangue de motoqueiros segue suas próprias leis e comanda, por debaixo dos panos, o tráfico de armas na região da aparentemente pacata da cidade de Charming, protegendo-a contra forasteiros hostis.",
+        "poster": "https://image.tmdb.org/t/p/original/sa9VPlQneBi5xDz69kp7EJReUC1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/mcgZDwhMlrFsfpbvCeg5RY5mhiu.jpg",
+        "studio": [
+            "Disney+"
+        ],
+        "genres": [
+            "Crime"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/fr2l2HoeABsh1YX4LQ9grl8qV7c.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Filhos%20da%20Anarquia%20(1409)/temporada_1.json"
+            },
+            {
+                "title": "2ª Temporada",
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/AiBKKlTCLsq0TzKUqW7LApbKX34.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Filhos%20da%20Anarquia%20(1409)/temporada_2.json"
+            },
+            {
+                "title": "3ª Temporada",
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/3hxpUqhNazaRDseDhUJxFXvQ74Q.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Filhos%20da%20Anarquia%20(1409)/temporada_3.json"
+            },
+            {
+                "title": "4ª Temporada",
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/yvwfTpHm883l0yZITGH5EAiORFj.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Filhos%20da%20Anarquia%20(1409)/temporada_4.json"
+            },
+            {
+                "title": "5ª Temporada",
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/gnksoNOsYdmYnZw44h4s03GmqHF.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Filhos%20da%20Anarquia%20(1409)/temporada_5.json"
+            },
+            {
+                "title": "6ª Temporada",
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/lGvaRuTRMV8cJmwPA7p8uGeOddZ.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Filhos%20da%20Anarquia%20(1409)/temporada_6.json"
+            },
+            {
+                "title": "7ª Temporada",
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/zwPm16h5H2dWkK2YuTOZbqH2X90.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Filhos%20da%20Anarquia%20(1409)/temporada_7.json"
+            }
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/efgD4oLjC9MF606gTSKcLI4q7mZ.png"
     },
     {
         "tmdb_id": 85552,
@@ -7779,52 +7779,6 @@
         "clearlogo": "https://image.tmdb.org/t/p/original/kny0Z0Zlaj7tQFHpfWHnsbJUcQH.svg"
     },
     {
-        "tmdb_id": 91239,
-        "popularity": 22.5258,
-        "trending": false,
-        "title": "Bridgerton",
-        "rating": 8.126,
-        "year": 2020,
-        "premiered": "25/12/2020",
-        "synopsis": "Oito irmãos inseparáveis buscam amor e felicidade na alta sociedade de Londres.",
-        "poster": "https://image.tmdb.org/t/p/original/olviL1bDh3UjK3Bao8Y7ypPqE7k.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/tdlHJ8KoOd9UgUygCWQ3fKRNkAR.jpg",
-        "studio": [
-            "Netflix"
-        ],
-        "genres": [
-            "Drama"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/qaewZKBKmXjb4ZfFBb1LCug6BE8.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bridgerton%20(91239)/temporada_1.json"
-            },
-            {
-                "title": "2ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/luoKpgVwi1E5nQsi7W0UuKHu2Rq.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bridgerton%20(91239)/temporada_2.json"
-            },
-            {
-                "title": "3ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/zCEm0xrRMa5fLCQ9d0nvcw6tvcr.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bridgerton%20(91239)/temporada_3.json"
-            },
-            {
-                "title": "4ª Temporada",
-                "poster": "",
-                "episodios": []
-            }
-        ],
-        "providers": [
-            "Netflix",
-            "Netflix Standard with Ads"
-        ],
-        "clearlogo": "https://image.tmdb.org/t/p/original/hCktfeE5wbaakqp8y98Ui5ZAats.svg"
-    },
-    {
         "tmdb_id": 83867,
         "popularity": 22.4316,
         "trending": false,
@@ -7863,52 +7817,6 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/o4ksVdqiHklZ7dlNDhK8ttyDFKx.png"
-    },
-    {
-        "tmdb_id": 95057,
-        "popularity": 22.3487,
-        "trending": false,
-        "title": "Superman e Lois",
-        "rating": 8.1,
-        "year": 2021,
-        "premiered": "23/02/2021",
-        "synopsis": "Clark Kent, o Superman, maior herói do mundo, e sua companheira Lois Lane, uma famosa jornalista, se esforçam para lidar com o estresse e as complexidades cotidianas de serem pais que trabalham na sociedade contemporânea.",
-        "poster": "https://image.tmdb.org/t/p/original/qyCwyFztdccvu1Y62INkLFKp2Pp.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg",
-        "studio": [
-            "The CW"
-        ],
-        "genres": [
-            "Drama"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Superman%20e%20Lois%20(95057)/temporada_1.json"
-            },
-            {
-                "title": "2ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/9oPfsz3PPgNjlaCXSu8PHrFB95F.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Superman%20e%20Lois%20(95057)/temporada_2.json"
-            },
-            {
-                "title": "3ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/qyCwyFztdccvu1Y62INkLFKp2Pp.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Superman%20e%20Lois%20(95057)/temporada_3.json"
-            },
-            {
-                "title": "4ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/hoWkpACsrLgv4QMT4XCDrzoPdWN.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Superman%20e%20Lois%20(95057)/temporada_4.json"
-            }
-        ],
-        "providers": [
-            "Max",
-            "Max Amazon Channel"
-        ],
-        "clearlogo": "https://image.tmdb.org/t/p/original/pVOmqCcN1LezB0ZBue7JrwtvSJk.png"
     },
     {
         "tmdb_id": 250307,
@@ -8050,6 +7958,52 @@
         "clearlogo": "https://image.tmdb.org/t/p/original/kGYXRuoBAPwXHgG0TDrn5qQxoWA.png"
     },
     {
+        "tmdb_id": 91239,
+        "popularity": 22.1469,
+        "trending": false,
+        "title": "Bridgerton",
+        "rating": 8.126,
+        "year": 2020,
+        "premiered": "25/12/2020",
+        "synopsis": "Oito irmãos inseparáveis buscam amor e felicidade na alta sociedade de Londres.",
+        "poster": "https://image.tmdb.org/t/p/original/olviL1bDh3UjK3Bao8Y7ypPqE7k.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/tdlHJ8KoOd9UgUygCWQ3fKRNkAR.jpg",
+        "studio": [
+            "Netflix"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/qaewZKBKmXjb4ZfFBb1LCug6BE8.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bridgerton%20(91239)/temporada_1.json"
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/luoKpgVwi1E5nQsi7W0UuKHu2Rq.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bridgerton%20(91239)/temporada_2.json"
+            },
+            {
+                "title": "3ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/zCEm0xrRMa5fLCQ9d0nvcw6tvcr.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bridgerton%20(91239)/temporada_3.json"
+            },
+            {
+                "title": "4ª Temporada",
+                "poster": "",
+                "episodios": []
+            }
+        ],
+        "providers": [
+            "Netflix",
+            "Netflix Standard with Ads"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/hCktfeE5wbaakqp8y98Ui5ZAats.svg"
+    },
+    {
         "tmdb_id": 63247,
         "popularity": 21.9963,
         "trending": false,
@@ -8096,6 +8050,52 @@
         ],
         "providers": [],
         "clearlogo": "https://image.tmdb.org/t/p/original/418NJcFFqyg5lg5CdIMnQmJMjLl.png"
+    },
+    {
+        "tmdb_id": 95057,
+        "popularity": 21.8121,
+        "trending": false,
+        "title": "Superman e Lois",
+        "rating": 8.1,
+        "year": 2021,
+        "premiered": "23/02/2021",
+        "synopsis": "Clark Kent, o Superman, maior herói do mundo, e sua companheira Lois Lane, uma famosa jornalista, se esforçam para lidar com o estresse e as complexidades cotidianas de serem pais que trabalham na sociedade contemporânea.",
+        "poster": "https://image.tmdb.org/t/p/original/qyCwyFztdccvu1Y62INkLFKp2Pp.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg",
+        "studio": [
+            "The CW"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Superman%20e%20Lois%20(95057)/temporada_1.json"
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/9oPfsz3PPgNjlaCXSu8PHrFB95F.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Superman%20e%20Lois%20(95057)/temporada_2.json"
+            },
+            {
+                "title": "3ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/qyCwyFztdccvu1Y62INkLFKp2Pp.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Superman%20e%20Lois%20(95057)/temporada_3.json"
+            },
+            {
+                "title": "4ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/hoWkpACsrLgv4QMT4XCDrzoPdWN.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Superman%20e%20Lois%20(95057)/temporada_4.json"
+            }
+        ],
+        "providers": [
+            "Max",
+            "Max Amazon Channel"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/pVOmqCcN1LezB0ZBue7JrwtvSJk.png"
     },
     {
         "tmdb_id": 4588,
@@ -8750,6 +8750,84 @@
         "clearlogo": "https://image.tmdb.org/t/p/original/jXLNOzeEA8AoJy92dJTUUZXTMxK.png"
     },
     {
+        "tmdb_id": 68073,
+        "popularity": 19.8855,
+        "trending": false,
+        "title": "Loud em casa",
+        "rating": 7.833,
+        "classification": "10",
+        "year": 2016,
+        "premiered": "02/05/2016",
+        "date_added": "2025-06-27",
+        "synopsis": "A série conta a história de Lincoln Loud, um menino de 11 anos de idade, que vive em sua casa com dez irmãs e como ele tenta sobreviver sendo o único garoto da família, com as suas soluções criativas para os problemas comuns e caóticos do lar.",
+        "poster": "https://image.tmdb.org/t/p/original/eYT0lEqErG0ULMLYkUH89JitCPU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/36iVELhma9MawHkdMDPNRX8onEu.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/gC7sIq35KQKq8Q1OV6zZjds6si8.svg",
+        "studio": [
+            "Nickelodeon"
+        ],
+        "genres": [
+            "Animação",
+            "Comédia",
+            "Família",
+            "Kids",
+            "Mistério"
+        ],
+        "providers": [
+            "Paramount Plus",
+            "Netflix",
+            "Claro video",
+            "Hulu",
+            "Paramount Plus Apple TV Channel ",
+            "Netflix Kids"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 5.4,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/1bcintOuBp44Tv84whV01cmckv.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Loud%20em%20casa%20%2868073%29/temporada_1.json"
+            },
+            {
+                "title": "2ª Temporada",
+                "rating": 0,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/eYT0lEqErG0ULMLYkUH89JitCPU.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Loud%20em%20casa%20%2868073%29/temporada_2.json"
+            },
+            {
+                "title": "3ª Temporada",
+                "rating": 0,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/qMIohAKo08nwadTO5R7VqiAv1kx.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Loud%20em%20casa%20%2868073%29/temporada_3.json"
+            },
+            {
+                "title": "4ª Temporada",
+                "rating": 0,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/iIJeCcRiFov8dPd7wSfzyN6cU7F.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Loud%20em%20casa%20%2868073%29/temporada_4.json"
+            },
+            {
+                "title": "5ª Temporada (Indisponivel)",
+                "rating": 1,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/8hyx9zoZgdv11fLDGuBMYMprVga.jpg",
+                "episodios": []
+            },
+            {
+                "title": "6ª Temporada",
+                "rating": 0,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/xabiApQ3WLRuVJZT7VTL8xXKkYY.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Loud%20em%20casa%20%2868073%29/temporada_6.json"
+            }
+        ]
+    },
+    {
         "tmdb_id": 2085,
         "popularity": 19.8521,
         "trending": false,
@@ -8933,84 +9011,6 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/omZ2FMfLNKR1Ds2bMHdYF6LgDyY.png"
-    },
-    {
-        "tmdb_id": 68073,
-        "popularity": 19.2799,
-        "trending": false,
-        "title": "Loud em casa",
-        "rating": 7.833,
-        "classification": "10",
-        "year": 2016,
-        "premiered": "02/05/2016",
-        "date_added": "2025-06-27",
-        "synopsis": "A série conta a história de Lincoln Loud, um menino de 11 anos de idade, que vive em sua casa com dez irmãs e como ele tenta sobreviver sendo o único garoto da família, com as suas soluções criativas para os problemas comuns e caóticos do lar.",
-        "poster": "https://image.tmdb.org/t/p/original/eYT0lEqErG0ULMLYkUH89JitCPU.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/36iVELhma9MawHkdMDPNRX8onEu.jpg",
-        "clearlogo": "https://image.tmdb.org/t/p/original/gC7sIq35KQKq8Q1OV6zZjds6si8.svg",
-        "studio": [
-            "Nickelodeon"
-        ],
-        "genres": [
-            "Animação",
-            "Comédia",
-            "Família",
-            "Kids",
-            "Mistério"
-        ],
-        "providers": [
-            "Paramount Plus",
-            "Netflix",
-            "Claro video",
-            "Hulu",
-            "Paramount Plus Apple TV Channel ",
-            "Netflix Kids"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "rating": 5.4,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/1bcintOuBp44Tv84whV01cmckv.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Loud%20em%20casa%20%2868073%29/temporada_1.json"
-            },
-            {
-                "title": "2ª Temporada",
-                "rating": 0,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/eYT0lEqErG0ULMLYkUH89JitCPU.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Loud%20em%20casa%20%2868073%29/temporada_2.json"
-            },
-            {
-                "title": "3ª Temporada",
-                "rating": 0,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/qMIohAKo08nwadTO5R7VqiAv1kx.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Loud%20em%20casa%20%2868073%29/temporada_3.json"
-            },
-            {
-                "title": "4ª Temporada",
-                "rating": 0,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/iIJeCcRiFov8dPd7wSfzyN6cU7F.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Loud%20em%20casa%20%2868073%29/temporada_4.json"
-            },
-            {
-                "title": "5ª Temporada (Indisponivel)",
-                "rating": 1,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/8hyx9zoZgdv11fLDGuBMYMprVga.jpg",
-                "episodios": []
-            },
-            {
-                "title": "6ª Temporada",
-                "rating": 0,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/xabiApQ3WLRuVJZT7VTL8xXKkYY.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Loud%20em%20casa%20%2868073%29/temporada_6.json"
-            }
-        ]
     },
     {
         "tmdb_id": 40008,
@@ -9588,56 +9588,6 @@
         "clearlogo": "https://image.tmdb.org/t/p/original/oefaHbroXoHLX9adoFHkUlKw5yD.png"
     },
     {
-        "tmdb_id": 73375,
-        "popularity": 17.6886,
-        "trending": false,
-        "title": "Jack Ryan de Tom Clancy",
-        "rating": 8,
-        "classification": "16",
-        "year": 2018,
-        "premiered": "30/08/2018",
-        "synopsis": "Quando o analista da CIA Jack Ryan esbarra em uma série de transferências bancárias suspeitas, sua busca por respostas o afasta da segurança de sua mesa de trabalho e o joga em um jogo mortal de gato e rato pela Europa e pelo Oriente Médio, com um terrorista em ascensão preparando um grande ataque contra os EUA e seus aliados.",
-        "poster": "https://image.tmdb.org/t/p/original/sUQS9Uks2UNdFc1Io2U0ulTDGsr.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/2y2TbzeKZHYqTN5gb4nBv9dKk1f.jpg",
-        "studio": [
-            "Amazon"
-        ],
-        "genres": [
-            "Ação"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "synopsis": "Jack Ryan é um analista da CIA que é recrutado para uma perigosa operação de campo pela primeira vez. Ele descobre um padrão na comunicação terrorista que o coloca no centro de uma missão contra inimigos que visam a destruição em uma escala global.",
-                "poster": "https://image.tmdb.org/t/p/original/7XR8DIcftPFiVYYz9XsfvpllTqz.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Jack%20Ryan%20de%20Tom%20Clancy%20(73375)/temporada_1.json"
-            },
-            {
-                "title": "2ª Temporada",
-                "synopsis": "Depois de rastrear um carregamento suspeito na selva venezuelana, Jack Ryan vai à América do Sul para investigar. Enquanto Jack ameaça revelar uma enorme conspiração, o presidente da Venezuela contra-ataca, o que leva Jack a uma missão global nos EUA, Reino Unido, Rússia e Venezuela a fim de desvendar o plano do presidente e trazer estabilidade a um país à beira do caos.",
-                "poster": "https://image.tmdb.org/t/p/original/e2di0UWZTWr64Ll8bzu1Dst6QX.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Jack%20Ryan%20de%20Tom%20Clancy%20(73375)/temporada_2.json"
-            },
-            {
-                "title": "3ª Temporada",
-                "synopsis": "Jack corre contra o tempo e atravessa a Europa para impedir uma facção rebelde de dentro do governo russo de restaurar o Império Soviético e iniciar a Terceira Guerra Mundial.",
-                "poster": "https://image.tmdb.org/t/p/original/iBzl9aR9HeOmvvHyZgF72rZjnqN.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Jack%20Ryan%20de%20Tom%20Clancy%20(73375)/temporada_3.json"
-            },
-            {
-                "title": "4ª Temporada",
-                "synopsis": "Jack Ryan enfrenta sua missão mais perigosa. Como o novo diretor adjunto da CIA, Jack tem a tarefa de desvendar a corrupção interna. Ao investigar, Jack descobre a convergência de um cartel de drogas com uma organização terrorista, o que revela uma conspiração muito mais próxima de casa e testa a fé de nosso herói no sistema que ele sempre lutou para proteger.",
-                "poster": "https://image.tmdb.org/t/p/original/12J4SCPAgqOEJAe1CgVjvBxq6Zc.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Jack%20Ryan%20de%20Tom%20Clancy%20(73375)/temporada_4.json"
-            }
-        ],
-        "providers": [
-            "Amazon Prime Video"
-        ],
-        "clearlogo": "https://image.tmdb.org/t/p/original/genIkWvFfmioq9w4Hu69BdesLDP.png"
-    },
-    {
         "tmdb_id": 90228,
         "popularity": 17.6074,
         "trending": false,
@@ -9813,6 +9763,56 @@
         "clearlogo": "https://image.tmdb.org/t/p/original/f7kz7QLMMfBnM9sMfri4q6FhuvE.png"
     },
     {
+        "tmdb_id": 73375,
+        "popularity": 16.7083,
+        "trending": false,
+        "title": "Jack Ryan de Tom Clancy",
+        "rating": 8,
+        "classification": "16",
+        "year": 2018,
+        "premiered": "30/08/2018",
+        "synopsis": "Quando o analista da CIA Jack Ryan esbarra em uma série de transferências bancárias suspeitas, sua busca por respostas o afasta da segurança de sua mesa de trabalho e o joga em um jogo mortal de gato e rato pela Europa e pelo Oriente Médio, com um terrorista em ascensão preparando um grande ataque contra os EUA e seus aliados.",
+        "poster": "https://image.tmdb.org/t/p/original/sUQS9Uks2UNdFc1Io2U0ulTDGsr.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/2y2TbzeKZHYqTN5gb4nBv9dKk1f.jpg",
+        "studio": [
+            "Amazon"
+        ],
+        "genres": [
+            "Ação"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "synopsis": "Jack Ryan é um analista da CIA que é recrutado para uma perigosa operação de campo pela primeira vez. Ele descobre um padrão na comunicação terrorista que o coloca no centro de uma missão contra inimigos que visam a destruição em uma escala global.",
+                "poster": "https://image.tmdb.org/t/p/original/7XR8DIcftPFiVYYz9XsfvpllTqz.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Jack%20Ryan%20de%20Tom%20Clancy%20(73375)/temporada_1.json"
+            },
+            {
+                "title": "2ª Temporada",
+                "synopsis": "Depois de rastrear um carregamento suspeito na selva venezuelana, Jack Ryan vai à América do Sul para investigar. Enquanto Jack ameaça revelar uma enorme conspiração, o presidente da Venezuela contra-ataca, o que leva Jack a uma missão global nos EUA, Reino Unido, Rússia e Venezuela a fim de desvendar o plano do presidente e trazer estabilidade a um país à beira do caos.",
+                "poster": "https://image.tmdb.org/t/p/original/e2di0UWZTWr64Ll8bzu1Dst6QX.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Jack%20Ryan%20de%20Tom%20Clancy%20(73375)/temporada_2.json"
+            },
+            {
+                "title": "3ª Temporada",
+                "synopsis": "Jack corre contra o tempo e atravessa a Europa para impedir uma facção rebelde de dentro do governo russo de restaurar o Império Soviético e iniciar a Terceira Guerra Mundial.",
+                "poster": "https://image.tmdb.org/t/p/original/iBzl9aR9HeOmvvHyZgF72rZjnqN.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Jack%20Ryan%20de%20Tom%20Clancy%20(73375)/temporada_3.json"
+            },
+            {
+                "title": "4ª Temporada",
+                "synopsis": "Jack Ryan enfrenta sua missão mais perigosa. Como o novo diretor adjunto da CIA, Jack tem a tarefa de desvendar a corrupção interna. Ao investigar, Jack descobre a convergência de um cartel de drogas com uma organização terrorista, o que revela uma conspiração muito mais próxima de casa e testa a fé de nosso herói no sistema que ele sempre lutou para proteger.",
+                "poster": "https://image.tmdb.org/t/p/original/12J4SCPAgqOEJAe1CgVjvBxq6Zc.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Jack%20Ryan%20de%20Tom%20Clancy%20(73375)/temporada_4.json"
+            }
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/genIkWvFfmioq9w4Hu69BdesLDP.png"
+    },
+    {
         "tmdb_id": 2405,
         "popularity": 16.7062,
         "trending": false,
@@ -9882,42 +9882,6 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/bIicKWq8XjsvIqm5loJn8mD2HgD.png"
-    },
-    {
-        "tmdb_id": 229711,
-        "popularity": 16.5011,
-        "trending": false,
-        "title": "Caçador de Demônios",
-        "rating": 7.69,
-        "classification": "18",
-        "year": 2025,
-        "premiered": "03/04/2025",
-        "date_added": "2025-04-05",
-        "synopsis": "O caçador de recompensas Hub Halloran é ressuscitado pelo Diabo para capturar e enviar de volta os demônios que escaparam da prisão do Inferno. Nessa jornada, com a ajuda e os obstáculos criados por sua família distante, Hub descobre que foram seus próprios pecados que condenaram sua alma, o que o leva a buscar uma segunda chance na vida, no amor e na música country.",
-        "poster": "https://image.tmdb.org/t/p/original/tXGVxrg7l8RAD1MzGcYjuKFo6Mt.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/vfEtEzBIn0wwWM7ppzJCGEZUSu2.jpg",
-        "studio": [
-            "Amazon"
-        ],
-        "genres": [
-            "Ação",
-            "Aventura",
-            "Comédia"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "rating": 4.5,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/tXGVxrg7l8RAD1MzGcYjuKFo6Mt.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Cacador%20de%20Demonios%20(229711)/temporada_1.json"
-            }
-        ],
-        "providers": [
-            "Amazon Prime Video"
-        ],
-        "clearlogo": "https://image.tmdb.org/t/p/original/q3L7t5yx8ujkGwWFLdpdBR5K2ml.png"
     },
     {
         "tmdb_id": 235930,
@@ -10041,6 +10005,42 @@
         ]
     },
     {
+        "tmdb_id": 229711,
+        "popularity": 15.8964,
+        "trending": false,
+        "title": "Caçador de Demônios",
+        "rating": 7.69,
+        "classification": "18",
+        "year": 2025,
+        "premiered": "03/04/2025",
+        "date_added": "2025-04-05",
+        "synopsis": "O caçador de recompensas Hub Halloran é ressuscitado pelo Diabo para capturar e enviar de volta os demônios que escaparam da prisão do Inferno. Nessa jornada, com a ajuda e os obstáculos criados por sua família distante, Hub descobre que foram seus próprios pecados que condenaram sua alma, o que o leva a buscar uma segunda chance na vida, no amor e na música country.",
+        "poster": "https://image.tmdb.org/t/p/original/tXGVxrg7l8RAD1MzGcYjuKFo6Mt.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/vfEtEzBIn0wwWM7ppzJCGEZUSu2.jpg",
+        "studio": [
+            "Amazon"
+        ],
+        "genres": [
+            "Ação",
+            "Aventura",
+            "Comédia"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 4.5,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/tXGVxrg7l8RAD1MzGcYjuKFo6Mt.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Cacador%20de%20Demonios%20(229711)/temporada_1.json"
+            }
+        ],
+        "providers": [
+            "Amazon Prime Video"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/q3L7t5yx8ujkGwWFLdpdBR5K2ml.png"
+    },
+    {
         "tmdb_id": 252,
         "popularity": 15.4887,
         "trending": false,
@@ -10129,6 +10129,76 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/zxGLjyHFYmYBED4ltULZavVH8rE.png"
+    },
+    {
+        "tmdb_id": 51817,
+        "popularity": 15.3421,
+        "trending": false,
+        "title": "As Tartarugas Ninjas",
+        "rating": 8.323,
+        "classification": "TV-Y7",
+        "year": 2012,
+        "premiered": "28/09/2012",
+        "date_added": "2025-06-27",
+        "synopsis": "Aparecendo na superfície pela primeira vez em seu aniversário de quinze anos, as tartarugas titulares, Leonardo, Michelangelo, Raphael e Donatello, descobrem que a vida fora dos esgotos não é exatamente o que eles pensavam que seria. Agora, as tartarugas precisam trabalhar juntas como uma equipe para enfrentar novos inimigos que surgirem para conquistar a cidade de Nova York.",
+        "poster": "https://image.tmdb.org/t/p/original/jAoSfL20SHdaO0ptjg9sL3qxoFe.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9Iq5c65TQrr73zzPGQuiwHLfeb9.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/iyJsgeczQVuHP0qh3Ey0S5Je2p3.png",
+        "studio": [
+            "Nickelodeon",
+            "Nicktoons"
+        ],
+        "genres": [
+            "Action & Adventure",
+            "Kids",
+            "Animação",
+            "Sci-Fi & Fantasy",
+            "Comédia"
+        ],
+        "providers": [
+            "Paramount Plus",
+            "Kinopoisk",
+            "Netflix",
+            "Claro video"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 4.5,
+                "synopsis": "As Tartarugas Ninja saem dos esgotos subterrâneos para a superfície da cidade de Nova Iorque e descobrem que Kraang está utilizando mutagênico como parte de seu plano para dominar toda a cidade.",
+                "poster": "https://image.tmdb.org/t/p/original/kefPEk5YJRJIyblIjhFaU3pL8in.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Tartarugas%20Ninjas%20%2851817%29/temporada_1.json"
+            },
+            {
+                "title": "2ª Temporada",
+                "rating": 8.2,
+                "synopsis": "Na segunda temporada, As Tartarugas Ninja saem dos esgotos subterrâneos para a superfície da cidade de Nova Iorque.",
+                "poster": "https://image.tmdb.org/t/p/original/7Gq8kAXzhgkYr3mQt1HG7N4GYv5.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Tartarugas%20Ninjas%20%2851817%29/temporada_2.json"
+            },
+            {
+                "title": "3ª Temporada",
+                "rating": 7.3,
+                "synopsis": "As Tartarugas Nija se refugiam na casa de verão da família O'Neil em Massachusetts com o objetivo de se recuperarem de sua derrota contra Krang.",
+                "poster": "https://image.tmdb.org/t/p/original/qgud4GJ9zCxiYj4Efjtgvc7fXcf.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Tartarugas%20Ninjas%20%2851817%29/temporada_3.json"
+            },
+            {
+                "title": "4ª Temporada",
+                "rating": 1.6,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/qWX6GJim140QS7Cp5whKD05sM8V.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Tartarugas%20Ninjas%20%2851817%29/temporada_4.json"
+            },
+            {
+                "title": "5ª Temporada",
+                "rating": 7.7,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/jAoSfL20SHdaO0ptjg9sL3qxoFe.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Tartarugas%20Ninjas%20%2851817%29/temporada_5.json"
+            }
+        ]
     },
     {
         "tmdb_id": 3322,
@@ -10624,76 +10694,6 @@
         "clearlogo": "https://image.tmdb.org/t/p/original/zApywPqx8eSoRhXvNUctCmu938z.png"
     },
     {
-        "tmdb_id": 51817,
-        "popularity": 14.4909,
-        "trending": false,
-        "title": "As Tartarugas Ninjas",
-        "rating": 8.323,
-        "classification": "TV-Y7",
-        "year": 2012,
-        "premiered": "28/09/2012",
-        "date_added": "2025-06-27",
-        "synopsis": "Aparecendo na superfície pela primeira vez em seu aniversário de quinze anos, as tartarugas titulares, Leonardo, Michelangelo, Raphael e Donatello, descobrem que a vida fora dos esgotos não é exatamente o que eles pensavam que seria. Agora, as tartarugas precisam trabalhar juntas como uma equipe para enfrentar novos inimigos que surgirem para conquistar a cidade de Nova York.",
-        "poster": "https://image.tmdb.org/t/p/original/jAoSfL20SHdaO0ptjg9sL3qxoFe.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9Iq5c65TQrr73zzPGQuiwHLfeb9.jpg",
-        "clearlogo": "https://image.tmdb.org/t/p/original/iyJsgeczQVuHP0qh3Ey0S5Je2p3.png",
-        "studio": [
-            "Nickelodeon",
-            "Nicktoons"
-        ],
-        "genres": [
-            "Action & Adventure",
-            "Kids",
-            "Animação",
-            "Sci-Fi & Fantasy",
-            "Comédia"
-        ],
-        "providers": [
-            "Paramount Plus",
-            "Kinopoisk",
-            "Netflix",
-            "Claro video"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "rating": 4.5,
-                "synopsis": "As Tartarugas Ninja saem dos esgotos subterrâneos para a superfície da cidade de Nova Iorque e descobrem que Kraang está utilizando mutagênico como parte de seu plano para dominar toda a cidade.",
-                "poster": "https://image.tmdb.org/t/p/original/kefPEk5YJRJIyblIjhFaU3pL8in.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Tartarugas%20Ninjas%20%2851817%29/temporada_1.json"
-            },
-            {
-                "title": "2ª Temporada",
-                "rating": 8.2,
-                "synopsis": "Na segunda temporada, As Tartarugas Ninja saem dos esgotos subterrâneos para a superfície da cidade de Nova Iorque.",
-                "poster": "https://image.tmdb.org/t/p/original/7Gq8kAXzhgkYr3mQt1HG7N4GYv5.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Tartarugas%20Ninjas%20%2851817%29/temporada_2.json"
-            },
-            {
-                "title": "3ª Temporada",
-                "rating": 7.3,
-                "synopsis": "As Tartarugas Nija se refugiam na casa de verão da família O'Neil em Massachusetts com o objetivo de se recuperarem de sua derrota contra Krang.",
-                "poster": "https://image.tmdb.org/t/p/original/qgud4GJ9zCxiYj4Efjtgvc7fXcf.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Tartarugas%20Ninjas%20%2851817%29/temporada_3.json"
-            },
-            {
-                "title": "4ª Temporada",
-                "rating": 1.6,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/qWX6GJim140QS7Cp5whKD05sM8V.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Tartarugas%20Ninjas%20%2851817%29/temporada_4.json"
-            },
-            {
-                "title": "5ª Temporada",
-                "rating": 7.7,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/jAoSfL20SHdaO0ptjg9sL3qxoFe.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Tartarugas%20Ninjas%20%2851817%29/temporada_5.json"
-            }
-        ]
-    },
-    {
         "tmdb_id": 30669,
         "popularity": 14.3077,
         "trending": false,
@@ -10750,6 +10750,42 @@
                 "synopsis": "Yusuke vai até o Makai para encontrar seu pai (um dos três reis do Makai), mas acaba se deparando com uma revolta entre os Youkais e se vê obrigado a entrar em um torneio.",
                 "poster": "https://image.tmdb.org/t/p/original/prAJFPRdnIaxSHGM2rvtXhEeICD.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Yu%20Yu%20Hakusho%20%2830669%29/temporada_4.json"
+            }
+        ]
+    },
+    {
+        "tmdb_id": 226362,
+        "popularity": 14.2635,
+        "trending": false,
+        "title": "O Eternauta",
+        "rating": 7.64,
+        "classification": "16",
+        "year": 2025,
+        "date_added": "2025-05-05",
+        "premiered": "30/04/2025",
+        "sinopsys": "Uma tempestade de neve tóxica matou milhões de pessoas, mas Juan Salvo e um grupo de sobreviventes em Buenos Aires precisarão enfrentar uma nova ameaça invisível.",
+        "poster": "https://image.tmdb.org/t/p/original/9BaOdE76IgnMoy3a5xFDE7znsaO.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/yMjGzK7L4gwzpQNNtFKDeG79upo.jpg",
+        "studio": [
+            "Netflix"
+        ],
+        "genres": [
+            "Action & Adventure",
+            "Drama",
+            "Sci-Fi & Fantasy"
+        ],
+        "providers": [
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 7.2,
+                "sinopsys": "",
+                "poster": "https://image.tmdb.org/t/p/original/fDdyEJeX0b4CiZBlSuh2oqHAb2f.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Eternauta%20%28226362%29/temporada_1.json"
             }
         ]
     },
@@ -11074,82 +11110,6 @@
         "clearlogo": "https://image.tmdb.org/t/p/original/19Ai02xeZFGCxKiYozSjAi2SHTD.png"
     },
     {
-        "tmdb_id": 226362,
-        "popularity": 13.6568,
-        "trending": false,
-        "title": "O Eternauta",
-        "rating": 7.64,
-        "classification": "16",
-        "year": 2025,
-        "date_added": "2025-05-05",
-        "premiered": "30/04/2025",
-        "sinopsys": "Uma tempestade de neve tóxica matou milhões de pessoas, mas Juan Salvo e um grupo de sobreviventes em Buenos Aires precisarão enfrentar uma nova ameaça invisível.",
-        "poster": "https://image.tmdb.org/t/p/original/9BaOdE76IgnMoy3a5xFDE7znsaO.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/yMjGzK7L4gwzpQNNtFKDeG79upo.jpg",
-        "studio": [
-            "Netflix"
-        ],
-        "genres": [
-            "Action & Adventure",
-            "Drama",
-            "Sci-Fi & Fantasy"
-        ],
-        "providers": [
-            "Netflix Standard with Ads",
-            "Netflix"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "rating": 7.2,
-                "sinopsys": "",
-                "poster": "https://image.tmdb.org/t/p/original/fDdyEJeX0b4CiZBlSuh2oqHAb2f.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Eternauta%20%28226362%29/temporada_1.json"
-            }
-        ]
-    },
-    {
-        "tmdb_id": 720,
-        "popularity": 13.4149,
-        "trending": false,
-        "title": "DuckTales: Os Caçadores de Aventuras",
-        "rating": 7.63,
-        "classification": "L",
-        "year": 1987,
-        "premiered": "18/09/1987",
-        "synopsis": "As aventuras do Tio Patinhas e de seus três sobrinhos-netos Huguinho, Zezinho e Luisinho. Quando não estão à procura de tesouros, os sobrinhos do Pato Donald estão em Patópolis, rodeados por Patrícia Vanderpato, Madame Patilda e o Capitão Boing, enfrentando astutamente os inimigos do seu tio.",
-        "poster": "https://image.tmdb.org/t/p/original/wjQfPEkKA0hgV5BxWGCrLS7qHlx.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/exXuOvRwzkbtZmojV65CJpwc2BU.jpg",
-        "studio": [
-            "Syndication",
-            "Disney+"
-        ],
-        "genres": [
-            "Animação",
-            "Mistério",
-            "Ficção Cientifica",
-            "Fantasia",
-            "Comédia",
-            "Kids"
-        ],
-        "date_added": "2025-03-22",
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "rating": 6.1,
-                "synopsis": "A série narra as aventuras do Tio Patinhas, personagem das histórias em quadrinhos da Disney criado por Carl Barks, junto com seus sobrinhos-netos Huguinho, Zezinho e Luisinho, além de vários outros personagens criados exclusivamente para a série. Apesar dos três sobrinhos originalmente surgirem nos curtas animados na década de 1930 do Pato Donald, a sua caracterização em DuckTales está mais aproximada a dos quadrinhos de Barks.",
-                "poster": "https://image.tmdb.org/t/p/original/wjQfPEkKA0hgV5BxWGCrLS7qHlx.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/DuckTales%20Os%20Cacadores%20de%20Aventuras%20(720)/temporada_1.json"
-            }
-        ],
-        "providers": [
-            "Disney Plus"
-        ],
-        "clearlogo": "https://image.tmdb.org/t/p/original/8L5crkcNLn5X2jv8HW4LBXvlg2s.png"
-    },
-    {
         "tmdb_id": 202411,
         "popularity": 13.3995,
         "trending": false,
@@ -11228,6 +11188,46 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/AgYN1OiH9DS8NMyteuQGTik0nyd.png"
+    },
+    {
+        "tmdb_id": 720,
+        "popularity": 13.2383,
+        "trending": false,
+        "title": "DuckTales: Os Caçadores de Aventuras",
+        "rating": 7.63,
+        "classification": "L",
+        "year": 1987,
+        "premiered": "18/09/1987",
+        "synopsis": "As aventuras do Tio Patinhas e de seus três sobrinhos-netos Huguinho, Zezinho e Luisinho. Quando não estão à procura de tesouros, os sobrinhos do Pato Donald estão em Patópolis, rodeados por Patrícia Vanderpato, Madame Patilda e o Capitão Boing, enfrentando astutamente os inimigos do seu tio.",
+        "poster": "https://image.tmdb.org/t/p/original/wjQfPEkKA0hgV5BxWGCrLS7qHlx.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/exXuOvRwzkbtZmojV65CJpwc2BU.jpg",
+        "studio": [
+            "Syndication",
+            "Disney+"
+        ],
+        "genres": [
+            "Animação",
+            "Mistério",
+            "Ficção Cientifica",
+            "Fantasia",
+            "Comédia",
+            "Kids"
+        ],
+        "date_added": "2025-03-22",
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 6.1,
+                "synopsis": "A série narra as aventuras do Tio Patinhas, personagem das histórias em quadrinhos da Disney criado por Carl Barks, junto com seus sobrinhos-netos Huguinho, Zezinho e Luisinho, além de vários outros personagens criados exclusivamente para a série. Apesar dos três sobrinhos originalmente surgirem nos curtas animados na década de 1930 do Pato Donald, a sua caracterização em DuckTales está mais aproximada a dos quadrinhos de Barks.",
+                "poster": "https://image.tmdb.org/t/p/original/wjQfPEkKA0hgV5BxWGCrLS7qHlx.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/DuckTales%20Os%20Cacadores%20de%20Aventuras%20(720)/temporada_1.json"
+            }
+        ],
+        "providers": [
+            "Disney Plus"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/8L5crkcNLn5X2jv8HW4LBXvlg2s.png"
     },
     {
         "tmdb_id": 211684,
@@ -12079,6 +12079,48 @@
         "clearlogo": "https://image.tmdb.org/t/p/original/gkHcxPAEScRb86tqYBKW9Uch1oh.png"
     },
     {
+        "tmdb_id": 73223,
+        "popularity": 11.9213,
+        "title": "Black Clover",
+        "rating": 8.498,
+        "classification": "14",
+        "year": 2017,
+        "premiered": "03/10/2017",
+        "date_added": "2025-08-21",
+        "synopsis": "Num mundo onde magia é tudo, Asta e Yuno são abandonados em uma igreja no mesmo dia. Enquanto Yuno possui poderes mágicos excepcionais, Asta é a única pessoa do mundo todo desprovida desse dom. Aos quinze anos, ambos recebem grimórios - livros mágicos que amplificam os poderes do detentor. Asta recebe um raro grimório de anti-magia, capaz de negar e repelir os feitiços do oponente. Dois opostos que nutrem uma rivalidade amigável, Yuno e Asta estão prontos para encarar os mais difíceis desafios para conquistar seu sonho em comum: tornar-se o Rei dos Feiticeiros. Desistir não é opção!",
+        "poster": "https://image.tmdb.org/t/p/original/p3rUhlE81nWxPqpPR8F2u7a01Tl.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/4RzRtLMlTeJvpvvdXDe854VLEG8.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/j9ZZ7WV5pwLLXbbebyGdMUxbqrc.png",
+        "studio": [
+            "TV Tokyo"
+        ],
+        "genres": [
+            "Anime",
+            "Action & Adventure",
+            "Animação",
+            "Comédia"
+        ],
+        "providers": [
+            "Crunchyroll",
+            "Disney Plus",
+            "Amazon Prime Video",
+            "Hulu",
+            "Watcha",
+            "HBO Max",
+            "Netflix"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 7.7,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/xlsraRYuv2BeBfjIUyVOTDeksM6.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Black%20Clover%20%2873223%29/temporada_1.json"
+            }
+        ]
+    },
+    {
         "tmdb_id": 127529,
         "popularity": 11.8903,
         "trending": false,
@@ -12808,6 +12850,40 @@
         "clearlogo": "https://image.tmdb.org/t/p/original/nIyxfGAeuUOuDwARWSuuDoKHrny.png"
     },
     {
+        "tmdb_id": 216082,
+        "popularity": 10.7846,
+        "trending": false,
+        "title": "Dia Zero",
+        "rating": 7.5,
+        "classification": "16",
+        "year": 2025,
+        "premiered": "20/02/2025",
+        "synopsis": "Um ex-presidente dos Estados Unidos volta à ativa para investigar a origem de um ataque cibernético letal e descobre uma rede de mentiras e conspirações.",
+        "poster": "https://image.tmdb.org/t/p/original/zG6dUIJ7gNIyKKrDpPionW2J83J.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/t4JPNpET4aEmMA4Fg7Bfc7tI6jQ.jpg",
+        "studio": [
+            "Netflix"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 8,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/zG6dUIJ7gNIyKKrDpPionW2J83J.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Dia%20Zero%20(216082)/temporada_1.json"
+            }
+        ],
+        "providers": [
+            "Netflix",
+            "Netflix Standard with Ads"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/sXrtjcY06xvVxL6zV4KTvCx4jHA.png"
+    },
+    {
         "tmdb_id": 90937,
         "popularity": 10.4687,
         "trending": false,
@@ -13438,40 +13514,6 @@
         "clearlogo": "https://image.tmdb.org/t/p/original/xt17Z5QAOgF80MrzqEKyCJGmoMY.png"
     },
     {
-        "tmdb_id": 216082,
-        "popularity": 9.5482,
-        "trending": false,
-        "title": "Dia Zero",
-        "rating": 7.5,
-        "classification": "16",
-        "year": 2025,
-        "premiered": "20/02/2025",
-        "synopsis": "Um ex-presidente dos Estados Unidos volta à ativa para investigar a origem de um ataque cibernético letal e descobre uma rede de mentiras e conspirações.",
-        "poster": "https://image.tmdb.org/t/p/original/zG6dUIJ7gNIyKKrDpPionW2J83J.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/t4JPNpET4aEmMA4Fg7Bfc7tI6jQ.jpg",
-        "studio": [
-            "Netflix"
-        ],
-        "genres": [
-            "Drama"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "rating": 8,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/zG6dUIJ7gNIyKKrDpPionW2J83J.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Dia%20Zero%20(216082)/temporada_1.json"
-            }
-        ],
-        "providers": [
-            "Netflix",
-            "Netflix Standard with Ads"
-        ],
-        "clearlogo": "https://image.tmdb.org/t/p/original/sXrtjcY06xvVxL6zV4KTvCx4jHA.png"
-    },
-    {
         "tmdb_id": 32605,
         "popularity": 9.4816,
         "title": "O Show dos Looney Tunes",
@@ -13623,57 +13665,6 @@
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/89vfNZMJyOvYWc6KafuZTEzynHI.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Lazarus%20%28231003%29/temporada_1.json"
-            }
-        ]
-    },
-    {
-        "tmdb_id": 102321,
-        "popularity": 9.0706,
-        "trending": false,
-        "title": "Looney Tunes Cartoons",
-        "rating": 7.729,
-        "classification": "L",
-        "year": 2020,
-        "premiered": "27/05/2020",
-        "date_added": "2025-07-01",
-        "synopsis": "Estrelando os personagens icônicos e amados do Looney Tunes – Pernalonga, Patolino, Gaguinho e outros personagens famosos – essas figuras clássicas apresentam histórias simples, engraçadas e visualmente vibrantes.",
-        "poster": "https://image.tmdb.org/t/p/original/awkCt4P9g9TBU6cWpvfoxlevszM.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/kxHkP4YnRIWEcW08CpCRqnxiMSH.jpg",
-        "clearlogo_pt": "https://image.tmdb.org/t/p/original/clEBLm4vizp5VohVyB0w4haXdpc.svg",
-        "studio": [
-            "HBO Max",
-            "Max"
-        ],
-        "genres": [
-            "Animação",
-            "Comédia",
-            "Família"
-        ],
-        "providers": [
-            "Max"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "rating": 6.6,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/pl5LfxntasfwThuBK0qrYzzAdy1.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Looney%20Tunes%20Cartoons%20%28102321%29/temporada_1.json"
-            },
-            {
-                "title": "2ª Temporada",
-                "rating": 0,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/rHlWmoIbHtmeqYhkmBiZDvfszq4.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Looney%20Tunes%20Cartoons%20%28102321%29/temporada_2.json"
-            },
-            {
-                "title": "3ª Temporada",
-                "rating": 0,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/tBV1UuFh0JEPXtv2r7tXfYrjCZt.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Looney%20Tunes%20Cartoons%20%28102321%29/temporada_3.json"
             }
         ]
     },
@@ -13892,6 +13883,57 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/noxxOmAr9RKgbssfPwBZMO9DVwd.png"
+    },
+    {
+        "tmdb_id": 102321,
+        "popularity": 8.7498,
+        "trending": false,
+        "title": "Looney Tunes Cartoons",
+        "rating": 7.729,
+        "classification": "L",
+        "year": 2020,
+        "premiered": "27/05/2020",
+        "date_added": "2025-07-01",
+        "synopsis": "Estrelando os personagens icônicos e amados do Looney Tunes – Pernalonga, Patolino, Gaguinho e outros personagens famosos – essas figuras clássicas apresentam histórias simples, engraçadas e visualmente vibrantes.",
+        "poster": "https://image.tmdb.org/t/p/original/awkCt4P9g9TBU6cWpvfoxlevszM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/kxHkP4YnRIWEcW08CpCRqnxiMSH.jpg",
+        "clearlogo_pt": "https://image.tmdb.org/t/p/original/clEBLm4vizp5VohVyB0w4haXdpc.svg",
+        "studio": [
+            "HBO Max",
+            "Max"
+        ],
+        "genres": [
+            "Animação",
+            "Comédia",
+            "Família"
+        ],
+        "providers": [
+            "Max"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 6.6,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/pl5LfxntasfwThuBK0qrYzzAdy1.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Looney%20Tunes%20Cartoons%20%28102321%29/temporada_1.json"
+            },
+            {
+                "title": "2ª Temporada",
+                "rating": 0,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/rHlWmoIbHtmeqYhkmBiZDvfszq4.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Looney%20Tunes%20Cartoons%20%28102321%29/temporada_2.json"
+            },
+            {
+                "title": "3ª Temporada",
+                "rating": 0,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/tBV1UuFh0JEPXtv2r7tXfYrjCZt.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Looney%20Tunes%20Cartoons%20%28102321%29/temporada_3.json"
+            }
+        ]
     },
     {
         "tmdb_id": 243875,
@@ -14854,6 +14896,7 @@
         "classification": "14",
         "year": 2025,
         "premiered": "07/04/2025",
+        "date_added": "2025-08-21",
         "synopsis": "Koichi Haimawari é um estudante universitário monótono que sonhava em ser um herói, mas desistiu desse objetivo. Embora 80% da população mundial tenha poderes sobre-humanos chamados \"Individualidades\", poucos são escolhidos para levar o título de herói e proteger as pessoas. Tudo muda para Koichi quando ele e Pop☆Step são salvos pelo vigilante Knuckleduster, e acabam sendo recrutados para se tornarem vigilantes!",
         "poster": "https://image.tmdb.org/t/p/original/3INu3n1sUa9K3O5OTPrqvJOetbd.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/dfmwYLPYG0KGKP9vrWgRskB35KW.jpg",
@@ -16116,8 +16159,47 @@
         ]
     },
     {
+        "tmdb_id": 45815,
+        "popularity": 6.201,
+        "trending": false,
+        "title": "Avenida Brasil",
+        "rating": 8.113,
+        "classification": "12",
+        "year": 2012,
+        "premiered": "26/03/2012",
+        "date_added": "2025-07-12",
+        "synopsis": "Rita é abandonada no lixão pela madrasta após seu pai morrer. Anos depois e sob nova identidade, a menina se infiltra na mansão da nova família de Carminha para se vingar dela.",
+        "poster": "https://image.tmdb.org/t/p/original/fLtwgSeFKtyVDCJ9SefLrIt6ZWn.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/5ssgDp28z1Nif6hR8OFrNQUspd4.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/original/oMawKBZNT4aRq0DUnEpr1iUzuqD.png",
+        "studio": [
+            "TV Globo"
+        ],
+        "genres": [
+            "Novela",
+            "Drama",
+            "Mistério",
+            "Crime"
+        ],
+        "providers": [
+            "Amazon Prime Video with Ads",
+            "Amazon Prime Video",
+            "Globoplay"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 7.5,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/fLtwgSeFKtyVDCJ9SefLrIt6ZWn.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Avenida%20Brasil%20%2845815%29/temporada_1.json"
+            }
+        ]
+    },
+    {
         "tmdb_id": 668,
-        "popularity": 6.2584,
+        "popularity": 6.1268,
         "title": "X-Men: Evolution",
         "rating": 8.0,
         "classification": "L",
@@ -16170,45 +16252,6 @@
                 "synopsis": "X-Men: Evolution é um americano série animada de televisão sobre as Marvel Comics super-herói da equipe X-Men . Nesta encarnação, muitos dos personagens são adolescentes em vez de adultos. A série teve um total de quatro temporadas (52 episódios), de novembro de 2000 até Outubro de 2003 sobre Kids' WB , o que tornou a terceira mais longa da Marvel Comics série animada, atrás apenas Fox Kids ' X-Men e Homem-Aranha série animada. A série começou em execução no Disney XD em 15 de Junho, 2009.",
                 "poster": "https://image.tmdb.org/t/p/original/jmvMfpVtYCbeq49vuGzybkeFkrN.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/X-Men%20Evolution%20%28668%29/temporada_4.json"
-            }
-        ]
-    },
-    {
-        "tmdb_id": 45815,
-        "popularity": 6.201,
-        "trending": false,
-        "title": "Avenida Brasil",
-        "rating": 8.113,
-        "classification": "12",
-        "year": 2012,
-        "premiered": "26/03/2012",
-        "date_added": "2025-07-12",
-        "synopsis": "Rita é abandonada no lixão pela madrasta após seu pai morrer. Anos depois e sob nova identidade, a menina se infiltra na mansão da nova família de Carminha para se vingar dela.",
-        "poster": "https://image.tmdb.org/t/p/original/fLtwgSeFKtyVDCJ9SefLrIt6ZWn.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/5ssgDp28z1Nif6hR8OFrNQUspd4.jpg",
-        "clearlogo": "https://image.tmdb.org/t/p/original/oMawKBZNT4aRq0DUnEpr1iUzuqD.png",
-        "studio": [
-            "TV Globo"
-        ],
-        "genres": [
-            "Novela",
-            "Drama",
-            "Mistério",
-            "Crime"
-        ],
-        "providers": [
-            "Amazon Prime Video with Ads",
-            "Amazon Prime Video",
-            "Globoplay"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "rating": 7.5,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/fLtwgSeFKtyVDCJ9SefLrIt6ZWn.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Avenida%20Brasil%20%2845815%29/temporada_1.json"
             }
         ]
     },
@@ -16886,43 +16929,6 @@
         "clearlogo": "https://image.tmdb.org/t/p/original/rnJtIVKGcq7vam2fOKX7K3qGwow.png"
     },
     {
-        "tmdb_id": 208851,
-        "popularity": 5.4739,
-        "trending": false,
-        "title": "Mil Golpes",
-        "rating": 6.6,
-        "classification": "16",
-        "year": 2025,
-        "premiered": "21/02/2025",
-        "date_added": "2025-06-06",
-        "synopsis": "Hezekiah e Alec, dois amigos da Jamaica, acabam envolvidos no mundo dos crimes de East End, em Londres. Lá, eles conhecem Mary Carr, Rainha de uma gangue de mulheres conhecida como Quarenta Elefantes, rivais de Sugar Goodson, chefão criminoso e boxeador talentoso.",
-        "poster": "https://image.tmdb.org/t/p/original/7w9LpfUa5uTAa9jyU9nwoT9g4yC.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/sDMS86jMXfh2QaiwrqhtDYuN0KA.jpg",
-        "clearlogo_pt": "https://image.tmdb.org/t/p/original/vFuve7oDIQJi6SG7F3qJydcEX4w.png",
-        "studio": [
-            "Disney+"
-        ],
-        "genres": [
-            "Drama"
-        ],
-        "providers": [
-            "Disney Plus",
-            "Hulu",
-            "TV 2 Play",
-            "JioHotstar"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "rating": 3.5,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/7w9LpfUa5uTAa9jyU9nwoT9g4yC.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Mil%20Golpes%20%28208851%29/temporada_1.json"
-            }
-        ]
-    },
-    {
         "tmdb_id": 211039,
         "popularity": 5.4522,
         "trending": false,
@@ -16952,41 +16958,6 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/339CA6DOlUne07HZruZeaIKFdae.png"
-    },
-    {
-        "tmdb_id": 89844,
-        "popularity": 5.3859,
-        "trending": false,
-        "title": "30 Moedas",
-        "rating": 7.3,
-        "classification": "TV-MA",
-        "year": 2020,
-        "premiered": "29/11/2020",
-        "synopsis": "Judas traiu Cristo por 30 moedas. 2000 anos depois, uma delas aparece em um vilarejo da Espanha causando fenômenos paranormais.",
-        "poster": "https://image.tmdb.org/t/p/original/yo3udZRKPbhfzI7sWaI2hhyfhRM.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/j5B7G6NsWfgLawCAUsQU8Qrl6Tm.jpg",
-        "studio": [
-            "HBO"
-        ],
-        "genres": [
-            "Crime"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada (Link Direto)",
-                "rating": 7.3,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/mXOlKTnTpu9Aw66sfKB1iMke1IN.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/30%20Moedas%20(89844)/temporada_1.json"
-            }
-        ],
-        "providers": [
-            "Max",
-            "Claro tv+",
-            "Max Amazon Channel"
-        ],
-        "clearlogo": "https://image.tmdb.org/t/p/original/SxpNmoHVk6t2sDI8u4elyMbJcl.png"
     },
     {
         "tmdb_id": 239287,
@@ -17277,6 +17248,78 @@
             "Apple TV+"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/alBHbDdpvAOD4sxLU6IRRQJZwP6.png"
+    },
+    {
+        "tmdb_id": 208851,
+        "popularity": 4.8434,
+        "trending": false,
+        "title": "Mil Golpes",
+        "rating": 6.6,
+        "classification": "16",
+        "year": 2025,
+        "premiered": "21/02/2025",
+        "date_added": "2025-06-06",
+        "synopsis": "Hezekiah e Alec, dois amigos da Jamaica, acabam envolvidos no mundo dos crimes de East End, em Londres. Lá, eles conhecem Mary Carr, Rainha de uma gangue de mulheres conhecida como Quarenta Elefantes, rivais de Sugar Goodson, chefão criminoso e boxeador talentoso.",
+        "poster": "https://image.tmdb.org/t/p/original/7w9LpfUa5uTAa9jyU9nwoT9g4yC.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/sDMS86jMXfh2QaiwrqhtDYuN0KA.jpg",
+        "clearlogo_pt": "https://image.tmdb.org/t/p/original/vFuve7oDIQJi6SG7F3qJydcEX4w.png",
+        "studio": [
+            "Disney+"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "providers": [
+            "Disney Plus",
+            "Hulu",
+            "TV 2 Play",
+            "JioHotstar"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 3.5,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/7w9LpfUa5uTAa9jyU9nwoT9g4yC.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Mil%20Golpes%20%28208851%29/temporada_1.json"
+            }
+        ]
+    },
+    {
+        "tmdb_id": 89844,
+        "popularity": 4.7354,
+        "trending": false,
+        "title": "30 Moedas",
+        "rating": 7.3,
+        "classification": "TV-MA",
+        "year": 2020,
+        "premiered": "29/11/2020",
+        "synopsis": "Judas traiu Cristo por 30 moedas. 2000 anos depois, uma delas aparece em um vilarejo da Espanha causando fenômenos paranormais.",
+        "poster": "https://image.tmdb.org/t/p/original/yo3udZRKPbhfzI7sWaI2hhyfhRM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/j5B7G6NsWfgLawCAUsQU8Qrl6Tm.jpg",
+        "studio": [
+            "HBO"
+        ],
+        "genres": [
+            "Crime"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada (Link Direto)",
+                "rating": 7.3,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/mXOlKTnTpu9Aw66sfKB1iMke1IN.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/30%20Moedas%20(89844)/temporada_1.json"
+            }
+        ],
+        "providers": [
+            "Max",
+            "Claro tv+",
+            "Max Amazon Channel"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/SxpNmoHVk6t2sDI8u4elyMbJcl.png"
     },
     {
         "tmdb_id": 81355,
@@ -18442,7 +18485,7 @@
     },
     {
         "tmdb_id": 256323,
-        "popularity": 2.7768,
+        "popularity": 2.5429,
         "trending": false,
         "title": "Leviatã",
         "rating": 7,
@@ -18475,47 +18518,6 @@
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/eXOxjF7RB620tUqx5ddZ9Ar8xdb.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Leviata%20%28256323%29/temporada_1.json"
-            }
-        ]
-    },
-    {
-        "tmdb_id": 6670,
-        "popularity": 2.5455,
-        "title": "A Turma do Charlie Brown e Snoopy",
-        "rating": 7.7,
-        "classification": "Desconhecido",
-        "year": 1983,
-        "premiered": "17/09/1983",
-        "date_added": "2025-08-13",
-        "synopsis": "The Charlie Brown and Snoopy Show (O Programa de Charlie Brown e Snoopy no Brasil e O Espetáculo do Charlie Brown e do Snoopy em Portugal), também conhecida como Peanuts, é uma série de televisão estadunidense baseada na série de banda desenhada de mesmo nome. Charlie Brown, é um menino generoso, de bom coração, mas tímido e desastrado, sempre apaixonado pela menina ruiva que nunca lhe dá atenção... Snoopy, não é um cão de verdade, mas sim uma imagem do que as pessoas queriam que fosse um cão. Ele joga basebol, ténis, golfe, vê televisão e adora biscoitos de chocolate. Lucy, mandona e egoísta, resolve tudo a gritar e arruina qualquer um com os seus comentários sarcásticos e desagradáveis.",
-        "poster": "https://image.tmdb.org/t/p/original/3wAaBg4eIrMi8yeMf79tVXY8KfT.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/kFjX4dv37Ukd3ywygDilbL4HQjs.jpg",
-        "clearlogo": "",
-        "studio": [
-            "CBS"
-        ],
-        "genres": [
-            "Animação",
-            "Comédia"
-        ],
-        "providers": [
-            "Sem provedores disponíveis"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "rating": 9.5,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/A5suIQSIIAP7v27Y5rPBPK8Pz0J.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Turma%20do%20Charlie%20Brown%20e%20Snoopy%20%286670%29/temporada_1.json"
-            },
-            {
-                "title": "2ª Temporada",
-                "rating": 9.5,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/j8jTwHOBuXpZXvMXgsf9rx1bEyV.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Turma%20do%20Charlie%20Brown%20e%20Snoopy%20%286670%29/temporada_2.json"
             }
         ]
     },
@@ -18629,6 +18631,47 @@
             "Claro tv+"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/nnIWJtHkqXou4QAv9w1JooOT2S1.png"
+    },
+    {
+        "tmdb_id": 6670,
+        "popularity": 2.1261,
+        "title": "A Turma do Charlie Brown e Snoopy",
+        "rating": 7.7,
+        "classification": "Desconhecido",
+        "year": 1983,
+        "premiered": "17/09/1983",
+        "date_added": "2025-08-13",
+        "synopsis": "The Charlie Brown and Snoopy Show (O Programa de Charlie Brown e Snoopy no Brasil e O Espetáculo do Charlie Brown e do Snoopy em Portugal), também conhecida como Peanuts, é uma série de televisão estadunidense baseada na série de banda desenhada de mesmo nome. Charlie Brown, é um menino generoso, de bom coração, mas tímido e desastrado, sempre apaixonado pela menina ruiva que nunca lhe dá atenção... Snoopy, não é um cão de verdade, mas sim uma imagem do que as pessoas queriam que fosse um cão. Ele joga basebol, ténis, golfe, vê televisão e adora biscoitos de chocolate. Lucy, mandona e egoísta, resolve tudo a gritar e arruina qualquer um com os seus comentários sarcásticos e desagradáveis.",
+        "poster": "https://image.tmdb.org/t/p/original/3wAaBg4eIrMi8yeMf79tVXY8KfT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/kFjX4dv37Ukd3ywygDilbL4HQjs.jpg",
+        "clearlogo": "",
+        "studio": [
+            "CBS"
+        ],
+        "genres": [
+            "Animação",
+            "Comédia"
+        ],
+        "providers": [
+            "Sem provedores disponíveis"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 9.5,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/A5suIQSIIAP7v27Y5rPBPK8Pz0J.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Turma%20do%20Charlie%20Brown%20e%20Snoopy%20%286670%29/temporada_1.json"
+            },
+            {
+                "title": "2ª Temporada",
+                "rating": 9.5,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/j8jTwHOBuXpZXvMXgsf9rx1bEyV.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Turma%20do%20Charlie%20Brown%20e%20Snoopy%20%286670%29/temporada_2.json"
+            }
+        ]
     },
     {
         "tmdb_id": 78074,
@@ -18828,7 +18871,7 @@
     },
     {
         "tmdb_id": 111934,
-        "popularity": 1.8064,
+        "popularity": 1.7961,
         "trending": false,
         "title": "Passageiros: A Última Viagem",
         "rating": 7.7,
