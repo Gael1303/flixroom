@@ -31,13 +31,13 @@
             "poster": "https://image.tmdb.org/t/p/original/1B1dQCzFs3ouuKO8F6RvvMLqXQ2.jpg"
         },
         {
-            "title": "04. Episódio 4",
+            "title": "04. A corrida dos deuses",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e18bcfb6f7cc7c8dadd08f5b3a473bbce789fe4"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
+            "rating": 1.0,
+            "synopsis": "Kaʻiana retorna com um aviso, e uma competição perigosa determinará seu destino no conselho de Kamehameha. Keōua envia uma mensagem.",
+            "runtime": 48,
             "poster": "https://image.tmdb.org/t/p/original/zcajpBi1H2loRqNA5M3b3kT8dA5.jpg"
         },
         {
@@ -93,3 +93,4 @@
     ]
 
 }
+
