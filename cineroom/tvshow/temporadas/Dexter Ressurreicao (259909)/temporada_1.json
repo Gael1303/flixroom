@@ -61,24 +61,24 @@
             "poster": "https://image.tmdb.org/t/p/original/vES2S0OpRHsYrl8oqwExVdRClbm.jpg"
         },
         {
-            "title": "07. Episódio 7",
+            "title": "07. Ajuste de Curso",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:628babad08c85ca3246ac70030bb47beffd925d8"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
+            "rating": 8.6,
+            "synopsis": "Dexter descobre informações perturbadoras e Harrison contempla seu futuro.",
+            "runtime": 59,
             "poster": "https://image.tmdb.org/t/p/original/nyRzDbrUnHMUU0ncb4w83gXQEa3.jpg"
         },
         {
-            "title": "08. Episódio 8",
+            "title": "08. A Sala de Matança Onde Aconteceu",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca326805c811bbdbff7ac5798572000dced63ac9"
             ],
-            "rating": 0.0,
-            "synopsis": "",
+            "rating": 4.6,
+            "synopsis": "Dexter redireciona sua atenção para cumprir seu papel de pai.",
             "runtime": 0,
-            "poster": ""
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/oNF42UdW8L6P3aBz96Ens0mE0fF.jpg"
         },
         {
             "title": "09. Episódio 9",
@@ -102,3 +102,4 @@
         }
     ]
 }
+
