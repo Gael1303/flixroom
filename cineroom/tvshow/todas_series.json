@@ -6624,7 +6624,7 @@
             "Hulu"
         ],
         "type": "tvshow",
-        "episodios_divididos": [
+        "temporadas": [
             {
                 "title": "Episódios 1-100",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/One%20Piece%20%2837854%29/episodios_1_a_100.json"
