@@ -51,24 +51,24 @@
             "poster": "https://image.tmdb.org/t/p/original/ztEDVMzddKRUQtvExgKaOVd8pHw.jpg"
         },
         {
-            "title": "06. Episódio 6",
+            "title": "06. Um bom ataque!!",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba0592aa172599e3203bc6903f7522522ded8c50"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 8.0,
+            "synopsis": "O grupo de Rudo é atacado por Jabber. Com Gris incapacitado, Rudo é o único que pode lutar contra ele.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/eWgtva5EavsnGIf3fRZD6Lxj7ge.jpg"
         },
         {
-            "title": "07. Episódio 7",
+            "title": "07. Conclusão",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63860ee455e772b52fcdd1dab1ec304428bbae8c"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 10.0,
+            "synopsis": "Zanka bola uma forma de usar a nova habilidade de Rudo para lidar com o ataque inconsciente de Jabber.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/vXsxNZ9kPKH27DLWVkYYImrkPOT.jpg"
         },
         {
             "title": "08. Episódio 8",
@@ -241,4 +241,5 @@
             "poster": ""
         }
     ]
+
 }
