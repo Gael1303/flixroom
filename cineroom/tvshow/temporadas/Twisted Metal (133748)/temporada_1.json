@@ -1,10 +1,104 @@
 {
     "episodios": [
         {
-            "title": "1x. Twisted Metal",
+            "title": "01. WLUDRV",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1299b1ad048bed54f39c938b6eb3f206329207cc"
-            ]
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed9929e63cc6acae249ad91de9879daee1e46c58(EP 01)"
+            ],
+            "rating": 7.4,
+            "synopsis": "O forasteiro John Doe recebe a oferta de uma vida melhor, mas apenas se puder entregar um pacote misterioso em uma terra pós-apocalíptica devastada.",
+            "runtime": 30,
+            "poster": "https://image.tmdb.org/t/p/original/gX5QnIbzg0N0BDAcJwdUMYISe80.jpg"
+        },
+        {
+            "title": "02. 3RNCRCS",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed9929e63cc6acae249ad91de9879daee1e46c58(EP 02)"
+            ],
+            "rating": 7.3,
+            "synopsis": "John tem sua missão frustrada por dois adversários imprevisíveis em Lost Vegas, e o Agente Stone recruta novos membros para sua causa.",
+            "runtime": 29,
+            "poster": "https://image.tmdb.org/t/p/original/6JpV4e8KT2MHxZw6hwZWCuKwpaA.jpg"
+        },
+        {
+            "title": "03. NTHLAW1",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed9929e63cc6acae249ad91de9879daee1e46c58(EP 03)"
+            ],
+            "rating": 7.6,
+            "synopsis": "John e Quiet caem em uma armadilha inesperada, enquanto o Agente Stone testa a lealdade de seus novos recrutas.",
+            "runtime": 31,
+            "poster": "https://image.tmdb.org/t/p/original/qAsKUjMKminSesQYlB4qjT8sqq8.jpg"
+        },
+        {
+            "title": "04. WHZDARE",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed9929e63cc6acae249ad91de9879daee1e46c58(EP 04)"
+            ],
+            "rating": 7.6,
+            "synopsis": "Enquanto John faz um acordo perigoso para obter suprimentos extremamente necessários, Quiet pensa sobre o futuro.",
+            "runtime": 32,
+            "poster": "https://image.tmdb.org/t/p/original/rN6r7OTsKEHjc5rrwgSmfOcFQHt.jpg"
+        },
+        {
+            "title": "05. CRZSRDS",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed9929e63cc6acae249ad91de9879daee1e46c58(EP 05)"
+            ],
+            "rating": 8.0,
+            "synopsis": "Quiet aproxima-se em sua busca por vingança, enquanto John se encontra incapacitado e Sweet Tooth causa estragos em sua turnê.",
+            "runtime": 29,
+            "poster": "https://image.tmdb.org/t/p/original/wUsgEvn7VEk2oxpK9zWjjpQ6Z6T.jpg"
+        },
+        {
+            "title": "06. DRVTHRU",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed9929e63cc6acae249ad91de9879daee1e46c58(EP 06)"
+            ],
+            "rating": 7.2,
+            "synopsis": "John e Quiet procuram refúgio de uma perigosa tempestade em um lugar familiar, e ela reflete sobre seu passado.",
+            "runtime": 29,
+            "poster": "https://image.tmdb.org/t/p/original/rpZDGYf40Bu44pVz5dkPevUkNLn.jpg"
+        },
+        {
+            "title": "07. NUTH0UZ",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed9929e63cc6acae249ad91de9879daee1e46c58(EP 07)"
+            ],
+            "rating": 7.3,
+            "synopsis": "John e Quiet fazem um pitstop, onde John reencontra um antigo contato, e Sweet Tooth cria laços com um novo seguidor.",
+            "runtime": 32,
+            "poster": "https://image.tmdb.org/t/p/original/uGR5A9wfwUsgvPEGqqoKIaB0XCu.jpg"
+        },
+        {
+            "title": "08. EV3L1N",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed9929e63cc6acae249ad91de9879daee1e46c58(EP 08)"
+            ],
+            "rating": 7.8,
+            "synopsis": "John se depara com a decisão final: honrar seu passado ou abraçar o futuro?",
+            "runtime": 29,
+            "poster": "https://image.tmdb.org/t/p/original/y6RSEFXgP4jHBtuTl0DKw1YPEWI.jpg"
+        },
+        {
+            "title": "09. R04DK11",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed9929e63cc6acae249ad91de9879daee1e46c58(EP 09)"
+            ],
+            "rating": 7.6,
+            "synopsis": "Alianças inesperadas são formadas, mas Sweet Tooth está pronto para a vingança.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/cSjEDOj5e0OrU1FIAw7x0fZjAOp.jpg"
+        },
+        {
+            "title": "10. SHNGRLA",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed9929e63cc6acae249ad91de9879daee1e46c58(EP 10)"
+            ],
+            "rating": 7.8,
+            "synopsis": "Com tudo vindo à tona, John e Quiet enfrentam uma escolha difícil. Novos jogadores entram na briga.",
+            "runtime": 33,
+            "poster": "https://image.tmdb.org/t/p/original/kic5oiiezmSlB3DsJxszCv4WKPM.jpg"
         }
     ]
 }
