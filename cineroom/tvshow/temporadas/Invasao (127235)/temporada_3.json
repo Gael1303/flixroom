@@ -1,0 +1,104 @@
+{
+    "episodios": [
+        {
+            "title": "01. Aqueles que deixamos para trás",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b75a240010be6c51f41a6eaacb1428e7674c19a"
+            ],
+            "rating": 5,
+            "synopsis": "Trevante volta à Terra diferente de quando saiu há dois anos. Jamila luta para se adaptar a esse novo mundo.",
+            "runtime": 45,
+            "poster": "https://image.tmdb.org/t/p/original/sXh4XY47CuSdG7f2nvxsVACPkp.jpg"
+        },
+        {
+            "title": "02. A mensagem",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0,
+            "synopsis": "Sinais alienígenas misteriosos forçam Mitsuki a sair do esconderijo. Nikhil recebe uma missão que põe à prova sua lealdade.",
+            "runtime": 51,
+            "poster": "https://image.tmdb.org/t/p/original/3X1qTcTeEJTpv6XSEFUCdgsBfuo.jpg"
+        },
+        {
+            "title": "03. Episódio 3",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0,
+            "synopsis": "",
+            "runtime": 53,
+            "poster": ""
+        },
+        {
+            "title": "04. Episódio 4",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0,
+            "synopsis": "",
+            "runtime": 44,
+            "poster": ""
+        },
+        {
+            "title": "05. Episódio 5",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0,
+            "synopsis": "",
+            "runtime": 42,
+            "poster": ""
+        },
+        {
+            "title": "06. Episódio 6",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "07. Episódio 7",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "08. Episódio 8",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "09. Episódio 9",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "10. Episódio 10",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        }
+    ]
+}
