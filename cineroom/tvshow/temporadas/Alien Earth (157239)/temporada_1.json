@@ -29,7 +29,18 @@
             "synopsis": "A equipe volta para casa com uma carga inesperada. Um experimento perturbador ocorre e um novo talento é descoberto.",
             "runtime": 54,
             "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/4pLJcZUh73j8wSQfB5vAX3jtORj.jpg"
+        },
+		{
+            "title": "E04. Observação",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f3b2c8c0a2950726decc8878feea11e8719c309"
+            ],
+            "rating": 6.8,
+            "synopsis": "Uma conexão inesperada é formada enquanto uma trama secreta coloca todos em perigo.",
+            "runtime": 54,
+            "poster": "https://image.tmdb.org/t/p/original/a4OKNiA0lsdP3PnfFAk9JSBaEsR.jpg"
         }
     ]
 
 }
+
