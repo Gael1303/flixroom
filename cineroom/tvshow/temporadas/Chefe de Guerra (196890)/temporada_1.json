@@ -31,34 +31,34 @@
             "poster": "https://image.tmdb.org/t/p/original/1B1dQCzFs3ouuKO8F6RvvMLqXQ2.jpg"
         },
         {
-            "title": "04. A corrida dos deuses",
+            "title": "04. Cidade das Flores (2)",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e18bcfb6f7cc7c8dadd08f5b3a473bbce789fe4"
             ],
             "rating": 1.0,
-            "synopsis": "Kaʻiana retorna com um aviso, e uma competição perigosa determinará seu destino no conselho de Kamehameha. Keōua envia uma mensagem.",
+            "synopsis": "Uma perigosa disputa pelo poder surge no Reino do Havaí. Kamehameha tem dificuldades com sua nova responsabilidade. Kaʻiana procura por Tony.",
             "runtime": 48,
             "poster": "https://image.tmdb.org/t/p/original/zcajpBi1H2loRqNA5M3b3kT8dA5.jpg"
         },
         {
-            "title": "05. Episódio 5",
+            "title": "05. A corrida dos deuses",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6297c821cdae482d3374a07872276769e942ae0f"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 5.0,
+            "synopsis": "Kaʻiana retorna com um aviso, e uma competição perigosa determinará seu destino no conselho de Kamehameha. Keōua envia uma mensagem.",
+            "runtime": 48,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/iiMoUJpiifjBe3CuWzLVMBMGp2o.jpg"
         },
         {
-            "title": "06. Episódio 6",
+            "title": "06. O remo quebrado",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f26148e357650a1257d76c4cac42491639f2298a"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 4.0,
+            "synopsis": "Kupuohi tenta manter viva a esperança de paz enquanto os tambores da guerra soam mais alto. Kaʻiana questiona a liderança de Kamehameha.",
+            "runtime": 43,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/kbOfZ8fk91B5KV4poTQ3YR1zBlX.jpg"
         },
         {
             "title": "07. Episódio 7",
@@ -93,4 +93,5 @@
     ]
 
 }
+
 
