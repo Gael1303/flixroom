@@ -81,14 +81,14 @@
             "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/oNF42UdW8L6P3aBz96Ens0mE0fF.jpg"
         },
         {
-            "title": "09. Episódio 9",
+            "title": "09. Tocado por um Anjo",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee7e97f76c599f8bdca6ce865e020a16736d7a46"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 9.0,
+            "synopsis": "Prater e Charley revelam saber de uma informação crítica, forçando Dexter a tomar medidas extremas. No entanto, enquanto Dexter tenta conseguir uma reunião com Prater, Harrison fica cada vez mais enrolado.",
+            "runtime": 48,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/98YqhefJ0DEQA9bEoRlk8bd8tlp.jpg"
         },
         {
             "title": "10. Episódio 10",
@@ -102,4 +102,5 @@
         }
     ]
 }
+
 
