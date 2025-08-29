@@ -11,14 +11,14 @@
             "poster": "https://image.tmdb.org/t/p/original/hoL20ZxHYTyNqzYZw5AAgwhHZPP.jpg"
         },
         {
-            "title": "02. Episódio 2",
+            "title": "02. O Pássaro Do Homem Determina Seu Valor",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:731aea7980cea04a86ddbb123fd97d826d4df054"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 7.9,
+            "synopsis": "Enquanto Economos entra em conflito com seu novo responsável, Peacemaker precisa lidar com as consequências de suas ações na dimensão paralela.",
+            "runtime": 51,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/sAqQYYUMaS9FqHNACCQL9LRwsYn.jpg"
         },
         {
             "title": "03. Episódio 3",
@@ -81,4 +81,5 @@
             "poster": ""
         }
     ]
+
 }
