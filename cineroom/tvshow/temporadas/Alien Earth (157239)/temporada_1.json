@@ -35,12 +35,24 @@
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f3b2c8c0a2950726decc8878feea11e8719c309"
             ],
-            "rating": 6.8,
+            "rating": 7.2,
             "synopsis": "Uma conexão inesperada é formada enquanto uma trama secreta coloca todos em perigo.",
             "runtime": 54,
             "poster": "https://image.tmdb.org/t/p/original/a4OKNiA0lsdP3PnfFAk9JSBaEsR.jpg"
+        },
+		{
+            "title": "E05. No Espaço, Ninguém...",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81d9c5558668a6766fac1794436bb85975126e27"
+            ],
+            "rating": 7.5,
+            "synopsis": "Uma nave espacial em perigo leva a um acerto de contas perigoso.",
+            "runtime": 64,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/tyXp5unbk8PZ5T8AgqbebTbiLWP.jpg"
         }
+		
     ]
 
 }
+
 
