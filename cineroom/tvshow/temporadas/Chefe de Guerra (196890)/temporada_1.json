@@ -61,14 +61,14 @@
             "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/kbOfZ8fk91B5KV4poTQ3YR1zBlX.jpg"
         },
         {
-            "title": "07. Episódio 7",
+            "title": "07. Dia dos Cérebros Derramados",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ddb3aa6135649875b7f19786cbee525412be3e2"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 3.3,
+            "synopsis": "Surge um desentendimento sobre como lidar com a chegada de forasteiros",
+            "runtime": 40,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/v1KSTsDFW4e5JgMOJVe0qm9une0.jpg"
         },
         {
             "title": "08. Episódio 8",
@@ -93,5 +93,6 @@
     ]
 
 }
+
 
 
