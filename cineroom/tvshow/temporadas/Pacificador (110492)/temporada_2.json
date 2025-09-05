@@ -21,14 +21,14 @@
             "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/sAqQYYUMaS9FqHNACCQL9LRwsYn.jpg"
         },
         {
-            "title": "03. Episódio 3",
+            "title": "03. Outro Rick Na Manga",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:571df0b914588d0aad706e0b7813918943986688"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 7.8,
+            "synopsis": "Enquanto Peacemaker é celebrado como um herói, a dimensão paralela também lhe permite explorar a profundidade de sua conexão com Harcourt. Em seguida, Economos é criticado pela missão fracassada da equipe.",
+            "runtime": 51,
+            "poster": "https://image.tmdb.org/t/p/original/a8TIhxg98a8BLVOMP8p24c3lFaC.jpg"
         },
         {
             "title": "04. Episódio 4",
@@ -83,3 +83,4 @@
     ]
 
 }
+
