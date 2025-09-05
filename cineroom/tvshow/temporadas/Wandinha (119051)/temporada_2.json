@@ -1,84 +1,85 @@
 {
-    "episodios": [
-        {
-            "title": "01. Mais desgosto",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c17fc34f3a1ca7b0bd210564ad3cd0717d2dacae(EP 01)"
-            ],
-            "rating": 5.75,
-            "synopsis": "",
-            "runtime": 60,
-            "poster": "https://image.tmdb.org/t/p/original/4CPpMofyvBkFaaiyLWAsci3zwJH.jpg"
-        },
-        {
-            "title": "02. Confronto",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c17fc34f3a1ca7b0bd210564ad3cd0717d2dacae(EP 02)"
-            ],
-            "rating": 0,
-            "synopsis": "",
-            "runtime": 61,
-            "poster": "https://image.tmdb.org/t/p/original/lq1w0on24xhqC4l6OZkxzJm8eQY.jpg"
-        },
-        {
-            "title": "03. Chamado da Natureza",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c17fc34f3a1ca7b0bd210564ad3cd0717d2dacae(EP 03)"
-            ],
-            "rating": 0,
-            "synopsis": "",
-            "runtime": 59,
-            "poster": "https://image.tmdb.org/t/p/original/5GdqWb4mOGahnGqQbESdXKTWVXm.jpg"
-        },
-        {
-            "title": "04. Se estas paredes falassem",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c17fc34f3a1ca7b0bd210564ad3cd0717d2dacae(EP 04)"
-            ],
-            "rating": 0,
-            "synopsis": "",
-            "runtime": 60,
-            "poster": "https://image.tmdb.org/t/p/original/29TxIwTdeWjWn7MTZCSmhiJWQn7.jpg"
-        },
-        {
-            "title": "05. Episódio 5",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-            ],
-            "rating": 0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
-        },
-        {
-            "title": "06. Episódio 6",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-            ],
-            "rating": 0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
-        },
-        {
-            "title": "07. Episódio 7",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-            ],
-            "rating": 0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
-        },
-        {
-            "title": "08. Episódio 8",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-            ],
-            "rating": 0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            
+            "episodios": [
+                {
+                    "title": "01. Mais desgosto",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57e095a58027fe746f10a138d5b0c423918883bc(EP 01)"
+                    ],
+                    "rating": 7.863,
+                    "synopsis": "Após suas férias diabolicamente produtivas, Wandinha volta à Escola Nunca Mais como uma relutante celebridade e é perseguida por uma pessoa perigosa.",
+                    "runtime": 61,
+                    "poster": "https://image.tmdb.org/t/p/original/1L5TJquVHoCp19w5tKy48DfcCnZ.jpg"
+                },
+                {
+                    "title": "02. Confronto",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57e095a58027fe746f10a138d5b0c423918883bc(EP 02)"
+                    ],
+                    "rating": 7.7,
+                    "synopsis": "É Dia da Pegadinha na Escola Nunca Mais, e o caos é instaurado. Wandinha confronta um velho inimigo e ganha uma aliada indesejada.",
+                    "runtime": 62,
+                    "poster": "https://image.tmdb.org/t/p/original/k5g6TAHMpXC8o85OZAOW2rfEWcG.jpg"
+                },
+                {
+                    "title": "03. Chamado da natureza",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57e095a58027fe746f10a138d5b0c423918883bc(EP 03)"
+                    ],
+                    "rating": 7.5,
+                    "synopsis": "Privada de seus poderes e do livro de Goody, Wandinha é obrigada a resolver mistérios à moda antiga.",
+                    "runtime": 60,
+                    "poster": "https://image.tmdb.org/t/p/original/75n29ly38Sx4XNqXHkIRLpUcIfm.jpg"
+                },
+                {
+                    "title": "04. Se estas paredes falassem",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57e095a58027fe746f10a138d5b0c423918883bc(EP 04)"
+                    ],
+                    "rating": 8.2,
+                    "synopsis": "Tio Chico e Mãozinha fazem de tudo para ajudar com a investigação. Tentando esconder um segredo, Bianca acaba encontrando outro.",
+                    "runtime": 61,
+                    "poster": "https://image.tmdb.org/t/p/original/irw76zkymiXrrAyC1ftq8Jomsuh.jpg"
+                },
+                {
+                    "title": "05. Hyde escondido",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f574792efa72dd1d367d3ac02e8963c8317b1eaf(EP 05)"
+                    ],
+                    "rating": 8.706,
+                    "synopsis": "Com Tyler à solta, Wandinha se prepara para uma briga arriscada no Día de los Muertos. A fome de Slurp causa problemas para Feioso.",
+                    "runtime": 52,
+                    "poster": "https://image.tmdb.org/t/p/original/7ophg7pjLtQhLsLiD46aTTAnpbY.jpg"
+                },
+                {
+                    "title": "06. Conhece a ti mesmo",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f574792efa72dd1d367d3ac02e8963c8317b1eaf(EP 06)"
+                    ],
+                    "rating": 8.125,
+                    "synopsis": "Um encontro com um antigo espírito da Nunca Mais faz Wandinha ter uma nova perspectiva em relação a Enid e vice-versa. Uma das alunas da escola corre perigo.",
+                    "runtime": 70,
+                    "poster": "https://image.tmdb.org/t/p/original/dXZnTHnv0wHwFWfTqfhs5A0z7ZO.jpg"
+                },
+                {
+                    "title": "07. De olho no dinheiro",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f574792efa72dd1d367d3ac02e8963c8317b1eaf(EP 07)"
+                    ],
+                    "rating": 7.333,
+                    "synopsis": "Às vésperas da gala, Wandinha descobre os podres do diretor Dort. Enid tenta se controlar para não virar lobo, e Mortícia bate de frente com a Vovó.",
+                    "runtime": 56,
+                    "poster": "https://image.tmdb.org/t/p/original/275ufbbt88FVkfH7QeoqPpICBP6.jpg"
+                },
+                {
+                    "title": "08. É guerra!",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f574792efa72dd1d367d3ac02e8963c8317b1eaf(EP 08)"
+                    ],
+                    "rating": 7.167,
+                    "synopsis": "Segredos familiares acabam dando as caras. Agora, Wandinha precisa correr contra o tempo para impedir que uma profecia maligna vire realidade.",
+                    "runtime": 49,
+                    "poster": "https://image.tmdb.org/t/p/original/eqCAySjP9dXS4xgtbVAx1UjEi7D.jpg"
+                }
+            ]
         }
-    ]
-}
