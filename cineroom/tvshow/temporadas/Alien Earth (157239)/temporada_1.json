@@ -49,10 +49,21 @@
             "synopsis": "Uma nave espacial em perigo leva a um acerto de contas perigoso.",
             "runtime": 64,
             "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/tyXp5unbk8PZ5T8AgqbebTbiLWP.jpg"
+        },
+		{
+            "title": "E06. A Mosca",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cad7ed6788faa32eddf82a1c4cf6de76ee0901ad"
+            ],
+            "rating": 5.5,
+            "synopsis": "A tensão aumenta quando inimigos poderosos se confrontam, um plano perigoso se desenrola e a curiosidade leva a consequências mortais.",
+            "runtime": 58,
+            "poster": "https://image.tmdb.org/t/p/original/5gXDy41Y1xkKxxGhWqebjsSfCJb.jpg"
         }
 		
     ]
 
 }
+
 
 
