@@ -31,14 +31,14 @@
             "poster": "https://image.tmdb.org/t/p/original/a8TIhxg98a8BLVOMP8p24c3lFaC.jpg"
         },
         {
-            "title": "04. Episódio 4",
+            "title": "04. Need I Say Door",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a602a505a4a74d3ca8994ad4eda33838bd95f2c"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 7.9,
+            "synopsis": "As A.R.G.U.S. ramps up efforts to find the QUC, Harcourt receives a tempting offer from Flag – which comes at a steep cost to Peacemaker.",
+            "runtime": 39,
+            "poster": "https://image.tmdb.org/t/p/original/6bdIgolsJzPHyJE7RLGeca1YKLn.jpg"
         },
         {
             "title": "05. Episódio 5",
@@ -83,4 +83,3 @@
     ]
 
 }
-
