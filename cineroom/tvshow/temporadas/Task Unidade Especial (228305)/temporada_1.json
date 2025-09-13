@@ -1,0 +1,74 @@
+{
+    "episodios": [
+        {
+            "title": "01. Caminhos Cruzados",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62a2033edebfec9c1224bce83e3c028fa66770fb"
+            ],
+            "rating": 4.2,
+            "synopsis": "Após uma tragédia familiar, o agente especial Tom Brandis é forçado a liderar uma unidade especial que investiga uma série de roubos.",
+            "runtime": 66,
+            "poster": "https://image.tmdb.org/t/p/original/yyOAoNHDBnAJrtlq6RVC8citDeb.jpg"
+        },
+        {
+            "title": "02. Episódio 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 63,
+            "poster": "https://image.tmdb.org/t/p/original/ftBHssFPie3KEurGcP94r98tbo8.jpg"
+        },
+        {
+            "title": "03. Episódio 3",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 65,
+            "poster": "https://image.tmdb.org/t/p/original/2VJRSZImHgC4wSz9zbwv1dg12zd.jpg"
+        },
+        {
+            "title": "04. Episódio 4",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 64,
+            "poster": "https://image.tmdb.org/t/p/original/nTYwczFpMYPL4mfX5fEeskd3jQC.jpg"
+        },
+        {
+            "title": "05. Episódio 5",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "06. Episódio 6",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "07. Episódio 7",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        }
+    ]
+}

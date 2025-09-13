@@ -1,0 +1,34 @@
+{
+    "episodios": [
+        {
+            "title": "01. Meu Pai, Meu Algoz",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0589c670d71620dfc056c3a3682dbf64c907150"
+            ],
+            "rating": 0.0,
+            "synopsis": "Quando o pai de Isabela, Paulo Cupertino, proíbe o relacionamento, ela e Rafael ficam divididos entre fugir ou confrontá-lo. Enquanto tentam chegar a um acordo, uma tragédia brutal destrói para sempre o relacionamento e suas famílias.",
+            "runtime": 41,
+            "poster": "https://image.tmdb.org/t/p/original/d1etTDQqzoOZuYHO1AgCV5rqh2x.jpg"
+        },
+        {
+            "title": "02. Marginal, Sempre Marginal",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0911760e93a261d77c4267b41ca4f47d9b404133"
+            ],
+            "rating": 0.0,
+            "synopsis": "Quando Paulo foge com a possível ajuda do crime organizado, a perseguição leva as autoridades a Paraisópolis e ao Paraguai. A vida de Isabela se transforma em um pesadelo quando o caso começa a ganhar atenção pública.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/zn4yIZ6TYPdocDETzbCE3U5mt52.jpg"
+        },
+        {
+            "title": "03. Olhos nos Olhos",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9c89adeeac018b57d444c8ab44cb2b90993c735"
+            ],
+            "rating": 0.0,
+            "synopsis": "Enquanto Isabela sofre inúmeros ataques da mídia, seu pai é finalmente capturado após quase três anos foragido. No tribunal, pai e filha se enfrentam, mas Paulo se recusa a aceitar seu destino tão facilmente.",
+            "runtime": 55,
+            "poster": "https://image.tmdb.org/t/p/original/utbpKuDcPiggrxz8oSGb6NSumqq.jpg"
+        }
+    ]
+}
