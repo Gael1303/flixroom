@@ -71,14 +71,14 @@
             "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/v1KSTsDFW4e5JgMOJVe0qm9une0.jpg"
         },
         {
-            "title": "08. Episódio 8",
+            "title": "08. O bosque sagrado",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9a07ee5be3724b8762ed376d39acc5bda36982a"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 4.4,
+            "synopsis": "Após os seus piores medos se concretizarem, Kaʻiana sofre uma perda devastadora. O chamamento de guerra de Keōua torna-se inevitável para Kamehameha.",
+            "runtime": 55,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/fBTWFUS70BSq88ZdtPFKiu9Kjli.jpg"
         },
         {
             "title": "09. Episódio 9",
@@ -93,6 +93,7 @@
     ]
 
 }
+
 
 
 
