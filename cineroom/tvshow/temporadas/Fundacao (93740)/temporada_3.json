@@ -1,6 +1,6 @@
 {
-            "episodios": [
-                {
+    "episodios": [
+        {
             "title": "E01. Uma Canção para o Fim de Todas as Coisas",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3f236512b59ca805a5b1e3b3ff6965fde883138(EP 01. DUAL)"
@@ -30,75 +30,75 @@
             "runtime": 51,
             "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/1NAH40bTLHuAPNdpRK9TRdhFEsG.jpg"
         },
-                {
-                    "title": "04. O Olhar Penetrante Dela",
-                    "url": [
-                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecddc667432680250ddcb0a1773ed9caeaa55fa6"
-                    ],
-                    "rating": 6.1,
-                    "synopsis": "Demerzel sofre com um paradoxo em sua programação. A verdadeira lealdade de Pritcher é revelada. Dia parte em busca de respostas.",
-                    "runtime": 49,
-                    "poster": "https://image.tmdb.org/t/p/original/fwTUbKEki6eO6z6zIPkvrUbQpjd.jpg"
-                },
-                {
-                    "title": "05. Onde os Tiranos Passam a Eternidade",
-                    "url": [
-                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91d0cd5980e761fe8260df0d301093252cf4c257"
-                    ],
-                    "rating": 6.2,
-                    "synopsis": "Dia entra em território desconhecido. Alvorada e Gaal iniciam seu plano. A importância de Magnífico fica clara. Demerzel tenta recuperar o controle.",
-                    "runtime": 47,
-                    "poster": "https://image.tmdb.org/t/p/original/4243bk9E9odifNWS8HNJCWiGfiO.jpg"
-                },
-                {
-                    "title": "06. A Forma do Tempo",
-                    "url": [
-                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5b89b16fb36a734541885b5bd5838fd0c1763de"
-                    ],
-                    "rating": 6.3,
-                    "synopsis": "Um reencontro esperado há muito tempo acaba sendo violento. Dia procura Song. Em Novo Terminus, o Cofre se abre e o Mulo prepara sua mira.",
-                    "runtime": 45,
-                    "poster": "https://image.tmdb.org/t/p/original/vnGCFHmCWi4jimCF78mZpOsK2tb.jpg"
-                },
-                {
-                    "title": "07. O Fim da Fundação",
-                    "url": [
-                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e34cf5cf14705a77e5bee52cb32b75a38bf0af0"
-                    ],
-                    "rating": 4.3,
-                    "synopsis": "Caos e destruição chegam a Novo Terminus. Em Trantor, Crepúsculo e Quent se unem para avaliar a situação da galáxia.",
-                    "runtime": 60,
-                    "poster": "https://image.tmdb.org/t/p/original/ka66SFrROXRhnyJeMjBE5jZHGp8.jpg"
-                },
-                {
-                    "title": "08. Carne e Osso",
-                    "url": [
-                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-                    ],
-                    "rating": 0.0,
-                    "synopsis": "Gaal e a Segunda Fundação lidam com a perda de Novo Terminus. Dia enfrenta julgamento em Mycogen. A ascensão de Crepúsculo se aproxima.",
-                    "runtime": 47,
-                    "poster": "https://image.tmdb.org/t/p/original/hBNYVvVkU1mMgJh5Do7ol8Ck4gi.jpg"
-                },
-                {
-                    "title": "09. Episódio 9",
-                    "url": [
-                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-                    ],
-                    "rating": 0.0,
-                    "synopsis": "",
-                    "runtime": 47,
-                    "poster": ""
-                },
-                {
-                    "title": "10. Episódio 10",
-                    "url": [
-                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-                    ],
-                    "rating": 0.0,
-                    "synopsis": "",
-                    "runtime": 52,
-                    "poster": ""
-                }
-            ]
+        {
+            "title": "04. O Olhar Penetrante Dela",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecddc667432680250ddcb0a1773ed9caeaa55fa6"
+            ],
+            "rating": 6.1,
+            "synopsis": "Demerzel sofre com um paradoxo em sua programação. A verdadeira lealdade de Pritcher é revelada. Dia parte em busca de respostas.",
+            "runtime": 49,
+            "poster": "https://image.tmdb.org/t/p/original/fwTUbKEki6eO6z6zIPkvrUbQpjd.jpg"
+        },
+        {
+            "title": "05. Onde os Tiranos Passam a Eternidade",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91d0cd5980e761fe8260df0d301093252cf4c257"
+            ],
+            "rating": 6.2,
+            "synopsis": "Dia entra em território desconhecido. Alvorada e Gaal iniciam seu plano. A importância de Magnífico fica clara. Demerzel tenta recuperar o controle.",
+            "runtime": 47,
+            "poster": "https://image.tmdb.org/t/p/original/4243bk9E9odifNWS8HNJCWiGfiO.jpg"
+        },
+        {
+            "title": "06. A Forma do Tempo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5b89b16fb36a734541885b5bd5838fd0c1763de"
+            ],
+            "rating": 6.3,
+            "synopsis": "Um reencontro esperado há muito tempo acaba sendo violento. Dia procura Song. Em Novo Terminus, o Cofre se abre e o Mulo prepara sua mira.",
+            "runtime": 45,
+            "poster": "https://image.tmdb.org/t/p/original/vnGCFHmCWi4jimCF78mZpOsK2tb.jpg"
+        },
+        {
+            "title": "07. O Fim da Fundação",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e34cf5cf14705a77e5bee52cb32b75a38bf0af0"
+            ],
+            "rating": 4.3,
+            "synopsis": "Caos e destruição chegam a Novo Terminus. Em Trantor, Crepúsculo e Quent se unem para avaliar a situação da galáxia.",
+            "runtime": 60,
+            "poster": "https://image.tmdb.org/t/p/original/ka66SFrROXRhnyJeMjBE5jZHGp8.jpg"
+        },
+        {
+            "title": "08. Carne e Osso",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0,
+            "synopsis": "Gaal e a Segunda Fundação lidam com a perda de Novo Terminus. Dia enfrenta julgamento em Mycogen. A ascensão de Crepúsculo se aproxima.",
+            "runtime": 47,
+            "poster": "https://image.tmdb.org/t/p/original/hBNYVvVkU1mMgJh5Do7ol8Ck4gi.jpg"
+        },
+        {
+            "title": "09. Os caminhos que nos escolhem",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2050e463df182802e0cf4c301c5da2c4a0fc60b4"
+            ],
+            "rating": 6.2,
+            "synopsis": "Gaal confronta o poder das conversões do Mula. Ocaso recorre a medidas drásticas. Demerzel procura clareza em relação ao futuro.",
+            "runtime": 47,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/6fmWveBPYdcAKxMT7tEGVZLvYJx.jpg"
+        },
+        {
+            "title": "10. As trevas",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d793a818f38214346cd46e821fc81ae738af04d"
+            ],
+            "rating": 7.0,
+            "synopsis": "Gaal e a Segunda Fundação levam a luta até ao Mula, enquanto o legado do Império sofre um golpe catastrófico.",
+            "runtime": 52,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/eFNDKhD0uNFH04yAXjVoNnyoWdR.jpg"
         }
+    ]
+}
