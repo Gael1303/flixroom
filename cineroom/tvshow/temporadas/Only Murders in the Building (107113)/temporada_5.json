@@ -1,0 +1,104 @@
+{
+    "episodios": [
+        {
+            "title": "01. Prego no Caixão",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f12437c66d16f69af5f36b732af438974748fda7(EP 01)"
+            ],
+            "rating": 9.8,
+            "synopsis": "Charles, Oliver e Mabel seguem pistas que os levam para fora de Manhattan.",
+            "runtime": 38,
+            "poster": "https://image.tmdb.org/t/p/original/1ajSoc9MEWmsKBxlmfICFxZ3Kr2.jpg"
+        },
+        {
+            "title": "02. Por Favor",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f12437c66d16f69af5f36b732af438974748fda7(EP 02)"
+            ],
+            "rating": 9.7,
+            "synopsis": "Uma espiada nos primeiros dias de Lester no Arconia.",
+            "runtime": 32,
+            "poster": "https://image.tmdb.org/t/p/original/v0J4eyIy3fszrxuIZbZeHUVc6ls.jpg"
+        },
+        {
+            "title": "03. Rigor",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f12437c66d16f69af5f36b732af438974748fda7(EP 03)"
+            ],
+            "rating": 9.8,
+            "synopsis": "O trio encontra uma pista decisiva.",
+            "runtime": 36,
+            "poster": "https://image.tmdb.org/t/p/original/rq0vIF0rvJKmYx3XWq2hEOjmFv3.jpg"
+        },
+        {
+            "title": "04. Episódio 4",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5265c8bd9b2cd72fecad698ccd10ec87aa11e5a"
+            ],
+            "rating": 10.0,
+            "synopsis": "",
+            "runtime": 37,
+            "poster": "https://image.tmdb.org/t/p/original/9B24Ab6njBFf68TD8Jmk3SQQCIQ.jpg"
+        },
+        {
+            "title": "05. Episódio 5",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "06. Episódio 6",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "07. Episódio 7",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "08. Episódio 8",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "09. Episódio 9",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "10. Episódio 10",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        }
+    ]
+}

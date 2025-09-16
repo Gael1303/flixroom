@@ -1,10 +1,94 @@
 {
     "episodios": [
         {
-            "title": "1x01. Capítulo um: O Clube Hellfire",
+            "title": "01. Capítulo um: O Clube Hellfire",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb6d9e2c5001999427a7d02789197b93d952cbcc"
-            ]
+                "https://1.animezeydl.workers.dev/download.aspx?file=jPAmRXphjreM3o7uE4t%2B%2FV4%2FXcuFyA3FXdpg6iCEk9Fx01dOMWli0I4dCnNO%2BiCm&expiry=QJ4JPXY7hhPl8lk5Hb1%2FwA%3D%3D&mac=db576dc2fc881e77f24e58f5a4998f57e4e262cd374ccfb67c0b7a82a31230ac"
+            ],
+            "rating": 8.677,
+            "synopsis": "Na nova escola, On precisa aprender a lidar com os valentões. Joyce abre um pacote misterioso. Em Hawkins, uma jogadora atrevida agita a noite de D&D.",
+            "runtime": 79,
+            "poster": "https://image.tmdb.org/t/p/original/xeNKubDmPiMraW4hXqzEBrN6f4A.jpg"
+        },
+        {
+            "title": "02. Capítulo dois: A maldição de Vecna",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=cBZFOSohLoauei%2BPgULDDu07JBRh0RXloRUdng06NQaxNGsQiyj%2Fg%2FyWiYQdwUms&expiry=QJ4JPXY7hhPl8lk5Hb1%2FwA%3D%3D&mac=5514bf2b198d8b83ffa5b60fcdf3cf3788ba8c66a05022c0075858c658a7efbf"
+            ],
+            "rating": 8.197,
+            "synopsis": "Mike embarca em um avião rumo à Califórnia. Um corpo abala Hawkins. Nancy sai à procura de pistas. Abalado, Eddie conta aos amigos o que viu.",
+            "runtime": 78,
+            "poster": "https://image.tmdb.org/t/p/original/lSSWqv7XrO51uY2uc4lql9Hub3f.jpg"
+        },
+        {
+            "title": "03. Capítulo três: O monstro e a super-heroína",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=hoHTica2lDVHAKIll4WeJf4KV0SXLuuFYNHi7AIJ6VYBJrZhInNwMHWxWs2Xnafj&expiry=QJ4JPXY7hhPl8lk5Hb1%2FwA%3D%3D&mac=af4485d3906f937ba7316dfb734fd3b98a718e55364b21408ad12b1465d1249d"
+            ],
+            "rating": 8.207,
+            "synopsis": "Murray e Joyce viajam para o Alasca e On enfrenta duras consequências. Robin e Nancy fazem uma descoberta sobre os monstros de Hawkins. Dr. Owens traz más notícias.",
+            "runtime": 64,
+            "poster": "https://image.tmdb.org/t/p/original/6q1UM63T5tiQcWrbsJvY3bunkyZ.jpg"
+        },
+        {
+            "title": "04. Capítulo quatro: Querido Billy",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=IqNqT7zNPWlOucjQCXHleIan7TDwXnPJzodoySPem2083I0vrHRVwwvhm12dfmKt&expiry=QJ4JPXY7hhPl8lk5Hb1%2FwA%3D%3D&mac=97f78d56200da345f67500d0939f00ad3c246cb6cd2ab16cecfcd8b56d53fc9e"
+            ],
+            "rating": 8.85,
+            "synopsis": "Max está em perigo e o tempo está se esgotando. Um paciente do hospital Pennhurst recebe visitas. Na Rússia, Hopper vai à luta.",
+            "runtime": 79,
+            "poster": "https://image.tmdb.org/t/p/original/u3LeFRR7AhyPp4y0Ii7hpkD488b.jpg"
+        },
+        {
+            "title": "05. Capítulo cinco: Projeto Nina",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=uzbCt5di9TvdOBgKFofPJHHcH%2BipIgeSCFuNASHsNHNcLM7zS9apcpM7Zr3rFbPJ&expiry=QJ4JPXY7hhPl8lk5Hb1%2FwA%3D%3D&mac=d9f37c71b0f956109e51d41e37b8457132d04801fa77135741a6dfe4b63ef5c3"
+            ],
+            "rating": 8.13,
+            "synopsis": "Owens leva On para Nevada, onde ela é obrigada a encarar o passado. Em Hawkins, a turma vasculha uma casa em ruínas atrás de pistas. Vecna faz mais uma vítima.",
+            "runtime": 75,
+            "poster": "https://image.tmdb.org/t/p/original/yvXXeBv4zfDgwcZyxqH5LJAe4oV.jpg"
+        },
+        {
+            "title": "06. Capítulo seis: Mergulho",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=UMip0GUeMB07FCqK0l%2BtDLHZzcpCSps2m46SR%2FwuHV5Z3yHGQQuarul7fjhEqLeB&expiry=QJ4JPXY7hhPl8lk5Hb1%2FwA%3D%3D&mac=bd8342d226e14877e458dde93c147ed424743b67acd390fb3fdb1a675527ade3"
+            ],
+            "rating": 8.154,
+            "synopsis": "Uma missão de resgate arriscada toma forma. Na Califórnia, os garotos pedem ajuda a uma hacker. Steve se sacrifica pelo grupo.",
+            "runtime": 74,
+            "poster": "https://image.tmdb.org/t/p/original/kvfmI9kzwpjpohLI1DSRomcYF66.jpg"
+        },
+        {
+            "title": "07. Capítulo sete: O massacre no laboratório de Hawkins",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=P1OJ3%2BzLM7QlBztP0sI52vhRNOr8BSqc72ktk6M4aUriqNtb4zJFWsRXI%2FIQHyXm&expiry=QJ4JPXY7hhPl8lk5Hb1%2FwA%3D%3D&mac=236b76d248acc4363643200fde4640afe3bd99cf56457896381e30357a6b18c1"
+            ],
+            "rating": 8.949,
+            "synopsis": "Hopper se prepara para uma batalha épica. Dustin investiga as motivações secretas de Vecna e decodifica uma mensagem do além. On encontra forças numa lembrança distante.",
+            "runtime": 100,
+            "poster": "https://image.tmdb.org/t/p/original/lhN2dahlME7xWcM7fU1rOKJmyco.jpg"
+        },
+        {
+            "title": "08. Capítulo oito: Papai",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=GnKL7fWbg8IJWxe%2FbTAozlYCBF6x%2FKDMCHNtkmrCIzaaHTUbWv9NWKahTKtd%2BBJJ&expiry=25GEL%2FQ5nmyYfz8U%2FO4d2g%3D%3D&mac=59a52b0e1b694aff29a7df07fe8c3b06e4b822bd63490420769d5d0182017ef1"
+            ],
+            "rating": 8.677,
+            "synopsis": "Nancy tem visões preocupantes. Onze consegue dar um passo importante. Em Hawkins, a turma se prepara para a batalha.",
+            "runtime": 86,
+            "poster": "https://image.tmdb.org/t/p/original/XhpquP7GFEDzKIHTAPX6vI8Phd.jpg"
+        },
+        {
+            "title": "09. Capítulo nove: E o plano de Onze",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=XyUbgV7dfsnAWDGpT9zTx4pf29%2BMQ9XLmcitYvYipHxOhq2Mb79lT1aTtUA6MPDw&expiry=QJ4JPXY7hhPl8lk5Hb1%2FwA%3D%3D&mac=a9f1893ec7d048c24d8dfaf23ee52e838091526fcb168a467c9c476b41671bf4"
+            ],
+            "rating": 8.586,
+            "synopsis": "Com muito amor no coração e um toque de metal, os heróis lutam para salvar Hawkins e o mundo.",
+            "runtime": 143,
+            "poster": "https://image.tmdb.org/t/p/original/jQeh2GYSQ4QxHkkBJ1LC2hPzfNm.jpg"
         }
     ]
 }

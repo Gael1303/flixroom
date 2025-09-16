@@ -1,10 +1,84 @@
 {
     "episodios": [
         {
-            "title": "1x01. Capítulo um: Está me ouvindo, Suzie?",
+            "title": "01. Capítulo um: Está me ouvindo, Suzie?",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5079215f8a67d9b69d06797e01d8d85d4992c47d"
-            ]
+                "https://1.animezeydl.workers.dev/download.aspx?file=jPAmRXphjreM3o7uE4t%2B%2FV4%2FXcuFyA3FXdpg6iCEk9Fx01dOMWli0I4dCnNO%2BiCm&expiry=QJ4JPXY7hhPl8lk5Hb1%2FwA%3D%3D&mac=db576dc2fc881e77f24e58f5a4998f57e4e262cd374ccfb67c0b7a82a31230ac"
+            ],
+            "rating": 7.87,
+            "synopsis": "O verão é época de trabalhos temporários e novos namoros. Mas o clima muda quando Will percebe algo de errado na transmissão em russo captada pelo rádio de Dustin.",
+            "runtime": 51,
+            "poster": "https://image.tmdb.org/t/p/original/g1iZmyn42qSFkXhw6gjoNE0diKb.jpg"
+        },
+        {
+            "title": "02. Capítulo dois: O caso dos ratos",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=cBZFOSohLoauei%2BPgULDDu07JBRh0RXloRUdng06NQaxNGsQiyj%2Fg%2FyWiYQdwUms&expiry=QJ4JPXY7hhPl8lk5Hb1%2FwA%3D%3D&mac=5514bf2b198d8b83ffa5b60fcdf3cf3788ba8c66a05022c0075858c658a7efbf"
+            ],
+            "rating": 7.734,
+            "synopsis": "Nancy e Jonathan seguem uma pista. Steve e Robin participam de uma missão secreta, e Max e Onze vão às compras. Billy tem visões perturbadoras.",
+            "runtime": 51,
+            "poster": "https://image.tmdb.org/t/p/original/qDlMvdlRGzIGtKYdV9lktEUM4vj.jpg"
+        },
+        {
+            "title": "03. Capítulo três: A salva-vidas desaparecida",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=hoHTica2lDVHAKIll4WeJf4KV0SXLuuFYNHi7AIJ6VYBJrZhInNwMHWxWs2Xnafj&expiry=QJ4JPXY7hhPl8lk5Hb1%2FwA%3D%3D&mac=af4485d3906f937ba7316dfb734fd3b98a718e55364b21408ad12b1465d1249d"
+            ],
+            "rating": 7.723,
+            "synopsis": "Onze e Max estão à procura de Billy. Will planeja um dia sem as garotas. Steve e Dustin ficam de tocaia, e Joyce e Hopper retornam ao Laboratório Nacional de Hawkins.",
+            "runtime": 50,
+            "poster": "https://image.tmdb.org/t/p/original/oaYdVvYwnvoQ7SLelKUcaAt0HKJ.jpg"
+        },
+        {
+            "title": "04. Capítulo quatro: A prova da sauna",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=IqNqT7zNPWlOucjQCXHleIan7TDwXnPJzodoySPem2083I0vrHRVwwvhm12dfmKt&expiry=QJ4JPXY7hhPl8lk5Hb1%2FwA%3D%3D&mac=97f78d56200da345f67500d0939f00ad3c246cb6cd2ab16cecfcd8b56d53fc9e"
+            ],
+            "rating": 8.216,
+            "synopsis": "A turma se reúne para enfrentar um mal terrivelmente familiar. Karen pede que Nancy continue a investigação. Robin consegue uma planta do shopping muito útil.",
+            "runtime": 53,
+            "poster": "https://image.tmdb.org/t/p/original/tEgd6fXKngAG8eC92dH7ey6Y4eA.jpg"
+        },
+        {
+            "title": "05. Capítulo cinco: Os devorados",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=uzbCt5di9TvdOBgKFofPJHHcH%2BipIgeSCFuNASHsNHNcLM7zS9apcpM7Zr3rFbPJ&expiry=QJ4JPXY7hhPl8lk5Hb1%2FwA%3D%3D&mac=d9f37c71b0f956109e51d41e37b8457132d04801fa77135741a6dfe4b63ef5c3"
+            ],
+            "rating": 7.951,
+            "synopsis": "Surpresas estranhas se escondem em uma antiga fazenda e nas profundezas do Starcourt Mall. O Devorador de Mentes fica mais forte.",
+            "runtime": 52,
+            "poster": "https://image.tmdb.org/t/p/original/cxIZ4btU6h9GQM1Fn0kotuaXlwo.jpg"
+        },
+        {
+            "title": "06. Capítulo seis: E pluribus unum",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=UMip0GUeMB07FCqK0l%2BtDLHZzcpCSps2m46SR%2FwuHV5Z3yHGQQuarul7fjhEqLeB&expiry=QJ4JPXY7hhPl8lk5Hb1%2FwA%3D%3D&mac=bd8342d226e14877e458dde93c147ed424743b67acd390fb3fdb1a675527ade3"
+            ],
+            "rating": 8.081,
+            "synopsis": "Dr. Alexey revela o que os russos estão construindo, e Onze vê onde Billy esteve. Dustin e Erica planejam um resgate ousado.",
+            "runtime": 60,
+            "poster": "https://image.tmdb.org/t/p/original/ypc1zPyeUsnXYSgzspIidpjaXKo.jpg"
+        },
+        {
+            "title": "07. Capítulo sete: A mordida",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=P1OJ3%2BzLM7QlBztP0sI52vhRNOr8BSqc72ktk6M4aUriqNtb4zJFWsRXI%2FIQHyXm&expiry=QJ4JPXY7hhPl8lk5Hb1%2FwA%3D%3D&mac=236b76d248acc4363643200fde4640afe3bd99cf56457896381e30357a6b18c1"
+            ],
+            "rating": 8.225,
+            "synopsis": "Com o tempo se esgotando e um assassino cada vez mais perto, a equipe de Hopper corre de volta a Hawkins. Lá, Onze e o resto da turma se preparam para a guerra.",
+            "runtime": 56,
+            "poster": "https://image.tmdb.org/t/p/original/6QA91GJK2ze1EaGPEKhil9MJIXx.jpg"
+        },
+        {
+            "title": "08. Capítulo oito: A batalha de Starcourt",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=XyUbgV7dfsnAWDGpT9zTx4pf29%2BMQ9XLmcitYvYipHxOhq2Mb79lT1aTtUA6MPDw&expiry=QJ4JPXY7hhPl8lk5Hb1%2FwA%3D%3D&mac=a9f1893ec7d048c24d8dfaf23ee52e838091526fcb168a467c9c476b41671bf4"
+            ],
+            "rating": 8.538,
+            "synopsis": "O Devorador de Mentes causa terror na praça de alimentação. Lá embaixo, na escuridão, o futuro da humanidade está em jogo.",
+            "runtime": 78,
+            "poster": "https://image.tmdb.org/t/p/original/sT0fd7pEJ2AbKsXF511Xf3nrOk6.jpg"
         }
     ]
 }

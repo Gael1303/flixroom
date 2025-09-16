@@ -1,10 +1,164 @@
 {
     "episodios": [
         {
-            "title": "Futurama: 5ª Temporada",
+            "title": "01. Calor de matar",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e50e84c98d5b7a699c7ab67f5072b826b8d2d104"
-            ]
+                "https://1.animezeydl.workers.dev/download.aspx?file=N5PIPFuL%2FOvsKuiMUAOLeCh0NadtiaEeRqxzxeIMwafKJkdtaFP%2F2xjF%2F%2Bu79NO8&expiry=3s7hn04SXLxOftFxqx262Q%3D%3D&mac=25d9be1ecf2bc84ade968745e31211f493b4a030fcb35f362767d228882dd748"
+            ],
+            "rating": 7.2,
+            "synopsis": "O tradicional método de despejar toneladas de gás clorofluorcarbono nos vasos sanitários para contrabalançar os efeitos do vazamento de Freon para a atmosfera falha e Al Gore convoca uma conferência em Estocolmo para tratar do assunto. Durante os debates, o Professor Farnsworth confessa que sua negligência em criar robôs que vazam gás CFC foi a verdadeira responsável pelas mudanças climáticas e a destruição de todos eles é apontada como única solução. Bender, resignado, reúne-se a outros companheiros nas ilhas Galápagos.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/aFS3AdpUd7af3OWGh4kU673xIDM.jpg"
+        },
+        {
+            "title": "02. De volta ao passado",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=DODcWwYsRVS5MWQuBdKaQHVmAwl6wX%2BMbVUtfJ2pqEbthcly0ALcXsO9paBMNU%2Bb&expiry=3s7hn04SXLxOftFxqx262Q%3D%3D&mac=08a64004725a8acf3522c2f681fd4d469e27e1273fe56e1527b355f035642dba"
+            ],
+            "rating": 8.7,
+            "synopsis": "Fry descobre que a pizzaria onde trabalhava está sendo exibida como maravilha arqueológica do século XX em um museu. Entre os artefatos da mostra, Fry encontra o fóssil de seu cachorro Seymour e, após discussões com o curador do museu, consegue levá-lo para casa. Logo o Professor Farnsworth afirma ser capaz de trazer Seymour novamente à vida por meio de clonagem e Bender começa a sentir muitos ciúmes de sua amizade com Fry.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/tvSjilKY6jzq1tuxsx5qOJt8Sc9.jpg"
+        },
+        {
+            "title": "03. Uma lição para os filhos",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=GIXN6LbBc2lsXAayrfpkR4yMiFgv%2B2cNR5VDZGUF%2BSQUPjOPneOxlR2teVokBhlc&expiry=3s7hn04SXLxOftFxqx262Q%3D%3D&mac=d56994032a6704431ee91bfa65b77d9779ce2ca5169da12599939d3457904110"
+            ],
+            "rating": 7.2,
+            "synopsis": "Cubert e Dwight se aliam para montar um negócio de entrega de jornais. Farnsworth e Hermes fazem pouco dos esforços das crianças até que elas acumulam capital suficiente para comprar a Planet Express. Na surdina, Fry e Leela tentam fabricar cerveja em Bender.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/3yNo0EyDhBOvZEcQNVG8cnimfRE.jpg"
+        },
+        {
+            "title": "04. Um gostinho de liberdade",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=rLBoW%2BD1PBcadxUSL08Z9DPknymQlKLw3c7NHsmEG5D4u5dwAyHcwxGqNr3KDhHK&expiry=3s7hn04SXLxOftFxqx262Q%3D%3D&mac=6b211cffd3c29479c5f6d66c69a0d8312b200a86ddfd9ed6c0d6168eb1e816e3"
+            ],
+            "rating": 7.3,
+            "synopsis": "Quando o Dr. Zoidberg devora publicamente a bandeira da Terra durante as comemorações do Dia da Liberdade, é sentenciado à morte por seu comportamento anárquico. Porém, antes que a sentença lhe seja aplicada, os Decapodianos (raça à qual Zoidberg pertence) invadem a Terra para ajudá-lo, ensinando à população terráquea o verdadeiro significado da palavra \"liberdade\".",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/dnLxcyKd7WZsBJeALwsjkEATPk.jpg"
+        },
+        {
+            "title": "05. O nascimento de novas vidas",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=exU9lx4n6vcN%2FGDRlpXU%2B%2FAWiCkPSWnh1Z7Gk3TzatGhCp%2FkFHnhikS8CRm7GFIe&expiry=3s7hn04SXLxOftFxqx262Q%3D%3D&mac=95c6cccea5bac8ee2c4c4e3f3726e64f26dfff7be3b6a52656d862982c5b93bf"
+            ],
+            "rating": 7.2,
+            "synopsis": "Durante uma entrega da Planet Express, Amy encontra-se secretamente com Kif, que então pede a ela para desistir do emprego em favor do relacionamento. Amy, porém, afirma não estar pronta para tanto. Mais tarde, Dr. Zoidberg diagnostica a gravidez de Kif e logo descobre-se que a mãe é Leela, por simplesmente haver tocado a pele de Kif durante seu período fértil. Amy também não se sente preparada para a maternidade e Kif, decepcionado, volta a seu planeta natal para dar à luz no mesmo pântano em que nasceu.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/bKq2eqHyv7UPUJrTyUKk34o9oga.jpg"
+        },
+        {
+            "title": "06. Os Super-Heróis",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=vNJ%2B%2Fmf6h6TQ1j5iZ8WZY98%2B25Jei83x%2FN67ALTY4lWye6MlcXRjeQi4CVJDPvHx&expiry=3s7hn04SXLxOftFxqx262Q%3D%3D&mac=0a6d7149d65369ea0ee90345aef3c324c74a39d4c0ab1dc637679753f2069055"
+            ],
+            "rating": 7.4,
+            "synopsis": "Um creme misterioso e milagroso do Dr. Zoidberg confere poderes especiais a Fry e Leela, que formam com Bender uma equipe de super heróis conhecida como \"Novo Time da Justiça\" (\"New Justice Team\"). Ocultos sob as identidades secretas de \"Capitão Ontem\" (Fry), \"Clobberella\" (Leela) e \"Super Rei\" (Bender), os três passam a combater o crime pela cidade, mas Leela descobre que suas novas obrigações como super heroína podem criar sérios problemas em seu relacionamento com os pais.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/frSY3b82YdVWGYtPvKuc6IKNlTr.jpg"
+        },
+        {
+            "title": "07. Voltando no tempo",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=%2BFxf1Bl60Eeyf%2BOD4YxYG%2F83KLJi5%2Bv9eqQG58avDVhHPf%2BuGygD1q7Eh2buoySs&expiry=3s7hn04SXLxOftFxqx262Q%3D%3D&mac=d5272bfcc8be45e738054a67075f438bb8363f42a50d4713169fdb0243ca1995"
+            ],
+            "rating": 7.8,
+            "synopsis": "A equipe da Planet Express conclui que, aos 161 anos de idade, o Professor Farnsworth está velho demais e decide presenteá-lo com um tratamento de rejuvenescimento em um spa. O tratamento funciona e ele retorna aos 53 anos, mas devido a um acidente no processo, toda a equipe acaba voltando à adolescência também. Mais tarde, enquanto o Professor busca um meio de devolver todos à idade original, os novos adolescentes aproveitam a vida e Leela tem a chance de experimentar um relacionamento diferente com seus pais.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/64Vv5F1hn1X1ESJeVUyOYjyfFno.jpg"
+        },
+        {
+            "title": "08. O futuro de Fry",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=QDj%2BvbphMUCwGn4fFyYGP8TeXCtu3f03CYfRpKqfq9IPHNBgRsqbW7iiYgTh6Nfw&expiry=3s7hn04SXLxOftFxqx262Q%3D%3D&mac=07b1a0513e161d32f8afb5d83256307a1d48ba4f3e345b7e0c9a57bd93dd4a3c"
+            ],
+            "rating": 8.0,
+            "synopsis": "Fry não consegue impressionar Leela e fica arrasado quando ela recusa seu convite para um jantar. Piorando as coisas, Leela resolve sair com Chaz, auxiliar do prefeito. Sentindo-se inútil e o maior dos perdedores, Fry acaba sendo levado por Nibbler em uma missão para salvar o universo dos planos malignos dos cérebros voadores e descobre no processo seu real valor, além da verdade sobre os fatos ocorridos na noite de 31 de Dezembro de 1999, quando foi criogenicamente congelado.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/yjfmkF86ssDg7OiBaVGIiAV4fe8.jpg"
+        },
+        {
+            "title": "09. O sonho sem fim",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=1BppcQHXXTGTY0faOApwUHKzoZD9HwUXbRRFMv8ABforTEMeppsdZJXUJowt0FYn&expiry=3s7hn04SXLxOftFxqx262Q%3D%3D&mac=177274be0afd16bd13083ec43952db5f77e8e9c37a780bc402762d3008240e47"
+            ],
+            "rating": 8.5,
+            "synopsis": "O Professor Farnsworth envia Leela, Bender e Fry em uma perigosa missão para coletar mel produzido por ferozes abelhas espaciais. Durante a tarefa, Leela interessa-se por um filhote de abelha rainha e o leva consigo na nave, mas o animal acaba se enfurecendo e ferindo gravemente Fry, que falece logo em seguida. Leela, devastada pelos sentimentos de culpa e tristeza, experimenta uma gradual perda de contato com a realidade.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/oW8kvthOCj59TdxgMHR3JtORrGL.jpg"
+        },
+        {
+            "title": "10. O universo paralelo",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=ajpWhuQTv%2BtZx4ruDMpBcwaNhU40q%2BwVmoNGVuI3VeB3NPSn96m8A3TmtsrSZJfq&expiry=3s7hn04SXLxOftFxqx262Q%3D%3D&mac=b7e1a5e93f3fed889468ff9e8b8fa6a804176bc5ada2262609497d3f1ac505c3"
+            ],
+            "rating": 8.4,
+            "synopsis": "O Professor Farnsworth proíbe que a equipe da Planet Express olhe dentro de uma misteriosa caixa. Leela, no entanto, não consegue resistir à tentação e descobre que a caixa é na verdade um portão para um universo paralelo e com outra turma do Planet Express.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/hPpU9C0ESgmLe1ZYbVZ75t0HSVK.jpg"
+        },
+        {
+            "title": "11. Dinheiro não traz felicidade",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=ioHt4w4tBb4qurmRSWA%2BXZX6AibYdL%2FnOR3B2TAwr9ttYCsldeeWR10vXOElWeMp&expiry=3s7hn04SXLxOftFxqx262Q%3D%3D&mac=214c017612d2f2fc2552e58cd96520627c59366a2c7913d504beb3ee15cbad4e"
+            ],
+            "rating": 7.9,
+            "synopsis": "O presidente Richard Milhous Nixon, satisfeito com os resultados da vitória de Zapp Brannigan sobre as aranhas do planeta Tarantulan 6, distribui um bônus de 300 dólares a cada habitante da Terra. Os membros da Planet Express decidem gastar suas respectivas partes em dinheiro de modos diferentes. Mais tarde, durante um jantar comemorativo, Fry, com excesso de cafeína no sangue, salva todos de um grande incêndio; Dr. Zoidberg oferece um farto banquete e Bender é preso por roubar um valioso charuto.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/v8FERGzRijN53AyDhFs0j1hC7Qo.jpg"
+        },
+        {
+            "title": "12. A volta da paixão",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=S%2FUa%2Fhlg2NFMd5Zq4BU%2BuyHHgThuxu418%2Fd66vqTLVVdIh4Pe6uvpakEv163XOMO&expiry=3s7hn04SXLxOftFxqx262Q%3D%3D&mac=c1ea0ecb7d34889368250e28dab42d84f78cb1fdff350e9943a9ebdb04cfedaf"
+            ],
+            "rating": 7.3,
+            "synopsis": "Durante uma excursão, a equipe da Planet Express acampa na Floresta Nacional de Duraflame. À noite, Fry sai de sua barraca em busca de um suposto pé-grande, mas acaba sendo abduzido. Na manhã seguinte, ele percebe que teve o nariz roubado. A TV noticia que outros também passam pelo mesmo problema e que alienígenas caçam narizes humanos para usar como afrodisíaco. Leela, Bender e Dr. Zoidberg unen-se a Fry na busca por seu nariz, que encontram nas mãos de Lrrr, líder do planeta Omicron Persei 8.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/fL8bD6w5ybeuVQQKz2kVM39WXLC.jpg"
+        },
+        {
+            "title": "13. O grande amor de Bender",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=t8Gb8Rz%2Bha%2B0pCMV5XWqbntFG4justXaCsN7mvmkIKTVYZeUx7WdsfDYzuF3D7%2BU&expiry=3s7hn04SXLxOftFxqx262Q%3D%3D&mac=c16c8f03f9fcf06230cf24b7ef16cc009c45e0d8132f3e5497c2b3396b20239b"
+            ],
+            "rating": 7.5,
+            "synopsis": "Para competir na divisão de robôs femininos dos Jogos Olímpicos de 3004 (\"3004 Earth Olympian\"), Bender disfarça-se de \"Coilette de Robonia\". No entanto, ao saber que precisará ser examinado para validar suas vitórias, ele pede ao Professor Farnsworth uma operação de mudança de sexo. Quando Calculon apaixona-se perdidamente por \"Coilette de Robonia\", Bender finalmente conclui que precisa reverter a cirurgia antes que seja tarde demais.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/mOKWoFNNiOlZ9Symn5Ep6PQBNIr.jpg"
+        },
+        {
+            "title": "14. A transformação de Bender",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=6mzC3ue3fcCZdzpI9pJcAy8JYRpNCHbC7%2BUxSS%2FdUOYw6dq2N8mHReosLXbZaj84&expiry=3s7hn04SXLxOftFxqx262Q%3D%3D&mac=aa2e125cd5eb2d852e5390fbb4eb80d2c7fc07e4b81aa54ac3fa0843f59e4aed"
+            ],
+            "rating": 7.4,
+            "synopsis": "O Professor Farnsworth adquire um novo modelo de robô, o 1-X, exibido durante a feira de tecnologia Roboticon 3003. Em função de sua inferioridade técnica, Bender percebe que seu emprego na Planet Express está ameaçado e, seguindo uma sugestão do Professor, retorna à MomCorp para uma atualização. Porém, temendo perder sua personalidade, foge para uma ilha tropical, onde encontra outros robôs obsoletos avessos à tecnologia e ganha modificações realmente especiais.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/e7kag2TLftnwZeTcM5nXjb8mV5A.jpg"
+        },
+        {
+            "title": "15. Bender na TV",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=sgf3x7uZaqsn1D9Zw4a6SE4SqGVELOPu8TEelTwVzuWrG6ROmHLXySvkaI8qVWf%2F&expiry=3s7hn04SXLxOftFxqx262Q%3D%3D&mac=56b3ec0c0cad7f4b7b2e1b2bd3e649b6a515758f5a69cad4b1d2b980e8266b1a"
+            ],
+            "rating": 7.5,
+            "synopsis": "A produção da novela \"Todos os Meus Circuitos\" (\"All My Circuits\") promove um concurso para substituir o robô no papel de filho de Calculon. Bender, sabotando o teste, acaba sendo escolhido e em pouco tempo, seu comportamento reprovável em cena se torna uma influência negativa para as crianças. Quando telespectadores revoltados formam um grupo de protesto intitulado \"Pais Contra a Grosseria na TV\" (\"Fathers Against Rude Television\" ou \"F.A.R.T.\"), Bender conclui que seu lugar não é na televisão.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/aPRO6qy4wR6YF2njJ5YihvSdwxp.jpg"
+        },
+        {
+            "title": "16. As mãos demoníacas",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=6P31yqLJjx4mnlsRt1ER0z94ri0SAE2yfS6w5w89mpE9I2%2F6bs13sxpHsyiSDgiR&expiry=3s7hn04SXLxOftFxqx262Q%3D%3D&mac=fd436ea9a27a9874da422f1eaf06fc3eb1bf9eea915ad490d59b06e456fa531a"
+            ],
+            "rating": 8.3,
+            "synopsis": "Fry, em segredo, faz aulas de holofone na esperança de impressionar Leela. No entanto, suas habilidades não são suficientes e a única saída que vislumbra, seguindo uma sugestão de Bender, é trocar de mãos com o Demônio Robô. Graças ao pacto, Fry torna-se um músico de grande sucesso e decide montar o espetáculo \"Leela: Órfã das Estrelas\". O Demônio Robô aparece na estréia da peça e, em uma sucessão de atos ao estilo de uma autêntica ópera, acaba pedindo a mão de Leela como pagamento. Fry se recusa a aceitar e desfaz a troca, voltando a tocar mal o holofone com suas próprias mãos. Insatisfeito, o público abandona o teatro, mas Leela, emocionada, pede para que Fry conclua a peça.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/vpecUkQNTnXTkBT3RvuvLnDE1PA.jpg"
         }
     ]
 }

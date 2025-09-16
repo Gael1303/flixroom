@@ -1,52 +1,84 @@
 {
     "episodios": [
         {
-            "title": "3x01. O peso está nos seus ombros",
+            "title": "01. O peso está nos seus ombros",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e601644979fc6bf9506d96ce77bff0bdd1f03454"
-            ]
+                "https://1.animezeydl.workers.dev/download.aspx?file=AYKJcsO3ZaFnYGPBAXSw%2FCoRDV1gR3W6YKCg39lMW7u%2BIrXIQPwqU%2Bssgz8mzPyM&expiry=UfU1TAgUsD8yTomx9Nu6NQ%3D%3D&mac=633e6c9128729012f1b66c7fd3e1942db621431635e058d61ffad61128d91f17"
+            ],
+            "rating": 7.1,
+            "synopsis": "Baba adota a vida nas montanhas enquanto o ódio pelos que enxergam cresce em Pennsa. Um cientista trivantiano desenvolve uma nova arma aterrorizante.",
+            "runtime": 58,
+            "poster": "https://image.tmdb.org/t/p/original/ch5fCayQtmswDBgA3OLhZVGx4QL.jpg"
         },
         {
-            "title": "3x02. Cuidado com os lobos",
+            "title": "02. Cuidado com os lobos",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:960af41655e316f208d9bcbb622074ee286c364f"
-            ]
+                "https://1.animezeydl.workers.dev/download.aspx?file=lc6z4z4d9WZTms4ntn31hkGQVOZcZRGEJKT%2BAg5vmUrzyLQ7Y%2FH3%2BjXHpAruKaff&expiry=UfU1TAgUsD8yTomx9Nu6NQ%3D%3D&mac=ba3d9057f4d20b935e2cbb0a278be6bf4b873a0b6f9784de5b007bdcfb24fcfa"
+            ],
+            "rating": 7.1,
+            "synopsis": "Depois de uma perda devastadora, Baba vai a Pennsa para avisar sua família. Maghra debate o destino dos caçadores de bruxas. Wren encena uma fuga ousada.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/cCbewuCwPln4QMsMAc5NImdVIC3.jpg"
         },
         {
-            "title": "3x03. Esta terra é sua terra",
+            "title": "03. Esta terra é sua terra",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1da3da2ff9adaa26bf7534672e7064d7c6e67fb6"
-            ]
+                "https://1.animezeydl.workers.dev/download.aspx?file=9ZFn1MCer%2FwOeitM5LQUXELFXjgZa%2F0lAOtkxCYqDnP0P796shGnbjI7%2FL2D%2BJ%2Fy&expiry=UfU1TAgUsD8yTomx9Nu6NQ%3D%3D&mac=c8d3e7692e8f5010f2d40086d45445907dd65aa580b6cf2f587f246dbc127812"
+            ],
+            "rating": 7.0,
+            "synopsis": "Wren chega a Pennsa e compartilha informações sobre os planos de Tormada. Tamacti Jun tenta mais uma vez reprimir a insurgência dos Caçadores de Bruxas.",
+            "runtime": 54,
+            "poster": "https://image.tmdb.org/t/p/original/qQejB64G459Kg7ak4DARi0CR7Xw.jpg"
         },
         {
-            "title": "3x04. A tempestade",
+            "title": "04. A tempestade",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78affa87da667a4fa3c8ec590f701ea24149453e"
-            ]
+                "https://1.animezeydl.workers.dev/download.aspx?file=nmwhstHQbXRdx8S5XFc1ZZ3gqbEt45jSMAfyNyrz0n4AK9xTnF6xOE4F9pJ1A5TI&expiry=UfU1TAgUsD8yTomx9Nu6NQ%3D%3D&mac=9c8999fe069cd1ed54d6a7f46c3c82612124f0287a10714a104e77042482190d"
+            ],
+            "rating": 6.9,
+            "synopsis": "Tormada apresenta seu novo armamento ao Triângulo enquanto Baba lidera um grupo para a Casa do Esclarecimento para destruir o arsenal de Tormada.",
+            "runtime": 52,
+            "poster": "https://image.tmdb.org/t/p/original/bh9TMojjAxg94SqVxNnY4KmXhiB.jpg"
         },
         {
-            "title": "3x05. A casa do esclarecimento",
+            "title": "05. A casa do esclarecimento",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fb116f4ed9b409e42f5d7585dfcbc47db9785f5"
-            ]
+                "https://1.animezeydl.workers.dev/download.aspx?file=ufZl8thb9vGXQNS8i9%2FFxlRAkSPEXEc%2Fgs5%2FBeQxTkBXbag%2FwNnQfc6FIqzZVCg3&expiry=UfU1TAgUsD8yTomx9Nu6NQ%3D%3D&mac=b3a5e9e854f2c0b7fdb3ecd7649d441734a811b5d19488f36829baae3955155c"
+            ],
+            "rating": 7.3,
+            "synopsis": "Um impasse na Casa do Esclarecimento dá lugar a um cerco sangrento entre o grupo de Baba e os soldados de Tormada.",
+            "runtime": 42,
+            "poster": "https://image.tmdb.org/t/p/original/7P3QDiKud1YkNFncIZmwCJCiXrs.jpg"
         },
         {
-            "title": "3x06. As planícies",
+            "title": "06. As planícies",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d78cb7e920d3c40823872fdae3f5e39f84322561"
-            ]
+                "https://1.animezeydl.workers.dev/download.aspx?file=OK4yQzeR4LQYNwcYxto0uEd2pTu1%2FMWgcrfT%2Fbn7QAl%2BzlO%2F1n0zF4m2YjWxHP9Z&expiry=UfU1TAgUsD8yTomx9Nu6NQ%3D%3D&mac=9fcbdf386c95d245ae7935ae90fe12cda91f9ce4082c7323fb74f431d2204d16"
+            ],
+            "rating": 7.2,
+            "synopsis": "Baba e seu grupo pegam um atalho perigoso pelas planícies para chegar a Pennsa. Maghra e Tamacti Jun fazem uma descoberta horrível.",
+            "runtime": 48,
+            "poster": "https://image.tmdb.org/t/p/original/bS88sDCeRRwK3aDdGaTqzp5et94.jpg"
         },
         {
-            "title": "3x07. Deus do Trovão",
+            "title": "07. Deus do Trovão",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b8ded8fce8fd6a3a4840dec3813f9f9466b67cc"
-            ]
+                "https://1.animezeydl.workers.dev/download.aspx?file=WiZsgC5byXIYHvbIMDPESVDApP3gIUxDZEoO5Y2TuEFvXUSwZQVMX%2FPeXAlw0KzB&expiry=UfU1TAgUsD8yTomx9Nu6NQ%3D%3D&mac=9cee8206f372e8f6f77b35a1a83b2289f4ef2ce39c2fa5691606d076af84458b"
+            ],
+            "rating": 7.3,
+            "synopsis": "Tormada e Sibeth lançam um violento ataque a Pennsa que coloca Maghra e os habitantes da cidade em grave perigo.",
+            "runtime": 55,
+            "poster": "https://image.tmdb.org/t/p/original/i2qfTBHwvkF5IiPIx6yejvrIbyg.jpg"
         },
         {
-            "title": "3x08. Eu vejo você",
+            "title": "08. Eu vejo você",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d1d22c0044168be2391212daab8a77f6d4acdf8"
-            ]
+                "https://1.animezeydl.workers.dev/download.aspx?file=Kw%2BUhjTNJSbs0dqFJXUeRxJwf2TyoiOwn4fJoRmAcVDnBH22DUvd7BuJzVTtLlwx&expiry=%2FmRAfCBwJ%2F8aBnl%2F%2BskAsA%3D%3D&mac=7c5df80e60c03ce0fcb57265e5f35044c2c4d52db4cabfeeade20ed7d8383919"
+            ],
+            "rating": 7.7,
+            "synopsis": "Baba e Ranger se infiltram no acampamento de Sibeth, determinados a deter ela e Tormada de uma vez por todas.",
+            "runtime": 60,
+            "poster": "https://image.tmdb.org/t/p/original/u4swkZb3iwKxwaEYoZGFjl3iHhB.jpg"
         }
     ]
 }

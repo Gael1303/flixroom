@@ -1,10 +1,204 @@
 {
     "episodios": [
         {
-            "title": "Futurama: 2ª Temporada",
+            "title": "01. O Titanic do espaço",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b0970231aa4a8f5c638dcdbefe4b99c8ed75805"
-            ]
+                "https://1.animezeydl.workers.dev/download.aspx?file=X%2BTPYwTZtDKlJboRocpvBeRYmBtfHMx83Vud88tDzo4Zq8RevVTdzhwojDofgwnE&expiry=Cjp56Vlz8%2FCtYV5tqnZg5g%3D%3D&mac=3a50a067fd19076430a29e5365f7839496941c2cdabd310c2a414d4d27703794"
+            ],
+            "rating": 7.4,
+            "synopsis": "Romance e perigo acompanham a tripulação da Planet Express a bordo da nave espacial Titanic. E enquanto Bender perde os parafusos pela rica Condessa De La Roca, Fry precisa fingir ser ao mesmo tempo o namorado de Leela e Amy.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/5AFwMenzesdH2fM2Nv7kNspcxn2.jpg"
+        },
+        {
+            "title": "02. O macaco gênio",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=ZLFL8czBsgQGPxnPpwcPLvSxgrhZa5zuBBKeOvGSK%2F%2FKAkevDpT8uVlbB3Jnij10&expiry=Cjp56Vlz8%2FCtYV5tqnZg5g%3D%3D&mac=0e0195e633ca684aac536a737147a200454b2e11f79da89ac586d244e1d8c891"
+            ],
+            "rating": 7.3,
+            "synopsis": "Fry vai finalmente para a faculdade para que possa desistir dela com sucesso — porém ele não esperava a concorrência com o macaco de estimação inteligente do Professor. Nas redondezas, Bender ensina a sua antiga fraternidade de robôs como ser legal.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/uqIVJR1fmkiwpcIsIcV0vxiyY4z.jpg"
+        },
+        {
+            "title": "03. A magia da televisão",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=ZxtBgXkMMmL3BV53hOO07lP4iSO0lQuFEuSbqUlp9rPVFWlM81HxtpXL2sXvgneR&expiry=Cjp56Vlz8%2FCtYV5tqnZg5g%3D%3D&mac=a466ae4f937fed304fac739d2771f9808f4014e0d371ef7b6e694b7f710e302b"
+            ],
+            "rating": 7.5,
+            "synopsis": "Os omicronianos invadem a Terra amaeçando elevar a temperatura do planeta a um milhão de graus se ela não transmitir o último episódio perdido do seriado A Advogada Solteira. Agora cabe à tripulação do Professor Farnsworth reencená-lo para salvar a civilização terrícola.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/dAID4tEj8PrDd8273EAJT4k96RN.jpg"
+        },
+        {
+            "title": "04. O refrigerante secreto",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=F%2BR5XXl3K%2FgiFAQSvsyir2Kai9aBpOmzdkJVg2dxKVRO5GF%2FLXk2vEkFwoF%2BMras&expiry=Cjp56Vlz8%2FCtYV5tqnZg5g%3D%3D&mac=09d7bea3e399757f2a561ca11ef404668a751c75ecf74aa3e40f886fc243b322"
+            ],
+            "rating": 7.6,
+            "synopsis": "Em uma turnê pela fábrica de Slurm que Fry ganhou em um concurso, ele e os seus amigos se desviam da rota do passeio e fazem uma terrível descoberta sobre a origem do ingrediente secreto que faz da bebida tão viciante.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/7tpiJeg2n7WMhHSsj4y9Cssd2eM.jpg"
+        },
+        {
+            "title": "05. Os mutantes",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=HgarIdsxVQSOkFJ2DPtObT2gHpVjXt0IEJDndmMSLp0RBRSfnJ6oRrfBXqWwPX1J&expiry=Cjp56Vlz8%2FCtYV5tqnZg5g%3D%3D&mac=4e798b1812107812790936f0283c4f2434f79c6b146a3090b46b6ffeab4b7b10"
+            ],
+            "rating": 7.2,
+            "synopsis": "O Professor Farnsworth instala um chip de empatia em Bender depois dele ter jogado impiedosamente Nibbler descarga abaixo. Com as suas novas emoções, o robô arrependido se aventura nos esgotos infestados de mutantes para resgatar o amado bichinho de Leela.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/bJd4ASRYvSJcspQzfsyFBxZ1TT2.jpg"
+        },
+        {
+            "title": "06. O crime de Zapp Brannigan",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=1Zb9YvqHLjfWYp4gJkRLzhztZhmANRgBum7WNezKTAEnZ1bMXMhWUJRJNDp%2FE22%2F&expiry=Cjp56Vlz8%2FCtYV5tqnZg5g%3D%3D&mac=91e691e2856c2dc09212fd87b6ee2921bbb70acdfb85c61f9ef67410f93013f3"
+            ],
+            "rating": 7.2,
+            "synopsis": "Tendo destruído o novo quartel general da D.O.O.P., Zapp Brannigan e Kif se vêem julgados em corte marcial e sofrem baixa desonrosa. Eles arranjam emprego na Planet Express, onde Kif aprende o que é ser respeitado e Zapp arma um motim contra Leela.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/jSQXzx5mCjfAwSEPP3zOpvUfRM0.jpg"
+        },
+        {
+            "title": "07. A eleição",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=e1afFSyKN%2Bkjl03FJik7vetTXqZmDdqDYHkRWd8%2Bcw38JWVQPXZQdvbv3Uz0pvrI&expiry=Cjp56Vlz8%2FCtYV5tqnZg5g%3D%3D&mac=05d42fba61e731e8934103e82474f6a77748efe870e0c35b28ea9a7ecdad7733"
+            ],
+            "rating": 7.4,
+            "synopsis": "Quando o preço do titânio vai às alturas, Bender empenha todo o seu corpo, rico no metal, e passa a viver a boa vida. Mas na hora em que a cabeça preservada de Richard Nixon resolve concorrer à presidência da Terra o usando como chamariz, ele decide recuperá-lo.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/2vFZnpuHqTwBunjnmSzTvRfC64L.jpg"
+        },
+        {
+            "title": "08. Natal entre amigos",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=suhGp2kacwPal298Uk6bqmhQLVzf8Z0%2FM%2BM%2B0Mag%2BH%2FP1UKrcfXVvkn5NVaAgLKt&expiry=Cjp56Vlz8%2FCtYV5tqnZg5g%3D%3D&mac=2288439c3fc10f5744d56a903105ac1117ac482306d83acb3cc2223b7f062f09"
+            ],
+            "rating": 7.5,
+            "synopsis": "Querendo se desculpar por uma indelicadeza, Fry sai à procura do presente de Nétal perfeito para Leela. E tudo isso com Papai Noel à solta.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/28t4x2WDEtG1uAx7kYvJQgavH9r.jpg"
+        },
+        {
+            "title": "09. O acasalamento",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=hRqywZnODwEJga5KxBiXcpCIb2Yff%2FE89e8u01ourkBTf6ZwOKS3Rzq37XQ3imzd&expiry=Cjp56Vlz8%2FCtYV5tqnZg5g%3D%3D&mac=20ca814b123357bde0448a1dba00cca8442342e72cb375286da293ad9d8cd55b"
+            ],
+            "rating": 7.1,
+            "synopsis": "Na época de reprodução decapodiana, Fry começa a dar aulas de conquista romântica ao Dr. Zoidberg. As coisas saem do controle à medida que o par desejado de Zoidberg cai de amores pelo garoto congelado, que é desafiado pelo doutor em uma batalha até a morte.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/pL7yhLzFCnVcVWshy93V3iZ72ew.jpg"
+        },
+        {
+            "title": "10. Quero meu corpo de volta",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=aZb4uaY0CZmCbGbaxqBLURYKex%2B9nUtyg3kwRBxwJH3U2idSN0GDAbcdX3tJFtfS&expiry=Cjp56Vlz8%2FCtYV5tqnZg5g%3D%3D&mac=01a40f4874c365ad1a36afafada8a71552152ee3d3f55679a74d72c0cb56cd1d"
+            ],
+            "rating": 7.3,
+            "synopsis": "A breve relação de Fry com Amy está se prolongando além da conta até que um acidente de carro quase fatal acaba fazendo com que sua cabeça seja implantada no ombro dela. Enquanto isso, Bender fatura no Dia dos Namorados com uma agência de encontros.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/6r5TT8CmCf9OLRstrIKmKMl33g.jpg"
+        },
+        {
+            "title": "11. De volta ao século XX",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=sfrdultICH2OTqg5tXXMN3710tSqfnccP3mkFTopz5tPG4nsdA71UKN2THkI3Kpl&expiry=Cjp56Vlz8%2FCtYV5tqnZg5g%3D%3D&mac=9e5bfb72aac27aa83009cf606cf67bd06f47a0a2e080471893e0b4a12caeafaf"
+            ],
+            "rating": 7.3,
+            "synopsis": "Fry começa a suspeitar que o novo amigo de Bender, uma unidade de entortar idêntica com um cavanhaque chamada Flexo, é mau. E o roubo de um raro átomo de jumbônio em um concurso de beleza e a fuga do robô em plena viagem até lá só piora a situação.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/7sw38QwUu8BlIJ45dNKjZv7HfXr.jpg"
+        },
+        {
+            "title": "12. O maior não é o melhor",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=S3NjgOcVjnzfP5ePGzj96yjrJGR72VAbtD0FDT2HHPZ4QOnEXbOQtZHOalAf3hWv&expiry=Cjp56Vlz8%2FCtYV5tqnZg5g%3D%3D&mac=c5987f13fda49e9096ff1070e52028502cbb16cceaa713f9866cdadadb040f7f"
+            ],
+            "rating": 7.1,
+            "synopsis": "Bender é a mais nova sensação da Liga dos Robôs Lutadores, mas toda a sua glória é ofuscada depois dele ser instruído para perder a próxima luta. Sua treinadora Leela, determinada a se vingar do mestre de artes marciais do orfanato, o treina para levá-lo rumo à vitória.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/nFCPQtRKlxOb1mNGwQLr4yFjPHD.jpg"
+        },
+        {
+            "title": "13. De onde eu vim?",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=y5vFVeAXb1VRxK0aFDv6G3lcJXGRAoDL3WC3EgX89%2BUrBtoZqZKjBpfJiQY1MWQ8&expiry=Cjp56Vlz8%2FCtYV5tqnZg5g%3D%3D&mac=5c3f4c05fdc40b849e9f6aee42fc901bb21fd73744b5f7a0c83839aa12874f72"
+            ],
+            "rating": 7.4,
+            "synopsis": "Leela conhece Alkazar, o último sobrevivente da espécie dela vivo no Universo, e vai morar com ele no seu planeta natal, onde a trata que nem escrava. Percebendo isso, Fry desconfia que existe algo de muito errado por ali.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/g7FkrTeMM7cfN3mhlVAC9fwW1lI.jpg"
+        },
+        {
+            "title": "14. Bender em apuros",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=j1wtHp%2FIFuTZOO6O4RumKfC1VEj611MYoVedKeakcflFLpdUIhSqwkvxv8hWwQcK&expiry=Cjp56Vlz8%2FCtYV5tqnZg5g%3D%3D&mac=6d7f50414decf35f7682071a519db63bfb4c93429e57d321fa2f8a79bd821254"
+            ],
+            "rating": 7.3,
+            "synopsis": "Hermes sai de férias e, em seu lugar, entra a burocrata nível 19 Morgan Proctor, que logo tem um romance tórrido com Fry. Diante da ameaça de Bender contar a todos sobre o caso dos dois, ela remove a memória do robô e a envia para a Central de Burocracia.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/j3sPPi88v3VrmwkDmy7LpiILYne.jpg"
+        },
+        {
+            "title": "15. A aposentadoria forçada",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=Qp2zums2BBAs6i2dp1TeIlfVkusPro5oanl0GIgZjiR5Q9DsDck8UBx09vgqEpAu&expiry=Cjp56Vlz8%2FCtYV5tqnZg5g%3D%3D&mac=6df8b4da10b32f4cd7fbecaa5cb998499c2d2e28b15e4b4da5157d970c7b03ed"
+            ],
+            "rating": 7.1,
+            "synopsis": "O Professor Farnsworth revela o seu clone, Cubert, para quem planeja deixar toda a sua fortuna e invenções no momento em que morrer. Não querendo fazer parte do estilo de vida do pai, o jovem o desaponta, fazendo com que ele se retire mais cedo para a Estrela da Morte.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/4vVgMAhfKJN8egL4FeJ8muC2VA9.jpg"
+        },
+        {
+            "title": "16. Visita à cidade perdida",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=%2BgZ1Ip4ZYyAszbuuWU%2FOjF12FS%2BxjcmMPoQ%2FUVud6qYxgNi0nLYqDw3PTMC7B2sc&expiry=Cjp56Vlz8%2FCtYV5tqnZg5g%3D%3D&mac=623aa686fc64db206625527abfc0e75c56a5a04332316f6e02eaa5958f811c40"
+            ],
+            "rating": 7.3,
+            "synopsis": "Uma tranqüila pescaria acaba da pior maneira quando toda a tripulação da Planet Express é arrastada para o centro do Oceano Atlântico, lugar em que Fry se apaixona pela sereia Umbriel e a trupe descobre a cidade perdida de Atlanta, Georgia.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/nGq0PcXu9WmFX6o7XSd8cncGVxK.jpg"
+        },
+        {
+            "title": "17. Bender na máfia",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=OsqdQSNytmJndFoEU4gkDYUns0SpXAIpXq5QcNUKDoMdMZN1Tg76uJA9pMYJ2Tj4&expiry=Cjp56Vlz8%2FCtYV5tqnZg5g%3D%3D&mac=c2bbbb383988583d072525a8f94ee384f1bd4e0b822bd6134ea4a824049f95d7"
+            ],
+            "rating": 7.4,
+            "synopsis": "Bender arruma um novo trabalho na máfia dos robôs e sua lealdade é posta à prova em um roubo à nave da Planet Express.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/87o3q5XhwOmTFTRoMpbvXfSZQx.jpg"
+        },
+        {
+            "title": "18. Espécime em extinção",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=NV9SoOatYvtaNQqu8TwK1mFSX7M3i5wtXlRs6%2BmBE43fOelTEj4h9yzXyoY3oety&expiry=Cjp56Vlz8%2FCtYV5tqnZg5g%3D%3D&mac=f3b7a9646924554845842c2bbda2d5095f5eb6c989ed6fed5af153656b9a082c"
+            ],
+            "rating": 7.8,
+            "synopsis": "Fry, Bender e Leela descobrem um petisco irresistível em um planeta distante e o trazem para ser vendido na cadeia de restaurantes do Fishy Joe. Sucesso imediato, ainda naquela semana descobrem se tratarem de bebês omicronianos, cujos pais exigem vingança.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/6OeEtr15wox5baaobPbPMPmpRQL.jpg"
+        },
+        {
+            "title": "19. O grande amor de Hubert",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=OA4L9hLvvIKeHwTPiuxR4rSRUyJ2o00DIIt6Wid2QrY0LxqAeAESgRrs2XPyNVdj&expiry=Cjp56Vlz8%2FCtYV5tqnZg5g%3D%3D&mac=f8b939f2314f65f36234c6f2e2c6a1119d4825bc6c797e29d068b2d1b8f92f79"
+            ],
+            "rating": 7.3,
+            "synopsis": "A inescrupulosa dona da Momcorp, Mamãe, reprograma todos os robôs da Terra para se rebelarem contra a humanidade e reduzi-la a uma nova Idade da Pedra. A única esperança da raça humana agora é a paixão antiga dela pelo Professor Farnsworth.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/wccs66YePRNfXRNgriAWq7tyj01.jpg"
+        },
+        {
+            "title": "20. A máquina das probalidades",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=vH3ErQuH8zhc2NOWzo3QyuW%2BFp378h%2Fs0v4QnxKV%2BSCEi35F42xu5UdG6h8etlMU&expiry=Cjp56Vlz8%2FCtYV5tqnZg5g%3D%3D&mac=cbe0da547dffcd91fe77f700cbd53445df8236dc714722cfbb6a5486cdcf79a8"
+            ],
+            "rating": 8.0,
+            "synopsis": "A Máquina \"E Se?\" do Professor simula como seriam as realidades de Bender com 150 metros de altura, de Leela mais impulsiva e de Fry se nunca tivesse vindo para o futuro.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/fXY3EYjloC9qCN75LbpcNXyg6sq.jpg"
         }
     ]
 }

@@ -1,0 +1,104 @@
+{
+    "episodios": [
+        {
+            "title": "01. Era uma Vez no Oeste",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:403d32e2cfa741dad014179225f7193bc19716a8"
+            ],
+            "rating": 9.2,
+            "synopsis": "Charles, Oliver e Mabel são levados para Los Angeles, onde um lendário estúdio de cinema pretende adaptar seu podcast. No entanto, o brilho de Hollywood é ofuscado por uma pista chocante sobre Sazz Pataki, dublê e amiga de Charles.",
+            "runtime": 39,
+            "poster": "https://image.tmdb.org/t/p/original/d2GVzgYcxBEklD6FKysPn86wA9S.jpg"
+        },
+        {
+            "title": "02. Portais do Céu",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a2b5986f9fe0a9febded373c065bd4bb9e260e4"
+            ],
+            "rating": 9.6,
+            "synopsis": "Mabel e Oliver começam a investigar a Torre Oeste do Arconia e ficam presos em um jogo sinistro. Enquanto isso, Charles é visitado por dois indivíduos de seu passado complexo.",
+            "runtime": 37,
+            "poster": "https://image.tmdb.org/t/p/original/wGiB2KxjoQNHBX694D5HmN96OCB.jpg"
+        },
+        {
+            "title": "03. Um Caminho para Dois",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dedc708e9111fd32b25c06005348cc9d1a7aa979"
+            ],
+            "rating": 9.2,
+            "synopsis": "A contragosto, Charles, Oliver e Mabel formam duplas com novos investigadores... os atores Eugene Levy, Zach Galifianakis e Eva Longoria.",
+            "runtime": 41,
+            "poster": "https://image.tmdb.org/t/p/original/hFFm3oLHDCCKiQ0KF5IDr6tqPbj.jpg"
+        },
+        {
+            "title": "04. O Substituto",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fcea64a561f7f63d72bb1427cc2b2372a97a45f5"
+            ],
+            "rating": 9.2,
+            "synopsis": "Charles, Oliver e Mabel mergulham no universo peculiar dos dublês. Eles encontram um suspeito com um rosto estranhamente familiar.",
+            "runtime": 36,
+            "poster": "https://image.tmdb.org/t/p/original/d3aCkmmdUBQCg4W6P3TfgG9yFdE.jpg"
+        },
+        {
+            "title": "05. Adaptação",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8f533ecd4e48b3b46e0f5ceed64035c32736868"
+            ],
+            "rating": 9.2,
+            "synopsis": "O trio enfrenta um grupo de indivíduos que enganam, manipulam e ameaçam com muita naturalidade: um elenco e uma equipe de filmagem de Hollywood.",
+            "runtime": 34,
+            "poster": "https://image.tmdb.org/t/p/original/msQQDFYYNUpkTFuFb5zwNDUqwpM.jpg"
+        },
+        {
+            "title": "06. Blow-Up - Depois Daquele Beijo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95c2659feeb6cc7892844c4b843b7f14a161ddd7"
+            ],
+            "rating": 9.1,
+            "synopsis": "Um documentário sobre os Brothers Sisters é produzido.",
+            "runtime": 34,
+            "poster": "https://image.tmdb.org/t/p/original/x2me4ypEefYLCpXwrMp6XMZ72PS.jpg"
+        },
+        {
+            "title": "07. O Vale das Bonecas",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7a94d79e20badfa502a1da8abdbed8a57da025e"
+            ],
+            "rating": 9.3,
+            "synopsis": "Aterrorizados por uma ameaça vinda de dentro do Arconia, o trio foge da cidade. Um membro da família de Charles oferece refúgio, mas a casa supostamente segura prova ser tudo menos isso.",
+            "runtime": 40,
+            "poster": "https://image.tmdb.org/t/p/original/vIuDNy5hIBcYS7w4Jgqstcgxcmr.jpg"
+        },
+        {
+            "title": "08. Um Barco e Nove Destinos",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ded5267693f66e4b9b4fda117032f33f33a10cf"
+            ],
+            "rating": 9.3,
+            "synopsis": "Charles, Oliver e Mabel unem forças com os atores do filme em um confronto épico contra os Westies. Vocês não aguentam a verdade.",
+            "runtime": 37,
+            "poster": "https://image.tmdb.org/t/p/original/goJk9n8MCQtnFiUQm5EFeNXhyn8.jpg"
+        },
+        {
+            "title": "09. Fugindo do Planeta Klongo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f196ac87de8240c23153355b0fee64b9b8b2ad98"
+            ],
+            "rating": 9.4,
+            "synopsis": "Charles, Oliver e Mabel precisam se infiltrar em um set de filmagem para achar uma pista crucial que ajudará a descobrir o verdadeiro \"pano de fundo\" do motivo por trás do assassinato de Sazz.",
+            "runtime": 35,
+            "poster": "https://image.tmdb.org/t/p/original/hbAReQru1dtcZv0Lam3JoA1NwVY.jpg"
+        },
+        {
+            "title": "10. O Casamento do Meu Melhor Amigo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7043ad8c57946f23bf227f4b6a01aec7eb9bbb42"
+            ],
+            "rating": 9.4,
+            "synopsis": "As respostas da nossa temporada são reveladas, mas antes o trio enfrenta um perigo mortal num casamento no Arconia.",
+            "runtime": 37,
+            "poster": "https://image.tmdb.org/t/p/original/uOjLiiBrRtk8YTxsex1CCI4JQYE.jpg"
+        }
+    ]
+}

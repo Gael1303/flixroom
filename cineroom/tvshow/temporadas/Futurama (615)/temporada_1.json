@@ -1,10 +1,94 @@
 {
     "episodios": [
         {
-            "title": "Futurama: 1ª Temporada",
+            "title": "01. Fry no Ano 3000",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1882a38f141d79174eb043db501f67baf1151e40"
-            ]
+                "https://1.animezeydl.workers.dev/download.aspx?file=qItOUHZIqVc1kMj1nacrgRCtvRlz9EwM4uoUuu2yV5gGOLnyDYXS7r2PukPU9KNQ&expiry=09m%2BSjUdQW4%2B7JgBcb%2B%2FXw%3D%3D&mac=fdbf74a17741d6b1dc32092ba3f9c3c08b70a93c344b621ded838bbdb55cfee6"
+            ],
+            "rating": 8.0,
+            "synopsis": "Um entregador de pizza chamado Philip J. Fry é criogenicamente congelado sem prévio aviso em 31 de dezembro de 1999 e acorda mil anos no futuro, onde conhece uma conselheira criogênica ciclope chamada Leela, um robô entortador chamado Bender e o seu sobrinho de várias gerações, o Professor Farnsworth.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/cmMqr0jEjKn5sdeMcqhSshueEPR.jpg"
+        },
+        {
+            "title": "02. Uma viagem a Lua",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=9QuPpsIKhBP%2BGuQfHmMGz%2BpP3DVxRoA3dHnS%2BdEB6FuQloFAfRVumQbb8%2FJzGHGr&expiry=09m%2BSjUdQW4%2B7JgBcb%2B%2FXw%3D%3D&mac=a07d5fb367dd12388d22d68cbe0fda0d6e6b3d8e406b1ef3e0c5e660e91eca29"
+            ],
+            "rating": 7.5,
+            "synopsis": "Depois de ter entregue uma encomenda em um parque temático na Lua, Fry mostra a Leela a beleza do corpo celeste enquanto Bender e Amy tentam recuperar a chave da nave.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/eaTsjWXFpySli5ZUgHG1vM3uD1J.jpg"
+        },
+        {
+            "title": "03. Meu amigo robô",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=COTOlWN713cIFzhox5Se%2FYJkadyCiUK6czvCu7wkQXIjmiY%2Fe7MB80tsuK0SfgPI&expiry=09m%2BSjUdQW4%2B7JgBcb%2B%2FXw%3D%3D&mac=a26c3545d363625b3a2718d19ec516606cfcd91fd428983e9c56705e55b98c7d"
+            ],
+            "rating": 7.8,
+            "synopsis": "Fry não pode mais morar no prédio da Planet Express e sai a procura de um apartamento. Mas quando a antena de Bender começa a causar interferência na televisão de todo o condomínio, o garoto tem que escolher entre seu melhor amigo e a sua nova casa.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/zkGFQZejCzqfXzbPdRTgsvSh6p8.jpg"
+        },
+        {
+            "title": "04. A procura de um amor",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=xnRuMTwT%2FzX6dX5NqRNhj7EWodPKlCy4VDWID9OXBQh6EvQH91IWq1gLWbjP9v%2FF&expiry=09m%2BSjUdQW4%2B7JgBcb%2B%2FXw%3D%3D&mac=b375af3451b0885599d2d5e1f78beb314f65368208ec086d92fd7b563f9ab1c1"
+            ],
+            "rating": 7.6,
+            "synopsis": "Leela conhece o capitão Zapp Brannigan em uma missão para resgatar os animais do planeta Vergon 6, esburacado à beira da explosão. Acusados de interferir, ele manda prender Bender e Fry e faz dela a sua primeira conquista entre quatro paredes.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/rCue74nS7rdAwePEvOI2KRbigh7.jpg"
+        },
+        {
+            "title": "05. Humanos aqui não entram",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=Ppi8bwcJx7UBOUUovAMMTzqahhKOCk9uM2yUCqHPJ5Fzi9VpNVsihSRpKvq12mNa&expiry=09m%2BSjUdQW4%2B7JgBcb%2B%2FXw%3D%3D&mac=969f90bbe0ef15c0ff34841bc6707c8d9bf335d8e6c13244fd6936ae9d7bd9ff"
+            ],
+            "rating": 7.4,
+            "synopsis": "Bender faz uma entrega em um planeta habitado exclusivamente por robôs odiadores de humanos e se torna um ídolo deles.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/jJTSRsiZUZivsJWxgR8Q1HnryQF.jpg"
+        },
+        {
+            "title": "06. A minha fortuna são os meus amigos",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=Zccn4OD7zigJc0w4D6J4kAK%2FZPAjDkxzmoI0xmgHUmmNU6N3DnEshnQpX5BJkA6G&expiry=09m%2BSjUdQW4%2B7JgBcb%2B%2FXw%3D%3D&mac=ed1f5615d69051f7e1962f33ea8e506a6a43fae254def9f72e34ae968421e451"
+            ],
+            "rating": 7.5,
+            "synopsis": "Quando Fry descobre que ele é um bilionário graças a um depósito de 93 centavos na sua conta de banco em 1950, ele usa todo o seu dinheiro para comprar as relíquias da sua época — incluindo uma lata de anchovas cuja dona de uma companhia de óleo para robôs quer pôr as mãos.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/SKGp9RnGMGFQQ1bzguy4kj6YmE.jpg"
+        },
+        {
+            "title": "07. Imperador por um dia",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=De4JcjHR0Djoz42othCnfH33mCiTfut2iPm6T48QUXJ1gqcQOAyVv%2F38FMwprtKH&expiry=09m%2BSjUdQW4%2B7JgBcb%2B%2FXw%3D%3D&mac=f4c4127802667ea18bd1c1838876430781f605191dd32061c9b1e09d5d169b67"
+            ],
+            "rating": 7.4,
+            "synopsis": "Fry se torna o imperador de um planeta de seres à base de água depois de ter bebido sem querer o seu líder oficial. Mais tarde Leela descobre porque os imperadores de lá não mandam por muito tempo.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/q7iq39dlq8A8cpWIO4aV6vpmgfi.jpg"
+        },
+        {
+            "title": "08. O mau do século XX",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=woM8b2G3EZNxR%2BbPfqhar5cGe7iy60INYmknRDvxP1zGzmKKzYdIHaMWKp0PcQ8z&expiry=09m%2BSjUdQW4%2B7JgBcb%2B%2FXw%3D%3D&mac=6cdfdd566b83fb028c550866ad9f5f03b9f318d61504c76285af1238b3dcef56"
+            ],
+            "rating": 7.5,
+            "synopsis": "Uma bola de lixo gigantesca do século XXI ameaça cair de volta na Terra, atiçando o Professor Farnsworth contra o seu maior rival, Ogden Wernstrom, em uma tentativa de solucionar o problema.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/zofFgn2I2MYza7bRbqJO7sUlNnS.jpg"
+        },
+        {
+            "title": "09. O inferno dos rôbos",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=yStoo3nEkZgEl6XLYpDXIFd9coNAzaOxPQxqIoWmWj5Cun8K%2F0IPD6ADpI4%2F6k7L&expiry=09m%2BSjUdQW4%2B7JgBcb%2B%2FXw%3D%3D&mac=483842fb69d7ebe9138badccd4f50f31687cb788f992d2a2777aac01ab7b3585"
+            ],
+            "rating": 7.8,
+            "synopsis": "Na sarjeta por causa do o seu vício em eletricidade, Bender se converte à Robotologia. Por voltar logo a ser o que era, ele é enviado às profundezas do Inferno Robótico para sofrer uma eternidade de tortura nas garras do Demônio Robô.",
+            "runtime": 22,
+            "poster": "https://image.tmdb.org/t/p/original/2bPXyxhhUkB1uBHZQHqGkYZdDLA.jpg"
         }
     ]
 }

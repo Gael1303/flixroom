@@ -1,10 +1,84 @@
 {
     "episodios": [
         {
-            "title": "1x01. Capítulo um: O desaparecimento de Will Byers",
+            "title": "01. Capítulo um: O desaparecimento de Will Byers",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae5916202f1a04e14cecc07de532bb69ef8158cd"
-            ]
+                "https://1.animezeydl.workers.dev/download.aspx?file=nnFuGUHvPOVb%2F19igaRp9CTXwtNKFzalJf3rkMMalWYAsgPV%2BQ7PCH1Nn9DRYONZ&expiry=44wDHA3bQLHEAfajUx4Plg%3D%3D&mac=9ee54e0bf0352f716fa6be028291e3389cc970e000f42efdb51bfd6bae7795f1"
+            ],
+            "rating": 8.474,
+            "synopsis": "No caminho de volta para casa, Will é aterrorizado por alguma coisa. Não longe dali, um laboratório secreto guarda um segredo sinistro.",
+            "runtime": 48,
+            "poster": "https://image.tmdb.org/t/p/original/uLES7sRpy7Ih6Kr6XCaYj1GyfTw.jpg"
+        },
+        {
+            "title": "02. Capítulo dois: A estranha da Maple Street",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=pkL5WOMCnfqU3fQUOwwbzI5ycBZQQbkePsLMuraJXn16tsxBOTIoP43ocVp3UwVm&expiry=44wDHA3bQLHEAfajUx4Plg%3D%3D&mac=de395413083103db6535fe56db2751f226f75ae7ee6fbbfce038de959ca3d702"
+            ],
+            "rating": 8.224,
+            "synopsis": "Lucas, Mike e Dustin tentam conversar com a menina que encontram. Hopper tem perguntas para uma Joyce extremamente ansiosa.",
+            "runtime": 55,
+            "poster": "https://image.tmdb.org/t/p/original/icjMb4yVK7dh5GDXxGhnq2s9pk4.jpg"
+        },
+        {
+            "title": "03. Capítulo três: Caramba",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=v6SlatWOQN0XKoWjyga8%2FeHjkCYtU8oNwIkMBLAXk4938IxolU0t5vWu%2BHSIqbJv&expiry=44wDHA3bQLHEAfajUx4Plg%3D%3D&mac=c2a1b97094153e28323130640b8cb4d5ddb91b38084ccbc5d147a6239faaddd1"
+            ],
+            "rating": 8.571,
+            "synopsis": "Cada vez mais preocupada, Nancy procura Barb e acaba descobrindo o que Jonathan anda fazendo. Joyce está convencida de que Will está tentando se comunicar com ela.",
+            "runtime": 51,
+            "poster": "https://image.tmdb.org/t/p/original/5snULpWQWp7aqFto7UbRcEkEyyS.jpg"
+        },
+        {
+            "title": "04. Capítulo quatro: O corpo",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=Z0QkKXPDCyDq%2F4vli15eXIF%2BR6TujbSQb3o6pAbRPj4mc84f5HK9wh0jsIukWmSc&expiry=44wDHA3bQLHEAfajUx4Plg%3D%3D&mac=09e3b18d89333a59202f9ea58e241690030aefc22e44a2f01f5c9b5fd9e579c2"
+            ],
+            "rating": 8.481,
+            "synopsis": "Joyce se recusa a acreditar de Will morreu, e tenta se comunicar com ele. Os meninos transformam o visual de Onze. Nancy e Jonathan acabam se unindo.",
+            "runtime": 50,
+            "poster": "https://image.tmdb.org/t/p/original/60wmC1e20HV8gu688GAhsWxqxPx.jpg"
+        },
+        {
+            "title": "05. Capítulo cinco: A pulga e o acrobata",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=gf%2BrCli5lfJgbTY0iWcNhysyqc4xQo5V3N%2FXJwNUheo7EjNL5caOJFoaRPssQqCu&expiry=44wDHA3bQLHEAfajUx4Plg%3D%3D&mac=d7c9053fc3ef15af11332d73656deb49ebaa43275fddb6aa8206217388cc30fb"
+            ],
+            "rating": 8.323,
+            "synopsis": "Hopper consegue entrar no laboratório enquanto Nancy e Jonathan confrontam as forças que levaram Will. Os meninos perguntam ao Sr. Clarke como se vai para outra dimensão.",
+            "runtime": 52,
+            "poster": "https://image.tmdb.org/t/p/original/exT4NW9EdXG1qLZHKJnRpq3gh1H.jpg"
+        },
+        {
+            "title": "06. Capítulo seis: O monstro",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=Hi7froTp8lVNYkTfZE%2BgAJqVuG3Mdl9O%2BBWgSSgkGCGVAnKRt37hDQBGyF9xONio&expiry=44wDHA3bQLHEAfajUx4Plg%3D%3D&mac=e15f2d149e9752df2245f5e7833d2790a17cd87ce3ab7119ecb906c21777bf89"
+            ],
+            "rating": 8.359,
+            "synopsis": "Desesperado, Jonathan procura por Nancy na escuridão, mas Steve faz a mesma coisa. Hopper e Joyce descobrem a verdade sobre os experimentos conduzidos no laboratório.",
+            "runtime": 46,
+            "poster": "https://image.tmdb.org/t/p/original/lNS6qycyucewz3duTr1tf1LU688.jpg"
+        },
+        {
+            "title": "07. Capítulo sete: A banheira",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=9okqoTf7dS5sNXu0bnez5P%2F9uiyBEhdT3zItxDXDfYsflRhtBBZGSyPe9K6DzL%2BX&expiry=44wDHA3bQLHEAfajUx4Plg%3D%3D&mac=02b6bd1533e2d5c442bfd93403d775532d4590cd32e8818d3a34fba46c7216d8"
+            ],
+            "rating": 8.426,
+            "synopsis": "Onze tenta chegar a Will, mas Lucas dá o alerta de perigo. Nancy e Jonathan mostram à polícia as imagens capturadas pela câmera.",
+            "runtime": 42,
+            "poster": "https://image.tmdb.org/t/p/original/fjsTVEnqTKUO0GJSpiWKBZRUBcx.jpg"
+        },
+        {
+            "title": "08. Capítulo oito: De ponta-cabeça",
+            "url": [
+                "https://1.animezeydl.workers.dev/download.aspx?file=%2F9HlNJWdkq9J%2F4VI%2Bquv969X5UsvORhmnx5CNSYLHvUwfJlOHnGY6gSKRLCC5mWI&expiry=44wDHA3bQLHEAfajUx4Plg%3D%3D&mac=a104a651f219fbb61f7a52179736207e465a7762e97e5a79c5066a912ac90383"
+            ],
+            "rating": 8.409,
+            "synopsis": "O Dr. Brenner interroga Hopper e Joyce enquanto os meninos e Onze esperam no ginásio. Nancy e Jonathan se preparam para uma nova batalha.",
+            "runtime": 54,
+            "poster": "https://image.tmdb.org/t/p/original/1teJ5dbuepfqOOs9uYhYTUjr2qs.jpg"
         }
     ]
 }
