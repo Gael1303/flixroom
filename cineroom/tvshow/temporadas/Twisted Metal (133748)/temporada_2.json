@@ -33,7 +33,7 @@
         {
             "title": "04. LZGTBZY",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ad16fd08e7bed64afa5fe6b95ad0682e469c5ab"
             ],
             "rating": 7.2,
             "synopsis": "John e Quiet planejam um assalto ousado para garantir armas vitais; Sweet Tooth e Stu são involuntariamente envolvidos na operação de alto risco.",
@@ -43,7 +43,7 @@
         {
             "title": "05. ONURMRK",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dc85a80e3705ace31ab14922cc5d60d1446a6da"
             ],
             "rating": 8.2,
             "synopsis": "Com o início do torneio, John e Quiet lutam em uma exaustiva rodada de qualificação em uma batalha emocionante pela sobrevivência, onde cada movimento pode significar a diferença entre a vitória e a ruína.",
@@ -53,7 +53,7 @@
         {
             "title": "06. MKAW1SH",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e94d38d5fb3d5d23dd3eb8b3774edd81c70018d"
             ],
             "rating": 6.5,
             "synopsis": "John e Quiet formam alianças inesperadas e alimentam novas rivalidades, navegando em um mundo onde a confiança é tão passageira quanto o perigo; Sweet Tooth encontra um inimigo familiar, reacendendo velhas tensões.",
@@ -121,4 +121,5 @@
             "poster": ""
         }
     ]
+
 }
