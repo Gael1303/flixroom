@@ -59,11 +59,22 @@
             "synopsis": "A tensão aumenta quando inimigos poderosos se confrontam, um plano perigoso se desenrola e a curiosidade leva a consequências mortais.",
             "runtime": 58,
             "poster": "https://image.tmdb.org/t/p/original/5gXDy41Y1xkKxxGhWqebjsSfCJb.jpg"
+        },
+		{
+            "title": "E07. Emergência",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:588a46681f88120d4ed3dd1fd4e8eaeeb6673771"
+            ],
+            "rating": 8.0,
+            "synopsis": "Um plano de fuga é traçado, levando à ruptura de facções, traições e um confronto chocante.",
+            "runtime": 45,
+            "poster": "https://image.tmdb.org/t/p/original/7DLRyfODm9aii0aLgYiuA6r2zwI.jpg"
         }
 		
     ]
 
 }
+
 
 
 
