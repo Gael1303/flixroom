@@ -71,34 +71,34 @@
             "poster": "https://image.tmdb.org/t/p/original/vXsxNZ9kPKH27DLWVkYYImrkPOT.jpg"
         },
         {
-            "title": "08. Episódio 8",
+            "title": "08. Seguindo em frente",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61a755a150d136e4a9ec677b147658077e65417c"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 6.4,
+            "synopsis": "Terminada a luta contra Jabber, Rudo volta ao QG dos Zeladores e é aceito oficialmente como membro pelo Chefe.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/3caLcoFAgTPEA4QDMxJWUFIFR6g.jpg"
         },
         {
-            "title": "09. Episódio 9",
+            "title": "09. A cidade do graffiti",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b38ef5a68393d7ecf987dfb4f4e1d40f676b53e6"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 7.5,
+            "synopsis": "Para se preparar para a ida à Zona Proibida, Rudo e os outros vão a Canvas Town atrás de um Feiticeiro.",
+            "runtime": 24,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/qJ4aOklpW9t9HLltLo8y3HthOZL.jpg"
         },
         {
-            "title": "10. Episódio 10",
+            "title": "10. Penta, a Zona Proibida Desértica",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8759a5dd4bba210355ed0d03e0dff870f3dba636"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 7.5,
+            "synopsis": "Remlin coloca o feitiço protetor nos Zeladores, e eles partem rumo ao deserto em busca da mulher misteriosa.",
+            "runtime": 24,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/e2iniIW4GZOfpzsYm3Gs9V3rrTa.jpg"
         },
         {
             "title": "11. Episódio 11",
@@ -243,3 +243,4 @@
     ]
 
 }
+
