@@ -81,18 +81,19 @@
             "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/fBTWFUS70BSq88ZdtPFKiu9Kjli.jpg"
         },
         {
-            "title": "09. Episódio 9",
+            "title": "09. O deserto negro",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:477caf5e93bbbc4fa19fe0d95ce700e1a422a56c"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 1.0,
+            "synopsis": "Uma grande batalha se inicia quando Kaʻiana e Kamehameha lideram seu exército contra o poder combinado de Maui e Keōua.",
+            "runtime": 60,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/qPrXtYc3j3f8qJcmIWcT5VSW1H3.jpg"
         }
     ]
 
 }
+
 
 
 
