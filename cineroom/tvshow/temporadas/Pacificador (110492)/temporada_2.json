@@ -41,14 +41,14 @@
             "poster": "https://image.tmdb.org/t/p/original/6bdIgolsJzPHyJE7RLGeca1YKLn.jpg"
         },
         {
-            "title": "05. Episódio 5",
+            "title": "05. De Volta À Sutura",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b5506ef1082e16b7b7fbeb7fe5f06e54ddecf8d"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 8.8,
+            "synopsis": "Após um confronto catastrófico com Flag, Pacificador toma uma decisão chocante, enquanto seus amigos lutam para manter os 11th Street Kids unidos.",
+            "runtime": 37,
+            "poster": "https://image.tmdb.org/t/p/original/dK9TB4WvMLBiWWP1FAFE5CIJKim.jpg"
         },
         {
             "title": "06. Episódio 6",
@@ -83,3 +83,4 @@
     ]
 
 }
+
