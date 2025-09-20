@@ -1,0 +1,114 @@
+{
+    "episodios": [
+        {
+            "title": "01. A Linha Kármán",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43f092d0840e5d68bf551e05f02c4e5149ff6f3b"
+            ],
+			"subtitles": ["https://github.com/Gael1303/flixroom/raw/main/cineroom/legendas/The.morning.show/The.Morning.Show.2019.S03E01.srt"]
+            "rating": 6.9,
+            "synopsis": "Uma proposta ousada para sustentar uma UBA com problemas financeiros encontra oposição, enquanto Alex e Bradley descobrem que sua autonomia tem limites.",
+            "runtime": 55,
+            "poster": "https://image.tmdb.org/t/p/original/9FB7WFFj2HG8LFXS9z197p4mCzf.jpg"
+        },
+        {
+            "title": "02. Fantasma na máquina",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a399ed0c6bc029ca76a0770a9244ee04cfa4cb49"
+            ],
+			"subtitles": ["https://github.com/Gael1303/flixroom/raw/main/cineroom/legendas/The.morning.show/The.Morning.Show.2019.S03E02.srt"]
+            "rating": 7.1,
+            "synopsis": "Dificuldades técnicas provocam caos na UBA. Segredos enterrados vêm à tona quando Alex forma uma aliança surpreendente.",
+            "runtime": 50,
+            "poster": "https://image.tmdb.org/t/p/original/uZiGl6LOMlZ2mz4IQu09GkwI9m8.jpg"
+        },
+        {
+            "title": "03. Ruído branco",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25d6c98cbf1b2e1d3252ca5ba7fe536500104e99"
+            ],
+			"subtitles": ["https://github.com/Gael1303/flixroom/raw/main/cineroom/legendas/The.morning.show/The.Morning.Show.2019.S03E03.srt"]
+            "rating": 6.8,
+            "synopsis": "Quando a negociação de um contrato se torna pública, a velha e a nova guarda entram em conflito. Chris é colocada no holofote.",
+            "runtime": 54,
+            "poster": "https://image.tmdb.org/t/p/original/rXVZdMfUSDxHP7kD65fFTmjw0bM.jpg"
+        },
+        {
+            "title": "04. O sinal verde",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c084258dfe3bdf706171307a6156893b984fd02"
+            ],
+			"subtitles": ["https://github.com/Gael1303/flixroom/raw/main/cineroom/legendas/The.morning.show/The.Morning.Show.2019.S03E04.srt"]
+            "rating": 6.3,
+            "synopsis": "O UBA Upfront reúne todos para uma festa nos Hamptons. Bradley e Alex revisitam um relacionamento problemático.",
+            "runtime": 53,
+            "poster": "https://image.tmdb.org/t/p/original/lBFlHwQ5PD4HFJXO1IQYB2p4TpM.jpg"
+        },
+        {
+            "title": "05. Ilha do amor",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df01ca0e83327a580badabe42e2ad1c01a151324"
+            ],
+			"subtitles": ["https://github.com/Gael1303/flixroom/raw/main/cineroom/legendas/The.morning.show/The.Morning.Show.2019.S03E05.srt"]
+            "rating": 5.8,
+            "synopsis": "Conexões inesperadas surgem enquanto o mundo está em lockdown.",
+            "runtime": 54,
+            "poster": "https://image.tmdb.org/t/p/original/bhJShVW4gBW6z0rqqWRwnC6gAJt.jpg"
+        },
+        {
+            "title": "06. A estudante de Stanford",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:880680b2cc3cfa344bbeba6076d0d8a5fb4ba374"
+            ],
+			"subtitles": ["https://github.com/Gael1303/flixroom/raw/main/cineroom/legendas/The.morning.show/The.Morning.Show.2019.S03E06.srt"]
+            "rating": 6.1,
+            "synopsis": "Uma entrevista crucial complica o acordo Hyperion-UBA. Stella questiona se deve revelar sua história com Paul.",
+            "runtime": 55,
+            "poster": "https://image.tmdb.org/t/p/original/lcPSpEzolEoePyWjNhaqO0LFLEZ.jpg"
+        },
+        {
+            "title": "07. Escrutínio rigoroso",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91c902b0bea10e865db814d7755196820380e640184167bb0a8403980247e4f0b95b8a73a4a5a101"
+            ],
+			"subtitles": ["https://github.com/Gael1303/flixroom/raw/main/cineroom/legendas/The.morning.show/The.Morning.Show.2019.S03E07.srt"]
+            "rating": 6.3,
+            "synopsis": "A dura realidade colide com uma noite opulenta celebrando moda. Cory e Bradley visitam um jogador crucial na venda potencial da UBA.",
+            "runtime": 54,
+            "poster": "https://image.tmdb.org/t/p/original/kTtOw2tAoDthGsfscMMhAQdH6Tf.jpg"
+        },
+        {
+            "title": "08. DNF",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa0df2ad91a8971479e405ad1901d90469489b18"
+            ],
+			"subtitles": ["https://github.com/Gael1303/flixroom/raw/main/cineroom/legendas/The.morning.show/The.Morning.Show.2019.S03E05.srt"]
+            "rating": 6.4,
+            "synopsis": "Alex e Chip discordam sobre como administrar os rumores sobre a vida privada de Alex. Bradley inicia uma investigação que pode acabar com o negócio.",
+            "runtime": 55,
+            "poster": "https://image.tmdb.org/t/p/original/xK5uUsPkMsK2ObX3sKZb6TZEx8J.jpg"
+        },
+        {
+            "title": "09. Atualize seus precedentes",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:184167bb0a8403980247e4f0b95b8a73a4a5a101"
+            ],
+			"subtitles": ["https://github.com/Gael1303/flixroom/raw/main/cineroom/legendas/The.morning.show/The.Morning.Show.2019.S03E09.srt"]
+            "rating": 6.8,
+            "synopsis": "Um limite é imposto quando Alex e Bradley são forçadas a escolher um lado. Cory luta por estabilidade.",
+            "runtime": 47,
+            "poster": "https://image.tmdb.org/t/p/original/n4Zbi9tRiFFOJwsLMs9e4CiM247.jpg"
+        },
+        {
+            "title": "10. O efeito perspectiva",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acc268c86a9ae34b00da4b45f73b4df6a7406236"
+            ],
+			"subtitles": ["https://github.com/Gael1303/flixroom/raw/main/cineroom/legendas/The.morning.show/The.Morning.Show.2019.S03E10.srt"]
+            "rating": 7.1,
+            "synopsis": "O acordo Hyperion-UBA vai para votação. Bradley enfrenta seu passado enquanto Alex considera seu futuro na nova ordem mundial.",
+            "runtime": 57,
+            "poster": "https://image.tmdb.org/t/p/original/n5tOw5bbaUJomqtAyPUvghFkkNn.jpg"
+        }
+    ]
+}
