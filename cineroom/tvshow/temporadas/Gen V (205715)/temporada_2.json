@@ -1,0 +1,84 @@
+{
+    "episodios": [
+        {
+            "title": "01. Novo Ano, Nova Faculdade",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b368276164c0826ebb3a340f17f934ce753f76a2(EP 01)"
+            ],
+            "rating": 4.342,
+            "synopsis": "É um novo ano na Godolkin! Confira as atualizações de segurança pelo campus! Participe da reunião especial de abertura e ouça o que o nosso novo líder, o reitor Cipher, tem a dizer! Encontre os amigos antigos na Associação Estudantil Victoria Neuman e faça novos em nossas novas e revitalizadas fraternidades! Este ano será melhor do que o anterior, e mal podemos esperar por isso!",
+            "runtime": 50,
+            "poster": "https://image.tmdb.org/t/p/original/jWve032C7J8ihewCffdJplIadT5.jpg"
+        },
+        {
+            "title": "02. A Justiça Nunca Esquece",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b368276164c0826ebb3a340f17f934ce753f76a2(EP 02)"
+            ],
+            "rating": 3.357,
+            "synopsis": "Você acha que ama história? É melhor repensar! Até mesmo um especialista pode aprender com os arquivos da Godolkin. Para reservar seis horas de aventura pedagógica com o melhor arquivista do mundo, contate Kyle@lembradorparasempre.com",
+            "runtime": 46,
+            "poster": "https://image.tmdb.org/t/p/original/7l5FVtcBPatqvIITkrbJ3jJnQIq.jpg"
+        },
+        {
+            "title": "03. H é de Humano",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b368276164c0826ebb3a340f17f934ce753f76a2(EP 03)"
+            ],
+            "rating": 3.8,
+            "synopsis": "*Lembrete para todo o campus.* Todos os panfletos de alunos devem ser aprovados pela administração da Godolkin antes de serem afixados nos quadros de avisos. Envie o texto e as imagens para o Grêmio Estudantil, aos cuidados de Stacey, pelo menos 24 horas antes de afixar o panfleto. A segurança está monitorando as áreas públicas em busca de conteúdo não autorizado ou impróprio.",
+            "runtime": 55,
+            "poster": "https://image.tmdb.org/t/p/original/fOuSprYHJUntOvLZUtbTT79VXNy.jpg"
+        },
+        {
+            "title": "04. Episódio 4",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "05. Episódio 5",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "06. Episódio 6",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "07. Episódio 7",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        },
+        {
+            "title": "08. Episódio 8",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+            ],
+            "rating": 0.0,
+            "synopsis": "",
+            "runtime": 0,
+            "poster": ""
+        }
+    ]
+}

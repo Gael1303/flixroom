@@ -1,40 +1,84 @@
 {
     "episodios": [
         {
-            "title": "1x01 ao 03. Universidade Godolkin",
+            "title": "01. Universidade Godolkin",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ea07d15aed527ea21a34a16227d33799716bbb4a"
-            ]
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ea07d15aed527ea21a34a16227d33799716bbb4a(EP 01)"
+            ],
+            "rating": 6.76,
+            "synopsis": "Parabéns! Você foi escolhido para estudar na Universidade Godolkin! Estamos entusiasmados por fazer parte de sua jornada para descobrir que tipo de super você é! Desde a sua fundação em 1965, a Universidade Godolkin produziu alguns dos melhores e mais brilhantes super-heróis que o mundo já conheceu, incluindo três membros dos Sete! Quem sabe se você não é o próximo?",
+            "runtime": 59,
+            "poster": "https://image.tmdb.org/t/p/original/tzWMqlYUprbPSSdcsg9cea2p4oI.jpg"
         },
         {
-            "title": "1x04. A Verdade Toda",
+            "title": "02. Primeiro Dia",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ea07d15aed527ea21a34a16227d33799716bbb4a(EP 02)"
+            ],
+            "rating": 6.432,
+            "synopsis": "A Linha Direta de Saúde Mental da Universidade Godolkin gostaria de lembrar aos alunos nesse momento difícil que vocês não estão sozinhos. Vocês podem ser à prova de balas por fora, mas não por dentro. A nossa equipe é treinada para lidar com as necessidades emocionais específicas dos super-heróis e vai ajudá-los. Se precisarem conversar com alguém, basta dar um telefonema ou enviar uma vMensagem.",
+            "runtime": 49,
+            "poster": "https://image.tmdb.org/t/p/original/jZI9jDanZtpUVXvMvMhwM2SsTA8.jpg"
+        },
+        {
+            "title": "03. #LembredoBrink",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ea07d15aed527ea21a34a16227d33799716bbb4a(EP 03)"
+            ],
+            "rating": 7.136,
+            "synopsis": "Você está convidado para o Memorial de Gala do #LembredoBrink hoje na Universidade Godolkin! Vá com sua melhor roupa. Quando as portas se abrirem às 19h00, você chegará ao tapete vermelho! Junte-se aos super-heróis e celebridades que mais bombam no mundo para tirar selfies, tomar champanhe e curtir um vídeo de homenagem ao lendário Professor Brinkerhoff, com Trem-Bala, O Profundo e Polaridade!",
+            "runtime": 52,
+            "poster": "https://image.tmdb.org/t/p/original/b6DkuAT76n7kCWFVaEQgBTzOGIT.jpg"
+        },
+        {
+            "title": "04. A Verdade Toda",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07c20a7f7a18c3d3c9f67999c99b3c2f4955e37d"
-            ]
+            ],
+            "rating": 6.595,
+            "synopsis": "O Departamento de Polícia da Universidade Godolkin está buscando qualquer informação sobre a pessoa ou pessoas que vandalizaram a virilha/área genital da estátua do Polaridade ontem à noite na frente da Escola de Combate ao Crime. Se você tiver alguma informação, entre em contato com @DPUGod.",
+            "runtime": 47,
+            "poster": "https://image.tmdb.org/t/p/original/iQ3kqALdrEGM0kd2eepLfOQO6ve.jpg"
         },
         {
-            "title": "1x05. Bem-Vindos ao Clube do Monstro",
+            "title": "05. Bem-Vindos ao Clube do Monstro",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8bcac2d904e66db3114ffbae203b49c9a83980cf"
-            ]
+            ],
+            "rating": 6.35,
+            "synopsis": "RECOMPENSA! Ontem à noite, o Incrível Steve foi a uma festa fora do campus onde seu pênis foi perdido. Ele só o quer de volta, então sua família está oferecendo uma RECOMPENSA de US$ 10.000 por seu retorno seguro, sem perguntas. Por favor, entre em contado com o escritório de Classificados do Godolkin Daily ou o escritório de Achados e Perdidos no Grêmio Estudantil da Godolkin.",
+            "runtime": 41,
+            "poster": "https://image.tmdb.org/t/p/original/t43wgdzZGwtpjKPx1VYPuEIr7Yz.jpg"
         },
         {
-            "title": "1x06. Jumanji",
+            "title": "06. Jumanji",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2bb6e8e57820f98bee202c4b9c40b0c9748617f4"
-            ]
+            ],
+            "rating": 6.425,
+            "synopsis": "A Escola de Combate ao Crime da Universidade Godolkin tem o prazer de anunciar seu mais novo curso: A PSICOLOGIA DOS SUPERVILÕES! Ao estudar o exemplo mais conhecido de um supervilão, o Soldier Boy, o curso investigará o que faz um super-herói ir para o lado do mal, desde sua história de origem falha até os vícios e corrupções morais que os levam ao erro! Vagas limitadas! Inscreva-se hoje!",
+            "runtime": 41,
+            "poster": "https://image.tmdb.org/t/p/original/tv1AG7Q6nPLGvsrwD6eGEUmhI8s.jpg"
         },
         {
-            "title": "1x07. Vírus",
+            "title": "07. Vírus",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd234f7bc91c2d1636acf187646f97ce9cd500df"
-            ]
+            ],
+            "rating": 7.0,
+            "synopsis": "Convocação para toda a Universidade Godolkin #TimedaCasa! Hoje vamos protestar contra a entrevista da socialista Victoria Neuman no campus! Vamos mostrar a Neuman e sua gangue woke que odeia Supers que não vamos tolerar sua agenda anti-Supers! ELES NÃO NOS CONTROLARÃO! #FaçaAméricaSuperdeNovo #VidasdeSupersImportam",
+            "runtime": 49,
+            "poster": "https://image.tmdb.org/t/p/original/t5WpmjtkPa2ZuOMHckIl3hjs9pm.jpg"
         },
         {
-            "title": "1x08. Guardiões de Godolkin",
+            "title": "08. Guardiões de Godolkin",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c71b95a08cab2ee57f7595b7e6b328e657e7c01b"
-            ]
+            ],
+            "rating": 7.103,
+            "synopsis": "Se você ou um ente querido foi ferido ou morto enquanto trabalhava na Universidade Godolkin, você pode ter direito a uma compensação financeira. Centenas de funcionários humanos foram vítimas de estudantes de Godolkin, mas os escritórios de advocacia da Bremmer & Bremmer ganharam milhões em ações judiciais por danos pessoais e homicídio culposo. Contate-nos para uma consulta gratuita em 1-888-177-2774. Conheça seus direitos!",
+            "runtime": 39,
+            "poster": "https://image.tmdb.org/t/p/original/9X0vbyZ38H9Kxc18w7zeJCjikXx.jpg"
         }
     ]
 }
