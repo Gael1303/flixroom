@@ -13,9 +13,9 @@
         {
             "title": "02. A revolução será televisionada",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:201edc8feb03c9c92a5267ca5722c0d90da6f372"
             ],
-            "rating": 0.0,
+            "rating": 8.0,
             "synopsis": "Alex luta para provar sua inocência. Um fantasma do passado da emissora ressurge com uma história perturbadora.",
             "runtime": 52,
             "poster": "https://image.tmdb.org/t/p/original/5SY369y9Ij0AQw0wE6RuCZyyoMm.jpg"
@@ -101,4 +101,5 @@
             "poster": ""
         }
     ]
+
 }
