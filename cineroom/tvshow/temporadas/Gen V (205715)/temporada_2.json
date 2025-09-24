@@ -31,14 +31,14 @@
             "poster": "https://image.tmdb.org/t/p/original/fOuSprYHJUntOvLZUtbTT79VXNy.jpg"
         },
         {
-            "title": "04. Episódio 4",
+            "title": "04. Bolsas",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8cafdc8f1e96c5d76df1380de98eacf2f0cd017b"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 4.5,
+            "synopsis": "Parabéns! Você recebeu um ingresso VIP para a grande luta! Os participantes devem assumir todos os riscos. Você pode aparecer na câmera ou ter contato com fluidos corporais. E lembre-se: o Vought Hotel e Spa Internacional proíbe bebidas de fora e banheiros unissex. Curta sua experiência VIP!",
+            "runtime": 49,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/926UtXdbLWH2jqtXFpMDX94k7Gg.jpg"
         },
         {
             "title": "05. Episódio 5",
@@ -81,4 +81,5 @@
             "poster": ""
         }
     ]
+
 }
