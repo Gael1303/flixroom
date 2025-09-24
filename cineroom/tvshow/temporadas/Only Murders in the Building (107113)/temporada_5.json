@@ -31,24 +31,24 @@
             "poster": "https://image.tmdb.org/t/p/original/rq0vIF0rvJKmYx3XWq2hEOjmFv3.jpg"
         },
         {
-            "title": "04. Episódio 4",
+            "title": "04. Pássaros Sujos",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5265c8bd9b2cd72fecad698ccd10ec87aa11e5a"
             ],
-            "rating": 10.0,
-            "synopsis": "",
+            "rating": 9.7,
+            "synopsis": "Snooping goes sideways when three billionaire suspects catch the trio and invite themselves over for an evening at Oliver's.",
             "runtime": 37,
             "poster": "https://image.tmdb.org/t/p/original/9B24Ab6njBFf68TD8Jmk3SQQCIQ.jpg"
         },
         {
-            "title": "05. Episódio 5",
+            "title": "05. Tongue Tied",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38182ac6d1470a27ae88ccade8644db86f196821"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 9.6,
+            "synopsis": "Thwarted in their investigative podcast plans, Mabel and Oliver look for help from the Arconia support staff — as Charles dines with another suspect and gets caught up in 'catching' more than he bargained for.",
+            "runtime": 36,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/9SWPjaexEg7rrXkKUrwhDhGjM3q.jpg"
         },
         {
             "title": "06. Episódio 6",
@@ -101,4 +101,5 @@
             "poster": ""
         }
     ]
+
 }
