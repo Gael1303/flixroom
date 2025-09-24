@@ -69,11 +69,22 @@
             "synopsis": "Um plano de fuga é traçado, levando à ruptura de facções, traições e um confronto chocante.",
             "runtime": 45,
             "poster": "https://image.tmdb.org/t/p/original/7DLRyfODm9aii0aLgYiuA6r2zwI.jpg"
+        },
+		{
+            "title": "E08. Os Verdadeiros Monstros",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b2c1cb353dac608b3ef8df6ffc85615374594ea"
+            ],
+            "rating": 5.7,
+            "synopsis": "Uma nova dinâmica de poder surge.",
+            "runtime": 48,
+            "poster": "https://media.themoviedb.org/t/p/w500_and_h282_face/tssL6QBaKUkdXtmPUidrsREIEX5.jpg"
         }
 		
     ]
 
 }
+
 
 
 
