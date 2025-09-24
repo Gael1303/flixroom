@@ -3,9 +3,9 @@
         {
             "title": "01. Episódio 1",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0da4704793b3b60ef97ab3cdb712e9d24e2d773b(EP 01)"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:301f0e75a16cb564341e23885f9fd7d94b17c92b(EP 01)"
             ],
-            "rating": 7.0,
+            "rating": 7.667,
             "synopsis": "Munju renuncia ao cargo de embaixadora para apoiar a candidatura de Junik à presidência. Mas, durante uma missa pela reunificação pacífica, um tiro repentino transforma a cerimônia em caos. Em meio à confusão, surge um homem misterioso chamado Sanho, que salva Munju e desaparece sem deixar rastros. Determinada a descobrir a verdade por trás do ataque, ela parte em busca dele.",
             "runtime": 53,
             "poster": "https://image.tmdb.org/t/p/original/z25NswFnXZwuK4p6hqxKXHsywTC.jpg"
@@ -13,9 +13,9 @@
         {
             "title": "02. Episódio 2",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0da4704793b3b60ef97ab3cdb712e9d24e2d773b(EP 02)"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:301f0e75a16cb564341e23885f9fd7d94b17c92b(EP 02)"
             ],
-            "rating": 8.0,
+            "rating": 8.333,
             "synopsis": "Enquanto Munju avança em sua investigação, a família de Junik tenta interferir. Determinada a ir até o fim, ela anuncia sua candidatura à presidência. Nesse meio tempo, membros da Casa Branca se preocupam com um relatório de Inteligência, e um deles decide agir por conta própria.",
             "runtime": 57,
             "poster": "https://image.tmdb.org/t/p/original/dnSPLY7kvsa0mrtq123vqLLrfaj.jpg"
@@ -23,9 +23,9 @@
         {
             "title": "03. Episódio 3",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0da4704793b3b60ef97ab3cdb712e9d24e2d773b(EP 03)"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:301f0e75a16cb564341e23885f9fd7d94b17c92b(EP 03)"
             ],
-            "rating": 10.0,
+            "rating": 8.7,
             "synopsis": "Com o apoio de Okseon, Munju rapidamente desponta como uma das principais candidatas à presidência. Mas, a caminho da Praça Gwanghwamun para oficializar sua candidatura, uma crise inesperada eclode, e Sanho entra em cena para salvá-la.",
             "runtime": 53,
             "poster": "https://image.tmdb.org/t/p/original/kK8CfoSVGqjo1JfnJQt0ecSnD03.jpg"
@@ -33,49 +33,49 @@
         {
             "title": "04. Episódio 4",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41d46438067d3077b3be6a43df25eb6c1106decf(EP 04)"
             ],
-            "rating": 0.0,
+            "rating": 8,
             "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "runtime": 52,
+            "poster": "https://image.tmdb.org/t/p/original/vgUwrxlOznP7XwmSIIygRRcnGI6.jpg"
         },
         {
             "title": "05. Episódio 5",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41d46438067d3077b3be6a43df25eb6c1106decf(EP 05)"
             ],
-            "rating": 0.0,
+            "rating": 9,
             "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "runtime": 69,
+            "poster": "https://image.tmdb.org/t/p/original/i6m3t9S6h9mTramzXPA490F5s0F.jpg"
         },
         {
             "title": "06. Episódio 6",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9f31a6927b483904925c9bc51db3c07ec7e3850(EP 06)"
             ],
-            "rating": 0.0,
+            "rating": 0,
             "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "runtime": 45,
+            "poster": "https://image.tmdb.org/t/p/original/8VP9hEftDd9VhfrtIvfRIVf3gPP.jpg"
         },
         {
             "title": "07. Episódio 7",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9f31a6927b483904925c9bc51db3c07ec7e3850(EP 07)"
             ],
-            "rating": 0.0,
+            "rating": 0,
             "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "runtime": 56,
+            "poster": "https://image.tmdb.org/t/p/original/daP7OLcxHoVC28ekNproe3ZrgwS.jpg"
         },
         {
             "title": "08. Episódio 8",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
             ],
-            "rating": 0.0,
+            "rating": 0,
             "synopsis": "",
             "runtime": 0,
             "poster": ""
@@ -85,7 +85,7 @@
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
             ],
-            "rating": 0.0,
+            "rating": 0,
             "synopsis": "",
             "runtime": 0,
             "poster": ""
