@@ -11,22 +11,22 @@
             "poster": "https://image.tmdb.org/t/p/original/yyOAoNHDBnAJrtlq6RVC8citDeb.jpg"
         },
         {
-            "title": "02. Episódio 2",
+            "title": "02. Declaração Familiar",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ea6463e643c9320b7c97ee8b0b392fdbc89927b"
             ],
-            "rating": 0.0,
-            "synopsis": "",
+            "rating": 5.3,
+            "synopsis": "Enquanto a família de Tom se prepara para uma audiência judicial, Robbie enfrenta um dilema e Maeve toma uma decisão crítica.",
             "runtime": 63,
             "poster": "https://image.tmdb.org/t/p/original/ftBHssFPie3KEurGcP94r98tbo8.jpg"
         },
         {
-            "title": "03. Episódio 3",
+            "title": "03. Ninguém É Mais Forte Que o Perdão",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e60bf44c75e06fce057880bb85fbf1dabbee6d1e"
             ],
-            "rating": 0.0,
-            "synopsis": "",
+            "rating": 5.6,
+            "synopsis": "Enquanto Robbie e Cliff tentam encontrar um comprador em potencial, Tom e Grasso se abrem com os Corações Negros, e Aleah e Lizzie interrogam os antigos colegas de trabalho de Peaches. Uma operação policial leva Tom a uma revelação chocante.",
             "runtime": 65,
             "poster": "https://image.tmdb.org/t/p/original/2VJRSZImHgC4wSz9zbwv1dg12zd.jpg"
         },
@@ -71,4 +71,5 @@
             "poster": ""
         }
     ]
+
 }
