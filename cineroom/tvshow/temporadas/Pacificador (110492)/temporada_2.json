@@ -51,14 +51,14 @@
             "poster": "https://image.tmdb.org/t/p/original/dK9TB4WvMLBiWWP1FAFE5CIJKim.jpg"
         },
         {
-            "title": "06. Episódio 6",
+            "title": "06. O Que Os Olhos Não Veem, O Chrisão Não Sente",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fad92229ee6c08498692093f083c707dc092b2ec"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 7.9,
+            "synopsis": "Enquanto Pacificador se adapta à nova vida, os 11th Street Kids decidem arriscar tudo para trazer o amigo de volta. Enquanto isso, Flag redobra seus esforços para responsabilizar Pacificador, buscando ajuda de uma fonte improvável.",
+            "runtime": 35,
+            "poster": "https://image.tmdb.org/t/p/original/l55bH1tdPjWjCVaOe0yaXHVC2wn.jpg"
         },
         {
             "title": "07. Episódio 7",
@@ -83,4 +83,5 @@
     ]
 
 }
+
 
