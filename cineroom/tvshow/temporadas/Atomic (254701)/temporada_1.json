@@ -1,0 +1,54 @@
+{
+    "episodios": [
+        {
+            "title": "01. O Britânico",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44985217c992de82deeb8d3f0e97dcaa3a28027f(EP 01)"
+            ],
+            "rating": 5.4,
+            "synopsis": "Dois caminhos se cruzam. Quando o traficante Max e o ex-jihadista JJ unem forças no deserto, logo se veem à mercê de um cartel brutal.",
+            "runtime": 46,
+            "poster": "https://image.tmdb.org/t/p/original/vHkr6lSvmtbsmFhGhSGWBc3rYBF.jpg"
+        },
+        {
+            "title": "02. Baal",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44985217c992de82deeb8d3f0e97dcaa3a28027f(EP 02)"
+            ],
+            "rating": 4.9,
+            "synopsis": "Agora virou jogo sério. A negociação de Max e JJ com o cartel toma um rumo perigoso quando a agente da CIA Cassie Bryce, em missão secreta, fica sabendo das aventuras deles.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/54qUtw5gwAVpyKAJtB5nTzcgaIN.jpg"
+        },
+        {
+            "title": "03. O Fim Dos Tempos",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44985217c992de82deeb8d3f0e97dcaa3a28027f(EP 03)"
+            ],
+            "rating": 2.6,
+            "synopsis": "Perseguição implacável. O retorno à Síria desestabiliza JJ, enquanto Max luta para manter seu segredo. E, enquanto isso, a CIA fecha o cerco. A paciência de Alam está no limite.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/m21rWUnfsBztS9iT3RBbz69vMH.jpg"
+        },
+        {
+            "title": "04. Menino Pequeno",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44985217c992de82deeb8d3f0e97dcaa3a28027f(EP 04)"
+            ],
+            "rating": 3.0,
+            "synopsis": "Planos perfeitos... até dar errado. Max e JJ entregam o material nuclear a Alam em Marrakesh, sob olhar da CIA. Apostas altas. Mas Cassie sente algo errado.",
+            "runtime": 45,
+            "poster": "https://image.tmdb.org/t/p/original/p0L2i0lXsTQrzBjsgeDfXaRjZOl.jpg"
+        },
+        {
+            "title": "05. O Caminho Da Totalidade",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44985217c992de82deeb8d3f0e97dcaa3a28027f(EP 05)"
+            ],
+            "rating": 3.5,
+            "synopsis": "O círculo se fecha. Cassie abandona as regras enquanto o fim se aproxima. Com o destino do mundo novamente em suas mãos, Max e JJ enfrentam uma decisão impensável.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/cnlnjKjX7TCd2ujOb8N63WEPg6o.jpg"
+        }
+    ]
+}

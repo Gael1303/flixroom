@@ -1,0 +1,44 @@
+{
+    "episodios": [
+        {
+            "title": "01. Parte Um",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04d3bf8f2bbe13a20b9f3b27604202afb45ca16c(EP 01)"
+            ],
+            "rating": 6.375,
+            "synopsis": "Dois irmãos têm suas vidas mudadas quando acidentalmente removem a Pedra Angular da Galáxia.",
+            "runtime": 25,
+            "poster": "https://image.tmdb.org/t/p/original/fM1SaDlXrxylMg196w9YiXiGw4Z.jpg"
+        },
+        {
+            "title": "02. Parte Dois",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04d3bf8f2bbe13a20b9f3b27604202afb45ca16c(EP 02)"
+            ],
+            "rating": 5.4,
+            "synopsis": "Em fuga, Sig conhece o Jedi Bob e deve aprender com ele os segredos da Pedra Angular.",
+            "runtime": 26,
+            "poster": "https://image.tmdb.org/t/p/original/pZatyGRkZLeWI6yvoOS0zs2muxZ.jpg"
+        },
+        {
+            "title": "03. Parte Três",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04d3bf8f2bbe13a20b9f3b27604202afb45ca16c(EP 03)"
+            ],
+            "rating": 5.8,
+            "synopsis": "Num esforço para consertar as coisas na galáxia, Sig faz alguns aliados novos e inesperados.",
+            "runtime": 26,
+            "poster": "https://image.tmdb.org/t/p/original/9K9YDkGTXD14vbOKPwOU8Qytq5N.jpg"
+        },
+        {
+            "title": "04. Parte Quatro",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04d3bf8f2bbe13a20b9f3b27604202afb45ca16c(EP 04)"
+            ],
+            "rating": 6.0,
+            "synopsis": "Com o destino da galáxia em jogo, Sig e seus amigos enfrentam Darth Devastator uma última vez.",
+            "runtime": 27,
+            "poster": "https://image.tmdb.org/t/p/original/CkUqixEzSMGjhrVgTxzLZeJvG8.jpg"
+        }
+    ]
+}
