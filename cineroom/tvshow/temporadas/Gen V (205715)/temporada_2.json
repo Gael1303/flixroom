@@ -41,14 +41,14 @@
             "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/926UtXdbLWH2jqtXFpMDX94k7Gg.jpg"
         },
         {
-            "title": "05. Episódio 5",
+            "title": "05. As Crianças Não Estão Nada Bem",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7bb61ad5f4a9019be9f716852a1a48df336ff5c"
             ],
-            "rating": 0.0,
+            "rating": 1.0,
             "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "runtime": 49,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/x7AMffs5k79qIf0P9KIhqfTu5Wl.jpg"
         },
         {
             "title": "06. Episódio 6",
@@ -83,3 +83,4 @@
     ]
 
 }
+
