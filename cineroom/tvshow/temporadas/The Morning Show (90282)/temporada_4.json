@@ -21,14 +21,14 @@
             "poster": "https://image.tmdb.org/t/p/original/5SY369y9Ij0AQw0wE6RuCZyyoMm.jpg"
         },
         {
-            "title": "03. Episódio 3",
+            "title": "03. Ponto de VIrada",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d9d16f82345bf13512a468cb177324cd1925146"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 1.0,
+            "synopsis": "Alex é pega de surpresa por um reencontro inesperado durante uma conferência sobre mudanças climáticas. Bradley encontra sua fonte. Mia faz entrevista para uma promoção.",
+            "runtime": 49,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/mAdct9VucqkTT5oJrGJzBbINL57.jpg"
         },
         {
             "title": "04. Episódio 4",
@@ -103,3 +103,4 @@
     ]
 
 }
+
