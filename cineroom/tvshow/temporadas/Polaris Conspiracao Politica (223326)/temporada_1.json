@@ -73,22 +73,23 @@
         {
             "title": "08. Episódio 8",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d123b22687b501b2d5a85bec59ebc78b610ca326(EP 08)"
             ],
             "rating": 0,
             "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "runtime": 49,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/tKzmUlodvitj5czxH5yMXOhestf.jpg"
         },
         {
             "title": "09. Episódio 9",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d123b22687b501b2d5a85bec59ebc78b610ca326(EP 09)"
             ],
-            "rating": 0,
+            "rating": 10.0,
             "synopsis": "",
             "runtime": 0,
-            "poster": ""
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/bbZj17wezTscsrajlH54o13SKA0.jpg"
         }
     ]
 }
+
