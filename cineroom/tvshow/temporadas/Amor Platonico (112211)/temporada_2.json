@@ -1,104 +1,105 @@
 {
-    "episodios": [
-        {
-            "title": "01. A festa de noivado",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:228a4be1b5c1d70cb23f759d74eff9e9895abd60(EP 01)"
-            ],
-            "rating": 7.8,
-            "synopsis": "Sylvia e Will tentam se adaptar aos novos limites de sua amizade, agora que Will está noivo de Jenna.",
-            "runtime": 29,
-            "poster": "https://image.tmdb.org/t/p/original/1oyyk36Oku6SdK2vCf689PHhbU8.jpg"
-        },
-        {
-            "title": "02. O Jantar",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:228a4be1b5c1d70cb23f759d74eff9e9895abd60(EP 02)"
-            ],
-            "rating": 0.0,
-            "synopsis": "Para se aproximar de Jenna, Sylvia e Charlie convidam ela e Will para um jantar de casais.",
-            "runtime": 26,
-            "poster": "https://image.tmdb.org/t/p/original/hh3qUBDzkjuWMuTJeGqh0nTdIA9.jpg"
-        },
-        {
-            "title": "03. A despedida de solteiro",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2efb7278b608ff8f9ee9c271c8c9533f0d231886"
-            ],
-            "rating": 0.0,
-            "synopsis": "O amigo de faculdade de Sylvia e Will visita a cidade para a despedida de solteiro. Sylvia ajuda Will a encarar a realidade de sua relação.",
-            "runtime": 30,
-            "poster": "https://image.tmdb.org/t/p/original/v1OsPOxVHYIzt5VNCYDeDc7oQMz.jpg"
-        },
-        {
-            "title": "04. Cuidado!",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd0ecd2c4f5b572ca97a722f6bbf46cae332dda5"
-            ],
-            "rating": 0.0,
-            "synopsis": "Will aconselha Sylvia a entrar no mundo corporativo. Em San Diego, os planos de WIll com Jenna tomam um rumo inesperado.",
-            "runtime": 32,
-            "poster": "https://image.tmdb.org/t/p/original/9D0o3yDQxSQZx2oqw2yFYLRjycr.jpg"
-        },
-        {
-            "title": "05. Episódio 5",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-            ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 36,
-            "poster": "https://image.tmdb.org/t/p/original/e27HaSPapTb61kMTnDf4HtAypnE.jpg"
-        },
-        {
-            "title": "06. Episódio 6",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-            ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 24,
-            "poster": ""
-        },
-        {
-            "title": "07. Episódio 7",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-            ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 35,
-            "poster": ""
-        },
-        {
-            "title": "08. Episódio 8",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-            ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 33,
-            "poster": ""
-        },
-        {
-            "title": "09. Episódio 9",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-            ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 30,
-            "poster": ""
-        },
-        {
-            "title": "10. Episódio 10",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-            ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 40,
-            "poster": ""
+
+            "episodios": [
+                {
+                    "title": "01. A festa de noivado",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:228a4be1b5c1d70cb23f759d74eff9e9895abd60(EP 01)"
+                    ],
+                    "rating": 7.8,
+                    "synopsis": "Sylvia e Will tentam se adaptar aos novos limites de sua amizade, agora que Will está noivo de Jenna.",
+                    "runtime": 29,
+                    "poster": "https://image.tmdb.org/t/p/original/1oyyk36Oku6SdK2vCf689PHhbU8.jpg"
+                },
+                {
+                    "title": "02. O Jantar",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:228a4be1b5c1d70cb23f759d74eff9e9895abd60(EP 02)"
+                    ],
+                    "rating": 8.5,
+                    "synopsis": "Para se aproximar de Jenna, Sylvia e Charlie convidam ela e Will para um jantar de casais.",
+                    "runtime": 26,
+                    "poster": "https://image.tmdb.org/t/p/original/hh3qUBDzkjuWMuTJeGqh0nTdIA9.jpg"
+                },
+                {
+                    "title": "03. A despedida de solteiro",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2efb7278b608ff8f9ee9c271c8c9533f0d231886"
+                    ],
+                    "rating": 7.0,
+                    "synopsis": "O amigo de faculdade de Sylvia e Will visita a cidade para a despedida de solteiro. Sylvia ajuda Will a encarar a realidade de sua relação.",
+                    "runtime": 30,
+                    "poster": "https://image.tmdb.org/t/p/original/v1OsPOxVHYIzt5VNCYDeDc7oQMz.jpg"
+                },
+                {
+                    "title": "04. Cuidado!",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd0ecd2c4f5b572ca97a722f6bbf46cae332dda5"
+                    ],
+                    "rating": 9.0,
+                    "synopsis": "Will aconselha Sylvia a entrar no mundo corporativo. Em San Diego, os planos de WIll com Jenna tomam um rumo inesperado.",
+                    "runtime": 32,
+                    "poster": "https://image.tmdb.org/t/p/original/9D0o3yDQxSQZx2oqw2yFYLRjycr.jpg"
+                },
+                {
+                    "title": "05. Jeopardy",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66b88262e56987655c85be53f9b378f7fc4196f2"
+                    ],
+                    "rating": 6.0,
+                    "synopsis": "Quando Will se muda para a casa de Sylvia e Charlie, o novo trabalho dela força os rapazes a passarem tempo juntos. Charlie participa do Jeopardy!",
+                    "runtime": 36,
+                    "poster": "https://image.tmdb.org/t/p/original/vlW3FYid7s2MinsseWc8X8aLa0c.jpg"
+                },
+                {
+                    "title": "06. Viagem de carro",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:592f6468b0f2668c51675bdfb0ed1742a4613978"
+                    ],
+                    "rating": 7.0,
+                    "synopsis": "Sylvia, Will e Katie fazem uma viagem de carro para o deserto. Will encara a realidade de trabalhar para sua ex-noiva. Sylvia questiona a estabilidade de Charlie.",
+                    "runtime": 24,
+                    "poster": "https://image.tmdb.org/t/p/original/r5eM62SLWvt5ABw4XK9k1TfTtFl.jpg"
+                },
+                {
+                    "title": "07. A festa do escritório",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d1c59eb81812107a12712a446e0a9c1c1df0511"
+                    ],
+                    "rating": 6.0,
+                    "synopsis": "Will ajuda Sylvia a organizar uma festa para a firma de advocacia de Charlie. Charlie faz um pronunciamento.",
+                    "runtime": 35,
+                    "poster": "https://image.tmdb.org/t/p/original/bNvB7f28UGyynR1Khe7LmZUvIJn.jpg"
+                },
+                {
+                    "title": "08. Mistérios do jovem Darcy",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b07cb842ef0383cf972e55ab90107a6daef40a46"
+                    ],
+                    "rating": 7.5,
+                    "synopsis": "Sylvia é contratada para organizar uma grande festa de Hollywood. Will encontra um investidor improvável para seu novo bar. Charlie reflete sobre seu futuro profissional.",
+                    "runtime": 33,
+                    "poster": "https://image.tmdb.org/t/p/original/2GFWoM65LajrX8X8jZzpjipHhs2.jpg"
+                },
+                {
+                    "title": "09. Limites",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74359597d12b1d003c4801182a58662c8dc9b5eb"
+                    ],
+                    "rating": 7.5,
+                    "synopsis": "Para evitar lidar com Charlie, Sylvia se convida para ir com Will e Katie em uma aventura no Rio Los Angeles.",
+                    "runtime": 30,
+                    "poster": "https://image.tmdb.org/t/p/original/aJXFuGjqUd7p2kD98nFsebZbbdm.jpg"
+                },
+                {
+                    "title": "10. A derradeira batalha de Brett Coiote",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c9394c6fe6229d5261443ce8cc41ddd503d29d6"
+                    ],
+                    "rating": 0.0,
+                    "synopsis": "Final de Temporada. A amizade de Sylvia e Will chega a um impasse. Sylvia se dá conta de algo importante sobre seu casamento e Will recebe notícias sobre o bar.",
+                    "runtime": 40,
+                    "poster": "https://image.tmdb.org/t/p/original/sLPAPCC7U2GOnfPrN1RGceeRIvo.jpg"
+                }
+            ]
         }
-    ]
-}
