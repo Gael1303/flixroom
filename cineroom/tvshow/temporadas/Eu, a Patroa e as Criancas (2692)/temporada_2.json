@@ -1,10 +1,294 @@
 {
     "episodios": [
         {
-            "title": "Eu, a Patroa e as Crianças: Temporada 2",
+            "title": "01. A Mamãe Está Fora de Casa - Parte 1",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
-            ]
+            ],
+            "rating": 7.5,
+            "synopsis": "Janet está fora e Michael precisa assumir o controle da casa.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/qtAdrCBbgXDl7pDS6Kx6RZjHekv.jpg"
+        },
+        {
+            "title": "02. A Mamãe Está Fora de Casa - Parte 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 7.3,
+            "synopsis": "Michael está ocupado com problemas de família.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/ORLGbspC5nY2KLYyPoFhwJBOeT.jpg"
+        },
+        {
+            "title": "03. Sem Regras",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 7.3,
+            "synopsis": "Michael deixa as crianças sem regras.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/fwoLCV93k8VcY5Yk2JN0Cvsf0qr.jpg"
+        },
+        {
+            "title": "04. O Pai Perfeito",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 7.0,
+            "synopsis": "As crianças contam para Michael suas ideias de pai perfeito.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/kLznEVR6meFSD24bK6dehp87xCk.jpg"
+        },
+        {
+            "title": "05. Na Tristeza e na Alegria",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 6.7,
+            "synopsis": "Janet retorna e Michael não comenta nada sobre o ganho de peso dela.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/t6X8qw5dnF8ruxtAt6coCKzolAD.jpg"
+        },
+        {
+            "title": "06. Saindo Escondida",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 8.5,
+            "synopsis": "Michael dá uma lição de moral em Claire.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/kp28d2IDAFO3f6IRyO5YBSxHYrs.jpg"
+        },
+        {
+            "title": "07. O Jardim de Michael",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 8.5,
+            "synopsis": "Janet convence Michael a fazer um procedimento médico.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/gttFsOMZTNvdCHNRLKol5zFvZcm.jpg"
+        },
+        {
+            "title": "08. Deixe Que Comam Torta",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 7.7,
+            "synopsis": "Jr. desafia Claire a comer a torta de limão de Michael.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/lbHZhmNaEZKnQSuyssrOX18Wmjh.jpg"
+        },
+        {
+            "title": "09. Jay é Mandada Embora",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 7.0,
+            "synopsis": "Jay perde o emprego e vira dona de casa.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/7XI6qA6wbLSTbpjDJ34rFX78vwd.jpg"
+        },
+        {
+            "title": "10. Todo Mundo Está Assistindo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 7.0,
+            "synopsis": "As aventuras românticas de Michael e Janet são vistas na internet.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/pZ1AjNlJ41pnExQTXECY7Vhg7sJ.jpg"
+        },
+        {
+            "title": "11. O Hamster Morreu?",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 6.7,
+            "synopsis": "Michael acidentalmente mata o hamster da escola.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/bGmYPgzmUmNrCnGsINC56t4wogF.jpg"
+        },
+        {
+            "title": "12. Aprendendo a Ganhar",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 7.3,
+            "synopsis": "Michael fica feliz que seus filhos abrem o próprio negócio.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/qrsBxpp1qzDLrGUFD6KJIpZuikq.jpg"
+        },
+        {
+            "title": "13. Tempo de Qualidade",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 7.0,
+            "synopsis": "Michael quer passar algum tempo sozinho.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/vFl59XqBaolQRlY1KobAIN2Aipz.jpg"
+        },
+        {
+            "title": "14. Saiam!",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 7.3,
+            "synopsis": "Michael quer a família pronta para um casamento em quinze minutos.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/5f8ceHJytFZQF3n4G2W1pOdHBWj.jpg"
+        },
+        {
+            "title": "15. A Viagem de Família",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 6.7,
+            "synopsis": "Uma viagem de família testa a paciência de todos.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/yowwsPnKVKQSnx64iy8WdB8TAKC.jpg"
+        },
+        {
+            "title": "16. Mesa para Muitos - Parte 1",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 7.7,
+            "synopsis": "Janet convence Michael a ir em um restaurante japonês.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/5ThbiNp5bLL8y8yNMaF0wyM8mX9.jpg"
+        },
+        {
+            "title": "17. Mesa para Muitos - Parte 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 7.7,
+            "synopsis": "Os Kyle vão jantar em um restaurante japonês.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/vtLwIfcL8yJBWg1qAzbyB6z0w8F.jpg"
+        },
+        {
+            "title": "18. Encontro Duplo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 7.0,
+            "synopsis": "Michael deixa Claire sair com Tony.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/oublVMfvjfYHgURJJp5sfQTsEgF.jpg"
+        },
+        {
+            "title": "19. Falha de Comunicação",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 7.0,
+            "synopsis": "Tentando ser um bom filho, Michael tenta fazer com que seus pais voltem a falar um com o outro após uma longa briga.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/8cQGUi07i1zLp7VXYVObNIqt2tk.jpg"
+        },
+        {
+            "title": "20. Meu Pai Me Pediu para Te Nocautear",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 7.0,
+            "synopsis": "Junior pede para Michael lhe dar aulas de boxe.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/q4MthmYxYUevzbcbAHqKNUr5kS9.jpg"
+        },
+        {
+            "title": "21. Janet, a Autoritária",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 7.3,
+            "synopsis": "Michael salva o time de futebol de Kady das garras autoritárias da técnica Janet.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/cLRWFe89j5fnQfgtUd8Vt4kBI5N.jpg"
+        },
+        {
+            "title": "22. Relacionamento de Trabalho",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 8.0,
+            "synopsis": "Michael se aconselha com Junior.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/d58yMlh5P7AdvNLYwQVxZ76XenQ.jpg"
+        },
+        {
+            "title": "23. Jr. Kyle, Garoto Gênio",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 7.3,
+            "synopsis": "Janet e Michael ficam em choque quando Junior é avaliado como gênio em um teste de Q.I.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/1EEXNwh6mgeze5x3s68PX32SFv5.jpg"
+        },
+        {
+            "title": "24. O Problema nas Costas",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 7.0,
+            "synopsis": "Michael finge que machucou as costas jogando Twister.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/G8qfiLLiY5QIECQL7KEBBQX1P1.jpg"
+        },
+        {
+            "title": "25. Eu Sou Bonita?",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 7.3,
+            "synopsis": "Jr. tenta roubar o sutiã de uma garota no vestiário.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/lrBqeeHd30qJZaQuWkHOLgAsfna.jpg"
+        },
+        {
+            "title": "26. O Show do Boliche",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 7.3,
+            "synopsis": "Michael joga boliche contra seu inimigo Stu Tyler.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/nkEUb8PMcb84awJTgF74J2mtoyR.jpg"
+        },
+        {
+            "title": "27. Junior Tira Carta",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 7.3,
+            "synopsis": "Junior não compra o carro prático que Michael recomenda.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/1EWFYqyfR9qFNdEGx4Eqri50kGo.jpg"
+        },
+        {
+            "title": "28. Aniversário - Parte 1",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 7.3,
+            "synopsis": "Janet acha que Michael marcou uma partida de golfe no dia do aniversário de casamento deles.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/tzZcwjQPCp3GDEcO7OhrQGXq2Ny.jpg"
+        },
+        {
+            "title": "29. Aniversário - Parte 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d9634a5e8eb86c4bd0fe28396bc955e6e161b0"
+            ],
+            "rating": 7.3,
+            "synopsis": "Janet acha que Michael marcou uma partida de golfe no dia do aniversário de casamento deles.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/yU1RR7G22koQCYFi8CoO3l27TAf.jpg"
         }
     ]
 }

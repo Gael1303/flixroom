@@ -1,10 +1,454 @@
 {
     "episodios": [
         {
-            "title": "Chaves: Completo",
+            "title": "01. Boas Festas / Balões",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
-            ]
+            ],
+            "rating": 9.5,
+            "synopsis": "Boas Festas: Peterete se dá conta de que uma janela de uma casa está aberta e chama Beterraba para ajudá-lo a entrar nela.\n\nBalões: Quico e Chiquinha disputam para ver quem tem o balão maior, enquanto Chaves tenta estourá-los.",
+            "runtime": 26,
+            "poster": "https://image.tmdb.org/t/p/original/uYPDw2Xo5Y4ZvtAuoRIfPaiiNQt.jpg"
+        },
+        {
+            "title": "02. Os Ladrões / Dando um banho no Chaves",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "[PERDIDO MUNDIALMENTE]",
+            "runtime": 24,
+            "poster": ""
+        },
+        {
+            "title": "03. Os Ladrões / Chaves rompe o Romance",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 6.3,
+            "synopsis": "[PERDIDO MUNDIALMENTE]\n\nOs Ladrões: A descrição da sinopse na Tele-Guía diz: \"Entremés: Los Caquitos.\"\n\nChaves rompe o Romance: A descrição da sinopse na Tele-Guía diz: \"El Chavo del Ocho rompe el romance que sostiene el profesor Jirafales y la mamá de Kiko.\"",
+            "runtime": 25,
+            "poster": "https://image.tmdb.org/t/p/original/5gvXF7OlN07MVy1GLnLrH2E3o4O.jpg"
+        },
+        {
+            "title": "04. A Lata de Lixo / O Homem das Mil Caras / Pintores Amadores",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "A Lata de Lixo: O Chaves se perturba com seu chapéu, que cai a todo momento.\n\nO Homem das Mil Caras: Chespirito suspeita que o convidado de seu patrão é o famoso bandido Mil Caras.\n\nPintores Amadores: Seu Madruga tenta pintar a porta de sua casa, mas seu trabalho é atrapalhado pelas crianças da vila.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/gsEzJLn87OdmDnqpa5yymyplA2q.jpg"
+        },
+        {
+            "title": "05. Moedas / Dois Ladrões / Dando Bolo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "Moedas: As crianças disputam moedas.\n\nDois Ladrões: Beterraba está vendendo picolés, mas acaba trocando o carrinho de sorvetes por um carrinho de bebê.\n\nDando Bolo: Dona Clotilde deixa um bolo na janela. Chiquinha resolve \"pegá-lo emprestado\" e chama a Chave para ajudá-la.",
+            "runtime": 27,
+            "poster": "https://image.tmdb.org/t/p/original/mdnRB1ckIsskx1cXwOw6IIfC1M6.jpg"
+        },
+        {
+            "title": "06. A Troca / O dedo-duro / O Surto de Catapora",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "A Troca: Chiquinha e Chaves trocam moedas.\n\nO dedo-duro: Chespirito provoca confusão entre seu patrão e suas duas namoradas.\n\nO Surto de Catapora: Seu Madruga finge que a Chiquinha está doente para não pagar o aluguel e todos ficam com medo de pegar catapora.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/9teQPIyzYW0HXdSrCNHIDuMyLTV.jpg"
+        },
+        {
+            "title": "07. Ladrão que Rouba Ladrão / Remédio duro de Engolir / Quem semeia Moeda... [REPRISE]",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "Ladrão que Rouba Ladrão: Chespirito é roubado por um mendigo e, junto de uma velhinha, tenta recuperar seu dinheiro.\n\nRemédio duro de Engolir: Chiquinha não quer tomar remédio e Seu Madruga diz que as crianças desobedientes são levadas pela \"roupa velha\".\n\nQuem semeia Moeda...: As crianças disputam para ver quem fica com a moeda perdida do Quico.",
+            "runtime": 26,
+            "poster": "https://image.tmdb.org/t/p/original/26N7wmIErWxHzMXGi5ZZ68z7Ej1.jpg"
+        },
+        {
+            "title": "08. O Revolvinho do Chaves [REPRISE]",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "[PERDIDO MUNDIALMENTE]",
+            "runtime": 25,
+            "poster": "https://image.tmdb.org/t/p/original/5miiEYvii7pSGMjahJ7u3IMoMix.jpg"
+        },
+        {
+            "title": "09. O doente /  Quem canta, seus males espanca! [REPRISE]",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "Doutor Chapatin: Doutor Chapatin vai examinar um homem que vive como \"dono de casa\".\n\nChaves: A turma do Chaves faz uma festa para celebrar uma boa vizinhança, mas como sempre, eles acabam brigando.",
+            "runtime": 16,
+            "poster": "https://image.tmdb.org/t/p/original/yakASsbFFVemubOcAfJ6Dj89LSf.jpg"
+        },
+        {
+            "title": "10. O Piquenique Voador / Doutor Chapatin / O Despejo [REPRISE]",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "O Piquinique Voador: Em um piquenique com seus amigos, Chespirito vê um disco voador, mas ninguém acredita nele.\n\nDoutor Chapatin: Doutor Chapatin precisa atender um boxeador muito machucado.\n\nO Despejo: Seu Madruga é despejado pelo Senhor Barriga. Ele tem o dinheiro para pagar o aluguel, mas não sabe onde está.",
+            "runtime": 21,
+            "poster": "https://image.tmdb.org/t/p/original/4ImSuW33ipIyMRPVbje1GYFCNCm.jpg"
+        },
+        {
+            "title": "11. À Procura de Desemprego / Como sujar a roupa do Quico? / Ajudem-se uns aos Outros [REPRISE]",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "À Procura de Desemprego: Chespirito vai a uma agência de empregos se apresentar para o cargo de secretário.\n\nComo sujar a roupa do Quico: Chiquinha e Chaves resolvem sujar a roupa do Quico, que vai a uma festa.\n\nAjudem-se uns aos Outros: As crianças estão comprando vários balões, mas Chaves não tem nenhum porque não tem dinheiro.",
+            "runtime": 15,
+            "poster": "https://image.tmdb.org/t/p/original/9pJDXWoO4fiWMpiIabYlFmUqXTK.jpg"
+        },
+        {
+            "title": "12. Os Contrabandistas de Joias / Uma visita muito Importante (Parte 1) / Uma vizinha...(Parte 2)",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "Os Contrabandistas de Joias: Doutor Chapatin senta-se em um banco de praça para ler seu jornal, mas nem desconfia que ali é o ponto de encontro de contrabandistas.\n\nUma visita muito Importante (Parte 1): Seu Madruga será visitado por três mulheres e pede a Chaves e Chiquinha que o ajude a receber cada uma delas.\n\nUma vizinha...(Parte 2): Seu Madruga será visitado por três mulheres e pede a Chaves e Chiquinha que o ajude a receber cada uma delas.",
+            "runtime": 25,
+            "poster": "https://image.tmdb.org/t/p/original/5p6X1CYlHNPRdpNXu7zcUhLZUii.jpg"
+        },
+        {
+            "title": "13. Doutor Chapatin / O Mosquito / Beijinhos (Parte 3) [REPRISE]",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "Doutor Chapatin: Doutor Chapatin tenta socorrer um homem que passa mal em um restaurante.\n\nO Mosquito: Um mosquito não deixa Chespirito dormir em paz.\n\nBeijinhos (Parte 3): Os rapazes da vila descobrem que, quando beijados pelas novas vizinhas, acabam desmaiando. E a única fórmula para curar os desmaiados é jogar-lhes baldes de água fria!",
+            "runtime": 26,
+            "poster": "https://image.tmdb.org/t/p/original/e2sNUmkZOHkXTfNocnHmvrfEdPj.jpg"
+        },
+        {
+            "title": "14. O Cofre / Marteladas / Zarabatana e Chumbinhos [REPRISE]",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "O Cofre: Peterete tenta abrir um cofre, mas Beterraba o desconcentra ao abrir vários saquinhos de batata.\n\nMarteladas: As crianças atrapalham o Seu Madruga, que trabalha de carpinteiro.\n\nZarabatana e Chumbinhos: Chaves arranja uma zarabatana e uma porção de chumbinhos, mas Chiquinha acaba usando para atacar os outros.",
+            "runtime": 24,
+            "poster": "https://image.tmdb.org/t/p/original/zx831KAqNrZp9FVm5uK1kF5l1hF.jpg"
+        },
+        {
+            "title": "15. O Ensaio / O Mistério dos Peixinhos",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "O Ensaio: Chespirito é o contrarregra de um estúdio de televisão e suspeita que os atores planejam matá-lo.\n\nO Mistério dos Peixinhos: Seu Madruga desconfia que o gato de Dona Florinda está comendo seus peixinhos coloridos.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/973cDpxmQPYSoD2azTTHqTeoW6v.jpg"
+        },
+        {
+            "title": "16. O que fazer quando um ladrão entra em casa? / A Chirimoia",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "O que fazer quando um ladrão entra em casa?: Quico precisa ir a uma festa e não pode sujar sua roupa. Então, Chaves e Chiquinha têm a ideia de jogar farinha nele.\n\nA Chirimoia: Seu Madruga arranja um pezinho de chirimoia e quer plantá-lo em um vaso, mas as crianças não deixam ele terminar o serviço.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/yEtmoBwp3sVDCCFFFD9iHYoXJQX.jpg"
+        },
+        {
+            "title": "17. A Bola / Por uma Mulher Formosa / Grito de Independência / Este varal é meu!",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "A Bola: Chaves pergunta para o Seu Madruga o motivo das bolas pularem.\n\nPor uma Mulher Formosa: Dois homens fazem uma disputa musical para ver quem casará com Tonha.\n\nGrito de Independência: As crianças estudam para a aula de história.\n\nEste varal é meu!: Seu Madruga, Dona Florinda e Dona Clotilde disputam o varal da vila.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/bkPFWLBYzRNaYcySBYpgSw0hd7R.jpg"
+        },
+        {
+            "title": "18. As Apostas / Os Ladrões / A Escolinha da Chiquinha",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "As Apostas: Chaves e Quico fazem uma série de apostas.\n\nOs Ladrões: Beterraba e Peterete tentam abrir um cofre.\n\nA Escolinha da Chiquinha: As crianças brincam de escolinha, mas acabam sujando a janela do Seu Madruga.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/w0RBvE0yRycEapOGseO802gNL4V.jpg"
+        },
+        {
+            "title": "19. Oras, bolas!",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "Seu Madruga convida Chaves para o café da manhã, mas descobre que não tem mais ovos para preparar o desjejum. Enquanto isso, Quico ganha uma mesa de pingue pongue.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/zji0JM9al3DrmX4LLuraPhIM6Zq.jpg"
+        },
+        {
+            "title": "20. O mendigo / As crianças faltam à escola",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "O mendigo: Beterraba e Peterete fingem que são mendigos para conseguir dinheiro.\n\nAs crianças faltam à escola: As crianças faltam na escola e ficam com medo de encarar o Seu Madruga. Por isso, Chiquinha bola um plano.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/8rAV6ncbDNBh58fUbqb5y8eciE8.jpg"
+        },
+        {
+            "title": "21. Quem manda é o chefe / O leiteiro",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "Quem manda é o chefe: Peterete diz a Beterraba que um outro bandido quer disputar a liderança do grupo com ele.\n\nO leiteiro: Seu Madruga começa a trabalhar como leiteiro, mas Chaves e Chiquinha resolvem pegar umas garrafas para alimentar a uns cachorrinhos recém-nascidos.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/ndeOhPE0U2zgMEbuHJ7NKh41eLd.jpg"
+        },
+        {
+            "title": "22. Os ladrões / A caixa de madeira",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "[PERDIDO MUNDIALMENTE]",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/s2jn9SEoI6R3gv9pxUTpfrroaHZ.jpg"
+        },
+        {
+            "title": "23. Barba, cabelo... e graxa!",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "Seu Madruga está trabalhando como cabeleireiro e Chaves, como engraxate. Mas os novos trabalhos fogem do controle quando o Senhor Barriga, Quico e Dona Florinda vão ao salão.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/8qdy6WA79bVLNNtIbaewlHSK5Cb.jpg"
+        },
+        {
+            "title": "24. Brigando pelo pátio",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "[PERDIDO MUNDIALMENTE]\n\nChaves e Chiquinha brigam pela posse do pátio da vila.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/2EEf9OhbdiLcBCdg3rWSBvbhWj9.jpg"
+        },
+        {
+            "title": "25. Agenta Zero Zero Seta / Barquinhos de papel",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 9.0,
+            "synopsis": "Agenta Zero Zero Seta: Beterraba e Peterete se metem em apuros ao invadir a casa de uma velhinha louca.\n\nBarquinhos de papel: Chiquinha está brincando de barquinhos de papel e Quico está fazendo a lição de casa. Mas Chaves acaba arranjando encrenca com os dois.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/ioC01WVXGMScE3zxF7WoQThQQmp.jpg"
+        },
+        {
+            "title": "26. O marujo enjoado / Sustos na vila",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "O marujo enjoado: Chespirito é marinheiro, mas seus enjoos em pleno alto mar causam problemas com os passageiros.\n\nSustos na vila: Proibida de ver televisão, Chiquinha começa a contar histórias de terror ao Chaves, que fica assustado.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/3iBA1gUy6o4xtAcDVbtEEq1l18q.jpg"
+        },
+        {
+            "title": "27. A louca da escadaria - parte 1",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 8.0,
+            "synopsis": "Seu Madruga ganha um terno muito grande de herança do seu falecido tio Jacinto e resolve usá-lo no Festival da Boa Vizinhança. Enquanto isso, ele é paquerado pela Dona Edwiges.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/8xUobjLKeUJbZsQf6l1QYC4tIZx.jpg"
+        },
+        {
+            "title": "28. A festa da boa vizinhança - parte 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "A turma faz um Festival da Boa Vizinhança no pátio da vila. Na festa, as crianças fazem apresentações como o \"cão arrependido\" e a história do \"Jeca Valente\".",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/9PXZbtXkXWQtjwt4ZYLZLBzW5IS.jpg"
+        },
+        {
+            "title": "29. Como pegar o touro a unha",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 8.0,
+            "synopsis": "O Senhor Barriga dá um touro de mentira para as crianças brincarem de toureiros, mas isso acaba arranjando muitas confusões na vila.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/5WfiwlKnVnmrmpMEaMDgmbu14J0.jpg"
+        },
+        {
+            "title": "30. As festas de Independência",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 9.0,
+            "synopsis": "Durante as festas de independência, Seu Madruga trabalha vendendo bombinhas, confetes e outros produtos. O problema é que o negócio vai mal e ele não consegue nenhum tostão.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/vGGJbPntFcTnD8ZLnYWdDGv5sM1.jpg"
+        },
+        {
+            "title": "31. Caçando insetos",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 9.0,
+            "synopsis": "Chaves está matando insetos com gasolina e jogando em um saquinho de pipocas. Isso causa confusão com os outros moradores da vila, que acabam comendo os insetos pensando que são pipocas.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/nSUZXIJmg14fezV94dGyk9lV3BN.jpg"
+        },
+        {
+            "title": "32. Tortinhas de merengue",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 9.0,
+            "synopsis": "[PERDIDO MUNDIALMENTE]",
+            "runtime": 23,
+            "poster": ""
+        },
+        {
+            "title": "33. Quem brinca com fogo faz pipi na cama! / Uma aula de canto 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "Quem brinca com fogo faz pipi na cama!: Beterraba e Peterete decidem vender um revólver de brinquedo a Carlos, mas ele pensa que se trata de um assalto.\n\nUma aula de canto 2: As crianças brincam de bandinha musical no pátio da vila, mas o barulho incomoda o Seu Madruga.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/jYEJkyNjj5ZjvMOM2P9UIzUKbni.jpg"
+        },
+        {
+            "title": "34. É proibido animais!",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 9.0,
+            "synopsis": "[PERDIDO MUNDIALMENTE]",
+            "runtime": 23,
+            "poster": ""
+        },
+        {
+            "title": "35. O cãozinho da Bruxa do 71",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "Dona Clotilde vive perdendo seu cachorrinho Satanás. Enquanto procura por ele, as crianças se assustam, achando que ela está invocando o diabo.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/evhLGK39e8bFulrQS6LDb9MeoMf.jpg"
+        },
+        {
+            "title": "36. Goteiras na casa do Seu Madruga",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 8.0,
+            "synopsis": "",
+            "runtime": 23,
+            "poster": ""
+        },
+        {
+            "title": "37. ?",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 9.0,
+            "synopsis": "",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/aJ0p5qo6kIqZrELBZU9XATVB5UG.jpg"
+        },
+        {
+            "title": "38. Bebês versus compras",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Dona Clotilde fica em um dilema quando é encarregada de cuidar de sua sobrinha, mas a Dona Florinda coloca um cartaz proibindo ter animais e crianças na vizinhança.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/vCx0AdAPNs1SD92tZWAGU5Gjesk.jpg"
+        },
+        {
+            "title": "39. Seu Madruga sapateiro - parte 1",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 8.0,
+            "synopsis": "Seu Madruga arranja um novo ofício: começa a trabalhar como sapateiro no pátio da vila. Só que o serviço não é nada fácil com a interferência de Chaves e Quico.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/dpvhz9Rsgg110NxBuVSV1WULrZS.jpg"
+        },
+        {
+            "title": "40. Seu Madruga sapateiro - parte 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "[PERDIDO MUNDIAL]\n\n- A descrição da sinopse na Tele-Guía diz: \"Don Ramón enseña el oficio de zapatero remendón a El Chavo del Ocho.\"",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/rZEZpl1V0ys0ZvrO2UP6Sk24WCd.jpg"
+        },
+        {
+            "title": "41. Jogando bola - parte 1",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 7.0,
+            "synopsis": "Chaves e Quico brincam de jogar futebol no pátio. Mas as coisas ficam complicadas quando eles acertam o Senhor Barriga, que decide proibir a brincadeira dos meninos.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/zezEnGZalQmLxFvGksPWKhNkaSC.jpg"
+        },
+        {
+            "title": "42. Os atropelados, segunda parte",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Depois de ser atropelado, Seu Madruga está em casa com a perna quebrada e Dona Clotilde resolve lhe comprar algumas coisinhas no mercado. Chaves vê que Seu Madruga ganhou comida e decide fingir que foi atropelado também para ver se ganha alguma coisa.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/jALLEyAegM5dKcUa3eBJOyAhCfU.jpg"
+        },
+        {
+            "title": "43. A festa da amizade",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "A turma da vila resolve fazer outra festa, com muita música e dança. Para isso eles trabalham para fazer uma grande pichorra, mas é difícil mantê-la inteira até a festa...",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/oAcGBOKOkFUQq5G4CtslzDeq7rR.jpg"
+        },
+        {
+            "title": "44. Natal, noite de paz!",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Na vila, é Natal e toda a vizinhança se reúne para comemorar a data na casa de Dona Florinda.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/5WQHGtiTuWjiSnzbSUFDEDP4ZwK.jpg"
+        },
+        {
+            "title": "45. O Ano Novo de Chaves",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "Seu Madruga se sente envergonhado por não ter dinheiro e poder fazer uma ceia para o pessoal da vila. Por isso, a Dona Clotilde dá a seguinte ideia: ele cede a casa e os demais entram com a comida.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/qnYKmwlDLGO39z4udfFGjLyXu66.jpg"
         }
     ]
 }

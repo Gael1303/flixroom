@@ -1,10 +1,304 @@
 {
     "episodios": [
         {
-            "title": "Eu, a Patroa e as Crianças: Temporada 4",
+            "title": "01. De Idiota para Papai",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
-            ]
+            ],
+            "rating": 7.2,
+            "synopsis": "Michael e Jay tentam transformar Jr. em um pai responsável.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/7eAzETjOfZ1zhrXavbJ0CBOS2zV.jpg"
+        },
+        {
+            "title": "02. O Doce Cabel-Novo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 7.5,
+            "synopsis": "Michael toma muitos comprimidos para fazer o cabelo crescer.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/7Zw8G0F8ostxUbXzf1fjBhwwj0X.jpg"
+        },
+        {
+            "title": "03. Jr. Executivo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 7.2,
+            "synopsis": "Jr. usa sua posição para conseguir que os outros façam seu trabalho.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/rNx6ZQXcxhcggwBMOlJ1iFCjo5x.jpg"
+        },
+        {
+            "title": "04. Jay Vai à Escola",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 7.0,
+            "synopsis": "Jay retorna à faculdade contra a vontade de Michael.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/wbLKNA8X7fmPoPCjJYuoKWJujqK.jpg"
+        },
+        {
+            "title": "05. Encontro de Pais",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 7.5,
+            "synopsis": "Michael e Jay são apresentados aos pais de Vanessa.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/6vzSV0ES0FkOYGjy1w1bfBsfzoB.jpg"
+        },
+        {
+            "title": "06. Ele Está Tendo um Bebê",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 7.2,
+            "synopsis": "Michael e Jay dão um bebê de balão para Jr. cuidar.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/w1mRr61Bb53BoLGujwknBq4Ugnp.jpg"
+        },
+        {
+            "title": "07. O Funeral",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 7.5,
+            "synopsis": "O funcionário de Michael precisa do apoio da família Kyle.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/gVhFJtl2bImZpO9h81crfpCXxTx.jpg"
+        },
+        {
+            "title": "08. Ultrassonografia",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 7.2,
+            "synopsis": "Vanessa faz a primeira ultrassonografia.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/3aPXnL1lBtKCpjNCTpSjhPqyeGy.jpg"
+        },
+        {
+            "title": "09. Maratona",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 7.8,
+            "synopsis": "Jay diz que ela pode correr uma maratona, então Michael afirma que ele também pode.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/oFY9SUgBQjEbSXAwih1sUp1b4hj.jpg"
+        },
+        {
+            "title": "10. Enquanto Isso...",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 7.5,
+            "synopsis": "Claire dá uma festa que sai um pouco de controle.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/sFEGIrLb3Yfe9HQHWRGRtFHpFqL.jpg"
+        },
+        {
+            "title": "11. A Banda do Michael",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 7.5,
+            "synopsis": "Michael aceita um convite para tocar na banda de seu amigo.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/ruM0YSZ9SZkhas9aH9stpzAAxrl.jpg"
+        },
+        {
+            "title": "12. A Senhorita Não é uma Vagabunda",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 7.5,
+            "synopsis": "Michael encontra preservativos na mochila de Claire.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/naHybE0cjW0pXOAqGxVksJnpLKy.jpg"
+        },
+        {
+            "title": "13. De Rato e Homem",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 7.5,
+            "synopsis": "Michael está determinado a resolver sozinho um problema com ratos.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/6EoCNh7VdlQAtTr6g0LEjcpu3n0.jpg"
+        },
+        {
+            "title": "14. Mudando Daqui",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 8.0,
+            "synopsis": "Jr. procura um apartamento – com resultados interessantes.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/dJQlVnInFvmeL1Xuqg7xgRIgNbV.jpg"
+        },
+        {
+            "title": "15. Guerra de Doces",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 7.5,
+            "synopsis": "O espírito competitivo de Michael revela seu pior lado.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/lMxweM51ppqic04Vi2a8rTZ6L6r.jpg"
+        },
+        {
+            "title": "16. Jr. Vende Seu Carro",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 7.5,
+            "synopsis": "Jr. surpreende a todos quando ele decide vender seu estimado carro.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/8FJ7ZD3tm0IPExVpiYwTSLKel8r.jpg"
+        },
+        {
+            "title": "17. O Presente de Aniversário",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 7.2,
+            "synopsis": "Michael e Jay não ganham os presentes de aniversário de casamento que queriam.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/3ij7j28z0AL40xiAmSoIelN82Q2.jpg"
+        },
+        {
+            "title": "18. Sorriso Ilegal",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 7.2,
+            "synopsis": "O sorriso paralisado de Michael o coloca na cadeia.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/wg78tRIbBjrNfbbLkn3TTpfe8fT.jpg"
+        },
+        {
+            "title": "19. Surto do Macaco",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 7.8,
+            "synopsis": "A chance de Michael de ver uma estrela do basquete encontra um contratempo.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/xmBxYlQgmtwY9YDyA1JmYobq641.jpg"
+        },
+        {
+            "title": "20. Ninho Vazio - Parte 1",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 5.0,
+            "synopsis": "Michael e Jay relembram os momentos divertidos que viveram.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/xlInYE3rWRHSTQhgC1R3hnge0qa.jpg"
+        },
+        {
+            "title": "21. Ninho Vazio - Parte 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 5.6,
+            "synopsis": "Michael e Jay relembram os momentos divertidos que viveram.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/dR0vE9xeGBYtrc05q4k9ipGLxYm.jpg"
+        },
+        {
+            "title": "22. Calvin Vem para Ficar",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 7.5,
+            "synopsis": "O pai de Vanessa é expulso de casa e acaba na casa da família Kyle.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/6op0wKuYKf9XJYbCMQxEpqTldvl.jpg"
+        },
+        {
+            "title": "23. Calvin Volta ao Trabalho",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 7.2,
+            "synopsis": "Apesar de relutar, Kyle dá um emprego a Calvin na empresa.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/8Z9hXMQBNCKZdn3K4kd3WNPdfuA.jpg"
+        },
+        {
+            "title": "24. Noite Romântica",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 7.2,
+            "synopsis": "A noite romântica que Michael planejou com Jay dá errado.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/wsbO5mwmV6vynpm32rJFGS8XUle.jpg"
+        },
+        {
+            "title": "25. O Diretor",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 8.2,
+            "synopsis": "Sem querer, Michael apaga um precioso vídeo de família.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/hdayty0eQBIR3Y06Shnd8Cx5hYG.jpg"
+        },
+        {
+            "title": "26. A Empregada",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 9.3,
+            "synopsis": "Michael contrata uma empregada que é mais do que perfeita.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/ddCFMl2RHb0BzcoifKsY4r05rr1.jpg"
+        },
+        {
+            "title": "27. Modelo de Mãos",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 7.5,
+            "synopsis": "Michael se torna um modelo de mãos.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/dZyGVgOLy02VZmICeWlwFnv5009.jpg"
+        },
+        {
+            "title": "28. O Que Você Sabe?",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 7.2,
+            "synopsis": "A noite de jogos em família logo vira um desastre.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/dFXJ13Qgftltmnx5xVKuywtdYaE.jpg"
+        },
+        {
+            "title": "29. O Bebê - Parte 1",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 7.5,
+            "synopsis": "Michael não concorda com Vanessa quanto ao parto.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/32IO8XGne4opqqaNSuk2U00hxc8.jpg"
+        },
+        {
+            "title": "30. O Bebê - Parte 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b7cd197083de2854dba7896257056f8dd6d11c"
+            ],
+            "rating": 7.2,
+            "synopsis": "Michael não concorda com Vanessa quanto ao parto.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/cQEw76TApaqm5FGH0lixyzgUDQl.jpg"
         }
     ]
 }

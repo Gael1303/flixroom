@@ -1,0 +1,504 @@
+{
+    "episodios": [
+        {
+            "title": "01. Vamos ao Cinema?",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "A turma do Chaves resolve ir ao cinema. Seu Madruga, Dona Clotilde e Chiquinha vão juntos, enquanto o Sr. Barriga leva o Chaves. Dona Florinda e o Professor Girafales também vão. Porém, ninguém consegue assistir o filme, pois Chaves insiste em dizer que \"seria melhor ter ido ver o filme do Pelé\".",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/zYGL0ulxqfzJ53tq1eSMPPPE4QK.jpg"
+        },
+        {
+            "title": "02. É duro ser eletricista!",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 10.0,
+            "synopsis": "Chaves quebra a lâmpada principal da Vila. Seu Madruga tenta trocá-la, mas sempre ocorre algum acidente com as lâmpadas que ele pega para colocar no lugar da outra.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/cY1UlbkwAwlOpR2CTJxeGTKQStB.jpg"
+        },
+        {
+            "title": "03. O dia dos namorados - Parte 1",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "A turma da vila se prepara para comemorar o dia dos namorados. Chiquinha aproveita um cartão que Dona Clotilde tinha dado para Seu Madruga em branco e escreve uma declaração para Chaves. Mas ele pensa que o cartão é de Paty, deixando a Chiquinha triste.[",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/ap5N7JsPVgnNj8pcbF9cxjRAYeN.jpg"
+        },
+        {
+            "title": "04. O dia de São Valentim - Parte 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Dona Florinda convida todos os vizinhos para comemorar o dia de São Valentim em sua casa. O Sr. Barriga leva presentes e, depois, eles servem um belo jantar. Mas Chaves é tão desastrado que consegue estragar tudo no final.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/pBmMkJF82lkQq2BwTqRMRvPOEW.jpg"
+        },
+        {
+            "title": "05. Tortinhas de merengue sem açúcar",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Chaves, Chiquinha e Pópis resolvem brincar de tortinhas de merengue, usando o creme de barbear de Seu Madruga.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/xDS5Ag7aAzIUGujJbbGsZYM15Wv.jpg"
+        },
+        {
+            "title": "06. Nas pontas dos pés",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Chaves está matando insetos com gasolina e guardando em um saco de pipocas vazio que Nhonho jogou no chão. O pessoal come, achando que são pipocas. Para piorar as coisas, todos machucam seus pés e começam a andar engraçado. No caso de Chaves, foi porque ele tinha comido todo o bolo da Dona Clotilde e depois não teve tempo de ir ao banheiro.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/zoRKqeuvDxL1khpnLDkUFpfB0St.jpg"
+        },
+        {
+            "title": "07. O livro de animais",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Seu Madruga dá um livro sobre animais para Chiquinha. Depois, ela resolve ler o livro com o Chaves e a Pópis.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/iuDcV3KIC3L5xFrqE0fwq2gnYCb.jpg"
+        },
+        {
+            "title": "08. A catapora",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Seu Madruga mente que Chiquinha está doente para não se dar ao trabalho de pagar o aluguel ao Seu Barriga. Mas todos acabam acreditando que ela está mesmo doente e ficam com medo de pegarem catapora.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/srupy9ANUABMvXCeCPNueNdTXTg.jpg"
+        },
+        {
+            "title": "09. Um astro cai na vila - Parte 1",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "EPISÓDIO PERDIDO — Héctor Bonilla, o famoso astro de novelas, chega à vila para pedir ajuda, pois um pneu de seu carro está furado.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/lyby0lssvqwTfqq8Ysqfm7sF7Qw.jpg"
+        },
+        {
+            "title": "10. Um astro cai na vila - Parte 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Héctor Bonilla pede para Seu Madruga um macaco emprestado para trocar o pneu. Enquanto isso, Dona Florinda convida o ator para uma xícara de café, deixando o Professor Girafales com ciúmes. Chiquinha e Dona Clotilde também dão em cima de Héctor, enquanto Chaves cobra 50 centavos para vigiar o carro do ator, que no final, lhe deu uma bola de futebol.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/pLVleoBqh9vULGtJveNYL3M2j9y.jpg"
+        },
+        {
+            "title": "11. Guerra às crianças!",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Seu Madruga resolve empenhar sua carabina velha. Chaves, Chiquinha e Nhonho se assustam, pois pensam que Seu Madruga declarou guerra às crianças.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/tYqCcsjUueCgFS89Wy8oQ2wnP52.jpg"
+        },
+        {
+            "title": "12. O cachorrinho",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Chiquinha resolve brincar que Chaves é seu cachorrinho, fazendo tudo que ela manda. Porém, Chaves começa a agir feito um cachorro e começa a aprontar com os vizinhos. Depois, Seu Madruga compra um cachorrinho de pelúcia para Chiquinha brincar, que termina o episódio cantando a música \"Peludinho.\"",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/rTZpNE061Rx9B6BW8xF2cnzb6mY.jpg"
+        },
+        {
+            "title": "13. A prova de aritmética",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "O Professor Girafales tenta ensinar sobre aritmética, mas sempre é interrompido por seus alunos.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/fCOwjEbGT6OsqDT6dVEIDlxBfBS.jpg"
+        },
+        {
+            "title": "14. O dia da criança",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "As crianças comemoram o \"Dia das Crianças\" e se uma reúnem na casa da Chiquinha para discutir sobre o assunto.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/1LMQrcnxM9mSBnxunrDSiNnSwsC.jpg"
+        },
+        {
+            "title": "15. Um banho para o Chaves",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Chaves é um \"porquinho\" que, provavelmente, nunca toma banho. Então, Chiquinha e Pópis tentam lhe dar um banho a força, mas acabam molhando todo mundo.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/sP0nFErtywEV2tScJiaF3UaTFUN.jpg"
+        },
+        {
+            "title": "16. Santa ignorância!",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "O Professor Girafales ensina sobre animais e suas características. No final, ele tenta fazer uma simples pergunta sobre com o que se fabricam os colares de pérolas. Ninguém consegue responder, e depois de inúmeras tentativas, Godinez enfim responde que são com as \"pérolas\".",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/qPBLROSdc8buCeE38gSc8KbYM4i.jpg"
+        },
+        {
+            "title": "17. Peixe cru faz bem pra memória",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Chiquinha ganhou peixinhos coloridos de sua bisavó, mas eles começam a desaparecer. A garota desconfia do gato que Dona Florinda ganhou do Professor Girafales. Mas, mesmo depois do gato ter morrido após ser atropelado por um caminhão, os peixinhos ainda continuam desaparecendo...",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/kHC9LvcaUnmlrzGNGSMfNQ8x0DB.jpg"
+        },
+        {
+            "title": "18. Uma aula de história",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "O Professor Girafales tenta ensinar sobre a história do Brasil.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/nOqyod6fWgnjZ2YvE3HISngCDGr.jpg"
+        },
+        {
+            "title": "19. O chiclete e o paletó",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Chaves gruda um chiclete no paletó do Sr. Barriga e fica desesperado, pois não consegue tirá-lo. Por isso, resolve cortar o pedaço com uma tesoura, deixando o Sr. Barriga louco.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/6v2Trp4xxZGPiSK9RPMBFgZfsAG.jpg"
+        },
+        {
+            "title": "20. O cãozinho Satanás",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Dona Clotilde vive perdendo o seu cãozinho, Satanás. Enquanto procura por ele, Chaves, Chiquinha e Nhonho pensam que ela está invocando o diabo.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/9Guuuffs9UkOLDIlRQ8sUSyNs2h.jpg"
+        },
+        {
+            "title": "21. O último exame",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "O Professor Girafales aplica um exame e os alunos começam a colar. Depois tenta ensinar sobre higiene.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/6AVzCC44ja9IVffdlYn6kH3GRQg.jpg"
+        },
+        {
+            "title": "22. A fonte dos desejos",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Chiquinha diz à Nhonho que a fonte da escola é uma fonte dos desejos. Só que a mentira acaba se espalhando e todos começam a acreditar que a fonte é mesmo dos desejos.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/dolsCytIWQuG9DBtJ9SSQIUoqaE.jpg"
+        },
+        {
+            "title": "23. Os penetras - Parte 1",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "É o aniversário do Professor Girafales. Por isso, Dona Florinda resolve fazer uma festinha particular, mas ela não contava com a \"agradável\" companhia de Chaves, Chiquinha e Dona Clotilde. Após o jantar ter sido estragado por Chaves, os adultos resolvem ir ao bar da esquina para comer panquecas. É lá, Dona Florinda decide comprar o boteco e transformá-lo em um restaurante.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/frYE9BbFl21nrfElzBnNRAOonRu.jpg"
+        },
+        {
+            "title": "24. Dona Florinda abre um restaurante - Parte 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Dona Florinda e Professor Girafales estão fazendo uma reforma no restaurante. Porém, a confusão começa quando Chaves e Chiquinha começam a ajudá-los.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/2mHbkdWEoNiMYgR41ycToc9ZVCd.jpg"
+        },
+        {
+            "title": "25. Dando sorte com muito azar",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Chaves vende seu último bilhete de loteria para o Professor Girafales, que no dia seguinte, fica sabendo que ganhou o prêmio. Mas ele perdeu o bilhete no restaurante. O problema agora é encontrá-lo.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/vhJJg1Uswk6W2CPuJRPMVHzreld.jpg"
+        },
+        {
+            "title": "26. O restaurante de Dona Florinda",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Dona Florinda coloca Chaves como ajudante no restaurante. Depois, Chiquinha tenta convencer o Sr. Barriga a lhe pagar um sorvete. Mas seu plano não dá certo, pois Chaves sem querer, acaba jogando macarrão em cima do Sr. Barriga. E toda a culpa cai em cima do garçom, que havia sido contratado por Dona Florinda.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/u3oCJ84tNdkcKhOK9vEZ6UAN6Go.jpg"
+        },
+        {
+            "title": "27. A aula de matemática",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "O Professor Girafales ensina sobre geometria e aritmética. No final, ele resolve explicar de uma forma mais prática ao Chaves, desenhando Nhonho na lousa, que apavorado, pensa que o professor pretende cortá-lo em vários pedaços.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/r55qSv1gmHBlMSQ5wXP7RMNSD2i.jpg"
+        },
+        {
+            "title": "28. O estilingue",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Chaves está caçando lagartixas e consegue matar uma. Mas todos pensam que ele matou a Dona Clotilde.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/np2mFbfkThRGHWyOCpX3DCYMpaU.jpg"
+        },
+        {
+            "title": "29. Vai graxa? - Parte 1",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Chiquinha faz um acordo com Chaves que trabalha como engraxate e assim divida o que ganhar com ela.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/nl1xfcAHwD6jg0BhvHv9ZYiV809.jpg"
+        },
+        {
+            "title": "30. O engraxate - Parte 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Chaves continua trabalhando como engraxate e divide todo o dinheiro que ganha com Chiquinha.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/yNNEKprE4XLC6xJk0og2zZF8Wiy.jpg"
+        },
+        {
+            "title": "31. O restaurante da Dona Florinda",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Chaves e Chiquinha conseguem almoçar no restaurante graças ao Professor Girafales, que paga o que eles comerem. Chaves começa a ter uma indigestão por comer dois sanduíches de presunto ao mesmo tempo.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/uLjkxz0pZ8rxYc6B7Nd2LGBHx2v.jpg"
+        },
+        {
+            "title": "32. Tem uma mosca no meu café!",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Chiquinha faz um plano com Chaves para comerem de graça no restaurante da Dona Florinda: conseguir uma mosca (ou churrumino) e colocá-la dentro do café. Mas Chaves causa a maior confusão no restaurante quando começa a caçar os churruminos.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/d5bGOyakoc4TGOSKafNAWt3yB87.jpg"
+        },
+        {
+            "title": "33. Na escola... domingo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Chaves, Chiquinha e Nhonho faltam na escola e ficam com medo do Professor Girafales. Por isso, eles resolvem invertar diversas mentiras até que no fim, descobrem que mataram aula no domingo!",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/5mphN78FCInnE5ZcmIq3HZPghjg.jpg"
+        },
+        {
+            "title": "34. Cuidando de Dona Florinda",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Dona Florinda fica doente e o Professor Girafales cuida dela, sendo ajudado por Chaves e Chiquinha, que enquanto isso resolvem brincar de médica e paciente.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/8flqP3tQrfPpkQOn6oLM2dgo0Se.jpg"
+        },
+        {
+            "title": "35. Nasce uma bisavó",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Chiquinha descobre que sua bisavó, Dona Neves, vai morar junto com ela. Ao mesmo tempo, chega um novo carteiro à vila: Jaiminho, um senhor vindo de Tangamandápio.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/inV62525d8a6CLniAbkRaOAGkYC.jpg"
+        },
+        {
+            "title": "36. Uma ajuda para a Cruz Vermelha",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Chaves e Chiquinha estão coletando dinheiro para a Cruz Vermelha. Enquanto isso, Dona Neves tem a ideia de fingir que está louca para não pagar o aluguel ao Sr. Barriga. Já Nhonho, pensa que Dona Florinda ficou louca. Então, eles tentam curá-las com baldes de água fria!",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/58I93x1sLOnVS8hh0GfsbpQniZ4.jpg"
+        },
+        {
+            "title": "37. Vamos ao parque? - Parte 1",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Um senhor resolve montar seu parque na rua que fica ao lado da vila. Dona Florinda se irrita com o barulho causado pelas pessoas que se divertem no parque e resolve reclamar com o Seu Barriga.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/p9Qm2bw2s2PsIwHCtYll517kcBk.jpg"
+        },
+        {
+            "title": "38. O parque de diversões - Parte 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Chaves, Nhonho e Godinez resolvem ir brincar no parque de diversões, mas Chaves faz a maior bagunça com o dono do parque. Depois, o Professor Girafales junto com a Dona Neves começam a brincar no carrosel. No final, o Professor Girafales e a Dona Florinda cantam a canção \"Idilio Sin Igual\".",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/gupWMHtFo6JhkoBBbqKLTTeLHAo.jpg"
+        },
+        {
+            "title": "39. O sonho que deu bolo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Chaves e Chiquinha tentam roubar um bolo no restaurante de Dona Florinda. Depois, eles começam a sonhar que são clientes bem tratados no local.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/nbT5vfkTdgnZ9jDKiknu5K42i9W.jpg"
+        },
+        {
+            "title": "40. Eu sou a mosca que caiu na sua Sopa",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Chiquinha tenta enganar a Dona Clotilde para que ela lhe pague um almoço. Mas na hora de pagar a conta, Chiquinha se esconde no banheiro do restaurante mentindo que estava com vontade de ir e fica lá por mais de três horas!",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/yOIWaUQyALe95SJnGte5yhF6r3y.jpg"
+        },
+        {
+            "title": "41. Caça ao rato - Parte 1",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "O restaurante está cheio de ratos. Ao saber disso, Dona Florinda e Chiquinha ficam desesperadas!",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/4zbQg7lrF50UvsALRqGRxX62u3H.jpg"
+        },
+        {
+            "title": "42. Caça ao rato - Parte 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Chaves coloca ratoeiras em toda parte no restaurante e todos acabam se machucando com elas.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/nmv8chCFQ17d4cGQhdUBetrI6m1.jpg"
+        },
+        {
+            "title": "43. Reivindicação salarial para o Chaves",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Dona Neves resolve defender Chaves para conseguir um salário fixo para ele além das gorjetas, mas acaba causando o maior tumulto no restaurante, impedindo que Jaiminho coma a torta que pediu.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/r6eG10grVlImEnVfhWJS4lIiCHC.jpg"
+        },
+        {
+            "title": "44. O bolo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Dona Florinda manda Chaves comprar um bolo para o Professor Girafales, mas o garoto acaba estragando o bolo. Por isso, ele e Chiquinha decidem fazer outro.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/hI8uSS9RYks6H73IKtn3VO00kas.jpg"
+        },
+        {
+            "title": "45. Os gatinhos de Chaves",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Chaves e Chiquinha descobrem que os filhotes da gata de Dona Florinda, recém-nascidos, estão morrendo de fome. Com pena, eles resolvem pegar as caixas de leite do restaurante para dar aos filhotes.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/uIEPhzVryVef0YpreKpLjA2ASYY.jpg"
+        },
+        {
+            "title": "46. Os hóspedes do Sr. Barriga - Parte 1",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Seu Barriga manda reformar o setor principal da vila. Por isso, oferece sua casa para a turma do Chaves, que vai morar com ele por alguns dias. O problema é que Chaves já chega bagunçando tudo...",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/6fuKzPzF1EbBRr8MN2ekHzaDX1e.jpg"
+        },
+        {
+            "title": "47. Os hóspedes do Sr. Barriga - Parte 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "O Professor Girafales chega a vila e fica sabendo que Dona Florinda está morando na casa do Sr. Barriga. Então, ele briga com a Dona Florinda, pois pensa que está sendo traido por ela. Enquanto isso, Chaves conhece o quarto de Nhonho, que parece uma loja de brinquedos.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/8E2X5u5G8w5uV4IxQ5CGdiX2SlE.jpg"
+        },
+        {
+            "title": "48. Os hóspedes do Sr. Barriga - Parte 3",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "A turma do Chaves comemora o Natal na casa do Sr. Barriga. Depois, Chaves se imagina dentro do presépio, e canta a canção \"Quisiera haber sido un pastor\".",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/xZiNkrufbvGu0GgBVuqT8nP6rR8.jpg"
+        },
+        {
+            "title": "49. Os hóspedes do Sr. Barriga - Parte 4",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Dona Florinda finalmente se acerta com o Professor Girafales. Depois, a turma volta à vila e encontra tudo novo.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/hu8YYzcFSDDLEDFUGLochedObi5.jpg"
+        },
+        {
+            "title": "50. Antes um tanque funcionando que uma lavadora encrencada",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0987273c1401e2e96d1f79477a7090def16fbcee"
+            ],
+            "rating": 0.0,
+            "synopsis": "Dona Clotilde e Dona Neves ficam surpresas ao ver que Dona Florinda está lavando suas roupas sem nem sair de casa e tentam descobrir o que acontece.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/fCiCUvPWOGI2jPphTGzOO6HNXEd.jpg"
+        }
+    ]
+}

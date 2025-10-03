@@ -1,10 +1,274 @@
 {
     "episodios": [
         {
-            "title": "Eu, a Patroa e as Crianças: Temporada 3",
+            "title": "01. Os Kyle Vão para o Havaí - Parte 1",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
-            ]
+            ],
+            "rating": 8.3,
+            "synopsis": "Os Kyle viajam em férias para o Havaí.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/nMogTx73BntBy0LY5gP4V1uHqye.jpg"
+        },
+        {
+            "title": "02. Os Kyle Vão para o Havaí - Parte 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 7.8,
+            "synopsis": "Os Kyle viajam em férias para o Havaí.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/4vtinxwloeMf0Nwhy90JWtEcz8Z.jpg"
+        },
+        {
+            "title": "03. Os Kyle Vão para o Havaí - Parte 3",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 7.3,
+            "synopsis": "Os Kyle tentam chegar ao aeroporto a tempo.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/mgfxnBS2zKqQol81mkCJqDrjOEC.jpg"
+        },
+        {
+            "title": "04. A Aula de Samba",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 7.5,
+            "synopsis": "Michael e Janet sentem ciúmes na aula de dança.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/2TCUQW4HYCzJ8oFDYG3kUGuyYcg.jpg"
+        },
+        {
+            "title": "05. Diário de uma Jovem Desesperada",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 8.0,
+            "synopsis": "Janet fica chocada com o que lê no diário de Claire.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/1D4IGaCC4UsIdIN3KAvxNWd4EXm.jpg"
+        },
+        {
+            "title": "06. O Novo Namorado de Claire",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 7.3,
+            "synopsis": "Michael não gosta do novo namorado de Claire.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/sfw17AnZuiGwpk70vQaGwhd6j2O.jpg"
+        },
+        {
+            "title": "07. Mãe Ortodoxa, Pai Liberal",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 7.7,
+            "synopsis": "A professora de Kady questiona a competividade de Janet.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/5dSERTrdq0l1NDhpKGKyafhKA61.jpg"
+        },
+        {
+            "title": "08. A Briga dos Kyle",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 7.3,
+            "synopsis": "Michael e Jay querem fazer seus filhos pararem de discutir.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/80f0JeeouK2RcCMQeuupxmbtYZr.jpg"
+        },
+        {
+            "title": "09. A História da Irmã",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 7.3,
+            "synopsis": "Janet não está animada com a visita da irmã de Michael.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/jNW2O23XPThWvwCJwlq5gR4X7e1.jpg"
+        },
+        {
+            "title": "10. O Dilema de Jr.",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 7.7,
+            "synopsis": "Jr. convida duas garotas para o mesmo baile.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/wJSNiCcbozuPzKa4rlLOcNPe37T.jpg"
+        },
+        {
+            "title": "11. Jay, a Artista",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 8.5,
+            "synopsis": "Michael vira tema de um quadro nude de Janet.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/rSqCfVVadv3GjgzEitgS6huORmF.jpg"
+        },
+        {
+            "title": "12. O Amigo da Cadeira",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 8.0,
+            "synopsis": "Michael vê seu amigo de infância em uma cadeira de rodas.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/a2KHxg4euf1t529bnKr2Vo6mJn3.jpg"
+        },
+        {
+            "title": "13. Abra Seu Coração",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 8.0,
+            "synopsis": "Um esquema de Jr. ameaça o trabalho de Claire.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/gXmMwLe4nnHbVQJGyOJGvqjSHfA.jpg"
+        },
+        {
+            "title": "14. A Tribo de Michael",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 7.3,
+            "synopsis": "Michael está muito ocupado.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/71upz4JwoBZzaXlfsRlbN5YLyVW.jpg"
+        },
+        {
+            "title": "15. Apagão",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 7.0,
+            "synopsis": "As tentativas de Michael de ficar sozinho fracassam.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/1V65Cr3x9dwWh44v2zzW0zfXbLa.jpg"
+        },
+        {
+            "title": "16. Homem do Ano",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 9.0,
+            "synopsis": "Michael não ganha um prêmio.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/5EHLoVJShadvAXV7zNSsdP51QXe.jpg"
+        },
+        {
+            "title": "17. O Negócio Arriscado de Jr. - Parte 1",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 8.0,
+            "synopsis": "Jr. é pego em uma posição comprometedora com sua namorada.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/DphMrZvzKRdORwOrTGvSp87gzY.jpg"
+        },
+        {
+            "title": "18. O Negócio Arriscado de Jr. - Parte 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 7.3,
+            "synopsis": "Janet e Michael encaram o maior problema da vida deles.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/x3C7IgI7HUPujLO0D6hT8BnFQhp.jpg"
+        },
+        {
+            "title": "19. O Dever do Júri",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 7.5,
+            "synopsis": "Michael faz serviço de júri.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/mqkT0JSxyHlUisxDJLb38syN21y.jpg"
+        },
+        {
+            "title": "20. Lá Vem o Juiz",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 7.0,
+            "synopsis": "Jr. ou Claire conseguirá ficar com os 500 dólares encontrados?",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/ktAt2gHm8SCrSgmJwbfhDccZtFC.jpg"
+        },
+        {
+            "title": "21. A Permissão de Claire",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 7.0,
+            "synopsis": "Claire pega o carro de Michael sem permissão.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/AaW0QdyDFZFhIkAyDHJixmwAoQK.jpg"
+        },
+        {
+            "title": "22. A Foto de Sharon",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 7.3,
+            "synopsis": "Janet quer saber por que Michael tem uma foto de sua ex.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/8T4na7jiRdwT9DsVtxK9mvKfMgq.jpg"
+        },
+        {
+            "title": "23. Chá para Muita Gente",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 7.7,
+            "synopsis": "Janet distrai Michael enquanto ele joga golfe.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/vcfoBnilIBf5CZibqnXAomxDEOM.jpg"
+        },
+        {
+            "title": "24. A Teoria do Big Bang",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 7.3,
+            "synopsis": "Claire e Tony anunciam que estão prontos para fazer sexo.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/9QVmF0LHlCiwgyz8H3PgUMKfANg.jpg"
+        },
+        {
+            "title": "25. Assumir Não é Tão Hostil",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 7.0,
+            "synopsis": "Michael e Janet tentam reviver sua juventude.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/anThu8LOFWAg54wEL6VjD2PrR3w.jpg"
+        },
+        {
+            "title": "26. Formatura - Parte 1",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 8.5,
+            "synopsis": "É o dia de formatura do ensino médio de Jr.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/zXur3BDCGEv4ODvlX6UDQjTF3Ft.jpg"
+        },
+        {
+            "title": "27. Formatura - Parte 2",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2520025bf859f7695f10aafac35009cac0def1"
+            ],
+            "rating": 8.7,
+            "synopsis": "É o dia de formatura do ensino médio de Jr.",
+            "runtime": 23,
+            "poster": "https://image.tmdb.org/t/p/original/tY9i9d0bApumxCa2pWtuJF1e7NT.jpg"
         }
     ]
 }
