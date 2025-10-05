@@ -73,7 +73,7 @@
         {
             "title": "08. SDDNDTH",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bc89fcb87b782d16e11fb52c2160b9683dfd442"
             ],
             "rating": 6.5,
             "synopsis": "John e Quiet criam uma aliança desconfortável com outros competidores enquanto enfrentam seu desafio mais perigoso até agora; com o tempo se esgotando e as probabilidades contra eles, eles devem deixar de lado suas diferenças e trabalhar juntos para sobreviver.",
@@ -83,7 +83,7 @@
         {
             "title": "09. VAVAVUM",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:452973c32e4e3134bda8ada63b2aba3f89f853b7"
             ],
             "rating": 7.7,
             "synopsis": "Calypso surpreende os competidores com uma reviravolta que muda o jogo; Sweet Tooth é solto; John e Quiet confrontam seus sentimentos.",
@@ -123,4 +123,5 @@
     ]
 
 }
+
 
