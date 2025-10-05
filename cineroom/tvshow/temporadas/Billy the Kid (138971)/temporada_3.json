@@ -11,12 +11,12 @@
             "poster": "https://image.tmdb.org/t/p/original/v8Nei1hLpPB1FcRhwXom8ofVezk.jpg"
         },
         {
-            "title": "02. Episódio 2",
+            "title": "02. Dois Disparos",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:603ef171742baf32ed265319e50f6cc44aba1954"
             ],
             "rating": 0.0,
-            "synopsis": "",
+            "synopsis": "Billy e os Reguladores sofrem uma emboscada preparada por Garrett após uma traição e Jesse lida com uma perda. Enquanto isso, Catron se desentende com a filha durante a tentativa de tomar a Casa de Riley.",
             "runtime": 45,
             "poster": "https://image.tmdb.org/t/p/original/vVcJNm0EbPahVcsc4qSXLHD6CB5.jpg"
         },
@@ -81,4 +81,5 @@
             "poster": ""
         }
     ]
+
 }
