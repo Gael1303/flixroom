@@ -101,43 +101,42 @@
             "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/e2iniIW4GZOfpzsYm3Gs9V3rrTa.jpg"
         },
         {
-            "title": "11. Episódio 11",
+            "title": "11. A Hospitalidade da Amo",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dbea21f9beabad7d06092cc4cec16bbbf8364025"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 8.0,
+            "synopsis": "O grupo dos Zeladores segue Amo, mas se vê em uma situação inesperada. Será que há um traidor no meio deles?",
+            "runtime": 25,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/a8FkL2y74TlH8T7FroXRVPn2O9a.jpg"
         },
         {
-            "title": "12. Episódio 12",
+            "title": "12. Algo Como uma Maldição",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4bad237d74e94a55d4958a6b887aa80922ed36d"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 8.0,
+            "synopsis": "Atacados por seus companheiros, Tamsy e Zanka se esforçam para derrotar Amo e fazer todos voltarem ao normal.",
+            "runtime": 24,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/iM9y3lJYQXifyvu9NPZIXW1qKGk.jpg"
         },
         {
-            "title": "13. Episódio 13",
+            "title": "13. Pupilas Vazias",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cedb2bf973d78a5e433ff917673618cb0b561571"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 8.0,
+            "synopsis": "Amo conta sua história, como conseguiu seu Utensílio Personalíssimo, e quem ela viu cruzando a Fronteira.",
+            "runtime": 25,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/f3Trs8OBxuxrGqh5qkDx6fJvTkX.jpg"
         },
         {
-            "title": "14. Episódio 14",
+            "title": "14. Episodio",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
             ],
-            "rating": 0.0,
+            "rating": 8.0,
             "synopsis": "",
-            "runtime": 0,
             "poster": ""
         },
         {
@@ -243,4 +242,5 @@
     ]
 
 }
+
 
