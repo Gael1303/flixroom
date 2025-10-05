@@ -61,14 +61,14 @@
             "poster": "https://image.tmdb.org/t/p/original/l55bH1tdPjWjCVaOe0yaXHVC2wn.jpg"
         },
         {
-            "title": "07. Episódio 7",
+            "title": "07. Como Um Keith na Noite",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a997bb1b1b006cbf97957643d2e408f1052edc6"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 7.7,
+            "synopsis": "À medida que Flag e a A.R.G.U.S. se aproximam, os 11th Street Kids tentam manter sob controle os perigos cada vez maiores do mundo paralelo ao redor deles.",
+            "runtime": 33,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/zGwyJ5w7SKznoR336cK3UFldkx1.jpg"
         },
         {
             "title": "08. Episódio 8",
@@ -83,5 +83,6 @@
     ]
 
 }
+
 
 
