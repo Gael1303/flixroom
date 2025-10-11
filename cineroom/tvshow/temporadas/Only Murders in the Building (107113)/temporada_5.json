@@ -51,24 +51,24 @@
             "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/9SWPjaexEg7rrXkKUrwhDhGjM3q.jpg"
         },
         {
-            "title": "06. Episódio 6",
+            "title": "06. Flatbush",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25a44b1d20e7e7d397d27676eb14b3886a4c4957"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 9.7,
+            "synopsis": "The investigation takes Oliver and Loretta back to the streets of his childhood, where buried memories surface and secrets about Lester and Nicky's widows emerge. Mabel and Charles follow leads after a break-in.",
+            "runtime": 37,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/z4zoe52SLjkQfZWovQwBWFKomac.jpg"
         },
         {
-            "title": "07. Episódio 7",
+            "title": "07. Silver Alert",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95e671b235cce111a306ba9e5768084e5174469f"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 9.7,
+            "synopsis": "The mayor warns the trio about the billionaires, sending them to investigate further at a villainous lair upstate — as Oliver boots it in an attempted escape.",
+            "runtime": 36,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/yrZtI1d0SHo7jzkXOjhFlkhhbmc.jpg"
         },
         {
             "title": "08. Episódio 8",
@@ -103,3 +103,4 @@
     ]
 
 }
+
