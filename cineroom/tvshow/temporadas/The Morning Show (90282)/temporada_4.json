@@ -31,14 +31,14 @@
             "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/mAdct9VucqkTT5oJrGJzBbINL57.jpg"
         },
         {
-            "title": "04. Episódio 4",
+            "title": "04. Amar as Perguntas",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:360aaa4540a4c9dabdc56634c71d6d5c71329993"
             ],
-            "rating": 0.0,
-            "synopsis": "",
+            "rating": 4.6,
+            "synopsis": "Uma notícia de última hora leva a equipe desfalcada do TMS ao limite.",
             "runtime": 47,
-            "poster": ""
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/38CYeJrEp9ogVqKIMdInnnLpIYz.jpg"
         },
         {
             "title": "05. Episódio 5",
@@ -103,4 +103,5 @@
     ]
 
 }
+
 
