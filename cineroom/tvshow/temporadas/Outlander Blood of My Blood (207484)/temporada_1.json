@@ -73,32 +73,33 @@
         {
             "title": "08. Uma Mulher Virtuosa",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee1c229759aaed8f6c7d7bfb0ac603d2b78e9faa"
             ],
-            "rating": 0,
+            "rating": 57,
             "synopsis": "Ellen fez um pacto com Colum que salvou a vida de Brian, mas tornou o amor deles impossível.",
-            "runtime": 0,
+            "runtime": 7.5,
             "poster": "https://image.tmdb.org/t/p/original/7WEfwzVXQ0eMsTTxtSIMPSbBhuV.jpg"
         },
         {
             "title": "09. A Caçada",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79aa804199d75aab8b8c74ba254ffc8bc445fdaa"
             ],
-            "rating": 0,
+            "rating": 6.0,
             "synopsis": "Inconsolável após o término com Ellen, Brian participa de uma caçada fatídica.",
-            "runtime": 0,
-            "poster": ""
+            "runtime": 58,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/qNHRFiaqcjrqN5FyxonNLX8zSoL.jpg"
         },
         {
             "title": "10. Árvore de Tara",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f73908b6867fd14f52d9271b751c988a7b37b183"
             ],
-            "rating": 0,
+            "rating": 96,
             "synopsis": "Henry e Julia querem voltar para 1923. Ellen e Brian também planejam sua fuga.",
             "runtime": 0,
-            "poster": ""
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/7NdwbD6HFJ8nHZ0chsridJX1Vrx.jpg"
         }
     ]
 }
+
