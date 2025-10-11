@@ -51,14 +51,14 @@
             "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/x7AMffs5k79qIf0P9KIhqfTu5Wl.jpg"
         },
         {
-            "title": "06. Episódio 6",
+            "title": "06. Licões de Culinária",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c8e4fa7f561ec4dc79296d9508072103157af3c"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 6.7,
+            "synopsis": "Com medo da futura guerra cultural e do apocalipse? Em frente com muito estilo e conforto! Sistemas sépticos sustentáveis E Feng Shui! À prova de explosões e aprovado por bilionários! O mundo pode estar em chamas, mas você estará a 10 metros abaixo do solo com uma taça de Bordeaux 1982 na mão! Aproveite agora antes que seja tarde demais.",
+            "runtime": 45,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/gYUmyPuxpSGK6xFs2rGCfrWmw3V.jpg"
         },
         {
             "title": "07. Episódio 7",
@@ -83,4 +83,5 @@
     ]
 
 }
+
 
