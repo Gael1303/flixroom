@@ -1,0 +1,84 @@
+{
+    "episodios": [
+        {
+            "title": "01. Mamãe!",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f26f49e863fc0a972e19abf1b9272f9bcb8726f"
+            ],
+            "rating": 7.25,
+            "synopsis": "Em uma fazenda distante, a relação problemática entre o solitário Ed Gein e a mãe dominadora é o gatilho para uma guinada rumo à loucura.",
+            "runtime": 54,
+            "poster": "https://image.tmdb.org/t/p/original/kw5r9J3idIkkyZJimO0udFxNSdD.jpg"
+        },
+        {
+            "title": "02. Segredos doentios",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f26f49e863fc0a972e19abf1b9272f9bcb8726f"
+            ],
+            "rating": 7.077,
+            "synopsis": "Atormentado por visões terríveis, Ed transforma sua fixação pela morte em hobby macabro. Anos depois, ficção e realidade se confundem em um set de Hollywood.",
+            "runtime": 60,
+            "poster": "https://image.tmdb.org/t/p/original/knDeASdsRhI1fEp4RSfcf9awc6k.jpg"
+        },
+        {
+            "title": "03. A babá",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f26f49e863fc0a972e19abf1b9272f9bcb8726f"
+            ],
+            "rating": 7.7,
+            "synopsis": "A busca por conexão leva Ed a um encontro noturno e a um grotesco show de mágica, que gera uma sede de vingança insaciável.",
+            "runtime": 59,
+            "poster": "https://image.tmdb.org/t/p/original/1mdA2f0UovFwsL27lshW1vsehGI.jpg"
+        },
+        {
+            "title": "04. Verde",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f26f49e863fc0a972e19abf1b9272f9bcb8726f"
+            ],
+            "rating": 7.6,
+            "synopsis": "Ed se vê dividido entre duas mulheres bem diferentes. Com a guerra do Vietnã se agravando, histórias sobre um vilão do mundo real inspiram um jovem cineasta do Texas.",
+            "runtime": 58,
+            "poster": "https://image.tmdb.org/t/p/original/jYQecik7g6tHEyAyOMsbyCBS1Vt.jpg"
+        },
+        {
+            "title": "05. Gelo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f26f49e863fc0a972e19abf1b9272f9bcb8726f"
+            ],
+            "rating": 6.7,
+            "synopsis": "Adeline sonha com a fama, mas vive uma realidade difícil na cidade grande. Consumido por seus desejos sombrios, Ed comete atos impensáveis.",
+            "runtime": 49,
+            "poster": "https://image.tmdb.org/t/p/original/mrwSF265TyCNcx8XeKcuREQYYax.jpg"
+        },
+        {
+            "title": "06. Ação de Graças",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f26f49e863fc0a972e19abf1b9272f9bcb8726f"
+            ],
+            "rating": 7.5,
+            "synopsis": "Após encontrarem uma cena de crime estarrecedora, as autoridades não se convencem com as explicações de Ed. Adeline finalmente conhece a fama.",
+            "runtime": 46,
+            "poster": "https://image.tmdb.org/t/p/original/4picotdBJmWq8owsYqzgDdBTDu3.jpg"
+        },
+        {
+            "title": "07. Radioamador",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f26f49e863fc0a972e19abf1b9272f9bcb8726f"
+            ],
+            "rating": 7.8,
+            "synopsis": "O assistente Frank transforma a fazenda dos Gein em um espetáculo sórdido. Ed cria um método diferente para se comunicar com seus heróis no mundo exterior.",
+            "runtime": 59,
+            "poster": "https://image.tmdb.org/t/p/original/mAdweaY3B3Dru5ViGGGGYI8Ed9Y.jpg"
+        },
+        {
+            "title": "08. O padrinho",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f26f49e863fc0a972e19abf1b9272f9bcb8726f"
+            ],
+            "rating": 8.3,
+            "synopsis": "Ed encontra um novo propósito ajudando os investigadores a resolver um caso perturbador. Mas passado e presente se misturam, e seu legado terrível continua.",
+            "runtime": 66,
+            "poster": "https://image.tmdb.org/t/p/original/buEEJshPhyxc8WzJCGCkcw81AUP.jpg"
+        }
+    ]
+}
