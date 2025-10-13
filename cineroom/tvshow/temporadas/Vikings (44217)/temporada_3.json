@@ -1,10 +1,105 @@
 {
-    "episodios": [
-        {
-            "title": "Vikings - 3ª Temporada Completa",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fef8327dae340e5120e142850a264b5d8f22a2b"
+
+            "episodios": [
+                {
+                    "title": "01. Mercenário",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fef8327dae340e5120e142850a264b5d8f22a2b"
+                    ],
+                    "rating": 8.1,
+                    "synopsis": "As frotas de Ragnar e Lagertha partem de Kattegat mais uma vez rumo a Wessex, mas desta vez eles trazem os colonos.",
+                    "runtime": 49,
+                    "poster": "https://image.tmdb.org/t/p/original/lxkXxSHLqkqM7vSGaZLTRbVnfvw.jpg"
+                },
+                {
+                    "title": "02. O Andarilho",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fef8327dae340e5120e142850a264b5d8f22a2b"
+                    ],
+                    "rating": 8.1,
+                    "synopsis": "Lagertha e Athelstan ajudam a organizar o assentamento dos Vikings. Enquanto isso, um misterioso viajante aparece.",
+                    "runtime": 44,
+                    "poster": "https://image.tmdb.org/t/p/original/l3FI55cfzldcO3jhNX1CeSctabN.jpg"
+                },
+                {
+                    "title": "03. O Destino do Guerreiro",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fef8327dae340e5120e142850a264b5d8f22a2b"
+                    ],
+                    "rating": 7.9,
+                    "synopsis": "O Rei Ecbert visita o assentamento Viking em constante desenvolvimento, enquanto a primeira colheita é semeada.",
+                    "runtime": 44,
+                    "poster": "https://image.tmdb.org/t/p/original/d4BYOprH5Ymf2VlglH3UnEZWc8P.jpg"
+                },
+                {
+                    "title": "04. Cicatrizado",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fef8327dae340e5120e142850a264b5d8f22a2b"
+                    ],
+                    "rating": 7.9,
+                    "synopsis": "Apesar do retorno das forças, Floki se irrita por causa da aliança com Ecbert. A Princesa Kwenthrith faz articulações políticas calculadas.",
+                    "runtime": 44,
+                    "poster": "https://image.tmdb.org/t/p/original/5w5PZjjiT0fscns1td55qEuR2np.jpg"
+                },
+                {
+                    "title": "05. O Usurpador",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fef8327dae340e5120e142850a264b5d8f22a2b"
+                    ],
+                    "rating": 8.0,
+                    "synopsis": "A frota volta para casa. Lagertha pede que Ragnar viaje a Hederby para reclamar seu posto. O Vidente prevê intrigas para Rollo.",
+                    "runtime": 44,
+                    "poster": "https://image.tmdb.org/t/p/original/PkbyH1xQZy63SycZT07IOTSF1N.jpg"
+                },
+                {
+                    "title": "06. Renascido",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fef8327dae340e5120e142850a264b5d8f22a2b"
+                    ],
+                    "rating": 8.0,
+                    "synopsis": "Com o avanço da preparação para o ataque a Paris, Rollo pensa em seu destino. Kalf chega a Kattegat.",
+                    "runtime": 44,
+                    "poster": "https://image.tmdb.org/t/p/original/9n8pc6XwRlEeeMb4nrukUGzRHS9.jpg"
+                },
+                {
+                    "title": "07. Paris",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fef8327dae340e5120e142850a264b5d8f22a2b"
+                    ],
+                    "rating": 7.5,
+                    "synopsis": "A chegada da frota dos vikings a Paris desperta pânico, mas conde Odo tem certeza de que a cidade está preparada para enfrentar o ataque.",
+                    "runtime": 44,
+                    "poster": "https://image.tmdb.org/t/p/original/cFFY8zOjUQlACFAKyMIufup3VjE.jpg"
+                },
+                {
+                    "title": "08. Para os Portões!",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fef8327dae340e5120e142850a264b5d8f22a2b"
+                    ],
+                    "rating": 8.5,
+                    "synopsis": "Paris é confinada sob o comando do conde Odo, mas os vikings estão determinados a arrombar os portões da cidade.",
+                    "runtime": 44,
+                    "poster": "https://image.tmdb.org/t/p/original/5Wmmag8yK7kPyLunTnx9DuQAJTs.jpg"
+                },
+                {
+                    "title": "09. Ponto de Ruptura",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fef8327dae340e5120e142850a264b5d8f22a2b"
+                    ],
+                    "rating": 8.1,
+                    "synopsis": "Os vikings lançam um segundo ataque a Paris, o que leva o imperador Charles a tomar uma decisão desesperada. Enquanto isso, em Wessex, Judith também se depara com uma decisão.",
+                    "runtime": 44,
+                    "poster": "https://image.tmdb.org/t/p/original/kJerWFq6iuToWn6NJf2hwkXzFUO.jpg"
+                },
+                {
+                    "title": "10. O Morto",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fef8327dae340e5120e142850a264b5d8f22a2b"
+                    ],
+                    "rating": 8.2,
+                    "synopsis": "O destino de Rollo é reconhecido, e Bjorn assume como líder. Em sua última chance de tomar Paris, Ragnar e suas tropas assumem um grande risco, algo que pode alterar o curso da história viking.",
+                    "runtime": 44,
+                    "poster": "https://image.tmdb.org/t/p/original/5KpRWZYaZ8Tjxn40TQzPj4Tnk9t.jpg"
+                }
             ]
         }
-    ]
-}
