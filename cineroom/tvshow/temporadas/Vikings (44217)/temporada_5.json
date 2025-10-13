@@ -1,124 +1,204 @@
 {
-    "episodios": [
-        {
-            "title": "5x01. O Rei Pescador",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc53a63a6d86acd3fbef2fa32b769bd9ef6feccc"
-            ]
-        },
-        {
-            "title": "5x02. Aqueles Que Se Foram",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc53a63a6d86acd3fbef2fa32b769bd9ef6feccc"
-            ]
-        },
-        {
-            "title": "5x03. Terra Natal",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e399c74e7d9848e40d7736e7c4a0ba33f7414a03"
-            ]
-        },
-        {
-            "title": "5x04. O Plano",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a40b403213b9eee803d9f468502cf7a15c6dffb"
-            ]
-        },
-        {
-            "title": "5x05. O Prisioneiro",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f79a52096fdf746cb1089b0e7a5857d66c27e9a"
-            ]
-        },
-        {
-            "title": "5x06. A Mensagem",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:967669a12b1378f4cccec28084aceb8ec84794b6"
-            ]
-        },
-        {
-            "title": "5x07. Lua Cheia",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:521144b3b3103bfb796fdd8d1f83c2e49b54406d"
-            ]
-        },
-        {
-            "title": "5x08. A Piada",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b123f21f50057aabed1080d9809f5e3168958a8"
-            ]
-        },
-        {
-            "title": "5x09. Uma História Simples",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7da30b6bc560e9b21ef1a6b4322553ca130ce72"
-            ]
-        },
-        {
-            "title": "5x010. Visões",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d31e38a08a6f22130be66775df5c1da60a44ccd"
-            ]
-        },
-        {
-            "title": "5x011. Revelação",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42f5d7ba1b4a3bacb22c0f5d81ab2e2e8d46df61"
-            ]
-        },
-        {
-            "title": "5x012. Todo Assassinato é Infame",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27161435aa54c3476c76aa123d10b6c4ab4e200b"
-            ]
-        },
-        {
-            "title": "5x013. Novo Deus",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d59c99d2a89cc52b6f980390abaa2be2b7d45d24"
-            ]
-        },
-        {
-            "title": "5x014. Momento Perdido",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d8146cc55cad81cc8d7c9a344d37a126003cab8"
-            ]
-        },
-        {
-            "title": "5x015. Inferno",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7488aa111f29e8b66c33c9b77503e0b34d4b03d"
-            ]
-        },
-        {
-            "title": "5x016. Buda",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d22f52c25d45769dbcd49ce10e14399bfe47c6e3"
-            ]
-        },
-        {
-            "title": "5x017. Coisas Terríveis",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73a5c631d13e649eb841b05ec2a99faf9e5db9ac"
-            ]
-        },
-        {
-            "title": "5x018. Baldur",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b56108bc8311657a36fad4fb8d784ec12cc47ae6"
-            ]
-        },
-        {
-            "title": "5x019. O que Acontece na Caverna",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02e4b9f35e3ed80674584f212f9d9eee29f1df14"
-            ]
-        },
-        {
-            "title": "5x020. Ragnarök",
-            "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2785da936f7555fcc0c2c711de1f1826fa3bdf3"
+            "episodios": [
+                {
+                    "title": "01. O Rei Pescador",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc53a63a6d86acd3fbef2fa32b769bd9ef6feccc"
+                    ],
+                    "rating": 7.3,
+                    "synopsis": "Ivar tenta vencer Ubbe e Hvitserk com uma estratégia ousada para o Grande Exército. Um poder religioso surge entre os saxões. Floki traça um novo caminho.",
+                    "runtime": 46,
+                    "poster": "https://image.tmdb.org/t/p/original/p0B2fryD84NkeSG8IezwdswJryE.jpg"
+                },
+                {
+                    "title": "02. Aqueles Que Se Foram",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc53a63a6d86acd3fbef2fa32b769bd9ef6feccc"
+                    ],
+                    "rating": 7.3,
+                    "synopsis": "A volta do rei Harald a Kattegat não parece cair bem para Lagertha. Alianças são formadas para desafiar o controle dos nórdicos em York. Floki atinge águas turbulentas.",
+                    "runtime": 44,
+                    "poster": "https://image.tmdb.org/t/p/original/lh1FjFNHRPH53bp1eqcrfnXs8TV.jpg"
+                },
+                {
+                    "title": "03. Terra Natal",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e399c74e7d9848e40d7736e7c4a0ba33f7414a03"
+                    ],
+                    "rating": 7.6,
+                    "synopsis": "O bispo Heahmund e Aethelwulf dão início ao seu plano de batalha, o que deixa os filhos de Ragnar divididos. Harald apresenta Astrid a seu povo.",
+                    "runtime": 44,
+                    "poster": "https://image.tmdb.org/t/p/original/cAiBQE2KtsFQMWNXmJb7sSl4o7.jpg"
+                },
+                {
+                    "title": "04. O Plano",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a40b403213b9eee803d9f468502cf7a15c6dffb"
+                    ],
+                    "rating": 7.1,
+                    "synopsis": "Lagertha faz uma oferta a Ubbe, enquanto Astrid considera a oferta de Harald. Heahmund pensa em um novo plano de ataque. Bjorn expande seus horizontes.",
+                    "runtime": 44,
+                    "poster": "https://image.tmdb.org/t/p/original/mwhArS0AWSYKnES2Ne22vWgxl7Z.jpg"
+                },
+                {
+                    "title": "05. O Prisioneiro",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f79a52096fdf746cb1089b0e7a5857d66c27e9a"
+                    ],
+                    "rating": 7.2,
+                    "synopsis": "Ivar encontra alguém à sua altura ao conhecer o Bispo Heahmund; Floki retorna para Kattegat; Bjorn tem uma recepção generosa no norte da África.",
+                    "runtime": 48,
+                    "poster": "https://image.tmdb.org/t/p/original/qW4zxYXVAIoodVC8G4ix7sLsP8H.jpg"
+                },
+                {
+                    "title": "06. A Mensagem",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:967669a12b1378f4cccec28084aceb8ec84794b6"
+                    ],
+                    "rating": 7.0,
+                    "synopsis": "Lagertha é traída, e Bjorn deve encontrar uma maneira de apoiar a rainha perturbada. Enquanto isso, Floki e seus colonos chegam a uma nova terra, mas está longe do que eles esperavam.",
+                    "runtime": 47,
+                    "poster": "https://image.tmdb.org/t/p/original/cfmte4CzQuUyUka7gSLfNwDYLXD.jpg"
+                },
+                {
+                    "title": "07. Lua Cheia",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:521144b3b3103bfb796fdd8d1f83c2e49b54406d"
+                    ],
+                    "rating": 6.8,
+                    "synopsis": "Bjorn retornará a Kattegat após sua longa jornada para descobrir que um ataque deve ocorrer na próxima lua cheia. Enquanto isso, Ivar terá que decidir se deve confiar em um ex-inimigo no campo de batalha.",
+                    "runtime": 45,
+                    "poster": "https://image.tmdb.org/t/p/original/vpHMCPaeOflXb8NZFKx2rGMSMYM.jpg"
+                },
+                {
+                    "title": "08. A Piada",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b123f21f50057aabed1080d9809f5e3168958a8"
+                    ],
+                    "rating": 7.5,
+                    "synopsis": "A batalha de Kattegat começa e, à medida que os dois exércitos se alinham para lutar, deve se decidir entre um último apelo à paz ou a uma guerra total. Enquanto isso, Floki enfrenta discórdia entre os colonos.",
+                    "runtime": 46,
+                    "poster": "https://image.tmdb.org/t/p/original/ax7Qx3iaftydXA21h3JpdtL3DYG.jpg"
+                },
+                {
+                    "title": "09. Uma História Simples",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7da30b6bc560e9b21ef1a6b4322553ca130ce72"
+                    ],
+                    "rating": 6.8,
+                    "synopsis": "Os líderes do exército consideram suas opções no calor da batalha. Enquanto isso, no acampamento de Floki, todas as esperanças de unir a comunidade juntos são precipitadas à medida que a tragédia se desenrola.",
+                    "runtime": 46,
+                    "poster": "https://image.tmdb.org/t/p/original/aGDpMbiLDRSKw67o5RKTKpFUEMK.jpg"
+                },
+                {
+                    "title": "10. Visões",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d31e38a08a6f22130be66775df5c1da60a44ccd"
+                    ],
+                    "rating": 6.8,
+                    "synopsis": "Muito sangue e separações na guerra por Kattegat, com Lagertha, Harald e Ubbe enfrentando pessoas que amam no campo de batalha.",
+                    "runtime": 46,
+                    "poster": "https://image.tmdb.org/t/p/original/glnCGZWOccC4fVCihgggXo93bA2.jpg"
+                },
+                {
+                    "title": "11. Revelação",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42f5d7ba1b4a3bacb22c0f5d81ab2e2e8d46df61"
+                    ],
+                    "rating": 7.2,
+                    "synopsis": "Após a terrível batalha por Kattegat, Ivar continua querendo vingança. Bjorn recebe notícias desagradáveis, e Lagertha tem cada vez menos opções.",
+                    "runtime": 45,
+                    "poster": "https://image.tmdb.org/t/p/original/tHBGZz1uxTbhP0KWZ8fUaUYcsZe.jpg"
+                },
+                {
+                    "title": "12. Todo Assassinato é Infame",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27161435aa54c3476c76aa123d10b6c4ab4e200b"
+                    ],
+                    "rating": 7.1,
+                    "synopsis": "A ligação entre Heahmund e Lagertha, a nova consorte de Ivar e o tratamento que Alfred dá à rainha em potencial desencadeiam intrigas políticas e amorosas.",
+                    "runtime": 45,
+                    "poster": "https://image.tmdb.org/t/p/original/7RyxIQQ2S0y3ZxBuZ89lCsgmoD2.jpg"
+                },
+                {
+                    "title": "13. Novo Deus",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d59c99d2a89cc52b6f980390abaa2be2b7d45d24"
+                    ],
+                    "rating": 6.5,
+                    "synopsis": "A ação decisiva de Heahmund contra Lorde Cuthred tem repercussões. Em Kattegat, a ilusão de grandeza de Ivar toma um rumo sinistro.",
+                    "runtime": 45,
+                    "poster": "https://image.tmdb.org/t/p/original/6DHMKxB7FXXHy4myQixMxmNyFFQ.jpg"
+                },
+                {
+                    "title": "14. Momento Perdido",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d8146cc55cad81cc8d7c9a344d37a126003cab8"
+                    ],
+                    "rating": 6.6,
+                    "synopsis": "O sacrifício dramático de Ivar desperta suspeitas. As forças de Harald se aproximam, e Alfred é alvo de conspirações. A tragédia leva Floki a ter uma epifania.",
+                    "runtime": 44,
+                    "poster": "https://image.tmdb.org/t/p/original/xRSDThRVa1Xj3UpoIOR9xrqquZr.jpg"
+                },
+                {
+                    "title": "15. Inferno",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7488aa111f29e8b66c33c9b77503e0b34d4b03d"
+                    ],
+                    "rating": 7.7,
+                    "synopsis": "Com os vikings em seu encalço, Alfred se prepara para lutar por Wessex. Uma visão perturbadora convence Heahmund a desistir de seus desejos.",
+                    "runtime": 45,
+                    "poster": "https://image.tmdb.org/t/p/original/s56Ni5Ywi05t3gf4V9IN3QV16Zq.jpg"
+                },
+                {
+                    "title": "16. Buda",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d22f52c25d45769dbcd49ce10e14399bfe47c6e3"
+                    ],
+                    "rating": 7.5,
+                    "synopsis": "Os filhos de Ragnar realizam um de seus maiores sonhos depois da batalha. Bjorn encontra alguém à sua altura. Hvitserk descobre um novo caminho.",
+                    "runtime": 44,
+                    "poster": "https://image.tmdb.org/t/p/original/sZdh4eH8hoi2uU7Vt6zBRkNbqj1.jpg"
+                },
+                {
+                    "title": "17. Coisas Terríveis",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73a5c631d13e649eb841b05ec2a99faf9e5db9ac"
+                    ],
+                    "rating": 7.2,
+                    "synopsis": "Uma nova ameaça se aproxima de Wessex, e Bjorn trama com Harald. Ivar faz uma oferta irrecusável a Hvitserk, e a fé de Floki sofre um golpe.",
+                    "runtime": 46,
+                    "poster": "https://image.tmdb.org/t/p/original/jkGKKRCkLkRMNBBnNMWTrDMCniE.jpg"
+                },
+                {
+                    "title": "18. Baldur",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b56108bc8311657a36fad4fb8d784ec12cc47ae6"
+                    ],
+                    "rating": 7.1,
+                    "synopsis": "Ivar fica cada vez mais cruel. Ubbe executa um plano ousado antes da batalha. Judith faz uma descoberta surpreendente, e Hvitserk tenta convencer um aliado.",
+                    "runtime": 45,
+                    "poster": "https://image.tmdb.org/t/p/original/zAzm9qFxGxOlnAig6sVRer8CKAf.jpg"
+                },
+                {
+                    "title": "19. O que Acontece na Caverna",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02e4b9f35e3ed80674584f212f9d9eee29f1df14"
+                    ],
+                    "rating": 7.5,
+                    "synopsis": "Os filhos de Ragnar avançam rumo ao seu destino. Ivar enfrenta questionamentos sobre Baldur. Ubbe luta até a morte, Floki encontra o impensável e Bjorn vai para casa.",
+                    "runtime": 44,
+                    "poster": "https://image.tmdb.org/t/p/original/qoReo3XyPF4xrWMA5zq84CkKI8O.jpg"
+                },
+                {
+                    "title": "20. Ragnarök",
+                    "url": [
+                        "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2785da936f7555fcc0c2c711de1f1826fa3bdf3"
+                    ],
+                    "rating": 7.6,
+                    "synopsis": "Bjorn lidera o ataque para tomar a coroa de Ivar. O último confronto por Kattegat é marcado por sangue derramado, traição e incertezas.",
+                    "runtime": 45,
+                    "poster": "https://image.tmdb.org/t/p/original/6PQWhAgRNXeg4kNagCP5soaK4Y3.jpg"
+                }
             ]
         }
-    ]
-}
