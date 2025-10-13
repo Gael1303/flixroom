@@ -1,10 +1,164 @@
 {
     "episodios": [
         {
-            "title": "The Walking Dead: Temporada 7",
+            "title": "01. Chegará o dia em que você não agradecerá",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5a7946d246651d8423e6485a0fef8bf2e0246db"
-            ]
+            ],
+            "rating": 8.5,
+            "synopsis": "Encurralado pelos homens de Negan, Rick e o grupo são forçados a enfrentar consequências tenebrosas. Os Salvadores capturam um refém.",
+            "runtime": 47,
+            "poster": "https://image.tmdb.org/t/p/original/scxmZkTERZNEoOCNMj11tuUXJgx.jpg"
+        },
+        {
+            "title": "02. O poço",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5a7946d246651d8423e6485a0fef8bf2e0246db"
+            ],
+            "rating": 7.62,
+            "synopsis": "Dois dos sobreviventes chegam a uma nova comunidade aparentemente tranquila chefiada por um líder com estilo um tanto dramático.",
+            "runtime": 47,
+            "poster": "https://image.tmdb.org/t/p/original/5eXUe8ujbazRNkv4OERhUjueWdJ.jpg"
+        },
+        {
+            "title": "03. A cela",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5a7946d246651d8423e6485a0fef8bf2e0246db"
+            ],
+            "rating": 7.945,
+            "synopsis": "Um alexandrino detido no complexo dos Salvadores descobre como Dwight se tornou um dos homens de Negan, mas se recusa a seguir o mesmo caminho.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/8hZ5QPTOo0oalJyve9tfSHYHJjH.jpg"
+        },
+        {
+            "title": "04. Serviço prestado",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5a7946d246651d8423e6485a0fef8bf2e0246db"
+            ],
+            "rating": 7.83,
+            "synopsis": "Quando os Salvadores visitam Alexandria atrás de suprimentos, o grupo espera que Rick encontre uma saída. O padre Gabriel precisa agir rápido.",
+            "runtime": 60,
+            "poster": "https://image.tmdb.org/t/p/original/wI6zcgLS0YKipL1NVl3Y0wgKory.jpg"
+        },
+        {
+            "title": "05. Batalhadores",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5a7946d246651d8423e6485a0fef8bf2e0246db"
+            ],
+            "rating": 7.601,
+            "synopsis": "Gregory chega a Hilltop e manda Maggie e Sasha saírem de lá. Rick parte em busca de suprimentos e Carl embarca em uma missão particular.",
+            "runtime": 45,
+            "poster": "https://image.tmdb.org/t/p/original/4t6IZCF1gEWxLzEUpMrqJ5i8AcM.jpg"
+        },
+        {
+            "title": "06. Juramento",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5a7946d246651d8423e6485a0fef8bf2e0246db"
+            ],
+            "rating": 7.0,
+            "synopsis": "Uma alexandrina chega a uma comunidade isolada e precisa descobrir se os residentes são amigos ou inimigos.",
+            "runtime": 50,
+            "poster": "https://image.tmdb.org/t/p/original/rWoABMMvaUlyFrKxcH6HM4VayuG.jpg"
+        },
+        {
+            "title": "07. Cante pra mim",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5a7946d246651d8423e6485a0fef8bf2e0246db"
+            ],
+            "rating": 8.015,
+            "synopsis": "Um alexandrino clandestino conhece o complexo dos Salvadores. Spencer desafia a liderança de Rick. Rosita exige a ajuda de Eugene.",
+            "runtime": 63,
+            "poster": "https://image.tmdb.org/t/p/original/rEGhpxM97LreXw6iFjTbNjLSNFd.jpg"
+        },
+        {
+            "title": "08. Os corações ainda batem",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5a7946d246651d8423e6485a0fef8bf2e0246db"
+            ],
+            "rating": 8.1,
+            "synopsis": "Negan se sente em casa em Alexandria. Rick e Aaron encontram uma mensagem enigmática durante uma busca por suprimentos. Richard tem um pedido para Carol e Morgan.",
+            "runtime": 61,
+            "poster": "https://image.tmdb.org/t/p/original/4Q0qxnst0PJWlqWVnXAuA33K86g.jpg"
+        },
+        {
+            "title": "09. Pedra na estrada",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5a7946d246651d8423e6485a0fef8bf2e0246db"
+            ],
+            "rating": 8.258,
+            "synopsis": "Rick e o grupo avaliam as opções para contra-atacar os Salvadores e tentam conseguir o apoio de Hilltop e do Reino para levar a missão adiante.",
+            "runtime": 52,
+            "poster": "https://image.tmdb.org/t/p/original/gqhFC8aDXvS2kMAP6rmN6w6RIhm.jpg"
+        },
+        {
+            "title": "10. Novos melhores amigos",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5a7946d246651d8423e6485a0fef8bf2e0246db"
+            ],
+            "rating": 7.782,
+            "synopsis": "Richard planeja iniciar uma guerra contra os Salvadores. Enquanto procuram um alexandrino desaparecido, Rick e os outros encontram uma nova sociedade.",
+            "runtime": 46,
+            "poster": "https://image.tmdb.org/t/p/original/2MfZMbyX7mteKsE8RLhqkmbBig1.jpg"
+        },
+        {
+            "title": "11. Inimigos e calamidades",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5a7946d246651d8423e6485a0fef8bf2e0246db"
+            ],
+            "rating": 7.8,
+            "synopsis": "O mais novo prisioneiro de Negan experimenta os prazeres da vida e ganha uma recompensa pela sua inteligência. Dwight entra em apuros.",
+            "runtime": 49,
+            "poster": "https://image.tmdb.org/t/p/original/lMtnvSkiVU3iRaz1eBOBGmdOhQz.jpg"
+        },
+        {
+            "title": "12. Diga sim",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5a7946d246651d8423e6485a0fef8bf2e0246db"
+            ],
+            "rating": 7.7,
+            "synopsis": "Rick e Michonne procuram armas. Rosita cansa de esperar uma ação do grupo. Tara pondera se deve contar a Rick sobre Oceanside.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/jvxlnJsrxDiE2o9HIcR8GwMNaqM.jpg"
+        },
+        {
+            "title": "13. Me enterre aqui",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5a7946d246651d8423e6485a0fef8bf2e0246db"
+            ],
+            "rating": 7.979,
+            "synopsis": "Carol interroga Morgan. A tensão alcança níveis extremos quando a equipe de Ezekiel entrega suprimentos aos Salvadores.",
+            "runtime": 48,
+            "poster": "https://image.tmdb.org/t/p/original/1XhNKQvPYkVRyANkYVGI1ZhDosL.jpg"
+        },
+        {
+            "title": "14. O outro lado",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5a7946d246651d8423e6485a0fef8bf2e0246db"
+            ],
+            "rating": 7.587,
+            "synopsis": "Maggie prepara o povo de Hilltop para entrar em guerra contra os Salvadores. Sedentas por ação, Sasha e Rosita se unem em uma missão secreta.",
+            "runtime": 47,
+            "poster": "https://image.tmdb.org/t/p/original/7FE8CZTlvfGkyZUd4Arvm9xHHoS.jpg"
+        },
+        {
+            "title": "15. Algo que eles precisam",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5a7946d246651d8423e6485a0fef8bf2e0246db"
+            ],
+            "rating": 7.987,
+            "synopsis": "Tara leva um grupo de alexandrinos em uma missão. Gregory inveja a autoridade crescente de Maggie. Negan implora para uma nova prisioneira se unir aos Salvadores.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/akYTLIqBFBmaxYPWewaowUR7rAY.jpg"
+        },
+        {
+            "title": "16. O primeiro dia do resto da sua vida",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5a7946d246651d8423e6485a0fef8bf2e0246db"
+            ],
+            "rating": 7.919,
+            "synopsis": "Dwight apresenta um plano a Daryl. Sasha relembra tempos melhores. Rick e o grupo aguardam a chegada dos Salvadores a Alexandria.",
+            "runtime": 61,
+            "poster": "https://image.tmdb.org/t/p/original/mI7tglqlSdxNafcOuBdQMZoDyu5.jpg"
         }
     ]
 }

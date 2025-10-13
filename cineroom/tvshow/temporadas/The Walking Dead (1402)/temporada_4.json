@@ -1,10 +1,164 @@
 {
     "episodios": [
         {
-            "title": "The Walking Dead: Temporada 4",
+            "title": "01. 30 dias sem acidentes",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fd06d5c8153a7fdddd82c9bcaa9acee6689114a"
-            ]
+            ],
+            "rating": 8.476,
+            "synopsis": "O grupo de Rick acha que a prisão se tornou um local relativamente seguro, mas uma situação de perigo prova que eles nunca devem baixar a guarda.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/9S4kZF14S9djjtQszTPfBss8SUt.jpg"
+        },
+        {
+            "title": "02. Infectados",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fd06d5c8153a7fdddd82c9bcaa9acee6689114a"
+            ],
+            "rating": 8.5,
+            "synopsis": "Alguns sobreviventes ficam em quarentena para evitar que o vírus se espalhe. Carol se torna guardiã de duas garotas, e Tyreese faz uma descoberta surpreendente.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/7ujT1NDAej9wFPg9FzFfdZ8Fmix.jpg"
+        },
+        {
+            "title": "03. Isolamento",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fd06d5c8153a7fdddd82c9bcaa9acee6689114a"
+            ],
+            "rating": 8.368,
+            "synopsis": "Com o vírus se espalhando, Hershel se torna o médico oficial. Ele isola alguns dos infectados e envia um grupo à faculdade de veterinária para adquirir suprimentos.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/aOp2BBWnfBbN5WZM0g0NnamDLtq.jpg"
+        },
+        {
+            "title": "04. Indiferença",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fd06d5c8153a7fdddd82c9bcaa9acee6689114a"
+            ],
+            "rating": 8.412,
+            "synopsis": "Bob é desmascarado enquanto o grupo tenta conseguir remédios na faculdade, e Rick e Carol discutem as consequências da confissão de Carol.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/qT9QDuIJ5uRSTmRa8DdQgbrWrTf.jpg"
+        },
+        {
+            "title": "05. Confinados",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fd06d5c8153a7fdddd82c9bcaa9acee6689114a"
+            ],
+            "rating": 8.777,
+            "synopsis": "Na zona da prisão em quarentena, Hershel, Sasha e Glenn cuidam das vítimas da gripe, que se tornam zumbis a uma velocidade alarmante.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/2AujqPJmtbpLo8gHfFxfOvPlooX.jpg"
+        },
+        {
+            "title": "06. Isca viva",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fd06d5c8153a7fdddd82c9bcaa9acee6689114a"
+            ],
+            "rating": 8.365,
+            "synopsis": "Em um flashback, o Governador encontra Lilly e Tara já adultas, seu pai deficiente, e Meghan.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/mXkdrscvm9bKRG9JD6aqdi2JFIF.jpg"
+        },
+        {
+            "title": "07. Peso morto",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fd06d5c8153a7fdddd82c9bcaa9acee6689114a"
+            ],
+            "rating": 8.222,
+            "synopsis": "Martinez resgata Meghan e o Governador e os convida para seu acampamento, mas com uma condição: que eles o aceitem como líder.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/dNJ8pq77zVwJVMf6qMlzYQBJkFJ.jpg"
+        },
+        {
+            "title": "08. Longe demais",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fd06d5c8153a7fdddd82c9bcaa9acee6689114a"
+            ],
+            "rating": 9.167,
+            "synopsis": "Com Michonne e Hershel capturados, o Governador convoca seu grupo para um ataque à prisão, e a guerra é deflagrada.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/pHsODkFUZeULoqn6f3LhvocsV2V.jpg"
+        },
+        {
+            "title": "09. Depois",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fd06d5c8153a7fdddd82c9bcaa9acee6689114a"
+            ],
+            "rating": 8.466,
+            "synopsis": "Rick e Carl partem sozinhos em busca de suprimentos e se escondem em uma casa abandonada, onde Carl acaba brigando com seu pai.",
+            "runtime": 49,
+            "poster": "https://image.tmdb.org/t/p/original/ouCdscTq0B5VGqGwLXHlEWt8j36.jpg"
+        },
+        {
+            "title": "10. Prisioneiros",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fd06d5c8153a7fdddd82c9bcaa9acee6689114a"
+            ],
+            "rating": 8.3,
+            "synopsis": "Beth e Daryl procuram por sobreviventes do ataque à prisão, e Tyreese encontra um homem que conta sobre um refúgio chamado Terminus.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/yoEw0P6PERgyvcSWzz5DwMmOJld.jpg"
+        },
+        {
+            "title": "11. Reivindicar",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fd06d5c8153a7fdddd82c9bcaa9acee6689114a"
+            ],
+            "rating": 8.44,
+            "synopsis": "Michonne e Carl ficam amigos durante uma busca por suprimentos, e Abraham promete levar Eugene a Washington para um encontro com oficiais do governo.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/qEaGtjxOAElhf955wMHtbzCYtdO.jpg"
+        },
+        {
+            "title": "12. Ainda",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fd06d5c8153a7fdddd82c9bcaa9acee6689114a"
+            ],
+            "rating": 7.906,
+            "synopsis": "Em uma noite regada a álcool, Beth e Daryl trocam confidências enquanto a tensão no acampamento se torna insuportável.",
+            "runtime": 44,
+            "poster": "https://image.tmdb.org/t/p/original/cYYDCI4v9YYVzeTuMFK77NGn2TH.jpg"
+        },
+        {
+            "title": "13. Sozinho",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fd06d5c8153a7fdddd82c9bcaa9acee6689114a"
+            ],
+            "rating": 8.299,
+            "synopsis": "Maggie se separa de Bob e Sasha ao encontrar um mapa para Terminus. Os zumbis cercam a funerária onde Daryl e Beth estão escondidos.",
+            "runtime": 44,
+            "poster": "https://image.tmdb.org/t/p/original/9gsEv9io82T0URMPT350QP0Q1Cn.jpg"
+        },
+        {
+            "title": "14. O Bosque",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fd06d5c8153a7fdddd82c9bcaa9acee6689114a"
+            ],
+            "rating": 9.0,
+            "synopsis": "A caminho de Terminus, o grupo de Tyreese encontra uma casa que pode servir de refúgio, mas o estranho comportamento de Mika e Lizzie coloca todos em perigo.",
+            "runtime": 47,
+            "poster": "https://image.tmdb.org/t/p/original/9PVauylsikGSXy0q6MWEqrkK2Kp.jpg"
+        },
+        {
+            "title": "15. Nós",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fd06d5c8153a7fdddd82c9bcaa9acee6689114a"
+            ],
+            "rating": 8.553,
+            "synopsis": "O grupo de Glenn tenta alcançar Maggie e os outros a caminho de Terminus, e uma discussão deixa claro o papel das regras nesta nova realidade.",
+            "runtime": 44,
+            "poster": "https://image.tmdb.org/t/p/original/fyoFNOUrTCcFvRXYR8d9nBJWKO4.jpg"
+        },
+        {
+            "title": "16. A",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fd06d5c8153a7fdddd82c9bcaa9acee6689114a"
+            ],
+            "rating": 8.931,
+            "synopsis": "Os sobreviventes se encontram a caminho de Terminus, e a brutalidade com que Rick se depara o leva ao limite.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/vuhpqq8wtyPAT86pnubq57tm2w8.jpg"
         }
     ]
 }

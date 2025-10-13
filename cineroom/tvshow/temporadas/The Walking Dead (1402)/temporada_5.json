@@ -1,10 +1,164 @@
 {
     "episodios": [
         {
-            "title": "The Walking Dead: Temporada 5",
+            "title": "01. Sem refúgio",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb76f0b115b9494f743041d2b3a644d897bc0110"
-            ]
+            ],
+            "rating": 9.2,
+            "synopsis": "Preso no vagão do trem, o grupo aguarda em pânico o destino que seus algozes do Terminus têm em mente. Gareth questiona Rick.",
+            "runtime": 44,
+            "poster": "https://image.tmdb.org/t/p/original/kZlyeDo52OhqqsSpLNCtCw3VLwG.jpg"
+        },
+        {
+            "title": "02. Estranhos",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb76f0b115b9494f743041d2b3a644d897bc0110"
+            ],
+            "rating": 8.565,
+            "synopsis": "O grupo encontra um padre que parece esconder algo por trás da hospitalidade. Bob faz uma descoberta aterrorizante sobre Terminus.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/AaE5YM2gOpDoAEoWb1NRHirz8Bc.jpg"
+        },
+        {
+            "title": "03. Quatro paredes e um telhado",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb76f0b115b9494f743041d2b3a644d897bc0110"
+            ],
+            "rating": 8.8,
+            "synopsis": "Confrontado por Rick e Sasha, padre Gabriel faz uma confissão surpreendente. Abraham estimula o grupo a seguir para Washington, mas Rick prefere esperar.",
+            "runtime": 44,
+            "poster": "https://image.tmdb.org/t/p/original/lSvdoAyA2Gm66ZbMgtQI0bC9Xap.jpg"
+        },
+        {
+            "title": "04. Cidade das lápides",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb76f0b115b9494f743041d2b3a644d897bc0110"
+            ],
+            "rating": 8.1,
+            "synopsis": "Após acordar ferida no hospital, Beth é colocada para cuidar de pacientes enquanto tenta descobrir em quem ela pode confiar.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/vBhMzz1CjnbxDcYqyGlO0wTUKNi.jpg"
+        },
+        {
+            "title": "05. Autoajuda",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb76f0b115b9494f743041d2b3a644d897bc0110"
+            ],
+            "rating": 8.252,
+            "synopsis": "Um acidente interrompe a jornada do grupo rumo a Washington. Eugene se abre para Tara após uma série de ataques zumbis.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/An9s0Bi9qrBG6omRDuY3UD5Ss4o.jpg"
+        },
+        {
+            "title": "06. Consumidos",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb76f0b115b9494f743041d2b3a644d897bc0110"
+            ],
+            "rating": 8.2,
+            "synopsis": "Ao perseguirem o carro com a cruz branca, Carol e Daryl chegam a Atlanta e se deparam com outro veículo com o mesmo símbolo.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/eERnYstTmBtRr2g7bfOrDMPP19J.jpg"
+        },
+        {
+            "title": "07. Crucifixos",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb76f0b115b9494f743041d2b3a644d897bc0110"
+            ],
+            "rating": 8.328,
+            "synopsis": "O grupo de Rick tenta definir a melhor estratégia em Atlanta, enquanto Beth monta sua própria missão de resgate. Tara defende Eugene.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/psD4DqIJw5JLm3CCzt0fQbqZDXV.jpg"
+        },
+        {
+            "title": "08. O Resgate",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb76f0b115b9494f743041d2b3a644d897bc0110"
+            ],
+            "rating": 8.7,
+            "synopsis": "Padre Gabriel, Carl e Michonne se juntam para afastar os zumbis da igreja. No hospital, Rick negocia uma troca de reféns.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/qrzTC3qjUu0DRzN22fOqE6XZf3n.jpg"
+        },
+        {
+            "title": "09. O que foi e o que está sendo",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb76f0b115b9494f743041d2b3a644d897bc0110"
+            ],
+            "rating": 8.3,
+            "synopsis": "O grupo de Atlanta acompanha Noah até sua cidade natal, onde ele tem a esperança de encontrar a família.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/l2Qrys52o1hYjrDRkgCKuLVI9mI.jpg"
+        },
+        {
+            "title": "10. Eles",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb76f0b115b9494f743041d2b3a644d897bc0110"
+            ],
+            "rating": 8.016,
+            "synopsis": "De volta à estrada e desesperado em busca de comida, o grupo abatido se abriga em um celeiro abandonado para se proteger contra uma violenta tempestade.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/tDSfAMkiOZhEwFtAUgnh50H5D54.jpg"
+        },
+        {
+            "title": "11. Distância",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb76f0b115b9494f743041d2b3a644d897bc0110"
+            ],
+            "rating": 8.496,
+            "synopsis": "O grupo precisa decidir se a oferta de um estranho é uma dádiva ou uma cilada. Rick desconfia, mas Michonne resolve averiguar a história.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/6N7mmznHgJeMQaKSJ57M2faYeQn.jpg"
+        },
+        {
+            "title": "12. Lembrar",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb76f0b115b9494f743041d2b3a644d897bc0110"
+            ],
+            "rating": 8.746,
+            "synopsis": "Rick e outros sobreviventes são recebidos na zona segura de Alexandria, mas temem que a comunidade esteja vulnerável.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/5LSr6potOoZQEL1NaUFp8X3Q3ro.jpg"
+        },
+        {
+            "title": "13. Esquecer",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb76f0b115b9494f743041d2b3a644d897bc0110"
+            ],
+            "rating": 8.205,
+            "synopsis": "Carol trama um plano para roubar armas do depósito. Aaron conta com Daryl como recrutador. Sasha se oferece para ser vigia.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/crJM14UlZdMMGYITtT7J3M1ce6a.jpg"
+        },
+        {
+            "title": "14. Desperdiçar",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb76f0b115b9494f743041d2b3a644d897bc0110"
+            ],
+            "rating": 8.7,
+            "synopsis": "Abraham mostra seu valor em um ataque de zumbis em Alexandria. Deanna teme o excesso de poder dos recém-chegados.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/eLeNOdxxUcc1VAsyRj4h0GYopqA.jpg"
+        },
+        {
+            "title": "15. Tentativa",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb76f0b115b9494f743041d2b3a644d897bc0110"
+            ],
+            "rating": 8.688,
+            "synopsis": "Rick confronta Deanna sobre Pete. Glenn alerta para Nicholas não deixar a comunidade. Daryl e Aaron avistam algo assustador.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/8bv7Gr81NScb4roX1QbVPxd7GpY.jpg"
+        },
+        {
+            "title": "16. Conquistar",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb76f0b115b9494f743041d2b3a644d897bc0110"
+            ],
+            "rating": 8.973,
+            "synopsis": "Deanna convoca uma reunião para decidir se Rick deve ser exilado. Aaron e Daryl seguem um homem com capuz vermelho.",
+            "runtime": 65,
+            "poster": "https://image.tmdb.org/t/p/original/h9QfzHPWftEXkmQcseK2KnCnv31.jpg"
         }
     ]
 }

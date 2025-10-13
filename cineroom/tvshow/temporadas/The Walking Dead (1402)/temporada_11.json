@@ -1,142 +1,244 @@
 {
     "episodios": [
         {
-            "title": "11x01. Acheron: Parte 1",
+            "title": "01. Acheron: Parte 1",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c975a10ceb63ab187c11027f4d4569d8f24d3d1f"
-            ]
+            ],
+            "rating": 8.3,
+            "synopsis": "A equipe de Daryl busca uma base militar. Maggies conta sua história, incitando uma nova missão pela sobrevivência.",
+            "runtime": 46,
+            "poster": "https://image.tmdb.org/t/p/original/iTQXolVnAaRmatwetQlJBZOdMbj.jpg"
         },
         {
-            "title": "11x02. Acheron: Parte 2",
+            "title": "02. Acheron: Parte 2",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59ca97be163e73a7196eba4f987fbfaccdae4c50"
-            ]
+            ],
+            "rating": 8.2,
+            "synopsis": "O time de Maggie viaja por um túnel de metrô. Yumiko procura uma avaliação acelerada para ingressar na Commonwealth.",
+            "runtime": 52,
+            "poster": "https://image.tmdb.org/t/p/original/sgGPsqjpIZtBhQnQS1kf6xasQ0p.jpg"
         },
         {
-            "title": "11x03. Caçado",
+            "title": "03. Caçado",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4608468541061125f9985d565b235c34f3aa85b1"
-            ]
+            ],
+            "rating": 7.7,
+            "synopsis": "A equipe de Maggie é caçada pelos Ceifadores. Carol, Rosita, Magna e Kelly saem em busca de cavalos.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/g6gSK8c0fFTFNyvYm8ZcZcZvl3t.jpg"
         },
         {
-            "title": "11x04. Rendição",
+            "title": "04. Rendição",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f2ed6f33251a77ccdceed7c932a86e70daa095b"
-            ]
+            ],
+            "rating": 7.6,
+            "synopsis": "Daryl e Dog são capturados pelos Ceifadores e reconectam com alguém familiar do passado.",
+            "runtime": 44,
+            "poster": "https://image.tmdb.org/t/p/original/dPJkdo3b6ehslPgcq9HBkCf2CQE.jpg"
         },
         {
-            "title": "11x05. Fora das Cinzas",
+            "title": "05. Fora das Cinzas",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e50e7f190a192f3c0c3af0b004e2b0a597f5cde"
-            ]
+            ],
+            "rating": 7.8,
+            "synopsis": "Alexandrinos encontram invasores em Hilltop. O grupo de Eugene passa por orientação na Commonwealth.",
+            "runtime": 46,
+            "poster": "https://image.tmdb.org/t/p/original/1SxSaV8j05nSjQfgg2kviBerDaa.jpg"
         },
         {
-            "title": "11x06. Dentro",
+            "title": "06. Dentro",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e7b647abf52e1d6b2d9fb299a4969ef700f99b0"
-            ]
+            ],
+            "rating": 8.3,
+            "synopsis": "Connie e Virgil se escondem em uma casa. Pope testa a lealdade de Daryl. Kelly procura por Connie.",
+            "runtime": 45,
+            "poster": "https://image.tmdb.org/t/p/original/r1iW1Om7lYtOeTXmxCvaIOlAg1d.jpg"
         },
         {
-            "title": "11x07. Promessas Quebradas",
+            "title": "07. Promessas Quebradas",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b40ee2f342dabb826b087c92bb06a3e1f430117f"
-            ]
+            ],
+            "rating": 8.1,
+            "synopsis": "Maggie aprende uma tática de sobrevivência com Negan. O grupo de Eugene libera os caminhantes. Daryl caça com Leah.",
+            "runtime": 45,
+            "poster": "https://image.tmdb.org/t/p/original/3mNJtPYqCmEaw3ovxOw2JYPUHjY.jpg"
         },
         {
-            "title": "11x08. Por Sangue",
+            "title": "08. Por Sangue",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31df56bd940c04ce3cafa12dbfc4cfae02b6cb27"
-            ]
+            ],
+            "rating": 8.2,
+            "synopsis": "Os Ceifadores defendem Meridian de um rebanho. Alexandrinos se protegem de caminhantes em uma tempestade.",
+            "runtime": 42,
+            "poster": "https://image.tmdb.org/t/p/original/xWTsERiIUjl0TPTcXxgnsCKdw4O.jpg"
         },
         {
-            "title": "11x09. Não há outro jeito",
+            "title": "09. Não há outro jeito",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ee1a1f05a5207448f5e7d0a31219e0911ad3301"
-            ]
+            ],
+            "rating": 8.5,
+            "synopsis": "Os alexandrinos precisam sobreviver a uma tempestade e lutar contra os Ceifadores.",
+            "runtime": 44,
+            "poster": "https://image.tmdb.org/t/p/original/4VIVIT7WrLVUwqgyIlkP1GPWRFU.jpg"
         },
         {
-            "title": "11x010. Novas assombrações",
+            "title": "10. Novas assombrações",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec6d30af5f16f6cde40cf72584f9a22aebf492ce"
-            ]
+            ],
+            "rating": 7.9,
+            "synopsis": "Nossos heróis vivenciam o Halloween na Commonwealth.",
+            "runtime": 46,
+            "poster": "https://image.tmdb.org/t/p/original/beSsd4O4fgVCgJfcWhOkHwa1ppc.jpg"
         },
         {
-            "title": "11x011. Elemento Rebelde",
+            "title": "11. Elemento Rebelde",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2513c32b7deb8115e730a9e54cffa932946d702b"
-            ]
+            ],
+            "rating": 7.8,
+            "synopsis": "Eugene procura por Stephanie depois que ela desaparece misteriosamente. Connie investiga uma história sobre o Trooper Davis. Carol ajuda Lance.",
+            "runtime": 47,
+            "poster": "https://image.tmdb.org/t/p/original/moJl3XWSWXbJZuoUl74cxfmM7aT.jpg"
         },
         {
-            "title": "11x012. Os sortudos",
+            "title": "12. Os sortudos",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7496cca42035286b5ef22570cf07fd7988c8397d"
-            ]
+            ],
+            "rating": 8.0,
+            "synopsis": "Aaron e Maggie conhecem a governadora Pamela Milton enquanto ela visita Alexandria, Oceanside e Hilltop. Ezequiel tem sorte durante um check-up de rotina. Eugene processa a história de Max.",
+            "runtime": 45,
+            "poster": "https://image.tmdb.org/t/p/original/71gUmhEuyO5wOAytSJIk37yDajq.jpg"
         },
         {
-            "title": "11x013 e 14. Senhores da Guerra / O Ceptro Podre",
+            "title": "13. Senhores da Guerra",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:045370a50d3fabd06c8788ebd139ce6d62e53bb3"
-            ]
+            ],
+            "rating": 8.3,
+            "synopsis": "Maggie, Lydia e Elijah ajudam um estranho de outra comunidade chamada Riverbend; eles encontram Aaron, que lhes conta sobre uma missão que ele embarcou com Gabriel como emissários para a Commonwealth.",
+            "runtime": 45,
+            "poster": "https://image.tmdb.org/t/p/original/eCbCFdJEG3juAQLJ0aycsRPQtaR.jpg"
         },
         {
-            "title": "11x015. Confiança",
+            "title": "14. O Ceptro Podre",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:045370a50d3fabd06c8788ebd139ce6d62e53bb3"
+            ],
+            "rating": 8.5,
+            "synopsis": "Maggie, Lydia e Elijah ajudam Aaron e Gabriel em uma missão de resgate. No caos, Negan se vê cuidando de Hershel. Sebastian coage Daryl e Rosita a fazer um assalto.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/5vCe5ujge0lbopHPOl8Iy4OUfnq.jpg"
+        },
+        {
+            "title": "15. Confiança",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4446a869a473f6d1e0d462a723f72b6b16b750de"
-            ]
+            ],
+            "rating": 8.0,
+            "synopsis": "Lance marcha com Daryl e tropas para enfrentar Maggie em Hilltop. Rosita investiga os Miltons.",
+            "runtime": 46,
+            "poster": "https://image.tmdb.org/t/p/original/1Ey5KoR2zIgl4KAbXl2iZiK7ym9.jpg"
         },
         {
-            "title": "11x016. Atos de Deus",
+            "title": "16. Atos de Deus",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33c4f829ef5521123c07c6242ae242e78e6aec1f"
-            ]
+            ],
+            "rating": 8.3,
+            "synopsis": "Maggie defende Hilltop contra Hornsby. A situação se agrava e os sobreviventes devem fazer escolhas cruciais para seu futuro neste mundo.",
+            "runtime": 42,
+            "poster": "https://image.tmdb.org/t/p/original/lOFpJw5HpS1VdRni2AxaJTokgu0.jpg"
         },
         {
-            "title": "11x017. Confinamento",
+            "title": "17. Confinamento",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59a57430f6beff7d877d74ee95b51309dcd60e44"
-            ]
+            ],
+            "rating": 8.1,
+            "synopsis": "Daryl e Negan correm para a Commonwealth para parar Hornsby.",
+            "runtime": 45,
+            "poster": "https://image.tmdb.org/t/p/original/96JAOPWdL859MA2IsFbzOPOHcla.jpg"
         },
         {
-            "title": "11x018. Um novo acordo",
+            "title": "18. Um novo acordo",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f47611fc50d3795bc3dc8e5acede7a029b5e636b"
-            ]
+            ],
+            "rating": 7.9,
+            "synopsis": "Os sobreviventes fazem um acordo com Pamela, a Commonwealth celebra o Dia dos Fundadores.",
+            "runtime": 46,
+            "poster": "https://image.tmdb.org/t/p/original/8oAThTF3PMOQEgvtmThkU9iXgvo.jpg"
         },
         {
-            "title": "11x019. Variante",
+            "title": "19. Variante",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c82336e74cf133b9ec7942057242676748cb9c1d"
-            ]
+            ],
+            "rating": 8.0,
+            "synopsis": "Eugene foge e Mercer é encarregado de encontrá-lo. O grupo de Aaron enfrenta uma complicação na estrada.",
+            "runtime": 49,
+            "poster": "https://image.tmdb.org/t/p/original/fi33HKrXF6yEnumO6LxxVLZFfys.jpg"
         },
         {
-            "title": "11x020. O que foi perdido",
+            "title": "20. O que foi perdido",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88f5c316ca3841e641c3f8f5867a6e4e12405472"
-            ]
+            ],
+            "rating": 7.8,
+            "synopsis": "Daryl e Carol procuram seus amigos desaparecidos.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/vOgcQLHUMp9GEG4FA72iOcRGSCI.jpg"
         },
         {
-            "title": "11x021. Posto Avançado 22",
+            "title": "21. Posto Avançado 22",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f639c0880c2a5b0ca9fd82676646182ca0a6ad43"
-            ]
+            ],
+            "rating": 7.9,
+            "synopsis": "Separados de seus filhos, os sobreviventes seguem um comboio militar para um destino misterioso.",
+            "runtime": 47,
+            "poster": "https://image.tmdb.org/t/p/original/hLhlaHChVFJhHAc9HA0G3KidwCR.jpg"
         },
         {
-            "title": "11x022. Fé",
+            "title": "22. Fé",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:132a8e4c892440f9aa568bb592153488dfd83422"
-            ]
+            ],
+            "rating": 8.2,
+            "synopsis": "Ezequiel e Negan planejam uma revolução trabalhista. Eugene é julgado.",
+            "runtime": 45,
+            "poster": "https://image.tmdb.org/t/p/original/vvNImscHCR4WVtrTXFH8bEGk5Vv.jpg"
         },
         {
-            "title": "11x023. Família",
+            "title": "23. Família",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:609a5383acee1d2dbbcc52e952d0d1059d6e8547"
-            ]
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:216872384a156d47026f003aeba3eb5b31dd959e"
+            ],
+            "rating": 8.5,
+            "synopsis": "Esta família termina a luta em conjunto. Enquanto Negan olha para o futuro, Ezequiel não consegue esquecer o passado.",
+            "runtime": 44,
+            "poster": "https://image.tmdb.org/t/p/original/i5nRpAvmEHcpg6vtKhy9PplQWlA.jpg"
         },
         {
-            "title": "11x024. Descanse em paz",
+            "title": "24. Descanse em paz",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fcc491ce7d62d28ccd31a4e98a0eb2b7deb18d8b"
-            ]
+            ],
+            "rating": 8.6,
+            "synopsis": "Daryl e Carol levam Judith ao hospital; Rosita, Eugene e Gabriel procuram Coco; Maggie e Negan pegam em armas contra Pamela; os heróis se reúnem para uma última resistência.",
+            "runtime": 65,
+            "poster": "https://image.tmdb.org/t/p/original/on7i6jFTJxj5B8c0ljyW7i0nKmj.jpg"
         }
     ]
 }

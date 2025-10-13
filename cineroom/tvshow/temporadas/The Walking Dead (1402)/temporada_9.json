@@ -1,10 +1,164 @@
 {
     "episodios": [
         {
-            "title": "The Walking Dead: Temporada 9",
+            "title": "01. Um novo começo",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7aab57d066bdc22a58e8b7dd7d2405cc843dab07"
-            ]
+            ],
+            "rating": 7.7,
+            "synopsis": "Enfim, paz. Rick tenta colocar a visão de Carl em prática e fazer os sobreviventes se unirem, mas uma traição obriga Maggie a agir.",
+            "runtime": 59,
+            "poster": "https://image.tmdb.org/t/p/original/rMnf7qMMdKW2RSm5OWvT2y2R0GN.jpg"
+        },
+        {
+            "title": "02. A ponte",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7aab57d066bdc22a58e8b7dd7d2405cc843dab07"
+            ],
+            "rating": 8.1,
+            "synopsis": "Após a execução de um líder, a restauração da ponte se acelera. Um dos Salvadores não consegue trabalhar em equipe e se machuca feio. Gabriel e Anne se aproximam.",
+            "runtime": 46,
+            "poster": "https://image.tmdb.org/t/p/original/1ws4s8iDGdRZuW5VxtMdzWJgI0Y.jpg"
+        },
+        {
+            "title": "03. Avisos",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7aab57d066bdc22a58e8b7dd7d2405cc843dab07"
+            ],
+            "rating": 8.2,
+            "synopsis": "Rick tenta solucionar um misterioso assassinato. Gabriel segue Anne. Maggie e Daryl descobrem que de morto, o passado não tem nada.",
+            "runtime": 46,
+            "poster": "https://image.tmdb.org/t/p/original/icelNITmbClMy12HFulvrnjWx6P.jpg"
+        },
+        {
+            "title": "04. A obrigação",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7aab57d066bdc22a58e8b7dd7d2405cc843dab07"
+            ],
+            "rating": 8.2,
+            "synopsis": "Michonne tenta manter a calma. Rick chega ao limite quando descobre os planos de Maggie e acaba enfrentando Daryl. Uma rebelião – e uma horda de zumbis – ganham força.",
+            "runtime": 45,
+            "poster": "https://image.tmdb.org/t/p/original/1jQ3XnNUinsRqRddxlV0Sfuftq3.jpg"
+        },
+        {
+            "title": "05. O que virá agora",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7aab57d066bdc22a58e8b7dd7d2405cc843dab07"
+            ],
+            "rating": 8.7,
+            "synopsis": "Ferido mas inabalável, Rick continua lutando para conter os zumbis. Maggie fica cara a cara com Negan e faz uma escolha. Desesperada para dar o fora, Anne faz um acordo.",
+            "runtime": 46,
+            "poster": "https://image.tmdb.org/t/p/original/WGw4gzRGLynNMJ9Wc5LFjelqyy.jpg"
+        },
+        {
+            "title": "06. Quem é você agora?",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7aab57d066bdc22a58e8b7dd7d2405cc843dab07"
+            ],
+            "rating": 8.3,
+            "synopsis": "Michonne ainda pensa em Rick. Judith resgata um grupo de desconhecidos. Saqueadores atacam Carol, mas novos zumbis representam um perigo ainda maior.",
+            "runtime": 55,
+            "poster": "https://image.tmdb.org/t/p/original/bafUTYQsxnFBkYvKedy4UnWR7J3.jpg"
+        },
+        {
+            "title": "07. Em busca de ajuda",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7aab57d066bdc22a58e8b7dd7d2405cc843dab07"
+            ],
+            "rating": 8.2,
+            "synopsis": "Rosita se arrisca tentando buscar ajuda. Michonne leva os recém-chegados para um passeio até Hilltop. Jesus e Aaron se aproximam. Daryl volta à ativa.",
+            "runtime": 44,
+            "poster": "https://image.tmdb.org/t/p/original/cfG7SSuMeRCTpNKdlZn9PSqkaAI.jpg"
+        },
+        {
+            "title": "08. Evolução",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7aab57d066bdc22a58e8b7dd7d2405cc843dab07"
+            ],
+            "rating": 8.7,
+            "synopsis": "Daryl, Jesus e Aaron saem em busca de Eugene. Tara recebe Michonne com frieza. Negan não deixa uma oportunidade escapar.",
+            "runtime": 45,
+            "poster": "https://image.tmdb.org/t/p/original/gZQ3UVt7lxN57q3kjMLw2IAUNH.jpg"
+        },
+        {
+            "title": "09. Adaptação",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7aab57d066bdc22a58e8b7dd7d2405cc843dab07"
+            ],
+            "rating": 8.5,
+            "synopsis": "Michonne, Daryl e Aaron fazem uma valiosa e insuportável refém. Negan volta ao Santuário para ver o que restou de seus domínios. Hilltop sofre uma perda trágica.",
+            "runtime": 52,
+            "poster": "https://image.tmdb.org/t/p/original/eoNL5FcszYtcfi3BICYKQhLBkIG.jpg"
+        },
+        {
+            "title": "10. Memórias confusas",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7aab57d066bdc22a58e8b7dd7d2405cc843dab07"
+            ],
+            "rating": 8.3,
+            "synopsis": "Daryl escuta Lydia revelar sua história para Henry, mas a memória se confunde e os traumas deixam tudo complicado. Magna e seu grupo saem às escondidas para uma missão.",
+            "runtime": 46,
+            "poster": "https://image.tmdb.org/t/p/original/m7vPXqO65NOlw9WkDWYTb3tEWdh.jpg"
+        },
+        {
+            "title": "11. Recompensa",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7aab57d066bdc22a58e8b7dd7d2405cc843dab07"
+            ],
+            "rating": 8.3,
+            "synopsis": "Alpha e os Sussurradores propõem um acordo e demonstram sua crueldade. Ezekiel, Carol e Jerry encontram uma luz.",
+            "runtime": 42,
+            "poster": "https://image.tmdb.org/t/p/original/5zCfZfqjZv84pj7RTkJKBPtFs1N.jpg"
+        },
+        {
+            "title": "12. Missão de resgate",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7aab57d066bdc22a58e8b7dd7d2405cc843dab07"
+            ],
+            "rating": 8.4,
+            "synopsis": "Michonne tem dificuldade de controlar o conselho. Henry encontra Lydia, que se vê diante de uma decisão impossível. Negan jura que mudou.",
+            "runtime": 45,
+            "poster": "https://image.tmdb.org/t/p/original/y9cUqHEBDh35hZArzrj3NzWPwWC.jpg"
+        },
+        {
+            "title": "13. Sufoco",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7aab57d066bdc22a58e8b7dd7d2405cc843dab07"
+            ],
+            "rating": 8.5,
+            "synopsis": "Daryl enfrenta Beta durante sua fuga com Connie, Henry e Lydia. Os planos de Ezekiel esbarram em um obstáculo inesperado, graças aos Salteadores.",
+            "runtime": 41,
+            "poster": "https://image.tmdb.org/t/p/original/dxsrkbuTC6K5UpnhoR5FFsZuBGJ.jpg"
+        },
+        {
+            "title": "14. Cicatrizes",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7aab57d066bdc22a58e8b7dd7d2405cc843dab07"
+            ],
+            "rating": 8.3,
+            "synopsis": "Uma amiga do passado obriga Michonne a tomar uma decisão dolorosa, e isso a faz rever sua posição sobre forasteiros. Judith questiona a estratégia de Michonne.",
+            "runtime": 46,
+            "poster": "https://image.tmdb.org/t/p/original/oMQGfuXnvJpVyosvp0KJXaOhFPE.jpg"
+        },
+        {
+            "title": "15. Calmaria",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7aab57d066bdc22a58e8b7dd7d2405cc843dab07"
+            ],
+            "rating": 8.9,
+            "synopsis": "Todos se reúnem para a feira cheios de esperança. Alianças são renovadas, mas um inimigo furtivo se aproxima, pronto para lançar um ultimato devastador.",
+            "runtime": 58,
+            "poster": "https://image.tmdb.org/t/p/original/ozV1s0JzibaQFOjQliaFhsXDxdz.jpg"
+        },
+        {
+            "title": "16. Nevasca",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7aab57d066bdc22a58e8b7dd7d2405cc843dab07"
+            ],
+            "rating": 8.4,
+            "synopsis": "Chega o inverno e os caminhantes parecem inofensivos perto do clima e dos Sussurradores. Um grupo encara uma perigosa jornada. Um antigo rival tem uma atitude nobre.",
+            "runtime": 47,
+            "poster": "https://image.tmdb.org/t/p/original/56hDPQizzG7GAKiKoFxor7nLZFf.jpg"
         }
     ]
 }

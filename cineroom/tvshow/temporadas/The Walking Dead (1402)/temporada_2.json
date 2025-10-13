@@ -1,10 +1,134 @@
 {
     "episodios": [
         {
-            "title": "The Walking Dead: Temporada 2",
+            "title": "01. O que vem pela frente",
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4af47793b8b7a14d8d095f6acf846cbaa2947a66"
-            ]
+            ],
+            "rating": 8.3,
+            "synopsis": "Sob a liderança de Rick, o grupo deixa Atlanta. Na estrada, eles se deparam com uma ameaça diferente de tudo que já haviam visto. Alguém desaparece.",
+            "runtime": 63,
+            "poster": "https://image.tmdb.org/t/p/original/4cJ4owOZSEkYTlKZZAbSym0KYI5.jpg"
+        },
+        {
+            "title": "02. Sangria",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4af47793b8b7a14d8d095f6acf846cbaa2947a66"
+            ],
+            "rating": 8.3,
+            "synopsis": "Ao tentar ajudar uma pessoa, Rick descobre um possível refúgio. Shane precisa embarcar em uma missão perigosa para conseguir suprimentos médicos extremamente necessários.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/2dUZ2Oh4lH4DImV10dP35LPJOOu.jpg"
+        },
+        {
+            "title": "03. Última bala",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4af47793b8b7a14d8d095f6acf846cbaa2947a66"
+            ],
+            "rating": 8.5,
+            "synopsis": "O grupo espera desesperadamente pelo retorno de Shane, que está preso em uma escola cercado por zumbis. Daryl e Andrea procuram por uma pessoa.",
+            "runtime": 44,
+            "poster": "https://image.tmdb.org/t/p/original/cas8YER6f6Oj1peFYl1DMdItn1Z.jpg"
+        },
+        {
+            "title": "04. Rosa cherokee",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4af47793b8b7a14d8d095f6acf846cbaa2947a66"
+            ],
+            "rating": 8.1,
+            "synopsis": "Rick negocia com Hershel para o grupo permanecer na fazenda, enquanto os outros lidam com uma ameaça incomum. Glenn embarca em uma missão.",
+            "runtime": 44,
+            "poster": "https://image.tmdb.org/t/p/original/tGvhQKDulzOgULbPenk4eiutdqd.jpg"
+        },
+        {
+            "title": "05. Chupa-cabra",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4af47793b8b7a14d8d095f6acf846cbaa2947a66"
+            ],
+            "rating": 8.365,
+            "synopsis": "Sozinho na floresta, Daryl encontra uma pista, mas é atacado e ferido pelos zumbis. Rick questiona suas escolhas. Glenn recebe sinais contraditórios de Maggie.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/tJKg7l4r0MhRWOzbBA28qrqH4Cv.jpg"
+        },
+        {
+            "title": "06. Segredos",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4af47793b8b7a14d8d095f6acf846cbaa2947a66"
+            ],
+            "rating": 8.113,
+            "synopsis": "Glenn tenta manter dois segredos. Andrea descobre uma nova habilidade e é forçada a colocá-la à prova. Rick descobre algo sobre alguém próximo a ele.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/jaFnWd6Ge0ymmzVqE5X9BuvwZRx.jpg"
+        },
+        {
+            "title": "07. Já quase morto",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4af47793b8b7a14d8d095f6acf846cbaa2947a66"
+            ],
+            "rating": 8.943,
+            "synopsis": "O grupo descobre uma ameaça mortal bem debaixo de seu nariz. Rick e Hershel unem forças para evitar um impasse perigoso. Dale confronta Shane.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/fBr0hwygAJb3UY95pVWdvkDkluf.jpg"
+        },
+        {
+            "title": "08. Nebraska",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4af47793b8b7a14d8d095f6acf846cbaa2947a66"
+            ],
+            "rating": 8.497,
+            "synopsis": "O grupo tenta restaurar a ordem após uma terrível descoberta. Hershel desaparece, e Rick e Glenn precisam segui-lo até a cidade.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/5gXXvhQyu0dJhtjCafy8NSiRJkP.jpg"
+        },
+        {
+            "title": "09. Dedo no gatilho",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4af47793b8b7a14d8d095f6acf846cbaa2947a66"
+            ],
+            "rating": 8.455,
+            "synopsis": "Cercados, Rick, Hershel e Glenn enfrentam novos inimigos, tanto mortos quanto vivos. Shane está determinado a levar Lori de volta à fazenda.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/2sgqMeVKRuyEQdKVSa2v8FOlfgG.jpg"
+        },
+        {
+            "title": "10. A 29 km",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4af47793b8b7a14d8d095f6acf846cbaa2947a66"
+            ],
+            "rating": 8.408,
+            "synopsis": "Rick e Shane discordam sobre o que fazer com um prisioneiro. Andrea ajuda a filha mais nova de Hershel a tomar uma importante decisão.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/4N2vrvnCt6dy7D8Y9qeFJYVHuAJ.jpg"
+        },
+        {
+            "title": "11. Juiz, júri, carrasco",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4af47793b8b7a14d8d095f6acf846cbaa2947a66"
+            ],
+            "rating": 8.8,
+            "synopsis": "Rick e Shane entram em acordo sobre uma decisão importante. Dale acha que o grupo está perdendo sua humanidade. As ações de Carl têm consequências inesperadas.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/4GYMZOSmdKfbPuLSFeoeWeB5pfN.jpg"
+        },
+        {
+            "title": "12. Anjos bons",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4af47793b8b7a14d8d095f6acf846cbaa2947a66"
+            ],
+            "rating": 8.876,
+            "synopsis": "O grupo descobre que alguém perigoso pode estar à solta. Com o cair da noite, Rick, Shane, Daryl e Glenn vasculham a mata em uma tentativa de lidar com a situação.",
+            "runtime": 44,
+            "poster": "https://image.tmdb.org/t/p/original/21ES174AHVnZ42iOsC8opxg3dL8.jpg"
+        },
+        {
+            "title": "13. Fogueira apagando",
+            "url": [
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4af47793b8b7a14d8d095f6acf846cbaa2947a66"
+            ],
+            "rating": 9.017,
+            "synopsis": "Rick retorna e encontra a fazenda ameaçada, e o grupo acaba se dividindo em meio ao caos. Com a situação alarmante, a liderança de Rick é questionada.",
+            "runtime": 43,
+            "poster": "https://image.tmdb.org/t/p/original/AfX5ZoVYicVHqFirgMctnrcFxId.jpg"
         }
     ]
 }
