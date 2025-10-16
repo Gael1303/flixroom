@@ -3,7 +3,7 @@
         {
             "title": "01. Prego no Caixão",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f12437c66d16f69af5f36b732af438974748fda7(EP 01)"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f12437c66d16f69af5f36b732af438974748fda7"
             ],
             "rating": 9.8,
             "synopsis": "Charles, Oliver e Mabel seguem pistas que os levam para fora de Manhattan.",
@@ -13,7 +13,7 @@
         {
             "title": "02. Por Favor",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f12437c66d16f69af5f36b732af438974748fda7(EP 02)"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f12437c66d16f69af5f36b732af438974748fda7"
             ],
             "rating": 9.7,
             "synopsis": "Uma espiada nos primeiros dias de Lester no Arconia.",
@@ -23,7 +23,7 @@
         {
             "title": "03. Rigor",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f12437c66d16f69af5f36b732af438974748fda7(EP 03)"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f12437c66d16f69af5f36b732af438974748fda7"
             ],
             "rating": 9.8,
             "synopsis": "O trio encontra uma pista decisiva.",
@@ -71,14 +71,14 @@
             "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/yrZtI1d0SHo7jzkXOjhFlkhhbmc.jpg"
         },
         {
-            "title": "08. Episódio 8",
+            "title": "08. Cuckoo Chicks",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ca4a7ec587edd2d4dac852d8807593ec2428681"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 9.6,
+            "synopsis": "Mabel gathers a ragtag group to crash an exclusive ladies night. While trying to save the Arconia from being sold, Charles and Oliver accidentally end up in couples' therapy.",
+            "runtime": 42,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ehmcUYMVEddk74pQIrdi32Upqiu.jpg"
         },
         {
             "title": "09. Episódio 9",
@@ -103,4 +103,5 @@
     ]
 
 }
+
 
