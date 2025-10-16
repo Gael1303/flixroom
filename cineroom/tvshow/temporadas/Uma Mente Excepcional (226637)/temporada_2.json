@@ -11,12 +11,12 @@
             "poster": "https://image.tmdb.org/t/p/original/kzG9nLSep09shftYHV2JzjiWunA.jpg"
         },
         {
-            "title": "02. Episódio 2",
+            "title": "02. Xeque-Mate",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b51db568b98ace693ae5144ec5bdd12f132fb83"
             ],
-            "rating": 8.0,
-            "synopsis": "",
+            "rating": 7.8,
+            "synopsis": "Enquanto a equipe de Crimes Graves busca desesperadamente respostas em meio a uma série de crimes não resolvidos, Morgan suspeita que o Game Maker seja o responsável. Enquanto isso, Daphne e Oz partem em busca de Roman, e Elliot prepara uma surpresa para o show de talentos da escola.",
             "runtime": 44,
             "poster": "https://image.tmdb.org/t/p/original/nMTgYSxlTwiB1YwleuGwnFtDnj.jpg"
         },
@@ -181,4 +181,5 @@
             "poster": ""
         }
     ]
+
 }
