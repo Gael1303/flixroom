@@ -3,7 +3,7 @@
         {
             "title": "01. Novo Ano, Nova Faculdade",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b368276164c0826ebb3a340f17f934ce753f76a2(EP 01)"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b368276164c0826ebb3a340f17f934ce753f76a2"
             ],
             "rating": 4.342,
             "synopsis": "É um novo ano na Godolkin! Confira as atualizações de segurança pelo campus! Participe da reunião especial de abertura e ouça o que o nosso novo líder, o reitor Cipher, tem a dizer! Encontre os amigos antigos na Associação Estudantil Victoria Neuman e faça novos em nossas novas e revitalizadas fraternidades! Este ano será melhor do que o anterior, e mal podemos esperar por isso!",
@@ -13,7 +13,7 @@
         {
             "title": "02. A Justiça Nunca Esquece",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b368276164c0826ebb3a340f17f934ce753f76a2(EP 02)"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b368276164c0826ebb3a340f17f934ce753f76a2"
             ],
             "rating": 3.357,
             "synopsis": "Você acha que ama história? É melhor repensar! Até mesmo um especialista pode aprender com os arquivos da Godolkin. Para reservar seis horas de aventura pedagógica com o melhor arquivista do mundo, contate Kyle@lembradorparasempre.com",
@@ -61,14 +61,14 @@
             "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/gYUmyPuxpSGK6xFs2rGCfrWmw3V.jpg"
         },
         {
-            "title": "07. Episódio 7",
+            "title": "07. Semana Infernal",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cecc92a89bd789cc8c4ad1a26b16b6b77611dbce"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 7.1,
+            "synopsis": "Lembrete do Escritório de Conduta Estudantil: a Godolkin não permite o trote sob nenhuma circunstância. Os alunos nunca devem ser chamados por nomes pejorativos, não devem ser forçados a vestir roupas humilhantes nem ser tratados como animais. Se você vir algo, fale! Ninguém vai te chamar de X-9.",
+            "runtime": 41,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/6EVdO0q1MlV8HmX7rTJt1vJCX1p.jpg"
         },
         {
             "title": "08. Episódio 8",
@@ -83,5 +83,6 @@
     ]
 
 }
+
 
 
