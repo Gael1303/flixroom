@@ -41,14 +41,14 @@
             "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/38CYeJrEp9ogVqKIMdInnnLpIYz.jpg"
         },
         {
-            "title": "05. Episódio 5",
+            "title": "05. Amari",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:deef923f6cd425c33afca15c974f04a075597bf4"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 1.0,
+            "synopsis": "Chris confrota o passado enquanto rumores online ganham força. Mia elabora uma nova estratégia.",
+            "runtime": 58,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/9Sw1aCW6YNkxftkm4cchnMUhGb1.jpg"
         },
         {
             "title": "06. Episódio 6",
@@ -103,5 +103,6 @@
     ]
 
 }
+
 
 
