@@ -5,7 +5,7 @@
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73669218e325ad8a125b93abdd8ada70b658518d"
             ],
-            "rating": 8.0,
+            "rating": 8.1,
             "synopsis": "Uma emergência sem precedentes coloca Fairbanks em confinamento. Frank reúne todos os recursos disponíveis para montar uma resposta em grande escala.",
             "runtime": 61,
             "poster": "https://image.tmdb.org/t/p/original/oOsuqbisRfIa8tC38yS62z2pSan.jpg"
@@ -15,7 +15,7 @@
             "url": [
                 "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73669218e325ad8a125b93abdd8ada70b658518d"
             ],
-            "rating": 0.0,
+            "rating": 9.3,
             "synopsis": "Luke tenta voltar para casa enquanto a caçada por Havlock se intensifica. Frank pondera se deve ceder a uma série de exigências.",
             "runtime": 56,
             "poster": "https://image.tmdb.org/t/p/original/v20qgvPM8mY9oATyYO3Xuh6d84M.jpg"
@@ -23,9 +23,9 @@
         {
             "title": "03. País do Car*lho",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1918851a372be0ff39a3badcadbd4cf508f7e469"
             ],
-            "rating": 0.0,
+            "rating": 10.0,
             "synopsis": "O desaparecimento de Sarah aumenta a urgência da busca de Frank. O plano de Havlock toma um rumo inesperado, aumentando o número de reféns.",
             "runtime": 62,
             "poster": "https://image.tmdb.org/t/p/original/5lOkqmcvpz8Px2sQ5gqMsSAoilh.jpg"
@@ -101,4 +101,5 @@
             "poster": ""
         }
     ]
+
 }
