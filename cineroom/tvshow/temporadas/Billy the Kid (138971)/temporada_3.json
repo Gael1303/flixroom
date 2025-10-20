@@ -21,22 +21,22 @@
             "poster": "https://image.tmdb.org/t/p/original/vVcJNm0EbPahVcsc4qSXLHD6CB5.jpg"
         },
         {
-            "title": "03. Episódio 3",
+            "title": "03. Tudo o Que Merece",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef0cfaa26725c19b0c7a1ebd4af51db60ad99243"
             ],
             "rating": 0.0,
-            "synopsis": "",
+            "synopsis": "Após outro ataque surpresa de Garrett, Billy perde um amigo de confiança, fazendo com que ele precise se vingar. Enquanto isso, Emily decide se reconciliar com o pai com um pedido de ajuda.",
             "runtime": 45,
             "poster": "https://image.tmdb.org/t/p/original/z6Prl5lnFZrgPRGpvZhHOd5HfTr.jpg"
         },
         {
-            "title": "04. Episódio 4",
+            "title": "04. A Cabana de Pastores",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b4b23f38dfa64724ed7d17a9d7bf8524203d084"
             ],
             "rating": 0.0,
-            "synopsis": "",
+            "synopsis": "Garrett e seus homens perseguem Billy e os Reguladores de forma implacável e, após um tenso impasse, aliados próximos precisam escolher entre lealdade e sobrevivência.",
             "runtime": 0,
             "poster": "https://image.tmdb.org/t/p/original/2aFAcw4W95cZR2IdIZLZaA7H6wp.jpg"
         },
@@ -83,3 +83,4 @@
     ]
 
 }
+
