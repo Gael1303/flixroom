@@ -31,45 +31,46 @@
             "poster": "https://image.tmdb.org/t/p/original/2VJRSZImHgC4wSz9zbwv1dg12zd.jpg"
         },
         {
-            "title": "04. Episódio 4",
+            "title": "04. Todos os Caminhos",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b9f06ce7a552cec7bc6b8799cdca44d2f0c4af9"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 64,
+            "rating": 4.7,
+            "synopsis": "Tom questiona a lealdade de sua unidade especial e Perry investiga sua própria gangue e descobre uma verdade chocante.",
+            "runtime": 62,
             "poster": "https://image.tmdb.org/t/p/original/nTYwczFpMYPL4mfX5fEeskd3jQC.jpg"
         },
         {
-            "title": "05. Episódio 5",
+            "title": "05. Errantes",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53b3599c7e2f76d9a6c1d0fe476a9b0aab67ade5"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 4.5,
+            "synopsis": "Com a ajuda de uma testemunha, Tom e sua equipe se aproximam da solução do caso. Perry visita Maeve, enquanto Robbie coloca seu plano em ação. Mais tarde, Tom segue uma pista que o leva por um caminho perigoso.",
+            "runtime": 62,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ioRVWIZMNIzV2MU0b4qGagpALnF.jpg"
         },
         {
-            "title": "06. Episódio 6",
+            "title": "06. Além das ideias de certo e errado, há um rio",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c37dad4510dc5230219b27a41b94ca3526b39bde"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 4.4,
+            "synopsis": "A Unidade Especial, os Corações Negros e Robbie se encontram na floresta, desencadeando um confronto com consequências terríveis para todos. Após o incidente, Tom se concentra em sua equipe enquanto o FBI inicia uma investigação.",
+            "runtime": 59,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/odiEuSGo3Vw4hCE9IJHbzoZgz1K.jpg"
         },
         {
-            "title": "07. Episódio 7",
+            "title": "07. Uma Voz Mansa e Delicada",
             "url": [
-                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+                "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d22e37a15d8e9686df9ed56aabba3a6ac18692c5"
             ],
-            "rating": 0.0,
-            "synopsis": "",
-            "runtime": 0,
-            "poster": ""
+            "rating": 1.0,
+            "synopsis": "Após o confronto, os membros da Unidade Especial, agora dissolvida, continuam sua busca por respostas. Enquanto os Corações Negros se mobilizam para encobrir seus rastros, uma revelação chocante os leva a um confronto final.",
+            "runtime": 59,
+            "poster": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/cLNSgC8tWdMvzA1r4jzGLokOdAD.jpg"
         }
     ]
 
 }
+
