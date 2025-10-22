@@ -1,7 +1,9 @@
 [
     {
         "tmdb_id": 286801,
+		"imdb_id": "tt13207736",
         "popularity": 196.4496,
+		"original_title": "Monster: The Ed Gein Story",
         "title": "Monstro: A História de Ed Gein",
         "rating": 7.417,
         "classification": "18",
@@ -173,7 +175,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/1Ost5HEM9017LgxCYRfrJKntNMv.png",
-        "imdb_id": "tt0413573"
+        "imdb_id": "tt0413573",
+        "original_title": "Grey's Anatomy"
     },
     {
         "tmdb_id": 153312,
@@ -221,7 +224,8 @@
             "Paramount Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/qpkA9m2yBaOPnXgXC7ySFW32rr0.png",
-        "imdb_id": "tt16358384"
+        "imdb_id": "tt16358384",
+        "original_title": "Tulsa King"
     },
     {
         "tmdb_id": 1405,
@@ -301,7 +305,8 @@
             "Paramount Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/lAfyAdGWfBLQ6m7NPT7c3OSC2zW.svg",
-        "imdb_id": "tt0773262"
+        "imdb_id": "tt0773262",
+        "original_title": "Dexter"
     },
     {
         "tmdb_id": 63926,
@@ -354,14 +359,15 @@
             },
             {
                 "title": "3ª Temporada (Breve) 12/10",
-                "rating": 0,
+                "rating": 0.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/yxQ59REbr6ei8rwGndWnuzFzQJC.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/One-Punch%20Man%20%2863926%29/temporada_3.json",
                 "number": 3
             }
         ],
-        "imdb_id": "tt4508902"
+        "imdb_id": "tt4508902",
+        "original_title": "ワンパンマン"
     },
     {
         "tmdb_id": 1622,
@@ -481,7 +487,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/uvelSpPnZSbSZbt3suKCYOMjHwz.png",
-        "imdb_id": "tt0460681"
+        "imdb_id": "tt0460681",
+        "original_title": "Supernatural"
     },
     {
         "tmdb_id": 221079,
@@ -509,14 +516,15 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 8,
+                "rating": 8.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/sg9jrTGJ00aCXoTMyDpQS72xZU3.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Ultima%20Fronteira%20%28221079%29/temporada_1.json",
                 "number": 1
             }
         ],
-        "imdb_id": "tt26862142"
+        "imdb_id": "tt26862142",
+        "original_title": "The Last Frontier"
     },
     {
         "tmdb_id": 79744,
@@ -585,7 +593,8 @@
             "Claro tv+"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/uXuEj4EgaE2mdeRODJoqw0k712I.png",
-        "imdb_id": "tt7587890"
+        "imdb_id": "tt7587890",
+        "original_title": "The Rookie"
     },
     {
         "tmdb_id": 1434,
@@ -618,7 +627,8 @@
         ],
         "providers": [],
         "clearlogo": "https://image.tmdb.org/t/p/original/4gl00NPDu3y01X9w5AaMOa5cJ4M.png",
-        "imdb_id": "tt0182576"
+        "imdb_id": "tt0182576",
+        "original_title": "Family Guy"
     },
     {
         "tmdb_id": 34307,
@@ -673,7 +683,7 @@
             },
             {
                 "title": "4ª Temporada",
-                "rating": 8,
+                "rating": 8.0,
                 "synopsis": "A família Gallagher mais uma vez enfrentará o frio rigoroso do inverno em Chicago e aguardará o destino médico de Frank, seu patriarca constantemente bêbado. Com a mais velha, Fiona ancorada em uma posição e um relacionamento estável, e Lip recém-formado na universidade, parece que a felicidade e o sonho americano estariam nas mãos de Gallagher. Mas Ian ainda está desaparecido, Debbie e Carl precisam administrar seus hormônios adolescentes e seus vizinhos Kev e Veronica têm fertilidade brilhante. As maneiras de sair disso são escassas quando você está quebrado.",
                 "poster": "https://image.tmdb.org/t/p/original/h61CczBVTmX10MFu1ui2FDEvwUa.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Shameless%20%2834307%29/temporada_4.json",
@@ -736,7 +746,8 @@
                 "number": 11
             }
         ],
-        "imdb_id": "tt1586680"
+        "imdb_id": "tt1586680",
+        "original_title": "Shameless"
     },
     {
         "tmdb_id": 456,
@@ -982,7 +993,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/4ReGMfsXbbsgJHfEumuzGoob8Ol.png",
-        "imdb_id": "tt0096697"
+        "imdb_id": "tt0096697",
+        "original_title": "The Simpsons"
     },
     {
         "tmdb_id": 1399,
@@ -1017,7 +1029,8 @@
             "Claro tv+"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/2IZ11HatfHTEwM5GKL88pf5Qkfo.png",
-        "imdb_id": "tt0944947"
+        "imdb_id": "tt0944947",
+        "original_title": "Game of Thrones"
     },
     {
         "tmdb_id": 66732,
@@ -1063,7 +1076,7 @@
             },
             {
                 "title": "3ª Temporada",
-                "rating": 8,
+                "rating": 8.0,
                 "synopsis": "Romance no ar. Um shopping novinho em folha. Ratazanas enlouquecidas correndo para o perigo. É o verão de 1985 em Hawkins. E um verão pode mudar tudo.",
                 "poster": "https://image.tmdb.org/t/p/original/sDms9g40ZBhjMIfX9YqqaqId8sK.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Stranger%20Things%20%2866732%29/temporada_3.json",
@@ -1079,14 +1092,15 @@
             },
             {
                 "title": "5ª Temporada (Breve)",
-                "rating": 0,
+                "rating": 0.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/5i5Fg549J27knMvhI5NRM2FT3Gn.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Stranger%20Things%20%2866732%29/temporada_5.json",
                 "number": 5
             }
         ],
-        "imdb_id": "tt4574334"
+        "imdb_id": "tt4574334",
+        "original_title": "Stranger Things"
     },
     {
         "tmdb_id": 1408,
@@ -1166,7 +1180,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/oJKousgdPPkb6dlblkODxGkMmNv.png",
-        "imdb_id": "tt0412142"
+        "imdb_id": "tt0412142",
+        "original_title": "House"
     },
     {
         "tmdb_id": 228305,
@@ -1202,7 +1217,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt28013708"
+        "imdb_id": "tt28013708",
+        "original_title": "Task"
     },
     {
         "tmdb_id": 119051,
@@ -1246,7 +1262,8 @@
             "Netflix",
             "Netflix Standard with Ads"
         ],
-        "imdb_id": "tt13443470"
+        "imdb_id": "tt13443470",
+        "original_title": "Wednesday"
     },
     {
         "tmdb_id": 1396,
@@ -1305,7 +1322,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/6gCsRLiJuumiZVwvYhKQiVDHPIF.png",
-        "imdb_id": "tt0903747"
+        "imdb_id": "tt0903747",
+        "original_title": "Breaking Bad"
     },
     {
         "tmdb_id": 5920,
@@ -1377,7 +1395,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/sHF6y7btA03TqE1tVQJq3JJzQA3.svg",
-        "imdb_id": "tt1196946"
+        "imdb_id": "tt1196946",
+        "original_title": "The Mentalist"
     },
     {
         "tmdb_id": 46952,
@@ -1489,7 +1508,8 @@
                 "number": 10
             }
         ],
-        "imdb_id": "tt2741602"
+        "imdb_id": "tt2741602",
+        "original_title": "The Blacklist"
     },
     {
         "tmdb_id": 205715,
@@ -1534,7 +1554,8 @@
                 "number": 2
             }
         ],
-        "imdb_id": "tt13159924"
+        "imdb_id": "tt13159924",
+        "original_title": "Gen V"
     },
     {
         "tmdb_id": 110492,
@@ -1580,7 +1601,8 @@
                 "number": 2
             }
         ],
-        "imdb_id": "tt13146488"
+        "imdb_id": "tt13146488",
+        "original_title": "Peacemaker"
     },
     {
         "tmdb_id": 211684,
@@ -1618,7 +1640,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/5RRyLSY9ZvTBA3ogbrin3PqWcgc.png",
-        "imdb_id": "tt13062500"
+        "imdb_id": "tt13062500",
+        "original_title": "The Walking Dead: Daryl Dixon"
     },
     {
         "tmdb_id": 4604,
@@ -1719,7 +1742,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/sOHgD8zKodsDSXaTvlcUTHTz22.png",
-        "imdb_id": "tt0279600"
+        "imdb_id": "tt0279600",
+        "original_title": "Smallville"
     },
     {
         "tmdb_id": 110316,
@@ -1773,7 +1797,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/epePp3mrs9zCRoYQuJHIQGcpfr9.png",
-        "imdb_id": "tt10795658"
+        "imdb_id": "tt10795658",
+        "original_title": "今際の国のアリス"
     },
     {
         "tmdb_id": 1911,
@@ -1898,7 +1923,8 @@
                 "number": 12
             }
         ],
-        "imdb_id": "tt0460627"
+        "imdb_id": "tt0460627",
+        "original_title": "Bones"
     },
     {
         "tmdb_id": 2316,
@@ -1992,7 +2018,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/2kbzZV3yBfN7n2srRewN6jQ6fjq.png",
-        "imdb_id": "tt0386676"
+        "imdb_id": "tt0386676",
+        "original_title": "The Office"
     },
     {
         "tmdb_id": 2288,
@@ -2052,7 +2079,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/fpUdryawHINfrEGG3ErT59ThzVU.png",
-        "imdb_id": "tt0455275"
+        "imdb_id": "tt0455275",
+        "original_title": "Prison Break"
     },
     {
         "tmdb_id": 37680,
@@ -2121,7 +2149,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/vORphSBxXbhBrLUR3tJhtpvYLnW.png",
-        "imdb_id": "tt1632701"
+        "imdb_id": "tt1632701",
+        "original_title": "Suits"
     },
     {
         "tmdb_id": 1668,
@@ -2154,7 +2183,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/a4qZkvpdqCSS60vppgL5xCBsMwi.svg",
-        "imdb_id": "tt0108778"
+        "imdb_id": "tt0108778",
+        "original_title": "Friends"
     },
     {
         "tmdb_id": 2190,
@@ -2370,7 +2400,8 @@
             "Paramount Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/w3bIQSoMUXtsSvXJxIHntFgr7rg.png",
-        "imdb_id": "tt0121955"
+        "imdb_id": "tt0121955",
+        "original_title": "South Park"
     },
     {
         "tmdb_id": 18165,
@@ -2447,7 +2478,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/qHGxxIruCUuXmHnlZ4evbVwkxjI.png",
-        "imdb_id": "tt1405406"
+        "imdb_id": "tt1405406",
+        "original_title": "The Vampire Diaries"
     },
     {
         "tmdb_id": 1402,
@@ -2568,7 +2600,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/7CIJHjFz2fh4bo6kg1gfE51oENa.png",
-        "imdb_id": "tt1520211"
+        "imdb_id": "tt1520211",
+        "original_title": "The Walking Dead"
     },
     {
         "tmdb_id": 256721,
@@ -2611,7 +2644,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt32612521"
+        "imdb_id": "tt32612521",
+        "original_title": "ガチアクタ"
     },
     {
         "tmdb_id": 44006,
@@ -2664,7 +2698,8 @@
                 "number": 3
             }
         ],
-        "imdb_id": "tt2261391"
+        "imdb_id": "tt2261391",
+        "original_title": "Chicago Fire"
     },
     {
         "tmdb_id": 44217,
@@ -2729,7 +2764,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/4GKqOzFXX8UXqmF5XzEO7AQlNqY.png",
-        "imdb_id": "tt2306299"
+        "imdb_id": "tt2306299",
+        "original_title": "Vikings"
     },
     {
         "tmdb_id": 1100,
@@ -2828,7 +2864,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/3KcVo4es9HkcAPyXMeXqnI6Weov.png",
-        "imdb_id": "tt0460649"
+        "imdb_id": "tt0460649",
+        "original_title": "How I Met Your Mother"
     },
     {
         "tmdb_id": 2691,
@@ -2953,7 +2990,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/7qjIaa3cZ0SeEJaMRYdjQXF6cEk.png",
-        "imdb_id": "tt0369179"
+        "imdb_id": "tt0369179",
+        "original_title": "Two and a Half Men"
     },
     {
         "tmdb_id": 1973,
@@ -3054,7 +3092,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/wAz560VjSX11BjlVkPmdswwe7E9.png",
-        "imdb_id": "tt0285331"
+        "imdb_id": "tt0285331",
+        "original_title": "24"
     },
     {
         "tmdb_id": 63174,
@@ -3118,7 +3157,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/n5b6FFH4dtPla4R1WC8PskvievF.png",
-        "imdb_id": "tt4052886"
+        "imdb_id": "tt4052886",
+        "original_title": "Lucifer"
     },
     {
         "tmdb_id": 120089,
@@ -3167,7 +3207,8 @@
             "Netflix",
             "Crunchyroll"
         ],
-        "imdb_id": "tt13706018"
+        "imdb_id": "tt13706018",
+        "original_title": "SPY×FAMILY"
     },
     {
         "tmdb_id": 108978,
@@ -3213,7 +3254,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/wUhXD6ENFxqof72PL2etaYmpFj6.png",
-        "imdb_id": "tt9288030"
+        "imdb_id": "tt9288030",
+        "original_title": "Reacher"
     },
     {
         "tmdb_id": 73586,
@@ -3287,7 +3329,8 @@
             "Paramount Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/afF8ciL8JGKEVOpMN0q8mgqcB9z.png",
-        "imdb_id": "tt4236770"
+        "imdb_id": "tt4236770",
+        "original_title": "Yellowstone"
     },
     {
         "tmdb_id": 65334,
@@ -3360,7 +3403,8 @@
                 "number": 5
             }
         ],
-        "imdb_id": "tt2580046"
+        "imdb_id": "tt2580046",
+        "original_title": "Miraculous, les aventures de Ladybug et Chat Noir"
     },
     {
         "tmdb_id": 1409,
@@ -3437,7 +3481,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/efgD4oLjC9MF606gTSKcLI4q7mZ.png",
-        "imdb_id": "tt1124373"
+        "imdb_id": "tt1124373",
+        "original_title": "Sons of Anarchy"
     },
     {
         "tmdb_id": 157239,
@@ -3474,7 +3519,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt13623632"
+        "imdb_id": "tt13623632",
+        "original_title": "Alien: Earth"
     },
     {
         "tmdb_id": 71712,
@@ -3557,7 +3603,8 @@
             "Globoplay"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/zJSv0Xq9clrHzlqDunQ2L2ue2rH.png",
-        "imdb_id": "tt6470478"
+        "imdb_id": "tt6470478",
+        "original_title": "The Good Doctor"
     },
     {
         "tmdb_id": 1398,
@@ -3628,7 +3675,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/bTXo9q6J8u3Gvpk5Q3K7InhuIJW.png",
-        "imdb_id": "tt0141842"
+        "imdb_id": "tt0141842",
+        "original_title": "The Sopranos"
     },
     {
         "tmdb_id": 34524,
@@ -3693,7 +3741,8 @@
             "MGM Plus Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/uHBCSLe1bdUJPP1zIDOI8qCDmng.png",
-        "imdb_id": "tt1567432"
+        "imdb_id": "tt1567432",
+        "original_title": "Teen Wolf"
     },
     {
         "tmdb_id": 60625,
@@ -3775,7 +3824,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/eZT392K8YXwQLKGGxi2V8DRptw0.png",
-        "imdb_id": "tt2861424"
+        "imdb_id": "tt2861424",
+        "original_title": "Rick and Morty"
     },
     {
         "tmdb_id": 127235,
@@ -3828,7 +3878,8 @@
             "Apple TV+"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/cC5BMhUJvMgrUvDRzb6Fi6IHm89.png",
-        "imdb_id": "tt9737326"
+        "imdb_id": "tt9737326",
+        "original_title": "Invasion"
     },
     {
         "tmdb_id": 4607,
@@ -3895,7 +3946,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/3OdGyeRpm56so0xmXjhBs8DbXv5.png",
-        "imdb_id": "tt0411008"
+        "imdb_id": "tt0411008",
+        "original_title": "Lost"
     },
     {
         "tmdb_id": 32798,
@@ -3977,7 +4029,8 @@
             "Paramount Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/sW5psSHsrC8C8XW6Qwf7Bc4uhcK.png",
-        "imdb_id": "tt1600194"
+        "imdb_id": "tt1600194",
+        "original_title": "Hawaii Five-0"
     },
     {
         "tmdb_id": 60574,
@@ -4041,7 +4094,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/4DlHJs3wBqNMHcjiVeFdL5hOW3e.png",
-        "imdb_id": "tt2442560"
+        "imdb_id": "tt2442560",
+        "original_title": "Peaky Blinders"
     },
     {
         "tmdb_id": 76479,
@@ -4092,7 +4146,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/xawDgfkBQaocXR9CljBMjkYpXNK.png",
-        "imdb_id": "tt1190634"
+        "imdb_id": "tt1190634",
+        "original_title": "The Boys"
     },
     {
         "tmdb_id": 226637,
@@ -4138,7 +4193,8 @@
                 "number": 2
             }
         ],
-        "imdb_id": "tt22091076"
+        "imdb_id": "tt22091076",
+        "original_title": "High Potential"
     },
     {
         "tmdb_id": 127366,
@@ -4174,7 +4230,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt12809802"
+        "imdb_id": "tt12809802",
+        "original_title": "Splinter Cell: Deathwatch"
     },
     {
         "tmdb_id": 57243,
@@ -4273,7 +4330,8 @@
             "Microsoft Store"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/tQikhOnWCPWDSYnC0lqNJ24Dd9P.png",
-        "imdb_id": "tt0436992"
+        "imdb_id": "tt0436992",
+        "original_title": "Doctor Who"
     },
     {
         "tmdb_id": 60585,
@@ -4305,7 +4363,7 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 8,
+                "rating": 8.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/8cvDD5NWVkIQcLSB1SDxNmjHPVG.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bosch%20%2860585%29/temporada_1.json",
@@ -4353,14 +4411,15 @@
             },
             {
                 "title": "7ª Temporada",
-                "rating": 8,
+                "rating": 8.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/lQPwNJ6DRpmRfTrKy8A94c7IvU3.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bosch%20%2860585%29/temporada_7.json",
                 "number": 7
             }
         ],
-        "imdb_id": "tt3502248"
+        "imdb_id": "tt3502248",
+        "original_title": "Bosch"
     },
     {
         "tmdb_id": 31132,
@@ -4426,7 +4485,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/gwgl1QT9Lrx6031VyG5F98AihzR.png",
-        "imdb_id": "tt1710308"
+        "imdb_id": "tt1710308",
+        "original_title": "Regular Show"
     },
     {
         "tmdb_id": 93405,
@@ -4474,7 +4534,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/d6w3wFwmmV5UP1qyjetUa4aFu56.png",
-        "imdb_id": "tt10919420"
+        "imdb_id": "tt10919420",
+        "original_title": "오징어 게임"
     },
     {
         "tmdb_id": 78191,
@@ -4533,7 +4594,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/rB2cNCvMqzEb7NBCYHyP5SOGaFn.png",
-        "imdb_id": "tt7335184"
+        "imdb_id": "tt7335184",
+        "original_title": "You"
     },
     {
         "tmdb_id": 207468,
@@ -4574,7 +4636,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt21975436"
+        "imdb_id": "tt21975436",
+        "original_title": "怪獣８号"
     },
     {
         "tmdb_id": 95479,
@@ -4618,7 +4681,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/tEmqJ1k4MdjuaKaetn8wGyZGcyC.png",
-        "imdb_id": "tt12343534"
+        "imdb_id": "tt12343534",
+        "original_title": "呪術廻戦"
     },
     {
         "tmdb_id": 37854,
@@ -4712,7 +4776,8 @@
                 "number": 12
             }
         ],
-        "imdb_id": "tt0388629"
+        "imdb_id": "tt0388629",
+        "original_title": "ワンピース"
     },
     {
         "tmdb_id": 71728,
@@ -4794,7 +4859,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/qEDAMVdOaSSZ5A2KLpbGLHmOBMH.png",
-        "imdb_id": "tt6226232"
+        "imdb_id": "tt6226232",
+        "original_title": "Young Sheldon"
     },
     {
         "tmdb_id": 42009,
@@ -4865,7 +4931,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/bQGVstVOI79nDmswbo3umB0lmrp.png",
-        "imdb_id": "tt2085059"
+        "imdb_id": "tt2085059",
+        "original_title": "Black Mirror"
     },
     {
         "tmdb_id": 127532,
@@ -4904,7 +4971,8 @@
             "Crunchyroll"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/piJiMJx8ubLCgiIC9fgjaQcpG8a.png",
-        "imdb_id": "tt21209876"
+        "imdb_id": "tt21209876",
+        "original_title": "俺だけレベルアップな件"
     },
     {
         "tmdb_id": 60059,
@@ -4968,7 +5036,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/hwxBWyoeTefjafeqkIONxl0mXUV.png",
-        "imdb_id": "tt3032476"
+        "imdb_id": "tt3032476",
+        "original_title": "Better Call Saul"
     },
     {
         "tmdb_id": 95557,
@@ -5015,7 +5084,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/spWWIRf1nUJpEabqG6Hx9gPt18E.png",
-        "imdb_id": "tt6741278"
+        "imdb_id": "tt6741278",
+        "original_title": "INVINCIBLE"
     },
     {
         "tmdb_id": 125988,
@@ -5055,7 +5125,8 @@
             "Apple TV+"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/czDX0kMF1O6UslAzzQg8bbYkuHV.png",
-        "imdb_id": "tt14688458"
+        "imdb_id": "tt14688458",
+        "original_title": "Silo"
     },
     {
         "tmdb_id": 90282,
@@ -5108,14 +5179,15 @@
             },
             {
                 "title": "4ª Temporada",
-                "rating": 0,
+                "rating": 0.0,
                 "synopsis": "A quarta temporada de “The Morning Show” começa na primavera de 2024, quase dois anos após os acontecimentos da terceira temporada. Com a fusão entre a UBA e a NBN concluída, a redação precisa lidar com novas responsabilidades, interesses ocultos e a natureza escorregadia da verdade em uma América polarizada. Em um mundo dominado por deepfakes, teorias da conspiração e acobertamentos corporativos — em quem confiar? E como saber o que é realmente real? Além de Jennifer Aniston e Reese Witherspoon, o elenco estelar da quarta temporada conta com Billy Crudup, Karen Pittman, Nicole Beharie, Nestor Carbonell, Mark Duplass, Greta Lee, Marion Cotillard, Jeremy Irons, Aaron Pierre, William Jackson Harper, Boyd Holbrook e o retorno do querido Jon Hamm.",
                 "poster": "https://image.tmdb.org/t/p/original/y9x2R87yt2U616736NJrP0d56dt.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/The%20Morning%20Show%20%2890282%29/temporada_4.json",
                 "number": 4
             }
         ],
-        "imdb_id": "tt7203552"
+        "imdb_id": "tt7203552",
+        "original_title": "The Morning Show"
     },
     {
         "tmdb_id": 107113,
@@ -5185,7 +5257,8 @@
                 "number": 5
             }
         ],
-        "imdb_id": "tt11691774"
+        "imdb_id": "tt11691774",
+        "original_title": "Only Murders in the Building"
     },
     {
         "tmdb_id": 71912,
@@ -5234,7 +5307,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/x3uBgefbFC8blsE4Sbdi0m2a71d.png",
-        "imdb_id": "tt5180504"
+        "imdb_id": "tt5180504",
+        "original_title": "The Witcher"
     },
     {
         "tmdb_id": 30984,
@@ -5291,7 +5365,8 @@
                 "number": 2
             }
         ],
-        "imdb_id": "tt0434665"
+        "imdb_id": "tt0434665",
+        "original_title": "BLEACH"
     },
     {
         "tmdb_id": 32726,
@@ -5355,7 +5430,7 @@
             },
             {
                 "title": "5ª Temporada",
-                "rating": 8,
+                "rating": 8.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/hSSq0pumcqPXU03GQnc4MxSYNgH.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bob%27s%20Burgers%20%2832726%29/temporada_5.json",
@@ -5371,7 +5446,7 @@
             },
             {
                 "title": "7ª Temporada",
-                "rating": 8,
+                "rating": 8.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/mXvn5c7D5iva4P5SC93L6cuYIkA.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Bob%27s%20Burgers%20%2832726%29/temporada_7.json",
@@ -5434,7 +5509,8 @@
                 "number": 14
             }
         ],
-        "imdb_id": "tt1561755"
+        "imdb_id": "tt1561755",
+        "original_title": "Bob's Burgers"
     },
     {
         "tmdb_id": 2710,
@@ -5585,7 +5661,8 @@
                 "number": 15
             }
         ],
-        "imdb_id": "tt0472954"
+        "imdb_id": "tt0472954",
+        "original_title": "It's Always Sunny in Philadelphia"
     },
     {
         "tmdb_id": 84773,
@@ -5625,7 +5702,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/dDgJLSMUqI64CvNAN73WeApbAlJ.png",
-        "imdb_id": "tt7631058"
+        "imdb_id": "tt7631058",
+        "original_title": "The Lord of the Rings: The Rings of Power"
     },
     {
         "tmdb_id": 615,
@@ -5738,7 +5816,8 @@
                 "number": 10
             }
         ],
-        "imdb_id": "tt0149460"
+        "imdb_id": "tt0149460",
+        "original_title": "Futurama"
     },
     {
         "tmdb_id": 247718,
@@ -5777,7 +5856,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt31510819"
+        "imdb_id": "tt31510819",
+        "original_title": "MobLand"
     },
     {
         "tmdb_id": 81356,
@@ -5829,13 +5909,14 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/tBkXRuuQlFjPaao4L55vwuIhkRH.png",
-        "imdb_id": "tt7767422"
+        "imdb_id": "tt7767422",
+        "original_title": "Sex Education"
     },
     {
         "tmdb_id": 219760,
         "popularity": 42.3843,
         "title": "A Lista Terminal: Lobo Negro",
-        "rating": 10,
+        "rating": 10.0,
         "classification": "16",
         "year": 2025,
         "premiered": "27/08/2025",
@@ -5857,14 +5938,15 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 0,
+                "rating": 0.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/t9aBguODhgTdWW2nQjGBAHiLhHb.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/A%20Lista%20Terminal%20Lobo%20Negro%20%28219760%29/temporada_1.json",
                 "number": 1
             }
         ],
-        "imdb_id": "tt26576161"
+        "imdb_id": "tt26576161",
+        "original_title": "The Terminal List: Dark Wolf"
     },
     {
         "tmdb_id": 220542,
@@ -5905,7 +5987,8 @@
             "Crunchyroll"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/3mjErHRF4zRYIcdmK1jbAHL158m.png",
-        "imdb_id": "tt26743760"
+        "imdb_id": "tt26743760",
+        "original_title": "薬屋のひとりごと"
     },
     {
         "tmdb_id": 94664,
@@ -5956,7 +6039,8 @@
                 "number": 2
             }
         ],
-        "imdb_id": "tt13293588"
+        "imdb_id": "tt13293588",
+        "original_title": "無職転生 ～異世界行ったら本気だす～"
     },
     {
         "tmdb_id": 69478,
@@ -6032,7 +6116,8 @@
             "Paramount Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/y7geYqnIsYFawKQVko2JrdmsPuY.png",
-        "imdb_id": "tt5834204"
+        "imdb_id": "tt5834204",
+        "original_title": "The Handmaid's Tale"
     },
     {
         "tmdb_id": 39351,
@@ -6109,7 +6194,8 @@
             "Globoplay"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/nOPg4FutzDnPdwlXMDy8hVRuJAr.png",
-        "imdb_id": "tt1830617"
+        "imdb_id": "tt1830617",
+        "original_title": "Grimm"
     },
     {
         "tmdb_id": 93740,
@@ -6162,7 +6248,8 @@
             "Apple TV Plus Amazon Channel",
             "Apple TV+"
         ],
-        "imdb_id": "tt0804484"
+        "imdb_id": "tt0804484",
+        "original_title": "Foundation"
     },
     {
         "tmdb_id": 94997,
@@ -6204,7 +6291,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/tnG6qt5wBDNxX2TE7iPzfhChkmI.png",
-        "imdb_id": "tt11198330"
+        "imdb_id": "tt11198330",
+        "original_title": "House of the Dragon"
     },
     {
         "tmdb_id": 46260,
@@ -6247,7 +6335,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/kaZ99sfclCKWnUgmW7AYrok03Am.png",
-        "imdb_id": "tt0409591"
+        "imdb_id": "tt0409591",
+        "original_title": "ナルト"
     },
     {
         "tmdb_id": 196890,
@@ -6283,7 +6372,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt19381692"
+        "imdb_id": "tt19381692",
+        "original_title": "Chief of War"
     },
     {
         "tmdb_id": 48866,
@@ -6352,7 +6442,8 @@
         ],
         "providers": [],
         "clearlogo": "https://image.tmdb.org/t/p/original/bxvG5Faq3pVb4RzrHrzM1cvuuk9.svg",
-        "imdb_id": "tt2661044"
+        "imdb_id": "tt2661044",
+        "original_title": "The 100"
     },
     {
         "tmdb_id": 1920,
@@ -6402,7 +6493,8 @@
         ],
         "providers": [],
         "clearlogo": "https://image.tmdb.org/t/p/original/7FIVhfOPEjgb4Wver9Cfy9ETMTM.png",
-        "imdb_id": "tt0098936"
+        "imdb_id": "tt0098936",
+        "original_title": "Twin Peaks"
     },
     {
         "tmdb_id": 15260,
@@ -6439,7 +6531,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/xvT35Utsxpydm9svjBfrrjG8Hg5.png",
-        "imdb_id": "tt1305826"
+        "imdb_id": "tt1305826",
+        "original_title": "Adventure Time"
     },
     {
         "tmdb_id": 12971,
@@ -6479,7 +6572,8 @@
             "Oldflix"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/yMoktMFgvqnsQ1Pii9xwturAHx4.png",
-        "imdb_id": "tt0121220"
+        "imdb_id": "tt0121220",
+        "original_title": "ドラゴンボールゼット"
     },
     {
         "tmdb_id": 100088,
@@ -6519,7 +6613,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/msYtgZbEo8tAOJ37T50kgqulpKf.png",
-        "imdb_id": "tt3581920"
+        "imdb_id": "tt3581920",
+        "original_title": "The Last of Us"
     },
     {
         "tmdb_id": 37606,
@@ -6568,7 +6663,7 @@
             },
             {
                 "title": "3ª Temporada",
-                "rating": 8,
+                "rating": 8.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/2SgxZwJQySLbnYU01kOIOiECTAf.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Incrivel%20Mundo%20de%20Gumball%20%2837606%29/temporada_3.json",
@@ -6599,7 +6694,8 @@
                 "number": 6
             }
         ],
-        "imdb_id": "tt1942683"
+        "imdb_id": "tt1942683",
+        "original_title": "The Amazing World of Gumball"
     },
     {
         "tmdb_id": 138505,
@@ -6637,7 +6733,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt16027014"
+        "imdb_id": "tt16027014",
+        "original_title": "Marvel Zombies"
     },
     {
         "tmdb_id": 1877,
@@ -6702,7 +6799,8 @@
                 "number": 4
             }
         ],
-        "imdb_id": "tt0852863"
+        "imdb_id": "tt0852863",
+        "original_title": "Phineas and Ferb"
     },
     {
         "tmdb_id": 80752,
@@ -6755,7 +6853,8 @@
                 "number": 3
             }
         ],
-        "imdb_id": "tt7949218"
+        "imdb_id": "tt7949218",
+        "original_title": "See"
     },
     {
         "tmdb_id": 33217,
@@ -6820,7 +6919,8 @@
                 "number": 4
             }
         ],
-        "imdb_id": "tt1641384"
+        "imdb_id": "tt1641384",
+        "original_title": "Young Justice"
     },
     {
         "tmdb_id": 48891,
@@ -6905,7 +7005,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/c4B02LhSKL6xLrI8vJ5IbLHL0Ue.png",
-        "imdb_id": "tt2467372"
+        "imdb_id": "tt2467372",
+        "original_title": "Brooklyn Nine-Nine"
     },
     {
         "tmdb_id": 45140,
@@ -6987,7 +7088,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/p8pRg0lEZKCM7z5fakweU0VxC6c.png",
-        "imdb_id": "tt2771780"
+        "imdb_id": "tt2771780",
+        "original_title": "Teen Titans Go!"
     },
     {
         "tmdb_id": 1418,
@@ -7099,7 +7201,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/gg3Kyjme4uBjasG9WIL3KQHEngv.png",
-        "imdb_id": "tt0898266"
+        "imdb_id": "tt0898266",
+        "original_title": "The Big Bang Theory"
     },
     {
         "tmdb_id": 71914,
@@ -7151,7 +7254,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/jVCSbUx0YOGEA78v3QlmTXWVURZ.png",
-        "imdb_id": "tt7462410"
+        "imdb_id": "tt7462410",
+        "original_title": "The Wheel of Time"
     },
     {
         "tmdb_id": 85077,
@@ -7213,7 +7317,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/5xeRFCX5j5oNAudvR5GhN664ejC.png",
-        "imdb_id": "tt5622316"
+        "imdb_id": "tt5622316",
+        "original_title": "The Chosen"
     },
     {
         "tmdb_id": 77169,
@@ -7278,7 +7383,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/pkNOYbuOrm2CcyJcpqRLHN3ZW2m.png",
-        "imdb_id": "tt7221388"
+        "imdb_id": "tt7221388",
+        "original_title": "Cobra Kai"
     },
     {
         "tmdb_id": 60708,
@@ -7348,7 +7454,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/dvMiFhdViAg28Xl22CZtbRTvgJT.png",
-        "imdb_id": "tt3749900"
+        "imdb_id": "tt3749900",
+        "original_title": "Gotham"
     },
     {
         "tmdb_id": 106379,
@@ -7382,7 +7489,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/wQKyybjZoCFlYFqXVzp7jIjPxFl.png",
-        "imdb_id": "tt12637874"
+        "imdb_id": "tt12637874",
+        "original_title": "Fallout"
     },
     {
         "tmdb_id": 45790,
@@ -7458,7 +7566,8 @@
                 "number": 5
             }
         ],
-        "imdb_id": "tt2359704"
+        "imdb_id": "tt2359704",
+        "original_title": "ジョジョの奇妙な冒険"
     },
     {
         "tmdb_id": 4630,
@@ -7573,7 +7682,8 @@
                 "number": 10
             }
         ],
-        "imdb_id": "tt0235918"
+        "imdb_id": "tt0235918",
+        "original_title": "The Fairly OddParents"
     },
     {
         "tmdb_id": 4194,
@@ -7651,7 +7761,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/k6JT0p0yssrEWkNLDAjKk2zUnaJ.png",
-        "imdb_id": "tt0458290"
+        "imdb_id": "tt0458290",
+        "original_title": "Star Wars: The Clone Wars"
     },
     {
         "tmdb_id": 31910,
@@ -7693,7 +7804,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/5fHucuDcgj301sS7yicHVZNGqsT.svg",
-        "imdb_id": "tt0988824"
+        "imdb_id": "tt0988824",
+        "original_title": "ナルト 疾風伝"
     },
     {
         "tmdb_id": 113962,
@@ -7738,7 +7850,8 @@
             "Paramount Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/gr1jPZA47Zm4xEHjLzMok9ap9eT.png",
-        "imdb_id": "tt13111078"
+        "imdb_id": "tt13111078",
+        "original_title": "Lioness"
     },
     {
         "tmdb_id": 1438,
@@ -7788,7 +7901,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/cP5IrOYxU7qtFl3Gyjtj9iPufCn.png",
-        "imdb_id": "tt0306414"
+        "imdb_id": "tt0306414",
+        "original_title": "The Wire"
     },
     {
         "tmdb_id": 250307,
@@ -7823,7 +7937,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt31938062"
+        "imdb_id": "tt31938062",
+        "original_title": "The Pitt"
     },
     {
         "tmdb_id": 243881,
@@ -7858,7 +7973,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/xl1mRywdFmigeUrrEHNd39ipFvx.png",
-        "imdb_id": "tt30955673"
+        "imdb_id": "tt30955673",
+        "original_title": "House of David"
     },
     {
         "tmdb_id": 94954,
@@ -7899,7 +8015,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/uBG7QQqJzMurRe9qT6eKLR28exY.png",
-        "imdb_id": "tt7216636"
+        "imdb_id": "tt7216636",
+        "original_title": "Hazbin Hotel"
     },
     {
         "tmdb_id": 63333,
@@ -7969,7 +8086,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/rE7f5t0naWuCP404p2D9o01CzqX.png",
-        "imdb_id": "tt4179452"
+        "imdb_id": "tt4179452",
+        "original_title": "The Last Kingdom"
     },
     {
         "tmdb_id": 271607,
@@ -8012,7 +8130,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt36592690"
+        "imdb_id": "tt36592690",
+        "original_title": "薫る花は凛と咲く"
     },
     {
         "tmdb_id": 63247,
@@ -8066,7 +8185,8 @@
         ],
         "providers": [],
         "clearlogo": "https://image.tmdb.org/t/p/original/418NJcFFqyg5lg5CdIMnQmJMjLl.png",
-        "imdb_id": "tt0475784"
+        "imdb_id": "tt0475784",
+        "original_title": "Westworld"
     },
     {
         "tmdb_id": 3022,
@@ -8077,7 +8197,7 @@
         "year": 1991,
         "premiered": "11/08/1991",
         "date_added": "2025-08-13",
-        "synopsis": "Os bebês da série, Tommy Pickles, Chuckie Finster e os gêmeos Phil e Lil DeVille são capazes de se comunicar entre si em uma linguagem que os adultos não compreendem. Eles ocasionalmente falam com erros de pronúncia ou simplesmente confundem as palavras. Apesar dos adultos não os entenderem, são capazes de compreender o que seus pais falam, ainda que muitas vezes não compreendam direito e tomem metáforas literalmente. Angelica Pickles, de três anos, é capaz de se comunicar normalmente com os bebês e com os adultos, habilidade que ela usa para tirar vantagem de ambas as partes.",
+        "synopsis": "Os bebês da série, Tommy Pickles, Chuckie Finster e os gêmeos Phil e Lil DeVille são capazes de se comunicar entre si em uma linguagem que os adultos não compreendem. Eles ocasionalmente falam com erros de pronúncia ou simplesmente confundem as palavras. Apesar dos adultos não os entenderem, são capazes de compreender o que seus pais falam, ainda que muitas vezes não compreendam direito e tomem metáforas literalmente. Angelica Pickles, de três anos, é capaz de se comunicar normalmente com os bebês e com os adultos, habilidade que ela usa para tirar vantagem de ambas as partes.",
         "poster": "https://image.tmdb.org/t/p/original/bMpBRY1btB3lQpUme8V1zOviPPl.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/fKpfCR3l0WukHTkI6Z2ySX1if4P.jpg",
         "clearlogo": "https://image.tmdb.org/t/p/original/axbgTIWv0e8eIWo7x23CugEveJ4.png",
@@ -8114,7 +8234,7 @@
             },
             {
                 "title": "3ª Temporada",
-                "rating": 7,
+                "rating": 7.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/k7OLjeBBEsHRvFcrDet0hILOd7q.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Rugrats%20Os%20Anjinhos%20%283022%29/temporada_3.json",
@@ -8122,7 +8242,7 @@
             },
             {
                 "title": "4ª Temporada",
-                "rating": 7,
+                "rating": 7.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/86lsnbzsR6Ix50L6Wn4388YgVNt.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Rugrats%20Os%20Anjinhos%20%283022%29/temporada_4.json",
@@ -8130,7 +8250,7 @@
             },
             {
                 "title": "5ª Temporada",
-                "rating": 7,
+                "rating": 7.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/9bF8b1GKw0lpmo2LWuRLnLZ73tT.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Rugrats%20Os%20Anjinhos%20%283022%29/temporada_5.json",
@@ -8138,7 +8258,7 @@
             },
             {
                 "title": "6ª Temporada",
-                "rating": 7,
+                "rating": 7.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/lMXCE4i5sH0vABriW0BxHUfXgeq.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Rugrats%20Os%20Anjinhos%20%283022%29/temporada_6.json",
@@ -8146,7 +8266,7 @@
             },
             {
                 "title": "7ª Temporada",
-                "rating": 7,
+                "rating": 7.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/ysdrcZqFKyon7qXzIKlzPLfGE2c.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Rugrats%20Os%20Anjinhos%20%283022%29/temporada_7.json",
@@ -8154,7 +8274,7 @@
             },
             {
                 "title": "8ª Temporada",
-                "rating": 7,
+                "rating": 7.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/ieFk4eLjVgB7WirCzXDl0sYmPR1.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Rugrats%20Os%20Anjinhos%20%283022%29/temporada_8.json",
@@ -8162,14 +8282,15 @@
             },
             {
                 "title": "9ª Temporada",
-                "rating": 7,
+                "rating": 7.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/z7NOCO1SD32612qPq2OYuHumIx0.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Rugrats%20Os%20Anjinhos%20%283022%29/temporada_9.json",
                 "number": 9
             }
         ],
-        "imdb_id": "tt0101188"
+        "imdb_id": "tt0101188",
+        "original_title": "Rugrats"
     },
     {
         "tmdb_id": 253811,
@@ -8204,14 +8325,15 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 8,
+                "rating": 8.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/v4OlQo5vj9aXW8oqd7q6w4ine67.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Tougen%20Anki%20%28253811%29/temporada_1.json",
                 "number": 1
             }
         ],
-        "imdb_id": "tt32344704"
+        "imdb_id": "tt32344704",
+        "original_title": "桃源暗鬼"
     },
     {
         "tmdb_id": 85552,
@@ -8253,7 +8375,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/3o1S8814htDg63MtITB231d56zi.png",
-        "imdb_id": "tt8772296"
+        "imdb_id": "tt8772296",
+        "original_title": "Euphoria"
     },
     {
         "tmdb_id": 4588,
@@ -8402,7 +8525,8 @@
                 "number": 15
             }
         ],
-        "imdb_id": "tt0108757"
+        "imdb_id": "tt0108757",
+        "original_title": "ER"
     },
     {
         "tmdb_id": 209867,
@@ -8454,7 +8578,8 @@
                 "number": 2
             }
         ],
-        "imdb_id": "tt22248376"
+        "imdb_id": "tt22248376",
+        "original_title": "葬送のフリーレン"
     },
     {
         "tmdb_id": 30981,
@@ -8497,7 +8622,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt0434706"
+        "imdb_id": "tt0434706",
+        "original_title": "MONSTER"
     },
     {
         "tmdb_id": 52814,
@@ -8548,7 +8674,8 @@
             "Paramount Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/g2PJeIjOkMgIvjzvQVnATTcCnIV.png",
-        "imdb_id": "tt2934286"
+        "imdb_id": "tt2934286",
+        "original_title": "Halo"
     },
     {
         "tmdb_id": 222766,
@@ -8582,7 +8709,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/qsW4sClr5LQWBYPY6XAHhqml5KR.png",
-        "imdb_id": "tt24053860"
+        "imdb_id": "tt24053860",
+        "original_title": "The Day of the Jackal"
     },
     {
         "tmdb_id": 240411,
@@ -8627,7 +8755,8 @@
             "Crunchyroll"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/A9jO4m2vVmvuEhTMf6E6sK16kMp.png",
-        "imdb_id": "tt30217403"
+        "imdb_id": "tt30217403",
+        "original_title": "ダンダダン"
     },
     {
         "tmdb_id": 91239,
@@ -8678,7 +8807,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/hCktfeE5wbaakqp8y98Ui5ZAats.svg",
-        "imdb_id": "tt8740790"
+        "imdb_id": "tt8740790",
+        "original_title": "Bridgerton"
     },
     {
         "tmdb_id": 95396,
@@ -8719,7 +8849,8 @@
             "Apple TV+"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/l1jQCXRyQenWqtJhRBrvUgQJLar.png",
-        "imdb_id": "tt11280740"
+        "imdb_id": "tt11280740",
+        "original_title": "Severance"
     },
     {
         "tmdb_id": 1424,
@@ -8805,7 +8936,8 @@
                 "number": 7
             }
         ],
-        "imdb_id": "tt2372162"
+        "imdb_id": "tt2372162",
+        "original_title": "Orange Is the New Black"
     },
     {
         "tmdb_id": 111803,
@@ -8860,7 +8992,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/2SwIOcXZ4you4EjPCAw7IucCsgX.png",
-        "imdb_id": "tt13406094"
+        "imdb_id": "tt13406094",
+        "original_title": "The White Lotus"
     },
     {
         "tmdb_id": 227114,
@@ -8896,7 +9029,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt26672404"
+        "imdb_id": "tt26672404",
+        "original_title": "Butterfly"
     },
     {
         "tmdb_id": 46896,
@@ -8962,7 +9096,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/eRoXDZocWwBHFZcLAmj8ASVZ9Eu.png",
-        "imdb_id": "tt2632424"
+        "imdb_id": "tt2632424",
+        "original_title": "The Originals"
     },
     {
         "tmdb_id": 61222,
@@ -9027,13 +9162,14 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/8czXfVg26ohZB41TijcXkMcbedc.png",
-        "imdb_id": "tt3398228"
+        "imdb_id": "tt3398228",
+        "original_title": "BoJack Horseman"
     },
     {
         "tmdb_id": 47,
         "popularity": 27.7575,
         "title": "Chaves",
-        "rating": 8,
+        "rating": 8.0,
         "classification": "L",
         "year": 1973,
         "premiered": "26/02/1973",
@@ -9075,7 +9211,7 @@
             },
             {
                 "title": "3ª Temporada",
-                "rating": 0,
+                "rating": 0.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/qZFliCRyHS2pmruoS81NeiIzqVW.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Chaves%20%2847%29/temporada_3.json",
@@ -9083,7 +9219,7 @@
             },
             {
                 "title": "4ª Temporada",
-                "rating": 0,
+                "rating": 0.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/ud08iT9mpanZM8sTUXJSDrcDhG6.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Chaves%20%2847%29/temporada_4.json",
@@ -9091,7 +9227,7 @@
             },
             {
                 "title": "5ª Temporada",
-                "rating": 0,
+                "rating": 0.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/wv2Qn9EQgCWWMicghx06k59uyrt.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Chaves%20%2847%29/temporada_5.json",
@@ -9099,7 +9235,7 @@
             },
             {
                 "title": "6ª Temporada",
-                "rating": 10,
+                "rating": 10.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/tJcVkR80Wm08HjErXOMbTQSWXTI.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Chaves%20%2847%29/temporada_6.json",
@@ -9107,14 +9243,15 @@
             },
             {
                 "title": "7ª Temporada",
-                "rating": 10,
+                "rating": 10.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/cdrF2YHvbaNVlJ6CrWGnHV4P6jS.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Chaves%20%2847%29/temporada_7.json",
                 "number": 7
             }
         ],
-        "imdb_id": "tt0229889"
+        "imdb_id": "tt0229889",
+        "original_title": "El Chavo del Ocho"
     },
     {
         "tmdb_id": 256317,
@@ -9153,7 +9290,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt32559610"
+        "imdb_id": "tt32559610",
+        "original_title": "Countdown"
     },
     {
         "tmdb_id": 247767,
@@ -9201,7 +9339,8 @@
                 "number": 2
             }
         ],
-        "imdb_id": "tt23649128"
+        "imdb_id": "tt23649128",
+        "original_title": "The Studio"
     },
     {
         "tmdb_id": 207332,
@@ -9242,7 +9381,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/4hOUNaSr76WDgxcsRL3ygaA39Ad.png",
-        "imdb_id": "tt17069148"
+        "imdb_id": "tt17069148",
+        "original_title": "SAKAMOTO DAYS"
     },
     {
         "tmdb_id": 247168,
@@ -9281,7 +9421,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt31449991"
+        "imdb_id": "tt31449991",
+        "original_title": "Chad Powers"
     },
     {
         "tmdb_id": 114410,
@@ -9323,7 +9464,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt13616990"
+        "imdb_id": "tt13616990",
+        "original_title": "チェンソーマン"
     },
     {
         "tmdb_id": 75006,
@@ -9381,7 +9523,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/zApywPqx8eSoRhXvNUctCmu938z.png",
-        "imdb_id": "tt1312171"
+        "imdb_id": "tt1312171",
+        "original_title": "The Umbrella Academy"
     },
     {
         "tmdb_id": 86831,
@@ -9427,7 +9570,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/QRyBVJUv9WY6u14scmG4ZD8VVG.png",
-        "imdb_id": "tt9561862"
+        "imdb_id": "tt9561862",
+        "original_title": "Love, Death & Robots"
     },
     {
         "tmdb_id": 69740,
@@ -9479,7 +9623,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/ukFTvV5fFYsRZoX1W60cWj04snF.png",
-        "imdb_id": "tt5071412"
+        "imdb_id": "tt5071412",
+        "original_title": "Ozark"
     },
     {
         "tmdb_id": 113988,
@@ -9514,7 +9659,8 @@
             "Netflix",
             "Netflix Standard with Ads"
         ],
-        "clearlogo": "https://image.tmdb.org/t/p/original/fNcXLhAm9ihFcHCJKMVzWuNifIP.png"
+        "clearlogo": "https://image.tmdb.org/t/p/original/fNcXLhAm9ihFcHCJKMVzWuNifIP.png",
+        "original_title": "DAHMER - Monster: The Jeffrey Dahmer Story"
     },
     {
         "tmdb_id": 63351,
@@ -9564,7 +9710,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/9ksHxU8TGvG6qWuGutXcw8GCaph.png",
-        "imdb_id": "tt2707408"
+        "imdb_id": "tt2707408",
+        "original_title": "Narcos"
     },
     {
         "tmdb_id": 136315,
@@ -9617,7 +9764,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/kGYXRuoBAPwXHgG0TDrn5qQxoWA.png",
-        "imdb_id": "tt14452776"
+        "imdb_id": "tt14452776",
+        "original_title": "The Bear"
     },
     {
         "tmdb_id": 131041,
@@ -9666,7 +9814,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt15222080"
+        "imdb_id": "tt15222080",
+        "original_title": "ブルーロック"
     },
     {
         "tmdb_id": 120911,
@@ -9702,7 +9851,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/vXihbbmeJS1AFTQMpfffDsriRTI.png",
-        "imdb_id": "tt11743610"
+        "imdb_id": "tt11743610",
+        "original_title": "The Terminal List"
     },
     {
         "tmdb_id": 62560,
@@ -9761,7 +9911,8 @@
         ],
         "providers": [],
         "clearlogo": "https://image.tmdb.org/t/p/original/l9PqAU71v8Z7X8D5vGR0ZJl9WYe.svg",
-        "imdb_id": "tt4158110"
+        "imdb_id": "tt4158110",
+        "original_title": "Mr. Robot"
     },
     {
         "tmdb_id": 259909,
@@ -9799,7 +9950,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt33043892"
+        "imdb_id": "tt33043892",
+        "original_title": "Dexter: Resurrection"
     },
     {
         "tmdb_id": 40075,
@@ -9848,7 +10000,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/x4CRHbhTPHN3PvKWvAxpLqWPffu.png",
-        "imdb_id": "tt1865718"
+        "imdb_id": "tt1865718",
+        "original_title": "Gravity Falls"
     },
     {
         "tmdb_id": 63401,
@@ -9911,7 +10064,8 @@
                 "number": 4
             }
         ],
-        "imdb_id": "tt4839610"
+        "imdb_id": "tt4839610",
+        "original_title": "We Bare Bears"
     },
     {
         "tmdb_id": 70523,
@@ -9959,7 +10113,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/hZAw4fEQb4t5YVttZpcSIWv0fSQ.png",
-        "imdb_id": "tt5753856"
+        "imdb_id": "tt5753856",
+        "original_title": "Dark"
     },
     {
         "tmdb_id": 72517,
@@ -10017,7 +10172,8 @@
                 "number": 3
             }
         ],
-        "imdb_id": "tt7263328"
+        "imdb_id": "tt7263328",
+        "original_title": "ようこそ実力至上主義の教室へ"
     },
     {
         "tmdb_id": 45950,
@@ -10081,7 +10237,8 @@
                 "number": 4
             }
         ],
-        "imdb_id": "tt2230051"
+        "imdb_id": "tt2230051",
+        "original_title": "ハイスクールD×D"
     },
     {
         "tmdb_id": 112211,
@@ -10126,7 +10283,8 @@
                 "number": 2
             }
         ],
-        "imdb_id": "tt13366604"
+        "imdb_id": "tt13366604",
+        "original_title": "Platonic"
     },
     {
         "tmdb_id": 47480,
@@ -10204,7 +10362,8 @@
                 "number": 5
             }
         ],
-        "imdb_id": "tt3559124"
+        "imdb_id": "tt3559124",
+        "original_title": "The Tom and Jerry Show"
     },
     {
         "tmdb_id": 50035,
@@ -10259,7 +10418,8 @@
                 "number": 3
             }
         ],
-        "imdb_id": "tt3061050"
+        "imdb_id": "tt3061050",
+        "original_title": "Clarence"
     },
     {
         "tmdb_id": 61889,
@@ -10312,7 +10472,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/6NOjoUajyG0ffmU4AvWDCjhdkIW.png",
-        "imdb_id": "tt3322312"
+        "imdb_id": "tt3322312",
+        "original_title": "Marvel's Daredevil"
     },
     {
         "tmdb_id": 61175,
@@ -10377,7 +10538,8 @@
                 "number": 4
             }
         ],
-        "imdb_id": "tt3061046"
+        "imdb_id": "tt3061046",
+        "original_title": "Steven Universe"
     },
     {
         "tmdb_id": 82856,
@@ -10427,7 +10589,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/qKBEJIbXF9WTAy09yYmaQ8BRkmi.png",
-        "imdb_id": "tt8111088"
+        "imdb_id": "tt8111088",
+        "original_title": "The Mandalorian"
     },
     {
         "tmdb_id": 91363,
@@ -10474,7 +10637,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/j9TysR7vlqxVhSOdjhf7Msbi8Ev.png",
-        "imdb_id": "tt10168312"
+        "imdb_id": "tt10168312",
+        "original_title": "What If...?"
     },
     {
         "tmdb_id": 102321,
@@ -10529,7 +10693,8 @@
                 "number": 3
             }
         ],
-        "imdb_id": "tt8543208"
+        "imdb_id": "tt8543208",
+        "original_title": "Looney Tunes Cartoons"
     },
     {
         "tmdb_id": 61374,
@@ -10593,7 +10758,8 @@
                 "number": 4
             }
         ],
-        "imdb_id": "tt3741634"
+        "imdb_id": "tt3741634",
+        "original_title": "東京喰種トーキョーグール"
     },
     {
         "tmdb_id": 255859,
@@ -10629,7 +10795,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt27427326"
+        "imdb_id": "tt27427326",
+        "original_title": "Wayward"
     },
     {
         "tmdb_id": 90802,
@@ -10676,7 +10843,8 @@
                 "number": 2
             }
         ],
-        "imdb_id": "tt1751634"
+        "imdb_id": "tt1751634",
+        "original_title": "The Sandman"
     },
     {
         "tmdb_id": 607,
@@ -10743,7 +10911,8 @@
                 "number": 4
             }
         ],
-        "imdb_id": "tt0175058"
+        "imdb_id": "tt0175058",
+        "original_title": "The Powerpuff Girls"
     },
     {
         "tmdb_id": 94605,
@@ -10785,7 +10954,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/jXLNOzeEA8AoJy92dJTUUZXTMxK.png",
-        "imdb_id": "tt11126994"
+        "imdb_id": "tt11126994",
+        "original_title": "Arcane"
     },
     {
         "tmdb_id": 13916,
@@ -10829,7 +10999,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/mbDyY5qEDKVQNvuHk71OvxH8Cjg.png",
-        "imdb_id": "tt0877057"
+        "imdb_id": "tt0877057",
+        "original_title": "DEATH NOTE"
     },
     {
         "tmdb_id": 207484,
@@ -10866,7 +11037,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt18332852"
+        "imdb_id": "tt18332852",
+        "original_title": "Outlander: Blood of My Blood"
     },
     {
         "tmdb_id": 1429,
@@ -10929,7 +11101,8 @@
             "Crunchyroll"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/qSntvVN1vTFZJQRcUzzAPcb0KPO.png",
-        "imdb_id": "tt2560140"
+        "imdb_id": "tt2560140",
+        "original_title": "進撃の巨人"
     },
     {
         "tmdb_id": 83867,
@@ -10974,7 +11147,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/o4ksVdqiHklZ7dlNDhK8ttyDFKx.png",
-        "imdb_id": "tt9253284"
+        "imdb_id": "tt9253284",
+        "original_title": "Andor"
     },
     {
         "tmdb_id": 68073,
@@ -11059,7 +11233,8 @@
                 "number": 6
             }
         ],
-        "imdb_id": "tt4859164"
+        "imdb_id": "tt4859164",
+        "original_title": "The Loud House"
     },
     {
         "tmdb_id": 95057,
@@ -11111,7 +11286,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/pVOmqCcN1LezB0ZBue7JrwtvSJk.png",
-        "imdb_id": "tt11192306"
+        "imdb_id": "tt11192306",
+        "original_title": "Superman & Lois"
     },
     {
         "tmdb_id": 96648,
@@ -11161,7 +11337,48 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/hO4qVP146x1ZJK219sdTcprjFuZ.png",
-        "imdb_id": "tt11612120"
+        "imdb_id": "tt11612120",
+        "original_title": "스위트홈"
+    },
+    {
+        "tmdb_id": 82,
+        "popularity": 22.3361,
+        "trending": false,
+        "title": "Animaniacs",
+        "rating": 8,
+        "classification": "L",
+        "year": 1993,
+        "premiered": "13/09/1993",
+        "synopsis": "Steven Spielberg's Animaniacs foi uma série de desenhos animados distribuída pela Warner Bros.",
+        "poster": "https://image.tmdb.org/t/p/original/6Iu6stPN3XSCH0sfBliaeAwU2hM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8TThBwlIZnzCFkj21rv5Nv2lTNG.jpg",
+        "studio": [
+            "HBO Max"
+        ],
+        "genres": [
+            "Animação",
+            "Kids",
+            "Comédia",
+            "Família"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 0,
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/zACtCoiSSGBR0jf5lr5EL7XKna0.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Animaniacs%20(82)/temporada_1.json",
+                "number": 1
+            }
+        ],
+        "providers": [
+            "Max",
+            "Max Amazon Channel"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/oOdoTwu0khWPxVH7de5HT66LNa7.png",
+        "imdb_id": "tt0105941",
+        "original_title": "Animaniacs"
     },
     {
         "tmdb_id": 79696,
@@ -11207,7 +11424,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/hNiclPig633LQyAyN22ht1C7mzv.png",
-        "imdb_id": "tt8421350"
+        "imdb_id": "tt8421350",
+        "original_title": "Manifest"
     },
     {
         "tmdb_id": 897,
@@ -11240,7 +11458,7 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 7,
+                "rating": 7.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/1q0uEruI5Whr6idwWRdtOZoxrHd.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Terriveis%20Aventuras%20de%20Billy%20e%20Mandy%20%28897%29/temporada_1.json",
@@ -11256,7 +11474,7 @@
             },
             {
                 "title": "3ª Temporada",
-                "rating": 0,
+                "rating": 0.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/zAXWK5B4Ru3ZsmfJDxXr86E9XXc.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/As%20Terriveis%20Aventuras%20de%20Billy%20e%20Mandy%20%28897%29/temporada_3.json",
@@ -11287,7 +11505,8 @@
                 "number": 6
             }
         ],
-        "imdb_id": "tt0292800"
+        "imdb_id": "tt0292800",
+        "original_title": "The Grim Adventures of Billy and Mandy"
     },
     {
         "tmdb_id": 252,
@@ -11349,7 +11568,8 @@
                 "number": 4
             }
         ],
-        "imdb_id": "tt0460637"
+        "imdb_id": "tt0460637",
+        "original_title": "Everybody Hates Chris"
     },
     {
         "tmdb_id": 84958,
@@ -11388,7 +11608,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/6yb7XUr6l7ctCwf8OJ9NN5brQ53.png",
-        "imdb_id": "tt9140554"
+        "imdb_id": "tt9140554",
+        "original_title": "Loki"
     },
     {
         "tmdb_id": 67744,
@@ -11428,7 +11649,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/bUeXqAHghLNOALd5PUiYdXr5PW.png",
-        "imdb_id": "tt5290382"
+        "imdb_id": "tt5290382",
+        "original_title": "MINDHUNTER"
     },
     {
         "tmdb_id": 261579,
@@ -11462,7 +11684,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/oefaHbroXoHLX9adoFHkUlKw5yD.png",
-        "imdb_id": "tt33204697"
+        "imdb_id": "tt33204697",
+        "original_title": "Secret Level"
     },
     {
         "tmdb_id": 241554,
@@ -11500,7 +11723,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt30444310"
+        "imdb_id": "tt30444310",
+        "original_title": "Murderbot"
     },
     {
         "tmdb_id": 157744,
@@ -11548,7 +11772,8 @@
             "Paramount Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/2hlc1DvGiDx8L0tmkSepEn5tpzb.png",
-        "imdb_id": "tt18335752"
+        "imdb_id": "tt18335752",
+        "original_title": "1923"
     },
     {
         "tmdb_id": 890,
@@ -11587,7 +11812,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt0112159"
+        "imdb_id": "tt0112159",
+        "original_title": "新世紀エヴァンゲリオン"
     },
     {
         "tmdb_id": 2085,
@@ -11651,7 +11877,8 @@
                 "number": 4
             }
         ],
-        "imdb_id": "tt0220880"
+        "imdb_id": "tt0220880",
+        "original_title": "Courage the Cowardly Dog"
     },
     {
         "tmdb_id": 71738,
@@ -11704,7 +11931,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/omZ2FMfLNKR1Ds2bMHdYF6LgDyY.png",
-        "imdb_id": "tt5691552"
+        "imdb_id": "tt5691552",
+        "original_title": "The Orville"
     },
     {
         "tmdb_id": 90027,
@@ -11747,7 +11975,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/4aYMJIjArmC1zIOKYHpTBfjC3yc.png",
-        "imdb_id": "tt0489974"
+        "imdb_id": "tt0489974",
+        "original_title": "Carnival Row"
     },
     {
         "tmdb_id": 40008,
@@ -11796,7 +12025,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/o1YTZCrIkQBIQL9gG65fZidQ25U.png",
-        "imdb_id": "tt2243973"
+        "imdb_id": "tt2243973",
+        "original_title": "Hannibal"
     },
     {
         "tmdb_id": 61923,
@@ -11861,7 +12091,8 @@
                 "number": 4
             }
         ],
-        "imdb_id": "tt2758770"
+        "imdb_id": "tt2758770",
+        "original_title": "Star vs. the Forces of Evil"
     },
     {
         "tmdb_id": 46786,
@@ -11912,7 +12143,8 @@
         ],
         "providers": [],
         "clearlogo": "https://image.tmdb.org/t/p/original/sMT0wIu8Oc1vx5OKLmMJelyF0R2.png",
-        "imdb_id": "tt2188671"
+        "imdb_id": "tt2188671",
+        "original_title": "Bates Motel"
     },
     {
         "tmdb_id": 73375,
@@ -11968,7 +12200,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/genIkWvFfmioq9w4Hu69BdesLDP.png",
-        "imdb_id": "tt5057054"
+        "imdb_id": "tt5057054",
+        "original_title": "Tom Clancy's Jack Ryan"
     },
     {
         "tmdb_id": 4610,
@@ -12029,7 +12262,8 @@
                 "number": 4
             }
         ],
-        "imdb_id": "tt0493093"
+        "imdb_id": "tt0493093",
+        "original_title": "Hannah Montana"
     },
     {
         "tmdb_id": 232230,
@@ -12070,7 +12304,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt28618556"
+        "imdb_id": "tt28618556",
+        "original_title": "诡秘之主"
     },
     {
         "tmdb_id": 71446,
@@ -12131,46 +12366,8 @@
         ],
         "providers": [],
         "clearlogo": "https://image.tmdb.org/t/p/original/zIvngRPJ69v3gAMI9Cs3WV7NoZr.png",
-        "imdb_id": "tt6468322"
-    },
-    {
-        "tmdb_id": 82,
-        "popularity": 20.4536,
-        "trending": false,
-        "title": "Animaniacs",
-        "rating": 8,
-        "classification": "L",
-        "year": 1993,
-        "premiered": "13/09/1993",
-        "synopsis": "Steven Spielberg's Animaniacs foi uma série de desenhos animados distribuída pela Warner Bros.",
-        "poster": "https://image.tmdb.org/t/p/original/6Iu6stPN3XSCH0sfBliaeAwU2hM.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/8TThBwlIZnzCFkj21rv5Nv2lTNG.jpg",
-        "studio": [
-            "HBO Max"
-        ],
-        "genres": [
-            "Animação",
-            "Kids",
-            "Comédia",
-            "Família"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "rating": 0,
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/zACtCoiSSGBR0jf5lr5EL7XKna0.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Animaniacs%20(82)/temporada_1.json",
-                "number": 1
-            }
-        ],
-        "providers": [
-            "Max",
-            "Max Amazon Channel"
-        ],
-        "clearlogo": "https://image.tmdb.org/t/p/original/oOdoTwu0khWPxVH7de5HT66LNa7.png",
-        "imdb_id": "tt0105941"
+        "imdb_id": "tt6468322",
+        "original_title": "La casa de papel"
     },
     {
         "tmdb_id": 258901,
@@ -12211,7 +12408,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt35127440"
+        "imdb_id": "tt35127440",
+        "original_title": "SANDA"
     },
     {
         "tmdb_id": 65930,
@@ -12313,43 +12511,8 @@
                 "number": 8
             }
         ],
-        "imdb_id": "tt5626028"
-    },
-    {
-        "tmdb_id": 259140,
-        "popularity": 20.2866,
-        "trending": false,
-        "title": "Ranma1/2",
-        "rating": 8.5,
-        "classification": "12",
-        "year": 2024,
-        "premiered": "10/06/2024",
-        "synopsis": "Akane Tendo conhece o noivo, Ranma Saotome, um prodígio das artes marciais com um segredo: ele se transforma magicamente em uma garota ao tocar em água fria.",
-        "poster": "https://image.tmdb.org/t/p/original/6vmdhryL8pOzXpHu293isC7uLwu.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/z0sftiGQfOALJVCg62n3MaWU72l.jpg",
-        "studio": [
-            "Nippon TV"
-        ],
-        "genres": [
-            "Anime",
-            "Animação",
-            "Action & Adventure",
-            "Comédia",
-            "Sci-Fi & Fantasy"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "synopsis": "",
-                "poster": "https://image.tmdb.org/t/p/original/pKKtw9VdD8AYX0hABIImBUfUZ58.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Ranma12%20(259140)/temporada_1.json",
-                "number": 1
-            }
-        ],
-        "providers": [],
-        "clearlogo": "https://image.tmdb.org/t/p/original/wDODKGlKxdCT36J4oS1uwtmWQRB.png",
-        "imdb_id": "tt32766897"
+        "imdb_id": "tt5626028",
+        "original_title": "僕のヒーローアカデミア"
     },
     {
         "tmdb_id": 30669,
@@ -12413,7 +12576,45 @@
                 "number": 4
             }
         ],
-        "imdb_id": "tt0185133"
+        "imdb_id": "tt0185133",
+        "original_title": "幽☆遊☆白書"
+    },
+    {
+        "tmdb_id": 259140,
+        "popularity": 19.9482,
+        "trending": false,
+        "title": "Ranma1/2",
+        "rating": 8.5,
+        "classification": "12",
+        "year": 2024,
+        "premiered": "10/06/2024",
+        "synopsis": "Akane Tendo conhece o noivo, Ranma Saotome, um prodígio das artes marciais com um segredo: ele se transforma magicamente em uma garota ao tocar em água fria.",
+        "poster": "https://image.tmdb.org/t/p/original/6vmdhryL8pOzXpHu293isC7uLwu.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/z0sftiGQfOALJVCg62n3MaWU72l.jpg",
+        "studio": [
+            "Nippon TV"
+        ],
+        "genres": [
+            "Anime",
+            "Animação",
+            "Action & Adventure",
+            "Comédia",
+            "Sci-Fi & Fantasy"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "synopsis": "",
+                "poster": "https://image.tmdb.org/t/p/original/pKKtw9VdD8AYX0hABIImBUfUZ58.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Ranma12%20(259140)/temporada_1.json",
+                "number": 1
+            }
+        ],
+        "providers": [],
+        "clearlogo": "https://image.tmdb.org/t/p/original/wDODKGlKxdCT36J4oS1uwtmWQRB.png",
+        "imdb_id": "tt32766897",
+        "original_title": "らんま1/2"
     },
     {
         "tmdb_id": 155537,
@@ -12450,7 +12651,8 @@
             "Apple TV+"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/e2OPDAe3ic6W9Wo0d4yAUVsPJjC.png",
-        "imdb_id": "tt4301160"
+        "imdb_id": "tt4301160",
+        "original_title": "Black Bird"
     },
     {
         "tmdb_id": 196322,
@@ -12486,7 +12688,8 @@
             "Apple TV+"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/exFrz7yM1yS0ILTh5UfpPTP5yWO.png",
-        "imdb_id": "tt19231492"
+        "imdb_id": "tt19231492",
+        "original_title": "Dark Matter"
     },
     {
         "tmdb_id": 67178,
@@ -12531,13 +12734,14 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/6JQwz9Tgz0ZlPRN2N7Wf413332A.png",
-        "imdb_id": "tt5675620"
+        "imdb_id": "tt5675620",
+        "original_title": "Marvel's The Punisher"
     },
     {
         "tmdb_id": 3322,
         "popularity": 19.0884,
         "title": "Oz",
-        "rating": 8,
+        "rating": 8.0,
         "classification": "18",
         "year": 1997,
         "premiered": "12/07/1997",
@@ -12608,7 +12812,8 @@
                 "number": 6
             }
         ],
-        "imdb_id": "tt0118421"
+        "imdb_id": "tt0118421",
+        "original_title": "Oz"
     },
     {
         "tmdb_id": 90462,
@@ -12658,7 +12863,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/AgYN1OiH9DS8NMyteuQGTik0nyd.png",
-        "imdb_id": "tt8388390"
+        "imdb_id": "tt8388390",
+        "original_title": "Chucky"
     },
     {
         "tmdb_id": 157741,
@@ -12697,7 +12903,8 @@
             "Paramount Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/13lJnfO3oExZ2ECzAR6WDyShzlV.png",
-        "imdb_id": "tt14186672"
+        "imdb_id": "tt14186672",
+        "original_title": "Landman"
     },
     {
         "tmdb_id": 111110,
@@ -12735,7 +12942,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/573oxRtw673XSPgEWS61dy1llxz.png",
-        "imdb_id": "tt11737520"
+        "imdb_id": "tt11737520",
+        "original_title": "ONE PIECE"
     },
     {
         "tmdb_id": 99966,
@@ -12773,7 +12981,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/cEc7XPbGxSKXfiZU0z8czFOImI2.png",
-        "imdb_id": "tt14169960"
+        "imdb_id": "tt14169960",
+        "original_title": "지금 우리 학교는"
     },
     {
         "tmdb_id": 7869,
@@ -12836,7 +13045,8 @@
                 "number": 3
             }
         ],
-        "imdb_id": "tt0892700"
+        "imdb_id": "tt0892700",
+        "original_title": "The Penguins of Madagascar"
     },
     {
         "tmdb_id": 51817,
@@ -12912,7 +13122,8 @@
                 "number": 5
             }
         ],
-        "imdb_id": "tt1877889"
+        "imdb_id": "tt1877889",
+        "original_title": "Teenage Mutant Ninja Turtles"
     },
     {
         "tmdb_id": 720,
@@ -12953,7 +13164,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/8L5crkcNLn5X2jv8HW4LBXvlg2s.png",
-        "imdb_id": "tt0092345"
+        "imdb_id": "tt0092345",
+        "original_title": "DuckTales"
     },
     {
         "tmdb_id": 4613,
@@ -12989,7 +13201,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/f38VzDNvZ7oIFQrTPScdT1wzhL7.png",
-        "imdb_id": "tt0185906"
+        "imdb_id": "tt0185906",
+        "original_title": "Band of Brothers"
     },
     {
         "tmdb_id": 68665,
@@ -13045,7 +13258,8 @@
                 "number": 3
             }
         ],
-        "imdb_id": "tt5515212"
+        "imdb_id": "tt5515212",
+        "original_title": "Big Hero 6 The Series"
     },
     {
         "tmdb_id": 96677,
@@ -13101,7 +13315,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/rvVlCgeuIiXLdaszDlRzfs3ltPe.png",
-        "imdb_id": "tt2531336"
+        "imdb_id": "tt2531336",
+        "original_title": "Lupin"
     },
     {
         "tmdb_id": 2038,
@@ -13141,7 +13356,8 @@
             "Paramount Plus Premium"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/19Ai02xeZFGCxKiYozSjAi2SHTD.png",
-        "imdb_id": "tt0363328"
+        "imdb_id": "tt0363328",
+        "original_title": "Drake & Josh"
     },
     {
         "tmdb_id": 126308,
@@ -13176,7 +13392,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/cRZTp3I7glL3JINNEprUsZbCyz2.png",
-        "imdb_id": "tt2788316"
+        "imdb_id": "tt2788316",
+        "original_title": "Shōgun"
     },
     {
         "tmdb_id": 128839,
@@ -13228,7 +13445,8 @@
         ],
         "providers": [],
         "clearlogo": "https://image.tmdb.org/t/p/original/eth8LqcriBLnRhIOCofdhQ4MjOs.png",
-        "imdb_id": "tt11640018"
+        "imdb_id": "tt11640018",
+        "original_title": "La Brea"
     },
     {
         "tmdb_id": 202411,
@@ -13268,7 +13486,8 @@
             "Apple TV+"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/e29dSHD751sTGGTDSwQ6NNFQGDm.png",
-        "imdb_id": "tt17220216"
+        "imdb_id": "tt17220216",
+        "original_title": "Monarch: Legacy of Monsters"
     },
     {
         "tmdb_id": 92685,
@@ -13324,7 +13543,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/zxGLjyHFYmYBED4ltULZavVH8rE.png",
-        "imdb_id": "tt8050756"
+        "imdb_id": "tt8050756",
+        "original_title": "The Owl House"
     },
     {
         "tmdb_id": 46331,
@@ -13375,7 +13595,8 @@
         ],
         "providers": [],
         "clearlogo": "https://image.tmdb.org/t/p/original/xUVQqriejRGpD6VSRLILhzicC5j.png",
-        "imdb_id": "tt1553656"
+        "imdb_id": "tt1553656",
+        "original_title": "Under the Dome"
     },
     {
         "tmdb_id": 241609,
@@ -13412,7 +13633,8 @@
             }
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/yjOJJZMfmgaNoTL0cfIHF20ILRL.png",
-        "imdb_id": "tt30459041"
+        "imdb_id": "tt30459041",
+        "original_title": "Your Friends & Neighbors"
     },
     {
         "tmdb_id": 156933,
@@ -13448,7 +13670,8 @@
             "Apple TV+"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/pNKakYDVgckl05NDuHKVDJKUsdH.png",
-        "imdb_id": "tt17677860"
+        "imdb_id": "tt17677860",
+        "original_title": "Presumed Innocent"
     },
     {
         "tmdb_id": 2309,
@@ -13507,7 +13730,8 @@
             "Paramount Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/oLWer1D7m7dSaI3esSgQm2lDRi.svg",
-        "imdb_id": "tt0366005"
+        "imdb_id": "tt0366005",
+        "original_title": "Danny Phantom"
     },
     {
         "tmdb_id": 2405,
@@ -13547,7 +13771,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/i0lP8YK08mrz1tUZGCSzs3wdekL.png",
-        "imdb_id": "tt0118360"
+        "imdb_id": "tt0118360",
+        "original_title": "Johnny Bravo"
     },
     {
         "tmdb_id": 78173,
@@ -13628,7 +13853,8 @@
                 "number": 6
             }
         ],
-        "imdb_id": "tt4816058"
+        "imdb_id": "tt4816058",
+        "original_title": "Dragons: Race to the Edge"
     },
     {
         "tmdb_id": 96580,
@@ -13679,7 +13905,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/kny0Z0Zlaj7tQFHpfWHnsbJUcQH.svg",
-        "imdb_id": "tt8690918"
+        "imdb_id": "tt8690918",
+        "original_title": "Resident Alien"
     },
     {
         "tmdb_id": 278196,
@@ -13718,7 +13945,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt33028568"
+        "imdb_id": "tt33028568",
+        "original_title": "光が死んだ夏"
     },
     {
         "tmdb_id": 83095,
@@ -13786,7 +14014,8 @@
                 "number": 4
             }
         ],
-        "imdb_id": "tt9529546"
+        "imdb_id": "tt9529546",
+        "original_title": "盾の勇者の成り上がり"
     },
     {
         "tmdb_id": 133748,
@@ -13833,7 +14062,8 @@
                 "number": 2
             }
         ],
-        "imdb_id": "tt14261112"
+        "imdb_id": "tt14261112",
+        "original_title": "Twisted Metal"
     },
     {
         "tmdb_id": 243875,
@@ -13869,7 +14099,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/eVaomS4dzFM08vt3IZezqYRuMv7.png",
-        "imdb_id": "tt31589662"
+        "imdb_id": "tt31589662",
+        "original_title": "Georgie & Mandy's First Marriage"
     },
     {
         "tmdb_id": 246,
@@ -13914,7 +14145,8 @@
             "Paramount Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/iUNOXylWFfkZtAhHUBfH4W2iOrM.png",
-        "imdb_id": "tt0417299"
+        "imdb_id": "tt0417299",
+        "original_title": "Avatar: The Last Airbender"
     },
     {
         "tmdb_id": 87108,
@@ -13947,7 +14179,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/f7kz7QLMMfBnM9sMfri4q6FhuvE.png",
-        "imdb_id": "tt7366338"
+        "imdb_id": "tt7366338",
+        "original_title": "Chernobyl"
     },
     {
         "tmdb_id": 62110,
@@ -13999,7 +14232,8 @@
                 "number": 2
             }
         ],
-        "imdb_id": "tt3837246"
+        "imdb_id": "tt3837246",
+        "original_title": "暗殺教室"
     },
     {
         "tmdb_id": 1406,
@@ -14039,7 +14273,7 @@
             },
             {
                 "title": "2ª Temporada",
-                "rating": 8,
+                "rating": 8.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/aJqGrNROxMtQNUZ2q8ZeK07zvGJ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Deadwood%20%281406%29/temporada_2.json",
@@ -14054,13 +14288,14 @@
                 "number": 3
             }
         ],
-        "imdb_id": "tt0348914"
+        "imdb_id": "tt0348914",
+        "original_title": "Deadwood"
     },
     {
         "tmdb_id": 281058,
         "popularity": 16.4254,
         "title": "Secrets of the Silent Witch",
-        "rating": 9,
+        "rating": 9.0,
         "classification": "14",
         "year": 2025,
         "premiered": "05/07/2025",
@@ -14100,7 +14335,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt33317800"
+        "imdb_id": "tt33317800",
+        "original_title": "サイレント・ウィッチ 沈黙の魔女の隠しごと"
     },
     {
         "tmdb_id": 19614,
@@ -14137,7 +14373,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt0099864"
+        "imdb_id": "tt0099864",
+        "original_title": "It"
     },
     {
         "tmdb_id": 114471,
@@ -14174,7 +14411,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt13623126"
+        "imdb_id": "tt13623126",
+        "original_title": "Ironheart"
     },
     {
         "tmdb_id": 74440,
@@ -14245,7 +14483,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/hkp2IXdWCoifC0S3uqH6MHW5nuI.svg",
-        "imdb_id": "tt7658402"
+        "imdb_id": "tt7658402",
+        "original_title": "Harley Quinn"
     },
     {
         "tmdb_id": 223500,
@@ -14281,14 +14520,15 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 8,
+                "rating": 8.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/c2wfIKUPcQY0tiyiOmY7ItHtNO9.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/WIND%20BREAKER%20%28223500%29/temporada_1.json",
                 "number": 1
             }
         ],
-        "imdb_id": "tt29605391"
+        "imdb_id": "tt29605391",
+        "original_title": "WIND BREAKER"
     },
     {
         "tmdb_id": 223326,
@@ -14326,7 +14566,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt27368147"
+        "imdb_id": "tt27368147",
+        "original_title": "북극성"
     },
     {
         "tmdb_id": 60948,
@@ -14384,7 +14625,8 @@
         ],
         "providers": [],
         "clearlogo": "https://image.tmdb.org/t/p/original/2wxNAphMfMzMOJP3cudyZS71fXA.png",
-        "imdb_id": "tt3148266"
+        "imdb_id": "tt3148266",
+        "original_title": "12 Monkeys"
     },
     {
         "tmdb_id": 244628,
@@ -14425,7 +14667,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt8332798"
+        "imdb_id": "tt8332798",
+        "original_title": "Long Bright River"
     },
     {
         "tmdb_id": 202555,
@@ -14461,7 +14704,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/bIicKWq8XjsvIqm5loJn8mD2HgD.png",
-        "imdb_id": "tt18923754"
+        "imdb_id": "tt18923754",
+        "original_title": "Daredevil: Born Again"
     },
     {
         "tmdb_id": 85271,
@@ -14498,7 +14742,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/bqIhmrQcPTqDqIkNhdiK5Epvk2D.png",
-        "imdb_id": "tt9140560"
+        "imdb_id": "tt9140560",
+        "original_title": "WandaVision"
     },
     {
         "tmdb_id": 70785,
@@ -14538,7 +14783,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/gtqNjjM2wXmTnbTvMP3xYAXaLrU.png",
-        "imdb_id": "tt5421602"
+        "imdb_id": "tt5421602",
+        "original_title": "Anne with an E"
     },
     {
         "tmdb_id": 215995,
@@ -14575,7 +14821,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt24163532"
+        "imdb_id": "tt24163532",
+        "original_title": "Smoke"
     },
     {
         "tmdb_id": 4602,
@@ -14628,7 +14875,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/u8PDIHdgm0s2Bfs15oJxdswBpip.png",
-        "imdb_id": "tt0300865"
+        "imdb_id": "tt0300865",
+        "original_title": "That's So Raven"
     },
     {
         "tmdb_id": 73223,
@@ -14672,7 +14920,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt7441658"
+        "imdb_id": "tt7441658",
+        "original_title": "ブラッククローバー"
     },
     {
         "tmdb_id": 1892,
@@ -14710,7 +14959,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/nIyxfGAeuUOuDwARWSuuDoKHrny.png",
-        "imdb_id": "tt0098800"
+        "imdb_id": "tt0098800",
+        "original_title": "The Fresh Prince of Bel-Air"
     },
     {
         "tmdb_id": 652,
@@ -14764,7 +15014,8 @@
                 "number": 3
             }
         ],
-        "imdb_id": "tt0306274"
+        "imdb_id": "tt0306274",
+        "original_title": "What's New, Scooby-Doo?"
     },
     {
         "tmdb_id": 73021,
@@ -14804,7 +15055,7 @@
             },
             {
                 "title": "2ª Temporada",
-                "rating": 7,
+                "rating": 7.0,
                 "synopsis": "A rebelde princesa Bean pena para salvar um amigo, descobre uma profecia mística e ajuda a recuperar o reino do pai.",
                 "poster": "https://image.tmdb.org/t/p/original/ycPvcoYKO4D0EjvrEw0Ojn8B9lk.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/%28Des%29encanto%20%2873021%29/temporada_2.json",
@@ -14819,7 +15070,8 @@
                 "number": 3
             }
         ],
-        "imdb_id": "tt5363918"
+        "imdb_id": "tt5363918",
+        "original_title": "Disenchantment"
     },
     {
         "tmdb_id": 213249,
@@ -14858,7 +15110,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/7JUpxn9tlhSzRZQSoRIVWzsMALn.png",
-        "imdb_id": "tt23036426"
+        "imdb_id": "tt23036426",
+        "original_title": "Sausage Party: Foodtopia"
     },
     {
         "tmdb_id": 229711,
@@ -14896,13 +15149,14 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/q3L7t5yx8ujkGwWFLdpdBR5K2ml.png",
-        "imdb_id": "tt28256288"
+        "imdb_id": "tt28256288",
+        "original_title": "The Bondsman"
     },
     {
         "tmdb_id": 212766,
         "popularity": 15.1667,
         "title": "New Saga",
-        "rating": 10,
+        "rating": 10.0,
         "classification": "Desconhecido",
         "year": 2025,
         "premiered": "03/07/2025",
@@ -14936,7 +15190,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt33050376"
+        "imdb_id": "tt33050376",
+        "original_title": "強くてニューサーガ"
     },
     {
         "tmdb_id": 194583,
@@ -14986,7 +15241,8 @@
                 "number": 2
             }
         ],
-        "imdb_id": "tt18546730"
+        "imdb_id": "tt18546730",
+        "original_title": "The Walking Dead: Dead City"
     },
     {
         "tmdb_id": 90937,
@@ -15033,7 +15289,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/mCPbSzKYirz3RHBkqeNbxCpym2o.png",
-        "imdb_id": "tt11043632"
+        "imdb_id": "tt11043632",
+        "original_title": "BEASTARS"
     },
     {
         "tmdb_id": 92749,
@@ -15070,7 +15327,54 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/gkHcxPAEScRb86tqYBKW9Uch1oh.png",
-        "imdb_id": "tt10234724"
+        "imdb_id": "tt10234724",
+        "original_title": "Moon Knight"
+    },
+    {
+        "tmdb_id": 68421,
+        "popularity": 14.4751,
+        "trending": false,
+        "title": "Altered Carbon",
+        "rating": 7.9,
+        "classification": "18",
+        "year": 2018,
+        "premiered": "02/02/2018",
+        "synopsis": "Após 250 anos no gelo, ele retorna em um novo corpo com uma missão: solucionar um complexo mistério e conquistar sua liberdade.",
+        "poster": "https://image.tmdb.org/t/p/original/rjsah5QH0egASBWBG8zh6pbLQ6V.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/A6I3M4MIA2Pi2gS6vGdg2eVlVXT.jpg",
+        "studio": [
+            "Netflix"
+        ],
+        "genres": [
+            "Sci-Fi & Fantasy",
+            "Drama"
+        ],
+        "type": "tvshow",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rating": 7.4,
+                "synopsis": "Em um futuro onde a mente humana pode ser transferida de um corpo a outro, um rebelde é ressuscitado para solucionar um complexo e perigoso caso de assassinato.",
+                "poster": "https://image.tmdb.org/t/p/original/fjRAYxHPKN7fknSc8PwgXLccLyq.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Altered%20Carbon%20(68421)/temporada_1.json",
+                "number": 1
+            },
+            {
+                "title": "2ª Temporada",
+                "rating": 6.3,
+                "synopsis": "Em uma nova capa orgânica, Takeshi Kovacs volta ao Mundo de Harlan para trabalhar, mas o planeta está em guerra e seu antigo amor se esconde nas sombras.",
+                "poster": "https://image.tmdb.org/t/p/original/5uUyJDmk2SnxohyxvNU9g3HPR2l.jpg",
+                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Altered%20Carbon%20(68421)/temporada_2.json",
+                "number": 2
+            }
+        ],
+        "providers": [
+            "Netflix",
+            "Netflix Standard with Ads"
+        ],
+        "clearlogo": "https://image.tmdb.org/t/p/original/zUXsrEW4IAtFG0tA6dz0NpuTOpM.png",
+        "imdb_id": "tt2261227",
+        "original_title": "Altered Carbon"
     },
     {
         "tmdb_id": 2429,
@@ -15127,7 +15431,8 @@
                 "number": 3
             }
         ],
-        "imdb_id": "tt0108684"
+        "imdb_id": "tt0108684",
+        "original_title": "Aaahh!!! Real Monsters"
     },
     {
         "tmdb_id": 1988,
@@ -15166,7 +15471,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt0088631"
+        "imdb_id": "tt0088631",
+        "original_title": "ThunderCats"
     },
     {
         "tmdb_id": 32605,
@@ -15215,7 +15521,8 @@
                 "number": 2
             }
         ],
-        "imdb_id": "tt1726839"
+        "imdb_id": "tt1726839",
+        "original_title": "The Looney Tunes Show"
     },
     {
         "tmdb_id": 34967,
@@ -15282,7 +15589,8 @@
         ],
         "providers": [],
         "clearlogo": "https://image.tmdb.org/t/p/original/jeoiuW6K1UZDF7mPln89Y6OBuq8.svg",
-        "imdb_id": "tt1462059"
+        "imdb_id": "tt1462059",
+        "original_title": "Falling Skies"
     },
     {
         "tmdb_id": 194764,
@@ -15317,7 +15625,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/4hZvV6sFplcZSkYVVIEqAZ9YU3U.png",
-        "imdb_id": "tt15435876"
+        "imdb_id": "tt15435876",
+        "original_title": "The Penguin"
     },
     {
         "tmdb_id": 88324,
@@ -15380,7 +15689,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/kr5lA4cdwD7TMK5g5L0iy8lJgds.png",
-        "imdb_id": "tt9077530"
+        "imdb_id": "tt9077530",
+        "original_title": "Virgin River"
     },
     {
         "tmdb_id": 66788,
@@ -15441,7 +15751,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/fvTKFoPshIWu8RtRjW4vhRonnrD.png",
-        "imdb_id": "tt1837492"
+        "imdb_id": "tt1837492",
+        "original_title": "13 Reasons Why"
     },
     {
         "tmdb_id": 138501,
@@ -15474,7 +15785,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/ddT1Sgf0kl5mBzTZ0GGjxnJEaCA.png",
-        "imdb_id": "tt15571732"
+        "imdb_id": "tt15571732",
+        "original_title": "Agatha All Along"
     },
     {
         "tmdb_id": 253372,
@@ -15512,7 +15824,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt10946316"
+        "imdb_id": "tt10946316",
+        "original_title": "The Institute"
     },
     {
         "tmdb_id": 221851,
@@ -15550,7 +15863,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/jjMJvopFVcbM2RiDufP2BaWpc4Y.png",
-        "imdb_id": "tt26628595"
+        "imdb_id": "tt26628595",
+        "original_title": "내 남편과 결혼해줘"
     },
     {
         "tmdb_id": 198102,
@@ -15585,7 +15899,8 @@
             "Apple TV+"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/ozHdYfzE9PYRikbCxgrgzyXaZcg.png",
-        "imdb_id": "tt19854762"
+        "imdb_id": "tt19854762",
+        "original_title": "Hijack"
     },
     {
         "tmdb_id": 236994,
@@ -15638,7 +15953,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt29485149"
+        "imdb_id": "tt29485149",
+        "original_title": "ドラゴンボールDAIMA"
     },
     {
         "tmdb_id": 103768,
@@ -15688,7 +16004,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/mJ73yKF3oSyaQsWNOgxjaED9mXe.png",
-        "imdb_id": "tt12809988"
+        "imdb_id": "tt12809988",
+        "original_title": "Sweet Tooth"
     },
     {
         "tmdb_id": 103540,
@@ -15727,7 +16044,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/3OSv7336hppqzhMKZYhFgWOpkPd.png",
-        "imdb_id": "tt12324366"
+        "imdb_id": "tt12324366",
+        "original_title": "Percy Jackson and the Olympians"
     },
     {
         "tmdb_id": 127529,
@@ -15764,7 +16082,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/waTjsO0BEhxdzvcNKiWCMw6gv0F.png",
-        "imdb_id": "tt26315487"
+        "imdb_id": "tt26315487",
+        "original_title": "사냥개들"
     },
     {
         "tmdb_id": 58566,
@@ -15803,7 +16122,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt2734004"
+        "imdb_id": "tt2734004",
+        "original_title": "Chiquititas"
     },
     {
         "tmdb_id": 82452,
@@ -15842,52 +16162,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/74rfi5LWsVsA7qAGzehsBF3lpn7.png",
-        "imdb_id": "tt9018736"
-    },
-    {
-        "tmdb_id": 68421,
-        "popularity": 12.9671,
-        "trending": false,
-        "title": "Altered Carbon",
-        "rating": 7.9,
-        "classification": "18",
-        "year": 2018,
-        "premiered": "02/02/2018",
-        "synopsis": "Após 250 anos no gelo, ele retorna em um novo corpo com uma missão: solucionar um complexo mistério e conquistar sua liberdade.",
-        "poster": "https://image.tmdb.org/t/p/original/rjsah5QH0egASBWBG8zh6pbLQ6V.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/A6I3M4MIA2Pi2gS6vGdg2eVlVXT.jpg",
-        "studio": [
-            "Netflix"
-        ],
-        "genres": [
-            "Sci-Fi & Fantasy",
-            "Drama"
-        ],
-        "type": "tvshow",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "rating": 7.4,
-                "synopsis": "Em um futuro onde a mente humana pode ser transferida de um corpo a outro, um rebelde é ressuscitado para solucionar um complexo e perigoso caso de assassinato.",
-                "poster": "https://image.tmdb.org/t/p/original/fjRAYxHPKN7fknSc8PwgXLccLyq.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Altered%20Carbon%20(68421)/temporada_1.json",
-                "number": 1
-            },
-            {
-                "title": "2ª Temporada",
-                "rating": 6.3,
-                "synopsis": "Em uma nova capa orgânica, Takeshi Kovacs volta ao Mundo de Harlan para trabalhar, mas o planeta está em guerra e seu antigo amor se esconde nas sombras.",
-                "poster": "https://image.tmdb.org/t/p/original/5uUyJDmk2SnxohyxvNU9g3HPR2l.jpg",
-                "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Altered%20Carbon%20(68421)/temporada_2.json",
-                "number": 2
-            }
-        ],
-        "providers": [
-            "Netflix",
-            "Netflix Standard with Ads"
-        ],
-        "clearlogo": "https://image.tmdb.org/t/p/original/zUXsrEW4IAtFG0tA6dz0NpuTOpM.png",
-        "imdb_id": "tt2261227"
+        "imdb_id": "tt9018736",
+        "original_title": "Avatar the Last Airbender"
     },
     {
         "tmdb_id": 114868,
@@ -15943,7 +16219,8 @@
                 "number": 3
             }
         ],
-        "imdb_id": "tt13676344"
+        "imdb_id": "tt13676344",
+        "original_title": "終末のワルキューレ"
     },
     {
         "tmdb_id": 606,
@@ -15984,7 +16261,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/gh33ZePzV6FJaMEZdBi9sLuxWcw.png",
-        "imdb_id": "tt0184111"
+        "imdb_id": "tt0184111",
+        "original_title": "Ed, Edd n Eddy"
     },
     {
         "tmdb_id": 213306,
@@ -16020,7 +16298,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/k3sSVmOYq8kpt8MlVuOHGdGEluR.png",
-        "imdb_id": "tt11794812"
+        "imdb_id": "tt11794812",
+        "original_title": "Cross"
     },
     {
         "tmdb_id": 219543,
@@ -16057,7 +16336,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/pSeMD3NRCMu8Etwdn1DSkb6F4kn.png",
-        "imdb_id": "tt26545355"
+        "imdb_id": "tt26545355",
+        "original_title": "Creature Commandos"
     },
     {
         "tmdb_id": 258348,
@@ -16098,7 +16378,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt32991344"
+        "imdb_id": "tt32991344",
+        "original_title": "クレバテス-魔獣の王と赤子と屍の勇者"
     },
     {
         "tmdb_id": 88329,
@@ -16135,7 +16416,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/h4OBTaLQmwdjTYC0V1h8rJDbGY3.png",
-        "imdb_id": "tt10160804"
+        "imdb_id": "tt10160804",
+        "original_title": "Hawkeye"
     },
     {
         "tmdb_id": 218230,
@@ -16172,7 +16454,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/2dAhtK4owhyO7g9fyE9rN1ggAJW.png",
-        "imdb_id": "tt26225038"
+        "imdb_id": "tt26225038",
+        "original_title": "이재, 곧 죽습니다"
     },
     {
         "tmdb_id": 108545,
@@ -16211,7 +16494,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/p3NMYcWqnK7N2EyRRlfepbsUyjT.png",
-        "imdb_id": "tt13016388"
+        "imdb_id": "tt13016388",
+        "original_title": "3 Body Problem"
     },
     {
         "tmdb_id": 95171,
@@ -16246,7 +16530,8 @@
             "Apple TV+"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/73emeiYLkRTGtNGVP4PQbrGkFc4.png",
-        "imdb_id": "tt10324164"
+        "imdb_id": "tt10324164",
+        "original_title": "Prehistoric Planet"
     },
     {
         "tmdb_id": 1720,
@@ -16327,7 +16612,8 @@
                 "number": 6
             }
         ],
-        "imdb_id": "tt0419326"
+        "imdb_id": "tt0419326",
+        "original_title": "Foster's Home for Imaginary Friends"
     },
     {
         "tmdb_id": 219937,
@@ -16364,7 +16650,8 @@
             "Paramount Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/jNvopUrnZdhEHbmAb7z0EoBnScB.png",
-        "imdb_id": "tt32252772"
+        "imdb_id": "tt32252772",
+        "original_title": "Dexter: Original Sin"
     },
     {
         "tmdb_id": 129478,
@@ -16402,7 +16689,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/jEaIdhUnI2CTNxqXBAlz8q3vxQ9.png",
-        "imdb_id": "tt14609428"
+        "imdb_id": "tt14609428",
+        "original_title": "연모"
     },
     {
         "tmdb_id": 89456,
@@ -16449,7 +16737,8 @@
                 "number": 2
             }
         ],
-        "imdb_id": "tt10332508"
+        "imdb_id": "tt10332508",
+        "original_title": "Primal"
     },
     {
         "tmdb_id": 209876,
@@ -16487,7 +16776,8 @@
             "Apple TV+"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/4z17Vvdh42OpNOVLREwxn7DpuFD.png",
-        "imdb_id": "tt21638826"
+        "imdb_id": "tt21638826",
+        "original_title": "Dope Thief"
     },
     {
         "tmdb_id": 131378,
@@ -16526,7 +16816,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt15248880"
+        "imdb_id": "tt15248880",
+        "original_title": "Adventure Time: Fionna & Cake"
     },
     {
         "tmdb_id": 45815,
@@ -16567,7 +16858,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt2303077"
+        "imdb_id": "tt2303077",
+        "original_title": "Avenida Brasil"
     },
     {
         "tmdb_id": 125928,
@@ -16609,7 +16901,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/qcPCgL6LTfwj0eG8uLO6hcaK5c8.png",
-        "imdb_id": "tt14681924"
+        "imdb_id": "tt14681924",
+        "original_title": "My Adventures with Superman"
     },
     {
         "tmdb_id": 280110,
@@ -16652,7 +16945,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt35636246"
+        "imdb_id": "tt35636246",
+        "original_title": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS-"
     },
     {
         "tmdb_id": 272059,
@@ -16693,7 +16987,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt23139038"
+        "imdb_id": "tt23139038",
+        "original_title": "凸变英雄X"
     },
     {
         "tmdb_id": 138971,
@@ -16741,14 +17036,15 @@
             },
             {
                 "title": "3ª Temporada",
-                "rating": 0,
+                "rating": 0.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/4NKou9PPPDzcrNJ7BAQuJmVHXOK.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Billy%20the%20Kid%20%28138971%29/temporada_3.json",
                 "number": 3
             }
         ],
-        "imdb_id": "tt14586544"
+        "imdb_id": "tt14586544",
+        "original_title": "Billy the Kid"
     },
     {
         "tmdb_id": 206586,
@@ -16783,7 +17079,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/lSFHPadrjcmt7WbEW6CStvFvnVs.png",
-        "imdb_id": "tt9859436"
+        "imdb_id": "tt9859436",
+        "original_title": "The Walking Dead: The Ones Who Live"
     },
     {
         "tmdb_id": 117376,
@@ -16821,14 +17118,15 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/sAUTrHRoeDosrFr5Y8h7LQH2704.png",
-        "imdb_id": "tt13433812"
+        "imdb_id": "tt13433812",
+        "original_title": "빈센조"
     },
     {
         "tmdb_id": 248852,
         "popularity": 11.758,
         "trending": true,
         "title": "Indomável",
-        "rating": 8,
+        "rating": 8.0,
         "classification": "16",
         "year": 2025,
         "premiered": "17/07/2025",
@@ -16859,7 +17157,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt31710822"
+        "imdb_id": "tt31710822",
+        "original_title": "UNTAMED"
     },
     {
         "tmdb_id": 105248,
@@ -16899,7 +17198,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/s8xy1nl0uqF6b21fhyi4FQMa6f1.png",
-        "imdb_id": "tt12590266"
+        "imdb_id": "tt12590266",
+        "original_title": "サイバーパンク: エッジランナーズ"
     },
     {
         "tmdb_id": 3854,
@@ -16946,7 +17246,8 @@
             "Claro video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/99b8JlDZRn59JpCsdACmauoL5Az.png",
-        "imdb_id": "tt0976192"
+        "imdb_id": "tt0976192",
+        "original_title": "The Spectacular Spider-Man"
     },
     {
         "tmdb_id": 231003,
@@ -16989,7 +17290,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt28454008"
+        "imdb_id": "tt28454008",
+        "original_title": "Lazarus"
     },
     {
         "tmdb_id": 107365,
@@ -17037,7 +17339,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/xn5dvuK97c9Go3VJwpYViAfoOQC.png",
-        "imdb_id": "tt12878838"
+        "imdb_id": "tt12878838",
+        "original_title": "Bel-Air"
     },
     {
         "tmdb_id": 236235,
@@ -17077,7 +17380,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/xt17Z5QAOgF80MrzqEKyCJGmoMY.png",
-        "imdb_id": "tt13210838"
+        "imdb_id": "tt13210838",
+        "original_title": "The Gentlemen"
     },
     {
         "tmdb_id": 249042,
@@ -17115,7 +17419,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/1iFbgPzeuvK1Xop93oVuabybT9Y.png",
-        "imdb_id": "tt31806037"
+        "imdb_id": "tt31806037",
+        "original_title": "Adolescence"
     },
     {
         "tmdb_id": 6673,
@@ -17164,7 +17469,8 @@
                 "number": 2
             }
         ],
-        "imdb_id": "tt1178180"
+        "imdb_id": "tt1178180",
+        "original_title": "The Marvelous Misadventures of Flapjack"
     },
     {
         "tmdb_id": 124834,
@@ -17209,7 +17515,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/3HZB96aFO5D00vas6QxnFtHdlP4.png",
-        "imdb_id": "tt10638036"
+        "imdb_id": "tt10638036",
+        "original_title": "Heartstopper"
     },
     {
         "tmdb_id": 79242,
@@ -17271,7 +17578,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/tcgVawq1dFk2B6Qanq3izQSVpMA.png",
-        "imdb_id": "tt7569592"
+        "imdb_id": "tt7569592",
+        "original_title": "Chilling Adventures of Sabrina"
     },
     {
         "tmdb_id": 1487,
@@ -17310,7 +17618,7 @@
             },
             {
                 "title": "2ª Temporada",
-                "rating": 10,
+                "rating": 10.0,
                 "synopsis": "Virgil é um jovem esperto, inteligente, atlético, vivaz e muito bem-humorado. Ele foi exposto acidentalmente a um gás desconhecido. Ele ganhou superpoderes eletrostáticos, e os usou para tornar-se um super-herói chamado Super Choque.",
                 "poster": "https://image.tmdb.org/t/p/original/7Yydf69xQ1CnOunyKEHWFOZHBEJ.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Super%20Choque%20%281487%29/temporada_2.json",
@@ -17326,14 +17634,15 @@
             },
             {
                 "title": "4ª Temporada",
-                "rating": 0,
+                "rating": 0.0,
                 "synopsis": "Virgil é um jovem esperto, inteligente, atlético, vivaz e muito bem-humorado. Ele foi exposto acidentalmente a um gás desconhecido. Ele ganhou superpoderes eletrostáticos, e os usou para tornar-se um super-herói chamado Super Choque.",
                 "poster": "https://image.tmdb.org/t/p/original/Xry9bjXujl23iNTCGo53Izvms6.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Super%20Choque%20%281487%29/temporada_4.json",
                 "number": 4
             }
         ],
-        "imdb_id": "tt0247729"
+        "imdb_id": "tt0247729",
+        "original_title": "Static Shock"
     },
     {
         "tmdb_id": 87739,
@@ -17366,7 +17675,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/woDOsKeSzNMWGorKPsExKK9AEPV.png",
-        "imdb_id": "tt10048342"
+        "imdb_id": "tt10048342",
+        "original_title": "The Queen's Gambit"
     },
     {
         "tmdb_id": 71411,
@@ -17419,7 +17729,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/nQG5GiP3wCuAh8iTVFLbF1QJzwb.png",
-        "imdb_id": "tt6692188"
+        "imdb_id": "tt6692188",
+        "original_title": "El Chapo"
     },
     {
         "tmdb_id": 138502,
@@ -17455,7 +17766,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/i4O2d2EYfBCVFVIQaES16gchiMj.png",
-        "imdb_id": "tt16026746"
+        "imdb_id": "tt16026746",
+        "original_title": "X-Men '97"
     },
     {
         "tmdb_id": 114924,
@@ -17493,7 +17805,8 @@
             "Apple TV+"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/nfWtnpuOmoTI3O5QWl7RfPEwoFr.png",
-        "imdb_id": "tt1928307"
+        "imdb_id": "tt1928307",
+        "original_title": "Time Bandits"
     },
     {
         "tmdb_id": 80623,
@@ -17541,7 +17854,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/1npFqQesGJC6W4iHiu2xmcjKKRF.png",
-        "imdb_id": "tt6357658"
+        "imdb_id": "tt6357658",
+        "original_title": "バキ"
     },
     {
         "tmdb_id": 2692,
@@ -17613,7 +17927,8 @@
                 "number": 5
             }
         ],
-        "imdb_id": "tt0273855"
+        "imdb_id": "tt0273855",
+        "original_title": "My Wife and Kids"
     },
     {
         "tmdb_id": 90228,
@@ -17649,13 +17964,14 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/gDkvlUKyf7gnlAxcqDSdnooeO9E.png",
-        "imdb_id": "tt10466872"
+        "imdb_id": "tt10466872",
+        "original_title": "Dune: Prophecy"
     },
     {
         "tmdb_id": 668,
         "popularity": 10.3848,
         "title": "X-Men: Evolution",
-        "rating": 8,
+        "rating": 8.0,
         "classification": "L",
         "year": 2000,
         "premiered": "04/11/2000",
@@ -17712,7 +18028,8 @@
                 "number": 4
             }
         ],
-        "imdb_id": "tt0247827"
+        "imdb_id": "tt0247827",
+        "original_title": "X-Men: Evolution"
     },
     {
         "tmdb_id": 203744,
@@ -17748,7 +18065,8 @@
             "Apple TV+"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/cGqICwwUjl86jiLuBqqA7VCNpPT.png",
-        "imdb_id": "tt16418808"
+        "imdb_id": "tt16418808",
+        "original_title": "Sugar"
     },
     {
         "tmdb_id": 931,
@@ -17794,7 +18112,8 @@
                 "number": 2
             }
         ],
-        "imdb_id": "tt0126158"
+        "imdb_id": "tt0126158",
+        "original_title": "He-Man and the Masters of the Universe"
     },
     {
         "tmdb_id": 14853,
@@ -17835,7 +18154,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt0289800"
+        "imdb_id": "tt0289800",
+        "original_title": "O Clone"
     },
     {
         "tmdb_id": 245703,
@@ -17874,7 +18194,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt27995114"
+        "imdb_id": "tt27995114",
+        "original_title": "Dept. Q"
     },
     {
         "tmdb_id": 201834,
@@ -17908,7 +18229,8 @@
             "Globoplay"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/mU0FnWUoMT0AiuNqkWaf1wviwvQ.png",
-        "imdb_id": "tt14824792"
+        "imdb_id": "tt14824792",
+        "original_title": "ted"
     },
     {
         "tmdb_id": 60846,
@@ -17958,14 +18280,15 @@
             },
             {
                 "title": "3ª Temporada",
-                "rating": 0,
+                "rating": 0.0,
                 "synopsis": "Já se passou um ano desde que Shiroe e seus amigos ficaram presos em Akiba devido o Apocalipse. A criação da Távola Redonda trouxe ordem e prosperidade ao seu povo. Mas a ruptura das alianças políticas e a ameaça constante de um novo monstro, o Gênio, ameaçam desestabilizar tudo pelo que lutaram e construíram. A fé pode ser restaurada e eles conseguirão perseverarem, ou a sua destruição é verdadeiramente inevitável?",
                 "poster": "https://image.tmdb.org/t/p/original/jTQdTXTOQivwU2OKLFK3CfywsCe.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Log%20Horizon%20%2860846%29/temporada_3.json",
                 "number": 3
             }
         ],
-        "imdb_id": "tt2942218"
+        "imdb_id": "tt2942218",
+        "original_title": "ログ・ホライズン"
     },
     {
         "tmdb_id": 197067,
@@ -18000,7 +18323,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/6SLm5Z0E8xR1nHsi92u5ijDAiXx.svg",
-        "imdb_id": "tt20869502"
+        "imdb_id": "tt20869502",
+        "original_title": "이상한 변호사 우영우"
     },
     {
         "tmdb_id": 95403,
@@ -18035,7 +18359,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/nw8kaC1qppDznarlHYsuLgYpWHk.png",
-        "imdb_id": "tt8291284"
+        "imdb_id": "tt8291284",
+        "original_title": "The Peripheral"
     },
     {
         "tmdb_id": 226362,
@@ -18073,7 +18398,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt27740241"
+        "imdb_id": "tt27740241",
+        "original_title": "El Eternauta"
     },
     {
         "tmdb_id": 125282,
@@ -18136,7 +18462,8 @@
                 "number": 4
             }
         ],
-        "imdb_id": "tt11188682"
+        "imdb_id": "tt11188682",
+        "original_title": "The Cleaning Lady"
     },
     {
         "tmdb_id": 68267,
@@ -18193,7 +18520,8 @@
                 "number": 3
             }
         ],
-        "imdb_id": "tt1734135"
+        "imdb_id": "tt1734135",
+        "original_title": "Trollhunters: Tales of Arcadia"
     },
     {
         "tmdb_id": 279060,
@@ -18231,7 +18559,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt34755671"
+        "imdb_id": "tt34755671",
+        "original_title": "Chespirito: Sin querer queriendo"
     },
     {
         "tmdb_id": 16997,
@@ -18271,7 +18600,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/noxxOmAr9RKgbssfPwBZMO9DVwd.png",
-        "imdb_id": "tt0374463"
+        "imdb_id": "tt0374463",
+        "original_title": "The Pacific"
     },
     {
         "tmdb_id": 236429,
@@ -18308,7 +18638,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/z9NdiMkPQXrLCt9vbqNd84kpXp2.png",
-        "imdb_id": "tt14582876"
+        "imdb_id": "tt14582876",
+        "original_title": "On Call"
     },
     {
         "tmdb_id": 92983,
@@ -18346,7 +18677,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/ikaetX5hMZd1YtZ8T2mSH4E7lMS.png",
-        "imdb_id": "tt8523042"
+        "imdb_id": "tt8523042",
+        "original_title": "배가본드"
     },
     {
         "tmdb_id": 71024,
@@ -18409,7 +18741,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/rM4H1xXRLpkHiOJiMOVWXwFG1Fo.png",
-        "imdb_id": "tt6517102"
+        "imdb_id": "tt6517102",
+        "original_title": "Castlevania"
     },
     {
         "tmdb_id": 125909,
@@ -18448,7 +18781,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/3e8JMlK42vOVovo3kGSpTi0yeb4.png",
-        "imdb_id": "tt14681596"
+        "imdb_id": "tt14681596",
+        "original_title": "Batman: Caped Crusader"
     },
     {
         "tmdb_id": 88396,
@@ -18484,7 +18818,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/xov5AmWBxfMs0YYjPhkUWl7h9Wj.png",
-        "imdb_id": "tt9208876"
+        "imdb_id": "tt9208876",
+        "original_title": "The Falcon and the Winter Soldier"
     },
     {
         "tmdb_id": 216082,
@@ -18521,7 +18856,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/sXrtjcY06xvVxL6zV4KTvCx4jHA.png",
-        "imdb_id": "tt23872886"
+        "imdb_id": "tt23872886",
+        "original_title": "Zero Day"
     },
     {
         "tmdb_id": 245927,
@@ -18557,7 +18893,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/arhU0k5Kdt229zuZFCY1CgvzZvD.png",
-        "imdb_id": "tt27444205"
+        "imdb_id": "tt27444205",
+        "original_title": "Paradise"
     },
     {
         "tmdb_id": 219971,
@@ -18597,7 +18934,8 @@
             "Paramount Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/9LXMPF5zSonttCRSko9orowW6cV.png",
-        "imdb_id": "tt26656917"
+        "imdb_id": "tt26656917",
+        "original_title": "The Agency: Central Intelligence"
     },
     {
         "tmdb_id": 66292,
@@ -18641,7 +18979,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/fj8OfihOT2MGo693rEBrYZ8Ut7B.png",
-        "imdb_id": "tt3920596"
+        "imdb_id": "tt3920596",
+        "original_title": "Big Little Lies"
     },
     {
         "tmdb_id": 79788,
@@ -18676,7 +19015,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/reKhdX7JpwIoUYjeYS7QjRHEVa4.png",
-        "imdb_id": "tt7049682"
+        "imdb_id": "tt7049682",
+        "original_title": "Watchmen"
     },
     {
         "tmdb_id": 225180,
@@ -18713,7 +19053,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt13309742"
+        "imdb_id": "tt13309742",
+        "original_title": "BLUE EYE SAMURAI"
     },
     {
         "tmdb_id": 111141,
@@ -18750,7 +19091,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt11337908"
+        "imdb_id": "tt11337908",
+        "original_title": "Maid"
     },
     {
         "tmdb_id": 138503,
@@ -18788,7 +19130,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/5o0R6QzAviAvlNtqy1TFtJP7s5I.png",
-        "imdb_id": "tt16027074"
+        "imdb_id": "tt16027074",
+        "original_title": "Your Friendly Neighborhood Spider-Man"
     },
     {
         "tmdb_id": 92830,
@@ -18825,7 +19168,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/7EsXcf5WLT2vDXIR86tHlHA3qlB.png",
-        "imdb_id": "tt8466564"
+        "imdb_id": "tt8466564",
+        "original_title": "Obi-Wan Kenobi"
     },
     {
         "tmdb_id": 279182,
@@ -18856,14 +19200,15 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 8,
+                "rating": 8.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/ohlpYp84BrHmJow1r6pRHs0loxs.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Super%20Cubo%20%28279182%29/temporada_1.json",
                 "number": 1
             }
         ],
-        "imdb_id": "tt28197251"
+        "imdb_id": "tt28197251",
+        "original_title": "超能立方"
     },
     {
         "tmdb_id": 72844,
@@ -18897,7 +19242,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/qT7YTUIXkoF95CVpddYTa26q3Jz.png",
-        "imdb_id": "tt6763664"
+        "imdb_id": "tt6763664",
+        "original_title": "The Haunting of Hill House"
     },
     {
         "tmdb_id": 274671,
@@ -18938,7 +19284,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt34119820"
+        "imdb_id": "tt34119820",
+        "original_title": "最強の王様、二度目の人生は何をする？"
     },
     {
         "tmdb_id": 90669,
@@ -18976,7 +19323,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/1ldvKnNNReDMWV0COpdn6W2VJ9C.png",
-        "imdb_id": "tt9319668"
+        "imdb_id": "tt9319668",
+        "original_title": "1899"
     },
     {
         "tmdb_id": 60743,
@@ -19011,13 +19359,14 @@
         ],
         "providers": [],
         "clearlogo": "https://image.tmdb.org/t/p/original/q5EYqG7Y0YofdsCwb1ENghO4DYy.png",
-        "imdb_id": "tt3489184"
+        "imdb_id": "tt3489184",
+        "original_title": "Constantine"
     },
     {
         "tmdb_id": 246862,
         "popularity": 8.3035,
         "title": "New PANTY & STOCKING with GARTERBELT",
-        "rating": 9,
+        "rating": 9.0,
         "classification": "16",
         "year": 2025,
         "premiered": "10/07/2025",
@@ -19046,13 +19395,14 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 0,
+                "rating": 0.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/hCOYjAsPuZeJUH9iMSor7RhJBd6.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/New%20PANTY%20%26%20STOCKING%20with%20GARTERBELT%20%28246862%29/temporada_1.json",
                 "number": 1
             }
-        ]
+        ],
+        "original_title": "New PANTY & STOCKING with GARTERBELT"
     },
     {
         "tmdb_id": 235930,
@@ -19092,7 +19442,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/kRJkMby2GvsxpNtR7G6ejiiOz0C.png",
-        "imdb_id": "tt15716776"
+        "imdb_id": "tt15716776",
+        "original_title": "Devil May Cry"
     },
     {
         "tmdb_id": 89844,
@@ -19131,7 +19482,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/SxpNmoHVk6t2sDI8u4elyMbJcl.png",
-        "imdb_id": "tt9764386"
+        "imdb_id": "tt9764386",
+        "original_title": "30 monedas"
     },
     {
         "tmdb_id": 66276,
@@ -19169,7 +19521,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/ikYwrM1GC0uoA8lTCjCrvJCeT7H.png",
-        "imdb_id": "tt2401256"
+        "imdb_id": "tt2401256",
+        "original_title": "The Night Of"
     },
     {
         "tmdb_id": 207411,
@@ -19208,7 +19561,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt21441010"
+        "imdb_id": "tt21441010",
+        "original_title": "Good American Family"
     },
     {
         "tmdb_id": 84661,
@@ -19247,7 +19601,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/tm4LIOT1WPcXq02Ko31VjyRfBQa.png",
-        "imdb_id": "tt8550800"
+        "imdb_id": "tt8550800",
+        "original_title": "The Outsider"
     },
     {
         "tmdb_id": 235924,
@@ -19294,7 +19649,8 @@
                 "number": 2
             }
         ],
-        "imdb_id": "tt22459586"
+        "imdb_id": "tt22459586",
+        "original_title": "DNA DO CRIME"
     },
     {
         "tmdb_id": 67070,
@@ -19338,7 +19694,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/ghbNNPkgyDAhYv6SFiTawPw4SNF.png",
-        "imdb_id": "tt5687612"
+        "imdb_id": "tt5687612",
+        "original_title": "Fleabag"
     },
     {
         "tmdb_id": 202879,
@@ -19375,7 +19732,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/6UzfWR2L1NSCAZ7ja20BVuIDsG1.png",
-        "imdb_id": "tt20600980"
+        "imdb_id": "tt20600980",
+        "original_title": "Star Wars: Skeleton Crew"
     },
     {
         "tmdb_id": 88236,
@@ -19405,7 +19763,7 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 8,
+                "rating": 8.0,
                 "synopsis": "Para recuperar a ex-namorada, um adolescente nerd começa a vender ecstasy online. Em pouco tempo, ele se torna um dos maiores traficantes da Europa.",
                 "poster": "https://image.tmdb.org/t/p/original/847sb6VDeovMu5jPhtgTXh4KrlX.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Como%20vender%20drogas%20online%20%28rapido%29%20%2888236%29/temporada_1.json",
@@ -19436,7 +19794,8 @@
                 "number": 4
             }
         ],
-        "imdb_id": "tt9184994"
+        "imdb_id": "tt9184994",
+        "original_title": "How to Sell Drugs Online (Fast)"
     },
     {
         "tmdb_id": 241405,
@@ -19473,7 +19832,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/uDSeqIsvjnvfMmBBlEA4mUxrUhN.png",
-        "imdb_id": "tt30252752"
+        "imdb_id": "tt30252752",
+        "original_title": "Dying for Sex"
     },
     {
         "tmdb_id": 106388,
@@ -19511,7 +19871,8 @@
             "Apple TV+"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/alBHbDdpvAOD4sxLU6IRRQJZwP6.png",
-        "imdb_id": "tt2953250"
+        "imdb_id": "tt2953250",
+        "original_title": "Shining Girls"
     },
     {
         "tmdb_id": 228878,
@@ -19552,7 +19913,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/A9wQFPB40UibhNaDVMFTe9x8Xhx.png",
-        "imdb_id": "tt28093628"
+        "imdb_id": "tt28093628",
+        "original_title": "Common Side Effects"
     },
     {
         "tmdb_id": 70593,
@@ -19597,7 +19959,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/vTO91EtVCNXl2y0jE1UxQkkMwdv.png",
-        "imdb_id": "tt6611916"
+        "imdb_id": "tt6611916",
+        "original_title": "킹덤"
     },
     {
         "tmdb_id": 83295,
@@ -19666,7 +20029,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/rnJtIVKGcq7vam2fOKX7K3qGwow.png",
-        "imdb_id": "tt9070896"
+        "imdb_id": "tt9070896",
+        "original_title": "Impuros"
     },
     {
         "tmdb_id": 61593,
@@ -19724,7 +20088,8 @@
                 "number": 3
             }
         ],
-        "imdb_id": "tt2950342"
+        "imdb_id": "tt2950342",
+        "original_title": "Mr. Pickles"
     },
     {
         "tmdb_id": 72710,
@@ -19758,7 +20123,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/r857LV6rTBPlMLQPLpIUjIAiVP2.png",
-        "imdb_id": "tt6486762"
+        "imdb_id": "tt6486762",
+        "original_title": "The Continental: From the World of John Wick"
     },
     {
         "tmdb_id": 82883,
@@ -19789,7 +20155,8 @@
         ],
         "providers": [],
         "clearlogo": "https://image.tmdb.org/t/p/original/9BaS1njt7QHDFw7NXzbYdRrtxzb.png",
-        "imdb_id": "tt8682948"
+        "imdb_id": "tt8682948",
+        "original_title": "The Act"
     },
     {
         "tmdb_id": 258902,
@@ -19825,7 +20192,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/mgco83l3NDgB0NGtCrHth3j9buZ.png",
-        "imdb_id": "tt20782190"
+        "imdb_id": "tt20782190",
+        "original_title": "English Teacher"
     },
     {
         "tmdb_id": 111177,
@@ -19864,7 +20232,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/3DIaoiS0xhX4D0CoGAj85tks1rm.png",
-        "imdb_id": "tt13229964"
+        "imdb_id": "tt13229964",
+        "original_title": "ゴジラS.P＜シンギュラポイント＞"
     },
     {
         "tmdb_id": 97400,
@@ -19898,7 +20267,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/qhUiIRrMkcZSjKxCh5lxdbAE5nV.svg",
-        "imdb_id": "tt10574558"
+        "imdb_id": "tt10574558",
+        "original_title": "Midnight Mass"
     },
     {
         "tmdb_id": 254701,
@@ -19935,7 +20305,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt32386301"
+        "imdb_id": "tt32386301",
+        "original_title": "Atomic"
     },
     {
         "tmdb_id": 76719,
@@ -19988,7 +20359,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/pVnC23ZrSGWDqadf86hYxU5Pxcr.png",
-        "imdb_id": "tt6656238"
+        "imdb_id": "tt6656238",
+        "original_title": "The Rain"
     },
     {
         "tmdb_id": 239287,
@@ -20025,7 +20397,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/vUfULw9SU9S8UIohHiweNQcEOgX.png",
-        "imdb_id": "tt14153236"
+        "imdb_id": "tt14153236",
+        "original_title": "ターミネーター 0"
     },
     {
         "tmdb_id": 158300,
@@ -20066,7 +20439,8 @@
             "Paramount Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/6iTwZhQWiEd0Y0q6w5RCLSLl6vv.png",
-        "imdb_id": "tt18291136"
+        "imdb_id": "tt18291136",
+        "original_title": "Knuckles"
     },
     {
         "tmdb_id": 120462,
@@ -20112,7 +20486,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/9sDA6qkANBXcvkrvJfzpSn0xSwv.png",
-        "imdb_id": "tt9064858"
+        "imdb_id": "tt9064858",
+        "original_title": "Them"
     },
     {
         "tmdb_id": 387,
@@ -20222,7 +20597,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/v7pntQWcHQSREWbrgnV8GPzkJi4.png",
-        "imdb_id": "tt0206512"
+        "imdb_id": "tt0206512",
+        "original_title": "SpongeBob SquarePants"
     },
     {
         "tmdb_id": 102621,
@@ -20259,7 +20635,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/aMvkeiBrhgjaaYxFqcuSjpFidZe.png",
-        "imdb_id": "tt8550732"
+        "imdb_id": "tt8550732",
+        "original_title": "KAOS"
     },
     {
         "tmdb_id": 47663,
@@ -20304,7 +20681,8 @@
                 "number": 2
             }
         ],
-        "imdb_id": "tt17371078"
+        "imdb_id": "tt17371078",
+        "original_title": "The Ark"
     },
     {
         "tmdb_id": 208851,
@@ -20343,7 +20721,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt21874900"
+        "imdb_id": "tt21874900",
+        "original_title": "A Thousand Blows"
     },
     {
         "tmdb_id": 86031,
@@ -20389,7 +20768,7 @@
             },
             {
                 "title": "STONE WARS",
-                "rating": 7,
+                "rating": 7.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/5j6rQvce7gLOtCpxOA1wHF7Gt5s.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Dr.%20Stone%20%2886031%29/temporada_2.json",
@@ -20397,7 +20776,7 @@
             },
             {
                 "title": "NEW WORLD",
-                "rating": 8,
+                "rating": 8.0,
                 "synopsis": "Após o fim das Stone Wars, os ex-membros do Império do Poder de Tsukasa unem forças com o Reino da Ciência para construir um navio capaz de navegar o oceano em busca de respostas sobre o mistério da petrificação global. Entretanto, antes que eles possam começar sua viagem, Senku e seus amigos precisam encontrar alguns recursos importantes e impulsionar alguns novos avanços científicos para construir o tipo de embarcação que precisam.",
                 "poster": "https://image.tmdb.org/t/p/original/fYsHfa3JhZ00F1MDcFvWL3Zovk6.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Dr.%20Stone%20%2886031%29/temporada_3.json",
@@ -20412,7 +20791,8 @@
                 "number": 4
             }
         ],
-        "imdb_id": "tt9679542"
+        "imdb_id": "tt9679542",
+        "original_title": "Dr.STONE"
     },
     {
         "tmdb_id": 122781,
@@ -20452,7 +20832,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt14164922"
+        "imdb_id": "tt14164922",
+        "original_title": "Astérix & Obélix : Le Combat des chefs"
     },
     {
         "tmdb_id": 4184,
@@ -20486,7 +20867,8 @@
         ],
         "providers": [],
         "clearlogo": "https://image.tmdb.org/t/p/original/jwFWF1qFeZBoIWVPTl4KgbgQbbD.png",
-        "imdb_id": "tt0211878"
+        "imdb_id": "tt0211878",
+        "original_title": "La usurpadora"
     },
     {
         "tmdb_id": 113959,
@@ -20531,7 +20913,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt12160826"
+        "imdb_id": "tt12160826",
+        "original_title": "Duster"
     },
     {
         "tmdb_id": 120549,
@@ -20568,7 +20951,8 @@
             "Apple TV+"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/cwm0XKd6L7GGYcYO6ml8koaj1x9.png",
-        "imdb_id": "tt14022668"
+        "imdb_id": "tt14022668",
+        "original_title": "Lady in the Lake"
     },
     {
         "tmdb_id": 232766,
@@ -20606,7 +20990,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt29650530"
+        "imdb_id": "tt29650530",
+        "original_title": "광장"
     },
     {
         "tmdb_id": 74577,
@@ -20652,7 +21037,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/2T2WGxe3Amr9jKLBfqC4Y30M3cf.png",
-        "imdb_id": "tt6257970"
+        "imdb_id": "tt6257970",
+        "original_title": "The End of the F***ing World"
     },
     {
         "tmdb_id": 255779,
@@ -20689,7 +21075,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt32063523"
+        "imdb_id": "tt32063523",
+        "original_title": "Bet"
     },
     {
         "tmdb_id": 252372,
@@ -20726,7 +21113,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/pWjYOoDvoDqp29INU4hEuIsYqs6.png",
-        "imdb_id": "tt30217222"
+        "imdb_id": "tt30217222",
+        "original_title": "Achtsam Morden"
     },
     {
         "tmdb_id": 6618,
@@ -20767,7 +21155,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt1173427"
+        "imdb_id": "tt1173427",
+        "original_title": "Total Drama Island"
     },
     {
         "tmdb_id": 109958,
@@ -20801,7 +21190,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/RQvIOi5rfknZzh2KXbbs4mfYun.png",
-        "imdb_id": "tt10970552"
+        "imdb_id": "tt10970552",
+        "original_title": "The Haunting of Bly Manor"
     },
     {
         "tmdb_id": 241259,
@@ -20834,7 +21224,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/aHbP9ZbxaRum2BcyFEssKc9lCUM.png",
-        "imdb_id": "tt13649112"
+        "imdb_id": "tt13649112",
+        "original_title": "Baby Reindeer"
     },
     {
         "tmdb_id": 97173,
@@ -20867,7 +21258,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/bW5SG53p3h1DJyP7vrDIwxXteJL.png",
-        "imdb_id": "tt9698442"
+        "imdb_id": "tt9698442",
+        "original_title": "Behind Her Eyes"
     },
     {
         "tmdb_id": 88046,
@@ -20927,7 +21319,8 @@
                 "number": 3
             }
         ],
-        "imdb_id": "tt9307686"
+        "imdb_id": "tt9307686",
+        "original_title": "炎炎ノ消防隊"
     },
     {
         "tmdb_id": 214032,
@@ -20963,7 +21356,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/7mkcgriIy6VMwq28zQP06pSOjEU.png",
-        "imdb_id": "tt22754212"
+        "imdb_id": "tt22754212",
+        "original_title": "Citadel: Diana"
     },
     {
         "tmdb_id": 106541,
@@ -21016,7 +21410,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/rRrLEchiP3Gmhdx9Hz0IcoMQ379.png",
-        "imdb_id": "tt12785720"
+        "imdb_id": "tt12785720",
+        "original_title": "The Witcher: Blood Origin"
     },
     {
         "tmdb_id": 215401,
@@ -21050,14 +21445,15 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 0,
+                "rating": 0.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/iHhC0D1B9IhD8beyMedHPUiakVK.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/BULLETBULLET%20%28215401%29/temporada_1.json",
                 "number": 1
             }
         ],
-        "imdb_id": "tt34710683"
+        "imdb_id": "tt34710683",
+        "original_title": "BULLET/BULLET"
     },
     {
         "tmdb_id": 81355,
@@ -21090,7 +21486,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/tjg2Hbg7iKoSrH2boGXD0u2sSir.png",
-        "imdb_id": "tt7137906"
+        "imdb_id": "tt7137906",
+        "original_title": "When They See Us"
     },
     {
         "tmdb_id": 553,
@@ -21129,7 +21526,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt0085011"
+        "imdb_id": "tt0085011",
+        "original_title": "Dungeons & Dragons"
     },
     {
         "tmdb_id": 246992,
@@ -21166,7 +21564,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt31429675"
+        "imdb_id": "tt31429675",
+        "original_title": "Sirens"
     },
     {
         "tmdb_id": 88052,
@@ -21213,7 +21612,8 @@
                 "number": 2
             }
         ],
-        "imdb_id": "tt8923854"
+        "imdb_id": "tt8923854",
+        "original_title": "Black Summer"
     },
     {
         "tmdb_id": 157065,
@@ -21247,7 +21647,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/d2XSqST0CFchcHYdqcpVZSKHBj.png",
-        "imdb_id": "tt15567174"
+        "imdb_id": "tt15567174",
+        "original_title": "The Fall of the House of Usher"
     },
     {
         "tmdb_id": 212462,
@@ -21279,7 +21680,8 @@
         ],
         "providers": [],
         "clearlogo": "https://image.tmdb.org/t/p/original/qFnmqS3CtxAaICDyciYlUOf3CHN.png",
-        "imdb_id": "tt26246248"
+        "imdb_id": "tt26246248",
+        "original_title": "Mary & George"
     },
     {
         "tmdb_id": 985,
@@ -21320,7 +21722,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt0122365"
+        "imdb_id": "tt0122365",
+        "original_title": "Wacky Races"
     },
     {
         "tmdb_id": 233256,
@@ -21357,7 +21760,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt28228082"
+        "imdb_id": "tt28228082",
+        "original_title": "The Stolen Girl"
     },
     {
         "tmdb_id": 158596,
@@ -21397,7 +21801,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/dGvMINv6fEWHjj47R2JYxkEiE8Z.png",
-        "imdb_id": "tt27526180"
+        "imdb_id": "tt27526180",
+        "original_title": "Beleza Fatal"
     },
     {
         "tmdb_id": 84469,
@@ -21435,7 +21840,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/hmeHFQaN809ihH02s5v2GRi2K67.png",
-        "imdb_id": "tt1267295"
+        "imdb_id": "tt1267295",
+        "original_title": "Cowboy Bebop"
     },
     {
         "tmdb_id": 288055,
@@ -21473,7 +21879,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt36414431"
+        "imdb_id": "tt36414431",
+        "original_title": "Star Wars: Tales of the Underworld"
     },
     {
         "tmdb_id": 68467,
@@ -21534,7 +21941,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/5PctsSIsJPUdLisWikrmEBQVtyg.png",
-        "imdb_id": "tt4922804"
+        "imdb_id": "tt4922804",
+        "original_title": "3%"
     },
     {
         "tmdb_id": 207318,
@@ -21570,7 +21978,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt15121038"
+        "imdb_id": "tt15121038",
+        "original_title": "Everybody Still Hates Chris"
     },
     {
         "tmdb_id": 92053,
@@ -21615,7 +22024,8 @@
                 "number": 2
             }
         ],
-        "imdb_id": "tt10327830"
+        "imdb_id": "tt10327830",
+        "original_title": "For Life"
     },
     {
         "tmdb_id": 208825,
@@ -21654,7 +22064,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/wnv5pVySZeNWkqQqpzdsqh5n0Ot.png",
-        "imdb_id": "tt21874396"
+        "imdb_id": "tt21874396",
+        "original_title": "기생수: 더 그레이"
     },
     {
         "tmdb_id": 211039,
@@ -21687,7 +22098,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/339CA6DOlUne07HZruZeaIKFdae.png",
-        "imdb_id": "tt13024830"
+        "imdb_id": "tt13024830",
+        "original_title": "Senna"
     },
     {
         "tmdb_id": 155421,
@@ -21722,7 +22134,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/4paCoBCChkxYNCh0xJjNBOYnx0e.png",
-        "imdb_id": "tt15320362"
+        "imdb_id": "tt15320362",
+        "original_title": "All the Light We Cannot See"
     },
     {
         "tmdb_id": 3103,
@@ -21768,7 +22181,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "",
-        "imdb_id": "tt0286342"
+        "imdb_id": "tt0286342",
+        "original_title": "Bananas in Pyjamas"
     },
     {
         "tmdb_id": 241473,
@@ -21807,7 +22221,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/gcD7ugBjise6cih9CXM5IRhlVQS.png",
-        "imdb_id": "tt25375256"
+        "imdb_id": "tt25375256",
+        "original_title": "Das Signal"
     },
     {
         "tmdb_id": 244243,
@@ -21845,7 +22260,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/73Cvev4pJ3Li7LFHV7tkN6Ylaka.png",
-        "imdb_id": "tt31019484"
+        "imdb_id": "tt31019484",
+        "original_title": "Missing You"
     },
     {
         "tmdb_id": 207334,
@@ -21880,7 +22296,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/yJG0Ks2NUvCVM1htZil8RJNZQR6.png",
-        "imdb_id": "tt21433150"
+        "imdb_id": "tt21433150",
+        "original_title": "The Veil"
     },
     {
         "tmdb_id": 253760,
@@ -21920,7 +22337,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt32306451"
+        "imdb_id": "tt32306451",
+        "original_title": "LEGO Star Wars: Rebuild the Galaxy"
     },
     {
         "tmdb_id": 81349,
@@ -21957,7 +22375,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/asr4KbXrXbYvFE8smlVRcsiAAKy.png",
-        "imdb_id": "tt8134186"
+        "imdb_id": "tt8134186",
+        "original_title": "Devs"
     },
     {
         "tmdb_id": 83880,
@@ -21993,7 +22412,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/yoiW8HUZ4TWoARUGSlt4peZBgJk.png",
-        "imdb_id": "tt9253866"
+        "imdb_id": "tt9253866",
+        "original_title": "Our Planet"
     },
     {
         "tmdb_id": 251091,
@@ -22029,7 +22449,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/4r4W3AdsurBLdmAMMMn6zxk2vfe.png",
-        "imdb_id": "tt32019314"
+        "imdb_id": "tt32019314",
+        "original_title": "Star Wars: Tales of the Empire"
     },
     {
         "tmdb_id": 79525,
@@ -22065,7 +22486,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/42f3BjmZaY9ToUyJ6JdyPXfl4mz.png",
-        "imdb_id": "tt8420184"
+        "imdb_id": "tt8420184",
+        "original_title": "The Last Dance"
     },
     {
         "tmdb_id": 72496,
@@ -22103,7 +22525,8 @@
             "Claro tv+"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/nnIWJtHkqXou4QAv9w1JooOT2S1.png",
-        "imdb_id": "tt6110318"
+        "imdb_id": "tt6110318",
+        "original_title": "Law & Order True Crime"
     },
     {
         "tmdb_id": 80039,
@@ -22138,7 +22561,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/358q4br7xDvPKNah02YOigbLurN.png",
-        "imdb_id": "tt6704972"
+        "imdb_id": "tt6704972",
+        "original_title": "The Underground Railroad"
     },
     {
         "tmdb_id": 255868,
@@ -22174,7 +22598,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/eul3W7I30YD1Qpl1HJqSppiwoiR.png",
-        "imdb_id": "tt33088401"
+        "imdb_id": "tt33088401",
+        "original_title": "Dream Productions"
     },
     {
         "tmdb_id": 110642,
@@ -22212,7 +22637,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt13173144"
+        "imdb_id": "tt13173144",
+        "original_title": "バイオハザード: インフィニット ダークネス"
     },
     {
         "tmdb_id": 256323,
@@ -22252,7 +22678,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt32581507"
+        "imdb_id": "tt32581507",
+        "original_title": "リヴァイアサン"
     },
     {
         "tmdb_id": 2568,
@@ -22298,7 +22725,8 @@
                 "number": 2
             }
         ],
-        "imdb_id": "tt0219446"
+        "imdb_id": "tt0219446",
+        "original_title": "The Oblongs"
     },
     {
         "tmdb_id": 137883,
@@ -22334,7 +22762,8 @@
             "Amazon Prime Video"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/vmeM7f2S1e7wFopA7nAoYwVOHKJ.png",
-        "imdb_id": "tt27208330"
+        "imdb_id": "tt27208330",
+        "original_title": "Cangaço Novo"
     },
     {
         "tmdb_id": 203740,
@@ -22373,7 +22802,8 @@
             }
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/3sWpsiQGntyo7AylSnm9DTP31sb.png",
-        "imdb_id": "tt20672482"
+        "imdb_id": "tt20672482",
+        "original_title": "ムーンライズ"
     },
     {
         "tmdb_id": 74606,
@@ -22437,7 +22867,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/hjuAHrxKVaCKgDiDJLey2IArZhl.png",
-        "imdb_id": "tt6574360"
+        "imdb_id": "tt6574360",
+        "original_title": "Irmão do Jorel"
     },
     {
         "tmdb_id": 78074,
@@ -22506,7 +22937,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/hqUducgSznXGicUM2L3CP4S965t.png",
-        "imdb_id": "tt8165086"
+        "imdb_id": "tt8165086",
+        "original_title": "Sintonia"
     },
     {
         "tmdb_id": 241485,
@@ -22542,7 +22974,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/h9pQLYbnKW25QGWW0KMTieUusx0.png",
-        "imdb_id": "tt30428188"
+        "imdb_id": "tt30428188",
+        "original_title": "Fight Night: The Million Dollar Heist"
     },
     {
         "tmdb_id": 231394,
@@ -22580,7 +23013,8 @@
             "Paramount+ Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/xmcXKOtAMkQoaBHynQwvq4We7Ze.png",
-        "imdb_id": "tt28521741"
+        "imdb_id": "tt28521741",
+        "original_title": "Tales of the Teenage Mutant Ninja Turtles"
     },
     {
         "tmdb_id": 279283,
@@ -22617,7 +23051,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/7MEKh8cfnbHnzPkscKETGUGdoh.png",
-        "imdb_id": "tt23221806"
+        "imdb_id": "tt23221806",
+        "original_title": "Genombrottet"
     },
     {
         "tmdb_id": 129495,
@@ -22656,7 +23091,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt10888878"
+        "imdb_id": "tt10888878",
+        "original_title": "Clickbait"
     },
     {
         "tmdb_id": 223397,
@@ -22693,7 +23129,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/q4k9hv6MRXuDAgpoZXDwSY5W4vp.png",
-        "imdb_id": "tt27535062"
+        "imdb_id": "tt27535062",
+        "original_title": "Cidade de Deus: A Luta Não Para"
     },
     {
         "tmdb_id": 110529,
@@ -22739,7 +23176,8 @@
             "Netflix Standard with Ads"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/mQI16Z3JTWkB7CZQRvObuq6jkTn.png",
-        "imdb_id": "tt8878862"
+        "imdb_id": "tt8878862",
+        "original_title": "Cidade Invisível"
     },
     {
         "tmdb_id": 6670,
@@ -22783,7 +23221,8 @@
                 "number": 2
             }
         ],
-        "imdb_id": "tt0084996"
+        "imdb_id": "tt0084996",
+        "original_title": "The Charlie Brown and Snoopy Show"
     },
     {
         "tmdb_id": 111934,
@@ -22813,14 +23252,15 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 8,
+                "rating": 8.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/gqh1Zg9Kg9UhAXun7ruBgG2Cb2B.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Passageiros%20A%20Ultima%20Viagem%20%28111934%29/temporada_1.json",
                 "number": 1
             }
         ],
-        "imdb_id": "tt13711860"
+        "imdb_id": "tt13711860",
+        "original_title": "Пассажиры"
     },
     {
         "tmdb_id": 91296,
@@ -22880,7 +23320,8 @@
         ],
         "providers": [],
         "clearlogo": "https://image.tmdb.org/t/p/original/vZlAmDG7sCi3Y37uesgRMyoC71F.png",
-        "imdb_id": "tt8040300"
+        "imdb_id": "tt8040300",
+        "original_title": "A Divisão"
     },
     {
         "tmdb_id": 99125,
@@ -22930,7 +23371,8 @@
         ],
         "providers": [],
         "clearlogo": "https://image.tmdb.org/t/p/original/lDijTALz5lmDhDuUYykbnbjH6Ir.png",
-        "imdb_id": "tt10759006"
+        "imdb_id": "tt10759006",
+        "original_title": "Arcanjo Renegado"
     },
     {
         "tmdb_id": 293808,
@@ -22959,14 +23401,15 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 10,
+                "rating": 10.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/h1zUmAkG8pRjcm8rgaC9RszGOiN.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/Marcada%20%28293808%29/temporada_1.json",
                 "number": 1
             }
         ],
-        "imdb_id": "tt37262365"
+        "imdb_id": "tt37262365",
+        "original_title": "Marked"
     },
     {
         "tmdb_id": 128331,
@@ -23003,7 +23446,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/gFqUNA3VMvTJ2nZxkcvshzQ6z71.png",
-        "imdb_id": "tt27526655"
+        "imdb_id": "tt27526655",
+        "original_title": "Maria e o Cangaço"
     },
     {
         "tmdb_id": 224390,
@@ -23039,7 +23483,8 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt36325198"
+        "imdb_id": "tt36325198",
+        "original_title": "Raul Seixas: Eu Sou"
     },
     {
         "tmdb_id": 215580,
@@ -23079,13 +23524,14 @@
                 "number": 1
             }
         ],
-        "imdb_id": "tt11932902"
+        "imdb_id": "tt11932902",
+        "original_title": "Astronauta"
     },
     {
         "tmdb_id": 293647,
         "popularity": 1.0706,
         "title": "O Assassinato do Ator Rafael Miguel",
-        "rating": 9,
+        "rating": 9.0,
         "classification": "16",
         "year": 2025,
         "premiered": "31/07/2025",
@@ -23108,14 +23554,15 @@
         "temporadas": [
             {
                 "title": "1ª Temporada",
-                "rating": 0,
+                "rating": 0.0,
                 "synopsis": "",
                 "poster": "https://image.tmdb.org/t/p/original/pFZvkRxxnd1clOD0tEK9USePMNu.jpg",
                 "episodios_link": "https://raw.githubusercontent.com/Gael1303/flixroom/refs/heads/main/cineroom/tvshow/temporadas/O%20Assassinato%20do%20Ator%20Rafael%20Miguel%20%28293647%29/temporada_1.json",
                 "number": 1
             }
         ],
-        "imdb_id": "tt37830384"
+        "imdb_id": "tt37830384",
+        "original_title": "O Assassinato do Ator Rafael Miguel"
     },
     {
         "tmdb_id": 272463,
@@ -23150,7 +23597,8 @@
             "Disney Plus"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/yCYSNhGF88GU7oXyxAn6cHtyXiV.png",
-        "imdb_id": "tt28150300"
+        "imdb_id": "tt28150300",
+        "original_title": "Volta Priscila"
     },
     {
         "tmdb_id": 260703,
@@ -23187,7 +23635,8 @@
             "Max Amazon Channel"
         ],
         "clearlogo": "https://image.tmdb.org/t/p/original/oMmg2bpaeWA8Hm0OEZ4yPyy1dkr.png",
-        "imdb_id": "tt30222446"
+        "imdb_id": "tt30222446",
+        "original_title": "Bob Burnquist: A Lenda do Skate"
     },
     {
         "tmdb_id": 231309,
@@ -23221,7 +23670,8 @@
         ],
         "providers": [],
         "clearlogo": "https://image.tmdb.org/t/p/original/i1d9OiaZCtnLFQ3uqHMkyS7eEUE.png",
-        "imdb_id": "tt33394662"
+        "imdb_id": "tt33394662",
+        "original_title": "Maníaco do Parque: A História Não Contada"
     },
     {
         "tmdb_id": 124407,
@@ -23255,6 +23705,7 @@
         ],
         "providers": [],
         "clearlogo": "https://image.tmdb.org/t/p/original/txo9dvKZmlP38GKSHIkNfVW44Dy.png",
-        "imdb_id": "tt12402000"
+        "imdb_id": "tt12402000",
+        "original_title": "O Caso Evandro"
     }
 ]
