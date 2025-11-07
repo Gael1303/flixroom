@@ -1,0 +1,27 @@
+{
+    "StarckFilmes": {
+        "url": "https://novo-link-starck.com", 
+        "configurable": false,
+        "priority": 1 
+    },
+    "AnimeZey": {
+        "url": "https://novo-link-animezey.workers.dev", 
+        "configurable": false, 
+        "priority": 1
+    },
+    "Brazuca": {
+        "url": "https://novo-link-brazuca.club",
+        "configurable": false,
+        "priority": 2
+    },
+    "MyCine": {
+        "url": "https://novo-link-mycine.net",
+        "configurable": false, 
+        "priority": 3
+    },
+    "Torrentio": {
+        "url": "https://torrentio.strem.fun/providers=...",
+        "configurable": false,
+        "priority": 4
+    } 
+}
