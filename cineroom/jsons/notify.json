@@ -9,7 +9,6 @@
     "btn_action": "vip_login",
     "btn_secondary": "Não, obrigado",
     "target": "free",
-    "active": true,
-    "expires_at": "2026-12-31T23:59:00Z"
+    "active": true
   }
 }
