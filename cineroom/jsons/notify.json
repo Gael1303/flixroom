@@ -1,14 +1,30 @@
 {
-  "notification": {
-    "id": "promo_abril_2025",
-    "type": "promo",
-    "badge": "PROMOÇÃO",
-    "title": "Lançamento PLUS — Oferta Especial",
-    "message": "Primeiros 50 usuários com PLUS por apenas R$10!\n\nAcesse o grupo no Telegram e garanta sua vaga antes de acabar.",
-    "btn_primary": "Quero o PLUS",
-    "btn_action": "vip_login",
-    "btn_secondary": "Não, obrigado",
-    "target": "free",
-    "active": true
-  }
+  "notifications": [
+    {
+      "id": "promo_abril_2026",
+      "type": "promo",
+      "badge": "PROMOÇÃO",
+      "title": "🎉 Lançamento PLUS — Oferta Especial",
+      "message": "Primeiros 50 usuários com PLUS por apenas R$10!\n\nAcesse o grupo no Telegram.",
+      "btn_primary": "Quero o PLUS",
+      "btn_action": "vip_login",
+      "btn_secondary": "Não, obrigado",
+      "target": "free",
+      "active": false,
+      "expires_at": "2026-12-31T23:59:00Z"
+    },
+    {
+      "id": "update_v141",
+      "type": "update",
+      "badge": "NOVIDADE",
+      "title": "✨ Versão 1.4.1 disponível",
+      "message": "Confira as novidades desta versão no changelog.",
+      "btn_primary": "Ver novidades",
+      "btn_action": "show_changelog",
+      "btn_secondary": "Fechar",
+      "target": "all",
+      "active": true,
+      "expires_at": "2026-06-01T00:00:00Z"
+    }
+  ]
 }
