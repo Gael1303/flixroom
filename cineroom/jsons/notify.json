@@ -1,0 +1,15 @@
+{
+  "notification": {
+    "id": "promo_abril_2025",
+    "type": "promo",
+    "badge": "PROMOÇÃO",
+    "title": "🎉 Lançamento PLUS — Oferta Especial",
+    "message": "Primeiros 50 usuários com PLUS por apenas R$10!\n\nAcesse o grupo no Telegram e garanta sua vaga antes de acabar.",
+    "btn_primary": "Quero o PLUS",
+    "btn_action": "vip_login",
+    "btn_secondary": "Não, obrigado",
+    "target": "free",
+    "active": true,
+    "expires_at": "2025-04-07T23:59:00Z"
+  }
+}
