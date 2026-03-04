@@ -10,8 +10,7 @@
       "btn_action": "vip_login",
       "btn_secondary": "Não, obrigado",
       "target": "free",
-      "active": false,
-      "expires_at": "2026-12-31T23:59:00Z"
+      "active": true,
     },
     {
       "id": "update_v141",
@@ -24,7 +23,6 @@
       "btn_secondary": "Fechar",
       "target": "all",
       "active": true,
-      "expires_at": "2026-06-01T00:00:00Z"
     }
   ]
 }
