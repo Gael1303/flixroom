@@ -1,28 +1,40 @@
 {
   "notifications": [
     {
-      "id": "promo_abril_2026",
+      "id": "promo_001",
       "type": "promo",
       "badge": "PROMOÇÃO",
-      "title": "🎉 Lançamento PLUS — Oferta Especial",
+      "title": "Lançamento PLUS — Oferta Especial",
       "message": "Primeiros 50 usuários com PLUS por apenas R$10!\n\nAcesse o grupo no Telegram.",
-      "btn_primary": "Quero o PLUS",
+      "btn_label": "Quero o PLUS",
       "btn_action": "vip_login",
-      "btn_secondary": "Não, obrigado",
       "target": "free",
       "active": true,
+      "expires_at": "2026-12-31T23:59:00Z"
     },
     {
-      "id": "update_v141",
+      "id": "update_001",
       "type": "update",
       "badge": "NOVIDADE",
-      "title": "✨ Versão 1.4.1 disponível",
+      "title": "Versão 1.4.1 disponível",
       "message": "Confira as novidades desta versão no changelog.",
-      "btn_primary": "Ver novidades",
+      "btn_label": "Ver novidades",
       "btn_action": "show_changelog",
-      "btn_secondary": "Fechar",
       "target": "all",
       "active": true,
+      "expires_at": "2026-12-31T23:59:00Z"
+    },
+    {
+      "id": "info_001",
+      "type": "info",
+      "badge": "AVISO",
+      "title": "Informação importante",
+      "message": "Mensagem informativa para os usuários do addon.",
+      "btn_label": "Entendido",
+      "btn_action": "show_changelog",
+      "target": "all",
+      "active": false,
+      "expires_at": "2026-12-31T23:59:00Z"
     }
   ]
 }
