@@ -33,7 +33,7 @@
       "btn_label": "Entendido",
       "btn_action": "show_changelog",
       "target": "all",
-      "active": false,
+      "active": true,
       "expires_at": "2026-12-31T23:59:00Z"
     }
   ]
