@@ -29,13 +29,13 @@
       "id": "info_001",
       "type": "info",
       "badge": "AVISO",
-      "title": "Manutenção Programada",
-      "message": "Hoje às 23:00 — serviço ficará indisponível por 30 min.",
+      "title": "Instabilidade",
+      "message": "Alguns scrapers VIP estão com problemas tecnicos\nSem previsão de retorno",
       "btn_label": "Detalhes",
       "btn_action": "show_detail",
       "detail": "Manutenção programada para hoje às 23:00.\n\nO serviço ficará indisponível por aproximadamente 30 minutos.\n\nAgradecemos a compreensão!",
       "target": "all",
-      "active": false,
+      "active": true,
       "expires_at": "2026-12-31T23:59:00Z"
     }
   ]
