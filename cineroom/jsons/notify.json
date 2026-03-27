@@ -10,7 +10,7 @@
       "btn_action": "show_detail",
       "detail": "Primeiros 50 usuários com PLUS por apenas R$10!\n\nAcesse o grupo no Telegram: t.me/seugrupo\n\nOferta válida até 30/04/2026.",
       "target": "all",
-      "active": false,
+      "active": true,
       "expires_at": "2026-12-31T23:59:00Z"
     },
     {
@@ -21,8 +21,9 @@
       "message": "Confira as novidades desta versão no changelog.",
       "btn_label": "Ver novidades",
       "btn_action": "show_changelog",
+      "changelog": "v1.4.1\n• Correção no sistema de perfis (PIN duplo resolvido)\n• Minha Conta: novo botão Trocar Senha\n• Melhorias de performance no carregamento\n• Correção de bug no remember_profile",
       "target": "all",
-      "active": false,
+      "active": true,
       "expires_at": "2026-12-31T23:59:00Z"
     },
     {
@@ -35,7 +36,7 @@
       "btn_action": "show_detail",
       "detail": "Manutenção programada para hoje às 23:00.\n\nO serviço ficará indisponível por aproximadamente 30 minutos.\n\nAgradecemos a compreensão!",
       "target": "all",
-      "active": false,
+      "active": true,
       "expires_at": "2026-12-31T23:59:00Z"
     }
   ]
