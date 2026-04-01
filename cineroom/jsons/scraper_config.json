@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "updated_at": "2026-04-01",
+  "scrapers": {
+    "assistirfilme":    { "base_url": "https://assistirfilmes.biz" },
+    "animesup":         { "base_url": "https://www.animesup.info" },
+    "animesonline":     { "base_url": "https://animesonlinecc.to" },
+    "goflixy":          { "base_url": "https://goflixy.lol",      "fembed": "https://fembed.sx" },
+    "starckfilmes":     { "base_url": "https://www.starckfilmes-v12.com" },
+    "doramas":          { "base_url": "https://doramasonline.co",  "player_url": "https://seriesboa.live" },
+    "cmd1":             { "base_url": "https://cmd1.site" },
+    "filmesmaster":     { "base_url": "https://filmesmaster.org" },
+    "netcine":          { "base_url": "https://eee1.lat" },
+    "torrentdosfilmes": { "base_url": "https://torrentdosfilmes-v1.xyz" },
+    "apachetorrent":    { "base_url": "https://apachetorrent.com" },
+    "comando":          { "base_url": "https://comandofilmestop.site" }
+  }
+}
