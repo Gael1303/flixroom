@@ -1,0 +1,55 @@
+name: Atualizar Trending
+
+on:
+  # Roda todo dia às 04:00 UTC (01:00 horário de Brasília)
+  schedule:
+    - cron: "0 4 * * *"
+
+  # Permite rodar manualmente pela aba Actions do GitHub
+  workflow_dispatch:
+
+jobs:
+  update-trending:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # necessário para fazer commit dos JSONs
+
+    steps:
+      # 1. Faz checkout do repositório
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 2. Configura Python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # 3. Gera os JSONs consultando o Supabase
+      #    As secrets ficam no GitHub → Settings → Secrets and variables → Actions
+      - name: Gerar JSONs de trending
+        env:
+          SUPABASE_URL:         ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: python generate_trending.py
+
+      # 4. Verifica se algo mudou antes de tentar commitar
+      - name: Verificar mudanças
+        id: check_changes
+        run: |
+          git diff --quiet data/ || echo "changed=true" >> $GITHUB_OUTPUT
+
+      # 5. Commita e faz push apenas se houve mudança nos dados
+      - name: Commit e push
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/trending_movie.json data/trending_tv.json
+          git commit -m "chore: atualiza trending $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
+
+      # 6. Se nada mudou, apenas loga
+      - name: Sem mudanças
+        if: steps.check_changes.outputs.changed != 'true'
+        run: echo "Nenhuma mudança nos dados de trending. Nada a commitar."
