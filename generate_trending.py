@@ -73,7 +73,7 @@ def fetch_trending(content_type: str, limit: int, min_views: int) -> list[dict]:
     Ajuste o nome da tabela/colunas se o seu schema for diferente.
     """
     params = urlencode({
-        "select":       "tmdb_id,imdb_id,content_type,view_count,updated_at",
+        "select": "tmdb_id,imdb_id,content_type,view_count,created_at",
         "content_type": f"eq.{content_type}",
         "view_count":   f"gte.{min_views}",
         "order":        "view_count.desc",
