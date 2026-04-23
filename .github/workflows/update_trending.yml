@@ -37,7 +37,8 @@ jobs:
       - name: Verificar mudanças
         id: check_changes
         run: |
-          git diff --quiet data/ || echo "changed=true" >> $GITHUB_OUTPUT
+            git add data/
+            git diff --cached --quiet || echo "changed=true" >> $GITHUB_OUTPUT
 
       # 5. Commita e faz push apenas se houve mudança nos dados
       - name: Commit e push
