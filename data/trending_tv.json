@@ -1,35 +1,42 @@
 {
-  "generated_at": "2026-05-05T06:22:50.300745+00:00",
+  "generated_at": "2026-05-06T06:35:48.053240+00:00",
   "content_type": "tv",
-  "count": 100,
+  "count": 59,
   "items": [
     {
       "tmdb_id": 124364,
       "imdb_id": "tt9813792",
       "content_type": "tv",
-      "view_count": 44,
+      "view_count": 45,
       "created_at": "2026-04-14T17:47:08.94011"
     },
     {
       "tmdb_id": 56570,
       "imdb_id": "tt3006802",
       "content_type": "tv",
-      "view_count": 25,
+      "view_count": 26,
       "created_at": "2026-04-19T02:15:22.461517"
     },
     {
       "tmdb_id": 76479,
       "imdb_id": "tt1190634",
       "content_type": "tv",
-      "view_count": 23,
+      "view_count": 24,
       "created_at": "2026-04-18T02:22:34.162701"
     },
     {
       "tmdb_id": 1402,
       "imdb_id": "tt1520211",
       "content_type": "tv",
-      "view_count": 23,
+      "view_count": 24,
       "created_at": "2026-04-19T00:27:29.64811"
+    },
+    {
+      "tmdb_id": 83295,
+      "imdb_id": "tt9070896",
+      "content_type": "tv",
+      "view_count": 21,
+      "created_at": "2026-04-21T16:37:50.022899"
     },
     {
       "tmdb_id": 126485,
@@ -39,11 +46,11 @@
       "created_at": "2026-04-27T19:38:36.24231"
     },
     {
-      "tmdb_id": 83295,
-      "imdb_id": "tt9070896",
+      "tmdb_id": 85552,
+      "imdb_id": "tt8772296",
       "content_type": "tv",
-      "view_count": 18,
-      "created_at": "2026-04-21T16:37:50.022899"
+      "view_count": 17,
+      "created_at": "2026-04-20T18:51:35.549792"
     },
     {
       "tmdb_id": 4686,
@@ -51,13 +58,6 @@
       "content_type": "tv",
       "view_count": 17,
       "created_at": "2026-04-19T17:08:43.413372"
-    },
-    {
-      "tmdb_id": 85552,
-      "imdb_id": "tt8772296",
-      "content_type": "tv",
-      "view_count": 15,
-      "created_at": "2026-04-20T18:51:35.549792"
     },
     {
       "tmdb_id": 111110,
@@ -88,6 +88,13 @@
       "created_at": "2026-04-30T02:28:22.787855"
     },
     {
+      "tmdb_id": 202411,
+      "imdb_id": "tt17220216",
+      "content_type": "tv",
+      "view_count": 13,
+      "created_at": "2026-04-19T04:00:07.824505"
+    },
+    {
       "tmdb_id": 95557,
       "imdb_id": "tt6741278",
       "content_type": "tv",
@@ -102,11 +109,11 @@
       "created_at": "2026-04-20T13:55:46.576005"
     },
     {
-      "tmdb_id": 202411,
-      "imdb_id": "tt17220216",
+      "tmdb_id": 250307,
+      "imdb_id": "tt31938062",
       "content_type": "tv",
-      "view_count": 12,
-      "created_at": "2026-04-19T04:00:07.824505"
+      "view_count": 11,
+      "created_at": "2026-04-19T00:33:33.214043"
     },
     {
       "tmdb_id": 137883,
@@ -135,13 +142,6 @@
       "content_type": "tv",
       "view_count": 10,
       "created_at": "2026-04-25T01:31:22.388631"
-    },
-    {
-      "tmdb_id": 250307,
-      "imdb_id": "tt31938062",
-      "content_type": "tv",
-      "view_count": 10,
-      "created_at": "2026-04-19T00:33:33.214043"
     },
     {
       "tmdb_id": 45790,
@@ -205,6 +205,20 @@
       "content_type": "tv",
       "view_count": 8,
       "created_at": "2026-04-20T00:07:31.676144"
+    },
+    {
+      "tmdb_id": 270476,
+      "imdb_id": "tt33332385",
+      "content_type": "tv",
+      "view_count": 7,
+      "created_at": "2026-04-29T13:31:40.234119"
+    },
+    {
+      "tmdb_id": 127529,
+      "imdb_id": "tt26315487",
+      "content_type": "tv",
+      "view_count": 7,
+      "created_at": "2026-04-20T18:42:01.935068"
     },
     {
       "tmdb_id": 2692,
@@ -284,6 +298,27 @@
       "created_at": "2026-04-23T09:40:18.165191"
     },
     {
+      "tmdb_id": 46786,
+      "imdb_id": "tt2188671",
+      "content_type": "tv",
+      "view_count": 6,
+      "created_at": "2026-05-03T01:19:13.12889"
+    },
+    {
+      "tmdb_id": 47,
+      "imdb_id": "tt0229889",
+      "content_type": "tv",
+      "view_count": 6,
+      "created_at": "2026-04-19T18:14:58.843633"
+    },
+    {
+      "tmdb_id": 245927,
+      "imdb_id": "tt27444205",
+      "content_type": "tv",
+      "view_count": 6,
+      "created_at": "2026-04-20T05:24:22.700442"
+    },
+    {
       "tmdb_id": 254653,
       "imdb_id": "tt32384391",
       "content_type": "tv",
@@ -319,18 +354,18 @@
       "created_at": "2026-04-19T04:00:07.824505"
     },
     {
-      "tmdb_id": 127529,
-      "imdb_id": "tt26315487",
-      "content_type": "tv",
-      "view_count": 6,
-      "created_at": "2026-04-20T18:42:01.935068"
-    },
-    {
-      "tmdb_id": 270476,
-      "imdb_id": "tt33332385",
+      "tmdb_id": 1695,
+      "imdb_id": "tt0312172",
       "content_type": "tv",
       "view_count": 5,
-      "created_at": "2026-04-29T13:31:40.234119"
+      "created_at": "2026-04-22T19:29:06.699372"
+    },
+    {
+      "tmdb_id": 70523,
+      "imdb_id": "tt5753856",
+      "content_type": "tv",
+      "view_count": 5,
+      "created_at": "2026-04-20T00:27:21.249497"
     },
     {
       "tmdb_id": 226637,
@@ -361,13 +396,6 @@
       "created_at": "2026-04-27T14:33:01.859781"
     },
     {
-      "tmdb_id": 47,
-      "imdb_id": "tt0229889",
-      "content_type": "tv",
-      "view_count": 5,
-      "created_at": "2026-04-19T18:14:58.843633"
-    },
-    {
       "tmdb_id": 6618,
       "imdb_id": "tt1173427",
       "content_type": "tv",
@@ -387,321 +415,6 @@
       "content_type": "tv",
       "view_count": 5,
       "created_at": "2026-04-19T15:13:15.594586"
-    },
-    {
-      "tmdb_id": 69925,
-      "imdb_id": "tt6526624",
-      "content_type": "tv",
-      "view_count": 4,
-      "created_at": "2026-04-24T01:37:18.51413"
-    },
-    {
-      "tmdb_id": 42705,
-      "imdb_id": "tt0481256",
-      "content_type": "tv",
-      "view_count": 4,
-      "created_at": "2026-04-22T01:01:08.448148"
-    },
-    {
-      "tmdb_id": 108545,
-      "imdb_id": "tt13016388",
-      "content_type": "tv",
-      "view_count": 4,
-      "created_at": "2026-05-03T01:10:37.898989"
-    },
-    {
-      "tmdb_id": 61859,
-      "imdb_id": "tt1399664",
-      "content_type": "tv",
-      "view_count": 4,
-      "created_at": "2026-04-20T23:55:27.517221"
-    },
-    {
-      "tmdb_id": 79086,
-      "imdb_id": "tt8080122",
-      "content_type": "tv",
-      "view_count": 4,
-      "created_at": "2026-04-26T21:11:15.251406"
-    },
-    {
-      "tmdb_id": 1695,
-      "imdb_id": "tt0312172",
-      "content_type": "tv",
-      "view_count": 4,
-      "created_at": "2026-04-22T19:29:06.699372"
-    },
-    {
-      "tmdb_id": 655,
-      "imdb_id": "tt0092455",
-      "content_type": "tv",
-      "view_count": 4,
-      "created_at": "2026-04-24T00:14:21.569805"
-    },
-    {
-      "tmdb_id": 46786,
-      "imdb_id": "tt2188671",
-      "content_type": "tv",
-      "view_count": 4,
-      "created_at": "2026-05-03T01:19:13.12889"
-    },
-    {
-      "tmdb_id": 86848,
-      "imdb_id": "tt9055008",
-      "content_type": "tv",
-      "view_count": 4,
-      "created_at": "2026-04-24T01:55:25.946537"
-    },
-    {
-      "tmdb_id": 34634,
-      "imdb_id": "tt1800864",
-      "content_type": "tv",
-      "view_count": 4,
-      "created_at": "2026-04-22T18:35:27.031429"
-    },
-    {
-      "tmdb_id": 4614,
-      "imdb_id": "tt0364845",
-      "content_type": "tv",
-      "view_count": 4,
-      "created_at": "2026-04-24T11:57:09.270563"
-    },
-    {
-      "tmdb_id": 62560,
-      "imdb_id": "tt4158110",
-      "content_type": "tv",
-      "view_count": 4,
-      "created_at": "2026-04-26T02:04:50.572672"
-    },
-    {
-      "tmdb_id": 4606,
-      "imdb_id": "tt0094469",
-      "content_type": "tv",
-      "view_count": 4,
-      "created_at": "2026-05-01T16:44:32.604462"
-    },
-    {
-      "tmdb_id": 1395,
-      "imdb_id": "tt0397442",
-      "content_type": "tv",
-      "view_count": 4,
-      "created_at": "2026-04-19T16:57:02.15872"
-    },
-    {
-      "tmdb_id": 66871,
-      "imdb_id": "tt5541338",
-      "content_type": "tv",
-      "view_count": 4,
-      "created_at": "2026-04-19T22:30:27.248769"
-    },
-    {
-      "tmdb_id": 1877,
-      "imdb_id": "tt0852863",
-      "content_type": "tv",
-      "view_count": 4,
-      "created_at": "2026-04-19T15:31:33.495892"
-    },
-    {
-      "tmdb_id": 245927,
-      "imdb_id": "tt27444205",
-      "content_type": "tv",
-      "view_count": 4,
-      "created_at": "2026-04-20T05:24:22.700442"
-    },
-    {
-      "tmdb_id": 1425,
-      "imdb_id": "tt1856010",
-      "content_type": "tv",
-      "view_count": 4,
-      "created_at": "2026-04-19T18:51:28.202516"
-    },
-    {
-      "tmdb_id": 70523,
-      "imdb_id": "tt5753856",
-      "content_type": "tv",
-      "view_count": 4,
-      "created_at": "2026-04-20T00:27:21.249497"
-    },
-    {
-      "tmdb_id": 65815,
-      "imdb_id": "tt5512658",
-      "content_type": "tv",
-      "view_count": 4,
-      "created_at": "2026-04-20T00:45:52.00244"
-    },
-    {
-      "tmdb_id": 113268,
-      "imdb_id": "tt13273826",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-04-26T15:50:28.556325"
-    },
-    {
-      "tmdb_id": 306144,
-      "imdb_id": "tt38972955",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-05-02T20:07:27.325164"
-    },
-    {
-      "tmdb_id": 1434,
-      "imdb_id": "tt0182576",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-04-30T00:30:24.33581"
-    },
-    {
-      "tmdb_id": 1606,
-      "imdb_id": "tt0460644",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-04-21T17:34:09.168836"
-    },
-    {
-      "tmdb_id": 433,
-      "imdb_id": "tt0851851",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-04-26T12:58:45.573922"
-    },
-    {
-      "tmdb_id": 46848,
-      "imdb_id": "tt3012598",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-04-29T12:35:27.614792"
-    },
-    {
-      "tmdb_id": 223386,
-      "imdb_id": "tt27331527",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-05-02T01:06:45.144876"
-    },
-    {
-      "tmdb_id": 1411,
-      "imdb_id": "tt1839578",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-04-25T05:20:22.535959"
-    },
-    {
-      "tmdb_id": 202577,
-      "imdb_id": "tt20268688",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-04-25T16:40:30.363723"
-    },
-    {
-      "tmdb_id": 259702,
-      "imdb_id": "tt33022938",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-05-01T00:22:34.905028"
-    },
-    {
-      "tmdb_id": 316544,
-      "imdb_id": "tt37041367",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-04-26T03:40:58.495718"
-    },
-    {
-      "tmdb_id": 122196,
-      "imdb_id": "tt11324406",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-04-26T13:46:54.742614"
-    },
-    {
-      "tmdb_id": 215616,
-      "imdb_id": "tt24019192",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-04-24T16:00:11.92186"
-    },
-    {
-      "tmdb_id": 94404,
-      "imdb_id": "tt11147852",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-04-23T23:13:28.01593"
-    },
-    {
-      "tmdb_id": 217980,
-      "imdb_id": "tt22719788",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-04-30T23:12:28.413118"
-    },
-    {
-      "tmdb_id": 111489,
-      "imdb_id": "tt9410706",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-04-20T11:23:25.032753"
-    },
-    {
-      "tmdb_id": 85948,
-      "imdb_id": "tt9184820",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-04-24T17:30:09.293949"
-    },
-    {
-      "tmdb_id": 108978,
-      "imdb_id": "tt9288030",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-04-19T16:57:02.15872"
-    },
-    {
-      "tmdb_id": 316832,
-      "imdb_id": "tt40822983",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-04-26T21:32:33.315726"
-    },
-    {
-      "tmdb_id": 211684,
-      "imdb_id": "tt13062500",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-04-23T01:41:01.779759"
-    },
-    {
-      "tmdb_id": 287527,
-      "imdb_id": "tt10970762",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-04-21T22:54:59.395805"
-    },
-    {
-      "tmdb_id": 1396,
-      "imdb_id": "tt0903747",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-04-28T01:38:13.789322"
-    },
-    {
-      "tmdb_id": 131532,
-      "imdb_id": "tt14118188",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-04-19T17:35:32.107509"
-    },
-    {
-      "tmdb_id": 125282,
-      "imdb_id": "tt11188682",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-04-27T15:55:12.072796"
-    },
-    {
-      "tmdb_id": 290856,
-      "imdb_id": "tt36849871",
-      "content_type": "tv",
-      "view_count": 3,
-      "created_at": "2026-04-21T21:30:04.615977"
     }
   ]
 }
