@@ -31,8 +31,8 @@ if not SUPABASE_URL or not SUPABASE_SERVICE_KEY:
 
 CONFIGS = [
     # (content_type, limit, min_views, arquivo_saída)
-    ("movie", 100, 5, "data/trending_movie.json"),
-    ("tv",    100, 5, "data/trending_tv.json"),
+    ("movie", 100, 10, "data/trending_movie.json"),
+    ("tv",    100, 10, "data/trending_tv.json"),
 ]
 
 # ── Helpers HTTP ──────────────────────────────────────────────────────────────
