@@ -1,18 +1,24 @@
 {
-  "version": 1,
-  "updated_at": "2026-04-01",
+  "version": 2,
+  "updated_at": "2026-05-18",
   "scrapers": {
     "assistirfilme":    { "base_url": "https://assistirfilmes.biz" },
     "animesup":         { "base_url": "https://www.animesup.info" },
     "animesonline":     { "base_url": "https://animesonlinecc.to" },
-    "goflixy":          { "base_url": "https://goflixy.lol",      "fembed": "https://fembed.sx" },
+    "goflixy":          { "base_url": "https://goflixy.lol", "fembed": "https://fembed.sx" },
     "starckfilmes":     { "base_url": "https://www.starckfilmes-v15.com" },
-    "doramas":          { "base_url": "https://doramasonline.co",  "player_url": "https://seriesboa.live" },
+    "doramas":          { "base_url": "https://doramasonline.co", "player_url": "https://seriesboa.live" },
     "cmd1":             { "base_url": "https://cmd1.site" },
     "filmesmaster":     { "base_url": "https://filmesmaster.org" },
     "netcine":          { "base_url": "https://eee1.lat" },
     "torrentdosfilmes": { "base_url": "https://torrentdosfilmes-v1.xyz" },
     "apachetorrent":    { "base_url": "https://apachetorrent.com" },
-    "comando":          { "base_url": "https://comandofilmestop.site" }
+    "comando":          { "base_url": "https://comandofilmestop.site" },
+    "brazuca":          { "base_url": "https://94c8cb9f702d-brazuca-torrents.baby-beamup.club" },
+    "torrentio":        { "base_url": "https://torrentio.strem.fun/providers=comando,bludv,micoleaodublado,yts,nyaasi,1337x%7Clanguage=portuguese,english,japanese" },
+    "fenixflix":        { "base_url": "https://fenixflix-ur9u.onrender.com" },
+    "mico-leao":        { "base_url": "https://27a5b2bfe3c0-stremio-brazilian-addon.baby-beamup.club" },
+    "froststream":      { "base_url": "https://froststream.up.railway.app" },
+    "nebulastreams":    { "base_url": "https://hdhub.thevolecitor.qzz.io/eyJ0b3Jib3giOiJ1bnNldCIsInF1YWxpdGllcyI6IjIxNjBwLDEwODBwLDcyMHAiLCJzb3J0IjoiZGVzYyJ9" }
   }
 }
