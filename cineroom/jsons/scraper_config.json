@@ -2,9 +2,6 @@
   "version": 2,
   "updated_at": "2026-05-18",
   "scrapers": {
-    "assistirfilme":    { "base_url": "https://assistirfilmes.biz" },
-    "animesup":         { "base_url": "https://www.animesup.info" },
-    "animesonline":     { "base_url": "https://animesonlinecc.to" },
     "goflixy":          { "base_url": "https://goflixy.lol", "fembed": "https://fembed.sx" },
     "starckfilmes":     { "base_url": "https://www.starckfilmes-v15.com" },
     "doramas":          { "base_url": "https://doramasonline.co", "player_url": "https://seriesboa.live" },
