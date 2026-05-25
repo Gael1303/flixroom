@@ -938,7 +938,9 @@
             "Animação",
             "Comédia"
         ],
-        "providers": [],
+        "providers": [
+            "Disney Plus"
+        ],
         "type": "tvshow",
         "trending": true,
         "season_count": 24,
@@ -7208,7 +7210,10 @@
             "Drama",
             "Crime"
         ],
-        "providers": [],
+        "providers": [
+            "Amazon Prime Video",
+            "Amazon Prime Video with Ads"
+        ],
         "type": "tvshow",
         "trending": true,
         "season_count": 7,
@@ -8095,7 +8100,10 @@
             "Mistério",
             "Comédia"
         ],
-        "providers": [],
+        "providers": [
+            "Apple TV",
+            "Apple TV Amazon Channel"
+        ],
         "type": "tvshow",
         "season_count": 1,
         "episodes_count": 10,
@@ -9655,7 +9663,10 @@
             "Crime",
             "Drama"
         ],
-        "providers": [],
+        "providers": [
+            "Netflix",
+            "Netflix Standard with Ads"
+        ],
         "type": "tvshow",
         "season_count": 6,
         "episodes_count": 75,
@@ -9726,7 +9737,10 @@
             "Drama",
             "Mistério"
         ],
-        "providers": [],
+        "providers": [
+            "MUBI",
+            "MUBI Amazon Channel"
+        ],
         "type": "tvshow",
         "trending": false,
         "season_count": 3,
@@ -12662,7 +12676,10 @@
             "Crime",
             "Drama"
         ],
-        "providers": [],
+        "providers": [
+            "Netflix",
+            "Netflix Standard with Ads"
+        ],
         "type": "tvshow",
         "trending": false,
         "season_count": 3,
@@ -18140,7 +18157,10 @@
             "Comédia",
             "Mistério"
         ],
-        "providers": [],
+        "providers": [
+            "Netflix",
+            "Netflix Standard with Ads"
+        ],
         "type": "tvshow",
         "season_count": 2,
         "episodes_count": 193,
@@ -18950,7 +18970,11 @@
             "Sci-Fi & Fantasy",
             "Action & Adventure"
         ],
-        "providers": [],
+        "providers": [
+            "HBO Max",
+            "Claro tv+",
+            "HBO Max Amazon Channel"
+        ],
         "type": "tvshow",
         "season_count": 1,
         "episodes_count": 6,
@@ -19004,7 +19028,10 @@
             "Sci-Fi & Fantasy",
             "Drama"
         ],
-        "providers": [],
+        "providers": [
+            "Netflix",
+            "Netflix Standard with Ads"
+        ],
         "type": "tvshow",
         "trending": false,
         "season_count": 5,
@@ -19732,7 +19759,10 @@
             "Comédia",
             "Sci-Fi & Fantasy"
         ],
-        "providers": [],
+        "providers": [
+            "Netflix",
+            "Netflix Standard with Ads"
+        ],
         "type": "tvshow",
         "trending": false,
         "season_count": 1,
@@ -22648,7 +22678,9 @@
             "Comédia",
             "Drama"
         ],
-        "providers": [],
+        "providers": [
+            "Disney Plus"
+        ],
         "type": "tvshow",
         "season_count": 1,
         "episodes_count": 4,
@@ -23003,7 +23035,10 @@
         "genres": [
             "Drama"
         ],
-        "providers": [],
+        "providers": [
+            "Amazon Prime Video",
+            "Amazon Prime Video with Ads"
+        ],
         "type": "tvshow",
         "season_count": 1,
         "episodes_count": 8,
@@ -27325,7 +27360,10 @@
             "Drama",
             "Sci-Fi & Fantasy"
         ],
-        "providers": [],
+        "providers": [
+            "Apple TV",
+            "Apple TV Amazon Channel"
+        ],
         "type": "tvshow",
         "season_count": 1,
         "episodes_count": 9,
@@ -28646,7 +28684,10 @@
             "Mistério",
             "Action & Adventure"
         ],
-        "providers": [],
+        "providers": [
+            "Netflix",
+            "Netflix Standard with Ads"
+        ],
         "type": "tvshow",
         "season_count": 2,
         "episodes_count": 10,
@@ -30154,7 +30195,10 @@
             "Mistério",
             "Crime"
         ],
-        "providers": [],
+        "providers": [
+            "Netflix",
+            "Netflix Standard with Ads"
+        ],
         "type": "tvshow",
         "season_count": 1,
         "episodes_count": 6,
@@ -30351,7 +30395,9 @@
         "genres": [
             "Animação"
         ],
-        "providers": [],
+        "providers": [
+            "Netflix"
+        ],
         "type": "tvshow",
         "season_count": 2,
         "episodes_count": 19,
@@ -52384,7 +52430,9 @@
             "Drama",
             "Action & Adventure"
         ],
-        "providers": [],
+        "providers": [
+            "Globoplay"
+        ],
         "type": "tvshow",
         "trending": false,
         "season_count": 4,
@@ -53040,7 +53088,10 @@
         "genres": [
             "Documentário"
         ],
-        "providers": [],
+        "providers": [
+            "HBO Max",
+            "HBO Max Amazon Channel"
+        ],
         "type": "tvshow",
         "season_count": 1,
         "episodes_count": 2,
