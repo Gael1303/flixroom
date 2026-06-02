@@ -40,8 +40,8 @@ TRENDING_CONFIGS = [
 # Watched: assistidos com >= 75% de progresso (tabela content_watched)
 WATCHED_CONFIGS = [
     # (content_type, limit, min_views, arquivo_saída)
-    ("movie", 100, 3, "data/watched_movie.json"),
-    ("tv",    100, 3, "data/watched_tv.json"),
+    ("movie", 100, 2, "data/watched_movie.json"),
+    ("tv",    100, 2, "data/watched_tv.json"),
 ]
 
 # ── Helpers HTTP ──────────────────────────────────────────────────────────────
