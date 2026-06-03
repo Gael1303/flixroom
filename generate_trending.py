@@ -175,10 +175,11 @@ def main():
     for content_type, limit, min_views, out_path in WATCHED_CONFIGS:
         print(f"\n📦  {content_type.upper()} (limit={limit}, min_views={min_views})")
         items = fetch_watched(content_type, limit, min_views)
+
         if not items:
-            print(f"  ⚠  Nenhum item retornado para {content_type}. Pulando gravação.")
-            errors += 1
+            print(f"  ⚠  Nenhum item retornado para {content_type}. Ignorando.")
             continue
+
         write_json(out_path, items, content_type)
 
     # ── Resultado ─────────────────────────────────────────────────────────────
