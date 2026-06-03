@@ -1,4 +1,16 @@
 [
+   
+    {
+        "tmdb_id": 1327819,
+        "media_type": "movie",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b14b13956f986dc68ddaf9ded51d601ab0c72c2",
+        "quality": "4K",
+        "extras": [
+            "DUAL AUDIO",
+            "HDR10+",
+            "5.1"
+        ]
+    },
     {
         "tmdb_id": 1380291,
         "media_type": "movie",
