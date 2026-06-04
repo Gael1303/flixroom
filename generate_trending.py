@@ -33,8 +33,8 @@ if not SUPABASE_URL or not SUPABASE_SERVICE_KEY:
 # Trending: cliques na busca (tabela content_views)
 TRENDING_CONFIGS = [
     # (content_type, limit, min_views, arquivo_saída)
-    ("movie", 100, 2, "data/trending_movie.json"),
-    ("tv",    100, 2, "data/trending_tv.json"),
+    ("movie", 250, 2, "data/trending_movie.json"),
+    ("tv",    250, 2, "data/trending_tv.json"),
 ]
 
 # ── Helpers HTTP ──────────────────────────────────────────────────────────────
