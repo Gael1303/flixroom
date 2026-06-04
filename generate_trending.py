@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Gera trending_movie.json, trending_tv.json, watched_movie.json e watched_tv.json
-consultando o Supabase. Rodado pela GitHub Action diariamente.
+Gera trending_movie.json e trending_tv.json consultando o Supabase.
+Rodado pela GitHub Action diariamente.
 Requer a service role key no ambiente.
 
 Uso local:
@@ -35,13 +35,6 @@ TRENDING_CONFIGS = [
     # (content_type, limit, min_views, arquivo_saída)
     ("movie", 100, 5, "data/trending_movie.json"),
     ("tv",    100, 5, "data/trending_tv.json"),
-]
-
-# Watched: assistidos com >= 75% de progresso (tabela content_watched)
-WATCHED_CONFIGS = [
-    # (content_type, limit, min_views, arquivo_saída)
-    ("movie", 100, 2, "data/watched_movie.json"),
-    ("tv",    100, 2, "data/watched_tv.json"),
 ]
 
 # ── Helpers HTTP ──────────────────────────────────────────────────────────────
@@ -101,33 +94,6 @@ def fetch_trending(content_type: str, limit: int, min_views: int) -> list:
     return data
 
 
-def fetch_watched(content_type: str, limit: int, min_views: int) -> list:
-    """
-    Lê da tabela content_watched (assistidos com >= 75% de progresso).
-    """
-    params = urlencode({
-        "select":       "tmdb_id,imdb_id,content_type,view_count,updated_at",
-        "content_type": f"eq.{content_type}",
-        "view_count":   f"gte.{min_views}",
-        "order":        "view_count.desc",
-        "limit":        str(limit),
-    })
-
-    url = f"{SUPABASE_URL}/rest/v1/content_watched?{params}"
-    print(f"  → GET {url}")
-
-    data = _get(url)
-    if data is None:
-        return []
-
-    if not isinstance(data, list):
-        print(f"  ⚠  Resposta inesperada: {type(data)}", file=sys.stderr)
-        return []
-
-    print(f"  ✓  {len(data)} itens recebidos para content_type={content_type}")
-    return data
-
-
 # ── Escrita do JSON ───────────────────────────────────────────────────────────
 
 def write_json(path: str, data: list, content_type: str) -> None:
@@ -155,7 +121,6 @@ def main():
 
     errors = 0
 
-    # ── Trending (cliques na busca) ───────────────────────────────────────────
     print("=" * 60)
     print("📊  TRENDING (Mais Buscados)")
     print("=" * 60)
@@ -168,21 +133,6 @@ def main():
             continue
         write_json(out_path, items, content_type)
 
-    # ── Watched (mais assistidos) ─────────────────────────────────────────────
-    print("\n" + "=" * 60)
-    print("🎬  WATCHED (Mais Assistidos)")
-    print("=" * 60)
-    for content_type, limit, min_views, out_path in WATCHED_CONFIGS:
-        print(f"\n📦  {content_type.upper()} (limit={limit}, min_views={min_views})")
-        items = fetch_watched(content_type, limit, min_views)
-
-        if not items:
-            print(f"  ⚠  Nenhum item retornado para {content_type}. Ignorando.")
-            continue
-
-        write_json(out_path, items, content_type)
-
-    # ── Resultado ─────────────────────────────────────────────────────────────
     print("\n" + "=" * 60)
     if errors:
         print(f"⚠  Concluído com {errors} erro(s).")
