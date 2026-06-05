@@ -1,1 +1,28 @@
-{}
+{
+  "generated_at": "2026-06-05T08:11:31.731711+00:00",
+  "content_type": "tv",
+  "count": 3,
+  "items": [
+    {
+      "tmdb_id": 124364,
+      "imdb_id": "tt9813792",
+      "content_type": "tv",
+      "view_count": 3,
+      "created_at": "2026-06-04T22:18:22.646628"
+    },
+    {
+      "tmdb_id": 220102,
+      "imdb_id": "tt30460310",
+      "content_type": "tv",
+      "view_count": 2,
+      "created_at": "2026-06-04T22:18:12.081137"
+    },
+    {
+      "tmdb_id": 70523,
+      "imdb_id": "tt5753856",
+      "content_type": "tv",
+      "view_count": 2,
+      "created_at": "2026-06-04T21:51:04.185421"
+    }
+  ]
+}

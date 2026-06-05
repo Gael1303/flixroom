@@ -1,1 +1,21 @@
-{}
+{
+  "generated_at": "2026-06-05T08:11:31.064464+00:00",
+  "content_type": "movie",
+  "count": 2,
+  "items": [
+    {
+      "tmdb_id": 693134,
+      "imdb_id": "tt15239678",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-04T22:27:15.948485"
+    },
+    {
+      "tmdb_id": 1327819,
+      "imdb_id": "tt26443616",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-04T21:51:04.185421"
+    }
+  ]
+}
