@@ -1,20 +1,27 @@
 {
-  "generated_at": "2026-06-07T07:58:00.633055+00:00",
+  "generated_at": "2026-06-08T08:58:23.365012+00:00",
   "content_type": "movie",
-  "count": 4,
+  "count": 5,
   "items": [
     {
       "tmdb_id": 1462146,
       "imdb_id": "tt37605896",
       "content_type": "movie",
-      "view_count": 3,
+      "view_count": 5,
       "created_at": "2026-06-06T01:47:31.345994"
+    },
+    {
+      "tmdb_id": 980489,
+      "imdb_id": "tt4495098",
+      "content_type": "movie",
+      "view_count": 5,
+      "created_at": "2026-06-07T22:40:45.543215"
     },
     {
       "tmdb_id": 1327819,
       "imdb_id": "tt26443616",
       "content_type": "movie",
-      "view_count": 2,
+      "view_count": 3,
       "created_at": "2026-06-04T21:51:04.185421"
     },
     {
