@@ -1,5 +1,27 @@
 [
    
+        {
+        "tmdb_id": 931285,
+        "media_type": "movie",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acaff1aadc13f129af63d10d4ed4aedae7827748",
+        "quality": "4K",
+        "extras": [
+            "DUAL AUDIO",
+            "HDR10+",
+            "5.1"
+        ]
+    },
+    {
+        "tmdb_id": 936075,
+        "media_type": "movie",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f72b80be09dab3f2302ed8a18cb5b6bf60b0452",
+        "quality": "4K",
+        "extras": [
+            "DUAL AUDIO",
+            "HDR10+",
+            "5.1"
+        ]
+    },
     {
         "tmdb_id": 1327819,
         "media_type": "movie",
