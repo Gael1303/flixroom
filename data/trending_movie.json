@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-06-14T17:31:53.399350+00:00",
+  "generated_at": "2026-06-15T10:27:47.101812+00:00",
   "content_type": "movie",
-  "count": 24,
+  "count": 57,
   "items": [
+    {
+      "tmdb_id": 1314481,
+      "imdb_id": "tt33612209",
+      "content_type": "movie",
+      "view_count": 10,
+      "created_at": "2026-06-14T14:37:53.368116"
+    },
+    {
+      "tmdb_id": 15515,
+      "imdb_id": "tt0051337",
+      "content_type": "movie",
+      "view_count": 5,
+      "created_at": "2026-06-14T03:37:31.468498"
+    },
+    {
+      "tmdb_id": 936075,
+      "imdb_id": "tt11378946",
+      "content_type": "movie",
+      "view_count": 5,
+      "created_at": "2026-06-14T03:52:51.79186"
+    },
     {
       "tmdb_id": 980489,
       "imdb_id": "tt4495098",
@@ -18,11 +39,18 @@
       "created_at": "2026-06-06T01:47:31.345994"
     },
     {
-      "tmdb_id": 936075,
-      "imdb_id": "tt11378946",
+      "tmdb_id": 11870,
+      "imdb_id": "tt0265298",
       "content_type": "movie",
       "view_count": 4,
-      "created_at": "2026-06-14T03:52:51.79186"
+      "created_at": "2026-06-14T07:34:39.089725"
+    },
+    {
+      "tmdb_id": 1083381,
+      "imdb_id": "tt26657236",
+      "content_type": "movie",
+      "view_count": 4,
+      "created_at": "2026-06-05T02:12:25.271675"
     },
     {
       "tmdb_id": 245891,
@@ -32,11 +60,60 @@
       "created_at": "2026-06-05T18:35:49.587363"
     },
     {
-      "tmdb_id": 15515,
-      "imdb_id": "",
+      "tmdb_id": 454639,
+      "imdb_id": "tt0427340",
       "content_type": "movie",
       "view_count": 3,
-      "created_at": "2026-06-14T03:37:31.468498"
+      "created_at": "2026-06-14T17:46:05.386369"
+    },
+    {
+      "tmdb_id": 11228,
+      "imdb_id": "tt0116040",
+      "content_type": "movie",
+      "view_count": 3,
+      "created_at": "2026-06-14T05:40:51.901612"
+    },
+    {
+      "tmdb_id": 299534,
+      "imdb_id": "tt4154796",
+      "content_type": "movie",
+      "view_count": 3,
+      "created_at": "2026-06-14T20:24:25.857194"
+    },
+    {
+      "tmdb_id": 624479,
+      "imdb_id": "tt0839995",
+      "content_type": "movie",
+      "view_count": 3,
+      "created_at": "2026-06-14T21:13:36.382037"
+    },
+    {
+      "tmdb_id": 603,
+      "imdb_id": "tt0133093",
+      "content_type": "movie",
+      "view_count": 3,
+      "created_at": "2026-06-14T10:02:32.312418"
+    },
+    {
+      "tmdb_id": 299536,
+      "imdb_id": "tt4154756",
+      "content_type": "movie",
+      "view_count": 3,
+      "created_at": "2026-06-14T05:00:07.352783"
+    },
+    {
+      "tmdb_id": 931285,
+      "imdb_id": "tt17490712",
+      "content_type": "movie",
+      "view_count": 3,
+      "created_at": "2026-06-06T17:44:09.084858"
+    },
+    {
+      "tmdb_id": 615453,
+      "imdb_id": "tt10627720",
+      "content_type": "movie",
+      "view_count": 3,
+      "created_at": "2026-06-13T23:20:44.64624"
     },
     {
       "tmdb_id": 1242898,
@@ -44,13 +121,6 @@
       "content_type": "movie",
       "view_count": 3,
       "created_at": "2026-06-06T21:27:12.702626"
-    },
-    {
-      "tmdb_id": 11870,
-      "imdb_id": "tt0265298",
-      "content_type": "movie",
-      "view_count": 3,
-      "created_at": "2026-06-14T07:34:39.089725"
     },
     {
       "tmdb_id": 1228710,
@@ -67,13 +137,6 @@
       "created_at": "2026-06-14T00:40:43.731847"
     },
     {
-      "tmdb_id": 1083381,
-      "imdb_id": "tt26657236",
-      "content_type": "movie",
-      "view_count": 3,
-      "created_at": "2026-06-05T02:12:25.271675"
-    },
-    {
       "tmdb_id": 1327819,
       "imdb_id": "tt26443616",
       "content_type": "movie",
@@ -81,11 +144,193 @@
       "created_at": "2026-06-04T21:51:04.185421"
     },
     {
-      "tmdb_id": 603,
-      "imdb_id": "tt0133093",
+      "tmdb_id": 687163,
+      "imdb_id": "tt12042730",
       "content_type": "movie",
       "view_count": 2,
-      "created_at": "2026-06-14T10:02:32.312418"
+      "created_at": "2026-06-14T18:53:46.689503"
+    },
+    {
+      "tmdb_id": 862,
+      "imdb_id": "tt0114709",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-14T15:47:56.551046"
+    },
+    {
+      "tmdb_id": 1159559,
+      "imdb_id": "tt27047903",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-15T01:40:10.243752"
+    },
+    {
+      "tmdb_id": 6435,
+      "imdb_id": "tt0120791",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-15T01:53:17.386924"
+    },
+    {
+      "tmdb_id": 605,
+      "imdb_id": "tt0242653",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-14T22:45:43.443192"
+    },
+    {
+      "tmdb_id": 1333100,
+      "imdb_id": "tt33175825",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-15T01:32:31.525193"
+    },
+    {
+      "tmdb_id": 83533,
+      "imdb_id": "tt1757678",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-15T01:28:06.599675"
+    },
+    {
+      "tmdb_id": 619730,
+      "imdb_id": "tt10731256",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-15T01:06:42.294571"
+    },
+    {
+      "tmdb_id": 1667198,
+      "imdb_id": "tt41635245",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-14T17:43:56.12508"
+    },
+    {
+      "tmdb_id": 604,
+      "imdb_id": "tt0234215",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-14T22:45:43.443192"
+    },
+    {
+      "tmdb_id": 1390300,
+      "imdb_id": "tt34685692",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-15T00:38:17.592609"
+    },
+    {
+      "tmdb_id": 625518,
+      "imdb_id": "tt7611940",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-15T00:27:35.417131"
+    },
+    {
+      "tmdb_id": 411088,
+      "imdb_id": "tt4857264",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-14T23:49:00.409001"
+    },
+    {
+      "tmdb_id": 1304313,
+      "imdb_id": "tt32612507",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-14T12:50:46.524521"
+    },
+    {
+      "tmdb_id": 24021,
+      "imdb_id": "tt1325004",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-14T23:48:08.883145"
+    },
+    {
+      "tmdb_id": 301528,
+      "imdb_id": "tt1979376",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-14T16:37:27.821361"
+    },
+    {
+      "tmdb_id": 985939,
+      "imdb_id": "tt15325794",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-15T00:19:33.878479"
+    },
+    {
+      "tmdb_id": 501170,
+      "imdb_id": "tt5606664",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-14T22:27:12.216234"
+    },
+    {
+      "tmdb_id": 11453,
+      "imdb_id": "tt0367652",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-07T22:01:54.465033"
+    },
+    {
+      "tmdb_id": 9986,
+      "imdb_id": "tt0413895",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-14T22:38:32.86497"
+    },
+    {
+      "tmdb_id": 614934,
+      "imdb_id": "tt3704428",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-14T21:48:36.009267"
+    },
+    {
+      "tmdb_id": 524047,
+      "imdb_id": "tt7737786",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-14T22:01:08.250683"
+    },
+    {
+      "tmdb_id": 23823,
+      "imdb_id": "tt1261978",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-14T21:57:09.87366"
+    },
+    {
+      "tmdb_id": 8536,
+      "imdb_id": "tt0081573",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-14T20:13:09.522217"
+    },
+    {
+      "tmdb_id": 493529,
+      "imdb_id": "tt2906216",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-14T17:31:58.6668"
+    },
+    {
+      "tmdb_id": 79830,
+      "imdb_id": "tt0065620",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-14T18:03:26.062736"
+    },
+    {
+      "tmdb_id": 10202,
+      "imdb_id": "tt0960731",
+      "content_type": "movie",
+      "view_count": 2,
+      "created_at": "2026-06-14T16:51:18.097403"
     },
     {
       "tmdb_id": 50300,
@@ -109,13 +354,6 @@
       "created_at": "2026-06-12T23:28:05.690689"
     },
     {
-      "tmdb_id": 615453,
-      "imdb_id": "tt10627720",
-      "content_type": "movie",
-      "view_count": 2,
-      "created_at": "2026-06-13T23:20:44.64624"
-    },
-    {
       "tmdb_id": 1439930,
       "imdb_id": "tt36042156",
       "content_type": "movie",
@@ -128,13 +366,6 @@
       "content_type": "movie",
       "view_count": 2,
       "created_at": "2026-06-10T20:00:15.125752"
-    },
-    {
-      "tmdb_id": 931285,
-      "imdb_id": "tt17490712",
-      "content_type": "movie",
-      "view_count": 2,
-      "created_at": "2026-06-06T17:44:09.084858"
     },
     {
       "tmdb_id": 11397,
