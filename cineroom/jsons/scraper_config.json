@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updated_at": "2026-05-28",
+  "version": 4,
+  "updated_at": "2026-06-30",
   "scrapers": {
     "goflixy":          { "base_url": "https://goflixy.lol", "fembed": "https://fembed.sx" },
     "starckfilmes":     { "base_url": "https://www.starckfilmes-v21.com" },
@@ -16,6 +16,7 @@
     "kod":              { "base_url": "https://kod-three.vercel.app/eyJwcm92aWRlcnMiOlsieXRzIiwiZXp0diIsInRwYiIsInRneCIsIjEzMzd4IiwibnlhYSIsInNvbGlkdG9ycmVudHMiLCJydXRvciIsImtpY2thc3MiLCJtYWduZXRkbCIsImtuYWJlbiIsInRoZXJhcmJnIiwibGltZXRvcnJlbnRzIiwiYml0c2VhcmNoIiwiYnQ0ZyIsInRvcmxvY2siLCJ0b3JyZW50ZG93bmxvYWRzIiwiaWRvcGUiLCJ6b29xbGUiLCJ0b3JyZW50ejIiLCJ0b3JyZW50ZnVuayIsImJ0ZGlnIiwidG9ycmVudHNkYiIsInJ1dHJhY2tlciIsImFuaW1ldG9zaG8iLCJzdWJzcGxlYXNlIiwiamFja2V0dCIsInByb3dsYXJyIiwiemlsZWFuIl0sInF1YWxpdHlGaWx0ZXIiOlsiNGsiLCIxMDgwcCIsIjcyMHAiXSwibWluU2VlZGVycyI6Miwic29ydE9yZGVyIjoic2VlZGVycyJ9"},
     "mico-leao":        { "base_url": "https://27a5b2bfe3c0-stremio-brazilian-addon.baby-beamup.club" },
     "froststream":      { "base_url": "https://froststream.cloutteam.com" },
-    "nebulastreams":    { "base_url": "https://hdhub.thevolecitor.qzz.io/eyJ0b3Jib3giOiJ1bnNldCIsInF1YWxpdGllcyI6IjIxNjBwLDEwODBwLDcyMHAiLCJzb3J0IjoiZGVzYyJ9" }
+    "nebulastreams":    { "base_url": "https://hdhub.thevolecitor.qzz.io/eyJ0b3Jib3giOiJ1bnNldCIsInF1YWxpdGllcyI6IjIxNjBwLDEwODBwLDcyMHAiLCJzb3J0IjoiZGVzYyJ9" },
+    "flixstreams":      { "base_url": "https://free.flixnest.app/eNqNUV1vwyAM_C88t1JDKdLyV6bKIsFZWAxkYFKt0_770q-1a_uwJ8s--zjuvgRgzhjYGQJyEwJOc5fBEMUdWMqc0PgMAXkX0yBqTgUXArqECLnt0RtRC7mSeqWlXJ6ul50jxrQcYz6UaS0W4krVGsa3mBxmUb9u_yC9CQEJTucPsAstFYtgbCEWdWcoz1IwmIYQ1NDbvjQXgeepNY4-fWQXwz1yob0neurHv5Zu7LIuYct3Tx4FqvI7fcIBeYyJzz93IfOcAzg7W9w5qKSUutnYalBZ7rXfZFmpj6pbv8uVVkrrRr3MTt-wsfMIXUze8CEl1T_C-xhwxsYUJ2cxAcXW0Lw2JvSu-JM2nsCvC-RYUnuM7ZqK2H7_AH_X1a8" }
   }
 }
