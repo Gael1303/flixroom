@@ -18,7 +18,7 @@
     "froststream":      { "base_url": "https://froststream.cloutteam.com" },
     "nebulastreams":    { "base_url": "https://hdhub.thevolecitor.qzz.io/eyJ0b3Jib3giOiJ1bnNldCIsInF1YWxpdGllcyI6IjIxNjBwLDEwODBwLDcyMHAiLCJzb3J0IjoiZGVzYyJ9" },
     "flixstreams":      { "base_url": "https://bcf125302240-unioflix.baby-beamup.club"},
-    "penguplay":        { "base_url": "https://pengu.uk/%7B%22source_aniwaves%22%3A%22on%22%2C%22source_moviebox%22%3A%22on%22%2C%22source_overflix%22%3A%22on%22%2C%22source_vidking%22%3A%22on%22%2C%22source_animesuge%22%3A%22on%22%2C%22quality_floor%22%3A%22720p%20and%20up%22%7D"},
+    "penguplay":        { "base_url": "https://pengu.uk"},
     "notorrent":        { "base_url": "https://addon.notorrent2.workers.dev" },
     "cotonet":          { "base_url": "https://cotonetnet-cotonet.hf.space" },
     "popplay":          { "base_url": "https://site--popplay--rg2h4m5nr425.code.run" },
